@@ -149,22 +149,22 @@
 | AIH-01487 | Capacity Headroom | AI Infrastructure | MLOps & Engineering | [2018](https://doi.org/10.1109/icdcs.2018.00069) (source only) |
 | AIH-01485 | Capacity Planning | AI Infrastructure | AI Infrastructure | — |
 | AIH-01523 | Capacity Reservation for Spikes | AI Infrastructure | AI Infrastructure | — |
-| AIH-01525 | Catchup | AI Infrastructure | MLOps & Engineering | — |
+| AIH-01525 | Catchup | AI Infrastructure | MLOps & Engineering | [1983](https://doi.org/10.1016/0306-4530(83)90005-7) (source only) |
 | AIH-01563 | Categorical Drift Measure | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00878 | Central Processing Unit (CPU) | AI Infrastructure | Hardware & Compute | [1998](https://doi.org/10.1021/bi981964u) (source only) |
-| AIH-01601 | Champion-Challenger | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01639 | Change Advisory | AI Infrastructure | MLOps & Engineering | — |
+| AIH-01601 | Champion-Challenger | AI Infrastructure | MLOps & Engineering | [2007](https://doi.org/10.1109/secon.2007.342897) (source only) |
+| AIH-01639 | Change Advisory | AI Infrastructure | MLOps & Engineering | [2024](https://doi.org/10.1163/9789004730618_011) (source only) |
 | AIH-01677 | Change Data Capture (CDC) | AI Infrastructure | MLOps & Engineering | — |
 | AIH-01715 | Change Log for Models | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01753 | Chaos Engineering | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01561 | Chargeback | AI Infrastructure | AI Infrastructure | — |
-| AIH-01599 | Chat Endpoint | AI Infrastructure | AI Infrastructure | — |
-| AIH-01637 | Checkpoint | AI Infrastructure | AI Infrastructure | — |
+| AIH-01753 | Chaos Engineering | AI Infrastructure | MLOps & Engineering | [2012](https://doi.org/10.1063/1.4738191) (source only) |
+| AIH-01561 | Chargeback | AI Infrastructure | AI Infrastructure | [1980](https://doi.org/10.1080/03155986.1980.11731797) (source only) |
+| AIH-01599 | Chat Endpoint | AI Infrastructure | AI Infrastructure | [2024](https://doi.org/10.1007/979-8-8688-0116-7_6) (source only) |
+| AIH-01637 | Checkpoint | AI Infrastructure | AI Infrastructure | [1979](https://doi.org/10.1145/322123.322131) (source only) |
 | AIH-00916 | Checkpoint and Resume | AI Infrastructure | Hardware & Compute | — |
 | AIH-01675 | Checkpoint Format | AI Infrastructure | AI Infrastructure | — |
 | AIH-01713 | Checkpoint Resharding | AI Infrastructure | AI Infrastructure | — |
 | AIH-00954 | Chiplet | AI Infrastructure | Hardware & Compute | [2020](https://doi.org/10.1109/vlsi-soc46417.2020.9344081) (source only) |
-| AIH-01751 | Chunked Prefill | AI Infrastructure | AI Infrastructure | — |
+| AIH-01751 | Chunked Prefill | AI Infrastructure | AI Infrastructure | [2026](https://doi.org/10.1016/j.sysarc.2026.104036) (source only) |
 | AIH-01791 | Class Index Mismatch | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00992 | Clock Speed | AI Infrastructure | Hardware & Compute | [1998](https://doi.org/10.1109/mspec.1998.694343) (source only) |
 | AIH-01030 | Cluster Utilization | AI Infrastructure | Hardware & Compute | — |
@@ -173,20 +173,20 @@
 | AIH-01827 | Collective Communication | AI Infrastructure | AI Infrastructure | — |
 | AIH-01106 | Colocation | AI Infrastructure | Hardware & Compute | — |
 | AIH-01829 | Columnar Scan | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01867 | Commitment Risk | AI Infrastructure | MLOps & Engineering | — |
+| AIH-01867 | Commitment Risk | AI Infrastructure | MLOps & Engineering | [2005](https://doi.org/10.3386/w11588) (source only) |
 | AIH-01905 | Communication During Incidents | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01865 | Communication-Computation Overlap | AI Infrastructure | AI Infrastructure | — |
-| AIH-01943 | Compaction | AI Infrastructure | MLOps & Engineering | — |
+| AIH-01865 | Communication-Computation Overlap | AI Infrastructure | AI Infrastructure | [1994](https://doi.org/10.1007/3-540-58430-7_62) (source only) |
+| AIH-01943 | Compaction | AI Infrastructure | MLOps & Engineering | [1965](https://doi.org/10.1520/stp44590s) (source only) |
 | AIH-01981 | Compensating Control | AI Infrastructure | MLOps & Engineering | — |
 | AIH-01144 | Compiler Backend for Accelerators | AI Infrastructure | Hardware & Compute | — |
 | AIH-02019 | Completeness Check | AI Infrastructure | MLOps & Engineering | — |
 | AIH-01903 | Completion Endpoint | AI Infrastructure | AI Infrastructure | — |
 | AIH-01941 | Completion Token | AI Infrastructure | AI Infrastructure | — |
 | AIH-01182 | Compute Capability | AI Infrastructure | Hardware & Compute | [2022](https://doi.org/10.1109/iscas48785.2022.9937848) (source only) |
-| AIH-01979 | Compute Efficiency | AI Infrastructure | AI Infrastructure | — |
+| AIH-01979 | Compute Efficiency | AI Infrastructure | AI Infrastructure | [2015](https://doi.org/10.2991/icismme-15.2015.224) (source only) |
 | AIH-01220 | Compute Efficiency Frontier | AI Infrastructure | Hardware & Compute | — |
 | AIH-01258 | Compute Scarcity | AI Infrastructure | Hardware & Compute | — |
-| AIH-02017 | Compute Time | AI Infrastructure | AI Infrastructure | — |
+| AIH-02017 | Compute Time | AI Infrastructure | AI Infrastructure | [2008](https://doi.org/10.1109/fpt.2008.4762389) (source only) |
 | AIH-01296 | Compute-to-Memory Ratio | AI Infrastructure | Hardware & Compute | — |
 | AIH-02057 | Config Override | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02055 | Configuration Drift | AI Infrastructure | AI Infrastructure | — |
@@ -197,16 +197,16 @@
 | AIH-02169 | Container Image | AI Infrastructure | AI Infrastructure | — |
 | AIH-02207 | Container Registry | AI Infrastructure | AI Infrastructure | — |
 | AIH-01334 | Container Runtime | AI Infrastructure | Hardware & Compute | [2017](https://doi.org/10.1109/cscloud.2017.68) (source only) |
-| AIH-02245 | Containerization | AI Infrastructure | AI Infrastructure | — |
+| AIH-02245 | Containerization | AI Infrastructure | AI Infrastructure | [1976](https://doi.org/10.4271/760297) (source only) |
 | AIH-02283 | Content Delivery Network (CDN) | AI Infrastructure | AI Infrastructure | — |
 | AIH-02321 | Context Cache Lifetime | AI Infrastructure | AI Infrastructure | — |
 | AIH-02359 | Context Parallelism (CP) | AI Infrastructure | AI Infrastructure | — |
 | AIH-02397 | Continuous Batching | AI Infrastructure | AI Infrastructure | — |
 | AIH-02171 | Continuous Drift Measure | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02209 | Continuous Training (CT) | AI Infrastructure | MLOps & Engineering | — |
-| AIH-02247 | Control Gap | AI Infrastructure | MLOps & Engineering | — |
+| AIH-02247 | Control Gap | AI Infrastructure | MLOps & Engineering | [2008](https://doi.org/10.1515/9781400828326-008) (source only) |
 | AIH-01372 | Core Count | AI Infrastructure | Hardware & Compute | [2016](https://doi.org/10.1109/phosst.2016.7548812) (source only) |
-| AIH-02285 | Corrective Control | AI Infrastructure | MLOps & Engineering | — |
+| AIH-02285 | Corrective Control | AI Infrastructure | MLOps & Engineering | [1983](https://doi.org/10.1016/s1474-6670(17)62679-x) (source only) |
 | AIH-02323 | Correlation ID | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02435 | Cost Anomaly Detection | AI Infrastructure | AI Infrastructure | — |
 | AIH-02361 | Cost Attribution Tagging | AI Infrastructure | MLOps & Engineering | — |
@@ -256,16 +256,16 @@
 | AIH-03043 | Deployment Freeze | AI Infrastructure | AI Infrastructure | — |
 | AIH-03341 | Deployment Gate | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03080 | Deployment Manifest | AI Infrastructure | AI Infrastructure | — |
-| AIH-01524 | Depreciation Schedule | AI Infrastructure | Hardware & Compute | — |
+| AIH-01524 | Depreciation Schedule | AI Infrastructure | Hardware & Compute | [1983](https://doi.org/10.5791/0882-2875-2.3.14) (source only) |
 | AIH-03378 | Derived Data Inventory | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03415 | Design Review | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03451 | Detective Control | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03117 | Deterministic Training | AI Infrastructure | AI Infrastructure | — |
-| AIH-01562 | Device Driver | AI Infrastructure | Hardware & Compute | — |
-| AIH-01600 | Device Plugin | AI Infrastructure | Hardware & Compute | — |
+| AIH-01562 | Device Driver | AI Infrastructure | Hardware & Compute | [1980](https://doi.org/10.1002/spe.4380100304) (source only) |
+| AIH-01600 | Device Plugin | AI Infrastructure | Hardware & Compute | [2023](https://doi.org/10.1109/icpeca56706.2023.10076221) (source only) |
 | AIH-01638 | Die | AI Infrastructure | Hardware & Compute | — |
 | AIH-03154 | Digital Signal Processor (DSP) | AI Infrastructure | AI Infrastructure | — |
-| AIH-01676 | Direct Memory Access (DMA) | AI Infrastructure | Hardware & Compute | — |
+| AIH-01676 | Direct Memory Access (DMA) | AI Infrastructure | Hardware & Compute | [1983](https://doi.org/10.1063/1.1137353) (source only) |
 | AIH-03487 | Directional Expectation Test | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03523 | Directional Test for Models | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03191 | Disaggregated Serving | AI Infrastructure | AI Infrastructure | — |
@@ -275,13 +275,13 @@
 | AIH-03302 | Distributed Training | AI Infrastructure | AI Infrastructure | — |
 | AIH-03339 | Docker | AI Infrastructure | AI Infrastructure | — |
 | AIH-03595 | Documentation Requirement | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01714 | Double Buffering | AI Infrastructure | Hardware & Compute | — |
+| AIH-01714 | Double Buffering | AI Infrastructure | Hardware & Compute | [1982](https://doi.org/10.1093/comjnl/25.2.227) (source only) |
 | AIH-01752 | DPU | AI Infrastructure | Hardware & Compute | — |
 | AIH-03376 | Draft Model | AI Infrastructure | AI Infrastructure | — |
 | AIH-01790 | Dragonfly Topology | AI Infrastructure | Hardware & Compute | — |
 | AIH-03631 | Drift Metric Selection | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03413 | Dynamic Batching | AI Infrastructure | AI Infrastructure | — |
-| AIH-01828 | Dynamic Range | AI Infrastructure | Hardware & Compute | — |
+| AIH-01828 | Dynamic Range | AI Infrastructure | Hardware & Compute | [2006](https://doi.org/10.1016/b978-0-12-585263-0.x5000-3) (source only) |
 | AIH-01866 | Dynamic Voltage and Frequency Scaling (DVFS) | AI Infrastructure | Hardware & Compute | — |
 | AIH-01904 | Edge Accelerator | AI Infrastructure | Hardware & Compute | — |
 | AIH-03449 | Edge AI | AI Infrastructure | AI Infrastructure | — |
@@ -307,19 +307,19 @@
 | AIH-04132 | Evaluation Report | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04167 | Event Time vs Processing Time | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04202 | Exactly-Once Processing | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01980 | Exascale Computing | AI Infrastructure | Hardware & Compute | — |
+| AIH-01980 | Exascale Computing | AI Infrastructure | Hardware & Compute | [2007](https://doi.org/10.2172/1020814) (source only) |
 | AIH-04237 | Experiment Duration | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04272 | Experiment Metadata | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04306 | Experiment Registry | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04339 | Explanation Retention | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02018 | Extreme Ultraviolet Lithography (EUV) | AI Infrastructure | Hardware & Compute | — |
-| AIH-02056 | Fabless Design | AI Infrastructure | Hardware & Compute | — |
+| AIH-02056 | Fabless Design | AI Infrastructure | Hardware & Compute | [2014](https://doi.org/10.1109/rfic.2014.6851637) (source only) |
 | AIH-04372 | Failure Mode Taxonomy | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02094 | Fair Share Scheduling | AI Infrastructure | Hardware & Compute | — |
 | AIH-04405 | Fairness Regression Test | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03665 | Fallback Chain | AI Infrastructure | AI Infrastructure | — |
 | AIH-02132 | Fallback to CPU | AI Infrastructure | Hardware & Compute | — |
-| AIH-02170 | Fat Tree Topology | AI Infrastructure | Hardware & Compute | — |
+| AIH-02170 | Fat Tree Topology | AI Infrastructure | Hardware & Compute | [2008](https://doi.org/10.1109/icpads.2008.44) (source only) |
 | AIH-03701 | Fault Tolerance in Training | AI Infrastructure | AI Infrastructure | — |
 | AIH-03737 | Feature Flag | AI Infrastructure | AI Infrastructure | — |
 | AIH-03773 | Feature Gate | AI Infrastructure | AI Infrastructure | — |
@@ -331,7 +331,7 @@
 | AIH-02208 | Firmware | AI Infrastructure | Hardware & Compute | — |
 | AIH-03845 | First Token Latency Target | AI Infrastructure | AI Infrastructure | — |
 | AIH-04570 | Flaky Test | AI Infrastructure | MLOps & Engineering | — |
-| AIH-02246 | Floating-Point Format | AI Infrastructure | Hardware & Compute | — |
+| AIH-02246 | Floating-Point Format | AI Infrastructure | Hardware & Compute | [1972](https://doi.org/10.1145/641528.641530) (source only) |
 | AIH-02284 | Flush to Zero | AI Infrastructure | Hardware & Compute | — |
 | AIH-02322 | Foundry | AI Infrastructure | Hardware & Compute | — |
 | AIH-04603 | Freshness Check | AI Infrastructure | MLOps & Engineering | — |

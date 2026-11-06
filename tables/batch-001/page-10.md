@@ -7,32 +7,32 @@
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-01503 | Deep Image Prior (DIP) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-01541 | Dereverberation | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-01579 | Dictionary Compression | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-01541 | Dereverberation | Signal & Information Theory | Signal & Information Theory | [1986](https://doi.org/10.3997/1365-2397.1986022) (source only) |
+| AIH-01579 | Dictionary Compression | Signal & Information Theory | Signal & Information Theory | [1992](https://doi.org/10.1016/s1018-3639(18)30559-2) (source only) |
 | AIH-01617 | Differential Entropy | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-01655 | Directed Information | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-01693 | Discrete Wavelet Transform (DWT) | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-01655 | Directed Information | Signal & Information Theory | Signal & Information Theory | [2005](https://doi.org/10.1109/isit.2005.1523313) (source only) |
+| AIH-01693 | Discrete Wavelet Transform (DWT) | Signal & Information Theory | Signal & Information Theory | [2003](https://doi.org/10.1142/9789812796769_0010) (source only) |
 | AIH-01731 | Dithering | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-01769 | Downsampling | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-01807 | Echo Cancellation (AEC) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-01845 | Entropy Coding | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-01883 | Envelope Detection | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-01807 | Echo Cancellation (AEC) | Signal & Information Theory | Signal & Information Theory | [2014](https://doi.org/10.19026/rjaset.8.1077) (source only) |
+| AIH-01845 | Entropy Coding | Signal & Information Theory | Signal & Information Theory | [1996](https://doi.org/10.1109/dcc.1996.488366) (source only) |
+| AIH-01883 | Envelope Detection | Signal & Information Theory | Signal & Information Theory | [1965](https://doi.org/10.1049/el:19650116) (source only) |
 | AIH-01921 | Erasure Code | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-01959 | Error-Correcting Code | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-01997 | Excess Entropy | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-02035 | Fast Fourier Transform (FFT) | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-02073 | Filter Bank | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-02111 | Finite Impulse Response Filter (FIR) | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-02111 | Finite Impulse Response Filter (FIR) | Signal & Information Theory | Signal & Information Theory | [1997](https://doi.org/10.1016/s0963-8695(97)87313-6) (source only) |
 | AIH-02149 | Fisher-Rao Metric | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-02187 | Formant | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-02225 | Frame | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-02225 | Frame | Signal & Information Theory | Signal & Information Theory | [2023](https://doi.org/10.1302/3114-230085) (source only) |
 | AIH-02263 | Fundamental Frequency | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-02301 | Griffin-Lim Algorithm | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-02339 | Group Delay | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-02339 | Group Delay | Signal & Information Theory | Signal & Information Theory | [1986](https://doi.org/10.1117/12.976219) (source only) |
 | AIH-02377 | Hamming Code | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-02415 | Hamming Distance | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-02453 | Hann Window | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-02491 | Harmonic | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-02491 | Harmonic | Signal & Information Theory | Signal & Information Theory | [1989](https://doi.org/10.1007/978-1-4612-3548-4_12) (source only) |
 | AIH-02529 | High-Pass Filter | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-02567 | Hilbert Transform | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-02605 | Hop Size | Signal & Information Theory | Signal & Information Theory | — |
@@ -143,30 +143,30 @@
 | AIH-01390 | Call Center Automation | Speech & Audio | Speech & Audio | — |
 | AIH-01428 | Cascaded Speech Translation | Speech & Audio | Speech & Audio | — |
 | AIH-01466 | Character Error Rate (CER) | Speech & Audio | Speech & Audio | — |
-| AIH-01504 | Chord Recognition | Speech & Audio | Speech & Audio | — |
-| AIH-01542 | Code-Switched Speech Recognition | Speech & Audio | Speech & Audio | — |
+| AIH-01504 | Chord Recognition | Speech & Audio | Speech & Audio | [1982](https://doi.org/10.1016/0028-3932(82)90109-9) (source only) |
+| AIH-01542 | Code-Switched Speech Recognition | Speech & Audio | Speech & Audio | [2018](https://doi.org/10.18653/v1/w18-3202) (source only) |
 | AIH-01580 | Compliance Monitoring in Calls | Speech & Audio | Speech & Audio | — |
 | AIH-01618 | Confidence Score in Recognition | Speech & Audio | Speech & Audio | — |
 | AIH-01656 | Context Window in Speech | Speech & Audio | Speech & Audio | — |
-| AIH-01694 | Conversational Latency | Speech & Audio | Speech & Audio | — |
-| AIH-01732 | Cover Song Detection | Speech & Audio | Speech & Audio | — |
+| AIH-01694 | Conversational Latency | Speech & Audio | Speech & Audio | [2025](https://doi.org/10.1044/2025_jslhr-24-00053) (source only) |
+| AIH-01732 | Cover Song Detection | Speech & Audio | Speech & Audio | [2010](https://doi.org/10.1109/icassp.2010.5496214) (source only) |
 | AIH-01770 | Curriculum for Speech | Speech & Audio | Speech & Audio | — |
 | AIH-01808 | D-Vector | Speech & Audio | Speech & Audio | — |
 | AIH-01846 | Dialect Robustness | Speech & Audio | Speech & Audio | — |
-| AIH-01884 | Direction of Arrival (DOA) | Speech & Audio | Speech & Audio | — |
-| AIH-01922 | Disfluency Removal | Speech & Audio | Speech & Audio | — |
-| AIH-01960 | Double Talk | Speech & Audio | Speech & Audio | — |
-| AIH-01998 | Dubbing | Speech & Audio | Speech & Audio | — |
-| AIH-02036 | Dysarthria | Speech & Audio | Speech & Audio | — |
+| AIH-01884 | Direction of Arrival (DOA) | Speech & Audio | Speech & Audio | [2004](https://doi.org/10.1016/j.sigpro.2003.12.003) (source only) |
+| AIH-01922 | Disfluency Removal | Speech & Audio | Speech & Audio | [2010](https://doi.org/10.1109/icassp.2010.5494999) (source only) |
+| AIH-01960 | Double Talk | Speech & Audio | Speech & Audio | [1951](https://doi.org/10.1111/j.1949-8594.1951.tb13724.x) (source only) |
+| AIH-01998 | Dubbing | Speech & Audio | Speech & Audio | [2000](https://doi.org/10.1080/02500160008537894) (source only) |
+| AIH-02036 | Dysarthria | Speech & Audio | Speech & Audio | [1959](https://doi.org/10.4159/harvard.9780674367494.c5) (source only) |
 | AIH-02074 | Emotional Speech Synthesis | Speech & Audio | Speech & Audio | — |
 | AIH-02112 | End-to-End Speech Translation | Speech & Audio | Speech & Audio | — |
 | AIH-02150 | Endpointing | Speech & Audio | Speech & Audio | — |
 | AIH-02188 | False Accept Rate | Speech & Audio | Speech & Audio | — |
-| AIH-02226 | False Reject Rate | Speech & Audio | Speech & Audio | — |
+| AIH-02226 | False Reject Rate | Speech & Audio | Speech & Audio | [2011](https://doi.org/10.6028/nist.ir.7752) (source only) |
 | AIH-02264 | Far-Field Speech | Speech & Audio | Speech & Audio | — |
 | AIH-02302 | Filterbank Energy | Speech & Audio | Speech & Audio | — |
 | AIH-02340 | Frame Rate in Speech | Speech & Audio | Speech & Audio | — |
-| AIH-02378 | Full-Duplex Conversation | Speech & Audio | Speech & Audio | — |
+| AIH-02378 | Full-Duplex Conversation | Speech & Audio | Speech & Audio | [2025](https://doi.org/10.52202/085713-0829) (source only) |
 | AIH-02416 | Genre Classification | Speech & Audio | Speech & Audio | — |
 | AIH-02454 | Hallucinated Transcription | Speech & Audio | Speech & Audio | — |
 | AIH-02492 | Head-Related Transfer Function (HRTF) | Speech & Audio | Speech & Audio | — |
@@ -281,30 +281,30 @@
 | AIH-01429 | Forecast Horizon | Time Series & Forecasting | Time Series & Forecasting | [1988](https://doi.org/10.1016/0167-6377(88)90040-5) (source only) |
 | AIH-01467 | Forecast Origin | Time Series & Forecasting | Time Series & Forecasting | [2016](https://doi.org/10.1016/j.jeca.2016.07.006) (source only) |
 | AIH-01505 | Forecast Override | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-01543 | Forecast Reconciliation | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-01581 | Forecast Revision | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-01543 | Forecast Reconciliation | Time Series & Forecasting | Time Series & Forecasting | [2018](https://doi.org/10.1109/pvsc.2018.8547846) (source only) |
+| AIH-01581 | Forecast Revision | Time Series & Forecasting | Time Series & Forecasting | [1979](https://doi.org/10.2307/2490508) (source only) |
 | AIH-01619 | Forecast Stability | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-01657 | Forecast Value Added (FVA) | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-01695 | Fourier Term | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-01657 | Forecast Value Added (FVA) | Time Series & Forecasting | Time Series & Forecasting | [2015](https://openalex.org/W1937297273) (source only) |
+| AIH-01695 | Fourier Term | Time Series & Forecasting | Time Series & Forecasting | [1997](https://doi.org/10.1016/s0301-0104(97)00095-5) (source only) |
 | AIH-01733 | Global Forecasting Model | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-01771 | Hidden Markov Model for Series | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-01809 | Hierarchical Forecasting | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-01847 | Holiday Effect | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-01847 | Holiday Effect | Time Series & Forecasting | Time Series & Forecasting | [1987](https://doi.org/10.1037/e730542011-001) (source only) |
 | AIH-01885 | Holt's Linear Trend | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-01923 | Holt-Winters Method | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-01961 | Impulse Response Function | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-01999 | Intermittent Demand | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-02037 | Intervention Analysis | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-01999 | Intermittent Demand | Time Series & Forecasting | Time Series & Forecasting | [2009](https://doi.org/10.1109/icicta.2009.249) (source only) |
+| AIH-02037 | Intervention Analysis | Time Series & Forecasting | Time Series & Forecasting | [2018](https://doi.org/10.1515/energyo.0107.00002) (source only) |
 | AIH-02075 | Irregular Sampling | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-02113 | Judgmental Forecasting | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-02151 | Lag Feature | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-02151 | Lag Feature | Time Series & Forecasting | Time Series & Forecasting | [2025](https://doi.org/10.1016/j.energy.2025.137981) (source only) |
 | AIH-02189 | Leading Indicator | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-02227 | Level Shift | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-02265 | Load Forecasting | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-02303 | Local Forecasting Model | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-02341 | Local Level Model | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-02379 | Look-Ahead Bias | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-02417 | Lumpy Demand | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-02341 | Local Level Model | Time Series & Forecasting | Time Series & Forecasting | [1993](https://doi.org/10.1017/s0266466600007726) (source only) |
+| AIH-02379 | Look-Ahead Bias | Time Series & Forecasting | Time Series & Forecasting | [2001](https://doi.org/10.1016/s0927-5398(01)00032-9) (source only) |
+| AIH-02417 | Lumpy Demand | Time Series & Forecasting | Time Series & Forecasting | [1982](https://doi.org/10.1057/jors.1982.32) (source only) |
 | AIH-02455 | Matrix Profile | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-02493 | Mean Absolute Percentage Error (MAPE) | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-02531 | Mean Absolute Scaled Error (MASE) | Time Series & Forecasting | Time Series & Forecasting | — |
@@ -405,32 +405,32 @@
 | AIH-01392 | Dagster | Tools & Frameworks | Tools & Frameworks | [2026](https://doi.org/10.21105/joss.07695) (source only) |
 | AIH-01430 | Darts | Tools & Frameworks | Tools & Frameworks | [1983](https://doi.org/10.2514/6.1983-324) (source only) |
 | AIH-01468 | Dash | Tools & Frameworks | Tools & Frameworks | [2020](https://doi.org/10.7490/f1000research.1118085.1) (source only) |
-| AIH-01506 | Dask | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-01544 | Databricks | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-01506 | Dask | Tools & Frameworks | Tools & Frameworks | [2015](https://doi.org/10.25080/majora-7b98e3ed-013) (source only) |
+| AIH-01544 | Databricks | Tools & Frameworks | Tools & Frameworks | [2020](https://doi.org/10.1007/978-1-4842-5781-4_2) (source only) |
 | AIH-01582 | Deep Graph Library (DGL) | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-01620 | Deepchecks | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-01658 | DeepSpeed | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-01696 | Delta Lake | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-01734 | Detectron2 | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-01620 | Deepchecks | Tools & Frameworks | Tools & Frameworks | [2022](https://doi.org/10.48550/arxiv.2203.08491) (source only) |
+| AIH-01658 | DeepSpeed | Tools & Frameworks | Tools & Frameworks | [2020](https://doi.org/10.1145/3394486.3406703) (source only) |
+| AIH-01696 | Delta Lake | Tools & Frameworks | Tools & Frameworks | [1984](https://doi.org/10.1016/0025-326x(84)90258-3) (source only) |
+| AIH-01734 | Detectron2 | Tools & Frameworks | Tools & Frameworks | [2020](https://doi.org/10.1109/bigdata50022.2020.9378027) (source only) |
 | AIH-01772 | Diffusers | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-01810 | DuckDB | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-01848 | DVC | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-01886 | Elasticsearch | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-01886 | Elasticsearch | Tools & Frameworks | Tools & Frameworks | [2013](https://doi.org/10.1109/icnc.2013.6818154) (source only) |
 | AIH-01924 | Equinox | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-01962 | Evidently | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02000 | Fairlearn | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-02000 | Fairlearn | Tools & Frameworks | Tools & Frameworks | [2023](https://doi.org/10.5040/bci-0kh8.ch-008) (source only) |
 | AIH-02038 | FairScale | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-02076 | FAISS | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-02114 | Feast | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-02152 | Fireworks AI | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-02190 | Flax | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02228 | Flower Framework | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02266 | Foolbox | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-02228 | Flower Framework | Tools & Frameworks | Tools & Frameworks | [2023](https://doi.org/10.3390/cryptography7040048) (source only) |
+| AIH-02266 | Foolbox | Tools & Frameworks | Tools & Frameworks | [2020](https://doi.org/10.21105/joss.02607) (source only) |
 | AIH-02304 | Gazebo | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-02342 | Gensim | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02380 | GGUF | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02418 | GluonTS | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02456 | Google Colab | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-02380 | GGUF | Tools & Frameworks | Tools & Frameworks | [2025](https://doi.org/10.2139/ssrn.5044207) (source only) |
+| AIH-02418 | GluonTS | Tools & Frameworks | Tools & Frameworks | [2023](https://doi.org/10.1109/conisoft58849.2023.00041) (source only) |
+| AIH-02456 | Google Colab | Tools & Frameworks | Tools & Frameworks | [2020](https://doi.org/10.1109/tensymp50017.2020.9230789) (source only) |
 | AIH-02494 | Gradio | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-02532 | Graph-tool | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-02570 | Great Expectations | Tools & Frameworks | Tools & Frameworks | — |

@@ -6,7 +6,7 @@
 
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
-| AIH-02203 | Beam Width | Mathematics | Mathematics & Statistics | — |
+| AIH-02203 | Beam Width | Mathematics | Mathematics & Statistics | [1957](https://doi.org/10.1038/180496a0) (source only) |
 | AIH-02241 | Bellman-Ford Algorithm | Mathematics | Mathematics & Statistics | — |
 | AIH-00836 | Benders Decomposition | Mathematics | Optimization | — |
 | AIH-02279 | Benjamini-Hochberg Procedure (BH) | Mathematics | Mathematics & Statistics | — |
@@ -14,13 +14,13 @@
 | AIH-00609 | Bernoulli Distribution | Mathematics | Probabilistic Methods | [2003](https://doi.org/10.1002/0471722227.ch4) (source only) |
 | AIH-00647 | Bernstein Inequality | Mathematics | Probabilistic Methods | [1986](https://doi.org/10.1007/bf01909364) (source only) |
 | AIH-00874 | Best Arm Identification | Mathematics | Optimization | — |
-| AIH-02355 | Best-First Search | Mathematics | Mathematics & Statistics | — |
+| AIH-02355 | Best-First Search | Mathematics | Mathematics & Statistics | [1993](https://doi.org/10.1016/0004-3702(93)90045-d) (source only) |
 | AIH-00685 | Beta Distribution | Mathematics | Probabilistic Methods | [1955](https://doi.org/10.1214/aoms/1177728424) (source only) |
-| AIH-02393 | Betweenness Centrality | Mathematics | Mathematics & Statistics | — |
-| AIH-02431 | Bezier Curve | Mathematics | Mathematics & Statistics | — |
+| AIH-02393 | Betweenness Centrality | Mathematics | Mathematics & Statistics | [2009](https://doi.org/10.1109/icpp.2009.53) (source only) |
+| AIH-02431 | Bezier Curve | Mathematics | Mathematics & Statistics | [1990](https://doi.org/10.1016/0031-3203(90)90068-v) (source only) |
 | AIH-00912 | BFGS | Mathematics | Optimization | — |
 | AIH-00723 | Bias of an Estimator | Mathematics | Probabilistic Methods | [2007](https://doi.org/10.1002/9780470061572.eqr171) (source only) |
-| AIH-02469 | Bias-Corrected Bootstrap | Mathematics | Mathematics & Statistics | — |
+| AIH-02469 | Bias-Corrected Bootstrap | Mathematics | Mathematics & Statistics | [1997](https://doi.org/10.1080/10485259708832716) (source only) |
 | AIH-02507 | Bidiagonalization | Mathematics | Mathematics & Statistics | — |
 | AIH-02545 | Bidirectional Search | Mathematics | Mathematics & Statistics | — |
 | AIH-00950 | Big-M Formulation | Mathematics | Optimization | — |
@@ -130,63 +130,63 @@
 | AIH-01483 | Consistency | Mathematics | Probabilistic Methods | [1915](https://doi.org/10.7312/reis92604-002) (source only) |
 | AIH-01444 | Constraint | Mathematics | Optimization | — |
 | AIH-01482 | Constraint Tightening | Mathematics | Optimization | [2006](https://doi.org/10.1109/acc.2006.1656440) (source only) |
-| AIH-01520 | Contextual Bandit | Mathematics | Optimization | — |
-| AIH-01558 | Convergence Criterion | Mathematics | Optimization | — |
-| AIH-01596 | Convex Relaxation | Mathematics | Optimization | — |
-| AIH-01634 | Coordinate Descent | Mathematics | Optimization | — |
-| AIH-01521 | Copula | Mathematics | Probabilistic Methods | — |
-| AIH-01672 | Cosine Annealing | Mathematics | Optimization | — |
-| AIH-01559 | Covariance Function | Mathematics | Probabilistic Methods | — |
-| AIH-01597 | Coverage Guarantee | Mathematics | Probabilistic Methods | — |
+| AIH-01520 | Contextual Bandit | Mathematics | Optimization | [2010](https://doi.org/10.48550/arxiv.1002.4058) (source only) |
+| AIH-01558 | Convergence Criterion | Mathematics | Optimization | [1928](https://doi.org/10.1007/bf01181186) (source only) |
+| AIH-01596 | Convex Relaxation | Mathematics | Optimization | [2010](https://doi.org/10.1090/fim/027/09) (source only) |
+| AIH-01634 | Coordinate Descent | Mathematics | Optimization | [1996](https://doi.org/10.1007/978-3-642-99789-1_25) (source only) |
+| AIH-01521 | Copula | Mathematics | Probabilistic Methods | [2010](https://doi.org/10.1142/9789814299886_0006) (source only) |
+| AIH-01672 | Cosine Annealing | Mathematics | Optimization | [2022](https://doi.org/10.1007/978-3-031-11488-5_5) (source only) |
+| AIH-01559 | Covariance Function | Mathematics | Probabilistic Methods | [1973](https://doi.org/10.1111/j.1365-246x.1973.tb03424.x) (source only) |
+| AIH-01597 | Coverage Guarantee | Mathematics | Probabilistic Methods | [2007](https://openalex.org/W14315322) (source only) |
 | AIH-01635 | Cramér-Rao Bound (CRLB) | Mathematics | Probabilistic Methods | — |
 | AIH-01673 | Credible Interval | Mathematics | Probabilistic Methods | — |
-| AIH-01710 | Critical Batch Size | Mathematics | Optimization | — |
-| AIH-01711 | Cumulant | Mathematics | Probabilistic Methods | — |
-| AIH-01749 | Cumulative Distribution Function (CDF) | Mathematics | Probabilistic Methods | — |
+| AIH-01710 | Critical Batch Size | Mathematics | Optimization | [2025](https://doi.org/10.52202/085713-3898) (source only) |
+| AIH-01711 | Cumulant | Mathematics | Probabilistic Methods | [1969](https://doi.org/10.2151/jmsj1965.47.5_373) (source only) |
+| AIH-01749 | Cumulative Distribution Function (CDF) | Mathematics | Probabilistic Methods | [1994](https://doi.org/10.1080/00103629409369098) (source only) |
 | AIH-01748 | Curvature Estimation | Mathematics | Optimization | — |
-| AIH-01786 | Cutting Plane | Mathematics | Optimization | — |
+| AIH-01786 | Cutting Plane | Mathematics | Optimization | [1969](https://doi.org/10.21236/ad0694457) (source only) |
 | AIH-01824 | Cyclical Learning Rate | Mathematics | Optimization | — |
 | AIH-01787 | D-Separation | Mathematics | Probabilistic Methods | — |
-| AIH-01862 | Damping Parameter | Mathematics | Optimization | — |
-| AIH-01900 | Dantzig-Wolfe Decomposition | Mathematics | Optimization | — |
+| AIH-01862 | Damping Parameter | Mathematics | Optimization | [1973](https://doi.org/10.2514/3.6733) (source only) |
+| AIH-01900 | Dantzig-Wolfe Decomposition | Mathematics | Optimization | [1968](https://doi.org/10.2307/3008707) (source only) |
 | AIH-01938 | Decision Variable | Mathematics | Optimization | — |
 | AIH-01976 | Decoupled Weight Decay | Mathematics | Optimization | — |
-| AIH-01825 | Deep Ensemble | Mathematics | Probabilistic Methods | — |
+| AIH-01825 | Deep Ensemble | Mathematics | Probabilistic Methods | [2020](https://doi.org/10.35543/osf.io/re94u) (source only) |
 | AIH-01863 | Delta Method | Mathematics | Probabilistic Methods | — |
-| AIH-02014 | Derivative-Free Optimization | Mathematics | Optimization | — |
+| AIH-02014 | Derivative-Free Optimization | Mathematics | Optimization | [2004](https://doi.org/10.2172/974891) (source only) |
 | AIH-02052 | Descent Direction | Mathematics | Optimization | — |
-| AIH-01901 | Detailed Balance | Mathematics | Probabilistic Methods | — |
-| AIH-02090 | Diagonal Preconditioning | Mathematics | Optimization | — |
+| AIH-01901 | Detailed Balance | Mathematics | Probabilistic Methods | [1951](https://doi.org/10.1103/physrev.84.1259) (source only) |
+| AIH-02090 | Diagonal Preconditioning | Mathematics | Optimization | [1993](https://doi.org/10.1080/10637199308915437) (source only) |
 | AIH-01939 | Diffusion Process | Mathematics | Probabilistic Methods | — |
-| AIH-01977 | Dirichlet Distribution | Mathematics | Probabilistic Methods | — |
-| AIH-02015 | Dirichlet Process | Mathematics | Probabilistic Methods | — |
+| AIH-01977 | Dirichlet Distribution | Mathematics | Probabilistic Methods | [1973](https://doi.org/10.1214/aos/1176342429) (source only) |
+| AIH-02015 | Dirichlet Process | Mathematics | Probabilistic Methods | [1979](https://doi.org/10.21236/ada074698) (source only) |
 | AIH-02128 | Distributionally Robust Optimization | Mathematics | Optimization | — |
 | AIH-02166 | Divergence in Training | Mathematics | Optimization | — |
-| AIH-02204 | Diversification | Mathematics | Optimization | — |
-| AIH-02242 | Dogleg Method | Mathematics | Optimization | — |
+| AIH-02204 | Diversification | Mathematics | Optimization | [1989](https://doi.org/10.1016/0301-4215(89)90047-5) (source only) |
+| AIH-02242 | Dogleg Method | Mathematics | Optimization | [1981](https://doi.org/10.1016/0098-1354(81)85003-x) (source only) |
 | AIH-02280 | Dual Averaging | Mathematics | Optimization | — |
 | AIH-02318 | Duality Certificate | Mathematics | Optimization | — |
-| AIH-02356 | Duality Gap | Mathematics | Optimization | — |
+| AIH-02356 | Duality Gap | Mathematics | Optimization | [1965](https://doi.org/10.1287/mnsc.12.1.122) (source only) |
 | AIH-02394 | Dynamic Loss Scaling | Mathematics | Optimization | — |
-| AIH-02432 | Edge of Stability | Mathematics | Optimization | — |
+| AIH-02432 | Edge of Stability | Mathematics | Optimization | [1980](https://doi.org/10.2307/3965208) (source only) |
 | AIH-02053 | Edward | Mathematics | Probabilistic Methods | — |
 | AIH-02091 | Effective Sample Size (ESS) | Mathematics | Probabilistic Methods | — |
 | AIH-02129 | Efficiency | Mathematics | Probabilistic Methods | — |
 | AIH-02167 | Empirical Bayes | Mathematics | Probabilistic Methods | — |
 | AIH-02470 | Entropy Search | Mathematics | Optimization | — |
-| AIH-02205 | Epistemic Uncertainty | Mathematics | Probabilistic Methods | — |
+| AIH-02205 | Epistemic Uncertainty | Mathematics | Probabilistic Methods | [2000](https://doi.org/10.1037/e501882009-541) (source only) |
 | AIH-02508 | Epsilon-Constraint Method | Mathematics | Optimization | — |
 | AIH-02546 | Epsilon-Greedy | Mathematics | Optimization | — |
 | AIH-02584 | Equality Constraint | Mathematics | Optimization | — |
 | AIH-02243 | Ergodicity | Mathematics | Probabilistic Methods | — |
-| AIH-02281 | Event | Mathematics | Probabilistic Methods | — |
-| AIH-02319 | Evidence | Mathematics | Probabilistic Methods | — |
+| AIH-02281 | Event | Mathematics | Probabilistic Methods | [2000](https://doi.org/10.3727/152599500108751408) (source only) |
+| AIH-02319 | Evidence | Mathematics | Probabilistic Methods | [2006](https://doi.org/10.1350/ijep.10.4.327) (source only) |
 | AIH-02357 | Evidence Lower Bound (ELBO) | Mathematics | Probabilistic Methods | — |
 | AIH-02622 | Evolution Strategy (ES) | Mathematics | Optimization | — |
-| AIH-02395 | Expectation-Maximization (EM) | Mathematics | Probabilistic Methods | — |
+| AIH-02395 | Expectation-Maximization (EM) | Mathematics | Probabilistic Methods | [2007](https://doi.org/10.1109/icif.2007.4407993) (source only) |
 | AIH-02660 | Expected Improvement (EI) | Mathematics | Optimization | — |
 | AIH-02698 | Expected Value of Perfect Information | Mathematics | Optimization | — |
-| AIH-02433 | Explaining Away | Mathematics | Probabilistic Methods | — |
+| AIH-02433 | Explaining Away | Mathematics | Probabilistic Methods | [1963](https://doi.org/10.1017/s0012217300039275) (source only) |
 | AIH-02736 | Exploration Bonus | Mathematics | Optimization | — |
 | AIH-02774 | Exponential Decay | Mathematics | Optimization | — |
 | AIH-02471 | Exponential Distribution | Mathematics | Probabilistic Methods | — |
@@ -367,32 +367,32 @@
 | AIH-01397 | Cataphora | NLP and LLMs | Natural Language Processing | [1983](https://doi.org/10.1515/9783112420065-020) (source only) |
 | AIH-01435 | Causal Language Modelling (CLM) | NLP and LLMs | Natural Language Processing | — |
 | AIH-01473 | Chain-of-Thought (CoT) Prompting | NLP and LLMs | Natural Language Processing | — |
-| AIH-01511 | Character-Level Model | NLP and LLMs | Natural Language Processing | — |
-| AIH-01549 | Chemical Named Entity Recognition | NLP and LLMs | Natural Language Processing | — |
-| AIH-01587 | chrF | NLP and LLMs | Natural Language Processing | — |
+| AIH-01511 | Character-Level Model | NLP and LLMs | Natural Language Processing | [2021](https://doi.org/10.1109/icscc51209.2021.9528104) (source only) |
+| AIH-01549 | Chemical Named Entity Recognition | NLP and LLMs | Natural Language Processing | [2007](https://doi.org/10.3115/1557769.1557784) (source only) |
+| AIH-01587 | chrF | NLP and LLMs | Natural Language Processing | [1996](https://doi.org/10.1016/s0026-895x(25)08687-0) (source only) |
 | AIH-01625 | Chunk Overlap | NLP and LLMs | Natural Language Processing | — |
-| AIH-01663 | Chunk Size | NLP and LLMs | Natural Language Processing | — |
-| AIH-01701 | Chunking in NLP | NLP and LLMs | Natural Language Processing | — |
-| AIH-01739 | Citation Generation | NLP and LLMs | Natural Language Processing | — |
+| AIH-01663 | Chunk Size | NLP and LLMs | Natural Language Processing | [1992](https://doi.org/10.1093/geronj/47.1.p47) (source only) |
+| AIH-01701 | Chunking in NLP | NLP and LLMs | Natural Language Processing | [2025](https://doi.org/10.59890/ijetr.v3i2.76) (source only) |
+| AIH-01739 | Citation Generation | NLP and LLMs | Natural Language Processing | [2022](https://doi.org/10.2139/ssrn.4022851) (source only) |
 | AIH-01777 | Claim-Evidence Linking | NLP and LLMs | Natural Language Processing | — |
 | AIH-01815 | Clarifying Question | NLP and LLMs | Natural Language Processing | — |
-| AIH-01853 | Closed-Book Question Answering | NLP and LLMs | Natural Language Processing | — |
-| AIH-01891 | Cloze Task | NLP and LLMs | Natural Language Processing | — |
-| AIH-01929 | CLS Token | NLP and LLMs | Natural Language Processing | — |
-| AIH-01967 | Code-Switching | NLP and LLMs | Natural Language Processing | — |
+| AIH-01853 | Closed-Book Question Answering | NLP and LLMs | Natural Language Processing | [2021](https://doi.org/10.5715/jnlp.28.3) (source only) |
+| AIH-01891 | Cloze Task | NLP and LLMs | Natural Language Processing | [1986](https://doi.org/10.1037/t65067-000) (source only) |
+| AIH-01929 | CLS Token | NLP and LLMs | Natural Language Processing | [2023](https://doi.org/10.5626/jok.2023.50.7.573) (source only) |
+| AIH-01967 | Code-Switching | NLP and LLMs | Natural Language Processing | [1990](https://doi.org/10.1515/9783110877182-028) (source only) |
 | AIH-02005 | Coherence Scoring | NLP and LLMs | Natural Language Processing | — |
 | AIH-02043 | Cohesion | NLP and LLMs | Natural Language Processing | — |
 | AIH-02081 | Collocation | NLP and LLMs | Natural Language Processing | — |
 | AIH-02119 | COMET | NLP and LLMs | Natural Language Processing | — |
-| AIH-02157 | Compounding | NLP and LLMs | Natural Language Processing | — |
-| AIH-02195 | Concordance | NLP and LLMs | Natural Language Processing | — |
-| AIH-02233 | Confidence-Based Routing | NLP and LLMs | Natural Language Processing | — |
+| AIH-02157 | Compounding | NLP and LLMs | Natural Language Processing | [1999](https://doi.org/10.1016/s1464-391x(99)80131-7) (source only) |
+| AIH-02195 | Concordance | NLP and LLMs | Natural Language Processing | [1974](https://doi.org/10.1525/9780520318366-004) (source only) |
+| AIH-02233 | Confidence-Based Routing | NLP and LLMs | Natural Language Processing | [2025](https://doi.org/10.1109/itt69610.2025.11352909) (source only) |
 | AIH-02271 | Constituency Parsing | NLP and LLMs | Natural Language Processing | — |
 | AIH-02309 | Constrained Beam Search | NLP and LLMs | Natural Language Processing | — |
 | AIH-02347 | Content Moderation Classifier | NLP and LLMs | Natural Language Processing | — |
-| AIH-02385 | Context Carryover | NLP and LLMs | Natural Language Processing | — |
-| AIH-02423 | Context Window | NLP and LLMs | Natural Language Processing | — |
-| AIH-02461 | Contextual Embedding | NLP and LLMs | Natural Language Processing | — |
+| AIH-02385 | Context Carryover | NLP and LLMs | Natural Language Processing | [2022](https://doi.org/10.18653/v1/2022.emnlp-industry.42) (source only) |
+| AIH-02423 | Context Window | NLP and LLMs | Natural Language Processing | [2016](https://doi.org/10.17454/ijcol02.06) (source only) |
+| AIH-02461 | Contextual Embedding | NLP and LLMs | Natural Language Processing | [2000](https://doi.org/10.1017/s0140525x00563432) (source only) |
 | AIH-02499 | Continuous Bag of Words (CBOW) | NLP and LLMs | Natural Language Processing | — |
 | AIH-02537 | Contradiction Detection | NLP and LLMs | Natural Language Processing | — |
 | AIH-02575 | Contradiction in Dialogue | NLP and LLMs | Natural Language Processing | — |
@@ -505,7 +505,7 @@
 | AIH-01459 | Claude Shannon | People & Organizations | People & Organizations | — |
 | AIH-01497 | Cloud Provider | People & Organizations | People & Organizations | — |
 | AIH-01535 | Cohere Organization | People & Organizations | People & Organizations | — |
-| AIH-01573 | Community Consent | People & Organizations | People & Organizations | — |
+| AIH-01573 | Community Consent | People & Organizations | People & Organizations | [2006](https://doi.org/10.1038/npg.els.0005179) (source only) |
 
 — means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
 

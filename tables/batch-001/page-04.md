@@ -25,14 +25,14 @@
 | AIH-01415 | Hand Tracking | Computer Graphics | Computer Graphics | [2007](https://doi.org/10.5772/4942) (source only) |
 | AIH-01453 | Head-Mounted Display (HMD) | Computer Graphics | Computer Graphics | [1998](https://doi.org/10.1016/s0042-6989(97)00397-0) (source only) |
 | AIH-01491 | High Dynamic Range (HDR) | Computer Graphics | Computer Graphics | — |
-| AIH-01529 | Instancing | Computer Graphics | Computer Graphics | — |
-| AIH-01567 | Keyframe Animation | Computer Graphics | Computer Graphics | — |
-| AIH-01605 | Level of Detail (LOD) | Computer Graphics | Computer Graphics | — |
+| AIH-01529 | Instancing | Computer Graphics | Computer Graphics | [1989](https://doi.org/10.1177/014833318903900109) (source only) |
+| AIH-01567 | Keyframe Animation | Computer Graphics | Computer Graphics | [1989](https://doi.org/10.1007/978-4-431-68293-6_17) (source only) |
+| AIH-01605 | Level of Detail (LOD) | Computer Graphics | Computer Graphics | [2003](https://openalex.org/W71308026) (source only) |
 | AIH-01643 | Linear Colour Space | Computer Graphics | Computer Graphics | — |
 | AIH-01681 | Metalness | Computer Graphics | Computer Graphics | — |
 | AIH-01719 | Mipmap | Computer Graphics | Computer Graphics | — |
 | AIH-01757 | Mixed Reality (MR) | Computer Graphics | Computer Graphics | — |
-| AIH-01795 | Motion Capture (MoCap) | Computer Graphics | Computer Graphics | — |
+| AIH-01795 | Motion Capture (MoCap) | Computer Graphics | Computer Graphics | [2015](https://doi.org/10.1016/j.procs.2015.12.253) (source only) |
 | AIH-01833 | Motion Matching | Computer Graphics | Computer Graphics | — |
 | AIH-01871 | Motion-to-Photon Latency | Computer Graphics | Computer Graphics | — |
 | AIH-01909 | Narrow Phase | Computer Graphics | Computer Graphics | — |
@@ -40,17 +40,17 @@
 | AIH-01985 | Normal Map | Computer Graphics | Computer Graphics | — |
 | AIH-02023 | Occlusion Culling | Computer Graphics | Computer Graphics | — |
 | AIH-02061 | Particle System | Computer Graphics | Computer Graphics | — |
-| AIH-02099 | Path Tracing | Computer Graphics | Computer Graphics | — |
-| AIH-02137 | Photogrammetry | Computer Graphics | Computer Graphics | — |
-| AIH-02175 | Physically Based Rendering (PBR) | Computer Graphics | Computer Graphics | — |
-| AIH-02213 | Physics Simulation | Computer Graphics | Computer Graphics | — |
+| AIH-02099 | Path Tracing | Computer Graphics | Computer Graphics | [1956](https://doi.org/10.1049/jiee-3.1956.0044) (source only) |
+| AIH-02137 | Photogrammetry | Computer Graphics | Computer Graphics | [1962](https://doi.org/10.4287/jsprs1962.1.53) (source only) |
+| AIH-02175 | Physically Based Rendering (PBR) | Computer Graphics | Computer Graphics | [2020](https://doi.org/10.4271/2020-01-0567) (source only) |
+| AIH-02213 | Physics Simulation | Computer Graphics | Computer Graphics | [2015](https://doi.org/10.2172/1169763) (source only) |
 | AIH-02251 | Plane Detection | Computer Graphics | Computer Graphics | — |
 | AIH-02289 | Post-Processing | Computer Graphics | Computer Graphics | — |
-| AIH-02327 | Procedural Texture | Computer Graphics | Computer Graphics | — |
-| AIH-02365 | Rasterization | Computer Graphics | Computer Graphics | — |
-| AIH-02403 | Ray Tracing | Computer Graphics | Computer Graphics | — |
+| AIH-02327 | Procedural Texture | Computer Graphics | Computer Graphics | [1988](https://doi.org/10.1145/48155.48159) (source only) |
+| AIH-02365 | Rasterization | Computer Graphics | Computer Graphics | [1988](https://doi.org/10.1145/378456.378457) (source only) |
+| AIH-02403 | Ray Tracing | Computer Graphics | Computer Graphics | [1990](https://doi.org/10.4095/130830) (source only) |
 | AIH-02441 | Real-Time Constraint in Graphics | Computer Graphics | Computer Graphics | — |
-| AIH-02479 | Render Pipeline | Computer Graphics | Computer Graphics | — |
+| AIH-02479 | Render Pipeline | Computer Graphics | Computer Graphics | [2023](https://doi.org/10.1109/iccrd56364.2023.10079997) (source only) |
 | AIH-02517 | Rendering | Computer Graphics | Computer Graphics | — |
 | AIH-02555 | Retargeting Animation | Computer Graphics | Computer Graphics | — |
 | AIH-02593 | Rigging | Computer Graphics | Computer Graphics | — |
@@ -112,28 +112,28 @@
 | AIH-01402 | Camera Pose Estimation | Computer Vision | Computer Vision | [2006](https://doi.org/10.1109/icpr.2006.999) (source only) |
 | AIH-01440 | Camera Response Function | Computer Vision | Computer Vision | — |
 | AIH-01478 | Caption Filtering | Computer Vision | Computer Vision | [2014](https://doi.org/10.1017/s0958344014000214) (source only) |
-| AIH-01516 | Catastrophic Forgetting in Vision | Computer Vision | Computer Vision | — |
-| AIH-01554 | Center Crop | Computer Vision | Computer Vision | — |
-| AIH-01592 | Certified Robustness | Computer Vision | Computer Vision | — |
-| AIH-01630 | Change Detection in Images | Computer Vision | Computer Vision | — |
-| AIH-01668 | Channel Order | Computer Vision | Computer Vision | — |
+| AIH-01516 | Catastrophic Forgetting in Vision | Computer Vision | Computer Vision | [2026](https://doi.org/10.5281/zenodo.22062244) (source only) |
+| AIH-01554 | Center Crop | Computer Vision | Computer Vision | [2019](https://openalex.org/W2962705451) (source only) |
+| AIH-01592 | Certified Robustness | Computer Vision | Computer Vision | [2019](https://doi.org/10.1109/sp.2019.00044) (source only) |
+| AIH-01630 | Change Detection in Images | Computer Vision | Computer Vision | [2008](https://doi.org/10.1109/tencon.2008.4766771) (source only) |
+| AIH-01668 | Channel Order | Computer Vision | Computer Vision | [1999](https://doi.org/10.1109/78.806077) (source only) |
 | AIH-01706 | Chromatic Aberration | Computer Vision | Computer Vision | — |
 | AIH-01744 | Class-Incremental Vision | Computer Vision | Computer Vision | — |
 | AIH-01782 | CLIP (Contrastive Language-Image Pre-training) | Computer Vision | Computer Vision | — |
-| AIH-01820 | CLIP Score | Computer Vision | Computer Vision | — |
+| AIH-01820 | CLIP Score | Computer Vision | Computer Vision | [2000](https://doi.org/10.1053/he.2000.5628) (source only) |
 | AIH-01858 | Closing | Computer Vision | Computer Vision | — |
 | AIH-01896 | Color Jitter | Computer Vision | Computer Vision | — |
-| AIH-01934 | Color Profile | Computer Vision | Computer Vision | — |
-| AIH-01972 | Color Space | Computer Vision | Computer Vision | — |
+| AIH-01934 | Color Profile | Computer Vision | Computer Vision | [1992](https://doi.org/10.1086/116139) (source only) |
+| AIH-01972 | Color Space | Computer Vision | Computer Vision | [1987](https://doi.org/10.1364/ca.1987.ma7) (source only) |
 | AIH-02010 | Compositional Visual Reasoning | Computer Vision | Computer Vision | — |
-| AIH-02048 | Concept Coverage | Computer Vision | Computer Vision | — |
-| AIH-02086 | Connected Component Labeling | Computer Vision | Computer Vision | — |
-| AIH-02124 | Content-Based Image Retrieval (CBIR) | Computer Vision | Computer Vision | — |
-| AIH-02162 | Continual Learning for Vision | Computer Vision | Computer Vision | — |
+| AIH-02048 | Concept Coverage | Computer Vision | Computer Vision | [2026](https://doi.org/10.1097/cin.0000000000001518) (source only) |
+| AIH-02086 | Connected Component Labeling | Computer Vision | Computer Vision | [1979](https://doi.org/10.21236/ada076130) (source only) |
+| AIH-02124 | Content-Based Image Retrieval (CBIR) | Computer Vision | Computer Vision | [2003](https://doi.org/10.1007/s00530-002-0073-0) (source only) |
+| AIH-02162 | Continual Learning for Vision | Computer Vision | Computer Vision | [2025](https://doi.org/10.2139/ssrn.5191454) (source only) |
 | AIH-02200 | Contour Detection | Computer Vision | Computer Vision | — |
-| AIH-02238 | Contrast Limited Adaptive Histogram Equalization (CLAHE) | Computer Vision | Computer Vision | — |
+| AIH-02238 | Contrast Limited Adaptive Histogram Equalization (CLAHE) | Computer Vision | Computer Vision | [2004](https://doi.org/10.1023/b:vlsi.0000028532.53893.82) (source only) |
 | AIH-02276 | Contrastive Image-Text Loss | Computer Vision | Computer Vision | — |
-| AIH-02314 | Corner Detection | Computer Vision | Computer Vision | — |
+| AIH-02314 | Corner Detection | Computer Vision | Computer Vision | [1981](https://doi.org/10.21236/ada124416) (source only) |
 | AIH-02352 | Counterfactual Image | Computer Vision | Computer Vision | — |
 | AIH-02390 | Counting in Images | Computer Vision | Computer Vision | — |
 | AIH-02428 | Cross-Modal Retrieval | Computer Vision | Computer Vision | — |
@@ -249,30 +249,30 @@
 | AIH-01416 | Colour Scale Selection | Data Science | Data Science | — |
 | AIH-01454 | Column-Level Lineage | Data Science | Data Science | — |
 | AIH-01492 | Completeness SLA | Data Science | Data Science | — |
-| AIH-01530 | Composite Key | Data Science | Data Science | — |
-| AIH-01568 | Confirmatory Analysis | Data Science | Data Science | — |
-| AIH-01606 | Conformity | Data Science | Data Science | — |
+| AIH-01530 | Composite Key | Data Science | Data Science | [1993](https://doi.org/10.1007/978-1-4757-4547-4_7) (source only) |
+| AIH-01568 | Confirmatory Analysis | Data Science | Data Science | [1948](https://doi.org/10.1126/science.107.2791.679-a) (source only) |
+| AIH-01606 | Conformity | Data Science | Data Science | [1972](https://doi.org/10.1177/074171367202200403) (source only) |
 | AIH-01644 | Consistency Across Sources | Data Science | Data Science | — |
-| AIH-01682 | Constraint Violation | Data Science | Data Science | — |
-| AIH-01720 | Contribution Analysis | Data Science | Data Science | — |
+| AIH-01682 | Constraint Violation | Data Science | Data Science | [1985](https://doi.org/10.1115/1.3260751) (source only) |
+| AIH-01720 | Contribution Analysis | Data Science | Data Science | [2015](https://doi.org/10.1002/9781118785317.weom080083) (source only) |
 | AIH-01758 | Control Total | Data Science | Data Science | — |
 | AIH-01796 | Correlation Heatmap | Data Science | Data Science | — |
 | AIH-01834 | Cost-Benefit Analysis | Data Science | Data Science | — |
-| AIH-01872 | Customer Lifetime Value (CLV) | Data Science | Data Science | — |
-| AIH-01910 | Dashboard Design | Data Science | Data Science | — |
-| AIH-01948 | Data Augmentation | Data Science | Data Science | — |
+| AIH-01872 | Customer Lifetime Value (CLV) | Data Science | Data Science | [2001](https://doi.org/10.1007/978-3-322-94626-3_11) (source only) |
+| AIH-01910 | Dashboard Design | Data Science | Data Science | [2003](https://doi.org/10.1037/e577042012-042) (source only) |
+| AIH-01948 | Data Augmentation | Data Science | Data Science | [1997](https://doi.org/10.1201/9780367803025-3) (source only) |
 | AIH-01986 | Data Augmentation for Tabular | Data Science | Data Science | — |
-| AIH-02024 | Data Catalogue | Data Science | Data Science | — |
+| AIH-02024 | Data Catalogue | Data Science | Data Science | [1969](https://doi.org/10.1515/9780824885427) (source only) |
 | AIH-02062 | Data Cleaning | Data Science | Data Science | — |
 | AIH-02100 | Data Dictionary | Data Science | Data Science | — |
 | AIH-02138 | Data Downtime | Data Science | Data Science | — |
-| AIH-02176 | Data Enclave | Data Science | Data Science | — |
+| AIH-02176 | Data Enclave | Data Science | Data Science | [2008](https://doi.org/10.2218/ijdc.v2i1.20) (source only) |
 | AIH-02214 | Data Labeling (Annotation) | Data Science | Data Science | — |
 | AIH-02252 | Data Leakage | Data Science | Data Science | — |
 | AIH-02290 | Data Mesh | Data Science | Data Science | — |
 | AIH-02328 | Data Observability | Data Science | Data Science | — |
-| AIH-02366 | Data Ownership | Data Science | Data Science | — |
-| AIH-02404 | Data Pipeline | Data Science | Data Science | — |
+| AIH-02366 | Data Ownership | Data Science | Data Science | [2006](https://doi.org/10.1037/e520942012-028) (source only) |
+| AIH-02404 | Data Pipeline | Data Science | Data Science | [2021](https://doi.org/10.1007/978-3-030-62110-0_2) (source only) |
 | AIH-02442 | Data Preprocessing | Data Science | Data Science | — |
 | AIH-02480 | Data Product | Data Science | Data Science | — |
 | AIH-02518 | Data Profiling | Data Science | Data Science | — |
@@ -386,30 +386,30 @@
 | AIH-01417 | CIFAR-100 | Datasets & Benchmarks | Datasets & Benchmarks | [2024](https://doi.org/10.1145/3724504.3724579) (source only) |
 | AIH-01455 | Citeseer Dataset | Datasets & Benchmarks | Datasets & Benchmarks | [2016](https://doi.org/10.1007/978-3-319-48740-3_3) (source only) |
 | AIH-01493 | Cityscapes | Datasets & Benchmarks | Datasets & Benchmarks | [1992](https://doi.org/10.1525/9780520914476-009) (source only) |
-| AIH-01531 | COCO | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-01569 | CodeContests | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-01607 | CodeSearchNet | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-01645 | Common Crawl | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-01683 | Common Voice | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-01721 | CommonsenseQA | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-01531 | COCO | Datasets & Benchmarks | Datasets & Benchmarks | [2015](https://doi.org/10.48550/arxiv.1504.00325) (source only) |
+| AIH-01569 | CodeContests | Datasets & Benchmarks | Datasets & Benchmarks | [2025](https://doi.org/10.18653/v1/2025.findings-emnlp.299) (source only) |
+| AIH-01607 | CodeSearchNet | Datasets & Benchmarks | Datasets & Benchmarks | [2019](https://doi.org/10.48550/arxiv.1909.09436) (source only) |
+| AIH-01645 | Common Crawl | Datasets & Benchmarks | Datasets & Benchmarks | [2014](https://doi.org/10.63317/3uyduafd26my) (source only) |
+| AIH-01683 | Common Voice | Datasets & Benchmarks | Datasets & Benchmarks | [1992](https://doi.org/10.1111/j.1741-5446.1992.00429.x) (source only) |
+| AIH-01721 | CommonsenseQA | Datasets & Benchmarks | Datasets & Benchmarks | [2019](https://doi.org/10.18653/v1/n19-1421) (source only) |
 | AIH-01759 | COMPAS Dataset | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-01797 | Conceptual Captions | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-01835 | Confidence Interval on Benchmarks | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-01873 | CoNLL-2003 | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-01911 | Cora Dataset | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-01949 | Criteo Dataset | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-01987 | Data Card | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-01987 | Data Card | Datasets & Benchmarks | Datasets & Benchmarks | [2020](https://doi.org/10.32388/4v0i08) (source only) |
 | AIH-02025 | Dataset Licence | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-02063 | Dataset Versioning | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-02101 | Decontamination | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-02139 | DocVQA | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-02139 | DocVQA | Datasets & Benchmarks | Datasets & Benchmarks | [2025](https://doi.org/10.1109/iccvw69036.2025.00782) (source only) |
 | AIH-02177 | Dolma | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-02215 | DROP | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-02215 | DROP | Datasets & Benchmarks | Datasets & Benchmarks | [2011](https://doi.org/10.1201/b12177-17) (source only) |
 | AIH-02253 | DS-1000 | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-02291 | Dynamic Benchmark | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-02329 | Ego4D | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-02367 | Enron Email Dataset | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-02405 | EPIC-Kitchens | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-02367 | Enron Email Dataset | Datasets & Benchmarks | Datasets & Benchmarks | [2005](https://doi.org/10.1007/s10588-005-5379-y) (source only) |
+| AIH-02405 | EPIC-Kitchens | Datasets & Benchmarks | Datasets & Benchmarks | [2021](https://doi.org/10.1109/tpami.2020.2991965) (source only) |
 | AIH-02443 | ESC-50 | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-02481 | Evaluation Cost | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-02519 | Expert Baseline | Datasets & Benchmarks | Datasets & Benchmarks | — |

@@ -31,72 +31,72 @@
 | AIH-01176 | Conformity Assessment | AI Safety | AI Policy & Governance | [1992](https://doi.org/10.6028/nist.ir.4853) (source only) |
 | AIH-01441 | Conservative Policy | AI Safety | AI Ethics & Safety | [1974](https://doi.org/10.1007/978-1-349-16210-9_8) (source only) |
 | AIH-01479 | Constitutional Classifier | AI Safety | AI Ethics & Safety | — |
-| AIH-01517 | Content Classifier | AI Safety | AI Ethics & Safety | — |
+| AIH-01517 | Content Classifier | AI Safety | AI Ethics & Safety | [2007](https://doi.org/10.1109/secon.2007.342955) (source only) |
 | AIH-01214 | Contestability | AI Safety | AI Policy & Governance | [1985](https://doi.org/10.1080/08102597.1985.11800562) (source only) |
-| AIH-01555 | Context Manipulation | AI Safety | AI Ethics & Safety | — |
-| AIH-01593 | Context-Dependent Judgment | AI Safety | AI Ethics & Safety | — |
+| AIH-01555 | Context Manipulation | AI Safety | AI Ethics & Safety | [2007](https://doi.org/10.3410/f.1075781.528695) (source only) |
+| AIH-01593 | Context-Dependent Judgment | AI Safety | AI Ethics & Safety | [2026](https://doi.org/10.3758/s13423-026-02938-z) (source only) |
 | AIH-01252 | Continuous Compliance | AI Safety | AI Policy & Governance | [1993](https://doi.org/10.1007/bf00180065) (source only) |
 | AIH-01290 | Control Effectiveness | AI Safety | AI Policy & Governance | [2012](https://doi.org/10.1002/9781119196815.ch8) (source only) |
-| AIH-01631 | Cooperative Inverse Reinforcement Learning | AI Safety | AI Ethics & Safety | — |
+| AIH-01631 | Cooperative Inverse Reinforcement Learning | AI Safety | AI Ethics & Safety | [2016](https://doi.org/10.48550/arxiv.1606.03137) (source only) |
 | AIH-01328 | COPPA | AI Safety | AI Policy & Governance | — |
 | AIH-01366 | Copyright and Training Data | AI Safety | AI Policy & Governance | — |
 | AIH-01404 | Council of Europe AI Convention | AI Safety | AI Policy & Governance | — |
 | AIH-01442 | Counterfactual Fairness | AI Safety | AI Policy & Governance | [2019](https://doi.org/10.1609/aaai.v33i01.33017801) (source only) |
 | AIH-01669 | Counterfactual Impact | AI Safety | AI Ethics & Safety | — |
 | AIH-01707 | Crescendo Attack | AI Safety | AI Ethics & Safety | — |
-| AIH-01745 | Crisis Response | AI Safety | AI Ethics & Safety | — |
+| AIH-01745 | Crisis Response | AI Safety | AI Ethics & Safety | [1986](https://doi.org/10.1037/e382472004-005) (source only) |
 | AIH-01480 | Cultural Bias in Models | AI Safety | AI Policy & Governance | — |
 | AIH-01518 | Cyber Capability Evaluation | AI Safety | AI Policy & Governance | — |
 | AIH-01783 | Dark Pattern | AI Safety | AI Ethics & Safety | — |
-| AIH-01556 | Data Colonialism | AI Safety | AI Policy & Governance | — |
-| AIH-01821 | Data Poisoning | AI Safety | AI Ethics & Safety | — |
+| AIH-01556 | Data Colonialism | AI Safety | AI Policy & Governance | [2016](https://doi.org/10.1177/0263775816633195) (source only) |
+| AIH-01821 | Data Poisoning | AI Safety | AI Ethics & Safety | [2020](https://doi.org/10.5220/0009180407210724) (source only) |
 | AIH-01859 | Data Privacy | AI Safety | AI Ethics & Safety | — |
 | AIH-01594 | Data Processing Agreement (DPA) | AI Safety | AI Policy & Governance | — |
 | AIH-01897 | Debate for Oversight | AI Safety | AI Ethics & Safety | — |
 | AIH-01935 | Deceptive Behaviour | AI Safety | AI Ethics & Safety | — |
 | AIH-01632 | Deepfake Labelling | AI Safety | AI Policy & Governance | — |
 | AIH-01973 | Defense Bypass Rate | AI Safety | AI Ethics & Safety | — |
-| AIH-02011 | Defensive Acceleration | AI Safety | AI Ethics & Safety | — |
+| AIH-02011 | Defensive Acceleration | AI Safety | AI Ethics & Safety | [2026](https://doi.org/10.71172/x093-veqz) (source only) |
 | AIH-02049 | Deference to Humans | AI Safety | AI Ethics & Safety | — |
-| AIH-02087 | Deliberative Process | AI Safety | AI Ethics & Safety | — |
+| AIH-02087 | Deliberative Process | AI Safety | AI Ethics & Safety | [2000](https://doi.org/10.21236/ada399291) (source only) |
 | AIH-02125 | Democratic Input to AI | AI Safety | AI Ethics & Safety | — |
-| AIH-01670 | Demographic Parity | AI Safety | AI Policy & Governance | — |
+| AIH-01670 | Demographic Parity | AI Safety | AI Policy & Governance | [2008](https://doi.org/10.1080/23323256.2008.11499969) (source only) |
 | AIH-01708 | Deployment Bias | AI Safety | AI Policy & Governance | — |
 | AIH-01746 | Deployment Safeguard | AI Safety | AI Policy & Governance | — |
-| AIH-01784 | Deskilling | AI Safety | AI Policy & Governance | — |
+| AIH-01784 | Deskilling | AI Safety | AI Policy & Governance | [1984](https://doi.org/10.2307/25140469) (source only) |
 | AIH-02163 | Developer Instruction | AI Safety | AI Ethics & Safety | — |
 | AIH-02201 | Differential Privacy (DP) | AI Safety | AI Ethics & Safety | — |
-| AIH-02239 | Differential Technology Development | AI Safety | AI Ethics & Safety | — |
+| AIH-02239 | Differential Technology Development | AI Safety | AI Ethics & Safety | [2022](https://doi.org/10.2139/ssrn.4213670) (source only) |
 | AIH-01822 | Digital Divide | AI Safety | AI Policy & Governance | — |
-| AIH-01860 | Disclosure Requirement | AI Safety | AI Policy & Governance | — |
+| AIH-01860 | Disclosure Requirement | AI Safety | AI Policy & Governance | [1984](https://doi.org/10.1111/j.1468-5957.1984.tb00764.x) (source only) |
 | AIH-01898 | Disparate Impact | AI Safety | AI Policy & Governance | — |
 | AIH-01936 | Disparate Treatment | AI Safety | AI Policy & Governance | — |
 | AIH-02277 | Dual Newspaper Test | AI Safety | AI Ethics & Safety | — |
 | AIH-01974 | Dual-Use Technology | AI Safety | AI Policy & Governance | — |
 | AIH-02012 | Duty of Care | AI Safety | AI Policy & Governance | — |
 | AIH-02315 | Duty to Refer | AI Safety | AI Ethics & Safety | — |
-| AIH-02353 | Educational Exception | AI Safety | AI Ethics & Safety | — |
+| AIH-02353 | Educational Exception | AI Safety | AI Ethics & Safety | [2012](https://doi.org/10.1017/cbo9781139084222.010) (source only) |
 | AIH-02391 | Eliciting Latent Knowledge (ELK) | AI Safety | AI Ethics & Safety | — |
 | AIH-02429 | Emotional Dependence | AI Safety | AI Ethics & Safety | — |
 | AIH-02467 | Encoding Attack | AI Safety | AI Ethics & Safety | — |
 | AIH-02505 | Engagement Optimization Risk | AI Safety | AI Ethics & Safety | — |
 | AIH-02543 | Epistemic Humility | AI Safety | AI Ethics & Safety | — |
 | AIH-02050 | Equal Opportunity | AI Safety | AI Policy & Governance | — |
-| AIH-02088 | Equalized Odds | AI Safety | AI Policy & Governance | — |
-| AIH-02126 | Erasure | AI Safety | AI Policy & Governance | — |
+| AIH-02088 | Equalized Odds | AI Safety | AI Policy & Governance | [2019](https://doi.org/10.1145/3306618.3314290) (source only) |
+| AIH-02126 | Erasure | AI Safety | AI Policy & Governance | [2025](https://doi.org/10.5771/9783748944065-181) (source only) |
 | AIH-02164 | Ethics Board | AI Safety | AI Policy & Governance | — |
-| AIH-02202 | Ethics Washing | AI Safety | AI Policy & Governance | — |
+| AIH-02202 | Ethics Washing | AI Safety | AI Policy & Governance | [2019](https://doi.org/10.1515/9789048550180-016) (source only) |
 | AIH-02581 | Evaluation Before Deployment | AI Safety | AI Ethics & Safety | — |
-| AIH-02240 | Evaluation Bias | AI Safety | AI Policy & Governance | — |
+| AIH-02240 | Evaluation Bias | AI Safety | AI Policy & Governance | [1980](https://doi.org/10.1016/0191-765x(80)90026-9) (source only) |
 | AIH-02278 | Evaluation Gaming | AI Safety | AI Policy & Governance | — |
 | AIH-02619 | Explainable AI (XAI) | AI Safety | AI Ethics & Safety | — |
 | AIH-02316 | Export Control | AI Safety | AI Policy & Governance | — |
 | AIH-02657 | External Accountability | AI Safety | AI Ethics & Safety | — |
-| AIH-02354 | Fair Use | AI Safety | AI Policy & Governance | — |
+| AIH-02354 | Fair Use | AI Safety | AI Policy & Governance | [1978](https://doi.org/10.4159/harvard.9780674433120.c3) (source only) |
 | AIH-02392 | Fairness Impossibility Result | AI Safety | AI Policy & Governance | — |
 | AIH-02695 | Fairness in AI | AI Safety | AI Ethics & Safety | — |
-| AIH-02430 | Fairness Metric | AI Safety | AI Policy & Governance | — |
-| AIH-02468 | Fairness-Accuracy Tradeoff | AI Safety | AI Policy & Governance | — |
+| AIH-02430 | Fairness Metric | AI Safety | AI Policy & Governance | [2013](https://doi.org/10.1145/2480362.2480478) (source only) |
+| AIH-02468 | Fairness-Accuracy Tradeoff | AI Safety | AI Policy & Governance | [2023](https://doi.org/10.1007/s43681-022-00250-9) (source only) |
 | AIH-02733 | Faithful Reasoning | AI Safety | AI Ethics & Safety | — |
 | AIH-02506 | Feedback Bias | AI Safety | AI Policy & Governance | — |
 | AIH-02544 | FERPA | AI Safety | AI Policy & Governance | — |
@@ -276,32 +276,32 @@
 | AIH-01413 | Event Study Design | Causal Inference | Causal Inference | [2018](https://doi.org/10.3386/w24565) (source only) |
 | AIH-01451 | Exclusion Restriction | Causal Inference | Causal Inference | [2005](https://doi.org/10.1017/cbo9780511614491.022) (source only) |
 | AIH-01489 | External Validity | Causal Inference | Causal Inference | [1980](https://doi.org/10.1037//0003-066x.35.4.387) (source only) |
-| AIH-01527 | Faithfulness Assumption | Causal Inference | Causal Inference | — |
-| AIH-01565 | FCI Algorithm | Causal Inference | Causal Inference | — |
+| AIH-01527 | Faithfulness Assumption | Causal Inference | Causal Inference | [2005](https://doi.org/10.1007/11518655_13) (source only) |
+| AIH-01565 | FCI Algorithm | Causal Inference | Causal Inference | [1995](https://doi.org/10.1007/bfb0046671) (source only) |
 | AIH-01603 | Frontdoor Criterion | Causal Inference | Causal Inference | — |
-| AIH-01641 | Fundamental Problem of Causal Inference | Causal Inference | Causal Inference | — |
+| AIH-01641 | Fundamental Problem of Causal Inference | Causal Inference | Causal Inference | [2014](https://doi.org/10.1017/s1049096514001772) (source only) |
 | AIH-01679 | Fuzzy Regression Discontinuity | Causal Inference | Causal Inference | — |
 | AIH-01717 | G-Computation | Causal Inference | Causal Inference | — |
 | AIH-01755 | G-Formula | Causal Inference | Causal Inference | — |
 | AIH-01793 | Generalized Propensity Score | Causal Inference | Causal Inference | — |
-| AIH-01831 | Heterogeneous Treatment Effect (HTE) | Causal Inference | Causal Inference | — |
-| AIH-01869 | Identifiability of Causal Effects | Causal Inference | Causal Inference | — |
-| AIH-01907 | Ignorability | Causal Inference | Causal Inference | — |
+| AIH-01831 | Heterogeneous Treatment Effect (HTE) | Causal Inference | Causal Inference | [2026](https://doi.org/10.1097/01.ede.0001281556.60346.3b) (source only) |
+| AIH-01869 | Identifiability of Causal Effects | Causal Inference | Causal Inference | [2011](https://doi.org/10.1007/s11464-011-0127-8) (source only) |
+| AIH-01907 | Ignorability | Causal Inference | Causal Inference | [1991](https://doi.org/10.1214/aos/1176348396) (source only) |
 | AIH-01945 | Immortal Time Bias | Causal Inference | Causal Inference | — |
 | AIH-01983 | Independent Causal Mechanisms | Causal Inference | Causal Inference | — |
 | AIH-02021 | Indirect Effect | Causal Inference | Causal Inference | — |
 | AIH-02059 | Individual Treatment Effect (ITE) | Causal Inference | Causal Inference | — |
-| AIH-02097 | Instrumental Variable Estimation | Causal Inference | Causal Inference | — |
+| AIH-02097 | Instrumental Variable Estimation | Causal Inference | Causal Inference | [1986](https://doi.org/10.2307/1912840) (source only) |
 | AIH-02135 | Interference Between Units | Causal Inference | Causal Inference | — |
-| AIH-02173 | Internal Validity | Causal Inference | Causal Inference | — |
+| AIH-02173 | Internal Validity | Causal Inference | Causal Inference | [1997](https://doi.org/10.1023/a:1024816932485) (source only) |
 | AIH-02211 | Interventional Data | Causal Inference | Causal Inference | — |
 | AIH-02249 | Invariant Causal Prediction (ICP) | Causal Inference | Causal Inference | — |
-| AIH-02287 | Inverse Probability Weighting (IPW) | Causal Inference | Causal Inference | — |
-| AIH-02325 | Ladder of Causation | Causal Inference | Causal Inference | — |
+| AIH-02287 | Inverse Probability Weighting (IPW) | Causal Inference | Causal Inference | [2022](https://doi.org/10.1080/19312458.2022.2037537) (source only) |
+| AIH-02325 | Ladder of Causation | Causal Inference | Causal Inference | [2022](https://doi.org/10.1016/j.jtcvs.2021.07.046) (source only) |
 | AIH-02363 | Latent Confounder | Causal Inference | Causal Inference | — |
 | AIH-02401 | Local Average Treatment Effect (LATE) | Causal Inference | Causal Inference | — |
 | AIH-02439 | Marginal Structural Model (MSM) | Causal Inference | Causal Inference | — |
-| AIH-02477 | Markov Equivalence Class | Causal Inference | Causal Inference | — |
+| AIH-02477 | Markov Equivalence Class | Causal Inference | Causal Inference | [2005](https://doi.org/10.1007/11564089_9) (source only) |
 | AIH-02515 | Matching Estimator | Causal Inference | Causal Inference | — |
 | AIH-02553 | Mediation Analysis | Causal Inference | Causal Inference | — |
 | AIH-02591 | Mediator | Causal Inference | Causal Inference | — |
@@ -388,32 +388,32 @@
 | AIH-01414 | Dorsal Stream | Cognitive Science | Cognitive Science | [2000](https://doi.org/10.1006/nimg.2000.0635) (source only) |
 | AIH-01452 | Dual Process Theory | Cognitive Science | Cognitive Science | — |
 | AIH-01490 | Dual-Task Interference | Cognitive Science | Cognitive Science | [1973](https://doi.org/10.1037/e665992011-267) (source only) |
-| AIH-01528 | Dunning-Kruger Effect | Cognitive Science | Cognitive Science | — |
-| AIH-01566 | Einstellung Effect | Cognitive Science | Cognitive Science | — |
-| AIH-01604 | Embodied Cognition | Cognitive Science | Cognitive Science | — |
-| AIH-01642 | Encoding in Memory | Cognitive Science | Cognitive Science | — |
+| AIH-01528 | Dunning-Kruger Effect | Cognitive Science | Cognitive Science | [2011](https://doi.org/10.1016/b978-0-12-385522-0.00005-6) (source only) |
+| AIH-01566 | Einstellung Effect | Cognitive Science | Cognitive Science | [1951](https://doi.org/10.1037/h0059762) (source only) |
+| AIH-01604 | Embodied Cognition | Cognitive Science | Cognitive Science | [2004](https://doi.org/10.1007/978-3-540-27833-7_2) (source only) |
+| AIH-01642 | Encoding in Memory | Cognitive Science | Cognitive Science | [1972](https://doi.org/10.31274/rtd-180813-2579) (source only) |
 | AIH-01680 | Episodic Future Thinking | Cognitive Science | Cognitive Science | — |
 | AIH-01718 | Executive Function | Cognitive Science | Cognitive Science | — |
 | AIH-01756 | Exemplar Theory | Cognitive Science | Cognitive Science | — |
-| AIH-01794 | Expertise | Cognitive Science | Cognitive Science | — |
-| AIH-01832 | Explanation Satisfaction | Cognitive Science | Cognitive Science | — |
-| AIH-01870 | Extended Mind | Cognitive Science | Cognitive Science | — |
+| AIH-01794 | Expertise | Cognitive Science | Cognitive Science | [1998](https://doi.org/10.1007/978-1-349-13693-3_5) (source only) |
+| AIH-01832 | Explanation Satisfaction | Cognitive Science | Cognitive Science | [2025](https://doi.org/10.2139/ssrn.5893623) (source only) |
+| AIH-01870 | Extended Mind | Cognitive Science | Cognitive Science | [2006](https://doi.org/10.1163/9789401203081_012) (source only) |
 | AIH-01908 | Extraneous Cognitive Load | Cognitive Science | Cognitive Science | — |
 | AIH-01946 | Eye-Tracking Reading Study | Cognitive Science | Cognitive Science | — |
 | AIH-01984 | False Belief Task | Cognitive Science | Cognitive Science | — |
 | AIH-02022 | False Memory | Cognitive Science | Cognitive Science | — |
-| AIH-02060 | Far Transfer | Cognitive Science | Cognitive Science | — |
-| AIH-02098 | Feature Integration Theory | Cognitive Science | Cognitive Science | — |
+| AIH-02060 | Far Transfer | Cognitive Science | Cognitive Science | [2002](https://doi.org/10.1037/t16607-000) (source only) |
+| AIH-02098 | Feature Integration Theory | Cognitive Science | Cognitive Science | [1980](https://doi.org/10.1016/0010-0285(80)90005-5) (source only) |
 | AIH-02136 | Feeling of Knowing | Cognitive Science | Cognitive Science | — |
 | AIH-02174 | Figure-Ground Segregation | Cognitive Science | Cognitive Science | — |
 | AIH-02212 | Forgetting Curve | Cognitive Science | Cognitive Science | — |
 | AIH-02250 | Framing Effect | Cognitive Science | Cognitive Science | — |
-| AIH-02288 | Free Energy Principle (FEP) | Cognitive Science | Cognitive Science | — |
+| AIH-02288 | Free Energy Principle (FEP) | Cognitive Science | Cognitive Science | [2022](https://doi.org/10.1007/978-3-030-95473-4_4) (source only) |
 | AIH-02326 | Functional Fixedness | Cognitive Science | Cognitive Science | — |
 | AIH-02364 | Garden Path Sentence | Cognitive Science | Cognitive Science | — |
-| AIH-02402 | Germane Cognitive Load | Cognitive Science | Cognitive Science | — |
-| AIH-02440 | Gestalt Principles | Cognitive Science | Cognitive Science | — |
-| AIH-02478 | Grid Cell | Cognitive Science | Cognitive Science | — |
+| AIH-02402 | Germane Cognitive Load | Cognitive Science | Cognitive Science | [2006](https://doi.org/10.1016/j.learninstruc.2006.02.004) (source only) |
+| AIH-02440 | Gestalt Principles | Cognitive Science | Cognitive Science | [1997](https://doi.org/10.18778/0208-6077.36.08) (source only) |
+| AIH-02478 | Grid Cell | Cognitive Science | Cognitive Science | [1990](https://doi.org/10.1016/0096-3003(90)90042-2) (source only) |
 | AIH-02516 | Hebbian Learning | Cognitive Science | Cognitive Science | — |
 | AIH-02554 | Hindsight Bias | Cognitive Science | Cognitive Science | — |
 | AIH-02592 | Illusion of Explanatory Depth | Cognitive Science | Cognitive Science | — |

@@ -97,28 +97,28 @@
 | AIH-01446 | Contact-Rich Manipulation | Robotics | Robotics & Autonomous Systems | — |
 | AIH-01484 | Control Barrier Function (CBF) | Robotics | Robotics & Autonomous Systems | — |
 | AIH-01522 | Control Loop Frequency | Robotics | Robotics & Autonomous Systems | — |
-| AIH-01560 | Corner Case | Robotics | Robotics & Autonomous Systems | — |
-| AIH-01598 | Costmap | Robotics | Robotics & Autonomous Systems | — |
-| AIH-01636 | Cyborg | Robotics | Robotics & Autonomous Systems | — |
-| AIH-01674 | Dead Reckoning | Robotics | Robotics & Autonomous Systems | — |
+| AIH-01560 | Corner Case | Robotics | Robotics & Autonomous Systems | [2022](https://doi.org/10.5220/0011526500003323) (source only) |
+| AIH-01598 | Costmap | Robotics | Robotics & Autonomous Systems | [2011](https://openalex.org/W1755554585) (source only) |
+| AIH-01636 | Cyborg | Robotics | Robotics & Autonomous Systems | [2004](https://doi.org/10.4324/9781410609991-9) (source only) |
+| AIH-01674 | Dead Reckoning | Robotics | Robotics & Autonomous Systems | [1920](https://doi.org/10.1093/nq/s12-vi.101.35c) (source only) |
 | AIH-01712 | Degrees of Freedom (DoF) | Robotics | Robotics & Autonomous Systems | — |
 | AIH-01750 | Denavit-Hartenberg Parameters (DH) | Robotics | Robotics & Autonomous Systems | — |
-| AIH-01788 | Detect and Avoid (DAA) | Robotics | Robotics & Autonomous Systems | — |
-| AIH-01826 | Deterministic Timing | Robotics | Robotics & Autonomous Systems | — |
-| AIH-01864 | Dexterous Workspace | Robotics | Robotics & Autonomous Systems | — |
+| AIH-01788 | Detect and Avoid (DAA) | Robotics | Robotics & Autonomous Systems | [2006](https://doi.org/10.1109/icu.2006.281602) (source only) |
+| AIH-01826 | Deterministic Timing | Robotics | Robotics & Autonomous Systems | [1984](https://doi.org/10.1111/j.1749-6632.1984.tb23413.x) (source only) |
+| AIH-01864 | Dexterous Workspace | Robotics | Robotics & Autonomous Systems | [1988](https://doi.org/10.1109/56.778) (source only) |
 | AIH-01902 | Differential Kinematics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-01940 | Digital Shadow | Robotics | Robotics & Autonomous Systems | — |
+| AIH-01940 | Digital Shadow | Robotics | Robotics & Autonomous Systems | [2016](https://doi.org/10.3846/bm.2016.34) (source only) |
 | AIH-01978 | Disengagement | Robotics | Robotics & Autonomous Systems | — |
-| AIH-02016 | Disturbance Rejection | Robotics | Robotics & Autonomous Systems | — |
+| AIH-02016 | Disturbance Rejection | Robotics | Robotics & Autonomous Systems | [1988](https://doi.org/10.1515/9783112480588-009) (source only) |
 | AIH-02054 | Domain Gap in Robotics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-02092 | Drone | Robotics | Robotics & Autonomous Systems | — |
+| AIH-02092 | Drone | Robotics | Robotics & Autonomous Systems | [2021](https://doi.org/10.7765/9781526145949.00009) (source only) |
 | AIH-02130 | Dynamic Window Approach (DWA) | Robotics | Robotics & Autonomous Systems | — |
 | AIH-02168 | Edge Case | Robotics | Robotics & Autonomous Systems | — |
-| AIH-02206 | Embodied Intelligence | Robotics | Robotics & Autonomous Systems | — |
+| AIH-02206 | Embodied Intelligence | Robotics | Robotics & Autonomous Systems | [2004](https://doi.org/10.1007/978-3-540-27833-7_23) (source only) |
 | AIH-02244 | Emergency Stop | Robotics | Robotics & Autonomous Systems | — |
 | AIH-02282 | End Effector (EE) | Robotics | Robotics & Autonomous Systems | — |
-| AIH-02320 | Evolutionary robotics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-02358 | Exoskeleton | Robotics | Robotics & Autonomous Systems | — |
+| AIH-02320 | Evolutionary robotics | Robotics | Robotics & Autonomous Systems | [1998](https://doi.org/10.1007/3-540-64957-3_69) (source only) |
+| AIH-02358 | Exoskeleton | Robotics | Robotics & Autonomous Systems | [2004](https://doi.org/10.2172/885609) (source only) |
 | AIH-02396 | Extended Kalman Filter (EKF) | Robotics | Robotics & Autonomous Systems | — |
 | AIH-02434 | Extrinsic Calibration | Robotics | Robotics & Autonomous Systems | — |
 | AIH-02472 | Eye-in-Hand Configuration | Robotics | Robotics & Autonomous Systems | — |
@@ -232,11 +232,11 @@
 | AIH-01387 | Compartmental Model | Science & Healthcare AI | Science & Healthcare AI | [1969](https://doi.org/10.2307/1267024) (source only) |
 | AIH-01425 | Compressed Sensing MRI | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-01463 | Computational Biology | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-01501 | Computer-Aided Detection (CAD) | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-01539 | Computer-Aided Diagnosis Systems | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-01577 | Contact Tracing | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-01615 | CRISPR Guide Design | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-01653 | Data Assimilation | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-01501 | Computer-Aided Detection (CAD) | Science & Healthcare AI | Science & Healthcare AI | [2004](https://doi.org/10.1186/bcr854) (source only) |
+| AIH-01539 | Computer-Aided Diagnosis Systems | Science & Healthcare AI | Science & Healthcare AI | [2009](https://doi.org/10.3390/a2030925) (source only) |
+| AIH-01577 | Contact Tracing | Science & Healthcare AI | Science & Healthcare AI | [1967](https://doi.org/10.1136/sti.43.3.204) (source only) |
+| AIH-01615 | CRISPR Guide Design | Science & Healthcare AI | Science & Healthcare AI | [2016](https://doi.org/10.1101/078253) (source only) |
+| AIH-01653 | Data Assimilation | Science & Healthcare AI | Science & Healthcare AI | [1994](https://doi.org/10.1007/978-3-642-78939-7_1) (source only) |
 | AIH-01691 | De Novo Molecular Design | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-01729 | De-Identification of Health Data | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-01767 | Decision Curve Analysis (DCA) | Science & Healthcare AI | Science & Healthcare AI | — |
@@ -246,19 +246,19 @@
 | AIH-01919 | Digital Epidemiology | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-01957 | Digital Pathology | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-01995 | Directed Evolution | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02033 | Downscaling | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-02033 | Downscaling | Science & Healthcare AI | Science & Healthcare AI | [2005](https://doi.org/10.1002/joc.1125) (source only) |
 | AIH-02071 | Drug-Target Interaction | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-02109 | Early Warning Score (EWS) | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-02147 | Effective Reproduction Number (Rt) | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-02185 | Electronic Health Record (EHR) | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02223 | Eligibility Criteria | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02261 | Emulator | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02299 | Ensemble Forecast | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-02223 | Eligibility Criteria | Science & Healthcare AI | Science & Healthcare AI | [1991](https://doi.org/10.1097/00001577-199100320-00022) (source only) |
+| AIH-02261 | Emulator | Science & Healthcare AI | Science & Healthcare AI | [1975](https://doi.org/10.1109/c-m.1975.219049) (source only) |
+| AIH-02299 | Ensemble Forecast | Science & Healthcare AI | Science & Healthcare AI | [1991](https://doi.org/10.1175/1520-0493(1991)119<0425:prfsus>2.0.co;2) (source only) |
 | AIH-02337 | Enzyme Engineering | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02375 | Epidemiological Modelling | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-02375 | Epidemiological Modelling | Science & Healthcare AI | Science & Healthcare AI | [1992](https://doi.org/10.5935/0305-7518.19920052) (source only) |
 | AIH-02413 | Epitope Prediction | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02451 | Expert Determination | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02489 | External Validation | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-02451 | Expert Determination | Science & Healthcare AI | Science & Healthcare AI | [1997](https://doi.org/10.1016/s0267-3649(97)86897-5) (source only) |
+| AIH-02489 | External Validation | Science & Healthcare AI | Science & Healthcare AI | [2013](https://doi.org/10.1161/blog.20130802.203900) (source only) |
 | AIH-02527 | Extreme Event Attribution | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-02565 | FHIR | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-02603 | Force Field | Science & Healthcare AI | Science & Healthcare AI | — |
@@ -369,33 +369,33 @@
 | AIH-01388 | Confused Deputy | Security & Privacy | Security & Privacy | [1988](https://doi.org/10.1145/54289.871709) (source only) |
 | AIH-01426 | Consent Management | Security & Privacy | Security & Privacy | [2016](https://doi.org/10.5220/0005941301250132) (source only) |
 | AIH-01464 | Container Escape | Security & Privacy | Security & Privacy | — |
-| AIH-01502 | Containment | Security & Privacy | Security & Privacy | — |
-| AIH-01540 | Context Leakage | Security & Privacy | Security & Privacy | — |
-| AIH-01578 | Coordinated Vulnerability Disclosure (CVD) | Security & Privacy | Security & Privacy | — |
-| AIH-01616 | Coverage-Guided Fuzzing | Security & Privacy | Security & Privacy | — |
-| AIH-01654 | Credential Stuffing | Security & Privacy | Security & Privacy | — |
+| AIH-01502 | Containment | Security & Privacy | Security & Privacy | [1958](https://doi.org/10.2172/4303511) (source only) |
+| AIH-01540 | Context Leakage | Security & Privacy | Security & Privacy | [2026](https://doi.org/10.1007/979-8-8688-3252-9_6) (source only) |
+| AIH-01578 | Coordinated Vulnerability Disclosure (CVD) | Security & Privacy | Security & Privacy | [2017](https://openalex.org/W2790974090) (source only) |
+| AIH-01616 | Coverage-Guided Fuzzing | Security & Privacy | Security & Privacy | [2018](https://doi.org/10.14722/bar.2018.23014) (source only) |
+| AIH-01654 | Credential Stuffing | Security & Privacy | Security & Privacy | [2019](https://doi.org/10.1109/sp.2019.00056) (source only) |
 | AIH-01692 | Cross-Site Request Forgery (CSRF) | Security & Privacy | Security & Privacy | — |
-| AIH-01730 | Cross-Site Scripting (XSS) | Security & Privacy | Security & Privacy | — |
+| AIH-01730 | Cross-Site Scripting (XSS) | Security & Privacy | Security & Privacy | [2007](https://doi.org/10.1201/9781420013795-16) (source only) |
 | AIH-01768 | Data Loss Prevention (DLP) | Security & Privacy | Security & Privacy | — |
-| AIH-01806 | Data Minimization | Security & Privacy | Security & Privacy | — |
-| AIH-01844 | Data Reconstruction Attack | Security & Privacy | Security & Privacy | — |
-| AIH-01882 | Data Subject Access Request (DSAR) | Security & Privacy | Security & Privacy | — |
-| AIH-01920 | Deepfake Fraud | Security & Privacy | Security & Privacy | — |
+| AIH-01806 | Data Minimization | Security & Privacy | Security & Privacy | [2021](https://doi.org/10.31124/advance.14601510.v1) (source only) |
+| AIH-01844 | Data Reconstruction Attack | Security & Privacy | Security & Privacy | [2023](https://doi.org/10.1007/978-981-99-5177-2_5) (source only) |
+| AIH-01882 | Data Subject Access Request (DSAR) | Security & Privacy | Security & Privacy | [2025](https://doi.org/10.47000/tjmcs.1643533) (source only) |
+| AIH-01920 | Deepfake Fraud | Security & Privacy | Security & Privacy | [2023](https://doi.org/10.12968/s0969-4765(23)70666-8) (source only) |
 | AIH-01958 | Defense in Depth | Security & Privacy | Security & Privacy | — |
 | AIH-01996 | Delta in Differential Privacy | Security & Privacy | Security & Privacy | — |
 | AIH-02034 | Dependency Confusion | Security & Privacy | Security & Privacy | — |
 | AIH-02072 | Differential Privacy Budget | Security & Privacy | Security & Privacy | — |
-| AIH-02110 | Disaster Recovery | Security & Privacy | Security & Privacy | — |
+| AIH-02110 | Disaster Recovery | Security & Privacy | Security & Privacy | [1998](https://doi.org/10.1525/9780520918726-008) (source only) |
 | AIH-02148 | DP-SGD | Security & Privacy | Security & Privacy | — |
 | AIH-02186 | Dynamic Application Security Testing (DAST) | Security & Privacy | Security & Privacy | — |
 | AIH-02224 | Egress Filtering | Security & Privacy | Security & Privacy | — |
-| AIH-02262 | Envelope Encryption | Security & Privacy | Security & Privacy | — |
+| AIH-02262 | Envelope Encryption | Security & Privacy | Security & Privacy | [2025](https://doi.org/10.1007/978-981-96-5566-3_6) (source only) |
 | AIH-02300 | Epsilon Ball | Security & Privacy | Security & Privacy | — |
 | AIH-02338 | Epsilon in Differential Privacy | Security & Privacy | Security & Privacy | — |
 | AIH-02376 | Eradication | Security & Privacy | Security & Privacy | — |
 | AIH-02414 | Evasion Attack | Security & Privacy | Security & Privacy | — |
 | AIH-02452 | Excessive Agency | Security & Privacy | Security & Privacy | — |
-| AIH-02490 | Exfiltration Detection | Security & Privacy | Security & Privacy | — |
+| AIH-02490 | Exfiltration Detection | Security & Privacy | Security & Privacy | [2012](https://doi.org/10.5220/0004100101010108) (source only) |
 | AIH-02528 | False Positive Rate in Security | Security & Privacy | Security & Privacy | — |
 | AIH-02566 | Fast Gradient Sign Method (FGSM) | Security & Privacy | Security & Privacy | — |
 | AIH-02604 | Field-Level Encryption | Security & Privacy | Security & Privacy | — |

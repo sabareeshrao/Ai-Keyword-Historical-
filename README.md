@@ -14,6 +14,10 @@
 
 **[Research batch 002 JSON report](data/DATE_RESEARCH_002_REPORT.json)** — dated and unresolved totals.
 
+**[Date research 003: Next 1,000 terms (AIH-01501–AIH-02500)](batches/DATE_RESEARCH_003_NEXT_1000.md)** — two full 500-row tables with cited source dates. These are not proven term-origin dates.
+
+**[Date research 003 audit](data/DATE_RESEARCH_003_REPORT.json)** — count of retrieved dates and unresolved terms.
+
 ## Browse complete keyword tables
 
 | Inventory set | Added keywords | Full tables | ID range |

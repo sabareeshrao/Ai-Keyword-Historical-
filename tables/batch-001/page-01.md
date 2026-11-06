@@ -43,31 +43,31 @@
 | AIH-01398 | Budget-Aware Agent | Agentic AI | AI Agents | — |
 | AIH-01436 | Capability Evaluation | Agentic AI | AI Agents | [1985](https://doi.org/10.1007/978-1-4684-6590-7_5) (source only) |
 | AIH-01474 | Capability Negotiation | Agentic AI | AI Agents | — |
-| AIH-01512 | Cascade | Agentic AI | AI Agents | — |
+| AIH-01512 | Cascade | Agentic AI | AI Agents | [1990](https://doi.org/10.1007/978-1-4899-3701-8_8) (source only) |
 | AIH-01550 | Checkpointing Agent State | Agentic AI | AI Agents | — |
-| AIH-01588 | Circuit Breaker | Agentic AI | AI Agents | — |
-| AIH-01626 | Code Interpreter | Agentic AI | AI Agents | — |
+| AIH-01588 | Circuit Breaker | Agentic AI | AI Agents | [1976](https://doi.org/10.2172/7123313) (source only) |
+| AIH-01626 | Code Interpreter | Agentic AI | AI Agents | [1981](https://doi.org/10.1145/1014192.802434) (source only) |
 | AIH-01664 | Compensating Action | Agentic AI | AI Agents | — |
 | AIH-01702 | Compiler Error Feedback | Agentic AI | AI Agents | — |
-| AIH-01740 | Computer Use | Agentic AI | AI Agents | — |
+| AIH-01740 | Computer Use | Agentic AI | AI Agents | [1974](https://doi.org/10.4095/102848) (source only) |
 | AIH-01778 | Confirmation Prompt | Agentic AI | AI Agents | — |
 | AIH-01816 | Conflict Resolution Among Agents | Agentic AI | AI Agents | — |
-| AIH-01854 | Consensus Among Agents | Agentic AI | AI Agents | — |
+| AIH-01854 | Consensus Among Agents | Agentic AI | AI Agents | [2009](https://doi.org/10.3182/20090921-3-tr-3005.00057) (source only) |
 | AIH-01892 | Context Compression for Handoff | Agentic AI | AI Agents | — |
-| AIH-01930 | Context Isolation | Agentic AI | AI Agents | — |
-| AIH-01968 | Context Pruning | Agentic AI | AI Agents | — |
+| AIH-01930 | Context Isolation | Agentic AI | AI Agents | [2007](https://doi.org/10.1037/e527342012-395) (source only) |
+| AIH-01968 | Context Pruning | Agentic AI | AI Agents | [2023](https://doi.org/10.52202/075280-2845) (source only) |
 | AIH-02006 | Context Refresh | Agentic AI | AI Agents | — |
 | AIH-02044 | Context Stuffing | Agentic AI | AI Agents | — |
 | AIH-02082 | Context Truncation | Agentic AI | AI Agents | — |
 | AIH-02120 | Contract Net Protocol | Agentic AI | AI Agents | — |
-| AIH-02158 | Conversation History | Agentic AI | AI Agents | — |
-| AIH-02196 | Conversation Summarization | Agentic AI | AI Agents | — |
+| AIH-02158 | Conversation History | Agentic AI | AI Agents | [2013](https://doi.org/10.4324/9780203726914-8) (source only) |
+| AIH-02196 | Conversation Summarization | Agentic AI | AI Agents | [2006](https://doi.org/10.3115/1614049.1614099) (source only) |
 | AIH-02234 | Coordination Overhead | Agentic AI | AI Agents | — |
-| AIH-02272 | Cost Ceiling | Agentic AI | AI Agents | — |
+| AIH-02272 | Cost Ceiling | Agentic AI | AI Agents | [1969](https://doi.org/10.1037/e467812008-009) (source only) |
 | AIH-02310 | Cost Estimation Before Execution | Agentic AI | AI Agents | — |
 | AIH-02348 | Credential Scoping | Agentic AI | AI Agents | — |
 | AIH-02386 | Credit Assignment in Agents | Agentic AI | AI Agents | — |
-| AIH-02424 | Critic Model | Agentic AI | AI Agents | — |
+| AIH-02424 | Critic Model | Agentic AI | AI Agents | [2013](https://doi.org/10.1186/1471-2202-14-s1-p425) (source only) |
 | AIH-02462 | Dangerous Capability Evaluation | Agentic AI | AI Agents | — |
 | AIH-02500 | Data-Instruction Separation | Agentic AI | AI Agents | — |
 | AIH-02538 | Debate Between Models | Agentic AI | AI Agents | — |
@@ -181,30 +181,30 @@
 | AIH-01450 | Anomaly Detection in Manufacturing | AI Applications | AI Applications | [2021](https://doi.org/10.1007/978-3-030-83819-5_1) (source only) |
 | AIH-01488 | Answer Explanation | AI Applications | AI Applications | — |
 | AIH-01526 | Anti-Money Laundering Screening (AML) | AI Applications | AI Applications | — |
-| AIH-01564 | API Documentation Generation | AI Applications | AI Applications | — |
+| AIH-01564 | API Documentation Generation | AI Applications | AI Applications | [2018](https://doi.org/10.1109/seaa.2018.00081) (source only) |
 | AIH-01602 | Appeals in Moderation | AI Applications | AI Applications | — |
-| AIH-01640 | Appointment Scheduling | AI Applications | AI Applications | — |
+| AIH-01640 | Appointment Scheduling | AI Applications | AI Applications | [1969](https://openalex.org/W4298044845) (source only) |
 | AIH-01678 | Appraisal Bias | AI Applications | AI Applications | — |
 | AIH-01716 | Assessment Generation | AI Applications | AI Applications | — |
 | AIH-01754 | Assortment Planning | AI Applications | AI Applications | — |
-| AIH-01792 | Auction Mechanism | AI Applications | AI Applications | — |
+| AIH-01792 | Auction Mechanism | AI Applications | AI Applications | [1991](https://doi.org/10.1017/cbo9780511528354.035) (source only) |
 | AIH-01830 | Audit Preparation | AI Applications | AI Applications | — |
 | AIH-01868 | Augmentative Communication (AAC) | AI Applications | AI Applications | — |
-| AIH-01906 | Automated Essay Scoring (AES) | AI Applications | AI Applications | — |
+| AIH-01906 | Automated Essay Scoring (AES) | AI Applications | AI Applications | [2012](https://doi.org/10.5120/8080-1480) (source only) |
 | AIH-01944 | Autonomous Coding Agent | AI Applications | AI Applications | — |
-| AIH-01982 | Backtest Overfitting | AI Applications | AI Applications | — |
+| AIH-01982 | Backtest Overfitting | AI Applications | AI Applications | [2013](https://doi.org/10.2139/ssrn.2326253) (source only) |
 | AIH-02020 | Backward chaining | AI Applications | AI Applications | — |
-| AIH-02058 | Bandwidth-Aware Design | AI Applications | AI Applications | — |
+| AIH-02058 | Bandwidth-Aware Design | AI Applications | AI Applications | [2007](https://doi.org/10.1007/978-3-540-75444-2_3) (source only) |
 | AIH-02096 | Bayesian Knowledge Tracing (BKT) | AI Applications | AI Applications | — |
-| AIH-02134 | Behaviour Change Intervention | AI Applications | AI Applications | — |
+| AIH-02134 | Behaviour Change Intervention | AI Applications | AI Applications | [2022](https://doi.org/10.32388/ecbzth) (source only) |
 | AIH-02172 | Behaviour Tree in Games | AI Applications | AI Applications | — |
 | AIH-02210 | Benefits Eligibility Determination | AI Applications | AI Applications | — |
-| AIH-02248 | Bias in Hiring Algorithms | AI Applications | AI Applications | — |
+| AIH-02248 | Bias in Hiring Algorithms | AI Applications | AI Applications | [2023](https://doi.org/10.51219/jaimld/yusuf-jazakallah/16) (source only) |
 | AIH-02286 | Border Processing Automation | AI Applications | AI Applications | — |
 | AIH-02324 | Brain-Computer Interface (BCI) | AI Applications | AI Applications | — |
-| AIH-02362 | Brand Safety | AI Applications | AI Applications | — |
+| AIH-02362 | Brand Safety | AI Applications | AI Applications | [2020](https://doi.org/10.14377/kja.2020.7.15.7) (source only) |
 | AIH-02400 | Budget Pacing | AI Applications | AI Applications | — |
-| AIH-02438 | Building Energy Management | AI Applications | AI Applications | — |
+| AIH-02438 | Building Energy Management | AI Applications | AI Applications | [2013](https://doi.org/10.4324/9780203477342) (source only) |
 | AIH-02476 | Business rule management system (BRMS) | AI Applications | AI Applications | — |
 | AIH-02514 | Business rules engine | AI Applications | AI Applications | — |
 | AIH-02552 | CADUCEUS (expert system) | AI Applications | AI Applications | — |
@@ -323,17 +323,17 @@
 | AIH-01399 | AI-complete | AI Foundations | Fundamentals | — |
 | AIH-01437 | AIOps | AI Foundations | Fundamentals | [2019](https://doi.org/10.1365/s40702-019-00503-y) (source only) |
 | AIH-01475 | Alexander Y. Tetelbaum | AI Foundations | Fundamentals | — |
-| AIH-01513 | Algorithm | AI Foundations | Fundamentals | — |
-| AIH-01551 | Algorithmic Accountability | AI Foundations | Fundamentals | — |
-| AIH-01589 | Algorithmic Bias | AI Foundations | Fundamentals | — |
-| AIH-01627 | Algorithmic Collusion | AI Foundations | Fundamentals | — |
+| AIH-01513 | Algorithm | AI Foundations | Fundamentals | [1973](https://doi.org/10.1109/proc.1973.9030) (source only) |
+| AIH-01551 | Algorithmic Accountability | AI Foundations | Fundamentals | [2014](https://doi.org/10.1080/21670811.2014.976411) (source only) |
+| AIH-01589 | Algorithmic Bias | AI Foundations | Fundamentals | [2016](https://doi.org/10.1145/2939672.2945386) (source only) |
+| AIH-01627 | Algorithmic Collusion | AI Foundations | Fundamentals | [2018](https://doi.org/10.2139/ssrn.3195812) (source only) |
 | AIH-01665 | Algorithmic Decision | AI Foundations | Fundamentals | — |
 | AIH-01703 | Algorithmic game theory (AGT) | AI Foundations | Fundamentals | — |
 | AIH-01741 | Algorithmic logic | AI Foundations | Fundamentals | — |
-| AIH-01779 | Algorithmic probability | AI Foundations | Fundamentals | — |
+| AIH-01779 | Algorithmic probability | AI Foundations | Fundamentals | [1981](https://doi.org/10.1109/sfcs.1981.31) (source only) |
 | AIH-01817 | Algorithmic Trading | AI Foundations | Fundamentals | — |
 | AIH-01855 | Alignment | AI Foundations | Fundamentals | — |
-| AIH-01893 | Alignment Problem | AI Foundations | Fundamentals | — |
+| AIH-01893 | Alignment Problem | AI Foundations | Fundamentals | [1991](https://doi.org/10.21236/ada243703) (source only) |
 | AIH-01931 | Alignment Research | AI Foundations | Fundamentals | — |
 | AIH-01969 | Alignment Tax | AI Foundations | Fundamentals | — |
 | AIH-00336 | All-Different Constraint | AI Foundations | Symbolic AI & Reasoning | [2002](https://doi.org/10.1007/3-540-46135-3_56) (source only) |
@@ -343,20 +343,20 @@
 | AIH-02045 | Ameca (robot) | AI Foundations | Fundamentals | — |
 | AIH-00450 | Analogical Reasoning | AI Foundations | Symbolic AI & Reasoning | [1988](https://doi.org/10.1007/978-94-015-7811-0) (source only) |
 | AIH-00488 | Analogy Retrieval | AI Foundations | Symbolic AI & Reasoning | [2000](https://doi.org/10.1111/1468-0394.00125) (source only) |
-| AIH-02083 | Analytical Integrity | AI Foundations | Fundamentals | — |
-| AIH-02121 | And–or tree | AI Foundations | Fundamentals | — |
+| AIH-02083 | Analytical Integrity | AI Foundations | Fundamentals | [2026](https://doi.org/10.26434/chemrxiv.15001584/v1) (source only) |
+| AIH-02121 | And–or tree | AI Foundations | Fundamentals | [2014](https://doi.org/10.1093/oxfordhb/9780199686858.013.024) (source only) |
 | AIH-00526 | Answer Set Programming (ASP) | AI Foundations | Symbolic AI & Reasoning | [2007](https://openalex.org/W2592295233) (source only) |
 | AIH-02159 | Anthropic | AI Foundations | Fundamentals | — |
-| AIH-02197 | Anthropomorphic Language | AI Foundations | Fundamentals | — |
+| AIH-02197 | Anthropomorphic Language | AI Foundations | Fundamentals | [2012](https://doi.org/10.1109/arso.2012.6213399) (source only) |
 | AIH-00564 | Anytime Algorithm | AI Foundations | Symbolic AI & Reasoning | [1995](https://doi.org/10.1007/3-540-60598-3_50) (source only) |
 | AIH-02235 | Appeal Timeline | AI Foundations | Fundamentals | — |
 | AIH-02273 | Applicability Boundary | AI Foundations | Fundamentals | — |
 | AIH-02311 | Applications of artificial intelligence | AI Foundations | Fundamentals | — |
 | AIH-02349 | Arabic Ontology | AI Foundations | Fundamentals | — |
-| AIH-02387 | Arbitrary Outcome | AI Foundations | Fundamentals | — |
+| AIH-02387 | Arbitrary Outcome | AI Foundations | Fundamentals | [2011](https://doi.org/10.1016/j.econlet.2011.03.004) (source only) |
 | AIH-00602 | Argumentation | AI Foundations | Symbolic AI & Reasoning | [1994](https://doi.org/10.2307/2940949) (source only) |
 | AIH-02425 | Argumentation framework | AI Foundations | Fundamentals | — |
-| AIH-02463 | ARIMA | AI Foundations | Fundamentals | — |
+| AIH-02463 | ARIMA | AI Foundations | Fundamentals | [2014](https://doi.org/10.1504/ijbaaf.2014.064307) (source only) |
 | AIH-02501 | Artificial brain | AI Foundations | Fundamentals | — |
 | AIH-02539 | Artificial consciousness | AI Foundations | Fundamentals | — |
 | AIH-02577 | Artificial intelligence and elections | AI Foundations | Fundamentals | — |
@@ -455,31 +455,31 @@
 | AIH-01438 | Contingent Planning | AI Foundations | Symbolic AI & Reasoning | [2003](https://doi.org/10.1016/s0004-3702(02)00379-x) (source only) |
 | AIH-01476 | Coq | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-01514 | Counterexample-Guided Synthesis (CEGIS) | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-01552 | Cyc | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-01590 | Datalog | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-01628 | DBpedia | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-01552 | Cyc | AI Foundations | Symbolic AI & Reasoning | [1991](https://doi.org/10.1145/122296.122308) (source only) |
+| AIH-01590 | Datalog | AI Foundations | Symbolic AI & Reasoning | [1988](https://doi.org/10.1145/971701.50218) (source only) |
+| AIH-01628 | DBpedia | AI Foundations | Symbolic AI & Reasoning | [2007](https://doi.org/10.1007/978-3-540-76298-0_52) (source only) |
 | AIH-01666 | Declarative Memory in Architectures | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-01704 | Deductive Reasoning | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-01742 | Default Logic | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-01780 | Defeasible Reasoning | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-01742 | Default Logic | AI Foundations | Symbolic AI & Reasoning | [1989](https://doi.org/10.1007/978-3-662-05689-9_11) (source only) |
+| AIH-01780 | Defeasible Reasoning | AI Foundations | Symbolic AI & Reasoning | [1987](https://doi.org/10.1207/s15516709cog1104_4) (source only) |
 | AIH-01818 | Defuzzification | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-01856 | Dempster-Shafer Theory (DST) | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-01894 | Dependent Type | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-01932 | Description Logic Reasoning | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-01932 | Description Logic Reasoning | AI Foundations | Symbolic AI & Reasoning | [2006](https://doi.org/10.1007/11799573_50) (source only) |
 | AIH-01970 | Dialectical Reasoning | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-02008 | Differentiable Logic | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-02046 | Domain Reduction | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-02008 | Differentiable Logic | AI Foundations | Symbolic AI & Reasoning | [2021](https://doi.org/10.1007/s10994-021-06058-8) (source only) |
+| AIH-02046 | Domain Reduction | AI Foundations | Symbolic AI & Reasoning | [1987](https://doi.org/10.1016/0016-7142(87)90083-4) (source only) |
 | AIH-02084 | Dominance of Heuristics | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-02122 | Entity Resolution (ER) | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-02160 | Evaluation Function | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-02198 | Event Calculus | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-02198 | Event Calculus | AI Foundations | Symbolic AI & Reasoning | [1992](https://doi.org/10.1016/0743-1066(92)90041-z) (source only) |
 | AIH-02236 | Expectimax | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-02274 | Expert System Shell | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-02274 | Expert System Shell | AI Foundations | Symbolic AI & Reasoning | [1987](https://doi.org/10.1515/zwf-1987-820511) (source only) |
 | AIH-02312 | Explanation Facility | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-02350 | Fluent | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-02388 | Formal Specification | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-02426 | Formalized Mathematics | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-02464 | Forward Chaining Inference | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-02464 | Forward Chaining Inference | AI Foundations | Symbolic AI & Reasoning | [1987](https://doi.org/10.1145/28315.28337) (source only) |
 | AIH-02502 | Frame of Reference Problem | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-02540 | Frame Problem | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-02578 | Frontier | AI Foundations | Symbolic AI & Reasoning | — |

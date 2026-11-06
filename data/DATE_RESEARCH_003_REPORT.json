@@ -1,0 +1,17 @@
+{
+  "batch": "DATE_RESEARCH_003",
+  "id_range": [
+    "AIH-01501",
+    "AIH-02500"
+  ],
+  "examined": 1000,
+  "dated_source_records": 443,
+  "crossref_title_matches": 373,
+  "openalex_title_matches": 70,
+  "unresolved": 557,
+  "verified_original_first_use": 0,
+  "all_ids_preserved": true,
+  "previous_1500_unchanged": true,
+  "inventory_size": 20100,
+  "note": "Exact-title scholarly citation dates, NOT proven first-ever phrase use."
+}

@@ -6,26 +6,26 @@
 
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
-| AIH-01611 | Competition Authority | People & Organizations | People & Organizations | — |
-| AIH-01649 | Compute Divide | People & Organizations | People & Organizations | — |
+| AIH-01611 | Competition Authority | People & Organizations | People & Organizations | [1993](https://doi.org/10.54648/eulr1993090) (source only) |
+| AIH-01649 | Compute Divide | People & Organizations | People & Organizations | [2020](https://doi.org/10.48550/arxiv.2010.15581) (source only) |
 | AIH-01687 | Compute Provider | People & Organizations | People & Organizations | — |
 | AIH-01725 | Connectionism Revival | People & Organizations | People & Organizations | — |
 | AIH-01763 | Consortium | People & Organizations | People & Organizations | — |
-| AIH-01801 | Crowdsourcing Platform | People & Organizations | People & Organizations | — |
-| AIH-01839 | CVPR | People & Organizations | People & Organizations | — |
+| AIH-01801 | Crowdsourcing Platform | People & Organizations | People & Organizations | [2012](https://doi.org/10.1145/2213836.2213951) (source only) |
+| AIH-01839 | CVPR | People & Organizations | People & Organizations | [1988](https://doi.org/10.1109/cvpr.1988) (source only) |
 | AIH-01877 | Cynthia Breazeal | People & Organizations | People & Organizations | — |
 | AIH-01915 | Cynthia Dwork | People & Organizations | People & Organizations | — |
-| AIH-01953 | Daphne Koller | People & Organizations | People & Organizations | — |
+| AIH-01953 | Daphne Koller | People & Organizations | People & Organizations | [2002](https://doi.org/10.1109/5254.988441) (source only) |
 | AIH-01991 | Dartmouth Workshop | People & Organizations | People & Organizations | — |
-| AIH-02029 | Data Worker | People & Organizations | People & Organizations | — |
+| AIH-02029 | Data Worker | People & Organizations | People & Organizations | [2022](https://doi.org/10.21125/inted.2022.0018) (source only) |
 | AIH-02067 | David Silver | People & Organizations | People & Organizations | — |
-| AIH-02105 | Demis Hassabis | People & Organizations | People & Organizations | — |
+| AIH-02105 | Demis Hassabis | People & Organizations | People & Organizations | [2023](https://doi.org/10.1073/pnas.2313816120) (source only) |
 | AIH-02143 | Deployer | People & Organizations | People & Organizations | — |
 | AIH-02181 | Digital Rights Organization | People & Organizations | People & Organizations | — |
 | AIH-02219 | Donald Knuth | People & Organizations | People & Organizations | — |
-| AIH-02257 | Downstream Developer | People & Organizations | People & Organizations | — |
-| AIH-02295 | Dual-Use Research of Concern (DURC) | People & Organizations | People & Organizations | — |
-| AIH-02333 | Edsger Dijkstra | People & Organizations | People & Organizations | — |
+| AIH-02257 | Downstream Developer | People & Organizations | People & Organizations | [2026](https://doi.org/10.1007/s10664-026-10937-w) (source only) |
+| AIH-02295 | Dual-Use Research of Concern (DURC) | People & Organizations | People & Organizations | [2015](https://doi.org/10.1128/mbio.01236-15) (source only) |
+| AIH-02333 | Edsger Dijkstra | People & Organizations | People & Organizations | [1992](https://doi.org/10.1016/0950-5849(92)90150-n) (source only) |
 | AIH-02371 | Effective Altruism | People & Organizations | People & Organizations | — |
 | AIH-02409 | EleutherAI | People & Organizations | People & Organizations | — |
 | AIH-02447 | Eliezer Yudkowsky | People & Organizations | People & Organizations | — |
@@ -141,30 +141,30 @@
 | AIH-01422 | Bytecode | Programming & Software | Programming & Software | [1996](https://doi.org/10.1016/s1353-4858(96)90173-7) (source only) |
 | AIH-01460 | Cache Locality | Programming & Software | Programming & Software | [1993](https://doi.org/10.1145/173262.155107) (source only) |
 | AIH-01498 | Call Graph | Programming & Software | Programming & Software | [1995](https://doi.org/10.1007/978-1-4615-2215-7_11) (source only) |
-| AIH-01536 | Callback | Programming & Software | Programming & Software | — |
-| AIH-01574 | CAP Theorem | Programming & Software | Programming & Software | — |
-| AIH-01612 | Catastrophic Backtracking | Programming & Software | Programming & Software | — |
+| AIH-01536 | Callback | Programming & Software | Programming & Software | [1986](https://doi.org/10.1016/0167-4048(86)90137-9) (source only) |
+| AIH-01574 | CAP Theorem | Programming & Software | Programming & Software | [2008](https://doi.org/10.1007/s00454-008-9077-7) (source only) |
+| AIH-01612 | Catastrophic Backtracking | Programming & Software | Programming & Software | [2014](https://doi.org/10.4204/eptcs.151.7) (source only) |
 | AIH-01650 | Change Failure Rate | Programming & Software | Programming & Software | — |
 | AIH-01688 | Changelog | Programming & Software | Programming & Software | — |
 | AIH-01726 | Changelog Generation | Programming & Software | Programming & Software | — |
 | AIH-01764 | Character Encoding | Programming & Software | Programming & Software | — |
-| AIH-01802 | Cherry-Pick | Programming & Software | Programming & Software | — |
-| AIH-01840 | Closure | Programming & Software | Programming & Software | — |
-| AIH-01878 | Code Attribution | Programming & Software | Programming & Software | — |
+| AIH-01802 | Cherry-Pick | Programming & Software | Programming & Software | [2004](https://doi.org/10.12968/eyed.2004.5.12.14265) (source only) |
+| AIH-01840 | Closure | Programming & Software | Programming & Software | [2025](https://doi.org/10.36487/acg_repo/2515_23) (source only) |
+| AIH-01878 | Code Attribution | Programming & Software | Programming & Software | [2019](https://doi.org/10.23919/cnsm46954.2019.9012681) (source only) |
 | AIH-01916 | Code Coverage | Programming & Software | Programming & Software | — |
-| AIH-01954 | Code Generation Quality | Programming & Software | Programming & Software | — |
+| AIH-01954 | Code Generation Quality | Programming & Software | Programming & Software | [2026](https://doi.org/10.2139/ssrn.6087362) (source only) |
 | AIH-01992 | Code Owner | Programming & Software | Programming & Software | — |
 | AIH-02030 | Code Readability | Programming & Software | Programming & Software | — |
-| AIH-02068 | Code Review | Programming & Software | Programming & Software | — |
+| AIH-02068 | Code Review | Programming & Software | Programming & Software | [2015](https://doi.org/10.1109/saner.2015.7081824) (source only) |
 | AIH-02106 | Code Review Automation | Programming & Software | Programming & Software | — |
-| AIH-02144 | Code Smell | Programming & Software | Programming & Software | — |
-| AIH-02182 | Codebase Indexing | Programming & Software | Programming & Software | — |
+| AIH-02144 | Code Smell | Programming & Software | Programming & Software | [2012](https://doi.org/10.1109/wcre.2012.69) (source only) |
+| AIH-02182 | Codebase Indexing | Programming & Software | Programming & Software | [2026](https://doi.org/10.63920/tjths.52011) (source only) |
 | AIH-02220 | Codemod | Programming & Software | Programming & Software | — |
 | AIH-02258 | Cognitive Load in Codebases | Programming & Software | Programming & Software | — |
-| AIH-02296 | Comment Accuracy | Programming & Software | Programming & Software | — |
-| AIH-02334 | Commit | Programming & Software | Programming & Software | — |
+| AIH-02296 | Comment Accuracy | Programming & Software | Programming & Software | [1992](https://doi.org/10.1049/el:19921501) (source only) |
+| AIH-02334 | Commit | Programming & Software | Programming & Software | [1994](https://doi.org/10.1007/bf01267327) (source only) |
 | AIH-02372 | Commit Message Quality | Programming & Software | Programming & Software | — |
-| AIH-02410 | Compatibility Matrix | Programming & Software | Programming & Software | — |
+| AIH-02410 | Compatibility Matrix | Programming & Software | Programming & Software | [2010](https://doi.org/10.1007/978-3-540-76435-9_4095) (source only) |
 | AIH-02448 | Compilation Success Rate | Programming & Software | Programming & Software | — |
 | AIH-02486 | Compiler | Programming & Software | Programming & Software | — |
 | AIH-02524 | Compiler Optimization | Programming & Software | Programming & Software | — |
@@ -278,30 +278,30 @@
 | AIH-01423 | Parameterized Quantum Circuit (PQC) | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-01461 | Photonic Quantum Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | [1996](https://doi.org/10.1117/12.243112) (source only) |
 | AIH-01499 | Physical Reservoir | Quantum & Emerging Compute | Quantum & Emerging Compute | [2021](https://doi.org/10.1007/978-981-13-1687-6_8) (source only) |
-| AIH-01537 | Probabilistic Bit | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-01575 | Quantum Advantage | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-01613 | Quantum Annealing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-01651 | Quantum Approximate Optimization Algorithm (QAOA) | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-01689 | Quantum Circuit | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-01727 | Quantum Circuit Transpilation | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-01765 | Quantum Decoherence | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-01537 | Probabilistic Bit | Quantum & Emerging Compute | Quantum & Emerging Compute | [1991](https://doi.org/10.1080/09540099108946589) (source only) |
+| AIH-01575 | Quantum Advantage | Quantum & Emerging Compute | Quantum & Emerging Compute | [2006](https://doi.org/10.26421/qic6.7-4) (source only) |
+| AIH-01613 | Quantum Annealing | Quantum & Emerging Compute | Quantum & Emerging Compute | [1994](https://doi.org/10.1016/0009-2614(94)00117-0) (source only) |
+| AIH-01651 | Quantum Approximate Optimization Algorithm (QAOA) | Quantum & Emerging Compute | Quantum & Emerging Compute | [2019](https://openalex.org/W4289730035) (source only) |
+| AIH-01689 | Quantum Circuit | Quantum & Emerging Compute | Quantum & Emerging Compute | [2008](https://doi.org/10.1201/9781420012293.ch4) (source only) |
+| AIH-01727 | Quantum Circuit Transpilation | Quantum & Emerging Compute | Quantum & Emerging Compute | [2020](https://doi.org/10.1109/qce49297.2020.00050) (source only) |
+| AIH-01765 | Quantum Decoherence | Quantum & Emerging Compute | Quantum & Emerging Compute | [1999](https://doi.org/10.1016/b978-044450091-5/50069-5) (source only) |
 | AIH-01803 | Quantum Error Correction (QEC) | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-01841 | Quantum Feature Map | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-01879 | Quantum Fourier Transform (QFT) | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-01841 | Quantum Feature Map | Quantum & Emerging Compute | Quantum & Emerging Compute | [2024](https://doi.org/10.1007/s42484-024-00177-w) (source only) |
+| AIH-01879 | Quantum Fourier Transform (QFT) | Quantum & Emerging Compute | Quantum & Emerging Compute | [2013](https://doi.org/10.1117/12.2015194) (source only) |
 | AIH-01917 | Quantum Gate | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-01955 | Quantum Internet | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-01993 | Quantum Kernel Method | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02031 | Quantum Key Distribution (QKD) | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02069 | Quantum Machine Learning Model | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-01993 | Quantum Kernel Method | Quantum & Emerging Compute | Quantum & Emerging Compute | [2024](https://doi.org/10.1103/physreva.110.022404) (source only) |
+| AIH-02031 | Quantum Key Distribution (QKD) | Quantum & Emerging Compute | Quantum & Emerging Compute | [2004](https://doi.org/10.1364/iqec.2004.itui29) (source only) |
+| AIH-02069 | Quantum Machine Learning Model | Quantum & Emerging Compute | Quantum & Emerging Compute | [2025](https://doi.org/10.5194/egusphere-egu25-11521) (source only) |
 | AIH-02107 | Quantum Sensing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02145 | Quantum Simulation | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02183 | Quantum Simulator | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-02145 | Quantum Simulation | Quantum & Emerging Compute | Quantum & Emerging Compute | [2011](https://doi.org/10.1364/icqi.2011.qwa2) (source only) |
+| AIH-02183 | Quantum Simulator | Quantum & Emerging Compute | Quantum & Emerging Compute | [2014](https://doi.org/10.1140/epjqt10) (source only) |
 | AIH-02221 | Quantum Software Development Kit | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-02259 | Quantum Supremacy | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-02297 | Quantum Volume | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02335 | Quantum-Inspired Algorithm | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-02335 | Quantum-Inspired Algorithm | Quantum & Emerging Compute | Quantum & Emerging Compute | [2019](https://doi.org/10.1007/s42484-019-00009-2) (source only) |
 | AIH-02373 | Qubit | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02411 | Qubit Connectivity | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-02411 | Qubit Connectivity | Quantum & Emerging Compute | Quantum & Emerging Compute | [2015](https://doi.org/10.1007/s11128-015-1150-6) (source only) |
 | AIH-02449 | QUBO | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-02487 | Reservoir Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-02525 | Reversible Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
@@ -355,10 +355,10 @@
 | AIH-01424 | Embedding Table Sharding | Recommender Systems | Recommender Systems | — |
 | AIH-01462 | Explicit Feedback | Recommender Systems | Recommender Systems | [2007](https://doi.org/10.1109/hpsr.2007.4281272) (source only) |
 | AIH-01500 | Exploration in Recommendation | Recommender Systems | Recommender Systems | [2025](https://doi.org/10.52783/jisem.v10i63s.13905) (source only) |
-| AIH-01538 | Exposure Bias in Recommendation | Recommender Systems | Recommender Systems | — |
-| AIH-01576 | Exposure Guarantee | Recommender Systems | Recommender Systems | — |
+| AIH-01538 | Exposure Bias in Recommendation | Recommender Systems | Recommender Systems | [2020](https://doi.org/10.48550/arxiv.2006.15772) (source only) |
+| AIH-01576 | Exposure Guarantee | Recommender Systems | Recommender Systems | [2002](https://doi.org/10.1097/00000542-200209000-00035) (source only) |
 | AIH-01614 | Factorization Machine (FM) | Recommender Systems | Recommender Systems | — |
-| AIH-01652 | Fairness in Recommendation | Recommender Systems | Recommender Systems | — |
+| AIH-01652 | Fairness in Recommendation | Recommender Systems | Recommender Systems | [2018](https://openalex.org/W2793995607) (source only) |
 | AIH-01690 | Feature Crossing in Recommenders | Recommender Systems | Recommender Systems | — |
 | AIH-01728 | Feature Freshness | Recommender Systems | Recommender Systems | — |
 | AIH-01766 | Feed Diversity Constraint | Recommender Systems | Recommender Systems | — |
@@ -366,21 +366,21 @@
 | AIH-01842 | Field-Aware Factorization Machine (FFM) | Recommender Systems | Recommender Systems | — |
 | AIH-01880 | Freshness in Recommendation | Recommender Systems | Recommender Systems | — |
 | AIH-01918 | Graph-Based Recommendation | Recommender Systems | Recommender Systems | — |
-| AIH-01956 | Group Recommendation | Recommender Systems | Recommender Systems | — |
+| AIH-01956 | Group Recommendation | Recommender Systems | Recommender Systems | [2010](https://doi.org/10.1145/1880071.1880087) (source only) |
 | AIH-01994 | Hash Collision in Embeddings | Recommender Systems | Recommender Systems | — |
-| AIH-02032 | Hybrid Recommender | Recommender Systems | Recommender Systems | — |
+| AIH-02032 | Hybrid Recommender | Recommender Systems | Recommender Systems | [2005](https://doi.org/10.1109/ichis.2005.109) (source only) |
 | AIH-02070 | Implicit ALS | Recommender Systems | Recommender Systems | — |
-| AIH-02108 | Implicit Feedback | Recommender Systems | Recommender Systems | — |
+| AIH-02108 | Implicit Feedback | Recommender Systems | Recommender Systems | [1993](https://doi.org/10.20955/r.75.23-40) (source only) |
 | AIH-02146 | Implicit Negative Feedback | Recommender Systems | Recommender Systems | — |
-| AIH-02184 | Incrementality | Recommender Systems | Recommender Systems | — |
-| AIH-02222 | Interest Decay | Recommender Systems | Recommender Systems | — |
-| AIH-02260 | Item Embedding | Recommender Systems | Recommender Systems | — |
+| AIH-02184 | Incrementality | Recommender Systems | Recommender Systems | [1980](https://doi.org/10.1145/322203.322215) (source only) |
+| AIH-02222 | Interest Decay | Recommender Systems | Recommender Systems | [2013](https://doi.org/10.1016/j.physleta.2012.11.044) (source only) |
+| AIH-02260 | Item Embedding | Recommender Systems | Recommender Systems | [2016](https://doi.org/10.1145/2959100.2959182) (source only) |
 | AIH-02298 | Item-Based Collaborative Filtering | Recommender Systems | Recommender Systems | — |
 | AIH-02336 | Knowledge-Aware Recommendation | Recommender Systems | Recommender Systems | — |
-| AIH-02374 | Latent Factor | Recommender Systems | Recommender Systems | — |
-| AIH-02412 | LightGCN | Recommender Systems | Recommender Systems | — |
-| AIH-02450 | Long Tail Recommendation | Recommender Systems | Recommender Systems | — |
-| AIH-02488 | Matrix Factorization for Recommendation | Recommender Systems | Recommender Systems | — |
+| AIH-02374 | Latent Factor | Recommender Systems | Recommender Systems | [1990](https://doi.org/10.21236/ada229675) (source only) |
+| AIH-02412 | LightGCN | Recommender Systems | Recommender Systems | [2020](https://doi.org/10.1145/3397271.3401063) (source only) |
+| AIH-02450 | Long Tail Recommendation | Recommender Systems | Recommender Systems | [2012](https://doi.org/10.14778/2311906.2311916) (source only) |
+| AIH-02488 | Matrix Factorization for Recommendation | Recommender Systems | Recommender Systems | [2013](https://doi.org/10.1145/2487788.2487801) (source only) |
 | AIH-02526 | Multi-Interest User Model | Recommender Systems | Recommender Systems | — |
 | AIH-02564 | Multi-Objective Recommendation | Recommender Systems | Recommender Systems | — |
 | AIH-02602 | Multi-Stage Recommender | Recommender Systems | Recommender Systems | — |
@@ -459,31 +459,31 @@
 | AIH-01401 | DAgger | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-01439 | DDPG | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-01477 | Decision Transformer (DT) | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-01515 | Dense Reward | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-01553 | Deterministic Policy | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-01515 | Dense Reward | Reinforcement Learning | Reinforcement Learning | [2019](https://doi.org/10.1016/j.neucom.2019.06.024) (source only) |
+| AIH-01553 | Deterministic Policy | Reinforcement Learning | Reinforcement Learning | [2014](https://openalex.org/W2165150801) (source only) |
 | AIH-01591 | Deterministic Policy Gradient (DPG) | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-01629 | Discount Factor | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-01667 | Discrete Action Space | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-01629 | Discount Factor | Reinforcement Learning | Reinforcement Learning | [1989](https://doi.org/10.6028/nist.ir.89-4203) (source only) |
+| AIH-01667 | Discrete Action Space | Reinforcement Learning | Reinforcement Learning | [2013](https://doi.org/10.1016/j.econlet.2013.04.023) (source only) |
 | AIH-01705 | Distributed RL | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-01743 | Distributional RL | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-01781 | Distributional Shift in Offline RL | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-01819 | Diversity-Driven Skill Learning | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-01857 | Double Q-Learning | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-01895 | Dreamer | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-01895 | Dreamer | Reinforcement Learning | Reinforcement Learning | [2016](https://doi.org/10.2139/ssrn.2675450) (source only) |
 | AIH-01933 | Dyna Architecture | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-01971 | Eligibility Trace | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-01971 | Eligibility Trace | Reinforcement Learning | Reinforcement Learning | [1993](https://doi.org/10.1117/12.152643) (source only) |
 | AIH-02009 | Emergent Communication | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-02047 | Entropy Bonus | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-02085 | Environment | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-02123 | Episode Termination | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-02161 | Evaluation Protocol | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-02199 | Expected SARSA | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-02237 | Experience Replay | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-02275 | Expert Demonstration | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-02313 | Exploitability | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-02199 | Expected SARSA | Reinforcement Learning | Reinforcement Learning | [2009](https://doi.org/10.1109/adprl.2009.4927542) (source only) |
+| AIH-02237 | Experience Replay | Reinforcement Learning | Reinforcement Learning | [2013](https://doi.org/10.1016/j.neunet.2012.11.007) (source only) |
+| AIH-02275 | Expert Demonstration | Reinforcement Learning | Reinforcement Learning | [1997](https://doi.org/10.1080/07303084.1997.10604962) (source only) |
+| AIH-02313 | Exploitability | Reinforcement Learning | Reinforcement Learning | [1976](https://doi.org/10.1007/bf01531454) (source only) |
 | AIH-02351 | Few-Shot Adaptation | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-02389 | Fictitious Self-Play | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-02427 | Frame Skipping | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-02427 | Frame Skipping | Reinforcement Learning | Reinforcement Learning | [2000](https://doi.org/10.1117/12.386547) (source only) |
 | AIH-02465 | Frame Stacking | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-02503 | GAIL | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-02541 | General-Sum Game | Reinforcement Learning | Reinforcement Learning | — |
