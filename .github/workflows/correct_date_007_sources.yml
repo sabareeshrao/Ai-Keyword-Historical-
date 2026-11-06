@@ -1,0 +1,88 @@
+name: Correct batch 007 with original scholarly sources
+
+on:
+  push:
+    paths:
+      - ".github/workflows/correct_date_007_sources.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ai-term-source-corrections-007
+  cancel-in-progress: false
+
+jobs:
+  correct:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Safely update nine audited historical source records
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/correct_date_research_007_primary_sources.py
+            python scripts/build_keyword_tables.py
+            python scripts/sync_readme.py
+            python - <<'PY'
+          import csv,json
+          from pathlib import Path
+          with open("data/KEYWORD_INVENTORY.csv",newline="",encoding="utf-8") as f:
+              rows=list(csv.DictReader(f))
+          lookup={r["id"]:r for r in rows}
+          assert len(rows)==20100 and len(lookup)==20100
+          expected={
+            "AIH-06506":2023,
+            "AIH-06507":1983,
+            "AIH-06513":2013,
+            "AIH-06523":2024,
+            "AIH-07007":2014,
+            "AIH-07501":2013,
+            "AIH-07505":1981,
+            "AIH-08004":2020,
+            "AIH-08009":2020,
+          }
+          for uid,year in expected.items():
+              row=lookup[uid]
+              assert row["historical_evidence_date"]==str(year)
+              assert row["historical_evidence_url"].startswith("https://")
+              assert not row["first_use_date"]
+          report=json.loads(Path("data/DATE_RESEARCH_007_REPORT.json").read_text())
+          assert report["manual_semantic_corrections"]==9
+          assert report["examined"]==2000
+          assert sum(report[x] for x in ["documented_source_dates","estimated_star_dates","unresolved"])==2000
+          for i in range(1,5):
+              table=Path(f"batches/date-research-007/page-{i:02d}.md").read_text()
+              assert sum(x.startswith("| AIH-") for x in table.splitlines())==500
+          for old in ["DATE_RESEARCH_004_RECOVERY_FIRST_1000.md",
+                      "DATE_RESEARCH_005_NEXT_2000.md",
+                      "DATE_RESEARCH_006_NEXT_2000.md"]:
+              assert Path("batches",old).exists()
+          assert lookup["AIH-02503"]["historical_evidence_date"]=="2016"
+          assert lookup["AIH-06007"]["historical_evidence_date"]=="2023"
+          print("Audit passed: nine source corrections, four complete tables and all permanent IDs.")
+          PY
+            git add README.md data/KEYWORD_INVENTORY.csv data/DATE_RESEARCH_007_REPORT.json batches/DATE_RESEARCH_007_NEXT_2000.md batches/date-research-007/ tables/
+            if git diff --cached --quiet; then
+              echo "Already current"
+              exit 0
+            fi
+            git commit -m "Audit batch 007: replace nine misleading dates with primary scholarly sources"
+            if git push origin HEAD:main; then
+              echo "Primary-source corrections published"
+              exit 0
+            fi
+            sleep 2
+          done
+          echo "Concurrent changes prevented publishing"
+          exit 1
