@@ -5,14 +5,98 @@
     "AIH-08500"
   ],
   "examined": 2000,
-  "documented_source_dates": 1085,
-  "unresolved": 883,
-  "estimated_star_dates": 32,
-  "dated_or_estimated": 1117,
+  "documented_source_dates": 1090,
+  "unresolved": 880,
+  "estimated_star_dates": 30,
+  "dated_or_estimated": 1120,
   "verified_original_first_use": 0,
   "existing_first_6500_unchanged": true,
   "stable_ids_preserved": true,
   "inventory_total": 20100,
   "estimated_display_rule": "★ immediately after year; low-confidence supporting source and reasoning mandatory.",
-  "note": "Neither linked publication dates nor estimated years prove historical first use."
+  "note": "Neither linked publication dates nor estimated years prove historical first use.",
+  "manual_semantic_corrections": 9,
+  "manually_verified_primary_source_corrections": [
+    {
+      "id": "AIH-06506",
+      "keyword": "Mistral",
+      "old_source_year": "",
+      "old_estimated_year": "",
+      "new_evidence_year": "2023",
+      "new_source": "https://mistral.ai/news/announcing-mistral-7b/",
+      "reason": "Official 27 September 2023 release of the Mistral 7B language model. 'Mistral' as a general word existed much earlier; this date applies only to the AI model/brand."
+    },
+    {
+      "id": "AIH-06507",
+      "keyword": "Morphology",
+      "old_source_year": "1935",
+      "old_estimated_year": "",
+      "new_evidence_year": "1983",
+      "new_source": "https://ijcai.org/proceedings/1983/164",
+      "reason": "Earliest cited computational morphology/NLP research lead, presented at IJCAI 1983. Does NOT establish the historical first use of 'morphology', a much older term. Replaces unrelated 1935 entomology hit."
+    },
+    {
+      "id": "AIH-06513",
+      "keyword": "Stochastic Variational Inference (SVI)",
+      "old_source_year": "",
+      "old_estimated_year": "2026",
+      "new_evidence_year": "2013",
+      "new_source": "https://jmlr.org/papers/v14/hoffman13a.html",
+      "reason": "Original JMLR 2013 paper introducing stochastic variational inference. Replaces an unsupported 2026 starred estimate."
+    },
+    {
+      "id": "AIH-06523",
+      "keyword": "Mixture of Agents (MoA)",
+      "old_source_year": "",
+      "old_estimated_year": "2026",
+      "new_evidence_year": "2024",
+      "new_source": "https://arxiv.org/abs/2406.04692",
+      "reason": "Original June 2024 MoA language-model method paper. Replaces an incorrectly late 2026 starred estimate."
+    },
+    {
+      "id": "AIH-07007",
+      "keyword": "Raft",
+      "old_source_year": "",
+      "old_estimated_year": "",
+      "new_evidence_year": "2014",
+      "new_source": "https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro",
+      "reason": "USENIX ATC 2014 original Raft distributed consensus algorithm; this is not a claim about unrelated senses of the word raft."
+    },
+    {
+      "id": "AIH-07501",
+      "keyword": "Leaky ReLU",
+      "old_source_year": "2016",
+      "old_estimated_year": "",
+      "new_evidence_year": "2013",
+      "new_source": "https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf",
+      "reason": "2013 primary neural-network paper investigating leaky rectified-linear activation units; earlier than 2016 retrieved mention. Exact first phrasing not conclusively established."
+    },
+    {
+      "id": "AIH-07505",
+      "keyword": "RANSAC",
+      "old_source_year": "",
+      "old_estimated_year": "",
+      "new_evidence_year": "1981",
+      "new_source": "https://doi.org/10.1145/358669.358692",
+      "reason": "Original Communications of the ACM 1981 method introducing RANSAC. Search returned no title match because full acronym not in publication title."
+    },
+    {
+      "id": "AIH-08004",
+      "keyword": "Movement Pruning",
+      "old_source_year": "2022",
+      "old_estimated_year": "",
+      "new_evidence_year": "2020",
+      "new_source": "https://arxiv.org/abs/2005.07683",
+      "reason": "Original May 2020 research preprint introducing Movement Pruning; replaces later 2022 reference."
+    },
+    {
+      "id": "AIH-08009",
+      "keyword": "Fourier Neural Operator (FNO)",
+      "old_source_year": "2025",
+      "old_estimated_year": "",
+      "new_evidence_year": "2020",
+      "new_source": "https://arxiv.org/abs/2010.08895",
+      "reason": "Original October 2020 FNO preprint, later ICLR 2021; replaces later 2025 application paper."
+    }
+  ]
 }

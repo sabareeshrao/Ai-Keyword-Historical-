@@ -59,7 +59,7 @@
 | AIH-06962 | Pure Function | Programming & Software | Programming & Software | — |
 | AIH-06977 | Queue | Programming & Software | Programming & Software | — |
 | AIH-06992 | Race Condition | Programming & Software | Programming & Software | [1971](https://doi.org/10.17487/rfc161) (source only) |
-| AIH-07007 | Raft | Programming & Software | Programming & Software | — |
+| AIH-07007 | Raft | Programming & Software | Programming & Software | [2014](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro) (source only) |
 | AIH-07022 | Rebase | Programming & Software | Programming & Software | — |
 | AIH-07037 | Recursion | Programming & Software | Programming & Software | [1978](https://doi.org/10.1007/978-3-662-12898-5_3) (source only) |
 | AIH-07052 | Refactoring | Programming & Software | Programming & Software | [2000](https://doi.org/10.15760/etd.2671) (source only) |

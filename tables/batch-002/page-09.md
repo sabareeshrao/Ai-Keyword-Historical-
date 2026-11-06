@@ -110,7 +110,7 @@
 | AIH-09985 | Stochastic Matrix | Mathematics | Mathematics & Statistics | — |
 | AIH-06692 | Stochastic Optimization | Mathematics | Optimization | [1985](https://doi.org/10.1515/9783112780312-003) (source only) |
 | AIH-06708 | Stochastic Programming | Mathematics | Optimization | — |
-| AIH-06513 | Stochastic Variational Inference (SVI) | Mathematics | Probabilistic Methods | [2026](https://doi.org/10.1016/j.iintel.2026.100251) ★ (estimated) |
+| AIH-06513 | Stochastic Variational Inference (SVI) | Mathematics | Probabilistic Methods | [2013](https://jmlr.org/papers/v14/hoffman13a.html) (source only) |
 | AIH-09987 | Stokes' Theorem | Mathematics | Mathematics & Statistics | — |
 | AIH-06724 | Stopping Tolerance | Mathematics | Optimization | — |
 | AIH-09989 | Straight-Through Estimator | Mathematics | Mathematics & Statistics | — |
@@ -267,7 +267,7 @@
 | AIH-06453 | Mixed-Initiative Dialogue | NLP and LLMs | Natural Language Processing | — |
 | AIH-06471 | Morpheme | NLP and LLMs | Natural Language Processing | — |
 | AIH-06489 | Morphologically Rich Language | NLP and LLMs | Natural Language Processing | — |
-| AIH-06507 | Morphology | NLP and LLMs | Natural Language Processing | [1935](https://doi.org/10.1093/aesa/28.3.408) (source only) |
+| AIH-06507 | Morphology | NLP and LLMs | Natural Language Processing | [1983](https://ijcai.org/proceedings/1983/164) (source only) |
 | AIH-06524 | Multi-Document Summarization | NLP and LLMs | Natural Language Processing | [2000](https://doi.org/10.3115/992730.992775) (source only) |
 | AIH-06541 | Multi-Hop Question Answering | NLP and LLMs | Natural Language Processing | [2018](https://doi.org/10.18653/v1/d18-1454) (source only) |
 | AIH-06558 | Multi-Page Document Understanding | NLP and LLMs | Natural Language Processing | [2025](https://doi.org/10.18653/v1/2025.acl-long.291) (source only) |

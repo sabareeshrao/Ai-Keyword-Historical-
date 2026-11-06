@@ -161,7 +161,7 @@
 | AIH-07468 | Layer-Wise Gradient Norm | Deep Learning | Deep Learning | — |
 | AIH-07479 | Layer-Wise Learning Dynamics | Deep Learning | Deep Learning | — |
 | AIH-07490 | Layer-Wise Relevance Propagation (LRP) | Deep Learning | Deep Learning | [2021](https://doi.org/10.5626/jok.2021.48.12.1289) (source only) |
-| AIH-07501 | Leaky ReLU | Deep Learning | Deep Learning | [2016](https://doi.org/10.48550/arxiv.1611.03879) (source only) |
+| AIH-07501 | Leaky ReLU | Deep Learning | Deep Learning | [2013](https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf) (source only) |
 | AIH-07512 | LeCun Initialization | Deep Learning | Deep Learning | — |
 | AIH-07523 | Length Bias in Reward Models | Deep Learning | Deep Learning | — |
 | AIH-07534 | Length Extrapolation | Deep Learning | Deep Learning | [2019](https://doi.org/10.1249/mss.0000000000002123) (source only) |
@@ -209,7 +209,7 @@
 | AIH-07977 | Model Soup | Deep Learning | Deep Learning | [2021](https://doi.org/10.1016/j.microc.2021.106436) (source only) |
 | AIH-07986 | Monosemantic Feature | Deep Learning | Deep Learning | [2025](https://doi.org/10.20944/preprints202510.2064.v1) (source only) |
 | AIH-07995 | Monte Carlo Tree Search for Reasoning (MCTS) | Deep Learning | Deep Learning | — |
-| AIH-08004 | Movement Pruning | Deep Learning | Deep Learning | [2022](https://doi.org/10.18653/v1/2022.gebnlp-1.6) (source only) |
+| AIH-08004 | Movement Pruning | Deep Learning | Deep Learning | [2020](https://arxiv.org/abs/2005.07683) (source only) |
 | AIH-08013 | Multi-Adapter Serving | Deep Learning | Deep Learning | — |
 | AIH-08022 | Multi-Branch Block | Deep Learning | Deep Learning | — |
 | AIH-08031 | Multi-Head Latent Attention (MLA) | Deep Learning | Deep Learning | — |

@@ -11,12 +11,12 @@
 | AIH-08001 | Uniqueness Check | AI Infrastructure | — | Unresolved | — |
 | AIH-08002 | Serious Game | AI Applications | 2009 | Dated publication mention | [Source](https://doi.org/10.1109/jcai.2009.205) |
 | AIH-08003 | Interpolation Threshold | Machine Learning | — | Unresolved | — |
-| AIH-08004 | Movement Pruning | Deep Learning | 2022 | Dated publication mention | [Source](https://doi.org/10.18653/v1/2022.gebnlp-1.6) |
+| AIH-08004 | Movement Pruning | Deep Learning | 2020 | Original source/publication | [Source](https://arxiv.org/abs/2005.07683) |
 | AIH-08005 | Synthetic Media Detection | Generative AI | 2023 | Dated publication mention | [Source](https://doi.org/10.1109/access.2023.3276480) |
 | AIH-08006 | Syntax | NLP and LLMs | — | Unresolved | — |
 | AIH-08007 | Eigenvector | AI Foundations | 1974 | Dated publication mention | [Source](https://doi.org/10.1137/1.9781611970531.ch5) |
 | AIH-08008 | Structured Light Scanning | Computer Vision | 2005 | Dated publication mention | [Source](https://doi.org/10.1109/iros.2005.1545167) |
-| AIH-08009 | Fourier Neural Operator (FNO) | Mathematics | 2025 | Dated publication mention | [Source](https://doi.org/10.1115/detc2025-168594) |
+| AIH-08009 | Fourier Neural Operator (FNO) | Mathematics | 2020 | Original source/publication | [Source](https://arxiv.org/abs/2010.08895) |
 | AIH-08010 | Unit Economics | AI Infrastructure | — | Unresolved | — |
 | AIH-08011 | Shelf Monitoring | AI Applications | 2019 | Dated publication mention | [Source](https://doi.org/10.3390/s19122722) |
 | AIH-08012 | Inverse Scaling | Machine Learning | — | Unresolved | — |

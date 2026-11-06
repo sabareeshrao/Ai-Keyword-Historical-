@@ -394,7 +394,7 @@
 | AIH-07982 | Ford-Fulkerson Algorithm | Mathematics | Mathematics & Statistics | [1968](https://doi.org/10.1016/s0076-5392(08)60392-6) (source only) |
 | AIH-07991 | Forest Plot | Mathematics | Mathematics & Statistics | — |
 | AIH-08000 | Forward-Mode Differentiation | Mathematics | Mathematics & Statistics | [2019](https://doi.org/10.1021/acsphotonics.9b01238) (source only) |
-| AIH-08009 | Fourier Neural Operator (FNO) | Mathematics | Mathematics & Statistics | [2025](https://doi.org/10.1115/detc2025-168594) (source only) |
+| AIH-08009 | Fourier Neural Operator (FNO) | Mathematics | Mathematics & Statistics | [2020](https://arxiv.org/abs/2010.08895) (source only) |
 | AIH-08018 | Fourier Transform | Mathematics | Mathematics & Statistics | [1972](https://doi.org/10.1016/b978-0-12-085150-8.50006-1) (source only) |
 | AIH-08027 | Fractional Factorial Design | Mathematics | Mathematics & Statistics | — |
 | AIH-08036 | Free Probability | Mathematics | Mathematics & Statistics | [1996](https://doi.org/10.1090/fic/012) (source only) |

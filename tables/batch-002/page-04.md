@@ -296,7 +296,7 @@
 | AIH-07472 | Random Crop | Computer Vision | Computer Vision | [2021](https://doi.org/10.5194/egusphere-egu21-11957) (source only) |
 | AIH-07483 | Random Erasing | Computer Vision | Computer Vision | — |
 | AIH-07494 | Randomized Smoothing | Computer Vision | Computer Vision | [2006](https://doi.org/10.1016/j.jpdc.2005.06.009) (source only) |
-| AIH-07505 | RANSAC | Computer Vision | Computer Vision | — |
+| AIH-07505 | RANSAC | Computer Vision | Computer Vision | [1981](https://doi.org/10.1145/358669.358692) (source only) |
 | AIH-07516 | Ratio Test | Computer Vision | Computer Vision | [1948](https://doi.org/10.1090/s0002-9904-1948-09111-x) (source only) |
 | AIH-07527 | Ray Marching | Computer Vision | Computer Vision | [2007](https://doi.org/10.1109/iccsa.2007.46) (source only) |
 | AIH-07538 | Referring Expression Comprehension | Computer Vision | Computer Vision | [2019](https://doi.org/10.1109/iccv.2019.00474) (source only) |

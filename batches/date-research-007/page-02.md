@@ -14,7 +14,7 @@
 | AIH-07004 | Preemption Handling | AI Infrastructure | — | Unresolved | — |
 | AIH-07005 | Medication Reconciliation | AI Applications | 2005 | Dated publication mention | [Source](https://doi.org/10.1097/00006247-200509000-00006) |
 | AIH-07006 | Uncertainty Visualization | Data Science | — | Unresolved | — |
-| AIH-07007 | Raft | Programming & Software | — | Unresolved | — |
+| AIH-07007 | Raft | Programming & Software | 2014 | Original source/publication | [Source](https://www.usenix.org/conference/atc14/technical-sessions/presentation/ongaro) |
 | AIH-07008 | Exclusive Feature Bundling (EFB) | Machine Learning | — | Unresolved | — |
 | AIH-07009 | Inductive Bias of Attention | Deep Learning | — | Unresolved | — |
 | AIH-07010 | Pose Transfer | Generative AI | — | Unresolved | — |

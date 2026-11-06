@@ -41,8 +41,8 @@
 | AIH-06452 | Micro-Conditioning | Generative AI | Generative AI | — |
 | AIH-06470 | Midjourney | Generative AI | Generative AI | — |
 | AIH-06488 | Minimax Game | Generative AI | Generative AI | [1996](https://doi.org/10.1007/978-1-4612-0719-1_5) (source only) |
-| AIH-06506 | Mistral | Generative AI | Generative AI | — |
-| AIH-06523 | Mixture of Agents (MoA) | Generative AI | Generative AI | [2026](https://doi.org/10.48550/arxiv.2606.24437) ★ (estimated) |
+| AIH-06506 | Mistral | Generative AI | Generative AI | [2023](https://mistral.ai/news/announcing-mistral-7b/) (source only) |
+| AIH-06523 | Mixture of Agents (MoA) | Generative AI | Generative AI | [2024](https://arxiv.org/abs/2406.04692) (source only) |
 | AIH-06540 | Model Collapse Risk | Generative AI | Generative AI | [2005](https://openalex.org/W2380839959) ★ (estimated) |
 | AIH-06557 | Model Output Ownership | Generative AI | Generative AI | [2013](https://openalex.org/W2922381615) ★ (estimated) |
 | AIH-06574 | Motion Generation | Generative AI | Generative AI | [1994](https://doi.org/10.1142/9789814350938_0006) (source only) |

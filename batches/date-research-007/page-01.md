@@ -13,14 +13,14 @@
 | AIH-06503 | Weaviate | Tools & Frameworks | — | Unresolved | — |
 | AIH-06504 | Dynamic Resolution | Machine Learning | 2026 | Dated publication mention | [Source](https://doi.org/10.2139/ssrn.7483264) |
 | AIH-06505 | Grammar-Constrained Generation | Deep Learning | 2019 ★ | Estimated ★ (low confidence) | [Source](https://doi.org/10.18653/v1/n19-1377) |
-| AIH-06506 | Mistral | Generative AI | — | Unresolved | — |
-| AIH-06507 | Morphology | NLP and LLMs | 1935 | Dated publication mention | [Source](https://doi.org/10.1093/aesa/28.3.408) |
+| AIH-06506 | Mistral | Generative AI | 2023 | Original source/publication | [Source](https://mistral.ai/news/announcing-mistral-7b/) |
+| AIH-06507 | Morphology | NLP and LLMs | 1983 | Early NLP publication | [Source](https://ijcai.org/proceedings/1983/164) |
 | AIH-06508 | Schema Validation | Agentic AI | 1991 | Dated publication mention | [Source](https://doi.org/10.1002/j.2048-7940.1991.tb01176.x) |
 | AIH-06509 | Computational Learning Theory | AI Foundations | 1989 | Dated publication mention | [Source](https://openalex.org/W1490004989) |
 | AIH-06510 | Median Filter | Computer Vision | 1987 | Dated publication mention | [Source](https://doi.org/10.1364/oam.1987.mo6) |
 | AIH-06511 | Cross-Correlation | Mathematics | 1965 | Dated publication mention | [Source](https://doi.org/10.1080/00207176508905543) |
 | AIH-06512 | Sign Gradient Descent | Mathematics | 2019 | Dated publication mention | [Source](https://doi.org/10.1016/j.ins.2019.04.012) |
-| AIH-06513 | Stochastic Variational Inference (SVI) | Mathematics | 2026 ★ | Estimated ★ (low confidence) | [Source](https://doi.org/10.1016/j.iintel.2026.100251) |
+| AIH-06513 | Stochastic Variational Inference (SVI) | Mathematics | 2013 | Original source/publication | [Source](https://jmlr.org/papers/v14/hoffman13a.html) |
 | AIH-06514 | Simulation-Based Validation | Robotics | 2009 | Dated publication mention | [Source](https://doi.org/10.1109/wsc.2009.5429556) |
 | AIH-06515 | Pipeline Bubble | AI Infrastructure | 2019 | Dated publication mention | [Source](https://openalex.org/W3153603297) |
 | AIH-06516 | Non-Deterministic Test Handling | AI Infrastructure | — | Unresolved | — |
@@ -30,7 +30,7 @@
 | AIH-06520 | WhyLogs | Tools & Frameworks | — | Unresolved | — |
 | AIH-06521 | Dynamic Time Warping (DTW) | Machine Learning | 2007 | Dated publication mention | [Source](https://doi.org/10.11575/prism/1192) |
 | AIH-06522 | Graph Compilation | Deep Learning | 2004 | Dated publication mention | [Source](https://doi.org/10.21437/interspeech.2004-138) |
-| AIH-06523 | Mixture of Agents (MoA) | Generative AI | 2026 ★ | Estimated ★ (low confidence) | [Source](https://doi.org/10.48550/arxiv.2606.24437) |
+| AIH-06523 | Mixture of Agents (MoA) | Generative AI | 2024 | Original source/publication | [Source](https://arxiv.org/abs/2406.04692) |
 | AIH-06524 | Multi-Document Summarization | NLP and LLMs | 2000 | Dated publication mention | [Source](https://doi.org/10.3115/992730.992775) |
 | AIH-06525 | Selective Result Reading | Agentic AI | — | Unresolved | — |
 | AIH-06526 | Computational linguistics | AI Foundations | 1986 | Dated publication mention | [Source](https://doi.org/10.1017/cbo9780511611797.002) |

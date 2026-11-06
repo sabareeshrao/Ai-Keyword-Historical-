@@ -8,11 +8,11 @@
 
 | ID | Keyword | Category | Date | Classification | Source |
 |---|---|---|---|---|---|
-| AIH-07501 | Leaky ReLU | Deep Learning | 2016 | Dated publication mention | [Source](https://doi.org/10.48550/arxiv.1611.03879) |
+| AIH-07501 | Leaky ReLU | Deep Learning | 2013 | Early AI method paper | [Source](https://ai.stanford.edu/~amaas/papers/relu_hybrid_icml2013_final.pdf) |
 | AIH-07502 | Resolution Effect on Quality | Generative AI | 1991 ★ | Estimated ★ (low confidence) | [Source](https://openalex.org/W2754234073) |
 | AIH-07503 | Retrieval Corpus | NLP and LLMs | 2012 | Dated publication mention | [Source](https://doi.org/10.5281/zenodo.3256068) |
 | AIH-07504 | Dataset Shift | AI Foundations | 2008 | Dated publication mention | [Source](https://doi.org/10.7551/mitpress/9780262170055.001.0001) |
-| AIH-07505 | RANSAC | Computer Vision | — | Unresolved | — |
+| AIH-07505 | RANSAC | Computer Vision | 1981 | Original source/publication | [Source](https://doi.org/10.1145/358669.358692) |
 | AIH-07506 | Equivalence Relation | Mathematics | 1967 | Dated publication mention | [Source](https://doi.org/10.5951/mt.60.2.0137) |
 | AIH-07507 | Thread Block | AI Infrastructure | 2011 | Dated publication mention | [Source](https://doi.org/10.1109/hpca.2011.5749714) |
 | AIH-07508 | Sanity Check | AI Infrastructure | 1994 | Dated publication mention | [Source](https://doi.org/10.1038/scientificamerican0694-19) |
