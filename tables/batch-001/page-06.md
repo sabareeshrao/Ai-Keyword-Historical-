@@ -16,21 +16,21 @@
 | AIH-04423 | False Accusation Risk | Generative AI | Generative AI | — |
 | AIH-04456 | Flicker Artifact | Generative AI | Generative AI | [2014](https://doi.org/10.1109/tmm.2014.2347257) (source only) |
 | AIH-04489 | Flow Matching | Generative AI | Generative AI | [2006](https://doi.org/10.1017/cbo9780511753886.004) (source only) |
-| AIH-04522 | Flow-Based Vocoder | Generative AI | Generative AI | — |
-| AIH-04555 | Forward Diffusion Process | Generative AI | Generative AI | — |
-| AIH-04588 | Frame Consistency | Generative AI | Generative AI | — |
-| AIH-04621 | Frame Interpolation | Generative AI | Generative AI | — |
-| AIH-04654 | GAN Inversion | Generative AI | Generative AI | — |
+| AIH-04522 | Flow-Based Vocoder | Generative AI | Generative AI | [2020](https://doi.org/10.1109/ieeeconf51394.2020.9443273) ★ (estimated) |
+| AIH-04555 | Forward Diffusion Process | Generative AI | Generative AI | [2000](https://doi.org/10.5281/zenodo.37662) ★ (estimated) |
+| AIH-04588 | Frame Consistency | Generative AI | Generative AI | [1998](https://openalex.org/W3141086158) (source only) |
+| AIH-04621 | Frame Interpolation | Generative AI | Generative AI | [1987](https://openalex.org/W2200149133) (source only) |
+| AIH-04654 | GAN Inversion | Generative AI | Generative AI | [2021](https://doi.org/10.1109/icip42928.2021.9506059) (source only) |
 | AIH-04687 | GAN Vocoder | Generative AI | Generative AI | — |
 | AIH-04720 | Generation Latency | Generative AI | Generative AI | — |
-| AIH-04752 | Generation Log | Generative AI | Generative AI | — |
+| AIH-04752 | Generation Log | Generative AI | Generative AI | [2025](https://doi.org/10.1109/icee67339.2025.11213676) (source only) |
 | AIH-04784 | Generation-Selection Workflow | Generative AI | Generative AI | — |
-| AIH-04816 | Generative AI (GenAI) | Generative AI | Generative AI | — |
-| AIH-04848 | Generative Model | Generative AI | Generative AI | — |
+| AIH-04816 | Generative AI (GenAI) | Generative AI | Generative AI | [2024](https://doi.org/10.55057/ajress.2024.6.2.20) (source only) |
+| AIH-04848 | Generative Model | Generative AI | Generative AI | [2019](https://doi.org/10.31274/cc-20240624-36) (source only) |
 | AIH-04880 | Generator | Generative AI | Generative AI | — |
 | AIH-04912 | Global Consistency Check | Generative AI | Generative AI | — |
-| AIH-04944 | Gradient Penalty | Generative AI | Generative AI | — |
-| AIH-04976 | GraphRAG | Generative AI | Generative AI | — |
+| AIH-04944 | Gradient Penalty | Generative AI | Generative AI | [2014](https://doi.org/10.4028/www.scientific.net/amr.945-949.2784) (source only) |
+| AIH-04976 | GraphRAG | Generative AI | Generative AI | [2024](https://doi.org/10.25103/jestr.176.01) (source only) |
 | AIH-05008 | Guidance Scale | Generative AI | Generative AI | — |
 | AIH-05040 | Guidance Scale Tuning | Generative AI | Generative AI | — |
 | AIH-05072 | Hand Rendering Problem | Generative AI | Generative AI | — |
@@ -264,22 +264,22 @@
 | AIH-04444 | Result Diversification | Information Retrieval | Information Retrieval | [2006](https://doi.org/10.1145/1148170.1148320) (source only) |
 | AIH-04477 | Retrieval Evaluation for RAG | Information Retrieval | Information Retrieval | — |
 | AIH-04510 | Retrieval Latency Budget | Information Retrieval | Information Retrieval | — |
-| AIH-04543 | Robots Exclusion Protocol | Information Retrieval | Information Retrieval | — |
-| AIH-04576 | Rocchio Algorithm | Information Retrieval | Information Retrieval | — |
+| AIH-04543 | Robots Exclusion Protocol | Information Retrieval | Information Retrieval | [2017](https://doi.org/10.32614/cran.package.spiderbar) (source only) |
+| AIH-04576 | Rocchio Algorithm | Information Retrieval | Information Retrieval | [2006](https://doi.org/10.3743/kosim.2006.23.3.069) (source only) |
 | AIH-04609 | Satisfied Click | Information Retrieval | Information Retrieval | — |
-| AIH-04642 | Scatter-Gather | Information Retrieval | Information Retrieval | — |
-| AIH-04675 | Schema Linking | Information Retrieval | Information Retrieval | — |
+| AIH-04642 | Scatter-Gather | Information Retrieval | Information Retrieval | [2005](https://doi.org/10.1145/1096952.1096958) (source only) |
+| AIH-04675 | Schema Linking | Information Retrieval | Information Retrieval | [2020](https://doi.org/10.18653/v1/2020.emnlp-main.564) (source only) |
 | AIH-04708 | Search Autocomplete Ranking | Information Retrieval | Information Retrieval | — |
 | AIH-04741 | Search Relevance Tuning | Information Retrieval | Information Retrieval | — |
 | AIH-04773 | Seasonal Query Pattern | Information Retrieval | Information Retrieval | — |
 | AIH-04805 | Semantic Parsing | Information Retrieval | Information Retrieval | — |
 | AIH-04837 | Session Success | Information Retrieval | Information Retrieval | — |
-| AIH-04869 | Shingling | Information Retrieval | Information Retrieval | — |
+| AIH-04869 | Shingling | Information Retrieval | Information Retrieval | [1848](https://doi.org/10.1038/scientificamerican05271848-284h) (source only) |
 | AIH-04901 | Sitemap | Information Retrieval | Information Retrieval | — |
 | AIH-04933 | Skip Pointer | Information Retrieval | Information Retrieval | — |
 | AIH-04965 | Snippet Generation | Information Retrieval | Information Retrieval | — |
 | AIH-04997 | Snippet Quality Effect | Information Retrieval | Information Retrieval | — |
-| AIH-05029 | Source Diversity | Information Retrieval | Information Retrieval | — |
+| AIH-05029 | Source Diversity | Information Retrieval | Information Retrieval | [2025](https://doi.org/10.1101/2025.03.30.646244) (source only) |
 | AIH-05061 | Spam in Search | Information Retrieval | Information Retrieval | — |
 | AIH-05093 | Spell Correction in Search | Information Retrieval | Information Retrieval | — |
 | AIH-00101 | Activation Compression | Machine Learning | Machine Learning | [2023](https://doi.org/10.1109/aicas57966.2023.10168658) (source only) |
@@ -401,23 +401,23 @@
 | AIH-04420 | Coreset Selection | Machine Learning | Machine Learning | [2022](https://doi.org/10.1109/access.2022.3142758) (source only) |
 | AIH-04453 | Corrective Retrieval | Machine Learning | Machine Learning | [2025](https://doi.org/10.2139/ssrn.5267341) (source only) |
 | AIH-04486 | Cosine Distance | Machine Learning | Machine Learning | [2008](https://doi.org/10.1109/isda.2008.161) (source only) |
-| AIH-04519 | Cosine Similarity | Machine Learning | Machine Learning | — |
-| AIH-04552 | Cost-Aware Serving | Machine Learning | Machine Learning | — |
-| AIH-04585 | Cost-Complexity Pruning | Machine Learning | Machine Learning | — |
-| AIH-04618 | Cost-Sensitive Learning | Machine Learning | Machine Learning | — |
+| AIH-04519 | Cosine Similarity | Machine Learning | Machine Learning | [2015](https://doi.org/10.1016/j.ins.2015.02.024) (source only) |
+| AIH-04552 | Cost-Aware Serving | Machine Learning | Machine Learning | [2019](https://openalex.org/W2956461999) ★ (estimated) |
+| AIH-04585 | Cost-Complexity Pruning | Machine Learning | Machine Learning | [1999](https://openalex.org/W156266736) (source only) |
+| AIH-04618 | Cost-Sensitive Learning | Machine Learning | Machine Learning | [1993](https://doi.org/10.1023/a:1022679428250) (source only) |
 | AIH-04651 | Coupled pattern learner (CPL) | Machine Learning | Machine Learning | — |
 | AIH-04684 | Covariate Shift | Machine Learning | Machine Learning | — |
-| AIH-04717 | Covering Number | Machine Learning | Machine Learning | — |
+| AIH-04717 | Covering Number | Machine Learning | Machine Learning | [1980](https://doi.org/10.21136/cmj.1980.101711) (source only) |
 | AIH-04749 | Crawl Restriction | Machine Learning | Machine Learning | — |
 | AIH-04781 | Cross-Architecture Distillation | Machine Learning | Machine Learning | — |
-| AIH-04813 | Cross-entropy method | Machine Learning | Machine Learning | — |
+| AIH-04813 | Cross-entropy method | Machine Learning | Machine Learning | [2004](https://doi.org/10.1007/978-1-4757-4321-0) (source only) |
 | AIH-04845 | Cross-validation | Machine Learning | Machine Learning | — |
-| AIH-04877 | Crowding Problem | Machine Learning | Machine Learning | — |
+| AIH-04877 | Crowding Problem | Machine Learning | Machine Learning | [1997](https://doi.org/10.1016/s0169-2046(97)80001-1) (source only) |
 | AIH-04909 | Curriculum Data Mixing | Machine Learning | Machine Learning | — |
 | AIH-04941 | Curriculum from Difficulty Estimation | Machine Learning | Machine Learning | — |
 | AIH-04973 | Curriculum Ordering | Machine Learning | Machine Learning | — |
-| AIH-05005 | Curse of dimensionality | Machine Learning | Machine Learning | — |
-| AIH-05037 | Curse of Dimensionality in Clustering | Machine Learning | Machine Learning | — |
+| AIH-05005 | Curse of dimensionality | Machine Learning | Machine Learning | [1992](https://doi.org/10.1016/b978-0-08-051669-1.50013-7) (source only) |
+| AIH-05037 | Curse of Dimensionality in Clustering | Machine Learning | Machine Learning | [2000](https://doi.org/10.1093/comjnl/43.2.107) (source only) |
 | AIH-05069 | Curse of Dimensionality in Search | Machine Learning | Machine Learning | — |
 | AIH-00114 | 8-Bit Optimizer | Mathematics | Optimization | — |
 | AIH-00113 | A-Optimality | Mathematics | Mathematics & Statistics | — |

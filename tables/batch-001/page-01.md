@@ -125,23 +125,23 @@
 | AIH-04425 | Instruction Hierarchy | Agentic AI | AI Agents | [2025](https://doi.org/10.52202/085713-3287) (source only) |
 | AIH-04458 | Irreversible Action | Agentic AI | AI Agents | [1973](https://doi.org/10.1016/0024-3205(73)90092-1) (source only) |
 | AIH-04491 | Isolated Workspace | Agentic AI | AI Agents | [2023](https://doi.org/10.1109/smc53992.2023.10394060) (source only) |
-| AIH-04524 | Large Tool Output | Agentic AI | AI Agents | — |
-| AIH-04557 | Least Privilege for Agents | Agentic AI | AI Agents | — |
-| AIH-04590 | Least-to-Most Prompting | Agentic AI | AI Agents | — |
-| AIH-04623 | Long-Horizon Task | Agentic AI | AI Agents | — |
+| AIH-04524 | Large Tool Output | Agentic AI | AI Agents | [2019](https://doi.org/10.15372/reg20190310) ★ (estimated) |
+| AIH-04557 | Least Privilege for Agents | Agentic AI | AI Agents | [2025](https://openalex.org/W7217677195) ★ (estimated) |
+| AIH-04590 | Least-to-Most Prompting | Agentic AI | AI Agents | [1988](https://openalex.org/W22831215) (source only) |
+| AIH-04623 | Long-Horizon Task | Agentic AI | AI Agents | [2021](https://doi.org/10.1109/iros51168.2021.9636037) (source only) |
 | AIH-04656 | Long-Term Agent Memory | Agentic AI | AI Agents | — |
 | AIH-04689 | Loop Detection | Agentic AI | AI Agents | — |
-| AIH-04722 | Memory Consolidation | Agentic AI | AI Agents | — |
+| AIH-04722 | Memory Consolidation | Agentic AI | AI Agents | [1971](https://doi.org/10.1007/978-1-4684-0730-3_23) (source only) |
 | AIH-04754 | Memory Provenance | Agentic AI | AI Agents | — |
-| AIH-04786 | Memory Retrieval | Agentic AI | AI Agents | — |
+| AIH-04786 | Memory Retrieval | Agentic AI | AI Agents | [1974](https://doi.org/10.3758/bf03196906) (source only) |
 | AIH-04818 | Memory Staleness | Agentic AI | AI Agents | — |
-| AIH-04850 | Meta-Prompt | Agentic AI | AI Agents | — |
+| AIH-04850 | Meta-Prompt | Agentic AI | AI Agents | [2023](https://doi.org/10.2139/ssrn.4670639) (source only) |
 | AIH-04882 | Model Context Protocol Server | Agentic AI | AI Agents | — |
 | AIH-04914 | Model Selection Policy | Agentic AI | AI Agents | — |
-| AIH-04946 | Model Specification | Agentic AI | AI Agents | — |
-| AIH-04978 | Multi-Agent Orchestration | Agentic AI | AI Agents | — |
-| AIH-05010 | Observation Space | Agentic AI | AI Agents | — |
-| AIH-05042 | Orchestrator Agent | Agentic AI | AI Agents | — |
+| AIH-04946 | Model Specification | Agentic AI | AI Agents | [1963](https://doi.org/10.21236/ad0410255) (source only) |
+| AIH-04978 | Multi-Agent Orchestration | Agentic AI | AI Agents | [2022](https://doi.org/10.63282/3050-9262.ijaidsml-v3i3p115) (source only) |
+| AIH-05010 | Observation Space | Agentic AI | AI Agents | [2002](https://doi.org/10.1256/003590002321042153) (source only) |
+| AIH-05042 | Orchestrator Agent | Agentic AI | AI Agents | [2026](https://doi.org/10.1109/memea69746.2026.11537358) (source only) |
 | AIH-05074 | Outcome Evaluation | Agentic AI | AI Agents | — |
 | AIH-00120 | Academic Integrity Detection | AI Applications | AI Applications | [2026](https://doi.org/10.30574/ijsra.2026.19.2.1117) (source only) |
 | AIH-00158 | Access Control in Retrieval | AI Applications | AI Applications | [2026](https://doi.org/10.1109/compsac69091.2026.00386) (source only) |
@@ -261,23 +261,23 @@
 | AIH-04406 | Customs Risk Assessment | AI Applications | AI Applications | — |
 | AIH-04439 | Damage Assessment | AI Applications | AI Applications | [1977](https://doi.org/10.21236/ada048002) (source only) |
 | AIH-04472 | Data Flywheel | AI Applications | AI Applications | [2026](https://doi.org/10.2139/ssrn.6140608) (source only) |
-| AIH-04505 | Data Silo | AI Applications | AI Applications | — |
-| AIH-04538 | Defect Detection | AI Applications | AI Applications | — |
-| AIH-04571 | Deflection Rate | AI Applications | AI Applications | — |
-| AIH-04604 | Deforestation Monitoring | AI Applications | AI Applications | — |
-| AIH-04637 | Demand Planning | AI Applications | AI Applications | — |
-| AIH-04670 | Demand Response | AI Applications | AI Applications | — |
-| AIH-04703 | Demand Sensing | AI Applications | AI Applications | — |
+| AIH-04505 | Data Silo | AI Applications | AI Applications | [2021](https://doi.org/10.59350/b30ef-x3x14) (source only) |
+| AIH-04538 | Defect Detection | AI Applications | AI Applications | [1981](https://openalex.org/W2245348814) (source only) |
+| AIH-04571 | Deflection Rate | AI Applications | AI Applications | [1954](https://doi.org/10.2207/qjjws1943.23.9-10_188) (source only) |
+| AIH-04604 | Deforestation Monitoring | AI Applications | AI Applications | [2009](https://doi.org/10.1109/igarss.2009.5417928) (source only) |
+| AIH-04637 | Demand Planning | AI Applications | AI Applications | [1984](https://openalex.org/W3173050777) (source only) |
+| AIH-04670 | Demand Response | AI Applications | AI Applications | [2009](https://doi.org/10.2172/972805) (source only) |
+| AIH-04703 | Demand Sensing | AI Applications | AI Applications | [2012](https://doi.org/10.1002/9781119203384.ch3) (source only) |
 | AIH-04736 | Dendral | AI Applications | AI Applications | — |
 | AIH-04768 | Device Constraint Adaptation | AI Applications | AI Applications | — |
-| AIH-04800 | Difficulty Adjustment (DDA) | AI Applications | AI Applications | — |
-| AIH-04832 | Digital Biomarker | AI Applications | AI Applications | — |
-| AIH-04864 | Digital Human | AI Applications | AI Applications | — |
-| AIH-04896 | Digital Public Infrastructure (DPI) | AI Applications | AI Applications | — |
+| AIH-04800 | Difficulty Adjustment (DDA) | AI Applications | AI Applications | [2018](https://doi.org/10.1155/2018/5681652) (source only) |
+| AIH-04832 | Digital Biomarker | AI Applications | AI Applications | [2021](https://doi.org/10.1038/s41746-021-00415-6) (source only) |
+| AIH-04864 | Digital Human | AI Applications | AI Applications | [2008](https://doi.org/10.1007/978-3-540-89430-8_12) (source only) |
+| AIH-04896 | Digital Public Infrastructure (DPI) | AI Applications | AI Applications | [2024](https://doi.org/10.1109/aixb62249.2024.00027) (source only) |
 | AIH-04928 | Digital Therapeutic | AI Applications | AI Applications | — |
 | AIH-04960 | Disaster Response Mapping | AI Applications | AI Applications | — |
-| AIH-04992 | Document AI | AI Applications | AI Applications | — |
-| AIH-05024 | Document Fraud Detection | AI Applications | AI Applications | — |
+| AIH-04992 | Document AI | AI Applications | AI Applications | [2021](https://doi.org/10.32614/cran.package.dair) (source only) |
+| AIH-05024 | Document Fraud Detection | AI Applications | AI Applications | [2013](https://doi.org/10.1109/eisic.2013.62) (source only) |
 | AIH-05056 | Document Summarization in Enterprise | AI Applications | AI Applications | — |
 | AIH-05088 | Draft Reply Generation | AI Applications | AI Applications | — |
 | AIH-00107 | 4E cognition | AI Foundations | Fundamentals | [2018](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) (source only) |
@@ -416,25 +416,25 @@
 | AIH-04426 | Benefits Realization | AI Foundations | Fundamentals | — |
 | AIH-04459 | Bias | AI Foundations | Fundamentals | — |
 | AIH-04492 | Bias Term | AI Foundations | Fundamentals | — |
-| AIH-04525 | Binding problem | AI Foundations | Fundamentals | — |
-| AIH-04558 | Biolinguistics | AI Foundations | Fundamentals | — |
-| AIH-04591 | Bioserenity | AI Foundations | Fundamentals | — |
-| AIH-04624 | Blackboard System | AI Foundations | Fundamentals | — |
+| AIH-04525 | Binding problem | AI Foundations | Fundamentals | [1996](https://doi.org/10.1016/s0959-4388(96)80070-5) (source only) |
+| AIH-04558 | Biolinguistics | AI Foundations | Fundamentals | [2004](https://doi.org/10.1163/9780080474748_016) (source only) |
+| AIH-04591 | Bioserenity | AI Foundations | Fundamentals | [2025](https://doi.org/10.48550/arxiv.2503.10362) (source only) |
+| AIH-04624 | Blackboard System | AI Foundations | Fundamentals | [1986](https://doi.org/10.1093/comjnl/29.3.235) (source only) |
 | AIH-00754 | Blocking in Entity Resolution | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04657 | Blue-Green Deployment | AI Foundations | Fundamentals | — |
+| AIH-04657 | Blue-Green Deployment | AI Foundations | Fundamentals | [2018](https://doi.org/10.1109/scc.2018.00031) (source only) |
 | AIH-04690 | Bongard problem | AI Foundations | Fundamentals | — |
-| AIH-04723 | Bottleneck Layer | AI Foundations | Fundamentals | — |
-| AIH-04755 | Brain technology | AI Foundations | Fundamentals | — |
+| AIH-04723 | Bottleneck Layer | AI Foundations | Fundamentals | [2014](https://doi.org/10.21437/interspeech.2014-492) (source only) |
+| AIH-04755 | Brain technology | AI Foundations | Fundamentals | [2023](https://doi.org/10.14293/p2199-8442.1.sop-.py5iuc.v1) (source only) |
 | AIH-04787 | Brain.js | AI Foundations | Fundamentals | — |
-| AIH-04819 | Brier Score | AI Foundations | Fundamentals | — |
+| AIH-04819 | Brier Score | AI Foundations | Fundamentals | [1985](https://doi.org/10.1080/00031305.1985.10479382) (source only) |
 | AIH-04851 | British Museum algorithm | AI Foundations | Fundamentals | — |
-| AIH-04883 | Build versus Buy | AI Foundations | Fundamentals | — |
-| AIH-04915 | Bus Factor | AI Foundations | Fundamentals | — |
-| AIH-04947 | Business process automation (BPA) | AI Foundations | Fundamentals | — |
+| AIH-04883 | Build versus Buy | AI Foundations | Fundamentals | [1996](https://doi.org/10.5465/ambpp.1996.4980944) (source only) |
+| AIH-04915 | Bus Factor | AI Foundations | Fundamentals | [2015](https://doi.org/10.1109/saner.2015.7081864) (source only) |
+| AIH-04947 | Business process automation (BPA) | AI Foundations | Fundamentals | [2025](https://doi.org/10.12737/conferencearticle_678a0d29b52f93.16328567) (source only) |
 | AIH-04979 | Caching | AI Foundations | Fundamentals | — |
 | AIH-05011 | Calibration | AI Foundations | Fundamentals | — |
-| AIH-05043 | Calibration Training | AI Foundations | Fundamentals | — |
-| AIH-05075 | Canary Release | AI Foundations | Fundamentals | — |
+| AIH-05043 | Calibration Training | AI Foundations | Fundamentals | [2012](https://doi.org/10.1037/e519682015-115) (source only) |
+| AIH-05075 | Canary Release | AI Foundations | Fundamentals | [2026](https://doi.org/10.1109/ccsb71176.2026.11716469) (source only) |
 | AIH-00792 | Case-Based Reasoning Cycle | AI Foundations | Symbolic AI & Reasoning | [2003](https://doi.org/10.1002/int.10093) (source only) |
 | AIH-00830 | Certainty Factor | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-00868 | Chunking in Cognitive Architecture | AI Foundations | Symbolic AI & Reasoning | — |

@@ -10,86 +10,86 @@
 | AIH-05403 | SST | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-05434 | Statistical Significance in Evaluation | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-05465 | StoryCloze | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-05496 | Stratified Split | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-05527 | SuperGLUE | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-05496 | Stratified Split | Datasets & Benchmarks | Datasets & Benchmarks | [2002](https://doi.org/10.4064/cm93-2-10) (source only) |
+| AIH-05527 | SuperGLUE | Datasets & Benchmarks | Datasets & Benchmarks | [1982](https://openalex.org/W2440594942) (source only) |
 | AIH-05557 | SVAMP | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-05587 | SVHN | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-05617 | SWE-bench | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-05587 | SVHN | Datasets & Benchmarks | Datasets & Benchmarks | [2022](https://doi.org/10.1109/icaaic53929.2022.9793301) (source only) |
+| AIH-05617 | SWE-bench | Datasets & Benchmarks | Datasets & Benchmarks | [2023](https://doi.org/10.48550/arxiv.2310.06770) (source only) |
 | AIH-05647 | TCGA | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-05676 | TextVQA | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-05676 | TextVQA | Datasets & Benchmarks | Datasets & Benchmarks | [2024](https://doi.org/10.1007/978-981-97-8511-7_17) (source only) |
 | AIH-05705 | The Pile | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-05733 | The Stack | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-05761 | Titanic Dataset | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-05733 | The Stack | Datasets & Benchmarks | Datasets & Benchmarks | [2000](https://doi.org/10.17487/rfc2767) (source only) |
+| AIH-05761 | Titanic Dataset | Datasets & Benchmarks | Datasets & Benchmarks | [2018](https://doi.org/10.23956/ijermt.v6i6.236) (source only) |
 | AIH-05789 | TriviaQA | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-05816 | UCF101 | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-05843 | UCI Machine Learning Repository | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-05869 | UK Biobank | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-05816 | UCF101 | Datasets & Benchmarks | Datasets & Benchmarks | [2020](https://doi.org/10.35940/ijeat.d1007.0484s219) (source only) |
+| AIH-05843 | UCI Machine Learning Repository | Datasets & Benchmarks | Datasets & Benchmarks | [2016](https://doi.org/10.1109/cmcsn.2016.28) (source only) |
+| AIH-05869 | UK Biobank | Datasets & Benchmarks | Datasets & Benchmarks | [2007](https://doi.org/10.1093/ww/9780199540884.013.38068) (source only) |
 | AIH-05895 | UniProt | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-05921 | UrbanSound8K | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-05947 | Visual Genome | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-05921 | UrbanSound8K | Datasets & Benchmarks | Datasets & Benchmarks | [2021](https://doi.org/10.1007/978-981-16-0708-0_5) (source only) |
+| AIH-05947 | Visual Genome | Datasets & Benchmarks | Datasets & Benchmarks | [1997](https://doi.org/10.2144/97226bc06) (source only) |
 | AIH-05972 | VoxCeleb | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-05997 | VQAv2 | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-06022 | Waymo Open Dataset | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-06047 | Weighted Average | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-06047 | Weighted Average | Datasets & Benchmarks | Datasets & Benchmarks | [1977](https://doi.org/10.2307/3665253) (source only) |
 | AIH-06072 | WikiText | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-06097 | WinoGrande | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-06122 | WMT | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-06147 | XNLI | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-06172 | Yelp Dataset | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-06172 | Yelp Dataset | Datasets & Benchmarks | Datasets & Benchmarks | [2016](https://doi.org/10.1109/ssci.2016.7849866) (source only) |
 | AIH-05102 | Effective Receptive Field | Deep Learning | Deep Learning | — |
 | AIH-05134 | Elo Rating for Models | Deep Learning | Deep Learning | — |
-| AIH-05166 | ELU | Deep Learning | Deep Learning | — |
-| AIH-05197 | Embedding | Deep Learning | Deep Learning | — |
+| AIH-05166 | ELU | Deep Learning | Deep Learning | [2021](https://doi.org/10.36227/techrxiv.15096888.v1) (source only) |
+| AIH-05197 | Embedding | Deep Learning | Deep Learning | [1965](https://doi.org/10.1093/oxfordjournals.jmicro.a049492) (source only) |
 | AIH-05228 | Embedding Dimension | Deep Learning | Deep Learning | — |
-| AIH-05259 | Emergent Abilities | Deep Learning | Deep Learning | — |
-| AIH-05290 | Encoder | Deep Learning | Deep Learning | — |
+| AIH-05259 | Emergent Abilities | Deep Learning | Deep Learning | [2006](https://doi.org/10.1016/j.physleta.2005.09.041) (source only) |
+| AIH-05290 | Encoder | Deep Learning | Deep Learning | [2024](https://doi.org/10.5220/0012829800004547) (source only) |
 | AIH-05321 | Encoder-Decoder | Deep Learning | Deep Learning | — |
-| AIH-05352 | Encoder-Only Model | Deep Learning | Deep Learning | — |
-| AIH-05383 | End-to-End Learning | Deep Learning | Deep Learning | — |
+| AIH-05352 | Encoder-Only Model | Deep Learning | Deep Learning | [2024](https://doi.org/10.1109/colcom62950.2024.10720312) (source only) |
+| AIH-05383 | End-to-End Learning | Deep Learning | Deep Learning | [2017](https://doi.org/10.51202/9783181022993-49) (source only) |
 | AIH-05414 | Ensemble View of Residual Networks | Deep Learning | Deep Learning | — |
-| AIH-05445 | Expansion Ratio | Deep Learning | Deep Learning | — |
+| AIH-05445 | Expansion Ratio | Deep Learning | Deep Learning | [1947](https://doi.org/10.1016/0031-8914(47)90066-9) (source only) |
 | AIH-05476 | Explanation Score | Deep Learning | Deep Learning | — |
 | AIH-05507 | Expressivity Bound | Deep Learning | Deep Learning | — |
-| AIH-05537 | Fan-In | Deep Learning | Deep Learning | — |
-| AIH-05567 | Feature Absorption | Deep Learning | Deep Learning | — |
-| AIH-05597 | Feature Aggregation | Deep Learning | Deep Learning | — |
-| AIH-05627 | Feature Direction | Deep Learning | Deep Learning | — |
-| AIH-05656 | Feature Learning Order | Deep Learning | Deep Learning | — |
+| AIH-05537 | Fan-In | Deep Learning | Deep Learning | [1985](https://doi.org/10.1080/713821684) (source only) |
+| AIH-05567 | Feature Absorption | Deep Learning | Deep Learning | [2012](https://doi.org/10.4028/www.scientific.net/amr.518-523.1544) (source only) |
+| AIH-05597 | Feature Aggregation | Deep Learning | Deep Learning | [2020](https://doi.org/10.1109/hsi49210.2020.9142674) (source only) |
+| AIH-05627 | Feature Direction | Deep Learning | Deep Learning | [1990](https://doi.org/10.1117/12.2294281) (source only) |
+| AIH-05656 | Feature Learning Order | Deep Learning | Deep Learning | [1995](https://doi.org/10.1109/72.363427) ★ (estimated) |
 | AIH-05685 | Feature Map | Deep Learning | Deep Learning | — |
-| AIH-05713 | Feature Pyramid Network (FPN) | Deep Learning | Deep Learning | — |
+| AIH-05713 | Feature Pyramid Network (FPN) | Deep Learning | Deep Learning | [2026](https://doi.org/10.1063/5.0298853) (source only) |
 | AIH-05741 | Feature Reuse in Networks | Deep Learning | Deep Learning | — |
-| AIH-05769 | Feature Splitting | Deep Learning | Deep Learning | — |
-| AIH-05797 | Feature Visualization | Deep Learning | Deep Learning | — |
+| AIH-05769 | Feature Splitting | Deep Learning | Deep Learning | [2010](https://doi.org/10.1007/978-3-642-12127-2_3) (source only) |
+| AIH-05797 | Feature Visualization | Deep Learning | Deep Learning | [2008](https://doi.org/10.3724/sp.j.1001.2008.01995) (source only) |
 | AIH-05824 | Feature-Based Distillation | Deep Learning | Deep Learning | — |
 | AIH-05850 | Feedforward Network (FFN) | Deep Learning | Deep Learning | — |
 | AIH-05876 | Flat Direction | Deep Learning | Deep Learning | — |
 | AIH-05902 | Float16 (FP16) | Deep Learning | Deep Learning | — |
 | AIH-05928 | FLOPs | Deep Learning | Deep Learning | — |
-| AIH-05954 | Forward Pass | Deep Learning | Deep Learning | — |
+| AIH-05954 | Forward Pass | Deep Learning | Deep Learning | [1937](https://doi.org/10.1080/23267240.1937.10623592) (source only) |
 | AIH-05979 | Forward Propagation | Deep Learning | Deep Learning | — |
 | AIH-06004 | FP8 Training | Deep Learning | Deep Learning | — |
-| AIH-06029 | Frequency Bias | Deep Learning | Deep Learning | — |
-| AIH-06054 | Frequency Penalty | Deep Learning | Deep Learning | — |
+| AIH-06029 | Frequency Bias | Deep Learning | Deep Learning | [2000](https://doi.org/10.1116/1.591286) (source only) |
+| AIH-06054 | Frequency Penalty | Deep Learning | Deep Learning | [1991](https://doi.org/10.1109/68.84481) (source only) |
 | AIH-06079 | Full Fine-Tuning | Deep Learning | Deep Learning | — |
-| AIH-06104 | Fully Connected Layer | Deep Learning | Deep Learning | — |
-| AIH-06129 | Gain Factor | Deep Learning | Deep Learning | — |
+| AIH-06104 | Fully Connected Layer | Deep Learning | Deep Learning | [2016](https://doi.org/10.1109/icaci.2016.7449822) (source only) |
+| AIH-06129 | Gain Factor | Deep Learning | Deep Learning | [1968](https://doi.org/10.1049/el:19680344) (source only) |
 | AIH-06154 | Gated Linear Unit (GLU) | Deep Learning | Deep Learning | — |
-| AIH-06179 | Gated Recurrence | Deep Learning | Deep Learning | — |
+| AIH-06179 | Gated Recurrence | Deep Learning | Deep Learning | [2017](https://doi.org/10.1109/ascc.2017.8287531) (source only) |
 | AIH-06202 | Gating Mechanism | Deep Learning | Deep Learning | — |
 | AIH-06225 | GeGLU | Deep Learning | Deep Learning | — |
-| AIH-06248 | GELU | Deep Learning | Deep Learning | — |
+| AIH-06248 | GELU | Deep Learning | Deep Learning | [2023](https://doi.org/10.14428/esann/2023.es2023-72) (source only) |
 | AIH-06270 | Generalization Gap | Deep Learning | Deep Learning | — |
 | AIH-06292 | Generalized Advantage Estimation (GAE) | Deep Learning | Deep Learning | — |
-| AIH-06314 | Global Average Pooling | Deep Learning | Deep Learning | — |
+| AIH-06314 | Global Average Pooling | Deep Learning | Deep Learning | [2018](https://doi.org/10.1609/aaai.v32i1.12154) (source only) |
 | AIH-06336 | Global Batch Size | Deep Learning | Deep Learning | — |
 | AIH-06357 | Global Token | Deep Learning | Deep Learning | — |
 | AIH-06376 | Goodhart's Law in Alignment | Deep Learning | Deep Learning | — |
-| AIH-06395 | GPTQ | Deep Learning | Deep Learning | — |
-| AIH-06414 | Grad-CAM | Deep Learning | Deep Learning | — |
+| AIH-06395 | GPTQ | Deep Learning | Deep Learning | [2026](https://doi.org/10.1162/tacl.a.816) (source only) |
+| AIH-06414 | Grad-CAM | Deep Learning | Deep Learning | [2020](https://doi.org/10.5220/0009061206110618) (source only) |
 | AIH-06433 | Gradient Conflict | Deep Learning | Deep Learning | — |
 | AIH-06451 | Gradient Flow Health | Deep Learning | Deep Learning | — |
-| AIH-06469 | GradNorm | Deep Learning | Deep Learning | — |
-| AIH-06487 | Gradual Unfreezing | Deep Learning | Deep Learning | — |
+| AIH-06469 | GradNorm | Deep Learning | Deep Learning | [2026](https://doi.org/10.51316/jst.190.ssad.2026.36.190.4) (source only) |
+| AIH-06487 | Gradual Unfreezing | Deep Learning | Deep Learning | [2023](https://doi.org/10.3390/diagnostics13213333) (source only) |
 | AIH-06505 | Grammar-Constrained Generation | Deep Learning | Deep Learning | — |
 | AIH-06522 | Graph Compilation | Deep Learning | Deep Learning | — |
 | AIH-06539 | Graph Neural Network (GNN) | Deep Learning | Deep Learning | — |
@@ -364,7 +364,7 @@
 | AIH-08854 | Soft Parameter Sharing | Deep Learning | Deep Learning | — |
 | AIH-08858 | Soft Target | Deep Learning | Deep Learning | — |
 | AIH-05135 | Sparrow | Deep Learning | Models & Architectures | — |
-| AIH-05167 | Sparse Activation | Deep Learning | Models & Architectures | — |
+| AIH-05167 | Sparse Activation | Deep Learning | Models & Architectures | [2017](https://doi.org/10.1587/transele.e100.c.1073) (source only) |
 | AIH-08862 | Sparse Mixture of Experts (SMoE) | Deep Learning | Deep Learning | — |
 | AIH-08866 | Sparse Model | Deep Learning | Deep Learning | — |
 | AIH-08870 | SparseGPT | Deep Learning | Deep Learning | — |
@@ -373,13 +373,13 @@
 | AIH-08882 | Special Token | Deep Learning | Deep Learning | — |
 | AIH-08886 | Spectral Bias | Deep Learning | Deep Learning | — |
 | AIH-08890 | Spiking Neural Network (SNN) | Deep Learning | Deep Learning | — |
-| AIH-05198 | SPLADE | Deep Learning | Models & Architectures | — |
+| AIH-05198 | SPLADE | Deep Learning | Models & Architectures | [2021](https://doi.org/10.6028/nist.sp.500-335.deep-nle) (source only) |
 | AIH-08894 | Squeeze-and-Excitation (SE) | Deep Learning | Deep Learning | — |
-| AIH-05229 | SqueezeNet | Deep Learning | Models & Architectures | — |
+| AIH-05229 | SqueezeNet | Deep Learning | Models & Architectures | [2018](https://doi.org/10.1109/icecs.2018.8617876) (source only) |
 | AIH-05260 | Stable Diffusion XL (SDXL) | Deep Learning | Models & Architectures | — |
-| AIH-05291 | Stable Video Diffusion | Deep Learning | Models & Architectures | — |
+| AIH-05291 | Stable Video Diffusion | Deep Learning | Models & Architectures | [2025](https://doi.org/10.1117/12.3059564) (source only) |
 | AIH-08898 | Stage-Wise Architecture | Deep Learning | Deep Learning | — |
-| AIH-05322 | StarCoder | Deep Learning | Models & Architectures | — |
+| AIH-05322 | StarCoder | Deep Learning | Models & Architectures | [2026](https://doi.org/10.1007/978-3-032-18470-2_3) (source only) |
 | AIH-08902 | State Space Duality | Deep Learning | Deep Learning | — |
 | AIH-05353 | State Space Layer | Deep Learning | Models & Architectures | — |
 | AIH-08906 | Static Shape | Deep Learning | Deep Learning | — |
@@ -387,7 +387,7 @@
 | AIH-08914 | Stem | Deep Learning | Deep Learning | — |
 | AIH-08918 | Stochastic Depth | Deep Learning | Deep Learning | — |
 | AIH-08922 | Stochastic Rounding | Deep Learning | Deep Learning | — |
-| AIH-05384 | Stockfish | Deep Learning | Models & Architectures | — |
+| AIH-05384 | Stockfish | Deep Learning | Models & Architectures | [1892](https://doi.org/10.1093/nq/s8-i.26.511b) (source only) |
 | AIH-08926 | Stop Sequence | Deep Learning | Deep Learning | — |
 | AIH-08930 | Streaming Attention | Deep Learning | Deep Learning | — |
 | AIH-08934 | Stride | Deep Learning | Deep Learning | — |
@@ -398,11 +398,11 @@
 | AIH-08954 | Supervised Fine-Tuning (SFT) | Deep Learning | Deep Learning | — |
 | AIH-08958 | Suppression Head | Deep Learning | Deep Learning | — |
 | AIH-08962 | SwiGLU | Deep Learning | Deep Learning | — |
-| AIH-05415 | Swin Transformer | Deep Learning | Models & Architectures | — |
+| AIH-05415 | Swin Transformer | Deep Learning | Models & Architectures | [2021](https://doi.org/10.12677/airr.2021.104028) (source only) |
 | AIH-08966 | Sycophancy | Deep Learning | Deep Learning | — |
 | AIH-08970 | Symmetry Breaking | Deep Learning | Deep Learning | — |
 | AIH-08974 | Synthetic Training Data | Deep Learning | Deep Learning | — |
-| AIH-05446 | Tacotron | Deep Learning | Models & Architectures | — |
+| AIH-05446 | Tacotron | Deep Learning | Models & Architectures | [2021](https://doi.org/10.1088/1742-6596/1950/1/012044) (source only) |
 | AIH-08978 | Tanh | Deep Learning | Deep Learning | — |
 | AIH-08982 | Task Vector | Deep Learning | Deep Learning | — |
 | AIH-08986 | Teacher Forcing in Training | Deep Learning | Deep Learning | — |
@@ -421,15 +421,15 @@
 | AIH-09034 | Training Loop | Deep Learning | Deep Learning | — |
 | AIH-09038 | Training Step | Deep Learning | Deep Learning | — |
 | AIH-09042 | Training Trajectory | Deep Learning | Deep Learning | — |
-| AIH-05508 | Transducer Model | Deep Learning | Models & Architectures | — |
+| AIH-05508 | Transducer Model | Deep Learning | Models & Architectures | [1961](https://openalex.org/W624554748) (source only) |
 | AIH-09046 | Transformer | Deep Learning | Deep Learning | — |
 | AIH-09050 | Transformer Block | Deep Learning | Deep Learning | — |
 | AIH-09054 | Transposed Convolution | Deep Learning | Deep Learning | — |
 | AIH-09058 | Tree Search Decoding | Deep Learning | Deep Learning | — |
-| AIH-05538 | Turing-NLG | Deep Learning | Models & Architectures | — |
+| AIH-05538 | Turing-NLG | Deep Learning | Models & Architectures | [2022](https://doi.org/10.48550/arxiv.2201.11990) (source only) |
 | AIH-09062 | Typical Sampling | Deep Learning | Deep Learning | — |
 | AIH-09066 | Undertrained Model | Deep Learning | Deep Learning | — |
-| AIH-05568 | Unified Multimodal Model | Deep Learning | Models & Architectures | — |
+| AIH-05568 | Unified Multimodal Model | Deep Learning | Models & Architectures | [2022](https://doi.org/10.1145/3503161.3547974) (source only) |
 | AIH-09070 | Universal Transformer | Deep Learning | Deep Learning | — |
 | AIH-09074 | Unpooling | Deep Learning | Deep Learning | — |
 | AIH-09078 | Unstructured Pruning | Deep Learning | Deep Learning | — |
@@ -441,14 +441,14 @@
 | AIH-05598 | Veo | Deep Learning | Models & Architectures | — |
 | AIH-09102 | Verbosity Bias | Deep Learning | Deep Learning | — |
 | AIH-09106 | Verifier Model | Deep Learning | Deep Learning | — |
-| AIH-05628 | VGG | Deep Learning | Models & Architectures | — |
-| AIH-05657 | Vision Backbone | Deep Learning | Models & Architectures | — |
+| AIH-05628 | VGG | Deep Learning | Models & Architectures | [2018](https://doi.org/10.1109/access.2018.2875376) (source only) |
+| AIH-05657 | Vision Backbone | Deep Learning | Models & Architectures | [2021](https://doi.org/10.5244/c.35.79) (source only) |
 | AIH-05686 | Vision Transformer Patch | Deep Learning | Models & Architectures | — |
 | AIH-05714 | VITS | Deep Learning | Models & Architectures | — |
 | AIH-09110 | Wanda | Deep Learning | Deep Learning | — |
 | AIH-09114 | Warm-Up Run | Deep Learning | Deep Learning | — |
 | AIH-05742 | Watson | Deep Learning | Models & Architectures | — |
-| AIH-05770 | Wav2Vec 2.0 | Deep Learning | Models & Architectures | — |
+| AIH-05770 | Wav2Vec 2.0 | Deep Learning | Models & Architectures | [2021](https://doi.org/10.1121/10.0008579) (source only) |
 | AIH-05798 | WebGPT | Deep Learning | Models & Architectures | — |
 | AIH-09118 | Weight | Deep Learning | Deep Learning | — |
 | AIH-09122 | Weight Initialization Scheme | Deep Learning | Deep Learning | — |
@@ -466,25 +466,25 @@
 | AIH-09166 | Width Pruning | Deep Learning | Deep Learning | — |
 | AIH-09170 | Win Rate | Deep Learning | Deep Learning | — |
 | AIH-09174 | Xavier Initialization | Deep Learning | Deep Learning | — |
-| AIH-05851 | Xception | Deep Learning | Models & Architectures | — |
-| AIH-05877 | XLM-R | Deep Learning | Models & Architectures | — |
-| AIH-05903 | XLNet | Deep Learning | Models & Architectures | — |
+| AIH-05851 | Xception | Deep Learning | Models & Architectures | [2017](https://doi.org/10.1109/cvpr.2017.195) (source only) |
+| AIH-05877 | XLM-R | Deep Learning | Models & Architectures | [2024](https://doi.org/10.1145/3662739.3672320) (source only) |
+| AIH-05903 | XLNet | Deep Learning | Models & Architectures | [2021](https://doi.org/10.1109/icekim52309.2021.00146) (source only) |
 | AIH-09178 | YaRN | Deep Learning | Deep Learning | — |
 | AIH-05929 | Yi Model | Deep Learning | Models & Architectures | — |
 | AIH-09182 | Zero Ablation | Deep Learning | Deep Learning | — |
 | AIH-09186 | Zero Initialization Problem | Deep Learning | Deep Learning | — |
 | AIH-09190 | Zero-Cost Proxy | Deep Learning | Deep Learning | — |
 | AIH-05124 | Temperature Zero Evaluation | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-05156 | Temporal Generalization | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-05156 | Temporal Generalization | Evaluation & Metrics | Evaluation & Metrics | [1964](https://doi.org/10.2466/pr0.1964.14.1.51) (source only) |
 | AIH-05187 | Test-Retest Reliability | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-05218 | Threshold Selection | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-05218 | Threshold Selection | Evaluation & Metrics | Evaluation & Metrics | [1977](https://doi.org/10.21236/ada049592) (source only) |
 | AIH-05249 | Time to Task Completion | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-05280 | Token F1 | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-05311 | True Negative (TN) | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-05342 | Unbiased Pass at K Estimator | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-05373 | User Satisfaction Score | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-05404 | Worst-Case Performance | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-05435 | Worst-Group Accuracy | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-05404 | Worst-Case Performance | Evaluation & Metrics | Evaluation & Metrics | [1982](https://doi.org/10.1093/comjnl/25.3.347) (source only) |
+| AIH-05435 | Worst-Group Accuracy | Evaluation & Metrics | Evaluation & Metrics | [2025](https://doi.org/10.1109/access.2025.3643350) (source only) |
 | AIH-05466 | Youden's J Statistic | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-05497 | Zero-Shot Evaluation | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-05104 | Hash Matching for Known Harm | Generative AI | Generative AI | — |
@@ -494,18 +494,18 @@
 | AIH-05230 | Human Review of Detection | Generative AI | Generative AI | — |
 | AIH-05261 | Human Review Requirement | Generative AI | Generative AI | — |
 | AIH-05292 | Human-in-the-Loop Creation | Generative AI | Generative AI | — |
-| AIH-05323 | Identity Preservation | Generative AI | Generative AI | — |
-| AIH-05354 | Image Generation | Generative AI | Generative AI | — |
-| AIH-05385 | Image-to-Image | Generative AI | Generative AI | — |
-| AIH-05416 | Image-to-Image Translation | Generative AI | Generative AI | — |
+| AIH-05323 | Identity Preservation | Generative AI | Generative AI | [2009](https://doi.org/10.1201/9781439804872) (source only) |
+| AIH-05354 | Image Generation | Generative AI | Generative AI | [2005](https://doi.org/10.31026/j.eng.2005.02.12) (source only) |
+| AIH-05385 | Image-to-Image | Generative AI | Generative AI | [2021](https://doi.org/10.36227/techrxiv.16727140) (source only) |
+| AIH-05416 | Image-to-Image Translation | Generative AI | Generative AI | [2019](https://doi.org/10.1109/icip.2019.8803082) (source only) |
 | AIH-05447 | Img2Img | Generative AI | Generative AI | — |
 | AIH-05478 | Impersonation Policy | Generative AI | Generative AI | — |
-| AIH-05509 | Indemnification | Generative AI | Generative AI | — |
+| AIH-05509 | Indemnification | Generative AI | Generative AI | [1909](https://doi.org/10.2307/1325553) (source only) |
 | AIH-05539 | Inference Steps Tradeoff | Generative AI | Generative AI | — |
-| AIH-05569 | Information Ecosystem Health | Generative AI | Generative AI | — |
-| AIH-05599 | Instruct-Based Image Editing | Generative AI | Generative AI | — |
-| AIH-05629 | Instruction Tuning | Generative AI | Generative AI | — |
-| AIH-05658 | Invertible Architecture | Generative AI | Generative AI | — |
+| AIH-05569 | Information Ecosystem Health | Generative AI | Generative AI | [2013](https://doi.org/10.14236/jhi.v20i2.28) ★ (estimated) |
+| AIH-05599 | Instruct-Based Image Editing | Generative AI | Generative AI | [2025](https://doi.org/10.1109/cvpr52734.2025.02655) ★ (estimated) |
+| AIH-05629 | Instruction Tuning | Generative AI | Generative AI | [2023](https://doi.org/10.52202/075280-1516) (source only) |
+| AIH-05658 | Invertible Architecture | Generative AI | Generative AI | [2023](https://doi.org/10.1021/acsmacrolett.3c00423) (source only) |
 
 — means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
 

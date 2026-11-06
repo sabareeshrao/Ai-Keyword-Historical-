@@ -22,7 +22,7 @@
 | AIH-09768 | Role Prompting | AI Foundations | Fundamentals | — |
 | AIH-09770 | Rollback Readiness | AI Foundations | Fundamentals | — |
 | AIH-09772 | Rotary Positional Embeddings (RoPE) | AI Foundations | Fundamentals | — |
-| AIH-05420 | Rough Set Theory | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05420 | Rough Set Theory | AI Foundations | Symbolic AI & Reasoning | [1994](https://doi.org/10.1007/978-1-4471-3238-7_31) (source only) |
 | AIH-05451 | Rule Engine | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-09774 | Rules versus Standards | AI Foundations | Fundamentals | — |
 | AIH-09776 | Run-to-completion scheduling | AI Foundations | Fundamentals | — |
@@ -34,20 +34,20 @@
 | AIH-09788 | Safety Envelope | AI Foundations | Fundamentals | — |
 | AIH-09790 | Safety Filter | AI Foundations | Fundamentals | — |
 | AIH-09792 | Safety Margin | AI Foundations | Fundamentals | — |
-| AIH-05482 | Safety Property | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05482 | Safety Property | AI Foundations | Symbolic AI & Reasoning | [2007](https://doi.org/10.1109/fmcad.2007.4401992) (source only) |
 | AIH-09794 | Safety-Critical System | AI Foundations | Fundamentals | — |
 | AIH-09796 | Sampling | AI Foundations | Fundamentals | — |
 | AIH-09798 | Scalable Oversight | AI Foundations | Fundamentals | — |
 | AIH-09800 | Scalar (mathematics) | AI Foundations | Fundamentals | — |
-| AIH-05513 | Schema Matching | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05513 | Schema Matching | AI Foundations | Symbolic AI & Reasoning | [1998](https://openalex.org/W2142104809) (source only) |
 | AIH-09802 | Scientific ML | AI Foundations | Fundamentals | — |
 | AIH-09804 | Scope Creep | AI Foundations | Fundamentals | — |
 | AIH-09806 | Scope Statement | AI Foundations | Fundamentals | — |
 | AIH-09808 | Score-Based Model | AI Foundations | Fundamentals | — |
 | AIH-09810 | Scratchpad | AI Foundations | Fundamentals | — |
-| AIH-05543 | Script in AI | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05543 | Script in AI | AI Foundations | Symbolic AI & Reasoning | [2024](https://doi.org/10.33153/capture.v15i1.5621) ★ (estimated) |
 | AIH-05573 | Search Heuristic for CSP | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-05603 | Search Tree | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05603 | Search Tree | AI Foundations | Symbolic AI & Reasoning | [1998](https://doi.org/10.1145/275295.275354) (source only) |
 | AIH-09812 | Second-Order Methods | AI Foundations | Fundamentals | — |
 | AIH-09814 | Secure Inference | AI Foundations | Fundamentals | — |
 | AIH-09816 | Security by Default | AI Foundations | Fundamentals | — |
@@ -56,7 +56,7 @@
 | AIH-09822 | Self-management (computer science) | AI Foundations | Fundamentals | — |
 | AIH-09824 | Self-Model | AI Foundations | Fundamentals | — |
 | AIH-09826 | Self-Reflection | AI Foundations | Fundamentals | — |
-| AIH-05633 | Semantic Loss | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05633 | Semantic Loss | AI Foundations | Symbolic AI & Reasoning | [1995](https://doi.org/10.1080/13554799508402380) (source only) |
 | AIH-05662 | Semantic Network | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-09828 | Semi-Supervised Learning | AI Foundations | Fundamentals | — |
 | AIH-09830 | Sensitivity | AI Foundations | Fundamentals | — |
@@ -83,16 +83,16 @@
 | AIH-05719 | Sketch-Based Synthesis | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-09870 | Skill Erosion | AI Foundations | Fundamentals | — |
 | AIH-09872 | SLAM | AI Foundations | Fundamentals | — |
-| AIH-05747 | Slot and Filler | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05747 | Slot and Filler | AI Foundations | Symbolic AI & Reasoning | [1988](https://doi.org/10.3115/991635.991684) (source only) |
 | AIH-09874 | Smart object | AI Foundations | Fundamentals | — |
-| AIH-05775 | SOAR | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05775 | SOAR | AI Foundations | Symbolic AI & Reasoning | [2005](https://doi.org/10.1016/j.cogsys.2004.09.006) (source only) |
 | AIH-09876 | Social neuroscience | AI Foundations | Fundamentals | — |
 | AIH-09878 | Soft Robotics | AI Foundations | Fundamentals | — |
 | AIH-09880 | Softmax | AI Foundations | Fundamentals | — |
 | AIH-09882 | Software agent | AI Foundations | Fundamentals | — |
-| AIH-05803 | Soundness | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05803 | Soundness | AI Foundations | Symbolic AI & Reasoning | [1887](https://doi.org/10.5962/bhl.title.28934) (source only) |
 | AIH-09884 | Sovereign AI | AI Foundations | Fundamentals | — |
-| AIH-05830 | SPARQL | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05830 | SPARQL | AI Foundations | Symbolic AI & Reasoning | [2018](https://doi.org/10.5220/0006925300570067) (source only) |
 | AIH-09886 | Sparse Attention | AI Foundations | Fundamentals | — |
 | AIH-09888 | Sparse Reward | AI Foundations | Fundamentals | — |
 | AIH-09890 | Speaker Diarization | AI Foundations | Fundamentals | — |
@@ -107,16 +107,16 @@
 | AIH-09908 | State Estimation | AI Foundations | Fundamentals | — |
 | AIH-09910 | State Space | AI Foundations | Fundamentals | — |
 | AIH-09912 | State Space Model (SSM) | AI Foundations | Fundamentals | — |
-| AIH-05856 | State Space Search | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05856 | State Space Search | AI Foundations | Symbolic AI & Reasoning | [1988](https://doi.org/10.1016/b978-0-12-266720-6.50018-8) (source only) |
 | AIH-09914 | Stochastic Gradient Descent (SGD) | AI Foundations | Fundamentals | — |
 | AIH-09916 | Stochastic Parrot | AI Foundations | Fundamentals | — |
 | AIH-09918 | Strategic Interaction | AI Foundations | Fundamentals | — |
 | AIH-05882 | STRIPS | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-09920 | Structural Causal Model (SCM) | AI Foundations | Fundamentals | — |
-| AIH-05908 | Structure Mapping Theory | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05908 | Structure Mapping Theory | AI Foundations | Symbolic AI & Reasoning | [1986](https://doi.org/10.21236/ada177300) (source only) |
 | AIH-09922 | Structured Output | AI Foundations | Fundamentals | — |
 | AIH-09924 | Substantive Fairness | AI Foundations | Fundamentals | — |
-| AIH-05934 | Subsumption Reasoning | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05934 | Subsumption Reasoning | AI Foundations | Symbolic AI & Reasoning | [2011](https://doi.org/10.1145/2072221.2072237) (source only) |
 | AIH-09926 | Successor Model | AI Foundations | Fundamentals | — |
 | AIH-09928 | Sunsetting a System | AI Foundations | Fundamentals | — |
 | AIH-09930 | Supply Chain Attack | AI Foundations | Fundamentals | — |
@@ -150,7 +150,7 @@
 | AIH-09978 | Teleoperation | AI Foundations | Fundamentals | — |
 | AIH-09980 | Temperature | AI Foundations | Fundamentals | — |
 | AIH-09982 | Temporal Convolution | AI Foundations | Fundamentals | — |
-| AIH-06059 | Temporal Logic | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-06059 | Temporal Logic | AI Foundations | Symbolic AI & Reasoning | [1971](https://doi.org/10.1007/978-3-7091-7664-1_1) (source only) |
 | AIH-06084 | Temporal Reasoning | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-09984 | TensorFlow Hub | AI Foundations | Fundamentals | — |
 | AIH-09986 | Term of Art | AI Foundations | Fundamentals | — |
@@ -173,12 +173,12 @@
 | AIH-10020 | Training for Oversight | AI Foundations | Fundamentals | — |
 | AIH-10022 | Training Pipeline | AI Foundations | Fundamentals | — |
 | AIH-10024 | Trajectory Optimization | AI Foundations | Fundamentals | — |
-| AIH-06109 | TransE | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-06109 | TransE | AI Foundations | Symbolic AI & Reasoning | [2024](https://doi.org/10.3390/electronics13163171) (source only) |
 | AIH-10026 | Transition Plan | AI Foundations | Fundamentals | — |
 | AIH-10028 | Transition Support | AI Foundations | Fundamentals | — |
 | AIH-10030 | Transparency Obligation | AI Foundations | Fundamentals | — |
 | AIH-10032 | Transpose of a linear map | AI Foundations | Fundamentals | — |
-| AIH-06134 | Transposition Table | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-06134 | Transposition Table | AI Foundations | Symbolic AI & Reasoning | [1987](https://doi.org/10.3233/icg-1987-10202) (source only) |
 | AIH-10034 | Trend Component | AI Foundations | Fundamentals | — |
 | AIH-10036 | Triage System | AI Foundations | Fundamentals | — |
 | AIH-06159 | Triple | AI Foundations | Symbolic AI & Reasoning | — |
@@ -186,9 +186,9 @@
 | AIH-10040 | Trough of Disillusionment | AI Foundations | Fundamentals | — |
 | AIH-10042 | Trust in Automation | AI Foundations | Fundamentals | — |
 | AIH-10044 | Trust Region | AI Foundations | Fundamentals | — |
-| AIH-06184 | Truth Maintenance System (TMS) | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-06184 | Truth Maintenance System (TMS) | AI Foundations | Symbolic AI & Reasoning | [1987](https://doi.org/10.1117/12.940637) (source only) |
 | AIH-10046 | Turing Test | AI Foundations | Fundamentals | — |
-| AIH-06207 | Type Inference | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-06207 | Type Inference | AI Foundations | Symbolic AI & Reasoning | [1990](https://doi.org/10.1007/978-1-4471-3166-3_17) (source only) |
 | AIH-06230 | Type System | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-10048 | Unauthorized Practice of Law | AI Foundations | Fundamentals | — |
 | AIH-10050 | Uncertainty Disclosure | AI Foundations | Fundamentals | — |
@@ -218,108 +218,108 @@
 | AIH-10098 | Version Comparison for Users | AI Foundations | Fundamentals | — |
 | AIH-10100 | ViBe | AI Foundations | Fundamentals | — |
 | AIH-06253 | Weakest Precondition | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-06275 | Weighted A-Star | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-06275 | Weighted A-Star | AI Foundations | Symbolic AI & Reasoning | [2023](https://doi.org/10.1504/ijvics.2023.10063614) (source only) |
 | AIH-06297 | Wikidata | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-06319 | Working Memory in Rule Systems | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-06341 | YAGO | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-05119 | Impact Assessment | AI Infrastructure | MLOps & Engineering | — |
+| AIH-05119 | Impact Assessment | AI Infrastructure | MLOps & Engineering | [1981](https://doi.org/10.1016/s0195-9255(81)80011-x) (source only) |
 | AIH-05151 | Impact Radius of Data Change | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05183 | Incident Classification for ML | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05214 | Incident Severity | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05245 | Incremental Processing | AI Infrastructure | MLOps & Engineering | — |
+| AIH-05245 | Incremental Processing | AI Infrastructure | MLOps & Engineering | [2004](https://doi.org/10.3115/1613148.1613149) (source only) |
 | AIH-05276 | Inference Colocation | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05307 | Infrastructure Cost Attribution | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05338 | Input Distribution Monitoring | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05369 | Input Schema Validation | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05400 | Integration Test | AI Infrastructure | MLOps & Engineering | — |
+| AIH-05400 | Integration Test | AI Infrastructure | MLOps & Engineering | [2000](https://doi.org/10.6028/nist.ir.6562) (source only) |
 | AIH-05431 | Intended Use Statement | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05462 | Interleaving Experiment | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05493 | Internal Benchmark | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05524 | Invariance Test | AI Infrastructure | MLOps & Engineering | — |
+| AIH-05493 | Internal Benchmark | AI Infrastructure | MLOps & Engineering | [2023](https://doi.org/10.1007/978-981-99-1164-6_4) (source only) |
+| AIH-05524 | Invariance Test | AI Infrastructure | MLOps & Engineering | [1964](https://doi.org/10.1037/e572342012-166) (source only) |
 | AIH-05554 | Invariant Test for Models | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05584 | Job Retry Policy | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05614 | Known Issue Register | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05644 | Known Limitation | AI Infrastructure | MLOps & Engineering | — |
+| AIH-05644 | Known Limitation | AI Infrastructure | MLOps & Engineering | [2026](https://doi.org/10.2908/edat_aes_l37) ★ (estimated) |
 | AIH-05673 | Label Collection Strategy | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05702 | Label Delay | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05730 | Label Misalignment | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05758 | Lakehouse | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05786 | Late-Arriving Data | AI Infrastructure | MLOps & Engineering | — |
+| AIH-05702 | Label Delay | AI Infrastructure | MLOps & Engineering | [2015](https://doi.org/10.1016/j.mri.2015.05.001) (source only) |
+| AIH-05730 | Label Misalignment | AI Infrastructure | MLOps & Engineering | [2026](https://doi.org/10.1609/aaai.v40i26.39359) (source only) |
+| AIH-05758 | Lakehouse | AI Infrastructure | MLOps & Engineering | [2018](https://doi.org/10.69645/klqa3154) (source only) |
+| AIH-05786 | Late-Arriving Data | AI Infrastructure | MLOps & Engineering | [2023](https://doi.org/10.71097/ijsat.v14.i3.2266) (source only) |
 | AIH-05117 | Latency Breakdown | AI Infrastructure | AI Infrastructure | — |
 | AIH-05149 | Latency Percentile | AI Infrastructure | AI Infrastructure | — |
-| AIH-05813 | Launch Checklist | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05840 | Leading Signal | AI Infrastructure | MLOps & Engineering | — |
+| AIH-05813 | Launch Checklist | AI Infrastructure | MLOps & Engineering | [2019](https://doi.org/10.1201/9780429135941-19) (source only) |
+| AIH-05840 | Leading Signal | AI Infrastructure | MLOps & Engineering | [2017](https://doi.org/10.1109/sapiw.2017.7943997) (source only) |
 | AIH-05866 | Lineage-Driven Invalidation | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05181 | Liquid Cooling | AI Infrastructure | AI Infrastructure | — |
+| AIH-05181 | Liquid Cooling | AI Infrastructure | AI Infrastructure | [2002](https://doi.org/10.1115/1.801683.ch14) (source only) |
 | AIH-05892 | Liveness Probe | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05212 | LlamaIndex | AI Infrastructure | AI Infrastructure | — |
-| AIH-05243 | LLMOps | AI Infrastructure | AI Infrastructure | — |
-| AIH-05274 | Load Balancer | AI Infrastructure | AI Infrastructure | — |
+| AIH-05212 | LlamaIndex | AI Infrastructure | AI Infrastructure | [2024](https://doi.org/10.5040/bci-0kgx.ch-005) (source only) |
+| AIH-05243 | LLMOps | AI Infrastructure | AI Infrastructure | [2024](https://doi.org/10.32628/cseit241051044) (source only) |
+| AIH-05274 | Load Balancer | AI Infrastructure | AI Infrastructure | [2004](https://doi.org/10.1109/icws.2004.1314815) (source only) |
 | AIH-05918 | Load Shedding | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05305 | Load Testing | AI Infrastructure | AI Infrastructure | — |
+| AIH-05305 | Load Testing | AI Infrastructure | AI Infrastructure | [1980](https://doi.org/10.1520/stp27141s) (source only) |
 | AIH-05336 | Log Redaction | AI Infrastructure | AI Infrastructure | — |
-| AIH-05944 | Log Sampling | AI Infrastructure | MLOps & Engineering | — |
+| AIH-05944 | Log Sampling | AI Infrastructure | MLOps & Engineering | [2008](https://doi.org/10.2737/pnw-gtr-746) (source only) |
 | AIH-05969 | Long-Term Holdout | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05367 | Lookahead Decoding | AI Infrastructure | AI Infrastructure | — |
-| AIH-05994 | Machine Learning Lifecycle | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06019 | Maintenance Window | AI Infrastructure | MLOps & Engineering | — |
+| AIH-05367 | Lookahead Decoding | AI Infrastructure | AI Infrastructure | [2022](https://doi.org/10.18653/v1/2022.findings-emnlp.367) (source only) |
+| AIH-05994 | Machine Learning Lifecycle | AI Infrastructure | MLOps & Engineering | [2012](https://doi.org/10.1007/978-981-19-6814-3_16) (source only) |
+| AIH-06019 | Maintenance Window | AI Infrastructure | MLOps & Engineering | [2018](https://doi.org/10.1007/s40534-018-0171-0) (source only) |
 | AIH-06044 | Materialized View | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05398 | MCP (Model Context Protocol) | AI Infrastructure | AI Infrastructure | — |
 | AIH-06069 | Mean Time to Detection (MTTD) | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06094 | Mean Time to Recovery (MTTR) | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06119 | Medallion Architecture | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06094 | Mean Time to Recovery (MTTR) | AI Infrastructure | MLOps & Engineering | [2023](https://doi.org/10.46254/an13.20230039) (source only) |
+| AIH-06119 | Medallion Architecture | AI Infrastructure | MLOps & Engineering | [2021](https://doi.org/10.31586/jaibd.2021.1361) (source only) |
 | AIH-05429 | Medusa Heads | AI Infrastructure | AI Infrastructure | — |
 | AIH-05460 | Memory Allocator | AI Infrastructure | AI Infrastructure | — |
-| AIH-05491 | Memory Bandwidth | AI Infrastructure | AI Infrastructure | — |
-| AIH-05522 | Memory Fragmentation | AI Infrastructure | AI Infrastructure | — |
-| AIH-05552 | Memory Hierarchy | AI Infrastructure | AI Infrastructure | — |
-| AIH-05582 | Memory Mapping | AI Infrastructure | AI Infrastructure | — |
+| AIH-05491 | Memory Bandwidth | AI Infrastructure | AI Infrastructure | [1996](https://doi.org/10.1142/s012962649600008x) (source only) |
+| AIH-05522 | Memory Fragmentation | AI Infrastructure | AI Infrastructure | [1980](https://doi.org/10.1007/bf00288539) (source only) |
+| AIH-05552 | Memory Hierarchy | AI Infrastructure | AI Infrastructure | [1990](https://doi.org/10.1016/c2009-0-27582-9) (source only) |
+| AIH-05582 | Memory Mapping | AI Infrastructure | AI Infrastructure | [1967](https://doi.org/10.1007/bf02575669) (source only) |
 | AIH-06144 | Metric Misalignment | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06169 | Metric Sensitivity | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06194 | Metrics Cardinality | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06217 | Minimum Functionality Test | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05612 | Mixed Precision Training | AI Infrastructure | AI Infrastructure | — |
-| AIH-05642 | MLOps | AI Infrastructure | AI Infrastructure | — |
+| AIH-05612 | Mixed Precision Training | AI Infrastructure | AI Infrastructure | [2017](https://doi.org/10.48550/arxiv.1710.03740) (source only) |
+| AIH-05642 | MLOps | AI Infrastructure | AI Infrastructure | [2020](https://doi.org/10.21275/sr20034093248) (source only) |
 | AIH-06240 | Model Archive | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05671 | Model Caching | AI Infrastructure | AI Infrastructure | — |
 | AIH-06262 | Model Change Notification | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06284 | Model Comparison Report | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05700 | Model Compression | AI Infrastructure | AI Infrastructure | — |
+| AIH-05700 | Model Compression | AI Infrastructure | AI Infrastructure | [2023](https://doi.org/10.36227/techrxiv.24590904) (source only) |
 | AIH-05728 | Model Compression for Edge | AI Infrastructure | AI Infrastructure | — |
-| AIH-06306 | Model Contract | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06306 | Model Contract | AI Infrastructure | MLOps & Engineering | [2020](https://doi.org/10.1093/jwelb/jwaa027) (source only) |
 | AIH-06328 | Model Deployment Pattern | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05756 | Model FLOPs Utilization (MFU) | AI Infrastructure | AI Infrastructure | — |
 | AIH-06350 | Model Iteration | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06370 | Model Lineage | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06389 | Model Monitoring | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05784 | Model Parallelism | AI Infrastructure | AI Infrastructure | — |
+| AIH-06370 | Model Lineage | AI Infrastructure | MLOps & Engineering | [2000](https://doi.org/10.1641/0006-3568(2000)050[0883:nabpie]2.0.co;2) (source only) |
+| AIH-06389 | Model Monitoring | AI Infrastructure | MLOps & Engineering | [2015](https://doi.org/10.1002/stc.1767) (source only) |
+| AIH-05784 | Model Parallelism | AI Infrastructure | AI Infrastructure | [2011](https://doi.org/10.1109/iceccs.2011.35) (source only) |
 | AIH-06408 | Model Promotion | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05811 | Model Pull Latency | AI Infrastructure | AI Infrastructure | — |
 | AIH-06427 | Model Risk Tier | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05838 | Model Router | AI Infrastructure | AI Infrastructure | — |
-| AIH-05864 | Model Serving | AI Infrastructure | AI Infrastructure | — |
-| AIH-05890 | Model Sharding | AI Infrastructure | AI Infrastructure | — |
+| AIH-05838 | Model Router | AI Infrastructure | AI Infrastructure | [2024](https://doi.org/10.18653/v1/2024.emnlp-industry.34) (source only) |
+| AIH-05864 | Model Serving | AI Infrastructure | AI Infrastructure | [2025](https://doi.org/10.2139/ssrn.5256341) (source only) |
+| AIH-05890 | Model Sharding | AI Infrastructure | AI Infrastructure | [2024](https://doi.org/10.52202/079017-1968) (source only) |
 | AIH-05916 | Model Swap | AI Infrastructure | AI Infrastructure | — |
 | AIH-05942 | Model Warm Pool | AI Infrastructure | AI Infrastructure | — |
 | AIH-05967 | Model Weights Custody | AI Infrastructure | AI Infrastructure | — |
 | AIH-06445 | Monitoring Coverage Gap | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06463 | Multi-Armed Bandit Deployment | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05992 | Multi-Model Serving | AI Infrastructure | AI Infrastructure | — |
-| AIH-06017 | Multi-Region Deployment | AI Infrastructure | AI Infrastructure | — |
+| AIH-05992 | Multi-Model Serving | AI Infrastructure | AI Infrastructure | [2026](https://doi.org/10.1145/3832810.3832827) (source only) |
+| AIH-06017 | Multi-Region Deployment | AI Infrastructure | AI Infrastructure | [2026](https://doi.org/10.66838/sauc.6517) (source only) |
 | AIH-06042 | Multi-Tenancy | AI Infrastructure | AI Infrastructure | — |
 | AIH-06481 | Multivariate Drift | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06067 | NCCL | AI Infrastructure | AI Infrastructure | — |
-| AIH-06499 | Negative Result Reporting | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06067 | NCCL | AI Infrastructure | AI Infrastructure | [2016](https://doi.org/10.1145/2966884.2966912) (source only) |
+| AIH-06499 | Negative Result Reporting | AI Infrastructure | MLOps & Engineering | [2014](https://doi.org/10.1126/science.346.6207.308-b) (source only) |
 | AIH-06092 | Network Overhead | AI Infrastructure | AI Infrastructure | — |
 | AIH-06117 | Neural Processing Unit (NPU) | AI Infrastructure | AI Infrastructure | — |
 | AIH-06142 | Node Pool | AI Infrastructure | AI Infrastructure | — |
-| AIH-06167 | Noisy Neighbor | AI Infrastructure | AI Infrastructure | — |
+| AIH-06167 | Noisy Neighbor | AI Infrastructure | AI Infrastructure | [2010](https://doi.org/10.65528/9780807772263-008) (source only) |
 | AIH-06516 | Non-Deterministic Test Handling | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06192 | Nondeterminism in GPUs | AI Infrastructure | AI Infrastructure | — |
 | AIH-06533 | Nondeterministic Data Order | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06550 | Null Rate Monitoring | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06215 | NVLink | AI Infrastructure | AI Infrastructure | — |
-| AIH-06238 | Object Storage | AI Infrastructure | AI Infrastructure | — |
+| AIH-06238 | Object Storage | AI Infrastructure | AI Infrastructure | [1990](https://doi.org/10.1007/978-1-4471-3173-1_18) (source only) |
 | AIH-06261 | Occupancy | AI Infrastructure | AI Infrastructure | — |
 | AIH-06567 | Off-by-One Error in Sequences | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06584 | Offline Metric | AI Infrastructure | MLOps & Engineering | — |
@@ -327,7 +327,7 @@
 | AIH-06616 | On-Call Rotation | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06283 | On-Device Inference | AI Infrastructure | AI Infrastructure | — |
 | AIH-06632 | Online Metric | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06305 | ONNX | AI Infrastructure | AI Infrastructure | — |
+| AIH-06305 | ONNX | AI Infrastructure | AI Infrastructure | [2019](https://doi.org/10.1109/aicas.2019.8771510) (source only) |
 | AIH-06648 | Operational Excellence | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06664 | Operational Handover | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06327 | Out of Memory Error | AI Infrastructure | AI Infrastructure | — |
@@ -337,19 +337,19 @@
 | AIH-06728 | Output Snapshot Testing | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06744 | Overall Evaluation Criterion (OEC) | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06760 | Overfit One Batch | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06349 | Overflow Handling | AI Infrastructure | AI Infrastructure | — |
+| AIH-06349 | Overflow Handling | AI Infrastructure | AI Infrastructure | [1979](https://doi.org/10.1016/0306-4379(79)90002-4) (source only) |
 | AIH-06776 | Overprovisioning | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06792 | Ownership Mapping | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06369 | Parallel File System | AI Infrastructure | AI Infrastructure | — |
 | AIH-06388 | Parallelism Strategy Search | AI Infrastructure | AI Infrastructure | — |
-| AIH-06407 | Parameter Offloading | AI Infrastructure | AI Infrastructure | — |
+| AIH-06407 | Parameter Offloading | AI Infrastructure | AI Infrastructure | [2019](https://doi.org/10.1007/978-3-030-34914-1_2) (source only) |
 | AIH-06426 | Parquet | AI Infrastructure | AI Infrastructure | — |
 | AIH-06808 | Partitioning | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06444 | PCIe | AI Infrastructure | AI Infrastructure | — |
-| AIH-06462 | Peak Memory Usage | AI Infrastructure | AI Infrastructure | — |
+| AIH-06444 | PCIe | AI Infrastructure | AI Infrastructure | [2019](https://doi.org/10.5220/0007576902610268) (source only) |
+| AIH-06462 | Peak Memory Usage | AI Infrastructure | AI Infrastructure | [2014](https://doi.org/10.1016/j.entcs.2014.01.021) (source only) |
 | AIH-06824 | Performance Monitoring | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06480 | Photonic Computing | AI Infrastructure | AI Infrastructure | — |
-| AIH-06498 | Pinned Memory | AI Infrastructure | AI Infrastructure | — |
+| AIH-06480 | Photonic Computing | AI Infrastructure | AI Infrastructure | [2007](https://doi.org/10.1201/9781420019520.ch3) (source only) |
+| AIH-06498 | Pinned Memory | AI Infrastructure | AI Infrastructure | [2019](https://doi.org/10.1109/intercon.2019.8853624) (source only) |
 | AIH-06515 | Pipeline Bubble | AI Infrastructure | AI Infrastructure | — |
 | AIH-06839 | Pipeline Idempotency Check | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06854 | Pipeline Orchestration | AI Infrastructure | MLOps & Engineering | — |
@@ -444,7 +444,7 @@
 | AIH-07508 | Sanity Check | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05182 | Scale-Out | AI Infrastructure | Hardware & Compute | — |
 | AIH-07108 | Scale-to-Zero | AI Infrastructure | AI Infrastructure | — |
-| AIH-05213 | Scale-Up | AI Infrastructure | Hardware & Compute | — |
+| AIH-05213 | Scale-Up | AI Infrastructure | Hardware & Compute | [1991](https://doi.org/10.1007/978-3-642-76673-2_4) (source only) |
 | AIH-07122 | Scaling Policy | AI Infrastructure | AI Infrastructure | — |
 | AIH-07519 | Schema Change Detection | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07530 | Schema Enforcement | AI Infrastructure | MLOps & Engineering | — |
@@ -477,17 +477,17 @@
 | AIH-07695 | Silent Broadcasting Bug | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07706 | Silent Failure | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07717 | Silent Model Degradation | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05275 | Simultaneous Multithreading (SMT) | AI Infrastructure | Hardware & Compute | — |
+| AIH-05275 | Simultaneous Multithreading (SMT) | AI Infrastructure | Hardware & Compute | [2005](https://doi.org/10.1147/rd.494.0555) (source only) |
 | AIH-07728 | SLA for Pipelines | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07739 | Slice-Based Evaluation | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07278 | Slurm | AI Infrastructure | AI Infrastructure | — |
-| AIH-05306 | SmartNIC | AI Infrastructure | Hardware & Compute | — |
+| AIH-05306 | SmartNIC | AI Infrastructure | Hardware & Compute | [2025](https://doi.org/10.1109/lcn65610.2025.11146316) (source only) |
 | AIH-07750 | Smoke Test | AI Infrastructure | MLOps & Engineering | — |
-| AIH-05337 | Software Pipelining | AI Infrastructure | Hardware & Compute | — |
+| AIH-05337 | Software Pipelining | AI Infrastructure | Hardware & Compute | [1986](https://doi.org/10.1145/19551.19541) (source only) |
 | AIH-05368 | Solid State Drive (SSD) | AI Infrastructure | Hardware & Compute | — |
 | AIH-05399 | Sovereign Compute | AI Infrastructure | Hardware & Compute | — |
 | AIH-07290 | Sparsity Acceleration | AI Infrastructure | AI Infrastructure | — |
-| AIH-05430 | Specialization Tradeoff | AI Infrastructure | Hardware & Compute | — |
+| AIH-05430 | Specialization Tradeoff | AI Infrastructure | Hardware & Compute | [2021](https://doi.org/10.1101/2021.03.18.436093) (source only) |
 | AIH-07302 | Speculative Decoding | AI Infrastructure | AI Infrastructure | — |
 | AIH-05461 | Speculative Execution | AI Infrastructure | Hardware & Compute | — |
 | AIH-07314 | Spot Instance | AI Infrastructure | AI Infrastructure | — |
@@ -499,11 +499,11 @@
 | AIH-07793 | Statistical Rigour in ML Experiments | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07803 | Status Page | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07338 | Sticky Routing | AI Infrastructure | AI Infrastructure | — |
-| AIH-05523 | Storage Tiering | AI Infrastructure | Hardware & Compute | — |
+| AIH-05523 | Storage Tiering | AI Infrastructure | Hardware & Compute | [2011](https://doi.org/10.1109/ucc.2011.74) (source only) |
 | AIH-07350 | Straggler | AI Infrastructure | AI Infrastructure | — |
 | AIH-07813 | Stratified Production Sampling | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07362 | Stream | AI Infrastructure | AI Infrastructure | — |
-| AIH-05553 | Stream Multiplexing | AI Infrastructure | Hardware & Compute | — |
+| AIH-05553 | Stream Multiplexing | AI Infrastructure | Hardware & Compute | [2008](https://doi.org/10.1109/isita.2008.4895494) (source only) |
 | AIH-07374 | Streaming Chunk Size | AI Infrastructure | AI Infrastructure | — |
 | AIH-07386 | Streaming Dataset | AI Infrastructure | AI Infrastructure | — |
 

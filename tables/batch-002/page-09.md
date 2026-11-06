@@ -11,19 +11,19 @@
 | AIH-06404 | Scenario Generation | Mathematics | Optimization | — |
 | AIH-09847 | Schur Complement | Mathematics | Mathematics & Statistics | — |
 | AIH-09849 | Schur Decomposition | Mathematics | Mathematics & Statistics | — |
-| AIH-06259 | Score Function | Mathematics | Probabilistic Methods | — |
+| AIH-06259 | Score Function | Mathematics | Probabilistic Methods | [2005](https://doi.org/10.1002/0471667196.ess3209) (source only) |
 | AIH-09851 | Score Function Estimator | Mathematics | Mathematics & Statistics | — |
 | AIH-09853 | Score Test | Mathematics | Mathematics & Statistics | — |
-| AIH-06423 | Second-Order Approximation | Mathematics | Optimization | — |
-| AIH-06441 | Second-Order Cone Programming (SOCP) | Mathematics | Optimization | — |
+| AIH-06423 | Second-Order Approximation | Mathematics | Optimization | [1973](https://doi.org/10.1109/proc.1973.9039) (source only) |
+| AIH-06441 | Second-Order Cone Programming (SOCP) | Mathematics | Optimization | [2005](https://doi.org/10.1109/tcsii.2004.840285) (source only) |
 | AIH-09855 | Second-Order Logic | Mathematics | Mathematics & Statistics | — |
-| AIH-06459 | Second-Order Optimality Condition | Mathematics | Optimization | — |
+| AIH-06459 | Second-Order Optimality Condition | Mathematics | Optimization | [1996](https://doi.org/10.1016/0167-6377(96)00006-5) (source only) |
 | AIH-09857 | Seed Reproducibility | Mathematics | Mathematics & Statistics | — |
 | AIH-09859 | Segment Tree | Mathematics | Mathematics & Statistics | — |
 | AIH-09861 | Selection Bias | Mathematics | Mathematics & Statistics | — |
 | AIH-09863 | Selective Inference | Mathematics | Mathematics & Statistics | — |
-| AIH-06281 | Self-Normalized Importance Sampling | Mathematics | Probabilistic Methods | — |
-| AIH-06477 | Semidefinite Programming (SDP) | Mathematics | Optimization | — |
+| AIH-06281 | Self-Normalized Importance Sampling | Mathematics | Probabilistic Methods | [2022](https://doi.org/10.52202/068431-0052) (source only) |
+| AIH-06477 | Semidefinite Programming (SDP) | Mathematics | Optimization | [2007](https://doi.org/10.1109/asru.2007.4430130) (source only) |
 | AIH-09865 | Semiparametric Model | Mathematics | Mathematics & Statistics | — |
 | AIH-09867 | Sensitivity Coefficient | Mathematics | Mathematics & Statistics | — |
 | AIH-09869 | Separating Hyperplane Theorem | Mathematics | Mathematics & Statistics | — |
@@ -33,7 +33,7 @@
 | AIH-09875 | Set | Mathematics | Mathematics & Statistics | — |
 | AIH-06495 | Shampoo Optimizer | Mathematics | Optimization | — |
 | AIH-09877 | Shapiro-Wilk Test | Mathematics | Mathematics & Statistics | — |
-| AIH-06325 | Sharpness | Mathematics | Probabilistic Methods | — |
+| AIH-06325 | Sharpness | Mathematics | Probabilistic Methods | [1940](https://doi.org/10.1021/ie50365a017) (source only) |
 | AIH-09879 | Shear Transformation | Mathematics | Mathematics & Statistics | — |
 | AIH-09881 | Sherman-Morrison Formula | Mathematics | Mathematics & Statistics | — |
 | AIH-06347 | Shrinkage | Mathematics | Probabilistic Methods | — |
@@ -49,7 +49,7 @@
 | AIH-06529 | Simplex Method | Mathematics | Optimization | — |
 | AIH-09899 | Simpson's Reversal | Mathematics | Mathematics & Statistics | — |
 | AIH-09901 | Simulated Annealing (SA) | Mathematics | Mathematics & Statistics | — |
-| AIH-06367 | Simulated Tempering | Mathematics | Probabilistic Methods | — |
+| AIH-06367 | Simulated Tempering | Mathematics | Probabilistic Methods | [1992](https://doi.org/10.1209/0295-5075/19/6/002) (source only) |
 | AIH-09903 | Simultaneous Confidence Band | Mathematics | Mathematics & Statistics | — |
 | AIH-09905 | Singular Matrix | Mathematics | Mathematics & Statistics | — |
 | AIH-09907 | Singular Value | Mathematics | Mathematics & Statistics | — |
@@ -95,7 +95,7 @@
 | AIH-06424 | Standard Normal Distribution | Mathematics | Probabilistic Methods | — |
 | AIH-09973 | Standardization | Mathematics | Mathematics & Statistics | — |
 | AIH-06628 | Stateless Optimizer | Mathematics | Optimization | — |
-| AIH-06442 | Stationary Distribution | Mathematics | Probabilistic Methods | — |
+| AIH-06442 | Stationary Distribution | Mathematics | Probabilistic Methods | [1990](https://doi.org/10.21236/ada234421) (source only) |
 | AIH-09975 | Stationary Point | Mathematics | Mathematics & Statistics | — |
 | AIH-09977 | Statistical Power | Mathematics | Mathematics & Statistics | — |
 | AIH-06644 | Steepest Descent | Mathematics | Optimization | — |
@@ -106,7 +106,7 @@
 | AIH-09981 | Stiff Equation | Mathematics | Mathematics & Statistics | — |
 | AIH-09983 | Stochastic Block Model | Mathematics | Mathematics & Statistics | — |
 | AIH-06478 | Stochastic Differential Equation (SDE) | Mathematics | Probabilistic Methods | — |
-| AIH-06496 | Stochastic Gradient Langevin Dynamics (SGLD) | Mathematics | Probabilistic Methods | — |
+| AIH-06496 | Stochastic Gradient Langevin Dynamics (SGLD) | Mathematics | Probabilistic Methods | [2025](https://doi.org/10.1109/icoiics67115.2025.11390664) (source only) |
 | AIH-09985 | Stochastic Matrix | Mathematics | Mathematics & Statistics | — |
 | AIH-06692 | Stochastic Optimization | Mathematics | Optimization | — |
 | AIH-06708 | Stochastic Programming | Mathematics | Optimization | — |
@@ -213,55 +213,55 @@
 | AIH-07091 | Wolfe Conditions | Mathematics | Optimization | — |
 | AIH-07106 | Zero Redundancy Optimizer | Mathematics | Optimization | — |
 | AIH-06821 | Zipf's Law | Mathematics | Probabilistic Methods | — |
-| AIH-05105 | Grounded Response Generation | NLP and LLMs | Natural Language Processing | — |
+| AIH-05105 | Grounded Response Generation | NLP and LLMs | Natural Language Processing | [2019](https://doi.org/10.18653/v1/w19-5917) (source only) |
 | AIH-05137 | Groundedness Score | NLP and LLMs | Natural Language Processing | — |
 | AIH-05169 | Grounding | NLP and LLMs | Natural Language Processing | — |
-| AIH-05200 | Hallucination | NLP and LLMs | Natural Language Processing | — |
-| AIH-05231 | Handwriting Variability | NLP and LLMs | Natural Language Processing | — |
-| AIH-05262 | Hate Speech Detection | NLP and LLMs | Natural Language Processing | — |
-| AIH-05293 | Head Word | NLP and LLMs | Natural Language Processing | — |
-| AIH-05324 | Heaps' Law | NLP and LLMs | Natural Language Processing | — |
+| AIH-05200 | Hallucination | NLP and LLMs | Natural Language Processing | [1939](https://doi.org/10.7312/rose93790-011) (source only) |
+| AIH-05231 | Handwriting Variability | NLP and LLMs | Natural Language Processing | [2024](https://doi.org/10.53555/kuey.v30i1.6283) (source only) |
+| AIH-05262 | Hate Speech Detection | NLP and LLMs | Natural Language Processing | [2018](https://doi.org/10.1007/978-3-319-78583-7_3) (source only) |
+| AIH-05293 | Head Word | NLP and LLMs | Natural Language Processing | [2011](https://doi.org/10.5788/13-0-732) (source only) |
+| AIH-05324 | Heaps' Law | NLP and LLMs | Natural Language Processing | [2005](https://doi.org/10.1016/j.ins.2004.03.006) (source only) |
 | AIH-05355 | Historical Document Processing | NLP and LLMs | Natural Language Processing | — |
 | AIH-05386 | Homogenization of Writing | NLP and LLMs | Natural Language Processing | — |
 | AIH-05417 | Honorifics | NLP and LLMs | Natural Language Processing | — |
-| AIH-05448 | Human-AI Co-Writing | NLP and LLMs | Natural Language Processing | — |
-| AIH-05479 | Hybrid Retrieval | NLP and LLMs | Natural Language Processing | — |
-| AIH-05510 | Hypernym | NLP and LLMs | Natural Language Processing | — |
+| AIH-05448 | Human-AI Co-Writing | NLP and LLMs | Natural Language Processing | [2024](https://doi.org/10.1145/3613904.3641899) (source only) |
+| AIH-05479 | Hybrid Retrieval | NLP and LLMs | Natural Language Processing | [2013](https://doi.org/10.1145/2484028.2484146) (source only) |
+| AIH-05510 | Hypernym | NLP and LLMs | Natural Language Processing | [2015](https://doi.org/10.1007/978-3-319-18111-0_28) (source only) |
 | AIH-05540 | Hyponym | NLP and LLMs | Natural Language Processing | — |
 | AIH-05570 | Hypothetical Document Embedding (HyDE) | NLP and LLMs | Natural Language Processing | — |
-| AIH-05600 | Idea Diversity | NLP and LLMs | Natural Language Processing | — |
-| AIH-05630 | Implicature | NLP and LLMs | Natural Language Processing | — |
-| AIH-05659 | In-context Learning (ICL) | NLP and LLMs | Natural Language Processing | — |
+| AIH-05600 | Idea Diversity | NLP and LLMs | Natural Language Processing | [2024](https://doi.org/10.31234/osf.io/yqb29) (source only) |
+| AIH-05630 | Implicature | NLP and LLMs | Natural Language Processing | [1983](https://doi.org/10.1017/cbo9780511813313.006) (source only) |
+| AIH-05659 | In-context Learning (ICL) | NLP and LLMs | Natural Language Processing | [2024](https://doi.org/10.54254/2755-2721/43/20230858) (source only) |
 | AIH-05688 | Infilling | NLP and LLMs | Natural Language Processing | — |
 | AIH-05716 | Inflection | NLP and LLMs | Natural Language Processing | — |
-| AIH-05744 | Information Extraction (IE) | NLP and LLMs | Natural Language Processing | — |
-| AIH-05772 | Information Retrieval (IR) | NLP and LLMs | Natural Language Processing | — |
-| AIH-05800 | Intrinsic Hallucination | NLP and LLMs | Natural Language Processing | — |
-| AIH-05827 | Inverse Document Frequency (IDF) | NLP and LLMs | Natural Language Processing | — |
-| AIH-05853 | Irony Detection | NLP and LLMs | Natural Language Processing | — |
+| AIH-05744 | Information Extraction (IE) | NLP and LLMs | Natural Language Processing | [2020](https://doi.org/10.23962/10539/29192) (source only) |
+| AIH-05772 | Information Retrieval (IR) | NLP and LLMs | Natural Language Processing | [2008](https://doi.org/10.1007/978-1-4020-5614-7_1809) (source only) |
+| AIH-05800 | Intrinsic Hallucination | NLP and LLMs | Natural Language Processing | [2026](https://doi.org/10.1109/iisec69317.2026.11418463) (source only) |
+| AIH-05827 | Inverse Document Frequency (IDF) | NLP and LLMs | Natural Language Processing | [1999](https://doi.org/10.1007/978-94-017-2390-9_18) (source only) |
+| AIH-05853 | Irony Detection | NLP and LLMs | Natural Language Processing | [2014](https://doi.org/10.15622/sp.24.12) (source only) |
 | AIH-05879 | Jargon Handling | NLP and LLMs | Natural Language Processing | — |
-| AIH-05905 | Key-Value Pair Extraction | NLP and LLMs | Natural Language Processing | — |
-| AIH-05931 | Knowledge Selection | NLP and LLMs | Natural Language Processing | — |
+| AIH-05905 | Key-Value Pair Extraction | NLP and LLMs | Natural Language Processing | [2023](https://doi.org/10.1609/aaai.v37i11.26516) (source only) |
+| AIH-05931 | Knowledge Selection | NLP and LLMs | Natural Language Processing | [2007](https://doi.org/10.1142/9789812706720_0004) (source only) |
 | AIH-05956 | Knowledge-Grounded Generation | NLP and LLMs | Natural Language Processing | — |
-| AIH-05981 | Language Change | NLP and LLMs | Natural Language Processing | — |
+| AIH-05981 | Language Change | NLP and LLMs | Natural Language Processing | [1977](https://doi.org/10.1016/b978-0-12-107450-0.50019-x) (source only) |
 | AIH-06006 | Language Detection | NLP and LLMs | Natural Language Processing | — |
-| AIH-06031 | Language Documentation | NLP and LLMs | Natural Language Processing | — |
+| AIH-06031 | Language Documentation | NLP and LLMs | Natural Language Processing | [2006](https://doi.org/10.1515/9783110197730.87) (source only) |
 | AIH-06056 | Language Modelling Objective | NLP and LLMs | Natural Language Processing | — |
 | AIH-06081 | Language-Specific Adapter | NLP and LLMs | Natural Language Processing | — |
-| AIH-06106 | Large Language Model (LLM) | NLP and LLMs | Natural Language Processing | — |
+| AIH-06106 | Large Language Model (LLM) | NLP and LLMs | Natural Language Processing | [2022](https://doi.org/10.52710/cfs.836) (source only) |
 | AIH-06131 | Layout-Aware Language Model | NLP and LLMs | Natural Language Processing | — |
-| AIH-06156 | Legal Text Processing | NLP and LLMs | Natural Language Processing | — |
-| AIH-06181 | Lemmatization | NLP and LLMs | Natural Language Processing | — |
-| AIH-06204 | Length Control | NLP and LLMs | Natural Language Processing | — |
-| AIH-06227 | Lexical Ambiguity | NLP and LLMs | Natural Language Processing | — |
+| AIH-06156 | Legal Text Processing | NLP and LLMs | Natural Language Processing | [2021](https://doi.org/10.1145/3463677.3463730) (source only) |
+| AIH-06181 | Lemmatization | NLP and LLMs | Natural Language Processing | [1992](https://doi.org/10.1093/ijl/5.3.199) (source only) |
+| AIH-06204 | Length Control | NLP and LLMs | Natural Language Processing | [1993](https://doi.org/10.1016/0967-0661(93)91985-6) (source only) |
+| AIH-06227 | Lexical Ambiguity | NLP and LLMs | Natural Language Processing | [1980](https://doi.org/10.3115/990174.990237) (source only) |
 | AIH-06250 | Lexical Constraint | NLP and LLMs | Natural Language Processing | — |
-| AIH-06272 | Lexical Diversity | NLP and LLMs | Natural Language Processing | — |
-| AIH-06294 | Likelihood Trap | NLP and LLMs | Natural Language Processing | — |
-| AIH-06316 | Low-Resource NLP | NLP and LLMs | Natural Language Processing | — |
-| AIH-06338 | Machine Translation (MT) | NLP and LLMs | Natural Language Processing | — |
+| AIH-06272 | Lexical Diversity | NLP and LLMs | Natural Language Processing | [2004](https://doi.org/10.1057/9780230511804_3) (source only) |
+| AIH-06294 | Likelihood Trap | NLP and LLMs | Natural Language Processing | [2026](https://doi.org/10.18653/2026.emnlp-main.1778) (source only) |
+| AIH-06316 | Low-Resource NLP | NLP and LLMs | Natural Language Processing | [2018](https://doi.org/10.18653/v1/w18-34) (source only) |
+| AIH-06338 | Machine Translation (MT) | NLP and LLMs | Natural Language Processing | [1997](https://doi.org/10.31819/9783964567468-005) (source only) |
 | AIH-06359 | Map-Reduce Prompting | NLP and LLMs | Natural Language Processing | — |
 | AIH-06378 | Mean Pooling of Tokens | NLP and LLMs | Natural Language Processing | — |
-| AIH-06397 | Memory Conflict | NLP and LLMs | Natural Language Processing | — |
+| AIH-06397 | Memory Conflict | NLP and LLMs | Natural Language Processing | [2010](https://doi.org/10.5040/9780755620586.ch-007) (source only) |
 | AIH-06416 | Meronym | NLP and LLMs | Natural Language Processing | — |
 | AIH-06435 | METEOR | NLP and LLMs | Natural Language Processing | — |
 | AIH-06453 | Mixed-Initiative Dialogue | NLP and LLMs | Natural Language Processing | — |
@@ -458,43 +458,43 @@
 | AIH-08525 | Zero-Shot Cross-Lingual Transfer | NLP and LLMs | Natural Language Processing | — |
 | AIH-08530 | Zero-Shot Extraction | NLP and LLMs | Natural Language Processing | — |
 | AIH-05126 | Staged Disclosure | People & Organizations | People & Organizations | — |
-| AIH-05158 | Stakeholder Mapping | People & Organizations | People & Organizations | — |
+| AIH-05158 | Stakeholder Mapping | People & Organizations | People & Organizations | [2009](https://doi.org/10.3384/cu.2000.1525.09119305) (source only) |
 | AIH-05189 | Stanford HAI | People & Organizations | People & Organizations | — |
-| AIH-05220 | Stuart Russell | People & Organizations | People & Organizations | — |
-| AIH-05251 | Talent Concentration | People & Organizations | People & Organizations | — |
-| AIH-05282 | Tim Berners-Lee | People & Organizations | People & Organizations | — |
-| AIH-05313 | Timnit Gebru | People & Organizations | People & Organizations | — |
+| AIH-05220 | Stuart Russell | People & Organizations | People & Organizations | [1984](https://doi.org/10.1111/j.1365-2990.1984.tb00362.x) (source only) |
+| AIH-05251 | Talent Concentration | People & Organizations | People & Organizations | [2021](https://doi.org/10.2139/ssrn.3982454) (source only) |
+| AIH-05282 | Tim Berners-Lee | People & Organizations | People & Organizations | [1998](https://doi.org/10.1108/k.1998.06727hag.002) (source only) |
+| AIH-05313 | Timnit Gebru | People & Organizations | People & Organizations | [2023](https://doi.org/10.7202/1097750ar) (source only) |
 | AIH-05344 | Transformer Moment | People & Organizations | People & Organizations | — |
-| AIH-05375 | Turing Award | People & Organizations | People & Organizations | — |
+| AIH-05375 | Turing Award | People & Organizations | People & Organizations | [1971](https://doi.org/10.1145/800184.810467) (source only) |
 | AIH-05406 | Turing Institute | People & Organizations | People & Organizations | — |
 | AIH-05437 | Vector Institute | People & Organizations | People & Organizations | — |
-| AIH-05468 | Vendor Lock-In | People & Organizations | People & Organizations | — |
+| AIH-05468 | Vendor Lock-In | People & Organizations | People & Organizations | [2008](https://doi.org/10.4337/9781035305544.00020) (source only) |
 | AIH-05499 | Vertical AI Application | People & Organizations | People & Organizations | — |
-| AIH-05529 | Vertical Integration | People & Organizations | People & Organizations | — |
-| AIH-05559 | Vladimir Vapnik | People & Organizations | People & Organizations | — |
-| AIH-05589 | Yann LeCun | People & Organizations | People & Organizations | — |
-| AIH-05619 | Yoshua Bengio | People & Organizations | People & Organizations | — |
+| AIH-05529 | Vertical Integration | People & Organizations | People & Organizations | [1983](https://doi.org/10.1016/b978-0-12-103480-1.50009-2) (source only) |
+| AIH-05559 | Vladimir Vapnik | People & Organizations | People & Organizations | [2011](https://doi.org/10.1201/b11429-7) (source only) |
+| AIH-05589 | Yann LeCun | People & Organizations | People & Organizations | [2014](https://doi.org/10.1007/978-1-4302-6599-3_3) (source only) |
+| AIH-05619 | Yoshua Bengio | People & Organizations | People & Organizations | [2016](https://openalex.org/W3200407711) (source only) |
 | AIH-05127 | Hidden Test Case | Programming & Software | Programming & Software | — |
 | AIH-05159 | Higher-Order Function | Programming & Software | Programming & Software | — |
-| AIH-05190 | Hot Path | Programming & Software | Programming & Software | — |
+| AIH-05190 | Hot Path | Programming & Software | Programming & Software | [2000](https://doi.org/10.1145/356989.357008) (source only) |
 | AIH-05221 | Hotfix | Programming & Software | Programming & Software | — |
-| AIH-05252 | Idempotence | Programming & Software | Programming & Software | — |
-| AIH-05283 | Immutability | Programming & Software | Programming & Software | — |
-| AIH-05314 | Impact Analysis | Programming & Software | Programming & Software | — |
-| AIH-05345 | Incremental Build | Programming & Software | Programming & Software | — |
-| AIH-05376 | Inheritance | Programming & Software | Programming & Software | — |
+| AIH-05252 | Idempotence | Programming & Software | Programming & Software | [1966](https://doi.org/10.4064/fm-58-3-241-258) (source only) |
+| AIH-05283 | Immutability | Programming & Software | Programming & Software | [1965](https://doi.org/10.1007/978-94-011-9447-1_2) (source only) |
+| AIH-05314 | Impact Analysis | Programming & Software | Programming & Software | [1978](https://doi.org/10.1016/b978-0-12-735350-0.50004-x) (source only) |
+| AIH-05345 | Incremental Build | Programming & Software | Programming & Software | [2015](https://doi.org/10.1145/2858965.2814316) (source only) |
+| AIH-05376 | Inheritance | Programming & Software | Programming & Software | [2003](https://doi.org/10.5040/9781760624521.00000009) (source only) |
 | AIH-05407 | Inline Suggestion | Programming & Software | Programming & Software | — |
-| AIH-05438 | Insecure Default | Programming & Software | Programming & Software | — |
-| AIH-05469 | Interface | Programming & Software | Programming & Software | — |
-| AIH-05500 | Interpreter | Programming & Software | Programming & Software | — |
-| AIH-05530 | Inversion of Control (IoC) | Programming & Software | Programming & Software | — |
-| AIH-05560 | Isolation Level | Programming & Software | Programming & Software | — |
+| AIH-05438 | Insecure Default | Programming & Software | Programming & Software | [2025](https://doi.org/10.21275/sr25729122027) (source only) |
+| AIH-05469 | Interface | Programming & Software | Programming & Software | [1973](https://doi.org/10.1080/09298217308570183) (source only) |
+| AIH-05500 | Interpreter | Programming & Software | Programming & Software | [2000](https://doi.org/10.1093/anb/9780198606697.article.2000294) (source only) |
+| AIH-05530 | Inversion of Control (IoC) | Programming & Software | Programming & Software | [2017](https://doi.org/10.1007/978-1-4842-2475-5_3) (source only) |
+| AIH-05560 | Isolation Level | Programming & Software | Programming & Software | [2001](https://openalex.org/W2273298132) (source only) |
 | AIH-05590 | Issue Triage Automation | Programming & Software | Programming & Software | — |
 | AIH-05620 | Iterator | Programming & Software | Programming & Software | — |
 | AIH-05649 | JSON | Programming & Software | Programming & Software | — |
-| AIH-05678 | Lazy Evaluation | Programming & Software | Programming & Software | — |
+| AIH-05678 | Lazy Evaluation | Programming & Software | Programming & Software | [1980](https://doi.org/10.1016/0020-0190(80)90043-5) (source only) |
 | AIH-05707 | Lead Time for Changes | Programming & Software | Programming & Software | — |
-| AIH-05735 | Legacy Code Understanding | Programming & Software | Programming & Software | — |
+| AIH-05735 | Legacy Code Understanding | Programming & Software | Programming & Software | [1994](https://doi.org/10.1145/175290.175295) (source only) |
 | AIH-05763 | License Compatibility of Suggestions | Programming & Software | Programming & Software | — |
 | AIH-05791 | Linked List | Programming & Software | Programming & Software | — |
 | AIH-05818 | Linter | Programming & Software | Programming & Software | — |
@@ -505,7 +505,7 @@
 | AIH-05948 | Logging for Diagnosis | Programming & Software | Programming & Software | — |
 | AIH-05973 | Long-Lived Branch | Programming & Software | Programming & Software | — |
 | AIH-05998 | Long-Term Support Release (LTS) | Programming & Software | Programming & Software | — |
-| AIH-06023 | Loop Unrolling | Programming & Software | Programming & Software | — |
+| AIH-06023 | Loop Unrolling | Programming & Software | Programming & Software | [1988](https://doi.org/10.1007/978-1-4684-5511-3_16) (source only) |
 
 — means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
 

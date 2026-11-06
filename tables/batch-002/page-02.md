@@ -466,7 +466,7 @@
 | AIH-09676 | Psychology of reasoning | AI Foundations | Fundamentals | — |
 | AIH-09678 | Q-Function | AI Foundations | Fundamentals | — |
 | AIH-09680 | Qloo | AI Foundations | Fundamentals | — |
-| AIH-05108 | Qualification Problem | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05108 | Qualification Problem | AI Foundations | Symbolic AI & Reasoning | [1987](https://doi.org/10.1016/b978-0-934613-32-3.50021-6) (source only) |
 | AIH-05140 | Qualitative Reasoning | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-09682 | Quantum artificial life | AI Foundations | Fundamentals | — |
 | AIH-09684 | Quantum Computing | AI Foundations | Fundamentals | — |
@@ -480,7 +480,7 @@
 | AIH-09694 | Rank | AI Foundations | Fundamentals | — |
 | AIH-05265 | RDF | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-09696 | ReAct Pattern | AI Foundations | Fundamentals | — |
-| AIH-05296 | Real-Time Search | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05296 | Real-Time Search | AI Foundations | Symbolic AI & Reasoning | [1997](https://doi.org/10.1007/b102407) (source only) |
 | AIH-09698 | Reason Code | AI Foundations | Fundamentals | — |
 | AIH-09700 | Reasoning | AI Foundations | Fundamentals | — |
 | AIH-09702 | Recall | AI Foundations | Fundamentals | — |
@@ -490,11 +490,11 @@
 | AIH-09708 | Recursive self-improvement | AI Foundations | Fundamentals | — |
 | AIH-09710 | Red Teaming | AI Foundations | Fundamentals | — |
 | AIH-09712 | Reducing subspace | AI Foundations | Fundamentals | — |
-| AIH-05358 | Refinement Type | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05358 | Refinement Type | AI Foundations | Symbolic AI & Reasoning | [1998](https://doi.org/10.1007/bfb0056613) (source only) |
 | AIH-09714 | Reflection Prompting | AI Foundations | Fundamentals | — |
 | AIH-09716 | Reflex Agent | AI Foundations | Fundamentals | — |
 | AIH-09718 | Relation network (RN) | AI Foundations | Fundamentals | — |
-| AIH-05389 | Relaxed Plan Heuristic | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-05389 | Relaxed Plan Heuristic | AI Foundations | Symbolic AI & Reasoning | [2011](https://doi.org/10.1080/0952813x.2010.503341) (source only) |
 | AIH-09720 | ReLU | AI Foundations | Fundamentals | — |
 | AIH-09722 | Representation Learning | AI Foundations | Fundamentals | — |
 | AIH-09724 | Reproducibility | AI Foundations | Fundamentals | — |

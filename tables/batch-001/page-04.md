@@ -194,22 +194,22 @@
 | AIH-04429 | Fréchet Inception Distance (FID) | Computer Vision | Computer Vision | — |
 | AIH-04462 | Fundamental Matrix | Computer Vision | Computer Vision | — |
 | AIH-04495 | Gait Recognition | Computer Vision | Computer Vision | — |
-| AIH-04528 | Gamma Correction | Computer Vision | Computer Vision | — |
-| AIH-04561 | Gaussian Blur | Computer Vision | Computer Vision | — |
-| AIH-04594 | Geometric Verification | Computer Vision | Computer Vision | — |
-| AIH-04627 | Grayscale | Computer Vision | Computer Vision | — |
+| AIH-04528 | Gamma Correction | Computer Vision | Computer Vision | [1952](https://doi.org/10.1109/jrproc.1952.274088) (source only) |
+| AIH-04561 | Gaussian Blur | Computer Vision | Computer Vision | [1968](https://doi.org/10.1364/josa.58.001416) (source only) |
+| AIH-04594 | Geometric Verification | Computer Vision | Computer Vision | [2003](https://doi.org/10.1007/978-0-387-73543-6_22) (source only) |
+| AIH-04627 | Grayscale | Computer Vision | Computer Vision | [1983](https://doi.org/10.1016/0031-3203(83)90007-9) (source only) |
 | AIH-04660 | Green Screen Keying | Computer Vision | Computer Vision | — |
-| AIH-04693 | Guided Filter | Computer Vision | Computer Vision | — |
+| AIH-04693 | Guided Filter | Computer Vision | Computer Vision | [2005](https://doi.org/10.1016/b978-0-7216-9426-9.50052-2) (source only) |
 | AIH-04726 | Handwriting Recognition (HTR) | Computer Vision | Computer Vision | — |
-| AIH-04758 | Harris Corner Detector | Computer Vision | Computer Vision | — |
-| AIH-04790 | Histogram Equalization | Computer Vision | Computer Vision | — |
-| AIH-04822 | Homography | Computer Vision | Computer Vision | — |
-| AIH-04854 | HSV Color Space | Computer Vision | Computer Vision | — |
-| AIH-04886 | Human Pose Estimation | Computer Vision | Computer Vision | — |
+| AIH-04758 | Harris Corner Detector | Computer Vision | Computer Vision | [2007](https://doi.org/10.1109/ssp.2007.4301323) (source only) |
+| AIH-04790 | Histogram Equalization | Computer Vision | Computer Vision | [1992](https://doi.org/10.1016/b978-0-444-89587-5.50070-0) (source only) |
+| AIH-04822 | Homography | Computer Vision | Computer Vision | [1855](https://doi.org/10.1093/nq/s1-xi.283.244d) (source only) |
+| AIH-04854 | HSV Color Space | Computer Vision | Computer Vision | [2005](https://doi.org/10.4018/978-1-59140-553-5.ch235) (source only) |
+| AIH-04886 | Human Pose Estimation | Computer Vision | Computer Vision | [2010](https://doi.org/10.5244/c.24.12) (source only) |
 | AIH-04918 | Hungarian Assignment in Tracking | Computer Vision | Computer Vision | — |
-| AIH-04950 | Hungarian Matching Loss | Computer Vision | Computer Vision | — |
-| AIH-04982 | Illumination Robustness | Computer Vision | Computer Vision | — |
-| AIH-05014 | Image Augmentation | Computer Vision | Computer Vision | — |
+| AIH-04950 | Hungarian Matching Loss | Computer Vision | Computer Vision | [2026](https://doi.org/10.1109/tifs.2026.3654868) (source only) |
+| AIH-04982 | Illumination Robustness | Computer Vision | Computer Vision | [2013](https://doi.org/10.4156/ijact.vol5.issue3.36) (source only) |
+| AIH-05014 | Image Augmentation | Computer Vision | Computer Vision | [2017](https://doi.org/10.2139/ssrn.3120213) (source only) |
 | AIH-05046 | Image Captioning | Computer Vision | Computer Vision | — |
 | AIH-05078 | Image Captioning Metric | Computer Vision | Computer Vision | — |
 | AIH-00124 | Accuracy of Data | Data Science | Data Science | [2018](https://doi.org/10.5194/gi-2018-44-sc1) (source only) |
@@ -330,22 +330,22 @@
 | AIH-04408 | Full Refresh | Data Science | Data Science | — |
 | AIH-04441 | Funnel Analysis | Data Science | Data Science | — |
 | AIH-04474 | Fuzzy Matching | Data Science | Data Science | [2009](https://doi.org/10.1007/978-3-8348-9586-8_4) (source only) |
-| AIH-04507 | Geo Experiment | Data Science | Data Science | — |
-| AIH-04540 | Gold Standard Set | Data Science | Data Science | — |
+| AIH-04507 | Geo Experiment | Data Science | Data Science | [2013](https://openalex.org/W7124517484) (source only) |
+| AIH-04540 | Gold Standard Set | Data Science | Data Science | [2006](https://doi.org/10.1186/gb-2006-7-1-r8) (source only) |
 | AIH-04573 | Grain | Data Science | Data Science | — |
-| AIH-04606 | Ground Truth | Data Science | Data Science | — |
-| AIH-04639 | Group By | Data Science | Data Science | — |
+| AIH-04606 | Ground Truth | Data Science | Data Science | [1997](https://doi.org/10.1111/j.1467-9671.1997.tb00002.x) (source only) |
+| AIH-04639 | Group By | Data Science | Data Science | [1994](https://openalex.org/W1538786304) (source only) |
 | AIH-04672 | Heatmap Visualization | Data Science | Data Science | — |
 | AIH-04705 | Holdout Group | Data Science | Data Science | — |
 | AIH-04738 | Hypothetical Outcome Plot | Data Science | Data Science | — |
 | AIH-04770 | Idempotent Ingestion | Data Science | Data Science | — |
 | AIH-04802 | Impact Analysis for Schema Change | Data Science | Data Science | — |
 | AIH-04834 | Incremental Model Build | Data Science | Data Science | — |
-| AIH-04866 | Incrementality Testing | Data Science | Data Science | — |
-| AIH-04898 | Index Number | Data Science | Data Science | — |
-| AIH-04930 | Inner Join | Data Science | Data Science | — |
+| AIH-04866 | Incrementality Testing | Data Science | Data Science | [2021](https://doi.org/10.1145/3447548.3470819) (source only) |
+| AIH-04898 | Index Number | Data Science | Data Science | [1989](https://doi.org/10.1007/978-1-349-10816-9_7) (source only) |
+| AIH-04930 | Inner Join | Data Science | Data Science | [2018](https://doi.org/10.30595/techno.v19i1.2184) (source only) |
 | AIH-04962 | Integrity of Relationships | Data Science | Data Science | — |
-| AIH-04994 | Intermediate Model | Data Science | Data Science | — |
+| AIH-04994 | Intermediate Model | Data Science | Data Science | [2014](https://doi.org/10.2139/ssrn.2491426) (source only) |
 | AIH-05026 | Join | Data Science | Data Science | — |
 | AIH-05058 | KPI | Data Science | Data Science | — |
 | AIH-05090 | Krippendorff's Alpha | Data Science | Data Science | — |
@@ -467,11 +467,11 @@
 | AIH-04409 | MTEB | Datasets & Benchmarks | Datasets & Benchmarks | [2025](https://doi.org/10.18653/v1/2025.findings-emnlp.471) (source only) |
 | AIH-04442 | N-Gram Overlap Check | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-04475 | Natural Questions | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-04508 | Netflix Prize Dataset | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-04541 | NIH ChestX-ray14 | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-04574 | nuScenes | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-04607 | ObjectNet | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-04640 | OGB | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-04508 | Netflix Prize Dataset | Datasets & Benchmarks | Datasets & Benchmarks | [2006](https://doi.org/10.48550/arxiv.cs/0610105) (source only) |
+| AIH-04541 | NIH ChestX-ray14 | Datasets & Benchmarks | Datasets & Benchmarks | [2025](https://doi.org/10.1109/acoit66109.2025.11437206) (source only) |
+| AIH-04574 | nuScenes | Datasets & Benchmarks | Datasets & Benchmarks | [2023](https://doi.org/10.5281/zenodo.10074392) (source only) |
+| AIH-04607 | ObjectNet | Datasets & Benchmarks | Datasets & Benchmarks | [2021](https://doi.org/10.21437/interspeech.2021-245) (source only) |
+| AIH-04640 | OGB | Datasets & Benchmarks | Datasets & Benchmarks | [2021](https://doi.org/10.48550/arxiv.2103.09430) (source only) |
 | AIH-04673 | OntoNotes | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-04706 | Open Images | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-04739 | OpenBookQA | Datasets & Benchmarks | Datasets & Benchmarks | — |
@@ -480,7 +480,7 @@
 | AIH-04835 | OSCAR | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-04867 | Pascal VOC | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-04899 | PDBBind | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-04931 | Penn Treebank | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-04931 | Penn Treebank | Datasets & Benchmarks | Datasets & Benchmarks | [1993](https://doi.org/10.21236/ada273556) (source only) |
 | AIH-04963 | PIQA | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-04995 | Private Evaluation Set | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-05027 | Project Gutenberg Corpus | Datasets & Benchmarks | Datasets & Benchmarks | — |

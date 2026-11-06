@@ -89,24 +89,24 @@
 | AIH-04449 | Pink Noise | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-04482 | Pitch Detection | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-04515 | Plug-and-Play Prior (PnP) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04548 | Pointwise Mutual Information (PMI) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04581 | Polar Code | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04614 | Predictive Information | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-04548 | Pointwise Mutual Information (PMI) | Signal & Information Theory | Signal & Information Theory | [2022](https://doi.org/10.1504/ijsse.2022.127991) (source only) |
+| AIH-04581 | Polar Code | Signal & Information Theory | Signal & Information Theory | [2015](https://doi.org/10.48550/arxiv.1501.02473) (source only) |
+| AIH-04614 | Predictive Information | Signal & Information Theory | Signal & Information Theory | [1969](https://doi.org/10.1057/jors.1969.48) (source only) |
 | AIH-04647 | Prefix Code | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04680 | Psychoacoustic Model | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04713 | Pulse Code Modulation (PCM) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04746 | Quadrature Amplitude Modulation (QAM) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04778 | Quantization Error | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-04680 | Psychoacoustic Model | Signal & Information Theory | Signal & Information Theory | [1979](https://doi.org/10.1121/1.2017798) (source only) |
+| AIH-04713 | Pulse Code Modulation (PCM) | Signal & Information Theory | Signal & Information Theory | [1959](https://doi.org/10.1109/iret-set.1959.5008689) (source only) |
+| AIH-04746 | Quadrature Amplitude Modulation (QAM) | Signal & Information Theory | Signal & Information Theory | [2000](https://doi.org/10.1117/12.382883) (source only) |
+| AIH-04778 | Quantization Error | Signal & Information Theory | Signal & Information Theory | [1967](https://doi.org/10.1109/proc.1967.5788) (source only) |
 | AIH-04810 | Rate-Distortion Function | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04842 | Rate-Distortion Theory | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-04842 | Rate-Distortion Theory | Signal & Information Theory | Signal & Information Theory | [1971](https://doi.org/10.1109/tit.1971.1054605) (source only) |
 | AIH-04874 | Real-Time Constraint | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-04906 | Recursive Least Squares (RLS) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04938 | Reed-Solomon Code | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-04938 | Reed-Solomon Code | Signal & Information Theory | Signal & Information Theory | [1972](https://doi.org/10.1109/proc.1972.8810) (source only) |
 | AIH-04970 | Resampling | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-05002 | Reverberation Time (RT60) | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-05002 | Reverberation Time (RT60) | Signal & Information Theory | Signal & Information Theory | [2017](https://doi.org/10.1121/1.5014159) (source only) |
 | AIH-05034 | Room Impulse Response (RIR) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-05066 | Run-Length Encoding | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-05098 | Sample Rate | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-05066 | Run-Length Encoding | Signal & Information Theory | Signal & Information Theory | [1969](https://doi.org/10.1109/proc.1969.6899) (source only) |
+| AIH-05098 | Sample Rate | Signal & Information Theory | Signal & Information Theory | [1974](https://doi.org/10.2514/6.1974-885) (source only) |
 | AIH-00136 | Accented Speech | Speech & Audio | Speech & Audio | [1973](https://doi.org/10.1080/03637757309375813) (source only) |
 | AIH-00174 | Accessibility in Speech Technology | Speech & Audio | Speech & Audio | — |
 | AIH-00212 | Acoustic Echo | Speech & Audio | Speech & Audio | [1975](https://doi.org/10.1093/jof/73.10.633) (source only) |
@@ -225,25 +225,25 @@
 | AIH-04417 | Semantic Speech Token | Speech & Audio | Speech & Audio | — |
 | AIH-04450 | Silence Hallucination | Speech & Audio | Speech & Audio | — |
 | AIH-04483 | Simultaneous Interpretation | Speech & Audio | Speech & Audio | [1978](https://doi.org/10.1007/978-1-4615-9077-4_25) (source only) |
-| AIH-04516 | Skill in Voice Assistants | Speech & Audio | Speech & Audio | — |
-| AIH-04549 | Sound Source Localization | Speech & Audio | Speech & Audio | — |
-| AIH-04582 | Spatial Audio | Speech & Audio | Speech & Audio | — |
-| AIH-04615 | Speaker Adaptation | Speech & Audio | Speech & Audio | — |
-| AIH-04648 | Speaker Embedding | Speech & Audio | Speech & Audio | — |
-| AIH-04681 | Speaker Similarity | Speech & Audio | Speech & Audio | — |
-| AIH-04714 | Speaker Verification | Speech & Audio | Speech & Audio | — |
-| AIH-04747 | Speaking Rate Control | Speech & Audio | Speech & Audio | — |
-| AIH-04779 | SpecAugment | Speech & Audio | Speech & Audio | — |
-| AIH-04811 | Speech Analytics | Speech & Audio | Speech & Audio | — |
-| AIH-04843 | Speech Corpus | Speech & Audio | Speech & Audio | — |
-| AIH-04875 | Speech Emotion Recognition (SER) | Speech & Audio | Speech & Audio | — |
-| AIH-04907 | Speech Enhancement | Speech & Audio | Speech & Audio | — |
+| AIH-04516 | Skill in Voice Assistants | Speech & Audio | Speech & Audio | [2021](https://doi.org/10.5167/uzh-204503) ★ (estimated) |
+| AIH-04549 | Sound Source Localization | Speech & Audio | Speech & Audio | [1974](https://doi.org/10.1121/1.1903248) (source only) |
+| AIH-04582 | Spatial Audio | Speech & Audio | Speech & Audio | [1998](https://doi.org/10.1049/ic:19980822) (source only) |
+| AIH-04615 | Speaker Adaptation | Speech & Audio | Speech & Audio | [1988](https://doi.org/10.1121/1.2026406) (source only) |
+| AIH-04648 | Speaker Embedding | Speech & Audio | Speech & Audio | [2017](https://doi.org/10.21437/interspeech.2017-1125) (source only) |
+| AIH-04681 | Speaker Similarity | Speech & Audio | Speech & Audio | [2010](https://doi.org/10.1109/icassp.2010.5495562) (source only) |
+| AIH-04714 | Speaker Verification | Speech & Audio | Speech & Audio | [1971](https://doi.org/10.17226/20300) (source only) |
+| AIH-04747 | Speaking Rate Control | Speech & Audio | Speech & Audio | [2014](https://doi.org/10.1504/ijesms.2014.058421) (source only) |
+| AIH-04779 | SpecAugment | Speech & Audio | Speech & Audio | [2019](https://doi.org/10.1109/isriti48646.2019.9034603) (source only) |
+| AIH-04811 | Speech Analytics | Speech & Audio | Speech & Audio | [2005](https://doi.org/10.21437/interspeech.2005-91) (source only) |
+| AIH-04843 | Speech Corpus | Speech & Audio | Speech & Audio | [1999](https://doi.org/10.21437/eurospeech.1999-223) (source only) |
+| AIH-04875 | Speech Emotion Recognition (SER) | Speech & Audio | Speech & Audio | [2023](https://doi.org/10.56726/irjmets36807) (source only) |
+| AIH-04907 | Speech Enhancement | Speech & Audio | Speech & Audio | [2001](https://doi.org/10.1016/s0167-6393(00)00038-8) (source only) |
 | AIH-04939 | Speech Language Model | Speech & Audio | Speech & Audio | — |
-| AIH-04971 | Speech Naturalness | Speech & Audio | Speech & Audio | — |
+| AIH-04971 | Speech Naturalness | Speech & Audio | Speech & Audio | [1984](https://doi.org/10.1044/jshd.4901.53) (source only) |
 | AIH-05003 | Speech Tokenization | Speech & Audio | Speech & Audio | — |
-| AIH-05035 | Speech-to-Speech Translation | Speech & Audio | Speech & Audio | — |
-| AIH-05067 | Speed Perturbation | Speech & Audio | Speech & Audio | — |
-| AIH-05099 | Streaming Recognition | Speech & Audio | Speech & Audio | — |
+| AIH-05035 | Speech-to-Speech Translation | Speech & Audio | Speech & Audio | [1994](https://doi.org/10.1007/978-1-4615-2732-9) (source only) |
+| AIH-05067 | Speed Perturbation | Speech & Audio | Speech & Audio | [1981](https://doi.org/10.1007/bf00121381) (source only) |
+| AIH-05099 | Streaming Recognition | Speech & Audio | Speech & Audio | [2022](https://doi.org/10.21437/interspeech.2022-10738) (source only) |
 | AIH-00137 | Additive Decomposition | Time Series & Forecasting | Time Series & Forecasting | [1984](https://doi.org/10.1016/s0166-4115(08)62097-x) (source only) |
 | AIH-00175 | Anomaly Detection in Time Series | Time Series & Forecasting | Time Series & Forecasting | [2005](https://openalex.org/W1598358187) (source only) |
 | AIH-00213 | ARIMAX | Time Series & Forecasting | Time Series & Forecasting | [2009](https://doi.org/10.1109/icmtma.2009.250) (source only) |
@@ -362,10 +362,10 @@
 | AIH-04418 | Time Series Foundation Model | Time Series & Forecasting | Time Series & Forecasting | [2024](https://doi.org/10.2139/ssrn.5067015) (source only) |
 | AIH-04451 | Top-Down Approach | Time Series & Forecasting | Time Series & Forecasting | [2001](https://doi.org/10.2307/2679886) (source only) |
 | AIH-04484 | Tracking Signal | Time Series & Forecasting | Time Series & Forecasting | [2016](https://doi.org/10.1016/j.bspc.2015.11.009) (source only) |
-| AIH-04517 | Trading Day Adjustment | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-04517 | Trading Day Adjustment | Time Series & Forecasting | Time Series & Forecasting | [1989](https://doi.org/10.1108/eum0000000001217) (source only) |
 | AIH-04550 | Trend | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-04583 | Trend Dampening | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-04616 | Unit Root | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-04616 | Unit Root | Time Series & Forecasting | Time Series & Forecasting | [1979](https://doi.org/10.1080/01621459.1979.10482531) (source only) |
 | AIH-04649 | Weak Stationarity | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-04682 | Weather-Adjusted Forecast | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-04715 | Weighted Quantile Loss (WQL) | Time Series & Forecasting | Time Series & Forecasting | — |
@@ -490,9 +490,9 @@
 | AIH-04518 | pandas | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-04551 | Pandera | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-04584 | Panel | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-04617 | Papermill | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-04617 | Papermill | Tools & Frameworks | Tools & Frameworks | [1964](https://openalex.org/W567883524) (source only) |
 | AIH-04650 | PEFT Library | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-04683 | PettingZoo | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-04683 | PettingZoo | Tools & Frameworks | Tools & Frameworks | [2024](https://doi.org/10.54097/zsfnjk16) (source only) |
 | AIH-04716 | pgvector | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-04748 | Pillow | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-04780 | Pinecone | Tools & Frameworks | Tools & Frameworks | — |
@@ -501,9 +501,9 @@
 | AIH-04876 | Prefect | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-04908 | Prophet | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-04940 | PyAudio | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-04972 | PyBullet | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-04972 | PyBullet | Tools & Frameworks | Tools & Frameworks | [2021](https://doi.org/10.1007/978-3-030-89177-0_2) (source only) |
 | AIH-05004 | Pydantic AI | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-05036 | PySpark | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-05036 | PySpark | Tools & Frameworks | Tools & Frameworks | [2019](https://doi.org/10.1007/978-1-4842-4961-1_8) (source only) |
 | AIH-05068 | PySyft | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-05100 | PyTorch Geometric (PyG) | Tools & Frameworks | Tools & Frameworks | — |
 

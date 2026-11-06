@@ -6,41 +6,41 @@
 
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
-| AIH-05687 | Invisible Watermark | Generative AI | Generative AI | — |
-| AIH-05715 | IP-Adapter | Generative AI | Generative AI | — |
-| AIH-05743 | Iterative Prompt Refinement | Generative AI | Generative AI | — |
+| AIH-05687 | Invisible Watermark | Generative AI | Generative AI | [2005](https://doi.org/10.1007/11403937_25) (source only) |
+| AIH-05715 | IP-Adapter | Generative AI | Generative AI | [2007](https://doi.org/10.1109/tce.2007.381708) (source only) |
+| AIH-05743 | Iterative Prompt Refinement | Generative AI | Generative AI | [2023](https://doi.org/10.1101/2023.12.23.573201) (source only) |
 | AIH-05771 | Iterative Refinement Workflow | Generative AI | Generative AI | — |
 | AIH-05799 | Janus Problem | Generative AI | Generative AI | — |
 | AIH-05826 | Keyframe-Conditioned Video | Generative AI | Generative AI | — |
 | AIH-05852 | KL Annealing | Generative AI | Generative AI | — |
-| AIH-05878 | Labelling Policy | Generative AI | Generative AI | — |
-| AIH-05904 | Latent Direction | Generative AI | Generative AI | — |
+| AIH-05878 | Labelling Policy | Generative AI | Generative AI | [1978](https://doi.org/10.1016/0306-9192(78)90021-0) (source only) |
+| AIH-05904 | Latent Direction | Generative AI | Generative AI | [2019](https://doi.org/10.1016/j.ins.2018.09.032) (source only) |
 | AIH-05930 | Latent Space Interpolation | Generative AI | Generative AI | — |
-| AIH-05955 | Latent Upscaling | Generative AI | Generative AI | — |
+| AIH-05955 | Latent Upscaling | Generative AI | Generative AI | [2026](https://doi.org/10.1007/978-3-032-37026-6_3) (source only) |
 | AIH-05980 | Latent Variable Generation | Generative AI | Generative AI | — |
 | AIH-06005 | Layered Safety for Generation | Generative AI | Generative AI | — |
-| AIH-06030 | Layout Conditioning | Generative AI | Generative AI | — |
+| AIH-06030 | Layout Conditioning | Generative AI | Generative AI | [2023](https://doi.org/10.1109/iccv51070.2023.00207) (source only) |
 | AIH-06055 | Liar's Dividend | Generative AI | Generative AI | — |
-| AIH-06080 | Lighting Consistency | Generative AI | Generative AI | — |
+| AIH-06080 | Lighting Consistency | Generative AI | Generative AI | [1990](https://doi.org/10.1177/096032719002200202) (source only) |
 | AIH-06105 | Lighting Description | Generative AI | Generative AI | — |
 | AIH-06130 | Likelihood-Free Model | Generative AI | Generative AI | — |
 | AIH-06155 | Lip Sync Generation | Generative AI | Generative AI | — |
-| AIH-06180 | Liveness Challenge | Generative AI | Generative AI | — |
-| AIH-06203 | LLaMA | Generative AI | Generative AI | — |
+| AIH-06180 | Liveness Challenge | Generative AI | Generative AI | [2022](https://doi.org/10.3390/jimaging8070181) (source only) |
+| AIH-06203 | LLaMA | Generative AI | Generative AI | [2025](https://doi.org/10.1109/isscc49661.2025.10904761) (source only) |
 | AIH-06226 | Localization of Generated Content | Generative AI | Generative AI | — |
-| AIH-06249 | Long-Context LLM | Generative AI | Generative AI | — |
-| AIH-06271 | Long-Form Generation | Generative AI | Generative AI | — |
-| AIH-06293 | Machine Unlearning | Generative AI | Generative AI | — |
+| AIH-06249 | Long-Context LLM | Generative AI | Generative AI | [2025](https://doi.org/10.26434/chemrxiv-2025-925dv-v2) (source only) |
+| AIH-06271 | Long-Form Generation | Generative AI | Generative AI | [2024](https://doi.org/10.18653/v1/2024.findings-naacl.100) (source only) |
+| AIH-06293 | Machine Unlearning | Generative AI | Generative AI | [2023](https://doi.org/10.2139/ssrn.4643518) (source only) |
 | AIH-06315 | Market Substitution | Generative AI | Generative AI | — |
 | AIH-06337 | Mask-Based Editing | Generative AI | Generative AI | — |
-| AIH-06358 | Masked Generative Model | Generative AI | Generative AI | — |
+| AIH-06358 | Masked Generative Model | Generative AI | Generative AI | [2026](https://doi.org/10.1109/icassp55912.2026.11464815) (source only) |
 | AIH-06377 | Material Generation | Generative AI | Generative AI | — |
 | AIH-06396 | Media Literacy | Generative AI | Generative AI | — |
 | AIH-06415 | Mel Spectrogram Decoder | Generative AI | Generative AI | — |
-| AIH-06434 | Memorization in Generative Models | Generative AI | Generative AI | — |
+| AIH-06434 | Memorization in Generative Models | Generative AI | Generative AI | [2026](https://doi.org/10.1109/wacv61042.2026.00377) (source only) |
 | AIH-06452 | Micro-Conditioning | Generative AI | Generative AI | — |
 | AIH-06470 | Midjourney | Generative AI | Generative AI | — |
-| AIH-06488 | Minimax Game | Generative AI | Generative AI | — |
+| AIH-06488 | Minimax Game | Generative AI | Generative AI | [1996](https://doi.org/10.1007/978-1-4612-0719-1_5) (source only) |
 | AIH-06506 | Mistral | Generative AI | Generative AI | — |
 | AIH-06523 | Mixture of Agents (MoA) | Generative AI | Generative AI | — |
 | AIH-06540 | Model Collapse Risk | Generative AI | Generative AI | — |
@@ -215,82 +215,82 @@
 | AIH-08430 | Zero-Shot TTS | Generative AI | Generative AI | — |
 | AIH-05125 | SQL Execution Verification | Information Retrieval | Information Retrieval | — |
 | AIH-05157 | Stemming in Search | Information Retrieval | Information Retrieval | — |
-| AIH-05188 | Structured Query Generation | Information Retrieval | Information Retrieval | — |
+| AIH-05188 | Structured Query Generation | Information Retrieval | Information Retrieval | [2018](https://doi.org/10.18653/v1/p18-1124) (source only) |
 | AIH-05219 | Subtopic Coverage | Information Retrieval | Information Retrieval | — |
-| AIH-05250 | Synonym Expansion | Information Retrieval | Information Retrieval | — |
-| AIH-05281 | Tail Query | Information Retrieval | Information Retrieval | — |
-| AIH-05312 | Temporal Query | Information Retrieval | Information Retrieval | — |
+| AIH-05250 | Synonym Expansion | Information Retrieval | Information Retrieval | [2004](https://doi.org/10.6028/nist.sp.500-261.genomics-u.waterloo.clarke) (source only) |
+| AIH-05281 | Tail Query | Information Retrieval | Information Retrieval | [2014](https://doi.org/10.1145/2661829.2661943) (source only) |
+| AIH-05312 | Temporal Query | Information Retrieval | Information Retrieval | [1995](https://doi.org/10.1007/978-1-4615-2289-8) (source only) |
 | AIH-05343 | Term Dictionary | Information Retrieval | Information Retrieval | — |
-| AIH-05374 | Term Expansion Model | Information Retrieval | Information Retrieval | — |
-| AIH-05405 | Term Saturation | Information Retrieval | Information Retrieval | — |
-| AIH-05436 | Test Collection | Information Retrieval | Information Retrieval | — |
+| AIH-05374 | Term Expansion Model | Information Retrieval | Information Retrieval | [2009](https://doi.org/10.1109/ptc.2009.5282026) (source only) |
+| AIH-05405 | Term Saturation | Information Retrieval | Information Retrieval | [2011](https://doi.org/10.1016/j.chemphys.2011.06.029) (source only) |
+| AIH-05436 | Test Collection | Information Retrieval | Information Retrieval | [2018](https://doi.org/10.17504/protocols.io.vene3de) (source only) |
 | AIH-05467 | Text-to-SQL (NL2SQL) | Information Retrieval | Information Retrieval | — |
 | AIH-05498 | Tiered Index | Information Retrieval | Information Retrieval | — |
-| AIH-05528 | Title Relevance | Information Retrieval | Information Retrieval | — |
-| AIH-05558 | Transactional Query | Information Retrieval | Information Retrieval | — |
-| AIH-05588 | TREC | Information Retrieval | Information Retrieval | — |
-| AIH-05618 | Trending Query Detection | Information Retrieval | Information Retrieval | — |
+| AIH-05528 | Title Relevance | Information Retrieval | Information Retrieval | [1995](https://doi.org/10.1117/12.228505) (source only) |
+| AIH-05558 | Transactional Query | Information Retrieval | Information Retrieval | [2005](https://doi.org/10.1007/11562382_17) (source only) |
+| AIH-05588 | TREC | Information Retrieval | Information Retrieval | [2007](https://doi.org/10.1002/asi.20583) (source only) |
+| AIH-05618 | Trending Query Detection | Information Retrieval | Information Retrieval | [2025](https://doi.org/10.48550/arxiv.2601.05258) ★ (estimated) |
 | AIH-05648 | Trie-Based Suggestion | Information Retrieval | Information Retrieval | — |
-| AIH-05677 | Unbiased Learning to Rank | Information Retrieval | Information Retrieval | — |
+| AIH-05677 | Unbiased Learning to Rank | Information Retrieval | Information Retrieval | [2017](https://doi.org/10.1145/3018661.3018699) (source only) |
 | AIH-05706 | Vector Index Build Time | Information Retrieval | Information Retrieval | — |
-| AIH-05734 | Vector Space Model (VSM) | Information Retrieval | Information Retrieval | — |
-| AIH-05762 | Vertical Search | Information Retrieval | Information Retrieval | — |
+| AIH-05734 | Vector Space Model (VSM) | Information Retrieval | Information Retrieval | [2006](https://doi.org/10.1007/11763864_16) (source only) |
+| AIH-05762 | Vertical Search | Information Retrieval | Information Retrieval | [2003](https://doi.org/10.1109/mc.2003.1198237) (source only) |
 | AIH-05790 | WAND Algorithm | Information Retrieval | Information Retrieval | — |
 | AIH-05817 | Zero Result Rate | Information Retrieval | Information Retrieval | — |
 | AIH-05101 | CUSUM | Machine Learning | Machine Learning | — |
-| AIH-05133 | CutMix | Machine Learning | Machine Learning | — |
+| AIH-05133 | CutMix | Machine Learning | Machine Learning | [2020](https://doi.org/10.1109/icassp40776.2020.9053994) (source only) |
 | AIH-05165 | Damerau-Levenshtein Distance | Machine Learning | Machine Learning | — |
-| AIH-05196 | Data Attribution Method | Machine Learning | Machine Learning | — |
+| AIH-05196 | Data Attribution Method | Machine Learning | Machine Learning | [2025](https://doi.org/10.1109/icps65515.2025.11087920) (source only) |
 | AIH-05227 | Data Augmentation Policy | Machine Learning | Machine Learning | — |
-| AIH-05258 | Data Distillation | Machine Learning | Machine Learning | — |
-| AIH-05289 | Data Efficiency | Machine Learning | Machine Learning | — |
-| AIH-05320 | Data Marketplace | Machine Learning | Machine Learning | — |
+| AIH-05258 | Data Distillation | Machine Learning | Machine Learning | [2025](https://doi.org/10.3390/app151910649) (source only) |
+| AIH-05289 | Data Efficiency | Machine Learning | Machine Learning | [2025](https://doi.org/10.5194/egusphere-egu25-14068) (source only) |
+| AIH-05320 | Data Marketplace | Machine Learning | Machine Learning | [2013](https://doi.org/10.1109/icdmw.2013.146) (source only) |
 | AIH-05351 | Data Mixing Law | Machine Learning | Machine Learning | — |
 | AIH-05382 | Data Poisoning at Web Scale | Machine Learning | Machine Learning | — |
-| AIH-05413 | Data Quality over Quantity | Machine Learning | Machine Learning | — |
-| AIH-05444 | Data Snooping | Machine Learning | Machine Learning | — |
-| AIH-05475 | Data Valuation | Machine Learning | Machine Learning | — |
-| AIH-05506 | Data-Constrained Scaling | Machine Learning | Machine Learning | — |
-| AIH-05536 | Data-Free Distillation | Machine Learning | Machine Learning | — |
-| AIH-05566 | Datamodel | Machine Learning | Machine Learning | — |
-| AIH-05596 | Davies-Bouldin Index | Machine Learning | Machine Learning | — |
+| AIH-05413 | Data Quality over Quantity | Machine Learning | Machine Learning | [2017](https://doi.org/10.1016/j.ijinfomgt.2017.01.003) (source only) |
+| AIH-05444 | Data Snooping | Machine Learning | Machine Learning | [1985](https://doi.org/10.1179/003962685791475080) (source only) |
+| AIH-05475 | Data Valuation | Machine Learning | Machine Learning | [2018](https://doi.org/10.1201/9781315143408-7) (source only) |
+| AIH-05506 | Data-Constrained Scaling | Machine Learning | Machine Learning | [2026](https://doi.org/10.48550/arxiv.2610.37842) (source only) |
+| AIH-05536 | Data-Free Distillation | Machine Learning | Machine Learning | [2020](https://doi.org/10.48550/arxiv.2012.05578) (source only) |
+| AIH-05566 | Datamodel | Machine Learning | Machine Learning | [1979](https://doi.org/10.1016/0010-4485(79)90176-3) (source only) |
+| AIH-05596 | Davies-Bouldin Index | Machine Learning | Machine Learning | [2012](https://doi.org/10.1109/ijcnn.2012.6252500) (source only) |
 | AIH-05626 | DBSCAN | Machine Learning | Machine Learning | — |
-| AIH-05655 | Decision Boundary | Machine Learning | Machine Learning | — |
-| AIH-05684 | Decision list | Machine Learning | Machine Learning | — |
-| AIH-05712 | Decision Stump | Machine Learning | Machine Learning | — |
-| AIH-05740 | Decision Tree | Machine Learning | Machine Learning | — |
+| AIH-05655 | Decision Boundary | Machine Learning | Machine Learning | [2007](https://doi.org/10.4135/9781412952644.n126) (source only) |
+| AIH-05684 | Decision list | Machine Learning | Machine Learning | [2011](https://doi.org/10.1007/978-0-387-30164-8_199) (source only) |
+| AIH-05712 | Decision Stump | Machine Learning | Machine Learning | [2011](https://doi.org/10.1007/978-0-387-30164-8_202) (source only) |
+| AIH-05740 | Decision Tree | Machine Learning | Machine Learning | [2003](https://doi.org/10.5040/9781350393288.ch-012) (source only) |
 | AIH-05768 | Decision tree pruning | Machine Learning | Machine Learning | — |
-| AIH-05796 | Dendrogram | Machine Learning | Machine Learning | — |
+| AIH-05796 | Dendrogram | Machine Learning | Machine Learning | [2004](https://doi.org/10.4135/9780857020123.n143) (source only) |
 | AIH-05823 | Denoising Autoencoder (DAE) | Machine Learning | Machine Learning | — |
-| AIH-05849 | Denoising Score Matching | Machine Learning | Machine Learning | — |
-| AIH-05875 | Density Estimation | Machine Learning | Machine Learning | — |
-| AIH-05901 | Density-Based Clustering | Machine Learning | Machine Learning | — |
+| AIH-05849 | Denoising Score Matching | Machine Learning | Machine Learning | [2022](https://doi.org/10.1109/access.2022.3159976) (source only) |
+| AIH-05875 | Density Estimation | Machine Learning | Machine Learning | [1983](https://doi.org/10.1016/b978-0-12-564020-6.50007-4) (source only) |
+| AIH-05901 | Density-Based Clustering | Machine Learning | Machine Learning | [2007](https://doi.org/10.1137/1.9780898718348.ch13) (source only) |
 | AIH-05927 | Depth Scaling Rule | Machine Learning | Machine Learning | — |
 | AIH-05953 | Design Matrix | Machine Learning | Machine Learning | — |
-| AIH-05978 | Determinantal Point Process | Machine Learning | Machine Learning | — |
-| AIH-06003 | Dice Coefficient | Machine Learning | Machine Learning | — |
-| AIH-06028 | Diffusion Map | Machine Learning | Machine Learning | — |
-| AIH-06053 | Dimensionality Reduction for Indexing | Machine Learning | Machine Learning | — |
+| AIH-05978 | Determinantal Point Process | Machine Learning | Machine Learning | [2012](https://doi.org/10.1063/1.4758795) (source only) |
+| AIH-06003 | Dice Coefficient | Machine Learning | Machine Learning | [2010](https://doi.org/10.5539/cis.v3n3p139) (source only) |
+| AIH-06028 | Diffusion Map | Machine Learning | Machine Learning | [2009](https://doi.org/10.32614/cran.package.diffusionmap) (source only) |
+| AIH-06053 | Dimensionality Reduction for Indexing | Machine Learning | Machine Learning | [2001](https://doi.org/10.1145/376284.375680) (source only) |
 | AIH-06078 | DINO | Machine Learning | Machine Learning | — |
-| AIH-06103 | Discretization | Machine Learning | Machine Learning | — |
-| AIH-06128 | Discriminative Classifier | Machine Learning | Machine Learning | — |
+| AIH-06103 | Discretization | Machine Learning | Machine Learning | [1973](https://doi.org/10.1007/978-3-642-65471-8_1) (source only) |
+| AIH-06128 | Discriminative Classifier | Machine Learning | Machine Learning | [2005](https://doi.org/10.1016/j.patrec.2005.03.005) (source only) |
 | AIH-06153 | Discriminative Model | Machine Learning | Machine Learning | — |
 | AIH-06178 | Distance Concentration | Machine Learning | Machine Learning | — |
-| AIH-06201 | Distance Metric Learning | Machine Learning | Machine Learning | — |
-| AIH-06224 | Distant Supervision | Machine Learning | Machine Learning | — |
+| AIH-06201 | Distance Metric Learning | Machine Learning | Machine Learning | [2006](https://doi.org/10.1186/1471-2105-7-299) (source only) |
+| AIH-06224 | Distant Supervision | Machine Learning | Machine Learning | [2000](https://doi.org/10.1007/pl00011516) (source only) |
 | AIH-06247 | Distillation Ladder | Machine Learning | Machine Learning | — |
 | AIH-06269 | Distribution Shift Detection | Machine Learning | Machine Learning | — |
 | AIH-06291 | Diversity Sampling | Machine Learning | Machine Learning | — |
-| AIH-06313 | Divisive Clustering | Machine Learning | Machine Learning | — |
-| AIH-06335 | Document classification | Machine Learning | Machine Learning | — |
-| AIH-06356 | Domain Adaptation | Machine Learning | Machine Learning | — |
+| AIH-06313 | Divisive Clustering | Machine Learning | Machine Learning | [1983](https://doi.org/10.1016/s0003-2670(00)80072-0) (source only) |
+| AIH-06335 | Document classification | Machine Learning | Machine Learning | [1996](https://doi.org/10.1007/978-1-4613-1295-6_5) (source only) |
+| AIH-06356 | Domain Adaptation | Machine Learning | Machine Learning | [2015](https://doi.org/10.5220/0005217302960303) (source only) |
 | AIH-06375 | Domain Generalization | Machine Learning | Machine Learning | — |
 | AIH-06394 | Domain Weighting | Machine Learning | Machine Learning | — |
-| AIH-06413 | Double Descent | Machine Learning | Machine Learning | — |
+| AIH-06413 | Double Descent | Machine Learning | Machine Learning | [1937](https://doi.org/10.2307/2790540) (source only) |
 | AIH-06432 | Downstream Emergence | Machine Learning | Machine Learning | — |
-| AIH-06450 | Drift Magnitude | Machine Learning | Machine Learning | — |
+| AIH-06450 | Drift Magnitude | Machine Learning | Machine Learning | [2007](https://doi.org/10.1117/12.725221) (source only) |
 | AIH-06468 | Duplicate Leakage | Machine Learning | Machine Learning | — |
-| AIH-06486 | Dynamic Padding | Machine Learning | Machine Learning | — |
+| AIH-06486 | Dynamic Padding | Machine Learning | Machine Learning | [1992](https://doi.org/10.1016/0925-7535(92)90001-g) (source only) |
 | AIH-06504 | Dynamic Resolution | Machine Learning | Machine Learning | — |
 | AIH-06521 | Dynamic Time Warping (DTW) | Machine Learning | Machine Learning | — |
 | AIH-06538 | Eager learning | Machine Learning | Machine Learning | — |

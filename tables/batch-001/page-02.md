@@ -36,21 +36,21 @@
 | AIH-04427 | Ontology Alignment | AI Foundations | Symbolic AI & Reasoning | [2007](https://doi.org/10.1007/978-0-387-36501-5) (source only) |
 | AIH-04460 | Open World Assumption (OWA) | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-04493 | OWL | AI Foundations | Symbolic AI & Reasoning | [1994](https://doi.org/10.1016/b978-0-12-072405-5.50013-5) (source only) |
-| AIH-04526 | Partial Order Planning | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-04526 | Partial Order Planning | AI Foundations | Symbolic AI & Reasoning | [1994](https://doi.org/10.1016/0004-3702(94)90012-4) (source only) |
 | AIH-04559 | Pattern Database (PDB) | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04592 | PDDL | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04625 | Plan Recognition | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04658 | Planning Heuristic | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-04592 | PDDL | AI Foundations | Symbolic AI & Reasoning | [2012](https://doi.org/10.1049/cp.2012.1276) (source only) |
+| AIH-04625 | Plan Recognition | AI Foundations | Symbolic AI & Reasoning | [1978](https://doi.org/10.1016/0004-3702(78)90012-7) (source only) |
+| AIH-04658 | Planning Heuristic | AI Foundations | Symbolic AI & Reasoning | [1999](https://doi.org/10.1080/095372899233334) (source only) |
 | AIH-04691 | Possibility Theory | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-04724 | Premise Selection | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04756 | Probabilistic Logic Programming | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04788 | Probabilistic Planning | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04820 | Problem Space | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-04756 | Probabilistic Logic Programming | AI Foundations | Symbolic AI & Reasoning | [2001](https://doi.org/10.1145/377978.377983) (source only) |
+| AIH-04788 | Probabilistic Planning | AI Foundations | Symbolic AI & Reasoning | [2001](https://doi.org/10.21236/ada443594) (source only) |
+| AIH-04820 | Problem Space | AI Foundations | Symbolic AI & Reasoning | [2003](https://doi.org/10.1017/cbo9780511615771.013) (source only) |
 | AIH-04852 | Procedural Memory in Architectures | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-04884 | Production Memory | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04916 | Production Rule | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04948 | Program Synthesis | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04980 | Programming by Example (PBE) | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-04916 | Production Rule | AI Foundations | Symbolic AI & Reasoning | [1984](https://doi.org/10.1007/978-3-642-96868-6_192) (source only) |
+| AIH-04948 | Program Synthesis | AI Foundations | Symbolic AI & Reasoning | [1983](https://doi.org/10.7551/mitpress/1192.003.0004) (source only) |
+| AIH-04980 | Programming by Example (PBE) | AI Foundations | Symbolic AI & Reasoning | [2017](https://doi.org/10.1007/978-1-4899-7687-1_100380) (source only) |
 | AIH-05012 | Prolog | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-05044 | Proof Assistant | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-05076 | Proof Search | AI Foundations | Symbolic AI & Reasoning | — |
@@ -325,36 +325,36 @@
 | AIH-03773 | Feature Gate | AI Infrastructure | AI Infrastructure | [2024](https://doi.org/10.1016/j.patcog.2024.110594) (source only) |
 | AIH-04438 | Feature Parity | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04471 | Feedback Data Collection | AI Infrastructure | MLOps & Engineering | [2025](https://doi.org/10.5120/ijca2025924552) (source only) |
-| AIH-04504 | Feedback Loop in Production | AI Infrastructure | MLOps & Engineering | — |
+| AIH-04504 | Feedback Loop in Production | AI Infrastructure | MLOps & Engineering | [1996](https://openalex.org/W1512451788) ★ (estimated) |
 | AIH-03809 | Field-Programmable Gate Array (FPGA) | AI Infrastructure | AI Infrastructure | — |
-| AIH-04537 | FinOps | AI Infrastructure | MLOps & Engineering | — |
+| AIH-04537 | FinOps | AI Infrastructure | MLOps & Engineering | [2025](https://doi.org/10.1108/978-1-83662-088-420251004) (source only) |
 | AIH-02208 | Firmware | AI Infrastructure | Hardware & Compute | — |
 | AIH-03845 | First Token Latency Target | AI Infrastructure | AI Infrastructure | — |
-| AIH-04570 | Flaky Test | AI Infrastructure | MLOps & Engineering | — |
+| AIH-04570 | Flaky Test | AI Infrastructure | MLOps & Engineering | [2020](https://doi.org/10.48550/arxiv.2005.10762) (source only) |
 | AIH-02246 | Floating-Point Format | AI Infrastructure | Hardware & Compute | [1972](https://doi.org/10.1145/641528.641530) (source only) |
 | AIH-02284 | Flush to Zero | AI Infrastructure | Hardware & Compute | — |
 | AIH-02322 | Foundry | AI Infrastructure | Hardware & Compute | — |
-| AIH-04603 | Freshness Check | AI Infrastructure | MLOps & Engineering | — |
+| AIH-04603 | Freshness Check | AI Infrastructure | MLOps & Engineering | [2008](https://doi.org/10.3233/jcs-2007-0306) (source only) |
 | AIH-03881 | Fully Sharded Data Parallel (FSDP) | AI Infrastructure | AI Infrastructure | — |
 | AIH-03917 | Gang Scheduling | AI Infrastructure | AI Infrastructure | [1996](https://doi.org/10.1007/bfb0022289) (source only) |
 | AIH-02360 | GDDR Memory | AI Infrastructure | Hardware & Compute | — |
 | AIH-03953 | Global Memory | AI Infrastructure | AI Infrastructure | [2010](https://doi.org/10.1057/9780230283367_11) (source only) |
-| AIH-04636 | Golden Dataset | AI Infrastructure | MLOps & Engineering | — |
+| AIH-04636 | Golden Dataset | AI Infrastructure | MLOps & Engineering | [2018](https://openalex.org/W2922639011) (source only) |
 | AIH-03989 | GPU (Graphics Processing Unit) | AI Infrastructure | AI Infrastructure | — |
 | AIH-04025 | GPU Utilization | AI Infrastructure | AI Infrastructure | — |
 | AIH-04060 | GPUDirect | AI Infrastructure | AI Infrastructure | — |
 | AIH-04095 | Graceful Degradation of Models | AI Infrastructure | AI Infrastructure | — |
-| AIH-04669 | Graceful Shutdown | AI Infrastructure | MLOps & Engineering | — |
+| AIH-04669 | Graceful Shutdown | AI Infrastructure | MLOps & Engineering | [2006](https://doi.org/10.1109/tnet.2006.876152) (source only) |
 | AIH-04130 | Gradient Accumulation | AI Infrastructure | AI Infrastructure | — |
 | AIH-04165 | Gradient Bucketing | AI Infrastructure | AI Infrastructure | — |
-| AIH-04702 | Gradient Check | AI Infrastructure | MLOps & Engineering | — |
+| AIH-04702 | Gradient Check | AI Infrastructure | MLOps & Engineering | [1998](https://doi.org/10.1175/1520-0469(1998)055<2130:gafppw>2.0.co;2) (source only) |
 | AIH-04200 | Gradient Compression | AI Infrastructure | AI Infrastructure | — |
 | AIH-04235 | Gradient Synchronization | AI Infrastructure | AI Infrastructure | [2014](https://doi.org/10.1109/lcomm.2014.2346787) (source only) |
 | AIH-04270 | Gradual Ramp | AI Infrastructure | AI Infrastructure | — |
 | AIH-02398 | Graph Partitioning for Devices | AI Infrastructure | Hardware & Compute | — |
 | AIH-02436 | Grid and Block Dimensions | AI Infrastructure | Hardware & Compute | — |
 | AIH-04735 | Ground Truth Joining | AI Infrastructure | MLOps & Engineering | — |
-| AIH-04767 | Growth Projection | AI Infrastructure | MLOps & Engineering | — |
+| AIH-04767 | Growth Projection | AI Infrastructure | MLOps & Engineering | [1971](https://doi.org/10.1093/jof/69.3.156) (source only) |
 | AIH-04799 | Guardrail Layer | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04831 | Guardrail Metric | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02474 | Hardware Abstraction Layer (HAL) | AI Infrastructure | Hardware & Compute | — |
@@ -365,15 +365,15 @@
 | AIH-04863 | Health Check Endpoint | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04337 | Health Signal | AI Infrastructure | AI Infrastructure | — |
 | AIH-02626 | Heterogeneous Execution | AI Infrastructure | Hardware & Compute | [1992](https://doi.org/10.7551/mitpress/2768.003.0060) (source only) |
-| AIH-04895 | Heuristic Baseline | AI Infrastructure | MLOps & Engineering | — |
+| AIH-04895 | Heuristic Baseline | AI Infrastructure | MLOps & Engineering | [2020](https://doi.org/10.1145/3383583.3398590) (source only) |
 | AIH-04370 | High Bandwidth Memory (HBM) | AI Infrastructure | AI Infrastructure | [2015](https://doi.org/10.1109/edaps.2015.7383697) (source only) |
 | AIH-02664 | HIP | AI Infrastructure | Hardware & Compute | [1987](https://doi.org/10.1097/00003086-198712000-00007) (source only) |
 | AIH-04927 | Holdback Group | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04403 | Homomorphic Encryption (HE) | AI Infrastructure | AI Infrastructure | — |
 | AIH-04436 | Horizontal Pod Autoscaler (HPA) | AI Infrastructure | AI Infrastructure | — |
 | AIH-04469 | Host-Device Transfer | AI Infrastructure | AI Infrastructure | — |
-| AIH-04502 | Hot Reload | AI Infrastructure | AI Infrastructure | — |
-| AIH-04535 | Hugging Face | AI Infrastructure | AI Infrastructure | — |
+| AIH-04502 | Hot Reload | AI Infrastructure | AI Infrastructure | [2020](https://doi.org/10.1109/ispass48437.2020.00028) (source only) |
+| AIH-04535 | Hugging Face | AI Infrastructure | AI Infrastructure | [2022](https://doi.org/10.1007/978-1-4842-8844-3_4) (source only) |
 | AIH-02702 | Hybrid Cloud | AI Infrastructure | Hardware & Compute | [2013](https://doi.org/10.5220/0004354500130025) (source only) |
 | AIH-04959 | Hyperparameter Configuration File | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04991 | Hyperparameter Search Budget | AI Infrastructure | MLOps & Engineering | — |
@@ -383,9 +383,9 @@
 | AIH-02778 | Idle Power | AI Infrastructure | Hardware & Compute | [1993](https://doi.org/10.1115/93-gt-175) (source only) |
 | AIH-05087 | Idle Resource | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02816 | IEEE 754 | AI Infrastructure | Hardware & Compute | [2004](https://doi.org/10.1016/b978-075067606-9/50019-9) (source only) |
-| AIH-04568 | Immutable Infrastructure | AI Infrastructure | AI Infrastructure | — |
-| AIH-04601 | In-Memory Computing | AI Infrastructure | AI Infrastructure | — |
-| AIH-04634 | Inference API | AI Infrastructure | AI Infrastructure | — |
+| AIH-04568 | Immutable Infrastructure | AI Infrastructure | AI Infrastructure | [1997](https://doi.org/10.1016/b978-044482332-8/50032-9) (source only) |
+| AIH-04601 | In-Memory Computing | AI Infrastructure | AI Infrastructure | [2019](https://doi.org/10.1007/978-3-030-18026-3_4) (source only) |
+| AIH-04634 | Inference API | AI Infrastructure | AI Infrastructure | [2026](https://doi.org/10.5281/zenodo.20316075) (source only) |
 | AIH-04667 | InfiniBand | AI Infrastructure | AI Infrastructure | — |
 | AIH-04700 | Input Pipeline Bottleneck | AI Infrastructure | AI Infrastructure | — |
 | AIH-02854 | Instruction Cache Pressure | AI Infrastructure | Hardware & Compute | — |
@@ -403,16 +403,16 @@
 | AIH-04765 | JAX | AI Infrastructure | AI Infrastructure | — |
 | AIH-04797 | Jittered Backoff | AI Infrastructure | AI Infrastructure | — |
 | AIH-03266 | Job Preemption | AI Infrastructure | Hardware & Compute | [1990](https://doi.org/10.1111/j.1540-5915.1990.tb01692.x) (source only) |
-| AIH-04829 | Job Scheduler | AI Infrastructure | AI Infrastructure | — |
-| AIH-04861 | Keras | AI Infrastructure | AI Infrastructure | — |
+| AIH-04829 | Job Scheduler | AI Infrastructure | AI Infrastructure | [1982](https://doi.org/10.1145/1010673.800501) (source only) |
+| AIH-04861 | Keras | AI Infrastructure | AI Infrastructure | [2019](https://doi.org/10.1002/9781119564843.ch4) (source only) |
 | AIH-03303 | Kernel Autotuning | AI Infrastructure | Hardware & Compute | [2018](https://doi.org/10.1007/978-3-662-58485-9_8) (source only) |
 | AIH-03340 | Kernel Bypass | AI Infrastructure | Hardware & Compute | [2017](https://doi.org/10.1145/3098583) (source only) |
 | AIH-04893 | Kernel Launch Overhead | AI Infrastructure | AI Infrastructure | — |
 | AIH-04925 | Key Rotation | AI Infrastructure | AI Infrastructure | — |
-| AIH-04957 | Kubernetes (K8s) | AI Infrastructure | AI Infrastructure | — |
-| AIH-04989 | KV Cache | AI Infrastructure | AI Infrastructure | — |
-| AIH-05021 | KV Cache Eviction | AI Infrastructure | AI Infrastructure | — |
-| AIH-05053 | KV Cache Quantization | AI Infrastructure | AI Infrastructure | — |
+| AIH-04957 | Kubernetes (K8s) | AI Infrastructure | AI Infrastructure | [2023](https://doi.org/10.5753/wpeif.2023.821) (source only) |
+| AIH-04989 | KV Cache | AI Infrastructure | AI Infrastructure | [2013](https://doi.org/10.1109/ucc.2013.34) (source only) |
+| AIH-05021 | KV Cache Eviction | AI Infrastructure | AI Infrastructure | [2024](https://doi.org/10.18653/v1/2024.acl-long.428) (source only) |
+| AIH-05053 | KV Cache Quantization | AI Infrastructure | AI Infrastructure | [2024](https://doi.org/10.1109/mwscas60917.2024.10658840) (source only) |
 | AIH-03377 | L1 Cache | AI Infrastructure | Hardware & Compute | [2004](https://doi.org/10.1007/978-3-540-30121-9_1) (source only) |
 | AIH-03414 | L2 Cache | AI Infrastructure | Hardware & Compute | [2003](https://doi.org/10.1109/dsd.2003.1231896) (source only) |
 | AIH-05085 | LangChain | AI Infrastructure | AI Infrastructure | — |
@@ -448,23 +448,23 @@
 | AIH-04470 | Passthrough | AI Infrastructure | Hardware & Compute | [1981](https://doi.org/10.2307/2327033) (source only) |
 | AIH-04503 | Peak Memory During Inference | AI Infrastructure | Hardware & Compute | — |
 | AIH-04536 | Peak Theoretical Throughput | AI Infrastructure | Hardware & Compute | — |
-| AIH-04569 | Performance per Watt | AI Infrastructure | Hardware & Compute | — |
-| AIH-04602 | Persistent Kernel | AI Infrastructure | Hardware & Compute | — |
-| AIH-04635 | Petaflop | AI Infrastructure | Hardware & Compute | — |
-| AIH-04668 | Pipeline Stall | AI Infrastructure | Hardware & Compute | — |
+| AIH-04569 | Performance per Watt | AI Infrastructure | Hardware & Compute | [2007](https://doi.org/10.1109/vdat.2007.373233) (source only) |
+| AIH-04602 | Persistent Kernel | AI Infrastructure | Hardware & Compute | [2007](https://doi.org/10.1145/1315245.1315260) (source only) |
+| AIH-04635 | Petaflop | AI Infrastructure | Hardware & Compute | [2020](https://doi.org/10.1109/sc41405.2020.00010) (source only) |
+| AIH-04668 | Pipeline Stall | AI Infrastructure | Hardware & Compute | [2011](https://doi.org/10.1049/el.2010.3751) (source only) |
 | AIH-04701 | Polling | AI Infrastructure | Hardware & Compute | — |
 | AIH-04734 | Portable Kernel Language | AI Infrastructure | Hardware & Compute | — |
-| AIH-04766 | Power Envelope | AI Infrastructure | Hardware & Compute | — |
-| AIH-04798 | Process Node | AI Infrastructure | Hardware & Compute | — |
-| AIH-04830 | Programmability | AI Infrastructure | Hardware & Compute | — |
+| AIH-04766 | Power Envelope | AI Infrastructure | Hardware & Compute | [2006](https://doi.org/10.1080/19315775.2006.11721324) (source only) |
+| AIH-04798 | Process Node | AI Infrastructure | Hardware & Compute | [2003](https://doi.org/10.1117/12.485248) (source only) |
+| AIH-04830 | Programmability | AI Infrastructure | Hardware & Compute | [1977](https://doi.org/10.3233/fi-1977-1113) (source only) |
 | AIH-04862 | Quantized Inference on Edge | AI Infrastructure | Hardware & Compute | — |
-| AIH-04894 | Queue Wait Time | AI Infrastructure | Hardware & Compute | — |
-| AIH-04926 | Random Access Performance | AI Infrastructure | Hardware & Compute | — |
-| AIH-04958 | Register Blocking | AI Infrastructure | Hardware & Compute | — |
-| AIH-04990 | Register Spilling | AI Infrastructure | Hardware & Compute | — |
-| AIH-05022 | Reservation | AI Infrastructure | Hardware & Compute | — |
-| AIH-05054 | Reticle Limit | AI Infrastructure | Hardware & Compute | — |
-| AIH-05086 | RISC-V | AI Infrastructure | Hardware & Compute | — |
+| AIH-04894 | Queue Wait Time | AI Infrastructure | Hardware & Compute | [2006](https://doi.org/10.1109/sc.2006.29) (source only) |
+| AIH-04926 | Random Access Performance | AI Infrastructure | Hardware & Compute | [1997](https://doi.org/10.1109/vlsic.1997.623806) (source only) |
+| AIH-04958 | Register Blocking | AI Infrastructure | Hardware & Compute | [2014](https://doi.org/10.1016/j.jvcir.2014.06.002) (source only) |
+| AIH-04990 | Register Spilling | AI Infrastructure | Hardware & Compute | [1991](https://doi.org/10.1017/cbo9780511609619.011) (source only) |
+| AIH-05022 | Reservation | AI Infrastructure | Hardware & Compute | [1901](https://doi.org/10.1037/e611852010-164) (source only) |
+| AIH-05054 | Reticle Limit | AI Infrastructure | Hardware & Compute | [2023](https://doi.org/10.1364/cleo_si.2023.sth5c.5) (source only) |
+| AIH-05086 | RISC-V | AI Infrastructure | Hardware & Compute | [2020](https://doi.org/10.1007/978-3-030-54828-5_3) (source only) |
 | AIH-00111 | Abuse Reporting Channel | AI Safety | AI Ethics & Safety | — |
 | AIH-00112 | Acceptable Use Policy (AUP) | AI Safety | AI Policy & Governance | [2019](https://doi.org/10.7826/isr-um.06.res.01.01.07-2x) (source only) |
 | AIH-00149 | Accident Risk | AI Safety | AI Ethics & Safety | [1982](https://doi.org/10.1016/0001-4575(82)90019-7) (source only) |

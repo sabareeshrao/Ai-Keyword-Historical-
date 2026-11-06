@@ -41,22 +41,22 @@
 | AIH-04428 | Prediction Error Bonus | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-04461 | Preference-Based RL | Reinforcement Learning | Reinforcement Learning | [2023](https://doi.org/10.52202/075280-0825) (source only) |
 | AIH-04494 | Prioritized Experience Replay | Reinforcement Learning | Reinforcement Learning | [2017](https://doi.org/10.1109/smc.2017.8122622) (source only) |
-| AIH-04527 | Procedural Environment Generation | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04560 | Pseudo-Count | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04593 | Q-Learning Update | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04626 | QMIX | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-04527 | Procedural Environment Generation | Reinforcement Learning | Reinforcement Learning | [2022](https://doi.org/10.18653/v1/2022.acl-long.557) (source only) |
+| AIH-04560 | Pseudo-Count | Reinforcement Learning | Reinforcement Learning | [2023](https://doi.org/10.2139/ssrn.4450681) (source only) |
+| AIH-04593 | Q-Learning Update | Reinforcement Learning | Reinforcement Learning | [2025](https://doi.org/10.1016/j.chaos.2025.116653) (source only) |
+| AIH-04626 | QMIX | Reinforcement Learning | Reinforcement Learning | [2018](https://doi.org/10.48550/arxiv.1803.11485) (source only) |
 | AIH-04659 | Quantile Regression DQN (QR-DQN) | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-04692 | Random Network Distillation (RND) | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04725 | Real-World RL | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-04725 | Real-World RL | Reinforcement Learning | Reinforcement Learning | [2023](https://doi.org/10.1109/icra48891.2023.10161493) (source only) |
 | AIH-04757 | Reality Gap Mitigation | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-04789 | Recovery Policy | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04821 | Recurrent Policy | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04853 | REINFORCE | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04885 | Reinforcement Learning (RL) | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-04821 | Recurrent Policy | Reinforcement Learning | Reinforcement Learning | [2009](https://doi.org/10.1093/jigpal/jzp049) (source only) |
+| AIH-04853 | REINFORCE | Reinforcement Learning | Reinforcement Learning | [2009](https://doi.org/10.1377/forefront.20090224.000508) (source only) |
+| AIH-04885 | Reinforcement Learning (RL) | Reinforcement Learning | Reinforcement Learning | [2019](https://doi.org/10.2139/ssrn.3391216) (source only) |
 | AIH-04917 | Reinforcement Learning from Verifiable Rewards (RLVR) | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-04949 | Replay Buffer | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04981 | Replay Ratio | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-05013 | Retrace | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-04981 | Replay Ratio | Reinforcement Learning | Reinforcement Learning | [2024](https://doi.org/10.1109/cog60054.2024.10645658) (source only) |
+| AIH-05013 | Retrace | Reinforcement Learning | Reinforcement Learning | [2026](https://doi.org/10.18653/2026.findings-emnlp.182) (source only) |
 | AIH-05045 | Return | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-05077 | Return-Conditioned Policy | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-00116 | 6D Pose | Robotics | Robotics & Autonomous Systems | [2017](https://doi.org/10.1109/iccv.2017.169) (source only) |
@@ -177,24 +177,24 @@
 | AIH-04402 | Long Tail of Driving | Robotics | Robotics & Autonomous Systems | — |
 | AIH-04435 | Lyapunov Function | Robotics | Robotics & Autonomous Systems | — |
 | AIH-04468 | Maillardet's automaton | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04501 | Manipulator | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04534 | Meaningful Human Control | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04567 | Microbotics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04600 | Miles per Intervention | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04633 | Minimal Risk Condition | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04666 | Minimum Snap Trajectory | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04699 | Mobile Manipulation | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04732 | Molecular nanotechnology | Robotics | Robotics & Autonomous Systems | — |
+| AIH-04501 | Manipulator | Robotics | Robotics & Autonomous Systems | [1959](https://doi.org/10.2172/4209195) (source only) |
+| AIH-04534 | Meaningful Human Control | Robotics | Robotics & Autonomous Systems | [2017](https://doi.org/10.1007/978-3-319-67266-3_11) (source only) |
+| AIH-04567 | Microbotics | Robotics | Robotics & Autonomous Systems | [1996](https://doi.org/10.1117/12.260622) (source only) |
+| AIH-04600 | Miles per Intervention | Robotics | Robotics & Autonomous Systems | [2022](https://doi.org/10.1136/jech-2022-219729) ★ (estimated) |
+| AIH-04633 | Minimal Risk Condition | Robotics | Robotics & Autonomous Systems | [2022](https://doi.org/10.1007/s12239-022-0080-4) (source only) |
+| AIH-04666 | Minimum Snap Trajectory | Robotics | Robotics & Autonomous Systems | [2011](https://doi.org/10.1109/icra.2011.5980409) (source only) |
+| AIH-04699 | Mobile Manipulation | Robotics | Robotics & Autonomous Systems | [1994](https://doi.org/10.1007/978-3-642-79267-0_13) (source only) |
+| AIH-04732 | Molecular nanotechnology | Robotics | Robotics & Autonomous Systems | [1996](https://doi.org/10.1088/0957-4484/7/3/007) (source only) |
 | AIH-04764 | Monte Carlo Localization (MCL) | Robotics | Robotics & Autonomous Systems | — |
 | AIH-04796 | Morphogenetic robotics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04828 | Multi-Robot Path Planning | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04860 | Nanorobotics | Robotics | Robotics & Autonomous Systems | — |
+| AIH-04828 | Multi-Robot Path Planning | Robotics | Robotics & Autonomous Systems | [2008](https://doi.org/10.1613/jair.2408) (source only) |
+| AIH-04860 | Nanorobotics | Robotics | Robotics & Autonomous Systems | [1999](https://doi.org/10.1002/9780470172506.ch11) (source only) |
 | AIH-04892 | Node in Robotics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04924 | Object-Centric Representation | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04956 | Occupancy Mapping | Robotics | Robotics & Autonomous Systems | — |
+| AIH-04924 | Object-Centric Representation | Robotics | Robotics & Autonomous Systems | [2017](https://doi.org/10.1007/978-3-319-54193-8_16) (source only) |
+| AIH-04956 | Occupancy Mapping | Robotics | Robotics & Autonomous Systems | [2012](https://doi.org/10.4324/9780203121207-21) (source only) |
 | AIH-04988 | Odometry | Robotics | Robotics & Autonomous Systems | — |
-| AIH-05020 | Open-source robotics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-05052 | Operational Design Domain (ODD) | Robotics | Robotics & Autonomous Systems | — |
+| AIH-05020 | Open-source robotics | Robotics | Robotics & Autonomous Systems | [2005](https://doi.org/10.1016/b978-0-7506-7778-3.x5000-5) (source only) |
+| AIH-05052 | Operational Design Domain (ODD) | Robotics | Robotics & Autonomous Systems | [2024](https://doi.org/10.1109/dasc62030.2024.10749586) (source only) |
 | AIH-05084 | Outline of robotics | Robotics | Robotics & Autonomous Systems | — |
 | AIH-00133 | Active Learning for Experiments | Science & Healthcare AI | Science & Healthcare AI | [2022](https://doi.org/10.1080/01621459.2022.2123335) (source only) |
 | AIH-00171 | Adaptive Algorithm in Medicine | Science & Healthcare AI | Science & Healthcare AI | — |
@@ -314,25 +314,25 @@
 | AIH-04414 | Phase I Trial | Science & Healthcare AI | Science & Healthcare AI | [2020](https://doi.org/10.32388/bfltum) (source only) |
 | AIH-04447 | Phase II Trial | Science & Healthcare AI | Science & Healthcare AI | [1979](https://doi.org/10.1007/bf03301591) (source only) |
 | AIH-04480 | Phase III Trial | Science & Healthcare AI | Science & Healthcare AI | [1998](https://doi.org/10.1016/s0140-6736(05)78751-1) (source only) |
-| AIH-04513 | Phase IV Study | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04546 | Phylogenetic Tree | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04579 | Physics-Informed Neural Network (PINN) | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04612 | Platform Trial | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-04513 | Phase IV Study | Science & Healthcare AI | Science & Healthcare AI | [1977](https://openalex.org/W2412754316) (source only) |
+| AIH-04546 | Phylogenetic Tree | Science & Healthcare AI | Science & Healthcare AI | [1991](https://doi.org/10.1111/j.1558-5646.1991.tb04385.x) (source only) |
+| AIH-04579 | Physics-Informed Neural Network (PINN) | Science & Healthcare AI | Science & Healthcare AI | [2022](https://doi.org/10.3997/2214-4609.202210063) (source only) |
+| AIH-04612 | Platform Trial | Science & Healthcare AI | Science & Healthcare AI | [2018](https://doi.org/10.1201/9781315167756) (source only) |
 | AIH-04645 | Polygenic Risk Score (PRS) | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04678 | Population Health Analytics | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04711 | Positive Predictive Value (PPV) | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04744 | Precision Agriculture | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04776 | Precision Medicine | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-04678 | Population Health Analytics | Science & Healthcare AI | Science & Healthcare AI | [2019](https://doi.org/10.1001/jamaophthalmol.2019.0410) (source only) |
+| AIH-04711 | Positive Predictive Value (PPV) | Science & Healthcare AI | Science & Healthcare AI | [2007](https://doi.org/10.1016/j.breast.2006.05.008) (source only) |
+| AIH-04744 | Precision Agriculture | Science & Healthcare AI | Science & Healthcare AI | [2000](https://doi.org/10.1023/a:1011838806489) (source only) |
+| AIH-04776 | Precision Medicine | Science & Healthcare AI | Science & Healthcare AI | [2015](https://doi.org/10.14800/pm.980) (source only) |
 | AIH-04808 | Predetermined Change Control Plan (PCCP) | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-04840 | Predictive Model in Medicine | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-04872 | Preprint | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-04904 | Primary Structure | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-04936 | Prospective Evaluation | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04968 | Protein Design | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-05000 | Protein Structure Prediction | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-04968 | Protein Design | Science & Healthcare AI | Science & Healthcare AI | [1988](https://doi.org/10.1093/protein/2.1.21) (source only) |
+| AIH-05000 | Protein Structure Prediction | Science & Healthcare AI | Science & Healthcare AI | [1994](https://doi.org/10.1007/978-1-4684-6831-1_15) (source only) |
 | AIH-05032 | Quaternary Structure | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-05064 | Race Correction in Clinical Algorithms | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-05096 | Radiation Dose Optimization | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-05064 | Race Correction in Clinical Algorithms | Science & Healthcare AI | Science & Healthcare AI | [2020](https://doi.org/10.1056/nejmms2004740) (source only) |
+| AIH-05096 | Radiation Dose Optimization | Science & Healthcare AI | Science & Healthcare AI | [2010](https://doi.org/10.5334/jbr-btr.31) (source only) |
 | AIH-00134 | Abuse Detection | Security & Privacy | Security & Privacy | [1995](https://doi.org/10.1300/j070v04n02_07) (source only) |
 | AIH-00172 | Account Takeover | Security & Privacy | Security & Privacy | [2002](https://doi.org/10.1037/e313422004-001) (source only) |
 | AIH-00210 | Adaptive Attack | Security & Privacy | Security & Privacy | [2000](https://doi.org/10.1007/3-540-46513-8_4) (source only) |
@@ -451,25 +451,25 @@
 | AIH-04415 | Privacy Amplification by Subsampling | Security & Privacy | Security & Privacy | — |
 | AIH-04448 | Privilege Escalation | Security & Privacy | Security & Privacy | [2004](https://doi.org/10.5220/0002593205960600) (source only) |
 | AIH-04481 | Prompt Extraction Attack | Security & Privacy | Security & Privacy | — |
-| AIH-04514 | Property Inference | Security & Privacy | Security & Privacy | — |
-| AIH-04547 | Provenance Verification | Security & Privacy | Security & Privacy | — |
-| AIH-04580 | Pseudonymization | Security & Privacy | Security & Privacy | — |
-| AIH-04613 | Purpose Limitation | Security & Privacy | Security & Privacy | — |
+| AIH-04514 | Property Inference | Security & Privacy | Security & Privacy | [2013](https://doi.org/10.1145/2483760.2483768) (source only) |
+| AIH-04547 | Provenance Verification | Security & Privacy | Security & Privacy | [2012](https://doi.org/10.1109/tdsc.2011.50) (source only) |
+| AIH-04580 | Pseudonymization | Security & Privacy | Security & Privacy | [2001](https://doi.org/10.1007/3-540-44702-4_10) (source only) |
+| AIH-04613 | Purpose Limitation | Security & Privacy | Security & Privacy | [1954](https://doi.org/10.1525/9780520350625-005) (source only) |
 | AIH-04646 | Quasi-Identifier | Security & Privacy | Security & Privacy | — |
-| AIH-04679 | Query-Based Attack | Security & Privacy | Security & Privacy | — |
-| AIH-04712 | Randomized Response | Security & Privacy | Security & Privacy | — |
-| AIH-04745 | Ransomware | Security & Privacy | Security & Privacy | — |
+| AIH-04679 | Query-Based Attack | Security & Privacy | Security & Privacy | [2011](https://doi.org/10.5121/ijasuc.2011.2410) (source only) |
+| AIH-04712 | Randomized Response | Security & Privacy | Security & Privacy | [1986](https://doi.org/10.4135/9781412985581) (source only) |
+| AIH-04745 | Ransomware | Security & Privacy | Security & Privacy | [2016](https://doi.org/10.13052/popcas004) (source only) |
 | AIH-04777 | Rate Limiting for Security | Security & Privacy | Security & Privacy | — |
-| AIH-04809 | Re-Identification | Security & Privacy | Security & Privacy | — |
+| AIH-04809 | Re-Identification | Security & Privacy | Security & Privacy | [2009](https://doi.org/10.1007/978-0-387-39940-9_3448) (source only) |
 | AIH-04841 | Recovery | Security & Privacy | Security & Privacy | — |
-| AIH-04873 | Recovery Point Objective (RPO) | Security & Privacy | Security & Privacy | — |
-| AIH-04905 | Recovery Time Objective (RTO) | Security & Privacy | Security & Privacy | — |
-| AIH-04937 | Refresh Token | Security & Privacy | Security & Privacy | — |
-| AIH-04969 | Remote Attestation | Security & Privacy | Security & Privacy | — |
-| AIH-05001 | Retention Policy | Security & Privacy | Security & Privacy | — |
-| AIH-05033 | Right to Erasure | Security & Privacy | Security & Privacy | — |
-| AIH-05065 | Right to Explanation | Security & Privacy | Security & Privacy | — |
-| AIH-05097 | Robustness-Accuracy Tradeoff | Security & Privacy | Security & Privacy | — |
+| AIH-04873 | Recovery Point Objective (RPO) | Security & Privacy | Security & Privacy | [2021](https://doi.org/10.29056/jsav.2021.12.10) (source only) |
+| AIH-04905 | Recovery Time Objective (RTO) | Security & Privacy | Security & Privacy | [2021](https://doi.org/10.29056/jsav.2021.12.10) (source only) |
+| AIH-04937 | Refresh Token | Security & Privacy | Security & Privacy | [2021](https://doi.org/10.54216/ijwac.020101) (source only) |
+| AIH-04969 | Remote Attestation | Security & Privacy | Security & Privacy | [2005](https://doi.org/10.1109/icws.2005.136) (source only) |
+| AIH-05001 | Retention Policy | Security & Privacy | Security & Privacy | [1992](https://doi.org/10.1007/978-1-349-11708-6_6) (source only) |
+| AIH-05033 | Right to Erasure | Security & Privacy | Security & Privacy | [2015](https://doi.org/10.13169/jglobfaul.2.2.0001) (source only) |
+| AIH-05065 | Right to Explanation | Security & Privacy | Security & Privacy | [2017](https://doi.org/10.1093/idpl/ipx022) (source only) |
+| AIH-05097 | Robustness-Accuracy Tradeoff | Security & Privacy | Security & Privacy | [2023](https://doi.org/10.1109/lra.2023.3240930) (source only) |
 | AIH-00135 | Adaptive Filter | Signal & Information Theory | Signal & Information Theory | [1991](https://doi.org/10.1007/978-3-662-10048-6_10) (source only) |
 | AIH-00173 | Algorithmic Information Theory | Signal & Information Theory | Signal & Information Theory | [1973](https://doi.org/10.1016/0020-0255(73)90028-5) (source only) |
 | AIH-00211 | Aliasing | Signal & Information Theory | Signal & Information Theory | [1985](https://doi.org/10.21236/ada253722) (source only) |

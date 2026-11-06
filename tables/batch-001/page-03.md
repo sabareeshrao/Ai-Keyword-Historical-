@@ -188,26 +188,26 @@
 | AIH-03984 | Output Copyrightability | AI Safety | AI Policy & Governance | — |
 | AIH-04463 | Over-Blocking | AI Safety | AI Ethics & Safety | [1988](https://doi.org/10.1016/0167-6377(88)90037-5) (source only) |
 | AIH-04496 | Overclaiming Capability | AI Safety | AI Ethics & Safety | — |
-| AIH-04529 | Parasocial Attachment | AI Safety | AI Ethics & Safety | — |
+| AIH-04529 | Parasocial Attachment | AI Safety | AI Ethics & Safety | [2016](https://doi.org/10.1037/ppm0000116) (source only) |
 | AIH-04020 | Patent Eligibility for AI | AI Safety | AI Policy & Governance | — |
 | AIH-04562 | Pause Commitment | AI Safety | AI Ethics & Safety | — |
-| AIH-04595 | Persona Drift | AI Safety | AI Ethics & Safety | — |
+| AIH-04595 | Persona Drift | AI Safety | AI Ethics & Safety | [2025](https://doi.org/10.1145/3714394.3756337) (source only) |
 | AIH-04055 | Persuasion Evaluation | AI Safety | AI Policy & Governance | — |
-| AIH-04628 | Persuasion vs Manipulation | AI Safety | AI Ethics & Safety | — |
-| AIH-04661 | Post Hoc Rationalization | AI Safety | AI Ethics & Safety | — |
+| AIH-04628 | Persuasion vs Manipulation | AI Safety | AI Ethics & Safety | [2022](https://doi.org/10.1016/j.athoracsur.2021.12.039) (source only) |
+| AIH-04661 | Post Hoc Rationalization | AI Safety | AI Ethics & Safety | [1985](https://doi.org/10.1080/00221325.1985.9914455) (source only) |
 | AIH-04090 | Post-Market Monitoring | AI Safety | AI Policy & Governance | — |
 | AIH-04125 | Post-Processing Mitigation | AI Safety | AI Policy & Governance | — |
-| AIH-04694 | Pre-Deployment Testing | AI Safety | AI Ethics & Safety | — |
+| AIH-04694 | Pre-Deployment Testing | AI Safety | AI Ethics & Safety | [2026](https://doi.org/10.1080/15265161.2025.2608639) (source only) |
 | AIH-04160 | Pre-Processing Mitigation | AI Safety | AI Policy & Governance | — |
-| AIH-04727 | Precautionary Principle | AI Safety | AI Ethics & Safety | — |
+| AIH-04727 | Precautionary Principle | AI Safety | AI Ethics & Safety | [2001](https://doi.org/10.2139/ssrn.289146) (source only) |
 | AIH-04195 | Predictive Parity | AI Safety | AI Policy & Governance | [2022](https://doi.org/10.52202/068431-2008) (source only) |
 | AIH-04759 | Preference Aggregation | AI Safety | AI Ethics & Safety | — |
-| AIH-04791 | Privacy-Preserving AI | AI Safety | AI Ethics & Safety | — |
+| AIH-04791 | Privacy-Preserving AI | AI Safety | AI Ethics & Safety | [2021](https://doi.org/10.21275/sr24806050324) (source only) |
 | AIH-04230 | Procurement Standards | AI Safety | AI Policy & Governance | [1952](https://doi.org/10.1021/cen-v030n040.p4156) (source only) |
 | AIH-04265 | Product Liability for AI | AI Safety | AI Policy & Governance | [2023](https://doi.org/10.2139/ssrn.4617411) (source only) |
 | AIH-04823 | Professional Context Allowance | AI Safety | AI Ethics & Safety | — |
 | AIH-04299 | Prohibited Practice | AI Safety | AI Policy & Governance | [2007](https://doi.org/10.1017/s0940739107070221) (source only) |
-| AIH-04855 | Proportionate Response | AI Safety | AI Ethics & Safety | — |
+| AIH-04855 | Proportionate Response | AI Safety | AI Ethics & Safety | [2002](https://doi.org/10.1111/1468-2230.00405) (source only) |
 | AIH-04332 | Protected Attribute | AI Safety | AI Policy & Governance | [2021](https://doi.org/10.1109/iccv48922.2021.01481) (source only) |
 | AIH-04365 | Proxy Discrimination | AI Safety | AI Policy & Governance | [2020](https://doi.org/10.70658/2693-3225.1164) (source only) |
 | AIH-04887 | Proxy Goal | AI Safety | AI Ethics & Safety | — |
@@ -218,27 +218,27 @@
 | AIH-04431 | Redress Mechanism | AI Safety | AI Policy & Governance | — |
 | AIH-04464 | Regulatory Sandbox | AI Safety | AI Policy & Governance | [2017](https://doi.org/10.2139/ssrn.3056993) (source only) |
 | AIH-04497 | Representation Bias | AI Safety | AI Policy & Governance | — |
-| AIH-04530 | Representational Harm | AI Safety | AI Policy & Governance | — |
+| AIH-04530 | Representational Harm | AI Safety | AI Policy & Governance | [2019](https://doi.org/10.1137/1.9781611975673.90) (source only) |
 | AIH-04563 | Researcher Access Programme | AI Safety | AI Policy & Governance | — |
-| AIH-05015 | Residual Risk | AI Safety | AI Ethics & Safety | — |
-| AIH-04596 | Reskilling | AI Safety | AI Policy & Governance | — |
-| AIH-04629 | Responsibility Gap | AI Safety | AI Policy & Governance | — |
-| AIH-05047 | Responsible AI | AI Safety | AI Ethics & Safety | — |
+| AIH-05015 | Residual Risk | AI Safety | AI Ethics & Safety | [1986](https://doi.org/10.3386/w1908) (source only) |
+| AIH-04596 | Reskilling | AI Safety | AI Policy & Governance | [1994](https://doi.org/10.1145/186281.186503) (source only) |
+| AIH-04629 | Responsibility Gap | AI Safety | AI Policy & Governance | [1969](https://doi.org/10.2307/1294969) (source only) |
+| AIH-05047 | Responsible AI | AI Safety | AI Ethics & Safety | [2019](https://doi.org/10.1007/978-3-030-30371-6_6) (source only) |
 | AIH-04662 | Responsible AI Licence | AI Safety | AI Policy & Governance | — |
-| AIH-05079 | Responsible Disclosure | AI Safety | AI Ethics & Safety | — |
+| AIH-05079 | Responsible Disclosure | AI Safety | AI Ethics & Safety | [1984](https://doi.org/10.1038/nbt0984-734) (source only) |
 | AIH-04695 | Responsible Scaling Policy (RSP) | AI Safety | AI Policy & Governance | — |
 | AIH-04728 | Right to Warn | AI Safety | AI Policy & Governance | — |
 | AIH-04760 | Rubber-Stamping | AI Safety | AI Policy & Governance | — |
 | AIH-04792 | Safe Harbour for Research | AI Safety | AI Policy & Governance | — |
-| AIH-04824 | Safety Case | AI Safety | AI Policy & Governance | — |
-| AIH-04856 | Sandbagging | AI Safety | AI Policy & Governance | — |
-| AIH-04888 | Sectoral Regulation | AI Safety | AI Policy & Governance | — |
-| AIH-04920 | Serious Incident Reporting | AI Safety | AI Policy & Governance | — |
+| AIH-04824 | Safety Case | AI Safety | AI Policy & Governance | [1999](https://doi.org/10.1007/978-1-4471-0823-8_2) (source only) |
+| AIH-04856 | Sandbagging | AI Safety | AI Policy & Governance | [1959](https://doi.org/10.1086/266873) (source only) |
+| AIH-04888 | Sectoral Regulation | AI Safety | AI Policy & Governance | [2012](https://doi.org/10.1787/sr-data-en) (source only) |
+| AIH-04920 | Serious Incident Reporting | AI Safety | AI Policy & Governance | [2020](https://doi.org/10.4324/9780367817510-11) (source only) |
 | AIH-04952 | Shadow AI Usage | AI Safety | AI Policy & Governance | — |
 | AIH-04984 | Share-Alike Clause | AI Safety | AI Policy & Governance | — |
 | AIH-05016 | Situational Awareness Evaluation | AI Safety | AI Policy & Governance | — |
-| AIH-05048 | Soft Law | AI Safety | AI Policy & Governance | — |
-| AIH-05080 | Staged Release | AI Safety | AI Policy & Governance | — |
+| AIH-05048 | Soft Law | AI Safety | AI Policy & Governance | [2004](https://doi.org/10.5040/9781472563101) (source only) |
+| AIH-05080 | Staged Release | AI Safety | AI Policy & Governance | [2012](https://doi.org/10.1177/1753193412467731) (source only) |
 | AIH-00121 | Adjustment Set | Causal Inference | Causal Inference | [2025](https://doi.org/10.2139/ssrn.5394371) (source only) |
 | AIH-00159 | Always-Takers | Causal Inference | Causal Inference | [2022](https://doi.org/10.2139/ssrn.4186399) (source only) |
 | AIH-00197 | Backdoor Criterion | Causal Inference | Causal Inference | — |
@@ -469,25 +469,25 @@
 | AIH-04407 | Spacing Effect | Cognitive Science | Cognitive Science | [1955](https://doi.org/10.1190/1.1438197) (source only) |
 | AIH-04440 | Sparse Coding in the Brain | Cognitive Science | Cognitive Science | — |
 | AIH-04473 | Spike-Timing-Dependent Plasticity (STDP) | Cognitive Science | Cognitive Science | [2005](https://doi.org/10.1109/tnn.2005.852238) (source only) |
-| AIH-04506 | Statistical Learning in Infants | Cognitive Science | Cognitive Science | — |
-| AIH-04539 | Status Quo Bias | Cognitive Science | Cognitive Science | — |
-| AIH-04572 | Sunk Cost Fallacy | Cognitive Science | Cognitive Science | — |
-| AIH-04605 | Surprisal Theory | Cognitive Science | Cognitive Science | — |
-| AIH-04638 | Sustained Attention | Cognitive Science | Cognitive Science | — |
-| AIH-04671 | Synaptic Plasticity | Cognitive Science | Cognitive Science | — |
+| AIH-04506 | Statistical Learning in Infants | Cognitive Science | Cognitive Science | [2001](https://openalex.org/W2624832259) (source only) |
+| AIH-04539 | Status Quo Bias | Cognitive Science | Cognitive Science | [1990](https://doi.org/10.3386/w3269) (source only) |
+| AIH-04572 | Sunk Cost Fallacy | Cognitive Science | Cognitive Science | [2007](https://doi.org/10.1007/s10683-006-9134-0) (source only) |
+| AIH-04605 | Surprisal Theory | Cognitive Science | Cognitive Science | [1978](https://doi.org/10.1016/0009-2614(78)85600-0) (source only) |
+| AIH-04638 | Sustained Attention | Cognitive Science | Cognitive Science | [1973](https://doi.org/10.1111/j.1469-7610.1973.tb01189.x) (source only) |
+| AIH-04671 | Synaptic Plasticity | Cognitive Science | Cognitive Science | [1988](https://doi.org/10.1007/978-3-642-73202-7_34) (source only) |
 | AIH-04704 | System 1 Thinking | Cognitive Science | Cognitive Science | — |
-| AIH-04737 | System 2 Thinking | Cognitive Science | Cognitive Science | — |
-| AIH-04769 | Task Switching Cost | Cognitive Science | Cognitive Science | — |
-| AIH-04801 | Temporal Coding | Cognitive Science | Cognitive Science | — |
+| AIH-04737 | System 2 Thinking | Cognitive Science | Cognitive Science | [2023](https://doi.org/10.31234/osf.io/7q2mu) (source only) |
+| AIH-04769 | Task Switching Cost | Cognitive Science | Cognitive Science | [2005](https://doi.org/10.1027/1618-3169.52.2.109) (source only) |
+| AIH-04801 | Temporal Coding | Cognitive Science | Cognitive Science | [1997](https://doi.org/10.1007/978-1-4757-9800-5_92) (source only) |
 | AIH-04833 | Testing Effect | Cognitive Science | Cognitive Science | — |
-| AIH-04865 | Theory of Mind (ToM) | Cognitive Science | Cognitive Science | — |
-| AIH-04897 | Tip of the Tongue State | Cognitive Science | Cognitive Science | — |
-| AIH-04929 | Top-Down Processing | Cognitive Science | Cognitive Science | — |
+| AIH-04865 | Theory of Mind (ToM) | Cognitive Science | Cognitive Science | [2006](https://doi.org/10.1017/s0033291706007653) (source only) |
+| AIH-04897 | Tip of the Tongue State | Cognitive Science | Cognitive Science | [1987](https://doi.org/10.1016/0010-0277(87)90027-8) (source only) |
+| AIH-04929 | Top-Down Processing | Cognitive Science | Cognitive Science | [1995](https://doi.org/10.21236/ada298838) (source only) |
 | AIH-04961 | Transfer of Learning | Cognitive Science | Cognitive Science | — |
-| AIH-04993 | Trust Calibration | Cognitive Science | Cognitive Science | — |
-| AIH-05025 | Ventral Stream | Cognitive Science | Cognitive Science | — |
-| AIH-05057 | Visual Cortex Areas | Cognitive Science | Cognitive Science | — |
-| AIH-05089 | Visual Search Task | Cognitive Science | Cognitive Science | — |
+| AIH-04993 | Trust Calibration | Cognitive Science | Cognitive Science | [2011](https://doi.org/10.1037/e682562011-001) (source only) |
+| AIH-05025 | Ventral Stream | Cognitive Science | Cognitive Science | [2002](https://doi.org/10.1016/s0042-6989(02)00298-5) (source only) |
+| AIH-05057 | Visual Cortex Areas | Cognitive Science | Cognitive Science | [2020](https://doi.org/10.1101/2020.05.07.083329) (source only) |
+| AIH-05089 | Visual Search Task | Cognitive Science | Cognitive Science | [1971](https://doi.org/10.1037/e596172009-001) (source only) |
 | AIH-00123 | Albedo | Computer Graphics | Computer Graphics | [1978](https://doi.org/10.2172/6797122) (source only) |
 | AIH-00161 | Alpha Blending | Computer Graphics | Computer Graphics | [1990](https://openalex.org/W2912714911) (source only) |
 | AIH-00199 | Ambient Occlusion (AO) | Computer Graphics | Computer Graphics | — |

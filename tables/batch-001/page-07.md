@@ -96,22 +96,22 @@
 | AIH-04465 | Chi-Squared Test | Mathematics | Mathematics & Statistics | [1972](https://doi.org/10.2307/2334625) (source only) |
 | AIH-04498 | Chinese Remainder Theorem | Mathematics | Mathematics & Statistics | [1977](https://doi.org/10.4064/fm-96-3-177-187) (source only) |
 | AIH-01179 | Chinese Restaurant Process | Mathematics | Probabilistic Methods | [2006](https://doi.org/10.1093/bioinformatics/btl284) (source only) |
-| AIH-04531 | Cholesky Decomposition | Mathematics | Mathematics & Statistics | — |
-| AIH-04564 | Chomsky Hierarchy | Mathematics | Mathematics & Statistics | — |
-| AIH-04597 | Chromatic Number | Mathematics | Mathematics & Statistics | — |
-| AIH-04630 | Church-Turing Thesis | Mathematics | Mathematics & Statistics | — |
+| AIH-04531 | Cholesky Decomposition | Mathematics | Mathematics & Statistics | [1972](https://doi.org/10.2307/1912094) (source only) |
+| AIH-04564 | Chomsky Hierarchy | Mathematics | Mathematics & Statistics | [1974](https://doi.org/10.1007/3-540-06867-8_16) (source only) |
+| AIH-04597 | Chromatic Number | Mathematics | Mathematics & Statistics | [1966](https://doi.org/10.1007/bf02020444) (source only) |
+| AIH-04630 | Church-Turing Thesis | Mathematics | Mathematics & Statistics | [1993](https://doi.org/10.1007/bf00976283) (source only) |
 | AIH-04663 | Circulant Embedding | Mathematics | Mathematics & Statistics | — |
-| AIH-04696 | Circulant Matrix | Mathematics | Mathematics & Statistics | — |
-| AIH-04729 | Clarke Subdifferential | Mathematics | Mathematics & Statistics | — |
+| AIH-04696 | Circulant Matrix | Mathematics | Mathematics & Statistics | [1932](https://doi.org/10.1080/00029890.1932.11987310) (source only) |
+| AIH-04729 | Clarke Subdifferential | Mathematics | Mathematics & Statistics | [1992](https://doi.org/10.1007/bf01125141) (source only) |
 | AIH-01216 | Clipped Surrogate Objective | Mathematics | Optimization | — |
 | AIH-04761 | Clique | Mathematics | Mathematics & Statistics | — |
-| AIH-04793 | Closed Set | Mathematics | Mathematics & Statistics | — |
+| AIH-04793 | Closed Set | Mathematics | Mathematics & Statistics | [1966](https://doi.org/10.1016/s1385-7258(66)50035-x) (source only) |
 | AIH-04825 | Closeness Centrality | Mathematics | Mathematics & Statistics | — |
 | AIH-04857 | Cluster Sampling | Mathematics | Mathematics & Statistics | — |
 | AIH-04889 | Cluster Sampling Design Effect | Mathematics | Mathematics & Statistics | — |
 | AIH-04921 | Clustering Coefficient | Mathematics | Mathematics & Statistics | — |
 | AIH-01254 | CMA-ES | Mathematics | Optimization | — |
-| AIH-04953 | Coefficient of Variation (CV) | Mathematics | Mathematics & Statistics | — |
+| AIH-04953 | Coefficient of Variation (CV) | Mathematics | Mathematics & Statistics | [2009](https://doi.org/10.1007/978-3-211-89836-9_235) (source only) |
 | AIH-04985 | Coercive Function | Mathematics | Mathematics & Statistics | — |
 | AIH-05017 | Cohen's d | Mathematics | Mathematics & Statistics | — |
 | AIH-05049 | Coherence of a Dictionary | Mathematics | Mathematics & Statistics | — |
@@ -281,22 +281,22 @@
 | AIH-04466 | Learning Rate Transfer | Mathematics | Optimization | — |
 | AIH-04499 | Levenberg-Marquardt | Mathematics | Optimization | [2002](https://doi.org/10.1142/9789812776969_0169) (source only) |
 | AIH-04058 | Likelihood Ratio | Mathematics | Probabilistic Methods | [1967](https://doi.org/10.21236/ad0655200) (source only) |
-| AIH-04532 | Line Search Free Method | Mathematics | Optimization | — |
-| AIH-04565 | Linear Mode Connectivity | Mathematics | Optimization | — |
-| AIH-04598 | Linear Programming (LP) | Mathematics | Optimization | — |
-| AIH-04631 | Linear Scaling Rule | Mathematics | Optimization | — |
-| AIH-04664 | Lion Optimizer | Mathematics | Optimization | — |
+| AIH-04532 | Line Search Free Method | Mathematics | Optimization | [2026](https://doi.org/10.48550/arxiv.2605.00711) (source only) |
+| AIH-04565 | Linear Mode Connectivity | Mathematics | Optimization | [2019](https://doi.org/10.48550/arxiv.1912.05671) (source only) |
+| AIH-04598 | Linear Programming (LP) | Mathematics | Optimization | [1989](https://openalex.org/W1487512686) (source only) |
+| AIH-04631 | Linear Scaling Rule | Mathematics | Optimization | [2022](https://doi.org/10.48550/arxiv.2212.04486) (source only) |
+| AIH-04664 | Lion Optimizer | Mathematics | Optimization | [2015](https://doi.org/10.1016/j.advengsoft.2015.01.010) (source only) |
 | AIH-04093 | Little's Law | Mathematics | Probabilistic Methods | [2016](https://doi.org/10.7551/mitpress/9471.003.0018) (source only) |
-| AIH-04697 | Local Improvement Heuristic | Mathematics | Optimization | — |
+| AIH-04697 | Local Improvement Heuristic | Mathematics | Optimization | [1986](https://doi.org/10.1287/trsc.20.4.246) (source only) |
 | AIH-04128 | Log-Normal Distribution | Mathematics | Probabilistic Methods | [1952](https://doi.org/10.2172/4395376) (source only) |
 | AIH-04163 | Log-Odds | Mathematics | Probabilistic Methods | — |
 | AIH-04730 | Lookahead Optimizer | Mathematics | Optimization | — |
 | AIH-04198 | Loopy Belief Propagation | Mathematics | Probabilistic Methods | [2004](https://doi.org/10.1162/0899766041941943) (source only) |
-| AIH-04762 | Loss Scaling | Mathematics | Optimization | — |
-| AIH-04794 | Loss Spike | Mathematics | Optimization | — |
+| AIH-04762 | Loss Scaling | Mathematics | Optimization | [1977](https://doi.org/10.2172/7112134) (source only) |
+| AIH-04794 | Loss Spike | Mathematics | Optimization | [2026](https://doi.org/10.4208/jcm.2412-m2024-0083) (source only) |
 | AIH-04826 | Loss Surface Visualization | Mathematics | Optimization | — |
 | AIH-04858 | Lottery Ticket Hypothesis | Mathematics | Optimization | — |
-| AIH-04890 | LP Relaxation | Mathematics | Optimization | — |
+| AIH-04890 | LP Relaxation | Mathematics | Optimization | [1989](https://doi.org/10.1002/net.3230190705) (source only) |
 | AIH-04233 | Marginal Likelihood | Mathematics | Probabilistic Methods | [1977](https://doi.org/10.2307/2529484) (source only) |
 | AIH-04268 | Marginal Likelihood Optimization | Mathematics | Probabilistic Methods | [2011](https://doi.org/10.1109/cvpr.2011.5995308) (source only) |
 | AIH-04302 | Marginal Probability | Mathematics | Probabilistic Methods | [1958](https://doi.org/10.21136/cmj.1958.100316) (source only) |
@@ -306,28 +306,28 @@
 | AIH-04434 | Markov Property | Mathematics | Probabilistic Methods | [1960](https://doi.org/10.1007/978-3-642-49686-8_26) (source only) |
 | AIH-04467 | Markov Random Field (MRF) | Mathematics | Probabilistic Methods | [1994](https://doi.org/10.1117/12.179033) (source only) |
 | AIH-04500 | Martingale | Mathematics | Probabilistic Methods | [1976](https://doi.org/10.21136/cpm.1976.117920) (source only) |
-| AIH-04922 | Matheuristic | Mathematics | Optimization | — |
-| AIH-04954 | Maximal Update Parameterization | Mathematics | Optimization | — |
-| AIH-04533 | McDiarmid Inequality | Mathematics | Probabilistic Methods | — |
-| AIH-04566 | Mean Squared Error Decomposition | Mathematics | Probabilistic Methods | — |
-| AIH-04599 | Mean-Field Approximation | Mathematics | Probabilistic Methods | — |
-| AIH-04986 | Meta-Gradient | Mathematics | Optimization | — |
-| AIH-04632 | Method of Moments | Mathematics | Probabilistic Methods | — |
-| AIH-04665 | Metropolis-Hastings (MH) | Mathematics | Probabilistic Methods | — |
-| AIH-05018 | Minibatch | Mathematics | Optimization | — |
-| AIH-04698 | Minimal Sufficient Statistic | Mathematics | Probabilistic Methods | — |
+| AIH-04922 | Matheuristic | Mathematics | Optimization | [2014](https://doi.org/10.1007/s10288-014-0278-z) (source only) |
+| AIH-04954 | Maximal Update Parameterization | Mathematics | Optimization | [2024](https://doi.org/10.52202/079017-1066) (source only) |
+| AIH-04533 | McDiarmid Inequality | Mathematics | Probabilistic Methods | [2020](https://doi.org/10.1088/1367-2630/ab6afa) (source only) |
+| AIH-04566 | Mean Squared Error Decomposition | Mathematics | Probabilistic Methods | [2015](https://doi.org/10.1109/telfor.2015.7377572) ★ (estimated) |
+| AIH-04599 | Mean-Field Approximation | Mathematics | Probabilistic Methods | [1972](https://doi.org/10.1103/physrevlett.29.369) (source only) |
+| AIH-04986 | Meta-Gradient | Mathematics | Optimization | [2021](https://doi.org/10.1109/iccv48922.2021.00765) (source only) |
+| AIH-04632 | Method of Moments | Mathematics | Probabilistic Methods | [1923](https://doi.org/10.1080/00029890.1923.11986258) (source only) |
+| AIH-04665 | Metropolis-Hastings (MH) | Mathematics | Probabilistic Methods | [2022](https://doi.org/10.1007/s10489-022-04359-6) (source only) |
+| AIH-05018 | Minibatch | Mathematics | Optimization | [1989](https://doi.org/10.1149/1.2096795) (source only) |
+| AIH-04698 | Minimal Sufficient Statistic | Mathematics | Probabilistic Methods | [1974](https://doi.org/10.2307/2683602) (source only) |
 | AIH-05050 | Minimax Optimization | Mathematics | Optimization | — |
-| AIH-05082 | Mirror Descent | Mathematics | Optimization | — |
-| AIH-04731 | Mixing Time | Mathematics | Probabilistic Methods | — |
-| AIH-04763 | Mixture Distribution | Mathematics | Probabilistic Methods | — |
+| AIH-05082 | Mirror Descent | Mathematics | Optimization | [2010](https://doi.org/10.1109/cit.2010.224) (source only) |
+| AIH-04731 | Mixing Time | Mathematics | Probabilistic Methods | [1985](https://doi.org/10.1016/0300-9467(85)80046-0) (source only) |
+| AIH-04763 | Mixture Distribution | Mathematics | Probabilistic Methods | [1929](https://doi.org/10.4271/290018) (source only) |
 | AIH-04795 | Mode Hopping | Mathematics | Probabilistic Methods | — |
 | AIH-04827 | Moment | Mathematics | Probabilistic Methods | — |
-| AIH-04859 | Moment Generating Function (MGF) | Mathematics | Probabilistic Methods | — |
+| AIH-04859 | Moment Generating Function (MGF) | Mathematics | Probabilistic Methods | [2002](https://doi.org/10.1002/wcm.81) (source only) |
 | AIH-04891 | Monte Carlo Dropout | Mathematics | Probabilistic Methods | — |
 | AIH-04923 | Monte Carlo Standard Error | Mathematics | Probabilistic Methods | — |
 | AIH-04955 | Moralization | Mathematics | Probabilistic Methods | — |
 | AIH-04987 | Multimodality | Mathematics | Probabilistic Methods | — |
-| AIH-05019 | Multinomial Distribution | Mathematics | Probabilistic Methods | — |
+| AIH-05019 | Multinomial Distribution | Mathematics | Probabilistic Methods | [1954](https://doi.org/10.4064/sm-14-2-258-297) (source only) |
 | AIH-05051 | Multivariate Normal Distribution | Mathematics | Probabilistic Methods | — |
 | AIH-05083 | Mutually Exclusive Events | Mathematics | Probabilistic Methods | — |
 | AIH-00105 | Abbreviation Resolution | NLP and LLMs | Natural Language Processing | [2013](https://openalex.org/W2292990913) (source only) |
@@ -449,22 +449,22 @@
 | AIH-04424 | Extractive Summarization | NLP and LLMs | Natural Language Processing | [2003](https://doi.org/10.3115/1119312.1119315) (source only) |
 | AIH-04457 | Extrinsic Hallucination | NLP and LLMs | Natural Language Processing | [2025](https://doi.org/10.1007/s00521-024-10895-8) (source only) |
 | AIH-04490 | Factual Consistency | NLP and LLMs | Natural Language Processing | [2010](https://doi.org/10.15699/9781589838710-004) (source only) |
-| AIH-04523 | Faithfulness | NLP and LLMs | Natural Language Processing | — |
-| AIH-04556 | FastText | NLP and LLMs | Natural Language Processing | — |
-| AIH-04589 | Field-Level Confidence | NLP and LLMs | Natural Language Processing | — |
-| AIH-04622 | Fill-in-the-Middle | NLP and LLMs | Natural Language Processing | — |
+| AIH-04523 | Faithfulness | NLP and LLMs | Natural Language Processing | [1946](https://doi.org/10.4159/harvard.9780674423589.c175) (source only) |
+| AIH-04556 | FastText | NLP and LLMs | Natural Language Processing | [2021](https://doi.org/10.1016/j.procs.2021.05.103) (source only) |
+| AIH-04589 | Field-Level Confidence | NLP and LLMs | Natural Language Processing | [2012](https://doi.org/10.21437/interspeech.2012-613) ★ (estimated) |
+| AIH-04622 | Fill-in-the-Middle | NLP and LLMs | Natural Language Processing | [2003](https://doi.org/10.22201/igeof.00167169p.2003.42.4.314) (source only) |
 | AIH-04655 | Formality Control | NLP and LLMs | Natural Language Processing | — |
-| AIH-04688 | Frame Semantics | NLP and LLMs | Natural Language Processing | — |
+| AIH-04688 | Frame Semantics | NLP and LLMs | Natural Language Processing | [1996](https://doi.org/10.1075/pbns.32.14pet) (source only) |
 | AIH-04721 | FrameNet | NLP and LLMs | Natural Language Processing | — |
-| AIH-04753 | Function Calling | NLP and LLMs | Natural Language Processing | — |
-| AIH-04785 | Fuzzy Text Search | NLP and LLMs | Natural Language Processing | — |
-| AIH-04817 | Gender Bias in Translation | NLP and LLMs | Natural Language Processing | — |
-| AIH-04849 | Gendered Language | NLP and LLMs | Natural Language Processing | — |
+| AIH-04753 | Function Calling | NLP and LLMs | Natural Language Processing | [2014](https://doi.org/10.1049/cp.2014.1384) (source only) |
+| AIH-04785 | Fuzzy Text Search | NLP and LLMs | Natural Language Processing | [2013](https://doi.org/10.32614/cran.package.stringdist) (source only) |
+| AIH-04817 | Gender Bias in Translation | NLP and LLMs | Natural Language Processing | [2019](https://doi.org/10.18653/v1/w19-3824) (source only) |
+| AIH-04849 | Gendered Language | NLP and LLMs | Natural Language Processing | [2005](https://doi.org/10.4324/9780203014448-7) (source only) |
 | AIH-04881 | Gene Normalization | NLP and LLMs | Natural Language Processing | — |
 | AIH-04913 | Glossary-Constrained Translation | NLP and LLMs | Natural Language Processing | — |
 | AIH-04945 | GloVe | NLP and LLMs | Natural Language Processing | — |
-| AIH-04977 | GPT (Generative Pre-trained Transformer) | NLP and LLMs | Natural Language Processing | — |
-| AIH-05009 | Grammatical Error Correction (GEC) | NLP and LLMs | Natural Language Processing | — |
+| AIH-04977 | GPT (Generative Pre-trained Transformer) | NLP and LLMs | Natural Language Processing | [2023](https://doi.org/10.38023/927d5adf-652b-4477-8fe9-4ef4bee420ff) (source only) |
+| AIH-05009 | Grammatical Error Correction (GEC) | NLP and LLMs | Natural Language Processing | [2019](https://doi.org/10.5120/ijca2019919275) (source only) |
 | AIH-05041 | Grapheme-to-Phoneme Conversion (G2P) | NLP and LLMs | Natural Language Processing | — |
 | AIH-05073 | Grounded Dialogue | NLP and LLMs | Natural Language Processing | — |
 | AIH-00129 | AAAI | People & Organizations | People & Organizations | [1996](https://doi.org/10.1609/aimag.v17i2.1223) (source only) |

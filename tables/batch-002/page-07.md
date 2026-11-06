@@ -222,59 +222,59 @@
 | AIH-09412 | Wrapper Method | Machine Learning | Machine Learning | — |
 | AIH-09415 | Zero-shot Learning (ZSL) | Machine Learning | Machine Learning | — |
 | AIH-05113 | Column Space | Mathematics | Mathematics & Statistics | — |
-| AIH-05145 | Column-Major Order | Mathematics | Mathematics & Statistics | — |
+| AIH-05145 | Column-Major Order | Mathematics | Mathematics & Statistics | [2026](https://doi.org/10.1109/jphotov.2026.3661113) (source only) |
 | AIH-05177 | Combination | Mathematics | Mathematics & Statistics | — |
-| AIH-05208 | Combinatorics | Mathematics | Mathematics & Statistics | — |
+| AIH-05208 | Combinatorics | Mathematics | Mathematics & Statistics | [1971](https://doi.org/10.1016/b978-0-12-721940-0.50011-8) (source only) |
 | AIH-05239 | Commitment Scheme | Mathematics | Mathematics & Statistics | — |
 | AIH-05270 | Community Detection | Mathematics | Mathematics & Statistics | — |
-| AIH-05301 | Compactness | Mathematics | Mathematics & Statistics | — |
-| AIH-05332 | Competitive Ratio | Mathematics | Mathematics & Statistics | — |
-| AIH-05363 | Completeness | Mathematics | Mathematics & Statistics | — |
+| AIH-05301 | Compactness | Mathematics | Mathematics & Statistics | [1955](https://doi.org/10.21136/cmj.1955.100169) (source only) |
+| AIH-05332 | Competitive Ratio | Mathematics | Mathematics & Statistics | [1980](https://doi.org/10.1017/s0014479700010802) (source only) |
+| AIH-05363 | Completeness | Mathematics | Mathematics & Statistics | [1962](https://doi.org/10.21136/cmj.1962.100525) (source only) |
 | AIH-05394 | Completeness Theorem | Mathematics | Mathematics & Statistics | — |
-| AIH-05425 | Complex Number | Mathematics | Mathematics & Statistics | — |
-| AIH-05456 | Complexity Class NP | Mathematics | Mathematics & Statistics | — |
+| AIH-05425 | Complex Number | Mathematics | Mathematics & Statistics | [1989](https://doi.org/10.1016/b978-0-408-01074-0.50015-x) (source only) |
+| AIH-05456 | Complexity Class NP | Mathematics | Mathematics & Statistics | [2019](https://doi.org/10.1007/s00233-018-9990-x) (source only) |
 | AIH-05487 | Complexity Class P | Mathematics | Mathematics & Statistics | — |
-| AIH-05518 | Compressed Sensing (CS) | Mathematics | Mathematics & Statistics | — |
-| AIH-05548 | Compressed Sparse Row (CSR) | Mathematics | Mathematics & Statistics | — |
-| AIH-05578 | Computability | Mathematics | Mathematics & Statistics | — |
-| AIH-05608 | Computational Complexity | Mathematics | Mathematics & Statistics | — |
-| AIH-05638 | Computational Graph | Mathematics | Mathematics & Statistics | — |
-| AIH-05667 | Concave Function | Mathematics | Mathematics & Statistics | — |
+| AIH-05518 | Compressed Sensing (CS) | Mathematics | Mathematics & Statistics | [2016](https://doi.org/10.1109/wispnet.2016.7566523) (source only) |
+| AIH-05548 | Compressed Sparse Row (CSR) | Mathematics | Mathematics & Statistics | [2025](https://doi.org/10.1007/978-3-031-90200-0_22) (source only) |
+| AIH-05578 | Computability | Mathematics | Mathematics & Statistics | [1959](https://doi.org/10.2307/2002808) (source only) |
+| AIH-05608 | Computational Complexity | Mathematics | Mathematics & Statistics | [1965](https://doi.org/10.1090/s0002-9947-1965-0170805-7) (source only) |
+| AIH-05638 | Computational Graph | Mathematics | Mathematics & Statistics | [1990](https://doi.org/10.1007/978-3-7091-9076-0) (source only) |
+| AIH-05667 | Concave Function | Mathematics | Mathematics & Statistics | [1967](https://doi.org/10.1287/mnsc.13.11.900) (source only) |
 | AIH-05696 | Concordance Index | Mathematics | Mathematics & Statistics | — |
-| AIH-05724 | Confidence Level | Mathematics | Mathematics & Statistics | — |
+| AIH-05724 | Confidence Level | Mathematics | Mathematics & Statistics | [1995](https://doi.org/10.1080/03610929508831569) (source only) |
 | AIH-05752 | Conjunctive Normal Form (CNF) | Mathematics | Mathematics & Statistics | — |
 | AIH-05780 | Connected Component | Mathematics | Mathematics & Statistics | — |
-| AIH-05807 | Conservation Law | Mathematics | Mathematics & Statistics | — |
+| AIH-05807 | Conservation Law | Mathematics | Mathematics & Statistics | [1911](https://doi.org/10.1093/jof/9.1.59) (source only) |
 | AIH-05834 | Conservative Field | Mathematics | Mathematics & Statistics | — |
 | AIH-05860 | Consistent Hashing | Mathematics | Mathematics & Statistics | — |
 | AIH-05886 | Constraint Propagation | Mathematics | Mathematics & Statistics | — |
-| AIH-05912 | Constraint Satisfaction Problem (CSP) | Mathematics | Mathematics & Statistics | — |
-| AIH-05938 | Contingency Table | Mathematics | Mathematics & Statistics | — |
+| AIH-05912 | Constraint Satisfaction Problem (CSP) | Mathematics | Mathematics & Statistics | [1994](https://doi.org/10.1007/bf03038310) (source only) |
+| AIH-05938 | Contingency Table | Mathematics | Mathematics & Statistics | [1974](https://doi.org/10.21136/am.1974.103538) (source only) |
 | AIH-05963 | Continuity | Mathematics | Mathematics & Statistics | — |
-| AIH-05988 | Contraction Mapping | Mathematics | Mathematics & Statistics | — |
+| AIH-05988 | Contraction Mapping | Mathematics | Mathematics & Statistics | [1972](https://doi.org/10.1016/s1474-6670(17)68431-3) (source only) |
 | AIH-06013 | Control Group | Mathematics | Mathematics & Statistics | — |
-| AIH-06038 | Control Variate | Mathematics | Mathematics & Statistics | — |
-| AIH-06063 | Convenience Sampling | Mathematics | Mathematics & Statistics | — |
-| AIH-06088 | Convergence Rate | Mathematics | Mathematics & Statistics | — |
-| AIH-06113 | Convex Conjugate | Mathematics | Mathematics & Statistics | — |
-| AIH-06138 | Convex Function | Mathematics | Mathematics & Statistics | — |
-| AIH-06163 | Convex Hull | Mathematics | Mathematics & Statistics | — |
+| AIH-06038 | Control Variate | Mathematics | Mathematics & Statistics | [1979](https://doi.org/10.1080/03610917908812123) (source only) |
+| AIH-06063 | Convenience Sampling | Mathematics | Mathematics & Statistics | [2001](https://doi.org/10.1037/e413802005-074) (source only) |
+| AIH-06088 | Convergence Rate | Mathematics | Mathematics & Statistics | [1989](https://doi.org/10.1016/0040-1951(89)90171-6) (source only) |
+| AIH-06113 | Convex Conjugate | Mathematics | Mathematics & Statistics | [2017](https://doi.org/10.1016/j.orl.2017.08.013) (source only) |
+| AIH-06138 | Convex Function | Mathematics | Mathematics & Statistics | [1961](https://doi.org/10.21236/ad0260610) (source only) |
+| AIH-06163 | Convex Hull | Mathematics | Mathematics & Statistics | [1980](https://doi.org/10.21236/ada092936) (source only) |
 | AIH-06188 | Convex Set | Mathematics | Mathematics & Statistics | — |
-| AIH-06211 | Convexity Gap | Mathematics | Mathematics & Statistics | — |
-| AIH-06234 | Convolution Integral | Mathematics | Mathematics & Statistics | — |
-| AIH-06257 | Cook's Distance | Mathematics | Mathematics & Statistics | — |
+| AIH-06211 | Convexity Gap | Mathematics | Mathematics & Statistics | [2026](https://doi.org/10.2139/ssrn.6543859) (source only) |
+| AIH-06234 | Convolution Integral | Mathematics | Mathematics & Statistics | [1980](https://doi.org/10.1007/978-94-009-9130-9_12) (source only) |
+| AIH-06257 | Cook's Distance | Mathematics | Mathematics & Statistics | [2011](https://doi.org/10.1007/978-3-642-04898-2_189) (source only) |
 | AIH-06279 | Correlation | Mathematics | Mathematics & Statistics | — |
 | AIH-06301 | Correlation Does Not Imply Causation | Mathematics | Mathematics & Statistics | — |
-| AIH-06323 | Correlation Matrix | Mathematics | Mathematics & Statistics | — |
+| AIH-06323 | Correlation Matrix | Mathematics | Mathematics & Statistics | [1982](https://doi.org/10.2172/5152227) (source only) |
 | AIH-06345 | Count-Min Sketch | Mathematics | Mathematics & Statistics | — |
-| AIH-06365 | Countable Set | Mathematics | Mathematics & Statistics | — |
-| AIH-06384 | Covariance Matrix | Mathematics | Mathematics & Statistics | — |
+| AIH-06365 | Countable Set | Mathematics | Mathematics & Statistics | [1970](https://doi.org/10.1016/0003-4843(70)90005-7) (source only) |
+| AIH-06384 | Covariance Matrix | Mathematics | Mathematics & Statistics | [1963](https://doi.org/10.21236/ad0299080) (source only) |
 | AIH-06403 | Covariate Balance | Mathematics | Mathematics & Statistics | — |
 | AIH-06422 | Cox Proportional Hazards Model | Mathematics | Mathematics & Statistics | — |
 | AIH-06440 | CP Decomposition | Mathematics | Mathematics & Statistics | — |
 | AIH-06458 | Cramer's Rule | Mathematics | Mathematics & Statistics | — |
-| AIH-06476 | Critical Point | Mathematics | Mathematics & Statistics | — |
-| AIH-06494 | Cross Product | Mathematics | Mathematics & Statistics | — |
+| AIH-06476 | Critical Point | Mathematics | Mathematics & Statistics | [1981](https://doi.org/10.1007/bf01019452) (source only) |
+| AIH-06494 | Cross Product | Mathematics | Mathematics & Statistics | [2001](https://doi.org/10.1017/cbo9780511526022.009) (source only) |
 | AIH-06511 | Cross-Correlation | Mathematics | Mathematics & Statistics | — |
 | AIH-06528 | Cross-Validated Estimate | Mathematics | Mathematics & Statistics | — |
 | AIH-06545 | Cryptographically Secure Randomness | Mathematics | Mathematics & Statistics | — |

@@ -147,29 +147,29 @@
 | AIH-04454 | Differentiable Memory | Deep Learning | Deep Learning | [2024](https://doi.org/10.1609/aaai.v38i15.29636) (source only) |
 | AIH-01661 | Diffusion Transformer (DiT) | Deep Learning | Models & Architectures | — |
 | AIH-04487 | Dilated Attention | Deep Learning | Deep Learning | [2022](https://doi.org/10.2139/ssrn.4226726) (source only) |
-| AIH-04520 | Dilated Convolution | Deep Learning | Deep Learning | — |
+| AIH-04520 | Dilated Convolution | Deep Learning | Deep Learning | [2010](https://doi.org/10.5831/hmj.2010.32.1.101) (source only) |
 | AIH-01699 | DINOv2 | Deep Learning | Models & Architectures | — |
-| AIH-04553 | Direct Logit Attribution | Deep Learning | Deep Learning | — |
-| AIH-04586 | Discriminative Learning Rates | Deep Learning | Deep Learning | — |
+| AIH-04553 | Direct Logit Attribution | Deep Learning | Deep Learning | [2024](https://doi.org/10.18653/v1/2024.blackboxnlp-1.15) (source only) |
+| AIH-04586 | Discriminative Learning Rates | Deep Learning | Deep Learning | [2024](https://doi.org/10.1186/s13014-024-02496-5) ★ (estimated) |
 | AIH-01737 | DistilBERT | Deep Learning | Models & Architectures | — |
-| AIH-04619 | Distillation from a Larger Model | Deep Learning | Deep Learning | — |
+| AIH-04619 | Distillation from a Larger Model | Deep Learning | Deep Learning | [2024](https://doi.org/10.31219/osf.io/54p96) ★ (estimated) |
 | AIH-04652 | Domain-Adaptive Pretraining | Deep Learning | Deep Learning | — |
 | AIH-04685 | DoRA | Deep Learning | Deep Learning | — |
-| AIH-04718 | Downsampling Layer | Deep Learning | Deep Learning | — |
+| AIH-04718 | Downsampling Layer | Deep Learning | Deep Learning | [2022](https://doi.org/10.3390/machines10121165) (source only) |
 | AIH-01775 | DPR | Deep Learning | Models & Architectures | — |
-| AIH-04750 | DropConnect | Deep Learning | Deep Learning | — |
+| AIH-04750 | DropConnect | Deep Learning | Deep Learning | [2015](https://doi.org/10.1016/j.neucom.2015.04.006) (source only) |
 | AIH-04782 | Dropout | Deep Learning | Deep Learning | — |
 | AIH-04814 | DropPath | Deep Learning | Deep Learning | — |
 | AIH-04846 | Duplicate Token Head | Deep Learning | Deep Learning | — |
 | AIH-04878 | Dying ReLU Problem | Deep Learning | Deep Learning | — |
-| AIH-04910 | Dynamic Shape | Deep Learning | Deep Learning | — |
-| AIH-04942 | Dynamical Isometry | Deep Learning | Deep Learning | — |
+| AIH-04910 | Dynamic Shape | Deep Learning | Deep Learning | [1969](https://doi.org/10.1007/978-1-4615-6558-1_10) (source only) |
+| AIH-04942 | Dynamical Isometry | Deep Learning | Deep Learning | [2023](https://doi.org/10.1109/dac56929.2023.10247782) (source only) |
 | AIH-01813 | E5 Embedding Model | Deep Learning | Models & Architectures | — |
 | AIH-01851 | Early Fusion | Deep Learning | Models & Architectures | [1996](https://doi.org/10.13182/fst96-a11963044) (source only) |
 | AIH-04974 | Effective Batch Size | Deep Learning | Deep Learning | — |
-| AIH-05006 | Effective Context | Deep Learning | Deep Learning | — |
+| AIH-05006 | Effective Context | Deep Learning | Deep Learning | [2025](https://doi.org/10.21437/interspeech.2025-1932) (source only) |
 | AIH-05038 | Effective Context Utilization | Deep Learning | Deep Learning | — |
-| AIH-05070 | Effective Depth | Deep Learning | Deep Learning | — |
+| AIH-05070 | Effective Depth | Deep Learning | Deep Learning | [1961](https://doi.org/10.1103/physrev.124.16) (source only) |
 | AIH-01889 | ELECTRA | Deep Learning | Models & Architectures | — |
 | AIH-01927 | Embedding Model | Deep Learning | Models & Architectures | [2022](https://doi.org/10.1145/3542637.3542645) (source only) |
 | AIH-01965 | EnCodec | Deep Learning | Models & Architectures | — |
@@ -242,24 +242,24 @@
 | AIH-04422 | Pixtral | Deep Learning | Models & Architectures | — |
 | AIH-04455 | Pluribus | Deep Learning | Models & Architectures | [1904](https://doi.org/10.5479/sil.776763.39088011387511) (source only) |
 | AIH-04488 | Projection Layer for Multimodality | Deep Learning | Models & Architectures | — |
-| AIH-04521 | Protein Language Model (PLM) | Deep Learning | Models & Architectures | — |
-| AIH-04554 | Pythia | Deep Learning | Models & Architectures | — |
-| AIH-04587 | Qwen | Deep Learning | Models & Architectures | — |
-| AIH-04620 | Qwen-VL | Deep Learning | Models & Architectures | — |
+| AIH-04521 | Protein Language Model (PLM) | Deep Learning | Models & Architectures | [2024](https://doi.org/10.1101/2024.10.09.617427) (source only) |
+| AIH-04554 | Pythia | Deep Learning | Models & Architectures | [2023](https://doi.org/10.48550/arxiv.2304.01373) (source only) |
+| AIH-04587 | Qwen | Deep Learning | Models & Architectures | [2023](https://doi.org/10.48550/arxiv.2311.07919) (source only) |
+| AIH-04620 | Qwen-VL | Deep Learning | Models & Architectures | [2023](https://doi.org/10.48550/arxiv.2308.12966) (source only) |
 | AIH-04653 | RankGPT | Deep Learning | Models & Architectures | — |
 | AIH-04686 | RegNet | Deep Learning | Models & Architectures | — |
 | AIH-04719 | Regression Head | Deep Learning | Models & Architectures | — |
-| AIH-04751 | ResNeXt | Deep Learning | Models & Architectures | — |
-| AIH-04783 | RetNet | Deep Learning | Models & Architectures | — |
+| AIH-04751 | ResNeXt | Deep Learning | Models & Architectures | [2022](https://doi.org/10.54706/senastindo.v4.2022.207) (source only) |
+| AIH-04783 | RetNet | Deep Learning | Models & Architectures | [2023](https://doi.org/10.1109/ecce57851.2023.10101661) (source only) |
 | AIH-04815 | Reward Model Architecture | Deep Learning | Models & Architectures | — |
 | AIH-04847 | RoBERTa | Deep Learning | Models & Architectures | — |
-| AIH-04879 | Router Collapse | Deep Learning | Models & Architectures | — |
+| AIH-04879 | Router Collapse | Deep Learning | Models & Architectures | [2009](https://doi.org/10.1007/s00138-009-0221-z) (source only) |
 | AIH-04911 | Runway Gen Models | Deep Learning | Models & Architectures | — |
-| AIH-04943 | RWKV | Deep Learning | Models & Architectures | — |
+| AIH-04943 | RWKV | Deep Learning | Models & Architectures | [2024](https://doi.org/10.20944/preprints202412.1705.v1) (source only) |
 | AIH-04975 | S4 | Deep Learning | Models & Architectures | — |
 | AIH-05007 | SDXL Turbo | Deep Learning | Models & Architectures | — |
-| AIH-05039 | Shared Expert | Deep Learning | Models & Architectures | — |
-| AIH-05071 | ShuffleNet | Deep Learning | Models & Architectures | — |
+| AIH-05039 | Shared Expert | Deep Learning | Models & Architectures | [2025](https://doi.org/10.3102/2196573) (source only) |
+| AIH-05071 | ShuffleNet | Deep Learning | Models & Architectures | [1988](https://doi.org/10.1145/52324.52328) (source only) |
 | AIH-00126 | Abstention Rate | Evaluation & Metrics | Evaluation & Metrics | [1998](https://doi.org/10.4200/jjhg1948.50.507) (source only) |
 | AIH-00164 | Acceptance Criteria | Evaluation & Metrics | Evaluation & Metrics | [1978](https://doi.org/10.2172/5580038) (source only) |
 | AIH-00202 | Acceptance Rate of Suggestions | Evaluation & Metrics | Evaluation & Metrics | — |
@@ -378,19 +378,19 @@
 | AIH-04410 | Release Readiness Review | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-04443 | Residual Analysis | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-04476 | Risk-Coverage Curve | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-04509 | Root Mean Squared Error (RMSE) | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-04542 | Rubric Scoring | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-04575 | Sample Size Justification | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-04509 | Root Mean Squared Error (RMSE) | Evaluation & Metrics | Evaluation & Metrics | [2014](https://doi.org/10.4135/9781473996991) (source only) |
+| AIH-04542 | Rubric Scoring | Evaluation & Metrics | Evaluation & Metrics | [2004](https://openalex.org/W1520485955) (source only) |
+| AIH-04575 | Sample Size Justification | Evaluation & Metrics | Evaluation & Metrics | [1998](https://doi.org/10.1159/000026154) (source only) |
 | AIH-04608 | Sampled Evaluation | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-04641 | Scale-Dependent Metric | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-04674 | Scale-Free Metric | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-04707 | Score Variance Across Runs | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-04740 | Selective Prediction | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-04772 | Self-Preference Bias | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-04740 | Selective Prediction | Evaluation & Metrics | Evaluation & Metrics | [2019](https://doi.org/10.1093/schbul/sbz018.486) (source only) |
+| AIH-04772 | Self-Preference Bias | Evaluation & Metrics | Evaluation & Metrics | [2026](https://doi.org/10.1109/tem.2026.3691360) (source only) |
 | AIH-04804 | Semantic Equivalence Check | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-04836 | Shortcut Learning | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-04836 | Shortcut Learning | Evaluation & Metrics | Evaluation & Metrics | [2021](https://doi.org/10.3390/diagnostics12010040) (source only) |
 | AIH-04868 | Significance Testing for Models | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-04900 | Spurious Correlation Robustness | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-04900 | Spurious Correlation Robustness | Evaluation & Metrics | Evaluation & Metrics | [2026](https://doi.org/10.1007/s10994-026-07164-1) (source only) |
 | AIH-04932 | Staleness of Model Knowledge | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-04964 | Stress Test for Models | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-04996 | Systematic Generalization | Evaluation & Metrics | Evaluation & Metrics | — |

@@ -85,22 +85,22 @@
 | AIH-04412 | Open Standard | People & Organizations | People & Organizations | — |
 | AIH-04445 | OpenReview | People & Organizations | People & Organizations | [2021](https://doi.org/10.1007/978-3-030-85896-4_6) (source only) |
 | AIH-04478 | Papers with Code Platform | People & Organizations | People & Organizations | — |
-| AIH-04511 | Participatory Design | People & Organizations | People & Organizations | — |
+| AIH-04511 | Participatory Design | People & Organizations | People & Organizations | [1991](https://doi.org/10.1145/108844.108896) (source only) |
 | AIH-04544 | Perceptrons Book | People & Organizations | People & Organizations | — |
-| AIH-04577 | Peter Norvig | People & Organizations | People & Organizations | — |
+| AIH-04577 | Peter Norvig | People & Organizations | People & Organizations | [1992](https://openalex.org/W654026666) (source only) |
 | AIH-04610 | Pieter Abbeel | People & Organizations | People & Organizations | — |
-| AIH-04643 | Platform Dependency | People & Organizations | People & Organizations | — |
-| AIH-04676 | Procurement Authority | People & Organizations | People & Organizations | — |
+| AIH-04643 | Platform Dependency | People & Organizations | People & Organizations | [2020](https://doi.org/10.1177/1461444820926472) (source only) |
+| AIH-04676 | Procurement Authority | People & Organizations | People & Organizations | [1977](https://doi.org/10.1016/0019-8501(77)90063-3) (source only) |
 | AIH-04709 | Public Compute Infrastructure | People & Organizations | People & Organizations | — |
 | AIH-04742 | Public Interest Technology | People & Organizations | People & Organizations | — |
-| AIH-04774 | Publication Norms | People & Organizations | People & Organizations | — |
-| AIH-04806 | Regulator | People & Organizations | People & Organizations | — |
+| AIH-04774 | Publication Norms | People & Organizations | People & Organizations | [2005](https://doi.org/10.1111/j.1467-9272.2005.00501.x) (source only) |
+| AIH-04806 | Regulator | People & Organizations | People & Organizations | [1913](https://doi.org/10.5962/bhl.title.115255) (source only) |
 | AIH-04838 | Research Reproducibility Checklist | People & Organizations | People & Organizations | — |
-| AIH-04870 | Rich Caruana | People & Organizations | People & Organizations | — |
-| AIH-04902 | Richard Sutton | People & Organizations | People & Organizations | — |
-| AIH-04934 | Rodney Brooks | People & Organizations | People & Organizations | — |
-| AIH-04966 | Scaling Hypothesis | People & Organizations | People & Organizations | — |
-| AIH-04998 | Sebastian Thrun | People & Organizations | People & Organizations | — |
+| AIH-04870 | Rich Caruana | People & Organizations | People & Organizations | [2024](https://doi.org/10.18043/001c.120567) (source only) |
+| AIH-04902 | Richard Sutton | People & Organizations | People & Organizations | [1917](https://doi.org/10.1002/ncr.4110060126) (source only) |
+| AIH-04934 | Rodney Brooks | People & Organizations | People & Organizations | [2003](https://doi.org/10.7551/mitpress/4412.003.0026) (source only) |
+| AIH-04966 | Scaling Hypothesis | People & Organizations | People & Organizations | [1970](https://doi.org/10.1007/bf02824303) (source only) |
+| AIH-04998 | Sebastian Thrun | People & Organizations | People & Organizations | [1999](https://doi.org/10.1017/s0269888999211034) (source only) |
 | AIH-05030 | Shannon Vallor | People & Organizations | People & Organizations | — |
 | AIH-05062 | SIGGRAPH | People & Organizations | People & Organizations | — |
 | AIH-05094 | Stability AI | People & Organizations | People & Organizations | — |
@@ -222,24 +222,24 @@
 | AIH-04413 | Exception versus Result Type | Programming & Software | Programming & Software | — |
 | AIH-04446 | Facade Pattern | Programming & Software | Programming & Software | [2012](https://doi.org/10.11108/kagis.2012.15.2.046) (source only) |
 | AIH-04479 | Factory Pattern | Programming & Software | Programming & Software | [2003](https://doi.org/10.1007/978-1-4302-0776-4_15) (source only) |
-| AIH-04512 | Fail Fast | Programming & Software | Programming & Software | — |
-| AIH-04545 | False Positive in Review | Programming & Software | Programming & Software | — |
-| AIH-04578 | False Sharing | Programming & Software | Programming & Software | — |
-| AIH-04611 | Feature Branch | Programming & Software | Programming & Software | — |
-| AIH-04644 | Feedback Loop Speed | Programming & Software | Programming & Software | — |
+| AIH-04512 | Fail Fast | Programming & Software | Programming & Software | [2004](https://doi.org/10.1109/ms.2004.1331296) (source only) |
+| AIH-04545 | False Positive in Review | Programming & Software | Programming & Software | [2026](https://doi.org/10.66571/tsarka-3134-6057-07) ★ (estimated) |
+| AIH-04578 | False Sharing | Programming & Software | Programming & Software | [1991](https://openalex.org/W114707664) (source only) |
+| AIH-04611 | Feature Branch | Programming & Software | Programming & Software | [2018](https://doi.org/10.1016/j.bspc.2018.05.013) (source only) |
+| AIH-04644 | Feedback Loop Speed | Programming & Software | Programming & Software | [2006](https://doi.org/10.1299/jsmekansai.2006.81._3-9_) ★ (estimated) |
 | AIH-04677 | Fixture | Programming & Software | Programming & Software | — |
-| AIH-04710 | Flame Graph | Programming & Software | Programming & Software | — |
-| AIH-04743 | Formatter | Programming & Software | Programming & Software | — |
+| AIH-04710 | Flame Graph | Programming & Software | Programming & Software | [2016](https://doi.org/10.1145/2909476) (source only) |
+| AIH-04743 | Formatter | Programming & Software | Programming & Software | [1974](https://doi.org/10.1145/800269.810817) (source only) |
 | AIH-04775 | Functional Correctness | Programming & Software | Programming & Software | — |
-| AIH-04807 | Garbage Collection (GC) | Programming & Software | Programming & Software | — |
+| AIH-04807 | Garbage Collection (GC) | Programming & Software | Programming & Software | [2025](https://doi.org/10.17762/ijisae.v13i2s.8195) (source only) |
 | AIH-04839 | Generic Programming | Programming & Software | Programming & Software | — |
 | AIH-04871 | Git | Programming & Software | Programming & Software | — |
 | AIH-04903 | Global Interpreter Lock (GIL) | Programming & Software | Programming & Software | — |
 | AIH-04935 | Graceful Error Message | Programming & Software | Programming & Software | — |
-| AIH-04967 | Gradual Typing | Programming & Software | Programming & Software | — |
+| AIH-04967 | Gradual Typing | Programming & Software | Programming & Software | [2008](https://doi.org/10.1145/1411273.1411284) (source only) |
 | AIH-04999 | GraphQL | Programming & Software | Programming & Software | — |
 | AIH-05031 | Green Thread | Programming & Software | Programming & Software | — |
-| AIH-05063 | gRPC | Programming & Software | Programming & Software | — |
+| AIH-05063 | gRPC | Programming & Software | Programming & Software | [2026](https://doi.org/10.1007/s11227-026-08912-9) (source only) |
 | AIH-05095 | Hermetic Build | Programming & Software | Programming & Software | — |
 | AIH-00131 | Adiabatic Quantum Computation | Quantum & Emerging Compute | Quantum & Emerging Compute | [1998](https://doi.org/10.1016/s0038-1098(97)10001-1) (source only) |
 | AIH-00169 | Amplitude Encoding | Quantum & Emerging Compute | Quantum & Emerging Compute | [1987](https://openalex.org/W2382907206) (source only) |

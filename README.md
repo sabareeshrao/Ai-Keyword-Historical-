@@ -6,11 +6,9 @@
 
 ## Concurrent recovery research (separate series)
 
-**[Recovery 004: first 1,000 previously unresolved records](batches/DATE_RESEARCH_004_RECOVERY_FIRST_1000.md)** — separate recovery project, 31 independently reviewed dated leads (26 references + 5 ★ estimates), 969 pending. This work is preserved and not overwritten by the new 2,000-ID research batch.
+**[Recovery 004: first 1,000 previously unresolved records](batches/DATE_RESEARCH_004_RECOVERY_FIRST_1000.md)** — separate recovery project, 25 independently reviewed dated leads (23 references + 2 ★ estimates), 975 pending. This work is preserved and not overwritten by the new 2,000-ID research batch.
 
-**[Recovery 004 QA report](data/DATE_RESEARCH_004_REPORT.json)** — 31 reviews and status of remaining unresolved terms.
-
-**[Recovery methodology](docs/HISTORICAL_DATE_RECOVERY_PROTOCOL.md)** · [Exact-phrase research candidate script](scripts/recovery_evidence_discovery.py). Source candidates require original-publication verification before being treated as historical dates.
+**[Recovery 004 QA report](data/DATE_RESEARCH_004_REPORT.json)** — 25 reviews and status of remaining unresolved terms.
 
 ## Date research progress
 
@@ -30,6 +28,8 @@
 
 **[Research batch 005 report](data/DATE_RESEARCH_005_REPORT.json)** — audit totals and provenance rules.
 
+**[Date research 006: Next 2,000 keywords (AIH-04501–AIH-06500)](batches/DATE_RESEARCH_006_NEXT_2000.md)** — four full 500-row tables with dated publications, estimated years ★, and unresolved records.
+**[Research batch 006 QA report](data/DATE_RESEARCH_006_REPORT.json)** — actual counts, source status, and evidence limitations.
 ## Browse complete keyword tables
 
 | Inventory set | Added keywords | Full tables | ID range |
