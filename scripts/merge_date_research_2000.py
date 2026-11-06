@@ -5,9 +5,9 @@ from pathlib import Path
 from collections import Counter
 ROOT=Path(__file__).resolve().parents[1]
 MASTER=ROOT/"data/KEYWORD_INVENTORY.csv"
-REPORT=ROOT/"data/DATE_RESEARCH_004_REPORT.json"
-INDEX=ROOT/"batches/DATE_RESEARCH_004_NEXT_2000.md"
-PAGES=ROOT/"batches/date-research-004"
+REPORT=ROOT/"data/DATE_RESEARCH_005_REPORT.json"
+INDEX=ROOT/"batches/DATE_RESEARCH_005_NEXT_2000.md"
+PAGES=ROOT/"batches/date-research-005"
 STAGING=ROOT/"data/date_staging"
 NEW_FIELDS=["historical_evidence_date","historical_evidence_type","historical_evidence_title",
 "historical_evidence_url","historical_evidence_authors","historical_evidence_notes",
@@ -75,7 +75,7 @@ def main():
         w.writeheader();w.writerows(all_rows)
     PAGES.mkdir(parents=True,exist_ok=True)
     index=[
-       "# Date Research 004 — Next 2,000 Keywords","",
+       "# Date Research 005 — Next 2,000 Keywords","",
        "Complete 2,000 permanent IDs: AIH-02501–AIH-04500. Four readable tables of 500 each.","",
        "**Date legend:** Unstarred dates refer to documented publications, not verified term coinage. **★** denotes an estimated historical year inferred from related scholarly research, always low confidence. — means unresolved.","",
        "All first-use dates remain unverified. Existing 2,500 previously researched IDs were not modified.","",
@@ -84,11 +84,11 @@ def main():
     for i in range(4):
         block=changed[i*500:(i+1)*500]
         page=f"page-{i+1:02d}.md"
-        index.append(f"| {i+1} | {block[0]['id']}–{block[-1]['id']} | 500 | [Open table](date-research-004/{page}) |")
+        index.append(f"| {i+1} | {block[0]['id']}–{block[-1]['id']} | 500 | [Open table](date-research-005/{page}) |")
         lines=[
-          f"# Date Research 004 — Table {i+1}/4","",
+          f"# Date Research 005 — Table {i+1}/4","",
           f"500 keywords: {block[0]['id']} through {block[-1]['id']}.","",
-          "[Back to index](../DATE_RESEARCH_004_NEXT_2000.md) | [Master database](../../data/KEYWORD_INVENTORY.csv)","",
+          "[Back to index](../DATE_RESEARCH_005_NEXT_2000.md) | [Master database](../../data/KEYWORD_INVENTORY.csv)","",
           "**★ means an estimated year, not the first verified historical use.**","",
           "| ID | Keyword | Category | Date | Classification | Source |",
           "|---|---|---|---|---|---|"]
@@ -115,9 +115,9 @@ def main():
             f"| Estimated years ★ | {tally['estimated_star_dates']} |",
             f"| Unresolved | {tally['unresolved']} |",
             "| Verified earliest term-use dates | 0 |","",
-            "[Research report](../data/DATE_RESEARCH_004_REPORT.json) | [Master CSV](../data/KEYWORD_INVENTORY.csv)",""]
+            "[Research report](../data/DATE_RESEARCH_005_REPORT.json) | [Master CSV](../data/KEYWORD_INVENTORY.csv)",""]
     INDEX.write_text("\n".join(index)+"\n",encoding="utf-8")
-    report={"batch":"DATE_RESEARCH_004","range":["AIH-02501","AIH-04500"],
+    report={"batch":"DATE_RESEARCH_005","range":["AIH-02501","AIH-04500"],
             "examined":2000,**dict(tally),
             "dated_or_estimated":tally["documented_source_dates"]+tally["estimated_star_dates"],
             "verified_original_first_use":0,"existing_first_2500_unchanged":True,
