@@ -25,7 +25,7 @@ all_index=[
 "",
 "Every keyword is included, not a short preview. Four batches of 5,000; each divided into ten GitHub-friendly tables of 500 rows.",
 "",
-"**Organization:** field A-Z, keyword A-Z. Permanent IDs are unchanged. Historical dates are blank until independently researched.",
+"**Organization:** field A-Z, keyword A-Z. Permanent IDs are unchanged. Historical first-use dates remain blank until verified; some rows display dated research-source attestations.",
 "",
 "| Batch | Full keyword index | Count |",
 "|---|---|---:|",
@@ -61,18 +61,23 @@ for number in ["001","002","003","004"]:
         lines=[
             "# Batch "+number+" — Full keyword table "+str(page).zfill(2)+"/10",
             "",
-            "500 keywords; sorted by category then alphabetically. Historical first-use date is pending research.",
+            "500 keywords sorted by category then alphabetically. A linked date is a documented publication or milestone, not confirmed earliest use of the term.",
             "",
             "[Back to Batch "+number+" index](../../batches/INVENTORY_"+number+"_5000.md)",
             "",
-            "| ID | Keyword | Field | Subfield | First-used date |",
+            "| ID | Keyword | Field | Subfield | Source date (first use unverified) |",
             "|---|---|---|---|---|"
         ]
         for r in block:
-            date=clean(r.get("first_use_date")) or "—"
+            date=clean(r.get("first_use_date"))
+            if not date and r.get("historical_evidence_date"):
+                d=clean(r["historical_evidence_date"])
+                u=clean(r.get("historical_evidence_url"))
+                date=("["+d+"]("+u+")" if u else d)+" (source only)"
+            date=date or "—"
             lines.append("| "+ " | ".join([clean(r["id"]),clean(r["keyword"]),clean(r["field"]),clean(r["subfield"]),date])+" |")
             category_pages[r["field"]].add(page)
-        lines += ["","— means first-used date has not yet been independently verified.",
+        lines += ["","— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.",
                   "", "[Source master file](../../data/KEYWORD_INVENTORY.csv)"]
         (directory/("page-"+str(page).zfill(2)+".md")).write_text("\n".join(lines)+"\n",encoding="utf-8")
         first=clean(block[0]["keyword"])
