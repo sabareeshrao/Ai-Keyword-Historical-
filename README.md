@@ -4,11 +4,11 @@
 
 > **Research status:** First-use historical dates remain unverified, and individual relevance of source-derived technical terms needs expert review. A source ontology topic is not proof that the term originated on any particular date.
 
-## Recovery research 004 — in progress (2026-11-06)
+## Concurrent recovery research (separate series)
 
-**[First 1,000 previously undated records — recovery tables](batches/DATE_RESEARCH_004_RECOVERY_FIRST_1000.md)**: 25 independently reviewed dated leads (23 qualified documentations and 2 ★ estimates); 975 remain unresolved and are **not yet researched in this recovery pass**. All IDs and the original 1,350 source attestations were preserved. [QA report](data/DATE_RESEARCH_004_REPORT.json).
+**[Recovery 004: first 1,000 previously unresolved records](batches/DATE_RESEARCH_004_RECOVERY_FIRST_1000.md)** — separate recovery project, 25 independently reviewed dated leads (23 references + 2 ★ estimates), 975 pending. This work is preserved and not overwritten by the new 2,000-ID research batch.
 
-Per the 2026-11-06 handover, the active operational recovery selection size is **1,000**, superseding the older 100-entry workflow size. A selected record is not automatically a completed research record.
+**[Recovery 004 QA report](data/DATE_RESEARCH_004_REPORT.json)** — 25 reviews and status of remaining unresolved terms.
 
 ## Date research progress
 
@@ -23,6 +23,10 @@ Per the 2026-11-06 handover, the active operational recovery selection size is *
 **[Date research 003: Next 1,000 terms (AIH-01501–AIH-02500)](batches/DATE_RESEARCH_003_NEXT_1000.md)** — two full 500-row tables with cited source dates. These are not proven term-origin dates.
 
 **[Date research 003 audit](data/DATE_RESEARCH_003_REPORT.json)** — count of retrieved dates and unresolved terms.
+
+**[Date research 005: 2,000 keywords (AIH-02501–AIH-04500)](batches/DATE_RESEARCH_005_NEXT_2000.md)** — four 500-row tables with dated source citations, low-confidence starred (★) estimates, and unresolved records.
+
+**[Research batch 005 report](data/DATE_RESEARCH_005_REPORT.json)** — audit totals and provenance rules.
 
 ## Browse complete keyword tables
 

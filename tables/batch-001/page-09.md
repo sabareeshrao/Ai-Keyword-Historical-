@@ -6,41 +6,41 @@
 
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
-| AIH-03294 | Learning from Observation | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-03294 | Learning from Observation | Reinforcement Learning | Reinforcement Learning | [1983](https://doi.org/10.1016/b978-0-08-051054-5.50015-7) (source only) |
 | AIH-03331 | Maximization Bias | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-03368 | Maximum Entropy IRL (MaxEnt IRL) | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-03405 | Maximum Entropy RL | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-03441 | Meta-Reinforcement Learning | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-03477 | Model-Based Planning | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03513 | Monte Carlo Return | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03549 | Multi-Agent Reinforcement Learning (MARL) | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03585 | Multi-Discrete Action | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03621 | N-Step Return | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03657 | Noisy Networks | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-03513 | Monte Carlo Return | Reinforcement Learning | Reinforcement Learning | [1967](https://doi.org/10.2467/mripapers1950.18.4_327) ★ (estimated) |
+| AIH-03549 | Multi-Agent Reinforcement Learning (MARL) | Reinforcement Learning | Reinforcement Learning | [2020](https://doi.org/10.1109/ictc49870.2020.9289369) (source only) |
+| AIH-03585 | Multi-Discrete Action | Reinforcement Learning | Reinforcement Learning | [2024](https://doi.org/10.48550/arxiv.2407.01310) (source only) |
+| AIH-03621 | N-Step Return | Reinforcement Learning | Reinforcement Learning | [2023](https://doi.org/10.1109/icassp49357.2023.10095235) (source only) |
+| AIH-03657 | Noisy Networks | Reinforcement Learning | Reinforcement Learning | [1959](https://doi.org/10.7551/mitpress/1838.003.0006) (source only) |
 | AIH-03693 | Nonstationarity in Multi-Agent Learning | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03729 | Normalized Score | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03765 | Observation | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03801 | Off-Policy Correction | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-03729 | Normalized Score | Reinforcement Learning | Reinforcement Learning | [2013](https://doi.org/10.1007/978-3-319-03844-5_6) (source only) |
+| AIH-03765 | Observation | Reinforcement Learning | Reinforcement Learning | [1989](https://doi.org/10.4135/9781412985376.n1) (source only) |
+| AIH-03801 | Off-Policy Correction | Reinforcement Learning | Reinforcement Learning | [2019](https://doi.org/10.1145/3289600.3290999) (source only) |
 | AIH-03837 | Offline RL Dataset | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03873 | Opponent Modelling | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03909 | Optimal Value Function | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03945 | Optimism in the Face of Uncertainty | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03981 | Option | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-03873 | Opponent Modelling | Reinforcement Learning | Reinforcement Learning | [2004](https://doi.org/10.1007/978-3-540-25940-4_11) (source only) |
+| AIH-03909 | Optimal Value Function | Reinforcement Learning | Reinforcement Learning | [1976](https://doi.org/10.21236/ada026374) (source only) |
+| AIH-03945 | Optimism in the Face of Uncertainty | Reinforcement Learning | Reinforcement Learning | [2008](https://doi.org/10.1007/s11023-008-9115-5) (source only) |
+| AIH-03981 | Option | Reinforcement Learning | Reinforcement Learning | [2018](https://doi.org/10.32614/cran.package.optionstrat) (source only) |
 | AIH-04017 | Overfitting to a Level | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-04052 | Parameterized Action | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04087 | Perfect Information Game | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-04087 | Perfect Information Game | Reinforcement Learning | Reinforcement Learning | [2007](https://doi.org/10.12988/ijcms.2007.07090) (source only) |
 | AIH-04122 | Pessimistic Value Estimate | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04157 | Policy Collapse | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04192 | Policy Evaluation | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-04157 | Policy Collapse | Reinforcement Learning | Reinforcement Learning | [2001](https://doi.org/10.1093/oso/9780195143300.003.0001) (source only) |
+| AIH-04192 | Policy Evaluation | Reinforcement Learning | Reinforcement Learning | [1986](https://doi.org/10.1016/s0886-1633(86)80041-1) (source only) |
 | AIH-04227 | Policy Gradient Theorem | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04262 | Policy Improvement | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04296 | Policy Iteration | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04329 | POMDP | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04362 | Potential-Based Shaping | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04395 | PPO (Proximal Policy Optimization) | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-04262 | Policy Improvement | Reinforcement Learning | Reinforcement Learning | [2017](https://doi.org/10.5220/0007330904280437) (source only) |
+| AIH-04296 | Policy Iteration | Reinforcement Learning | Reinforcement Learning | [1991](https://doi.org/10.1007/bf01415991) (source only) |
+| AIH-04329 | POMDP | Reinforcement Learning | Reinforcement Learning | [2000](https://doi.org/10.21236/ada486565) (source only) |
+| AIH-04362 | Potential-Based Shaping | Reinforcement Learning | Reinforcement Learning | [2003](https://doi.org/10.1613/jair.1190) (source only) |
+| AIH-04395 | PPO (Proximal Policy Optimization) | Reinforcement Learning | Reinforcement Learning | [2018](https://doi.org/10.1109/robio.2018.8665088) (source only) |
 | AIH-04428 | Prediction Error Bonus | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04461 | Preference-Based RL | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-04494 | Prioritized Experience Replay | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-04461 | Preference-Based RL | Reinforcement Learning | Reinforcement Learning | [2023](https://doi.org/10.52202/075280-0825) (source only) |
+| AIH-04494 | Prioritized Experience Replay | Reinforcement Learning | Reinforcement Learning | [2017](https://doi.org/10.1109/smc.2017.8122622) (source only) |
 | AIH-04527 | Procedural Environment Generation | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-04560 | Pseudo-Count | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-04593 | Q-Learning Update | Reinforcement Learning | Reinforcement Learning | — |
@@ -122,54 +122,54 @@
 | AIH-02396 | Extended Kalman Filter (EKF) | Robotics | Robotics & Autonomous Systems | — |
 | AIH-02434 | Extrinsic Calibration | Robotics | Robotics & Autonomous Systems | — |
 | AIH-02472 | Eye-in-Hand Configuration | Robotics | Robotics & Autonomous Systems | — |
-| AIH-02510 | Factor Graph Optimization | Robotics | Robotics & Autonomous Systems | — |
+| AIH-02510 | Factor Graph Optimization | Robotics | Robotics & Autonomous Systems | [2016](https://doi.org/10.1109/etfa.2016.7733598) (source only) |
 | AIH-02548 | Fallback Ready User | Robotics | Robotics & Autonomous Systems | — |
-| AIH-02586 | Fault Diagnosis | Robotics | Robotics & Autonomous Systems | — |
-| AIH-02624 | Fault Tolerance in Robotics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-02662 | Feedforward Control | Robotics | Robotics & Autonomous Systems | — |
+| AIH-02586 | Fault Diagnosis | Robotics | Robotics & Autonomous Systems | [1992](https://doi.org/10.1007/978-3-642-77179-8) (source only) |
+| AIH-02624 | Fault Tolerance in Robotics | Robotics | Robotics & Autonomous Systems | [1991](https://openalex.org/W1898896650) (source only) |
+| AIH-02662 | Feedforward Control | Robotics | Robotics & Autonomous Systems | [1981](https://doi.org/10.1007/978-3-662-02319-8_17) (source only) |
 | AIH-02700 | Finite State Machine for Robots | Robotics | Robotics & Autonomous Systems | — |
-| AIH-02738 | Flight Controller | Robotics | Robotics & Autonomous Systems | — |
+| AIH-02738 | Flight Controller | Robotics | Robotics & Autonomous Systems | [1982](https://doi.org/10.2514/6.1982-1349) (source only) |
 | AIH-02776 | Foot Placement Planning | Robotics | Robotics & Autonomous Systems | — |
 | AIH-02814 | Force Closure | Robotics | Robotics & Autonomous Systems | — |
-| AIH-02852 | Force-Torque Sensor | Robotics | Robotics & Autonomous Systems | — |
+| AIH-02852 | Force-Torque Sensor | Robotics | Robotics & Autonomous Systems | [1981](https://doi.org/10.1108/eb007537) (source only) |
 | AIH-02890 | Form Closure | Robotics | Robotics & Autonomous Systems | — |
 | AIH-02928 | Formation Control | Robotics | Robotics & Autonomous Systems | — |
 | AIH-02966 | Frankenstein complex | Robotics | Robotics & Autonomous Systems | — |
 | AIH-03004 | Functional Safety | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03042 | Gain Tuning | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03079 | Gait | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03116 | Gait Transition | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03153 | Geofencing | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03190 | Global Localization | Robotics | Robotics & Autonomous Systems | — |
+| AIH-03042 | Gain Tuning | Robotics | Robotics & Autonomous Systems | [1999](https://doi.org/10.2514/6.1999-4309) (source only) |
+| AIH-03079 | Gait | Robotics | Robotics & Autonomous Systems | [2001](https://doi.org/10.1016/s0966-6362(01)00170-9) (source only) |
+| AIH-03116 | Gait Transition | Robotics | Robotics & Autonomous Systems | [1993](https://doi.org/10.1016/0966-6362(93)90049-7) (source only) |
+| AIH-03153 | Geofencing | Robotics | Robotics & Autonomous Systems | [2009](https://doi.org/10.1109/itst.2009.5399328) (source only) |
+| AIH-03190 | Global Localization | Robotics | Robotics & Autonomous Systems | [1993](https://doi.org/10.1016/0143-6228(93)90061-5) (source only) |
 | AIH-03227 | Global Planner | Robotics | Robotics & Autonomous Systems | — |
 | AIH-03264 | Glossary of robotics | Robotics | Robotics & Autonomous Systems | — |
 | AIH-03301 | Graceful Degradation in Robots | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03338 | Grasp Planning | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03375 | Grasping | Robotics | Robotics & Autonomous Systems | — |
+| AIH-03338 | Grasp Planning | Robotics | Robotics & Autonomous Systems | [1986](https://doi.org/10.1109/robot.1986.1087523) (source only) |
+| AIH-03375 | Grasping | Robotics | Robotics & Autonomous Systems | [1953](https://doi.org/10.1037/e504542011-001) (source only) |
 | AIH-03412 | Hand-Eye Calibration | Robotics | Robotics & Autonomous Systems | — |
 | AIH-03448 | Handover | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03484 | Haptic Feedback | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03520 | Hardware-in-the-Loop (HIL) | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03556 | Human Judgment Requirement | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03592 | Humanoid Robot | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03628 | Human–robot interaction (HRI) | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03664 | Hybrid Dynamics | Robotics | Robotics & Autonomous Systems | — |
+| AIH-03484 | Haptic Feedback | Robotics | Robotics & Autonomous Systems | [2002](https://doi.org/10.1108/ir.2002.04929ead.009) (source only) |
+| AIH-03520 | Hardware-in-the-Loop (HIL) | Robotics | Robotics & Autonomous Systems | [2003](https://doi.org/10.1117/12.488588) (source only) |
+| AIH-03556 | Human Judgment Requirement | Robotics | Robotics & Autonomous Systems | [2020](https://doi.org/10.2139/ssrn.3548314) ★ (estimated) |
+| AIH-03592 | Humanoid Robot | Robotics | Robotics & Autonomous Systems | [1998](https://doi.org/10.1541/ieejjournal.118.5) (source only) |
+| AIH-03628 | Human–robot interaction (HRI) | Robotics | Robotics & Autonomous Systems | [2010](https://doi.org/10.1109/hri14376.2010) (source only) |
+| AIH-03664 | Hybrid Dynamics | Robotics | Robotics & Autonomous Systems | [2008](https://doi.org/10.1007/978-0-387-74315-8_9) (source only) |
 | AIH-03700 | Impedance Control | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03736 | IMU | Robotics | Robotics & Autonomous Systems | — |
+| AIH-03736 | IMU | Robotics | Robotics & Autonomous Systems | [2009](https://doi.org/10.2172/952099) (source only) |
 | AIH-03772 | Inflation Layer | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03808 | Integral Windup | Robotics | Robotics & Autonomous Systems | — |
+| AIH-03808 | Integral Windup | Robotics | Robotics & Autonomous Systems | [2016](https://doi.org/10.1109/wcicss.2016.7882608) (source only) |
 | AIH-03844 | ISO 10218 | Robotics | Robotics & Autonomous Systems | — |
 | AIH-03880 | ISO 26262 | Robotics | Robotics & Autonomous Systems | — |
 | AIH-03916 | Jacobian Matrix in Robotics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03952 | Jerk Limitation | Robotics | Robotics & Autonomous Systems | — |
-| AIH-03988 | Joint | Robotics | Robotics & Autonomous Systems | — |
+| AIH-03952 | Jerk Limitation | Robotics | Robotics & Autonomous Systems | [2002](https://doi.org/10.1541/ieejias.122.807) (source only) |
+| AIH-03988 | Joint | Robotics | Robotics & Autonomous Systems | [2013](https://doi.org/10.1093/acprof:oso/9780199988341.003.0013) (source only) |
 | AIH-04024 | Joint Space | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04059 | Laboratory automation | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04094 | Laboratory robotics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04129 | Latency in Teleoperation | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04164 | Laws of robotics | Robotics | Robotics & Autonomous Systems | — |
+| AIH-04059 | Laboratory automation | Robotics | Robotics & Autonomous Systems | [1996](https://doi.org/10.1177/221106829600100102) (source only) |
+| AIH-04094 | Laboratory robotics | Robotics | Robotics & Autonomous Systems | [1988](https://doi.org/10.1016/0921-8890(88)90026-7) (source only) |
+| AIH-04129 | Latency in Teleoperation | Robotics | Robotics & Autonomous Systems | [2017](https://doi.org/10.1177/0018720817734727) (source only) |
+| AIH-04164 | Laws of robotics | Robotics | Robotics & Autonomous Systems | [1980](https://doi.org/10.1525/sfs.7.2.0150) (source only) |
 | AIH-04199 | LiDAR | Robotics | Robotics & Autonomous Systems | — |
-| AIH-04234 | Light Curtain | Robotics | Robotics & Autonomous Systems | — |
+| AIH-04234 | Light Curtain | Robotics | Robotics & Autonomous Systems | [2000](https://doi.org/10.1108/aa.2000.03320bad.004) (source only) |
 | AIH-04269 | List of unmanned aerial vehicle applications | Robotics | Robotics & Autonomous Systems | — |
 | AIH-04303 | List of unmanned aerial vehicle-related incidents | Robotics | Robotics & Autonomous Systems | — |
 | AIH-04336 | Local Planner | Robotics | Robotics & Autonomous Systems | — |
@@ -259,61 +259,61 @@
 | AIH-02413 | Epitope Prediction | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-02451 | Expert Determination | Science & Healthcare AI | Science & Healthcare AI | [1997](https://doi.org/10.1016/s0267-3649(97)86897-5) (source only) |
 | AIH-02489 | External Validation | Science & Healthcare AI | Science & Healthcare AI | [2013](https://doi.org/10.1161/blog.20130802.203900) (source only) |
-| AIH-02527 | Extreme Event Attribution | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02565 | FHIR | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02603 | Force Field | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02641 | Free Energy Calculation | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02679 | Gene Expression | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02717 | Genome | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02755 | Genome-Wide Association Study (GWAS) | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02793 | Health Disparity | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02831 | Health Equity | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02869 | High-Throughput Screening (HTS) | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-02527 | Extreme Event Attribution | Science & Healthcare AI | Science & Healthcare AI | [2016](https://doi.org/10.1017/cbo9781107775541.004) (source only) |
+| AIH-02565 | FHIR | Science & Healthcare AI | Science & Healthcare AI | [2013](https://doi.org/10.1109/cbms.2013.6627810) (source only) |
+| AIH-02603 | Force Field | Science & Healthcare AI | Science & Healthcare AI | [1977](https://doi.org/10.1007/978-3-642-93063-8_8) (source only) |
+| AIH-02641 | Free Energy Calculation | Science & Healthcare AI | Science & Healthcare AI | [2011](https://doi.org/10.3724/sp.j.1260.2011.00395) (source only) |
+| AIH-02679 | Gene Expression | Science & Healthcare AI | Science & Healthcare AI | [1996](https://doi.org/10.1017/cbo9780511807350.007) (source only) |
+| AIH-02717 | Genome | Science & Healthcare AI | Science & Healthcare AI | [2010](https://doi.org/10.1186/gb-2010-11-5-207) (source only) |
+| AIH-02755 | Genome-Wide Association Study (GWAS) | Science & Healthcare AI | Science & Healthcare AI | [2004](https://doi.org/10.1002/9780471650126.dob0933) (source only) |
+| AIH-02793 | Health Disparity | Science & Healthcare AI | Science & Healthcare AI | [2002](https://doi.org/10.1016/s0033-3549(04)50182-6) (source only) |
+| AIH-02831 | Health Equity | Science & Healthcare AI | Science & Healthcare AI | [2004](https://doi.org/10.1093/oso/9780199276363.003.0003) (source only) |
+| AIH-02869 | High-Throughput Screening (HTS) | Science & Healthcare AI | Science & Healthcare AI | [2002](https://doi.org/10.1016/s0959-8049(02)81094-2) (source only) |
 | AIH-02907 | HL7 | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02945 | Human-AI Team Performance | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-02983 | Hyperspectral Imaging | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03021 | ICD Code | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-02945 | Human-AI Team Performance | Science & Healthcare AI | Science & Healthcare AI | [2019](https://doi.org/10.1609/hcomp.v7i1.5285) (source only) |
+| AIH-02983 | Hyperspectral Imaging | Science & Healthcare AI | Science & Healthcare AI | [2002](https://doi.org/10.21236/ada399744) (source only) |
+| AIH-03021 | ICD Code | Science & Healthcare AI | Science & Healthcare AI | [2019](https://doi.org/10.1109/bibm47256.2019.8983078) (source only) |
 | AIH-03058 | Image Reconstruction | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03095 | Informative Missingness | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-03095 | Informative Missingness | Science & Healthcare AI | Science & Healthcare AI | [1999](https://doi.org/10.1111/j.0006-341x.1999.00075.x) (source only) |
 | AIH-03132 | Interoperability in Health | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03169 | Inverse Problem | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-03169 | Inverse Problem | Science & Healthcare AI | Science & Healthcare AI | [1978](https://doi.org/10.1007/978-3-662-25771-5_4) (source only) |
 | AIH-03206 | Label Bias in Clinical Data | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-03243 | Land Cover Classification (LULC) | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03280 | Lead Compound | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-03280 | Lead Compound | Science & Healthcare AI | Science & Healthcare AI | [2006](https://doi.org/10.1201/9781420004779-8) (source only) |
 | AIH-03317 | Lead Optimization | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03354 | Lead Time Bias | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03391 | Length of Stay Prediction | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03427 | Length Time Bias | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-03354 | Lead Time Bias | Science & Healthcare AI | Science & Healthcare AI | [1982](https://doi.org/10.1093/oxfordjournals.aje.a113303) (source only) |
+| AIH-03391 | Length of Stay Prediction | Science & Healthcare AI | Science & Healthcare AI | [2020](https://doi.org/10.1109/inocon50539.2020.9298294) (source only) |
+| AIH-03427 | Length Time Bias | Science & Healthcare AI | Science & Healthcare AI | [2015](https://doi.org/10.53347/rid-34964) (source only) |
 | AIH-03463 | Likelihood Ratio in Diagnosis | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03499 | Linkage Disequilibrium (LD) | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03535 | Literature-Based Discovery | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-03499 | Linkage Disequilibrium (LD) | Science & Healthcare AI | Science & Healthcare AI | [2002](https://doi.org/10.1073/pnas.012672899) (source only) |
+| AIH-03535 | Literature-Based Discovery | Science & Healthcare AI | Science & Healthcare AI | [1996](https://doi.org/10.1002/(sici)1097-4571(199602)47:2<116::aid-asi3>3.0.co;2-1) (source only) |
 | AIH-03571 | Locked Algorithm | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03607 | LOINC | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03643 | Machine Learning Potential | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03679 | Materials Informatics | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-03607 | LOINC | Science & Healthcare AI | Science & Healthcare AI | [2015](https://doi.org/10.1093/jamia/ocv098) (source only) |
+| AIH-03643 | Machine Learning Potential | Science & Healthcare AI | Science & Healthcare AI | [2018](https://doi.org/10.1103/physrevb.97.054303) (source only) |
+| AIH-03679 | Materials Informatics | Science & Healthcare AI | Science & Healthcare AI | [2005](https://doi.org/10.1016/s1369-7021(05)71123-8) (source only) |
 | AIH-03715 | Medical Coding | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03751 | Medical Imaging Modality | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03787 | Missing Data in Clinical Records | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03823 | Molecular Docking | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03859 | Molecular Dynamics Simulation (MD) | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-03751 | Medical Imaging Modality | Science & Healthcare AI | Science & Healthcare AI | [1998](https://doi.org/10.1063/1.56388) (source only) |
+| AIH-03787 | Missing Data in Clinical Records | Science & Healthcare AI | Science & Healthcare AI | [2022](https://doi.org/10.22514/jocpd.2022.034) (source only) |
+| AIH-03823 | Molecular Docking | Science & Healthcare AI | Science & Healthcare AI | [2018](https://doi.org/10.5772/intechopen.72994) (source only) |
+| AIH-03859 | Molecular Dynamics Simulation (MD) | Science & Healthcare AI | Science & Healthcare AI | [2009](https://doi.org/10.1016/j.cpc.2008.09.013) (source only) |
 | AIH-03895 | Motif in Biology | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03931 | Multiple Instance Learning (MIL) | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-03967 | Multiple Sequence Alignment (MSA) | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-03931 | Multiple Instance Learning (MIL) | Science & Healthcare AI | Science & Healthcare AI | [2020](https://doi.org/10.1093/bioinformatics/btaa477) (source only) |
+| AIH-03967 | Multiple Sequence Alignment (MSA) | Science & Healthcare AI | Science & Healthcare AI | [2013](https://doi.org/10.1007/s10100-013-0324-5) (source only) |
 | AIH-04003 | Multiple Testing in Genomics | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04038 | Multispectral Imaging | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04073 | Negative Predictive Value (NPV) | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-04038 | Multispectral Imaging | Science & Healthcare AI | Science & Healthcare AI | [2004](https://doi.org/10.1002/0470020326.ch10) (source only) |
+| AIH-04073 | Negative Predictive Value (NPV) | Science & Healthcare AI | Science & Healthcare AI | [2004](https://doi.org/10.1016/s0016-5107(04)01010-7) (source only) |
 | AIH-04108 | Number Needed to Screen | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04143 | Numerical Weather Prediction (NWP) | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04178 | Off-Target Effect | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-04143 | Numerical Weather Prediction (NWP) | Science & Healthcare AI | Science & Healthcare AI | [2000](https://doi.org/10.1007/s007030070029) (source only) |
+| AIH-04178 | Off-Target Effect | Science & Healthcare AI | Science & Healthcare AI | [2013](https://doi.org/10.3389/fgene.2013.00107) (source only) |
 | AIH-04213 | Open Science | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04248 | Overdiagnosis | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04282 | PACS | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-04248 | Overdiagnosis | Science & Healthcare AI | Science & Healthcare AI | [2005](https://doi.org/10.1186/bcr1339) (source only) |
+| AIH-04282 | PACS | Science & Healthcare AI | Science & Healthcare AI | [2004](https://doi.org/10.1002/0471654787.ch10) (source only) |
 | AIH-04315 | Patient Stratification | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-04348 | Peer Review | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04381 | Pharmacogenomics | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04414 | Phase I Trial | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04447 | Phase II Trial | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-04480 | Phase III Trial | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-04381 | Pharmacogenomics | Science & Healthcare AI | Science & Healthcare AI | [2005](https://doi.org/10.1517/14622416.6.3.205) (source only) |
+| AIH-04414 | Phase I Trial | Science & Healthcare AI | Science & Healthcare AI | [2020](https://doi.org/10.32388/bfltum) (source only) |
+| AIH-04447 | Phase II Trial | Science & Healthcare AI | Science & Healthcare AI | [1979](https://doi.org/10.1007/bf03301591) (source only) |
+| AIH-04480 | Phase III Trial | Science & Healthcare AI | Science & Healthcare AI | [1998](https://doi.org/10.1016/s0140-6736(05)78751-1) (source only) |
 | AIH-04513 | Phase IV Study | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-04546 | Phylogenetic Tree | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-04579 | Physics-Informed Neural Network (PINN) | Science & Healthcare AI | Science & Healthcare AI | — |
@@ -396,60 +396,60 @@
 | AIH-02414 | Evasion Attack | Security & Privacy | Security & Privacy | — |
 | AIH-02452 | Excessive Agency | Security & Privacy | Security & Privacy | — |
 | AIH-02490 | Exfiltration Detection | Security & Privacy | Security & Privacy | [2012](https://doi.org/10.5220/0004100101010108) (source only) |
-| AIH-02528 | False Positive Rate in Security | Security & Privacy | Security & Privacy | — |
-| AIH-02566 | Fast Gradient Sign Method (FGSM) | Security & Privacy | Security & Privacy | — |
-| AIH-02604 | Field-Level Encryption | Security & Privacy | Security & Privacy | — |
+| AIH-02528 | False Positive Rate in Security | Security & Privacy | Security & Privacy | [2026](https://doi.org/10.5281/zenodo.23648250) ★ (estimated) |
+| AIH-02566 | Fast Gradient Sign Method (FGSM) | Security & Privacy | Security & Privacy | [2022](https://doi.org/10.1117/12.2623585) (source only) |
+| AIH-02604 | Field-Level Encryption | Security & Privacy | Security & Privacy | [2026](https://doi.org/10.33387/jiko.v9i1.10884) (source only) |
 | AIH-02642 | Fingerprinting a Model | Security & Privacy | Security & Privacy | — |
 | AIH-02680 | Formal Verification of Networks | Security & Privacy | Security & Privacy | — |
-| AIH-02718 | Fully Homomorphic Encryption (FHE) | Security & Privacy | Security & Privacy | — |
+| AIH-02718 | Fully Homomorphic Encryption (FHE) | Security & Privacy | Security & Privacy | [2018](https://doi.org/10.1007/s11036-018-1095-y) (source only) |
 | AIH-02756 | Fuzzing | Security & Privacy | Security & Privacy | — |
-| AIH-02794 | Garbled Circuit | Security & Privacy | Security & Privacy | — |
-| AIH-02832 | Gradient Inversion | Security & Privacy | Security & Privacy | — |
-| AIH-02870 | Gradient Masking | Security & Privacy | Security & Privacy | — |
-| AIH-02908 | Gray-Box Attack | Security & Privacy | Security & Privacy | — |
-| AIH-02946 | Hardware Security Module (HSM) | Security & Privacy | Security & Privacy | — |
+| AIH-02794 | Garbled Circuit | Security & Privacy | Security & Privacy | [2009](https://doi.org/10.1007/978-3-642-10433-6_1) (source only) |
+| AIH-02832 | Gradient Inversion | Security & Privacy | Security & Privacy | [2022](https://doi.org/10.36227/techrxiv.18254723.v1) (source only) |
+| AIH-02870 | Gradient Masking | Security & Privacy | Security & Privacy | [2012](https://doi.org/10.1145/2381716.2381733) (source only) |
+| AIH-02908 | Gray-Box Attack | Security & Privacy | Security & Privacy | [2021](https://doi.org/10.1109/tcsii.2020.3012005) (source only) |
+| AIH-02946 | Hardware Security Module (HSM) | Security & Privacy | Security & Privacy | [2009](https://doi.org/10.1007/s11623-009-0145-9) (source only) |
 | AIH-02984 | Homomorphic Encryption Inference | Security & Privacy | Security & Privacy | — |
 | AIH-03022 | Immutable Audit Log | Security & Privacy | Security & Privacy | — |
-| AIH-03059 | Incident Response Plan | Security & Privacy | Security & Privacy | — |
+| AIH-03059 | Incident Response Plan | Security & Privacy | Security & Privacy | [2011](https://doi.org/10.1109/icciautom.2011.6183952) (source only) |
 | AIH-03096 | Indicator of Compromise | Security & Privacy | Security & Privacy | — |
 | AIH-03133 | Injection Attack | Security & Privacy | Security & Privacy | — |
-| AIH-03170 | Input Validation | Security & Privacy | Security & Privacy | — |
-| AIH-03207 | Insider Threat | Security & Privacy | Security & Privacy | — |
+| AIH-03170 | Input Validation | Security & Privacy | Security & Privacy | [2006](https://doi.org/10.1007/s10664-006-9025-1) (source only) |
+| AIH-03207 | Insider Threat | Security & Privacy | Security & Privacy | [1999](https://doi.org/10.21236/ada385423) (source only) |
 | AIH-03244 | Interval Bound Propagation (IBP) | Security & Privacy | Security & Privacy | — |
-| AIH-03281 | Intrusion Detection System (IDS) | Security & Privacy | Security & Privacy | — |
-| AIH-03318 | JSON Web Token (JWT) | Security & Privacy | Security & Privacy | — |
-| AIH-03355 | Just-in-Time Access | Security & Privacy | Security & Privacy | — |
+| AIH-03281 | Intrusion Detection System (IDS) | Security & Privacy | Security & Privacy | [2005](https://doi.org/10.1109/tencon.2005.301033) (source only) |
+| AIH-03318 | JSON Web Token (JWT) | Security & Privacy | Security & Privacy | [2015](https://doi.org/10.17487/rfc7519) (source only) |
+| AIH-03355 | Just-in-Time Access | Security & Privacy | Security & Privacy | [2002](https://doi.org/10.1108/00242530210438637) (source only) |
 | AIH-03392 | K-Anonymity | Security & Privacy | Security & Privacy | — |
-| AIH-03428 | Key Management Service (KMS) | Security & Privacy | Security & Privacy | — |
+| AIH-03428 | Key Management Service (KMS) | Security & Privacy | Security & Privacy | [2025](https://doi.org/10.21428/70cb44c5.8ecb55b2) (source only) |
 | AIH-03464 | L-Diversity | Security & Privacy | Security & Privacy | — |
-| AIH-03500 | Lateral Movement | Security & Privacy | Security & Privacy | — |
-| AIH-03536 | Lawful Basis | Security & Privacy | Security & Privacy | — |
-| AIH-03572 | Local Differential Privacy (LDP) | Security & Privacy | Security & Privacy | — |
-| AIH-03608 | Malicious Model File | Security & Privacy | Security & Privacy | — |
-| AIH-03644 | Membership Inference Attack | Security & Privacy | Security & Privacy | — |
-| AIH-03680 | MITRE ATLAS | Security & Privacy | Security & Privacy | — |
-| AIH-03716 | MITRE ATT&CK | Security & Privacy | Security & Privacy | — |
+| AIH-03500 | Lateral Movement | Security & Privacy | Security & Privacy | [1965](https://doi.org/10.4095/121427) (source only) |
+| AIH-03536 | Lawful Basis | Security & Privacy | Security & Privacy | [2018](https://openalex.org/W2811142477) (source only) |
+| AIH-03572 | Local Differential Privacy (LDP) | Security & Privacy | Security & Privacy | [2025](https://doi.org/10.1007/978-981-96-2647-2_1) (source only) |
+| AIH-03608 | Malicious Model File | Security & Privacy | Security & Privacy | [2010](https://doi.org/10.1109/ccnc.2010.5421752) ★ (estimated) |
+| AIH-03644 | Membership Inference Attack | Security & Privacy | Security & Privacy | [2019](https://doi.org/10.1109/cmi48017.2019.8962136) (source only) |
+| AIH-03680 | MITRE ATLAS | Security & Privacy | Security & Privacy | [2025](https://doi.org/10.34190/eccws.24.1.3713) (source only) |
+| AIH-03716 | MITRE ATT&CK | Security & Privacy | Security & Privacy | [2020](https://doi.org/10.30534/ijatcse/2020/198952020) (source only) |
 | AIH-03752 | Model Bill of Materials (ML-BOM) | Security & Privacy | Security & Privacy | — |
-| AIH-03788 | Multi-Factor Authentication (MFA) | Security & Privacy | Security & Privacy | — |
+| AIH-03788 | Multi-Factor Authentication (MFA) | Security & Privacy | Security & Privacy | [2011](https://doi.org/10.1109/etncc.2011.5958480) (source only) |
 | AIH-03824 | Mutual TLS (mTLS) | Security & Privacy | Security & Privacy | — |
-| AIH-03860 | OAuth | Security & Privacy | Security & Privacy | — |
+| AIH-03860 | OAuth | Security & Privacy | Security & Privacy | [2025](https://doi.org/10.36227/techrxiv.174952577.74018032/v1) (source only) |
 | AIH-03896 | Obfuscated Gradients | Security & Privacy | Security & Privacy | — |
 | AIH-03932 | Oblivious Transfer (OT) | Security & Privacy | Security & Privacy | — |
-| AIH-03968 | OpenID Connect (OIDC) | Security & Privacy | Security & Privacy | — |
-| AIH-04004 | Output Encoding | Security & Privacy | Security & Privacy | — |
+| AIH-03968 | OpenID Connect (OIDC) | Security & Privacy | Security & Privacy | [2019](https://doi.org/10.1007/978-1-4842-2050-4_6) (source only) |
+| AIH-04004 | Output Encoding | Security & Privacy | Security & Privacy | [1988](https://doi.org/10.1109/19.9823) (source only) |
 | AIH-04039 | Overprivileged Token | Security & Privacy | Security & Privacy | — |
 | AIH-04074 | OWASP Top 10 for LLM | Security & Privacy | Security & Privacy | — |
-| AIH-04109 | Partially Homomorphic Encryption (PHE) | Security & Privacy | Security & Privacy | — |
-| AIH-04144 | Patch Management | Security & Privacy | Security & Privacy | — |
+| AIH-04109 | Partially Homomorphic Encryption (PHE) | Security & Privacy | Security & Privacy | [2024](https://doi.org/10.33795/jip.v10i4.5420) (source only) |
+| AIH-04144 | Patch Management | Security & Privacy | Security & Privacy | [2003](https://doi.org/10.1201/noe0849385858-67) (source only) |
 | AIH-04179 | Penetration Testing | Security & Privacy | Security & Privacy | — |
 | AIH-04214 | Per-Example Gradient Clipping | Security & Privacy | Security & Privacy | — |
-| AIH-04249 | Phishing | Security & Privacy | Security & Privacy | — |
-| AIH-04283 | Physical Adversarial Attack | Security & Privacy | Security & Privacy | — |
+| AIH-04249 | Phishing | Security & Privacy | Security & Privacy | [2005](https://doi.org/10.5210/fm.v10i9.1272) (source only) |
+| AIH-04283 | Physical Adversarial Attack | Security & Privacy | Security & Privacy | [2021](https://doi.org/10.1109/iccv48922.2021.00769) (source only) |
 | AIH-04316 | Pickle Deserialization Risk | Security & Privacy | Security & Privacy | — |
-| AIH-04349 | Principle of Least Privilege | Security & Privacy | Security & Privacy | — |
+| AIH-04349 | Principle of Least Privilege | Security & Privacy | Security & Privacy | [2005](https://doi.org/10.1007/978-3-540-31979-5_10) (source only) |
 | AIH-04382 | Privacy Accountant | Security & Privacy | Security & Privacy | — |
 | AIH-04415 | Privacy Amplification by Subsampling | Security & Privacy | Security & Privacy | — |
-| AIH-04448 | Privilege Escalation | Security & Privacy | Security & Privacy | — |
+| AIH-04448 | Privilege Escalation | Security & Privacy | Security & Privacy | [2004](https://doi.org/10.5220/0002593205960600) (source only) |
 | AIH-04481 | Prompt Extraction Attack | Security & Privacy | Security & Privacy | — |
 | AIH-04514 | Property Inference | Security & Privacy | Security & Privacy | — |
 | AIH-04547 | Provenance Verification | Security & Privacy | Security & Privacy | — |
@@ -507,6 +507,6 @@
 | AIH-01427 | Decibel (dB) | Signal & Information Theory | Signal & Information Theory | [2008](https://doi.org/10.1007/978-3-540-29678-2_1396) (source only) |
 | AIH-01465 | Decimation | Signal & Information Theory | Signal & Information Theory | — |
 
-— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
+— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

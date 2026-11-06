@@ -7,15 +7,15 @@
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-04187 | Election Integrity Measure | Generative AI | Generative AI | — |
-| AIH-04222 | Exact Likelihood | Generative AI | Generative AI | — |
+| AIH-04222 | Exact Likelihood | Generative AI | Generative AI | [1974](https://doi.org/10.2307/2334723) (source only) |
 | AIH-04257 | Expression Transfer | Generative AI | Generative AI | — |
-| AIH-04291 | Face Enhancement | Generative AI | Generative AI | — |
+| AIH-04291 | Face Enhancement | Generative AI | Generative AI | [2019](https://doi.org/10.1109/icb45273.2019.8987344) (source only) |
 | AIH-04324 | Face Restoration | Generative AI | Generative AI | — |
 | AIH-04357 | Face Swap | Generative AI | Generative AI | — |
 | AIH-04390 | Fact Table Grounding | Generative AI | Generative AI | — |
 | AIH-04423 | False Accusation Risk | Generative AI | Generative AI | — |
-| AIH-04456 | Flicker Artifact | Generative AI | Generative AI | — |
-| AIH-04489 | Flow Matching | Generative AI | Generative AI | — |
+| AIH-04456 | Flicker Artifact | Generative AI | Generative AI | [2014](https://doi.org/10.1109/tmm.2014.2347257) (source only) |
+| AIH-04489 | Flow Matching | Generative AI | Generative AI | [2006](https://doi.org/10.1017/cbo9780511753886.004) (source only) |
 | AIH-04522 | Flow-Based Vocoder | Generative AI | Generative AI | — |
 | AIH-04555 | Forward Diffusion Process | Generative AI | Generative AI | — |
 | AIH-04588 | Frame Consistency | Generative AI | Generative AI | — |
@@ -97,50 +97,50 @@
 | AIH-02407 | Influence Maximization | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-02445 | Information Diffusion Model | Graph & Network Learning | Graph & Network Learning | [2015](https://doi.org/10.1177/0165551514565318) (source only) |
 | AIH-02483 | Interatomic Potential | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-02521 | Knowledge Graph Question Answering (KBQA) | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-02559 | Knowledge Graph Reasoning | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-02597 | Laplacian Positional Encoding | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-02635 | Linear Threshold Model | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-02673 | Link Prediction Evaluation | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-02711 | Mesh Graph Network | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-02749 | Message Passing | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-02787 | Metapath | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-02521 | Knowledge Graph Question Answering (KBQA) | Graph & Network Learning | Graph & Network Learning | [2024](https://doi.org/10.1016/j.eswa.2024.125090) ★ (estimated) |
+| AIH-02559 | Knowledge Graph Reasoning | Graph & Network Learning | Graph & Network Learning | [2017](https://doi.org/10.18653/v1/d17-1060) (source only) |
+| AIH-02597 | Laplacian Positional Encoding | Graph & Network Learning | Graph & Network Learning | [2025](https://doi.org/10.1093/comjnl/bxaf132) ★ (estimated) |
+| AIH-02635 | Linear Threshold Model | Graph & Network Learning | Graph & Network Learning | [2008](https://doi.org/10.1007/978-3-540-89197-0_94) (source only) |
+| AIH-02673 | Link Prediction Evaluation | Graph & Network Learning | Graph & Network Learning | [2020](https://doi.org/10.32614/cran.package.clevr) (source only) |
+| AIH-02711 | Mesh Graph Network | Graph & Network Learning | Graph & Network Learning | [2024](https://doi.org/10.22541/au.171842733.33758216/v1) (source only) |
+| AIH-02749 | Message Passing | Graph & Network Learning | Graph & Network Learning | [1986](https://doi.org/10.2172/5760616) (source only) |
+| AIH-02787 | Metapath | Graph & Network Learning | Graph & Network Learning | [2007](https://doi.org/10.1093/nar/gkm287) (source only) |
 | AIH-02825 | Molecular Fingerprint | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-02863 | Molecular Graph | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-02901 | Multi-Hop Reasoning over Graphs | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-02939 | Negative Edge Sampling | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-02977 | Neighbor Sampling | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03015 | Neighborhood Aggregation | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-02977 | Neighbor Sampling | Graph & Network Learning | Graph & Network Learning | [1987](https://doi.org/10.1109/tim.1987.6312775) (source only) |
+| AIH-03015 | Neighborhood Aggregation | Graph & Network Learning | Graph & Network Learning | [2019](https://doi.org/10.24963/ijcai.2019/347) (source only) |
 | AIH-03053 | Network Resilience | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-03090 | Node Dropout | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03127 | Node Embedding | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03164 | Node Feature | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03201 | Node-Level Task | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03238 | Node2Vec | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-03127 | Node Embedding | Graph & Network Learning | Graph & Network Learning | [2017](https://doi.org/10.1109/icassp.2017.7952933) (source only) |
+| AIH-03164 | Node Feature | Graph & Network Learning | Graph & Network Learning | [2015](https://doi.org/10.1016/j.patcog.2014.05.018) (source only) |
+| AIH-03201 | Node-Level Task | Graph & Network Learning | Graph & Network Learning | [2016](https://doi.org/10.1109/hpcsim.2016.7568402) (source only) |
+| AIH-03238 | Node2Vec | Graph & Network Learning | Graph & Network Learning | [2016](https://doi.org/10.1145/2939672.2939754) (source only) |
 | AIH-03275 | Over-Smoothing | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-03312 | Over-Squashing | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03349 | Percolation Threshold | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03386 | Point Cloud Graph | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-03349 | Percolation Threshold | Graph & Network Learning | Graph & Network Learning | [1978](https://doi.org/10.1063/1.31180) (source only) |
+| AIH-03386 | Point Cloud Graph | Graph & Network Learning | Graph & Network Learning | [2025](https://doi.org/10.1016/j.measurement.2024.115851) (source only) |
 | AIH-03422 | Positional Encoding for Graphs | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03458 | Program Graph | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03494 | Property Graph | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03530 | Protein Interaction Network | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03566 | Query Embedding | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03602 | Random Walk Encoding | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03638 | Readout Function | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-03458 | Program Graph | Graph & Network Learning | Graph & Network Learning | [1987](https://doi.org/10.21236/ada194352) (source only) |
+| AIH-03494 | Property Graph | Graph & Network Learning | Graph & Network Learning | [2020](https://doi.org/10.54285/ldbc.ofjf3566) (source only) |
+| AIH-03530 | Protein Interaction Network | Graph & Network Learning | Graph & Network Learning | [2002](https://doi.org/10.1126/science.1068696) (source only) |
+| AIH-03566 | Query Embedding | Graph & Network Learning | Graph & Network Learning | [2019](https://doi.org/10.1145/3357384.3358066) (source only) |
+| AIH-03602 | Random Walk Encoding | Graph & Network Learning | Graph & Network Learning | [2026](https://doi.org/10.1007/s10462-026-11544-3) (source only) |
+| AIH-03638 | Readout Function | Graph & Network Learning | Graph & Network Learning | [1996](https://doi.org/10.1364/isom.1996.owd.3) (source only) |
 | AIH-03674 | Relational Graph Network (RGCN) | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03710 | Road Network Graph | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-03710 | Road Network Graph | Graph & Network Learning | Graph & Network Learning | [2016](https://doi.org/10.1553/giscience2016_01_s231) (source only) |
 | AIH-03746 | Scaffold Split | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03782 | Scene Graph Generation | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03818 | Simplicial Complex Learning | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03854 | SMILES | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03890 | Social Graph | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-03782 | Scene Graph Generation | Graph & Network Learning | Graph & Network Learning | [2020](https://doi.org/10.1109/cvpr42600.2020.00380) (source only) |
+| AIH-03818 | Simplicial Complex Learning | Graph & Network Learning | Graph & Network Learning | [2024](https://doi.org/10.23919/eusipco63174.2024.10715366) (source only) |
+| AIH-03854 | SMILES | Graph & Network Learning | Graph & Network Learning | [2023](https://doi.org/10.1007/978-3-031-28401-4_15) (source only) |
+| AIH-03890 | Social Graph | Graph & Network Learning | Graph & Network Learning | [2008](https://doi.org/10.59350/jgvp9-qsj67) (source only) |
 | AIH-03926 | Spectral Graph Convolution | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-03962 | Spherical Harmonics Features | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-03998 | Subgraph GNN | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-03998 | Subgraph GNN | Graph & Network Learning | Graph & Network Learning | [2024](https://doi.org/10.1145/3637528.3671731) (source only) |
 | AIH-04034 | Supply Chain Graph | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-04069 | Temporal Graph | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-04104 | Top-K Pooling | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-04069 | Temporal Graph | Graph & Network Learning | Graph & Network Learning | [2008](https://doi.org/10.4018/978-1-59904-387-6.ch011) (source only) |
+| AIH-04104 | Top-K Pooling | Graph & Network Learning | Graph & Network Learning | [2021](https://doi.org/10.1109/icaibd51990.2021.9459101) (source only) |
 | AIH-04139 | Traffic Forecasting with Graphs | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-04174 | Transaction Graph | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-04209 | Transductive Graph Learning | Graph & Network Learning | Graph & Network Learning | — |
@@ -208,60 +208,60 @@
 | AIH-02408 | Judgment List | Information Retrieval | Information Retrieval | — |
 | AIH-02446 | Known-Item Search | Information Retrieval | Information Retrieval | — |
 | AIH-02484 | LambdaMART | Information Retrieval | Information Retrieval | [2013](https://doi.org/10.1145/2499178.2499198) (source only) |
-| AIH-02522 | Language Model for Retrieval | Information Retrieval | Information Retrieval | — |
+| AIH-02522 | Language Model for Retrieval | Information Retrieval | Information Retrieval | [1999](https://doi.org/10.1145/319950.320022) ★ (estimated) |
 | AIH-02560 | Latency-Constrained Ranking | Information Retrieval | Information Retrieval | — |
-| AIH-02598 | Learned Sparse Retrieval | Information Retrieval | Information Retrieval | — |
-| AIH-02636 | Link Farm | Information Retrieval | Information Retrieval | — |
+| AIH-02598 | Learned Sparse Retrieval | Information Retrieval | Information Retrieval | [2022](https://doi.org/10.1145/3477495.3531774) (source only) |
+| AIH-02636 | Link Farm | Information Retrieval | Information Retrieval | [2005](https://doi.org/10.1145/1062745.1062762) (source only) |
 | AIH-02674 | Listwise Ranking | Information Retrieval | Information Retrieval | — |
-| AIH-02712 | Long-Tail Coverage | Information Retrieval | Information Retrieval | — |
+| AIH-02712 | Long-Tail Coverage | Information Retrieval | Information Retrieval | [2014](https://doi.org/10.1080/10406026.2014.872977) (source only) |
 | AIH-02750 | Maximal Marginal Relevance (MMR) | Information Retrieval | Information Retrieval | — |
-| AIH-02788 | Mean Average Precision (MAP) | Information Retrieval | Information Retrieval | — |
+| AIH-02788 | Mean Average Precision (MAP) | Information Retrieval | Information Retrieval | [2022](https://doi.org/10.1007/978-981-19-2397-5_6) (source only) |
 | AIH-02826 | Mean Reciprocal Rank (MRR) | Information Retrieval | Information Retrieval | — |
 | AIH-02864 | Model Serving for Ranking | Information Retrieval | Information Retrieval | — |
-| AIH-02902 | Multi-Vector Retrieval | Information Retrieval | Information Retrieval | — |
-| AIH-02940 | Navigational Query | Information Retrieval | Information Retrieval | — |
+| AIH-02902 | Multi-Vector Retrieval | Information Retrieval | Information Retrieval | [2023](https://doi.org/10.52202/075280-0677) (source only) |
+| AIH-02940 | Navigational Query | Information Retrieval | Information Retrieval | [1991](https://doi.org/10.1007/3-540-55015-1_2) (source only) |
 | AIH-02978 | Normalized Discounted Cumulative Gain (NDCG) | Information Retrieval | Information Retrieval | — |
 | AIH-03016 | Offline Ranking Evaluation | Information Retrieval | Information Retrieval | — |
 | AIH-03054 | Online Ranking Experiment | Information Retrieval | Information Retrieval | — |
-| AIH-03091 | Pairwise Ranking | Information Retrieval | Information Retrieval | — |
-| AIH-03128 | Personalized Search | Information Retrieval | Information Retrieval | — |
+| AIH-03091 | Pairwise Ranking | Information Retrieval | Information Retrieval | [2018](https://doi.org/10.1109/ijcnn.2018.8489109) (source only) |
+| AIH-03128 | Personalized Search | Information Retrieval | Information Retrieval | [2006](https://doi.org/10.5220/0002486900950102) (source only) |
 | AIH-03165 | Phrase Query | Information Retrieval | Information Retrieval | — |
 | AIH-03202 | Pivoted Length Normalization | Information Retrieval | Information Retrieval | — |
 | AIH-03239 | Pointwise Ranking | Information Retrieval | Information Retrieval | — |
 | AIH-03276 | Pooling for Evaluation | Information Retrieval | Information Retrieval | — |
-| AIH-03313 | Position Bias | Information Retrieval | Information Retrieval | — |
-| AIH-03350 | Positional Index | Information Retrieval | Information Retrieval | — |
-| AIH-03387 | Posting List | Information Retrieval | Information Retrieval | — |
+| AIH-03313 | Position Bias | Information Retrieval | Information Retrieval | [1969](https://doi.org/10.2307/3150005) (source only) |
+| AIH-03350 | Positional Index | Information Retrieval | Information Retrieval | [2009](https://doi.org/10.1177/0022034509341243) (source only) |
+| AIH-03387 | Posting List | Information Retrieval | Information Retrieval | [2009](https://doi.org/10.1145/1571941.1572104) (source only) |
 | AIH-03423 | Precision at K | Information Retrieval | Information Retrieval | — |
-| AIH-03459 | Precision-Oriented Ranking | Information Retrieval | Information Retrieval | — |
-| AIH-03495 | Presentation Bias | Information Retrieval | Information Retrieval | — |
-| AIH-03531 | Probabilistic Retrieval Model | Information Retrieval | Information Retrieval | — |
-| AIH-03567 | Proximity Search | Information Retrieval | Information Retrieval | — |
-| AIH-03603 | Pseudo-Relevance Feedback (PRF) | Information Retrieval | Information Retrieval | — |
-| AIH-03639 | Query Ambiguity Resolution | Information Retrieval | Information Retrieval | — |
+| AIH-03459 | Precision-Oriented Ranking | Information Retrieval | Information Retrieval | [2025](https://doi.org/10.1145/3733235) (source only) |
+| AIH-03495 | Presentation Bias | Information Retrieval | Information Retrieval | [1993](https://doi.org/10.1080/00220671.1993.9941161) (source only) |
+| AIH-03531 | Probabilistic Retrieval Model | Information Retrieval | Information Retrieval | [1983](https://doi.org/10.1108/eb026739) (source only) |
+| AIH-03567 | Proximity Search | Information Retrieval | Information Retrieval | [1996](https://openalex.org/W2741720972) (source only) |
+| AIH-03603 | Pseudo-Relevance Feedback (PRF) | Information Retrieval | Information Retrieval | [2021](https://doi.org/10.48550/arxiv.2108.06010) ★ (estimated) |
+| AIH-03639 | Query Ambiguity Resolution | Information Retrieval | Information Retrieval | [2018](https://doi.org/10.30880/ijie.2018.10.06.025) ★ (estimated) |
 | AIH-03675 | Query Intent Taxonomy | Information Retrieval | Information Retrieval | — |
 | AIH-03711 | Query Likelihood | Information Retrieval | Information Retrieval | — |
-| AIH-03747 | Query Log Analysis | Information Retrieval | Information Retrieval | — |
+| AIH-03747 | Query Log Analysis | Information Retrieval | Information Retrieval | [2007](https://doi.org/10.1145/1328964.1328985) (source only) |
 | AIH-03783 | Query Performance Prediction (QPP) | Information Retrieval | Information Retrieval | — |
-| AIH-03819 | Query Reformulation | Information Retrieval | Information Retrieval | — |
-| AIH-03855 | Query Result Cache | Information Retrieval | Information Retrieval | — |
-| AIH-03891 | Query Routing | Information Retrieval | Information Retrieval | — |
-| AIH-03927 | Query Suggestion | Information Retrieval | Information Retrieval | — |
+| AIH-03819 | Query Reformulation | Information Retrieval | Information Retrieval | [1991](https://doi.org/10.21236/ada236588) (source only) |
+| AIH-03855 | Query Result Cache | Information Retrieval | Information Retrieval | [2010](https://doi.org/10.1007/s11390-010-9378-1) (source only) |
+| AIH-03891 | Query Routing | Information Retrieval | Information Retrieval | [1999](https://doi.org/10.1109/icde.1999.754918) (source only) |
+| AIH-03927 | Query Suggestion | Information Retrieval | Information Retrieval | [2008](https://doi.org/10.1145/1458082.1458145) (source only) |
 | AIH-03963 | Query Understanding Pipeline | Information Retrieval | Information Retrieval | — |
 | AIH-03999 | Query Volume Forecasting | Information Retrieval | Information Retrieval | — |
-| AIH-04035 | Query-Biased Summarization | Information Retrieval | Information Retrieval | — |
-| AIH-04070 | Query-Document Features | Information Retrieval | Information Retrieval | — |
+| AIH-04035 | Query-Biased Summarization | Information Retrieval | Information Retrieval | [2000](https://doi.org/10.1111/0824-7935.00128) (source only) |
+| AIH-04070 | Query-Document Features | Information Retrieval | Information Retrieval | [2015](https://doi.org/10.1145/2806416.2806487) (source only) |
 | AIH-04105 | Query-Need Gap | Information Retrieval | Information Retrieval | — |
 | AIH-04140 | Real-Time Indexing | Information Retrieval | Information Retrieval | — |
 | AIH-04175 | Recall at Depth | Information Retrieval | Information Retrieval | — |
-| AIH-04210 | Recall-Oriented Retrieval | Information Retrieval | Information Retrieval | — |
+| AIH-04210 | Recall-Oriented Retrieval | Information Retrieval | Information Retrieval | [2018](https://doi.org/10.1109/bigdata.2018.8622323) (source only) |
 | AIH-04245 | Recall-Precision Balance in Practice | Information Retrieval | Information Retrieval | — |
 | AIH-04279 | Related Search | Information Retrieval | Information Retrieval | — |
 | AIH-04312 | Relevance Engineer | Information Retrieval | Information Retrieval | — |
-| AIH-04345 | Relevance Feedback | Information Retrieval | Information Retrieval | — |
-| AIH-04378 | Relevance Judgment | Information Retrieval | Information Retrieval | — |
-| AIH-04411 | Result Deduplication | Information Retrieval | Information Retrieval | — |
-| AIH-04444 | Result Diversification | Information Retrieval | Information Retrieval | — |
+| AIH-04345 | Relevance Feedback | Information Retrieval | Information Retrieval | [1981](https://doi.org/10.1108/eb026717) (source only) |
+| AIH-04378 | Relevance Judgment | Information Retrieval | Information Retrieval | [1968](https://doi.org/10.1055/s-0038-1636304) (source only) |
+| AIH-04411 | Result Deduplication | Information Retrieval | Information Retrieval | [2026](https://doi.org/10.1109/tvt.2025.3617852) (source only) |
+| AIH-04444 | Result Diversification | Information Retrieval | Information Retrieval | [2006](https://doi.org/10.1145/1148170.1148320) (source only) |
 | AIH-04477 | Retrieval Evaluation for RAG | Information Retrieval | Information Retrieval | — |
 | AIH-04510 | Retrieval Latency Budget | Information Retrieval | Information Retrieval | — |
 | AIH-04543 | Robots Exclusion Protocol | Information Retrieval | Information Retrieval | — |
@@ -346,61 +346,61 @@
 | AIH-02419 | C4.5 | Machine Learning | Machine Learning | — |
 | AIH-02457 | Calibrated Probability | Machine Learning | Machine Learning | — |
 | AIH-02495 | Calinski-Harabasz Index | Machine Learning | Machine Learning | [2016](https://doi.org/10.1109/cec.2016.7744132) (source only) |
-| AIH-02533 | Canary Insertion | Machine Learning | Machine Learning | — |
-| AIH-02571 | Canberra Distance | Machine Learning | Machine Learning | — |
-| AIH-02609 | Capability Density | Machine Learning | Machine Learning | — |
-| AIH-02647 | Capability Prediction | Machine Learning | Machine Learning | — |
+| AIH-02533 | Canary Insertion | Machine Learning | Machine Learning | [2008](https://openalex.org/W2262054382) ★ (estimated) |
+| AIH-02571 | Canberra Distance | Machine Learning | Machine Learning | [2002](https://doi.org/10.1002/qre.441) (source only) |
+| AIH-02609 | Capability Density | Machine Learning | Machine Learning | [2026](https://doi.org/10.1145/3812835.3814812) (source only) |
+| AIH-02647 | Capability Prediction | Machine Learning | Machine Learning | [1985](https://openalex.org/W2731048214) (source only) |
 | AIH-02685 | Cascaded Inference | Machine Learning | Machine Learning | — |
-| AIH-02723 | Catastrophic Interference | Machine Learning | Machine Learning | — |
-| AIH-02761 | CatBoost | Machine Learning | Machine Learning | — |
-| AIH-02799 | Categorical Feature | Machine Learning | Machine Learning | — |
-| AIH-02837 | Category utility | Machine Learning | Machine Learning | — |
-| AIH-02875 | Centroid | Machine Learning | Machine Learning | — |
-| AIH-02913 | CHAID | Machine Learning | Machine Learning | — |
-| AIH-02951 | Chebyshev Distance | Machine Learning | Machine Learning | — |
+| AIH-02723 | Catastrophic Interference | Machine Learning | Machine Learning | [1989](https://doi.org/10.1016/s0079-7421(08)60536-8) (source only) |
+| AIH-02761 | CatBoost | Machine Learning | Machine Learning | [2019](https://doi.org/10.12677/fin.2019.93015) (source only) |
+| AIH-02799 | Categorical Feature | Machine Learning | Machine Learning | [2009](https://doi.org/10.1109/fuzzy.2009.5277209) (source only) |
+| AIH-02837 | Category utility | Machine Learning | Machine Learning | [2001](https://doi.org/10.1023/a:1010924920739) (source only) |
+| AIH-02875 | Centroid | Machine Learning | Machine Learning | [1970](https://doi.org/10.21236/ad0886132) (source only) |
+| AIH-02913 | CHAID | Machine Learning | Machine Learning | [2006](https://doi.org/10.1037/e518572013-163) (source only) |
+| AIH-02951 | Chebyshev Distance | Machine Learning | Machine Learning | [2010](https://doi.org/10.1109/tit.2010.2046212) (source only) |
 | AIH-02989 | Chi-Squared Split | Machine Learning | Machine Learning | — |
 | AIH-03027 | CIML community portal | Machine Learning | Machine Learning | — |
-| AIH-03064 | Class Weighting | Machine Learning | Machine Learning | — |
+| AIH-03064 | Class Weighting | Machine Learning | Machine Learning | [2000](https://doi.org/10.21437/icslp.2000-873) (source only) |
 | AIH-03101 | Class-Incremental Learning | Machine Learning | Machine Learning | — |
-| AIH-03138 | Classification | Machine Learning | Machine Learning | — |
-| AIH-03175 | Cluster | Machine Learning | Machine Learning | — |
-| AIH-03212 | Cluster Assumption | Machine Learning | Machine Learning | — |
-| AIH-03249 | Cluster Number Selection | Machine Learning | Machine Learning | — |
-| AIH-03286 | Cluster Stability | Machine Learning | Machine Learning | — |
-| AIH-03323 | Clustering | Machine Learning | Machine Learning | — |
+| AIH-03138 | Classification | Machine Learning | Machine Learning | [1996](https://doi.org/10.1007/978-94-009-1653-1_2) (source only) |
+| AIH-03175 | Cluster | Machine Learning | Machine Learning | [1984](https://doi.org/10.1007/978-94-011-7822-8_2) (source only) |
+| AIH-03212 | Cluster Assumption | Machine Learning | Machine Learning | [1974](https://doi.org/10.1143/ptp.51.212) (source only) |
+| AIH-03249 | Cluster Number Selection | Machine Learning | Machine Learning | [2002](https://doi.org/10.1109/tnn.2002.1000144) (source only) |
+| AIH-03286 | Cluster Stability | Machine Learning | Machine Learning | [2005](https://doi.org/10.1201/9781420028799-14) (source only) |
+| AIH-03323 | Clustering | Machine Learning | Machine Learning | [1977](https://doi.org/10.1016/b978-0-12-714250-0.50007-3) (source only) |
 | AIH-03360 | Co-Teaching | Machine Learning | Machine Learning | — |
-| AIH-03397 | Co-training | Machine Learning | Machine Learning | — |
+| AIH-03397 | Co-training | Machine Learning | Machine Learning | [2002](https://doi.org/10.4324/9780203131022-6) (source only) |
 | AIH-03433 | Codebook | Machine Learning | Machine Learning | — |
 | AIH-03469 | Coefficient Path | Machine Learning | Machine Learning | — |
-| AIH-03505 | Cognitive robotics | Machine Learning | Machine Learning | — |
-| AIH-03541 | Cold Start in Clustering | Machine Learning | Machine Learning | — |
+| AIH-03505 | Cognitive robotics | Machine Learning | Machine Learning | [2014](https://doi.org/10.4028/www.scientific.net/amm.613.3) (source only) |
+| AIH-03541 | Cold Start in Clustering | Machine Learning | Machine Learning | [2011](https://doi.org/10.1007/978-3-642-25658-5_56) ★ (estimated) |
 | AIH-03577 | Colorization Pretext | Machine Learning | Machine Learning | — |
-| AIH-03613 | Complete Linkage | Machine Learning | Machine Learning | — |
-| AIH-03649 | Completeness Score | Machine Learning | Machine Learning | — |
+| AIH-03613 | Complete Linkage | Machine Learning | Machine Learning | [1912](https://doi.org/10.1126/science.36.934.719) (source only) |
+| AIH-03649 | Completeness Score | Machine Learning | Machine Learning | [2014](https://doi.org/10.1007/s40278-014-8600-2) (source only) |
 | AIH-03685 | Compute Efficiency of Methods | Machine Learning | Machine Learning | — |
-| AIH-03721 | Concept Drift | Machine Learning | Machine Learning | — |
-| AIH-03757 | Concept Learning | Machine Learning | Machine Learning | — |
+| AIH-03721 | Concept Drift | Machine Learning | Machine Learning | [2005](https://doi.org/10.4018/978-1-59140-557-3.ch039) (source only) |
+| AIH-03757 | Concept Learning | Machine Learning | Machine Learning | [1962](https://doi.org/10.1037/13135-005) (source only) |
 | AIH-03793 | Conditional Computation | Machine Learning | Machine Learning | — |
 | AIH-03829 | Confidence Estimation for Routing | Machine Learning | Machine Learning | — |
 | AIH-03865 | Confidence in Association Rules | Machine Learning | Machine Learning | — |
 | AIH-03901 | Confident Learning | Machine Learning | Machine Learning | — |
 | AIH-03937 | Conflicting Evidence Handling | Machine Learning | Machine Learning | — |
-| AIH-03973 | Consensus Clustering | Machine Learning | Machine Learning | — |
-| AIH-04009 | Consistency Regularization | Machine Learning | Machine Learning | — |
+| AIH-03973 | Consensus Clustering | Machine Learning | Machine Learning | [2007](https://doi.org/10.1093/bioinformatics/btl314) (source only) |
+| AIH-04009 | Consistency Regularization | Machine Learning | Machine Learning | [2021](https://doi.org/10.3390/e23091231) (source only) |
 | AIH-04044 | Contamination Filtering | Machine Learning | Machine Learning | — |
 | AIH-04079 | Context Faithfulness | Machine Learning | Machine Learning | — |
 | AIH-04114 | Continual Learning (CL) | Machine Learning | Machine Learning | — |
 | AIH-04149 | Continuity Metric | Machine Learning | Machine Learning | — |
-| AIH-04184 | Contractive Autoencoder | Machine Learning | Machine Learning | — |
-| AIH-04219 | Contrastive Divergence | Machine Learning | Machine Learning | — |
-| AIH-04254 | Contrastive Loss | Machine Learning | Machine Learning | — |
+| AIH-04184 | Contractive Autoencoder | Machine Learning | Machine Learning | [2017](https://doi.org/10.1016/j.neucom.2016.11.062) (source only) |
+| AIH-04219 | Contrastive Divergence | Machine Learning | Machine Learning | [2002](https://doi.org/10.1162/089976602760128018) (source only) |
+| AIH-04254 | Contrastive Loss | Machine Learning | Machine Learning | [2017](https://doi.org/10.1109/icmew.2017.8026311) (source only) |
 | AIH-04288 | Convergence Speed | Machine Learning | Machine Learning | — |
-| AIH-04321 | Cophenetic Correlation | Machine Learning | Machine Learning | — |
-| AIH-04354 | Core Point | Machine Learning | Machine Learning | — |
-| AIH-04387 | Coreset | Machine Learning | Machine Learning | — |
-| AIH-04420 | Coreset Selection | Machine Learning | Machine Learning | — |
-| AIH-04453 | Corrective Retrieval | Machine Learning | Machine Learning | — |
-| AIH-04486 | Cosine Distance | Machine Learning | Machine Learning | — |
+| AIH-04321 | Cophenetic Correlation | Machine Learning | Machine Learning | [1969](https://doi.org/10.2307/2412324) (source only) |
+| AIH-04354 | Core Point | Machine Learning | Machine Learning | [1969](https://doi.org/10.1007/978-3-662-22557-8_12) (source only) |
+| AIH-04387 | Coreset | Machine Learning | Machine Learning | [2016](https://doi.org/10.1109/cits.2016.7546405) (source only) |
+| AIH-04420 | Coreset Selection | Machine Learning | Machine Learning | [2022](https://doi.org/10.1109/access.2022.3142758) (source only) |
+| AIH-04453 | Corrective Retrieval | Machine Learning | Machine Learning | [2025](https://doi.org/10.2139/ssrn.5267341) (source only) |
+| AIH-04486 | Cosine Distance | Machine Learning | Machine Learning | [2008](https://doi.org/10.1109/isda.2008.161) (source only) |
 | AIH-04519 | Cosine Similarity | Machine Learning | Machine Learning | — |
 | AIH-04552 | Cost-Aware Serving | Machine Learning | Machine Learning | — |
 | AIH-04585 | Cost-Complexity Pruning | Machine Learning | Machine Learning | — |
@@ -507,6 +507,6 @@
 | AIH-00533 | Bayesian Network (BN) | Mathematics | Probabilistic Methods | [2001](https://doi.org/10.1002/mop.1212) (source only) |
 | AIH-00571 | Bayesian Neural Network (BNN) | Mathematics | Probabilistic Methods | [2021](https://openalex.org/W3212348872) (source only) |
 
-— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
+— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

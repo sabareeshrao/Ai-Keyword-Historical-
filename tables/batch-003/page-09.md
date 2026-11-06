@@ -507,6 +507,6 @@
 | AIH-14791 | navigation systems | Robotics | CSO: robotics | — |
 | AIH-14792 | needle insertion | Robotics | CSO: robotics | — |
 
-— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
+— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

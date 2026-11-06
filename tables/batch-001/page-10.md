@@ -33,56 +33,56 @@
 | AIH-02415 | Hamming Distance | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-02453 | Hann Window | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-02491 | Harmonic | Signal & Information Theory | Signal & Information Theory | [1989](https://doi.org/10.1007/978-1-4612-3548-4_12) (source only) |
-| AIH-02529 | High-Pass Filter | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-02567 | Hilbert Transform | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-02605 | Hop Size | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-02643 | Huffman Coding | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-02681 | Impulse Response | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-02719 | Independent Component Analysis (ICA) | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-02529 | High-Pass Filter | Signal & Information Theory | Signal & Information Theory | [1965](https://doi.org/10.1080/09747338.1965.11467836) (source only) |
+| AIH-02567 | Hilbert Transform | Signal & Information Theory | Signal & Information Theory | [1968](https://doi.org/10.1109/taes.1968.5408972) (source only) |
+| AIH-02605 | Hop Size | Signal & Information Theory | Signal & Information Theory | [2006](https://doi.org/10.1109/indin.2006.275747) (source only) |
+| AIH-02643 | Huffman Coding | Signal & Information Theory | Signal & Information Theory | [1985](https://doi.org/10.1016/0196-6774(85)90036-7) (source only) |
+| AIH-02681 | Impulse Response | Signal & Information Theory | Signal & Information Theory | [1977](https://doi.org/10.21236/ada048070) (source only) |
+| AIH-02719 | Independent Component Analysis (ICA) | Signal & Information Theory | Signal & Information Theory | [1998](https://doi.org/10.1016/s0925-2312(98)00052-6) (source only) |
 | AIH-02757 | Infinite Impulse Response Filter (IIR) | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-02795 | Information Bottleneck | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-02833 | Information Geometry | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-02871 | Instantaneous Frequency | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-02833 | Information Geometry | Signal & Information Theory | Signal & Information Theory | [2007](https://doi.org/10.1090/mmono/191/07) (source only) |
+| AIH-02871 | Instantaneous Frequency | Signal & Information Theory | Signal & Information Theory | [1960](https://doi.org/10.1016/b978-0-08-009306-2.50021-2) (source only) |
 | AIH-02909 | Interaction Information | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-02947 | Interleaving | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-02985 | Interpolation Filter | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-02947 | Interleaving | Signal & Information Theory | Signal & Information Theory | [1977](https://doi.org/10.2514/6.1977-1534) (source only) |
+| AIH-02985 | Interpolation Filter | Signal & Information Theory | Signal & Information Theory | [1997](https://doi.org/10.1109/icce.1997.626016) (source only) |
 | AIH-03023 | Jensen-Shannon Divergence (JSD) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03060 | Joint Entropy | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03097 | Kalman Smoothing | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-03060 | Joint Entropy | Signal & Information Theory | Signal & Information Theory | [2011](https://doi.org/10.4028/www.scientific.net/kem.474-476.2129) (source only) |
+| AIH-03097 | Kalman Smoothing | Signal & Information Theory | Signal & Information Theory | [1991](https://doi.org/10.1016/0005-1098(91)90084-f) (source only) |
 | AIH-03134 | Kolmogorov Complexity | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03171 | Kraft Inequality | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-03171 | Kraft Inequality | Signal & Information Theory | Signal & Information Theory | [1964](https://doi.org/10.1109/tit.1964.1053696) (source only) |
 | AIH-03208 | Latency in Signal Processing | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-03245 | Least Mean Squares Filter (LMS) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03282 | Linear Phase | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03319 | Linear Predictive Coding (LPC) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03356 | Log-Likelihood Ratio (LLR) | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-03282 | Linear Phase | Signal & Information Theory | Signal & Information Theory | [1990](https://doi.org/10.1109/31.52761) (source only) |
+| AIH-03319 | Linear Predictive Coding (LPC) | Signal & Information Theory | Signal & Information Theory | [1998](https://doi.org/10.1007/978-3-642-76220-8_5) (source only) |
+| AIH-03356 | Log-Likelihood Ratio (LLR) | Signal & Information Theory | Signal & Information Theory | [2003](https://doi.org/10.1109/lcomm.2003.809994) (source only) |
 | AIH-03393 | Lossless Compression | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03429 | Lossy Compression | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03465 | Low-Density Parity-Check Code (LDPC) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03501 | Low-Pass Filter | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03537 | Masking Threshold | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03573 | Matched Filter | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03609 | Mel Scale | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03645 | Mel-Frequency Cepstral Coefficients (MFCC) | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-03429 | Lossy Compression | Signal & Information Theory | Signal & Information Theory | [2009](https://doi.org/10.1109/ita.2009.5044932) (source only) |
+| AIH-03465 | Low-Density Parity-Check Code (LDPC) | Signal & Information Theory | Signal & Information Theory | [2018](https://doi.org/10.1049/el.2018.5867) (source only) |
+| AIH-03501 | Low-Pass Filter | Signal & Information Theory | Signal & Information Theory | [1949](https://doi.org/10.1049/pi-3.1949.0061) (source only) |
+| AIH-03537 | Masking Threshold | Signal & Information Theory | Signal & Information Theory | [1970](https://openalex.org/W1541574657) (source only) |
+| AIH-03573 | Matched Filter | Signal & Information Theory | Signal & Information Theory | [1967](https://doi.org/10.1016/b978-0-12-186750-8.50020-x) (source only) |
+| AIH-03609 | Mel Scale | Signal & Information Theory | Signal & Information Theory | [1965](https://doi.org/10.2307/843164) (source only) |
+| AIH-03645 | Mel-Frequency Cepstral Coefficients (MFCC) | Signal & Information Theory | Signal & Information Theory | [2006](https://openalex.org/W1496104034) (source only) |
 | AIH-03681 | Minimum Description Length (MDL) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03717 | Modulation | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-03717 | Modulation | Signal & Information Theory | Signal & Information Theory | [1950](https://doi.org/10.1515/9783111368542-003) (source only) |
 | AIH-03753 | Mu-Law Encoding | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-03789 | Multiresolution Analysis | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-03825 | Nat | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03861 | Noise Floor | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-03861 | Noise Floor | Signal & Information Theory | Signal & Information Theory | [2003](https://doi.org/10.1088/0264-9381/20/17/334) (source only) |
 | AIH-03897 | Noise Suppression | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03933 | Noisy Channel Coding Theorem | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-03969 | Non-Local Means (NLM) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04005 | Nonnegative Matrix Factorization for Audio | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-03933 | Noisy Channel Coding Theorem | Signal & Information Theory | Signal & Information Theory | [1974](https://doi.org/10.1080/00029890.1974.11993679) (source only) |
+| AIH-03969 | Non-Local Means (NLM) | Signal & Information Theory | Signal & Information Theory | [2010](https://doi.org/10.1109/lsp.2009.2038956) (source only) |
+| AIH-04005 | Nonnegative Matrix Factorization for Audio | Signal & Information Theory | Signal & Information Theory | [2012](https://doi.org/10.1109/lsp.2011.2173192) (source only) |
 | AIH-04040 | Notch Filter | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04075 | Nyquist Rate | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04110 | Occam's Razor | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04145 | Onset Detection | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04180 | Overlap-Add | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04215 | Oversampling | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-04075 | Nyquist Rate | Signal & Information Theory | Signal & Information Theory | [1967](https://doi.org/10.1109/proc.1967.5962) (source only) |
+| AIH-04110 | Occam's Razor | Signal & Information Theory | Signal & Information Theory | [1980](https://doi.org/10.1097/00006199-198009000-00001) (source only) |
+| AIH-04145 | Onset Detection | Signal & Information Theory | Signal & Information Theory | [2003](https://doi.org/10.4324/9781410609175-11) (source only) |
+| AIH-04180 | Overlap-Add | Signal & Information Theory | Signal & Information Theory | [1980](https://doi.org/10.1109/tassp.1980.1163353) (source only) |
+| AIH-04215 | Oversampling | Signal & Information Theory | Signal & Information Theory | [1995](https://doi.org/10.1049/ic:19951375) (source only) |
 | AIH-04250 | Parity Bit | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04284 | Perceptual Coding | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-04317 | Periodogram | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-04284 | Perceptual Coding | Signal & Information Theory | Signal & Information Theory | [1978](https://doi.org/10.1016/c2013-0-10468-0) (source only) |
+| AIH-04317 | Periodogram | Signal & Information Theory | Signal & Information Theory | [1925](https://doi.org/10.1086/104673) (source only) |
 | AIH-04350 | Permutation Invariant Training (PIT) | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-04383 | Phase | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-04416 | Phase Vocoder | Signal & Information Theory | Signal & Information Theory | — |
@@ -170,61 +170,61 @@
 | AIH-02416 | Genre Classification | Speech & Audio | Speech & Audio | — |
 | AIH-02454 | Hallucinated Transcription | Speech & Audio | Speech & Audio | — |
 | AIH-02492 | Head-Related Transfer Function (HRTF) | Speech & Audio | Speech & Audio | — |
-| AIH-02530 | Homograph Disambiguation | Speech & Audio | Speech & Audio | — |
-| AIH-02568 | Human-in-the-Loop Transcription | Speech & Audio | Speech & Audio | — |
-| AIH-02606 | Industrial Sound Monitoring | Speech & Audio | Speech & Audio | — |
-| AIH-02644 | Intelligibility Metric | Speech & Audio | Speech & Audio | — |
+| AIH-02530 | Homograph Disambiguation | Speech & Audio | Speech & Audio | [1981](https://doi.org/10.1016/0093-934x(81)90094-8) (source only) |
+| AIH-02568 | Human-in-the-Loop Transcription | Speech & Audio | Speech & Audio | [1983](https://doi.org/10.1016/s0021-9258(18)33188-0) ★ (estimated) |
+| AIH-02606 | Industrial Sound Monitoring | Speech & Audio | Speech & Audio | [1978](https://doi.org/10.31274/rtd-180813-1385) ★ (estimated) |
+| AIH-02644 | Intelligibility Metric | Speech & Audio | Speech & Audio | [2008](https://doi.org/10.1117/12.768053) (source only) |
 | AIH-02682 | Intent Slot Model | Speech & Audio | Speech & Audio | — |
 | AIH-02720 | International Phonetic Alphabet (IPA) | Speech & Audio | Speech & Audio | — |
 | AIH-02758 | Interruption Handling | Speech & Audio | Speech & Audio | — |
-| AIH-02796 | Intonation Contour | Speech & Audio | Speech & Audio | — |
+| AIH-02796 | Intonation Contour | Speech & Audio | Speech & Audio | [1970](https://doi.org/10.1159/000259310) (source only) |
 | AIH-02834 | Inverse Text Normalization (ITN) | Speech & Audio | Speech & Audio | — |
-| AIH-02872 | Key Detection | Speech & Audio | Speech & Audio | — |
-| AIH-02910 | Keyword Spotting (KWS) | Speech & Audio | Speech & Audio | — |
-| AIH-02948 | Language Model Rescoring | Speech & Audio | Speech & Audio | — |
+| AIH-02872 | Key Detection | Speech & Audio | Speech & Audio | [2007](https://doi.org/10.1109/icspc.2007.4728534) (source only) |
+| AIH-02910 | Keyword Spotting (KWS) | Speech & Audio | Speech & Audio | [2016](https://doi.org/10.1109/mlsp.2016.7738862) (source only) |
+| AIH-02948 | Language Model Rescoring | Speech & Audio | Speech & Audio | [2016](https://doi.org/10.18653/v1/w16-2336) (source only) |
 | AIH-02986 | Language-Agnostic Representation | Speech & Audio | Speech & Audio | — |
 | AIH-03024 | Latency-Quality Tradeoff in Speech | Speech & Audio | Speech & Audio | — |
 | AIH-03061 | Lip Reading | Speech & Audio | Speech & Audio | — |
-| AIH-03098 | Lip Sync | Speech & Audio | Speech & Audio | — |
-| AIH-03135 | Live Captioning | Speech & Audio | Speech & Audio | — |
+| AIH-03098 | Lip Sync | Speech & Audio | Speech & Audio | [1965](https://doi.org/10.5594/j05962) (source only) |
+| AIH-03135 | Live Captioning | Speech & Audio | Speech & Audio | [2012](https://doi.org/10.21437/interspeech.2012-395) (source only) |
 | AIH-03172 | Low-Resource Speech | Speech & Audio | Speech & Audio | — |
 | AIH-03209 | Mean Opinion Score (MOS) | Speech & Audio | Speech & Audio | — |
-| AIH-03246 | Melody Extraction | Speech & Audio | Speech & Audio | — |
-| AIH-03283 | Microphone Array | Speech & Audio | Speech & Audio | — |
+| AIH-03246 | Melody Extraction | Speech & Audio | Speech & Audio | [2002](https://doi.org/10.1007/3-540-45886-7_1) (source only) |
+| AIH-03283 | Microphone Array | Speech & Audio | Speech & Audio | [1987](https://doi.org/10.2514/6.1987-2746) (source only) |
 | AIH-03320 | MIDI | Speech & Audio | Speech & Audio | — |
-| AIH-03357 | Monotonic Alignment | Speech & Audio | Speech & Audio | — |
+| AIH-03357 | Monotonic Alignment | Speech & Audio | Speech & Audio | [2020](https://doi.org/10.21437/interspeech.2020-1198) (source only) |
 | AIH-03394 | Mood Classification | Speech & Audio | Speech & Audio | — |
 | AIH-03430 | Multi-Condition Training | Speech & Audio | Speech & Audio | — |
 | AIH-03466 | Multilingual Speech Model | Speech & Audio | Speech & Audio | — |
-| AIH-03502 | MUSHRA Test | Speech & Audio | Speech & Audio | — |
-| AIH-03538 | Music Information Retrieval (MIR) | Speech & Audio | Speech & Audio | — |
-| AIH-03574 | Music Recommendation | Speech & Audio | Speech & Audio | — |
-| AIH-03610 | N-Best List | Speech & Audio | Speech & Audio | — |
-| AIH-03646 | Near-Field Speech | Speech & Audio | Speech & Audio | — |
-| AIH-03682 | Noise Gate | Speech & Audio | Speech & Audio | — |
-| AIH-03718 | Noise Injection | Speech & Audio | Speech & Audio | — |
+| AIH-03502 | MUSHRA Test | Speech & Audio | Speech & Audio | [2002](https://openalex.org/W1564598156) (source only) |
+| AIH-03538 | Music Information Retrieval (MIR) | Speech & Audio | Speech & Audio | [2002](https://doi.org/10.1145/544220.544376) (source only) |
+| AIH-03574 | Music Recommendation | Speech & Audio | Speech & Audio | [2005](https://doi.org/10.1080/09298210500175978) (source only) |
+| AIH-03610 | N-Best List | Speech & Audio | Speech & Audio | [1997](https://doi.org/10.21437/eurospeech.1997-68) (source only) |
+| AIH-03646 | Near-Field Speech | Speech & Audio | Speech & Audio | [2000](https://doi.org/10.1093/milmed/165.3.168) (source only) |
+| AIH-03682 | Noise Gate | Speech & Audio | Speech & Audio | [2014](https://doi.org/10.1109/iecon.2014.7048715) (source only) |
+| AIH-03718 | Noise Injection | Speech & Audio | Speech & Audio | [1994](https://doi.org/10.1109/68.281832) (source only) |
 | AIH-03754 | On-Device Speech Processing | Speech & Audio | Speech & Audio | — |
-| AIH-03790 | Orthographic Transcription | Speech & Audio | Speech & Audio | — |
-| AIH-03826 | Overlapped Speech Detection | Speech & Audio | Speech & Audio | — |
-| AIH-03862 | Paralinguistics | Speech & Audio | Speech & Audio | — |
+| AIH-03790 | Orthographic Transcription | Speech & Audio | Speech & Audio | [1990](https://doi.org/10.1177/026565909000600202) (source only) |
+| AIH-03826 | Overlapped Speech Detection | Speech & Audio | Speech & Audio | [2008](https://doi.org/10.1109/icassp.2008.4518619) (source only) |
+| AIH-03862 | Paralinguistics | Speech & Audio | Speech & Audio | [1974](https://doi.org/10.1515/9783111659916-008) (source only) |
 | AIH-03898 | Parallel Vocoder | Speech & Audio | Speech & Audio | — |
 | AIH-03934 | Pathological Speech Analysis | Speech & Audio | Speech & Audio | — |
-| AIH-03970 | Perceptual Evaluation of Speech Quality (PESQ) | Speech & Audio | Speech & Audio | — |
+| AIH-03970 | Perceptual Evaluation of Speech Quality (PESQ) | Speech & Audio | Speech & Audio | [2013](https://doi.org/10.5815/ijigsp.2013.04.02) (source only) |
 | AIH-04006 | Phoneme Dictionary | Speech & Audio | Speech & Audio | — |
 | AIH-04041 | Phonetic Transcription | Speech & Audio | Speech & Audio | — |
-| AIH-04076 | Piano Roll | Speech & Audio | Speech & Audio | — |
-| AIH-04111 | Pre-Emphasis | Speech & Audio | Speech & Audio | — |
+| AIH-04076 | Piano Roll | Speech & Audio | Speech & Audio | [1985](https://doi.org/10.2307/941168) (source only) |
+| AIH-04111 | Pre-Emphasis | Speech & Audio | Speech & Audio | [1964](https://doi.org/10.1109/tcom.1964.1088939) (source only) |
 | AIH-04146 | Punctuation Restoration | Speech & Audio | Speech & Audio | — |
 | AIH-04181 | Real-Time Factor (RTF) | Speech & Audio | Speech & Audio | — |
-| AIH-04216 | Reference Encoder | Speech & Audio | Speech & Audio | — |
+| AIH-04216 | Reference Encoder | Speech & Audio | Speech & Audio | [2018](https://doi.org/10.1109/iccpcct.2018.8574221) (source only) |
 | AIH-04251 | Repetition and Skipping | Speech & Audio | Speech & Audio | — |
-| AIH-04285 | Rich Transcription | Speech & Audio | Speech & Audio | — |
+| AIH-04285 | Rich Transcription | Speech & Audio | Speech & Audio | [2004](https://doi.org/10.6028/nist.sp.500-257) (source only) |
 | AIH-04318 | Room Simulation Augmentation | Speech & Audio | Speech & Audio | — |
 | AIH-04351 | Selective Transcription | Speech & Audio | Speech & Audio | — |
 | AIH-04384 | Self-Supervised Speech Pretraining | Speech & Audio | Speech & Audio | — |
 | AIH-04417 | Semantic Speech Token | Speech & Audio | Speech & Audio | — |
 | AIH-04450 | Silence Hallucination | Speech & Audio | Speech & Audio | — |
-| AIH-04483 | Simultaneous Interpretation | Speech & Audio | Speech & Audio | — |
+| AIH-04483 | Simultaneous Interpretation | Speech & Audio | Speech & Audio | [1978](https://doi.org/10.1007/978-1-4615-9077-4_25) (source only) |
 | AIH-04516 | Skill in Voice Assistants | Speech & Audio | Speech & Audio | — |
 | AIH-04549 | Sound Source Localization | Speech & Audio | Speech & Audio | — |
 | AIH-04582 | Spatial Audio | Speech & Audio | Speech & Audio | — |
@@ -307,19 +307,19 @@
 | AIH-02417 | Lumpy Demand | Time Series & Forecasting | Time Series & Forecasting | [1982](https://doi.org/10.1057/jors.1982.32) (source only) |
 | AIH-02455 | Matrix Profile | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-02493 | Mean Absolute Percentage Error (MAPE) | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-02531 | Mean Absolute Scaled Error (MASE) | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-02569 | MIDAS Regression | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-02607 | Mixed-Frequency Model | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-02645 | Motif Discovery in Time Series | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-02531 | Mean Absolute Scaled Error (MASE) | Time Series & Forecasting | Time Series & Forecasting | [2025](https://doi.org/10.36418/syntax-literate.v10i6.60374) (source only) |
+| AIH-02569 | MIDAS Regression | Time Series & Forecasting | Time Series & Forecasting | [2014](https://doi.org/10.1016/j.jhydrol.2014.01.031) (source only) |
+| AIH-02607 | Mixed-Frequency Model | Time Series & Forecasting | Time Series & Forecasting | [1993](https://doi.org/10.1111/j.1467-9787.1993.tb00229.x) (source only) |
+| AIH-02645 | Motif Discovery in Time Series | Time Series & Forecasting | Time Series & Forecasting | [2009](https://doi.org/10.1007/s00354-009-0068-x) (source only) |
 | AIH-02683 | Moving Average Model | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-02721 | Multi-Horizon Forecasting | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-02721 | Multi-Horizon Forecasting | Time Series & Forecasting | Time Series & Forecasting | [2025](https://doi.org/10.2139/ssrn.5474906) (source only) |
 | AIH-02759 | Multi-Step Forecast | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-02797 | Multiplicative Decomposition | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-02797 | Multiplicative Decomposition | Time Series & Forecasting | Time Series & Forecasting | [1967](https://doi.org/10.2307/1909384) (source only) |
 | AIH-02835 | N-BEATS | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-02873 | Naive Forecast | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-02911 | New Product Forecasting | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-02949 | Nowcasting | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-02987 | One-Step-Ahead Forecast | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-02873 | Naive Forecast | Time Series & Forecasting | Time Series & Forecasting | [2025](https://doi.org/10.1007/s10489-025-06268-w) (source only) |
+| AIH-02911 | New Product Forecasting | Time Series & Forecasting | Time Series & Forecasting | [1984](https://doi.org/10.1002/for.3980030202) (source only) |
+| AIH-02949 | Nowcasting | Time Series & Forecasting | Time Series & Forecasting | [2001](https://doi.org/10.21236/ada413327) (source only) |
+| AIH-02987 | One-Step-Ahead Forecast | Time Series & Forecasting | Time Series & Forecasting | [1994](https://doi.org/10.1016/0169-2070(94)90050-7) (source only) |
 | AIH-03025 | Outlier Adjustment in Series | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-03062 | PatchTST | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-03099 | Piecewise Aggregate Approximation (PAA) | Time Series & Forecasting | Time Series & Forecasting | — |
@@ -327,41 +327,41 @@
 | AIH-03173 | Prediction Interval | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-03210 | Probabilistic Forecast | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-03247 | Promotional Uplift Forecast | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-03284 | Quantile Forecast | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-03321 | Real-Time Forecast Evaluation | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-03358 | Recursive Forecasting | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-03284 | Quantile Forecast | Time Series & Forecasting | Time Series & Forecasting | [2015](https://doi.org/10.1002/qj.2624) (source only) |
+| AIH-03321 | Real-Time Forecast Evaluation | Time Series & Forecasting | Time Series & Forecasting | [2015](https://doi.org/10.2139/ssrn.2608531) (source only) |
+| AIH-03358 | Recursive Forecasting | Time Series & Forecasting | Time Series & Forecasting | [1991](https://doi.org/10.1002/for.3980100105) (source only) |
 | AIH-03395 | Regime Switching Model | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-03431 | Resampling to Regular Grid | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-03467 | Residual Component | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-03503 | Revision Analysis | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-03539 | Rolling Origin Evaluation | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-03467 | Residual Component | Time Series & Forecasting | Time Series & Forecasting | [1971](https://doi.org/10.1111/j.1365-2672.1971.tb02284.x) (source only) |
+| AIH-03503 | Revision Analysis | Time Series & Forecasting | Time Series & Forecasting | [1981](https://openalex.org/W2463677571) (source only) |
+| AIH-03539 | Rolling Origin Evaluation | Time Series & Forecasting | Time Series & Forecasting | [2019](https://doi.org/10.1016/j.ijforecast.2019.04.013) (source only) |
 | AIH-03575 | Rolling Statistic | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-03611 | SARIMA | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-03647 | Scenario Forecast | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-03683 | Seasonal Differencing | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-03611 | SARIMA | Time Series & Forecasting | Time Series & Forecasting | [1989](https://doi.org/10.1016/b978-0-08-037034-7.50067-5) (source only) |
+| AIH-03647 | Scenario Forecast | Time Series & Forecasting | Time Series & Forecasting | [2005](https://openalex.org/W2357595813) (source only) |
+| AIH-03683 | Seasonal Differencing | Time Series & Forecasting | Time Series & Forecasting | [1991](https://doi.org/10.2307/2337265) (source only) |
 | AIH-03719 | Seasonal Hybrid ESD | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-03755 | Seasonal Naive Forecast | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-03791 | Seasonality | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-03827 | Sensor Time Series | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-03827 | Sensor Time Series | Time Series & Forecasting | Time Series & Forecasting | [2011](https://doi.org/10.1017/cbo9780511984679.017) (source only) |
 | AIH-03863 | Series Imputation | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-03899 | Shapelet | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-03899 | Shapelet | Time Series & Forecasting | Time Series & Forecasting | [2002](https://doi.org/10.1086/339496) (source only) |
 | AIH-03935 | Sliding Window Validation | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-03971 | Stationarity | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-04007 | STL Decomposition | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-04042 | Structural Break | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-04077 | Structural Time Series Model | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-04112 | Symbolic Aggregate Approximation (SAX) | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-03971 | Stationarity | Time Series & Forecasting | Time Series & Forecasting | [1993](https://doi.org/10.1080/07474939308800252) (source only) |
+| AIH-04007 | STL Decomposition | Time Series & Forecasting | Time Series & Forecasting | [2011](https://doi.org/10.1016/j.ijforecast.2010.11.002) (source only) |
+| AIH-04042 | Structural Break | Time Series & Forecasting | Time Series & Forecasting | [2003](https://doi.org/10.2139/ssrn.428664) (source only) |
+| AIH-04077 | Structural Time Series Model | Time Series & Forecasting | Time Series & Forecasting | [1992](https://doi.org/10.52324/001c.9155) (source only) |
+| AIH-04112 | Symbolic Aggregate Approximation (SAX) | Time Series & Forecasting | Time Series & Forecasting | [2014](https://doi.org/10.1109/icmla.2014.36) (source only) |
 | AIH-04147 | Symmetric MAPE (sMAPE) | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-04182 | Temporal Aggregation | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-04217 | Temporal Fusion Transformer (TFT) | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-04252 | Temporary Change | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-04182 | Temporal Aggregation | Time Series & Forecasting | Time Series & Forecasting | [1978](https://doi.org/10.2307/1914238) (source only) |
+| AIH-04217 | Temporal Fusion Transformer (TFT) | Time Series & Forecasting | Time Series & Forecasting | [2023](https://doi.org/10.1016/j.rineng.2023.100888) (source only) |
+| AIH-04252 | Temporary Change | Time Series & Forecasting | Time Series & Forecasting | [2002](https://doi.org/10.1037/e466062008-001) (source only) |
 | AIH-04286 | Theta Method | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-04319 | Time Series Classification | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-04352 | Time Series Clustering | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-04319 | Time Series Classification | Time Series & Forecasting | Time Series & Forecasting | [2010](https://doi.org/10.3724/sp.j.1146.2009.00135) (source only) |
+| AIH-04352 | Time Series Clustering | Time Series & Forecasting | Time Series & Forecasting | [2012](https://doi.org/10.1111/j.1467-9892.2012.00793.x) (source only) |
 | AIH-04385 | Time Series Component | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-04418 | Time Series Foundation Model | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-04451 | Top-Down Approach | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-04484 | Tracking Signal | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-04418 | Time Series Foundation Model | Time Series & Forecasting | Time Series & Forecasting | [2024](https://doi.org/10.2139/ssrn.5067015) (source only) |
+| AIH-04451 | Top-Down Approach | Time Series & Forecasting | Time Series & Forecasting | [2001](https://doi.org/10.2307/2679886) (source only) |
+| AIH-04484 | Tracking Signal | Time Series & Forecasting | Time Series & Forecasting | [2016](https://doi.org/10.1016/j.bspc.2015.11.009) (source only) |
 | AIH-04517 | Trading Day Adjustment | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-04550 | Trend | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-04583 | Trend Dampening | Time Series & Forecasting | Time Series & Forecasting | — |
@@ -432,61 +432,61 @@
 | AIH-02418 | GluonTS | Tools & Frameworks | Tools & Frameworks | [2023](https://doi.org/10.1109/conisoft58849.2023.00041) (source only) |
 | AIH-02456 | Google Colab | Tools & Frameworks | Tools & Frameworks | [2020](https://doi.org/10.1109/tensymp50017.2020.9230789) (source only) |
 | AIH-02494 | Gradio | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02532 | Graph-tool | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02570 | Great Expectations | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02608 | Groq | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02646 | Guardrails Library | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02684 | Guidance | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02722 | Gymnasium | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02760 | Haiku | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02798 | Haystack | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02836 | Horovod | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-02532 | Graph-tool | Tools & Frameworks | Tools & Frameworks | [2018](https://doi.org/10.1007/978-1-4939-7131-2_100449) (source only) |
+| AIH-02570 | Great Expectations | Tools & Frameworks | Tools & Frameworks | [1861](https://doi.org/10.1093/oseo/instance.00121334) (source only) |
+| AIH-02608 | Groq | Tools & Frameworks | Tools & Frameworks | [2022](https://doi.org/10.1109/hcs55958.2022.9895630) (source only) |
+| AIH-02646 | Guardrails Library | Tools & Frameworks | Tools & Frameworks | [2026](https://doi.org/10.34740/kaggle/w/109207) ★ (estimated) |
+| AIH-02684 | Guidance | Tools & Frameworks | Tools & Frameworks | [1922](https://doi.org/10.1002/j.2164-5876.1922.tb00023.x) (source only) |
+| AIH-02722 | Gymnasium | Tools & Frameworks | Tools & Frameworks | [1967](https://doi.org/10.1163/9789004616639_004) (source only) |
+| AIH-02760 | Haiku | Tools & Frameworks | Tools & Frameworks | [2017](https://doi.org/10.5040/9798216539766.ch01) (source only) |
+| AIH-02798 | Haystack | Tools & Frameworks | Tools & Frameworks | [1964](https://doi.org/10.21236/ad0611436) (source only) |
+| AIH-02836 | Horovod | Tools & Frameworks | Tools & Frameworks | [2018](https://doi.org/10.1002/cpe.4989) (source only) |
 | AIH-02874 | Hugging Face Accelerate | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02912 | Hugging Face Datasets | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-02912 | Hugging Face Datasets | Tools & Frameworks | Tools & Frameworks | [2026](https://doi.org/10.2196/preprints.98257) (source only) |
 | AIH-02950 | Hugging Face Transformers | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-02988 | Hyperopt | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-03026 | igraph | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-02988 | Hyperopt | Tools & Frameworks | Tools & Frameworks | [2013](https://doi.org/10.25080/majora-8b375195-003) (source only) |
+| AIH-03026 | igraph | Tools & Frameworks | Tools & Frameworks | [2006](https://doi.org/10.32614/cran.package.igraph) (source only) |
 | AIH-03063 | Instructor Library | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-03100 | InterpretML | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-03137 | Isaac Sim | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-03174 | JAX Transformations | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-03211 | Jupyter Notebook | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-03248 | JupyterLab | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-03285 | Kornia | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-03322 | Kubeflow | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-03248 | JupyterLab | Tools & Frameworks | Tools & Frameworks | [2019](https://doi.org/10.1007/978-1-4842-4470-8_6) (source only) |
+| AIH-03285 | Kornia | Tools & Frameworks | Tools & Frameworks | [2020](https://doi.org/10.1109/wacv45572.2020.9093363) (source only) |
+| AIH-03322 | Kubeflow | Tools & Frameworks | Tools & Frameworks | [2019](https://doi.org/10.1007/978-1-4842-4470-8_46) (source only) |
 | AIH-03359 | LakeFS | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-03396 | LangGraph | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-03432 | librosa | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-03396 | LangGraph | Tools & Frameworks | Tools & Frameworks | [2024](https://doi.org/10.32388/r27sw4) (source only) |
+| AIH-03432 | librosa | Tools & Frameworks | Tools & Frameworks | [2025](https://doi.org/10.63789/icatces.2025.44) (source only) |
 | AIH-03468 | LLaMA-Factory | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-03504 | llama.cpp | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-03540 | LM Studio | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-03576 | LMDeploy | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-03612 | Lucene | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-03648 | Matplotlib | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-03504 | llama.cpp | Tools & Frameworks | Tools & Frameworks | [2025](https://doi.org/10.1109/dsaa65442.2025.11247985) (source only) |
+| AIH-03540 | LM Studio | Tools & Frameworks | Tools & Frameworks | [2024](https://doi.org/10.59350/23fth-dy493) (source only) |
+| AIH-03576 | LMDeploy | Tools & Frameworks | Tools & Frameworks | [2025](https://doi.org/10.48550/arxiv.2508.15601) (source only) |
+| AIH-03612 | Lucene | Tools & Frameworks | Tools & Frameworks | [2008](https://doi.org/10.1145/1459359.1459577) (source only) |
+| AIH-03648 | Matplotlib | Tools & Frameworks | Tools & Frameworks | [2005](https://openalex.org/W1630264553) (source only) |
 | AIH-03684 | Megatron-Core | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-03720 | Meilisearch | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-03756 | Metaflow | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-03792 | Milvus | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-03828 | MLflow | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-03828 | MLflow | Tools & Frameworks | Tools & Frameworks | [2020](https://doi.org/10.1515/9783110629453-031) (source only) |
 | AIH-03864 | MLX | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-03900 | MMDetection | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-03936 | Modal | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-03936 | Modal | Tools & Frameworks | Tools & Frameworks | [1980](https://doi.org/10.1017/cbo9780511621192.005) (source only) |
 | AIH-03972 | MuJoCo | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-04008 | nbdev | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-04043 | Neptune | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-04043 | Neptune | Tools & Frameworks | Tools & Frameworks | [2003](https://doi.org/10.2307/4014557) (source only) |
 | AIH-04078 | NetworkX | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-04113 | NLTK | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-04148 | NumPy | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-04183 | Ollama | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-04218 | ONNX Runtime | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-04113 | NLTK | Tools & Frameworks | Tools & Frameworks | [2018](https://doi.org/10.1007/978-1-4842-3913-1_13) (source only) |
+| AIH-04148 | NumPy | Tools & Frameworks | Tools & Frameworks | [2021](https://doi.org/10.14293/s2199-1006.1.sor-uncat.a7759461.v1.raugfi) (source only) |
+| AIH-04183 | Ollama | Tools & Frameworks | Tools & Frameworks | [2024](https://doi.org/10.32614/cran.package.ollamar) (source only) |
+| AIH-04218 | ONNX Runtime | Tools & Frameworks | Tools & Frameworks | [2022](https://doi.org/10.1109/iceic54506.2022.9748444) (source only) |
 | AIH-04253 | Opacus | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-04287 | Open3D | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-04287 | Open3D | Tools & Frameworks | Tools & Frameworks | [2020](https://doi.org/10.1117/12.2555673) (source only) |
 | AIH-04320 | OpenCV | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-04353 | OpenSearch | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-04386 | OpenVINO | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-04353 | OpenSearch | Tools & Frameworks | Tools & Frameworks | [2006](https://doi.org/10.59350/6yfv8-bsp98) (source only) |
+| AIH-04386 | OpenVINO | Tools & Frameworks | Tools & Frameworks | [2019](https://doi.org/10.1007/978-3-030-37334-4_2) (source only) |
 | AIH-04419 | Optax | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-04452 | Optuna | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-04485 | Outlines | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-04485 | Outlines | Tools & Frameworks | Tools & Frameworks | [1931](https://doi.org/10.1038/128513a0) (source only) |
 | AIH-04518 | pandas | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-04551 | Pandera | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-04584 | Panel | Tools & Frameworks | Tools & Frameworks | — |
@@ -507,6 +507,6 @@
 | AIH-05068 | PySyft | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-05100 | PyTorch Geometric (PyG) | Tools & Frameworks | Tools & Frameworks | — |
 
-— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
+— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

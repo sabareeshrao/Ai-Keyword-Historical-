@@ -507,6 +507,6 @@
 | AIH-07820 | Distributed cognition | AI Foundations | Fundamentals | — |
 | AIH-07830 | Distributed Common Ground System (DCGS) | AI Foundations | Fundamentals | — |
 
-— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
+— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

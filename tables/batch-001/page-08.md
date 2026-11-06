@@ -30,60 +30,60 @@
 | AIH-02409 | EleutherAI | People & Organizations | People & Organizations | — |
 | AIH-02447 | Eliezer Yudkowsky | People & Organizations | People & Organizations | — |
 | AIH-02485 | Emily Bender | People & Organizations | People & Organizations | — |
-| AIH-02523 | End User | People & Organizations | People & Organizations | — |
-| AIH-02561 | Evaluation Organization | People & Organizations | People & Organizations | — |
-| AIH-02599 | Expert Systems Boom | People & Organizations | People & Organizations | — |
-| AIH-02637 | FAccT | People & Organizations | People & Organizations | — |
+| AIH-02523 | End User | People & Organizations | People & Organizations | [1988](https://doi.org/10.1016/b978-0-08-034120-0.50012-6) (source only) |
+| AIH-02561 | Evaluation Organization | People & Organizations | People & Organizations | [1985](https://doi.org/10.1177/109821408500600106) (source only) |
+| AIH-02599 | Expert Systems Boom | People & Organizations | People & Organizations | [2026](https://doi.org/10.1609/aaai.v40i46.41334) (source only) |
+| AIH-02637 | FAccT | People & Organizations | People & Organizations | [1997](https://doi.org/10.1001/jama.1997.03550190022011) (source only) |
 | AIH-02675 | Fei-Fei Li | People & Organizations | People & Organizations | — |
 | AIH-02713 | Foundation Model Provider Obligations | People & Organizations | People & Organizations | — |
 | AIH-02751 | Frank Rosenblatt | People & Organizations | People & Organizations | — |
-| AIH-02789 | Geoffrey Hinton | People & Organizations | People & Organizations | — |
+| AIH-02789 | Geoffrey Hinton | People & Organizations | People & Organizations | [1998](https://doi.org/10.1145/1056754.1056760) (source only) |
 | AIH-02827 | Grace Hopper | People & Organizations | People & Organizations | — |
-| AIH-02865 | Hans Moravec | People & Organizations | People & Organizations | — |
+| AIH-02865 | Hans Moravec | People & Organizations | People & Organizations | [1989](https://doi.org/10.1017/s026357470000686x) (source only) |
 | AIH-02903 | Herbert Simon | People & Organizations | People & Organizations | — |
 | AIH-02941 | Horizontal AI Tool | People & Organizations | People & Organizations | — |
-| AIH-02979 | Ian Goodfellow | People & Organizations | People & Organizations | — |
-| AIH-03017 | IBM Research | People & Organizations | People & Organizations | — |
-| AIH-03055 | ICLR | People & Organizations | People & Organizations | — |
-| AIH-03092 | ICML | People & Organizations | People & Organizations | — |
-| AIH-03129 | IJCAI | People & Organizations | People & Organizations | — |
+| AIH-02979 | Ian Goodfellow | People & Organizations | People & Organizations | [2017](https://doi.org/10.1007/s10710-017-9314-z) (source only) |
+| AIH-03017 | IBM Research | People & Organizations | People & Organizations | [1980](https://doi.org/10.1147/rd.242.0107) (source only) |
+| AIH-03055 | ICLR | People & Organizations | People & Organizations | [2025](https://doi.org/10.1109/ijcnn64981.2025.11227155) (source only) |
+| AIH-03092 | ICML | People & Organizations | People & Organizations | [2004](https://doi.org/10.1145/1015330) (source only) |
+| AIH-03129 | IJCAI | People & Organizations | People & Organizations | [2019](https://doi.org/10.31449/inf.v43i3.2945) (source only) |
 | AIH-03166 | Ilya Sutskever | People & Organizations | People & Organizations | — |
-| AIH-03203 | ImageNet Moment | People & Organizations | People & Organizations | — |
+| AIH-03203 | ImageNet Moment | People & Organizations | People & Organizations | [2026](https://doi.org/10.1016/j.scib.2026.02.005) (source only) |
 | AIH-03240 | Indigenous Data Sovereignty | People & Organizations | People & Organizations | — |
 | AIH-03277 | Insurance Underwriter for AI | People & Organizations | People & Organizations | — |
-| AIH-03314 | Interoperability Requirement | People & Organizations | People & Organizations | — |
+| AIH-03314 | Interoperability Requirement | People & Organizations | People & Organizations | [2007](https://doi.org/10.1109/cts.2007.4621764) (source only) |
 | AIH-03351 | Jeff Dean | People & Organizations | People & Organizations | — |
 | AIH-03388 | John McCarthy | People & Organizations | People & Organizations | — |
-| AIH-03424 | John von Neumann | People & Organizations | People & Organizations | — |
-| AIH-03460 | Joseph Weizenbaum | People & Organizations | People & Organizations | — |
-| AIH-03496 | Joy Buolamwini | People & Organizations | People & Organizations | — |
-| AIH-03532 | Judea Pearl | People & Organizations | People & Organizations | — |
-| AIH-03568 | Jürgen Schmidhuber | People & Organizations | People & Organizations | — |
-| AIH-03604 | Kate Crawford | People & Organizations | People & Organizations | — |
+| AIH-03424 | John von Neumann | People & Organizations | People & Organizations | [1957](https://doi.org/10.1080/00963402.1957.11457538) (source only) |
+| AIH-03460 | Joseph Weizenbaum | People & Organizations | People & Organizations | [1972](https://doi.org/10.2307/3617872) (source only) |
+| AIH-03496 | Joy Buolamwini | People & Organizations | People & Organizations | [2024](https://doi.org/10.1109/mspec.2024.10380471) (source only) |
+| AIH-03532 | Judea Pearl | People & Organizations | People & Organizations | [1986](https://doi.org/10.1002/int.4550010107) (source only) |
+| AIH-03568 | Jürgen Schmidhuber | People & Organizations | People & Organizations | [2015](https://openalex.org/W1136172799) (source only) |
+| AIH-03604 | Kate Crawford | People & Organizations | People & Organizations | [2012](https://doi.org/10.4324/9780203723647-14) (source only) |
 | AIH-03640 | Labour Organization in Tech | People & Organizations | People & Organizations | — |
-| AIH-03676 | Leslie Lamport | People & Organizations | People & Organizations | — |
-| AIH-03712 | Leslie Valiant | People & Organizations | People & Organizations | — |
-| AIH-03748 | Lighthill Report | People & Organizations | People & Organizations | — |
-| AIH-03784 | Margaret Mitchell | People & Organizations | People & Organizations | — |
-| AIH-03820 | Market Concentration | People & Organizations | People & Organizations | — |
+| AIH-03676 | Leslie Lamport | People & Organizations | People & Organizations | [2000](https://doi.org/10.1515/dmvm-2000-0020) (source only) |
+| AIH-03712 | Leslie Valiant | People & Organizations | People & Organizations | [2009](https://doi.org/10.1145/1536414.1536415) (source only) |
+| AIH-03748 | Lighthill Report | People & Organizations | People & Organizations | [2020](https://doi.org/10.1017/s0007087420000230) (source only) |
+| AIH-03784 | Margaret Mitchell | People & Organizations | People & Organizations | [1966](https://doi.org/10.2307/2923828) (source only) |
+| AIH-03820 | Market Concentration | People & Organizations | People & Organizations | [2004](https://doi.org/10.2139/ssrn.503024) (source only) |
 | AIH-03856 | Marvin Minsky | People & Organizations | People & Organizations | — |
 | AIH-03892 | Meta AI | People & Organizations | People & Organizations | — |
 | AIH-03928 | Michael Jordan | People & Organizations | People & Organizations | — |
-| AIH-03964 | Microsoft Research | People & Organizations | People & Organizations | — |
+| AIH-03964 | Microsoft Research | People & Organizations | People & Organizations | [1998](https://doi.org/10.1109/2.641977) (source only) |
 | AIH-04000 | Mila | People & Organizations | People & Organizations | — |
 | AIH-04036 | MIT CSAIL | People & Organizations | People & Organizations | — |
-| AIH-04071 | Model Hub | People & Organizations | People & Organizations | — |
-| AIH-04106 | Model Provider | People & Organizations | People & Organizations | — |
+| AIH-04071 | Model Hub | People & Organizations | People & Organizations | [2026](https://doi.org/10.5194/egusphere-egu26-14931) (source only) |
+| AIH-04106 | Model Provider | People & Organizations | People & Organizations | [2026](https://doi.org/10.32614/cran.package.aisdk.providers) (source only) |
 | AIH-04141 | Model Release Norms | People & Organizations | People & Organizations | — |
 | AIH-04176 | Moravec's Paradox | People & Organizations | People & Organizations | — |
 | AIH-04211 | Multistakeholder Governance | People & Organizations | People & Organizations | — |
 | AIH-04246 | National AI Strategy | People & Organizations | People & Organizations | — |
 | AIH-04280 | NeurIPS | People & Organizations | People & Organizations | — |
-| AIH-04313 | Nick Bostrom | People & Organizations | People & Organizations | — |
-| AIH-04346 | Norbert Wiener | People & Organizations | People & Organizations | — |
-| AIH-04379 | Open Source Community | People & Organizations | People & Organizations | — |
+| AIH-04313 | Nick Bostrom | People & Organizations | People & Organizations | [2002](https://doi.org/10.1023/a:1021411025221) (source only) |
+| AIH-04346 | Norbert Wiener | People & Organizations | People & Organizations | [1964](https://doi.org/10.1063/1.3051599) (source only) |
+| AIH-04379 | Open Source Community | People & Organizations | People & Organizations | [2006](https://doi.org/10.1142/9781860948916_0003) (source only) |
 | AIH-04412 | Open Standard | People & Organizations | People & Organizations | — |
-| AIH-04445 | OpenReview | People & Organizations | People & Organizations | — |
+| AIH-04445 | OpenReview | People & Organizations | People & Organizations | [2021](https://doi.org/10.1007/978-3-030-85896-4_6) (source only) |
 | AIH-04478 | Papers with Code Platform | People & Organizations | People & Organizations | — |
 | AIH-04511 | Participatory Design | People & Organizations | People & Organizations | — |
 | AIH-04544 | Perceptrons Book | People & Organizations | People & Organizations | — |
@@ -167,61 +167,61 @@
 | AIH-02410 | Compatibility Matrix | Programming & Software | Programming & Software | [2010](https://doi.org/10.1007/978-3-540-76435-9_4095) (source only) |
 | AIH-02448 | Compilation Success Rate | Programming & Software | Programming & Software | — |
 | AIH-02486 | Compiler | Programming & Software | Programming & Software | — |
-| AIH-02524 | Compiler Optimization | Programming & Software | Programming & Software | — |
-| AIH-02562 | Composition over Inheritance | Programming & Software | Programming & Software | — |
-| AIH-02600 | Comprehension | Programming & Software | Programming & Software | — |
-| AIH-02638 | Concurrency | Programming & Software | Programming & Software | — |
-| AIH-02676 | Consensus Protocol | Programming & Software | Programming & Software | — |
+| AIH-02524 | Compiler Optimization | Programming & Software | Programming & Software | [1968](https://doi.org/10.1093/comjnl/11.1.22) (source only) |
+| AIH-02562 | Composition over Inheritance | Programming & Software | Programming & Software | [2026](https://doi.org/10.5281/zenodo.22164841) (source only) |
+| AIH-02600 | Comprehension | Programming & Software | Programming & Software | [1969](https://doi.org/10.1037/h0027461) (source only) |
+| AIH-02638 | Concurrency | Programming & Software | Programming & Software | [1980](https://doi.org/10.1007/3-540-10003-2_79) (source only) |
+| AIH-02676 | Consensus Protocol | Programming & Software | Programming & Software | [2004](https://doi.org/10.1109/reldis.2004.1353023) (source only) |
 | AIH-02714 | Consistency in Style | Programming & Software | Programming & Software | — |
-| AIH-02752 | Constant Folding | Programming & Software | Programming & Software | — |
+| AIH-02752 | Constant Folding | Programming & Software | Programming & Software | [1979](https://doi.org/10.1016/0096-0551(79)90015-8) (source only) |
 | AIH-02790 | Continuous Deployment (CD) | Programming & Software | Programming & Software | — |
-| AIH-02828 | Contract Programming | Programming & Software | Programming & Software | — |
+| AIH-02828 | Contract Programming | Programming & Software | Programming & Software | [2003](https://doi.org/10.1109/icse.2003.1201250) (source only) |
 | AIH-02866 | Contract Testing | Programming & Software | Programming & Software | — |
-| AIH-02904 | Convention over Configuration | Programming & Software | Programming & Software | — |
+| AIH-02904 | Convention over Configuration | Programming & Software | Programming & Software | [2023](https://doi.org/10.22541/au.168067455.55373151/v1) (source only) |
 | AIH-02942 | Coroutine | Programming & Software | Programming & Software | — |
-| AIH-02980 | Coupling | Programming & Software | Programming & Software | — |
-| AIH-03018 | CQRS | Programming & Software | Programming & Software | — |
-| AIH-03056 | Cross-File Context | Programming & Software | Programming & Software | — |
-| AIH-03093 | Currying | Programming & Software | Programming & Software | — |
+| AIH-02980 | Coupling | Programming & Software | Programming & Software | [2001](https://doi.org/10.1093/gmo/9781561592630.article.15368) (source only) |
+| AIH-03018 | CQRS | Programming & Software | Programming & Software | [2012](https://doi.org/10.1145/2602928.2603078) (source only) |
+| AIH-03056 | Cross-File Context | Programming & Software | Programming & Software | [2024](https://doi.org/10.63317/55z6pyuui3ij) (source only) |
+| AIH-03093 | Currying | Programming & Software | Programming & Software | [1983](https://doi.org/10.1016/0020-0190(83)90110-2) (source only) |
 | AIH-03130 | Cyclomatic Complexity | Programming & Software | Programming & Software | — |
-| AIH-03167 | Dangling Pointer | Programming & Software | Programming & Software | — |
+| AIH-03167 | Dangling Pointer | Programming & Software | Programming & Software | [2017](https://doi.org/10.1088/1742-6596/887/1/012053) (source only) |
 | AIH-03204 | Dead Code Elimination | Programming & Software | Programming & Software | — |
-| AIH-03241 | Deadlock | Programming & Software | Programming & Software | — |
+| AIH-03241 | Deadlock | Programming & Software | Programming & Software | [1922](https://doi.org/10.1002/ncr.4110110507) (source only) |
 | AIH-03278 | Debugging Hypothesis | Programming & Software | Programming & Software | — |
-| AIH-03315 | Defensive Programming | Programming & Software | Programming & Software | — |
-| AIH-03352 | Dependency Bloat | Programming & Software | Programming & Software | — |
-| AIH-03389 | Dependency Graph | Programming & Software | Programming & Software | — |
+| AIH-03315 | Defensive Programming | Programming & Software | Programming & Software | [2001](https://doi.org/10.1007/978-1-4302-0909-6_37) (source only) |
+| AIH-03352 | Dependency Bloat | Programming & Software | Programming & Software | [2025](https://doi.org/10.1109/ase63991.2025.00377) (source only) |
+| AIH-03389 | Dependency Graph | Programming & Software | Programming & Software | [1983](https://doi.org/10.1016/b978-0-12-206380-0.50006-7) (source only) |
 | AIH-03425 | Dependency Injection (DI) | Programming & Software | Programming & Software | — |
 | AIH-03461 | Dependency Suggestion Risk | Programming & Software | Programming & Software | — |
-| AIH-03497 | Deployment Frequency | Programming & Software | Programming & Software | — |
-| AIH-03533 | Deprecation | Programming & Software | Programming & Software | — |
-| AIH-03569 | Deque | Programming & Software | Programming & Software | — |
-| AIH-03605 | Deserialization | Programming & Software | Programming & Software | — |
-| AIH-03641 | Design Pattern | Programming & Software | Programming & Software | — |
-| AIH-03677 | Developer Experience | Programming & Software | Programming & Software | — |
+| AIH-03497 | Deployment Frequency | Programming & Software | Programming & Software | [1996](https://doi.org/10.4271/960664) (source only) |
+| AIH-03533 | Deprecation | Programming & Software | Programming & Software | [1998](https://openalex.org/W3115075061) (source only) |
+| AIH-03569 | Deque | Programming & Software | Programming & Software | [1992](https://doi.org/10.1007/bf01191208) (source only) |
+| AIH-03605 | Deserialization | Programming & Software | Programming & Software | [1980](https://doi.org/10.1300/j123v04n04_01) (source only) |
+| AIH-03641 | Design Pattern | Programming & Software | Programming & Software | [2007](https://doi.org/10.4018/978-1-59904-219-0) (source only) |
+| AIH-03677 | Developer Experience | Programming & Software | Programming & Software | [2008](https://doi.org/10.1145/1543137.1543181) (source only) |
 | AIH-03713 | Development Container | Programming & Software | Programming & Software | — |
-| AIH-03749 | Dictionary | Programming & Software | Programming & Software | — |
-| AIH-03785 | Distributed Transaction | Programming & Software | Programming & Software | — |
+| AIH-03749 | Dictionary | Programming & Software | Programming & Software | [1983](https://doi.org/10.1515/9780824843069-004) (source only) |
+| AIH-03785 | Distributed Transaction | Programming & Software | Programming & Software | [1987](https://doi.org/10.1007/978-3-642-46604-5_13) (source only) |
 | AIH-03821 | Docstring Quality | Programming & Software | Programming & Software | — |
-| AIH-03857 | Documentation Drift | Programming & Software | Programming & Software | — |
-| AIH-03893 | Documentation Generation | Programming & Software | Programming & Software | — |
+| AIH-03857 | Documentation Drift | Programming & Software | Programming & Software | [2025](https://doi.org/10.1109/miucc66482.2025.11196773) (source only) |
+| AIH-03893 | Documentation Generation | Programming & Software | Programming & Software | [1985](https://doi.org/10.1145/10563.10568) (source only) |
 | AIH-03929 | Domain-Driven Design (DDD) | Programming & Software | Programming & Software | — |
-| AIH-03965 | Duck Typing | Programming & Software | Programming & Software | — |
-| AIH-04001 | Dynamic Array | Programming & Software | Programming & Software | — |
-| AIH-04037 | Dynamic Typing | Programming & Software | Programming & Software | — |
+| AIH-03965 | Duck Typing | Programming & Software | Programming & Software | [2017](https://doi.org/10.1109/icpc.2017.10) (source only) |
+| AIH-04001 | Dynamic Array | Programming & Software | Programming & Software | [2007](https://doi.org/10.1201/9781420010336-19) (source only) |
+| AIH-04037 | Dynamic Typing | Programming & Software | Programming & Software | [1992](https://doi.org/10.1007/3-540-55253-7_14) (source only) |
 | AIH-04072 | Eager Evaluation | Programming & Software | Programming & Software | — |
 | AIH-04107 | Edge Case Handling in Code | Programming & Software | Programming & Software | — |
-| AIH-04142 | Encapsulation | Programming & Software | Programming & Software | — |
-| AIH-04177 | Endianness | Programming & Software | Programming & Software | — |
+| AIH-04142 | Encapsulation | Programming & Software | Programming & Software | [1995](https://doi.org/10.1021/bk-1995-0590.ch015) (source only) |
+| AIH-04177 | Endianness | Programming & Software | Programming & Software | [2009](https://doi.org/10.1109/idaacs.2009.5342909) (source only) |
 | AIH-04212 | Error Budget for Changes | Programming & Software | Programming & Software | — |
 | AIH-04247 | Error Handling Strategy | Programming & Software | Programming & Software | — |
 | AIH-04281 | Error Propagation | Programming & Software | Programming & Software | — |
-| AIH-04314 | Event Loop | Programming & Software | Programming & Software | — |
-| AIH-04347 | Event Sourcing | Programming & Software | Programming & Software | — |
-| AIH-04380 | Eventual Consistency | Programming & Software | Programming & Software | — |
+| AIH-04314 | Event Loop | Programming & Software | Programming & Software | [2004](https://doi.org/10.1016/s0167-5273(04)00033-6) (source only) |
+| AIH-04347 | Event Sourcing | Programming & Software | Programming & Software | [2014](https://doi.org/10.4108/icst.simutools.2014.254624) (source only) |
+| AIH-04380 | Eventual Consistency | Programming & Software | Programming & Software | [2002](https://doi.org/10.1145/582128.582150) (source only) |
 | AIH-04413 | Exception versus Result Type | Programming & Software | Programming & Software | — |
-| AIH-04446 | Facade Pattern | Programming & Software | Programming & Software | — |
-| AIH-04479 | Factory Pattern | Programming & Software | Programming & Software | — |
+| AIH-04446 | Facade Pattern | Programming & Software | Programming & Software | [2012](https://doi.org/10.11108/kagis.2012.15.2.046) (source only) |
+| AIH-04479 | Factory Pattern | Programming & Software | Programming & Software | [2003](https://doi.org/10.1007/978-1-4302-0776-4_15) (source only) |
 | AIH-04512 | Fail Fast | Programming & Software | Programming & Software | — |
 | AIH-04545 | False Positive in Review | Programming & Software | Programming & Software | — |
 | AIH-04578 | False Sharing | Programming & Software | Programming & Software | — |
@@ -304,20 +304,20 @@
 | AIH-02411 | Qubit Connectivity | Quantum & Emerging Compute | Quantum & Emerging Compute | [2015](https://doi.org/10.1007/s11128-015-1150-6) (source only) |
 | AIH-02449 | QUBO | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-02487 | Reservoir Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02525 | Reversible Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02563 | Shor's Algorithm | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-02525 | Reversible Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | [1980](https://doi.org/10.21236/ada082021) (source only) |
+| AIH-02563 | Shor's Algorithm | Quantum & Emerging Compute | Quantum & Emerging Compute | [1997](https://doi.org/10.1103/physreva.55.2594) (source only) |
 | AIH-02601 | Shot Noise in Quantum Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02639 | Stochastic Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02677 | Superconducting Qubit | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02715 | Surface Code | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02753 | Tensor Network Simulation | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02791 | Thermodynamic Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02829 | Threshold Theorem | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02867 | Topological Qubit | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02905 | Trapped Ion Qubit | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-02639 | Stochastic Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | [1967](https://doi.org/10.1145/1465482.1465505) (source only) |
+| AIH-02677 | Superconducting Qubit | Quantum & Emerging Compute | Quantum & Emerging Compute | [2005](https://doi.org/10.1126/science.310.5754.1581c) (source only) |
+| AIH-02715 | Surface Code | Quantum & Emerging Compute | Quantum & Emerging Compute | [2012](https://doi.org/10.1142/9789814425223_0004) (source only) |
+| AIH-02753 | Tensor Network Simulation | Quantum & Emerging Compute | Quantum & Emerging Compute | [2019](https://doi.org/10.1103/physrevd.100.074512) (source only) |
+| AIH-02791 | Thermodynamic Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | [2017](https://doi.org/10.20944/preprints201701.0097.v1) (source only) |
+| AIH-02829 | Threshold Theorem | Quantum & Emerging Compute | Quantum & Emerging Compute | [1967](https://doi.org/10.1007/bf02747837) (source only) |
+| AIH-02867 | Topological Qubit | Quantum & Emerging Compute | Quantum & Emerging Compute | [2010](https://doi.org/10.1142/s1230161210000023) (source only) |
+| AIH-02905 | Trapped Ion Qubit | Quantum & Emerging Compute | Quantum & Emerging Compute | [2006](https://doi.org/10.1103/physrevlett.97.040505) (source only) |
 | AIH-02943 | Variational Quantum Algorithm (VQA) | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-02981 | Variational Quantum Eigensolver (VQE) | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-03019 | Zero-Noise Extrapolation (ZNE) | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-02981 | Variational Quantum Eigensolver (VQE) | Quantum & Emerging Compute | Quantum & Emerging Compute | [2020](https://doi.org/10.1007/978-3-030-61705-9_21) (source only) |
+| AIH-03019 | Zero-Noise Extrapolation (ZNE) | Quantum & Emerging Compute | Quantum & Emerging Compute | [2025](https://doi.org/10.21203/rs.3.rs-7883122/v1) (source only) |
 | AIH-00132 | Amplification Measurement | Recommender Systems | Recommender Systems | [2022](https://doi.org/10.1016/j.physleta.2022.128329) (source only) |
 | AIH-00170 | Bandit Recommendation | Recommender Systems | Recommender Systems | [2024](https://doi.org/10.1109/icassp48485.2024.10446562) (source only) |
 | AIH-00208 | Basket Recommendation | Recommender Systems | Recommender Systems | [2010](https://doi.org/10.1145/1772690.1772773) (source only) |
@@ -381,47 +381,47 @@
 | AIH-02412 | LightGCN | Recommender Systems | Recommender Systems | [2020](https://doi.org/10.1145/3397271.3401063) (source only) |
 | AIH-02450 | Long Tail Recommendation | Recommender Systems | Recommender Systems | [2012](https://doi.org/10.14778/2311906.2311916) (source only) |
 | AIH-02488 | Matrix Factorization for Recommendation | Recommender Systems | Recommender Systems | [2013](https://doi.org/10.1145/2487788.2487801) (source only) |
-| AIH-02526 | Multi-Interest User Model | Recommender Systems | Recommender Systems | — |
-| AIH-02564 | Multi-Objective Recommendation | Recommender Systems | Recommender Systems | — |
-| AIH-02602 | Multi-Stage Recommender | Recommender Systems | Recommender Systems | — |
-| AIH-02640 | Negative Sampling for Recommendation | Recommender Systems | Recommender Systems | — |
-| AIH-02678 | Next-Item Prediction | Recommender Systems | Recommender Systems | — |
+| AIH-02526 | Multi-Interest User Model | Recommender Systems | Recommender Systems | [2009](https://openalex.org/W2373536223) ★ (estimated) |
+| AIH-02564 | Multi-Objective Recommendation | Recommender Systems | Recommender Systems | [2012](https://doi.org/10.1145/3251585) (source only) |
+| AIH-02602 | Multi-Stage Recommender | Recommender Systems | Recommender Systems | [2022](https://doi.org/10.1145/3523227.3547369) (source only) |
+| AIH-02640 | Negative Sampling for Recommendation | Recommender Systems | Recommender Systems | [2019](https://doi.org/10.24963/ijcai.2019/309) (source only) |
+| AIH-02678 | Next-Item Prediction | Recommender Systems | Recommender Systems | [2018](https://doi.org/10.1109/mis.2018.2881516) (source only) |
 | AIH-02716 | Notification Recommendation | Recommender Systems | Recommender Systems | — |
-| AIH-02754 | Novelty | Recommender Systems | Recommender Systems | — |
+| AIH-02754 | Novelty | Recommender Systems | Recommender Systems | [1975](https://doi.org/10.1007/978-94-010-1666-7_4) (source only) |
 | AIH-02792 | Off-Policy Evaluation (OPE) | Recommender Systems | Recommender Systems | — |
 | AIH-02830 | Offline Evaluation of Recommenders | Recommender Systems | Recommender Systems | — |
-| AIH-02868 | Onboarding Questionnaire | Recommender Systems | Recommender Systems | — |
-| AIH-02906 | PinSage | Recommender Systems | Recommender Systems | — |
-| AIH-02944 | Popularity Baseline | Recommender Systems | Recommender Systems | — |
+| AIH-02868 | Onboarding Questionnaire | Recommender Systems | Recommender Systems | [2022](https://doi.org/10.1097/ceh.0000000000000448) (source only) |
+| AIH-02906 | PinSage | Recommender Systems | Recommender Systems | [2025](https://doi.org/10.1109/iacis65746.2025.11211251) (source only) |
+| AIH-02944 | Popularity Baseline | Recommender Systems | Recommender Systems | [2020](https://doi.org/10.1145/3397271.3401233) (source only) |
 | AIH-02982 | Popularity Bias | Recommender Systems | Recommender Systems | — |
 | AIH-03020 | Position-Aware Ranking | Recommender Systems | Recommender Systems | — |
-| AIH-03057 | Preference Elicitation | Recommender Systems | Recommender Systems | — |
-| AIH-03094 | Provider-Side Fairness | Recommender Systems | Recommender Systems | — |
+| AIH-03057 | Preference Elicitation | Recommender Systems | Recommender Systems | [2000](https://doi.org/10.1007/978-3-662-06395-8_12) (source only) |
+| AIH-03094 | Provider-Side Fairness | Recommender Systems | Recommender Systems | [2024](https://doi.org/10.1007/978-3-031-56069-9_7) (source only) |
 | AIH-03131 | Ranked Feed | Recommender Systems | Recommender Systems | — |
-| AIH-03168 | Ranking Stage | Recommender Systems | Recommender Systems | — |
-| AIH-03205 | Rating Matrix | Recommender Systems | Recommender Systems | — |
-| AIH-03242 | Real-Time Personalization | Recommender Systems | Recommender Systems | — |
+| AIH-03168 | Ranking Stage | Recommender Systems | Recommender Systems | [2024](https://doi.org/10.1007/978-981-97-2581-6_5) (source only) |
+| AIH-03205 | Rating Matrix | Recommender Systems | Recommender Systems | [1981](https://doi.org/10.1037/t04796-000) (source only) |
+| AIH-03242 | Real-Time Personalization | Recommender Systems | Recommender Systems | [2001](https://doi.org/10.1007/3-540-44566-8_53) (source only) |
 | AIH-03279 | Recommendation Audit | Recommender Systems | Recommender Systems | — |
-| AIH-03316 | Recommendation Explanation | Recommender Systems | Recommender Systems | — |
+| AIH-03316 | Recommendation Explanation | Recommender Systems | Recommender Systems | [2018](https://doi.org/10.1145/3180308.3180343) (source only) |
 | AIH-03353 | Reranking Stage | Recommender Systems | Recommender Systems | — |
-| AIH-03390 | Row Ranking | Recommender Systems | Recommender Systems | — |
+| AIH-03390 | Row Ranking | Recommender Systems | Recommender Systems | [2023](https://doi.org/10.1145/3604915.3610247) (source only) |
 | AIH-03426 | Satisfaction Survey Signal | Recommender Systems | Recommender Systems | — |
 | AIH-03462 | Selection Bias in Logs | Recommender Systems | Recommender Systems | — |
 | AIH-03498 | Send Time Optimization | Recommender Systems | Recommender Systems | — |
-| AIH-03534 | Sequential Recommendation | Recommender Systems | Recommender Systems | — |
-| AIH-03570 | Serendipity | Recommender Systems | Recommender Systems | — |
-| AIH-03606 | Session-Based Recommendation | Recommender Systems | Recommender Systems | — |
-| AIH-03642 | Side Information | Recommender Systems | Recommender Systems | — |
-| AIH-03678 | Slate Recommendation | Recommender Systems | Recommender Systems | — |
-| AIH-03714 | Substitute Item | Recommender Systems | Recommender Systems | — |
+| AIH-03534 | Sequential Recommendation | Recommender Systems | Recommender Systems | [2016](https://doi.org/10.1007/978-3-319-23519-6_1521-1) (source only) |
+| AIH-03570 | Serendipity | Recommender Systems | Recommender Systems | [2011](https://doi.org/10.1515/9781400841523.1) (source only) |
+| AIH-03606 | Session-Based Recommendation | Recommender Systems | Recommender Systems | [2017](https://doi.org/10.1145/3125486.3125491) (source only) |
+| AIH-03642 | Side Information | Recommender Systems | Recommender Systems | [1958](https://doi.org/10.1147/rd.24.0289) (source only) |
+| AIH-03678 | Slate Recommendation | Recommender Systems | Recommender Systems | [2021](https://doi.org/10.21203/rs.3.rs-525958/v1) (source only) |
+| AIH-03714 | Substitute Item | Recommender Systems | Recommender Systems | [2022](https://doi.org/10.1109/cvprw56347.2022.00253) (source only) |
 | AIH-03750 | Trending Items | Recommender Systems | Recommender Systems | — |
-| AIH-03786 | Two-Tower Model | Recommender Systems | Recommender Systems | — |
+| AIH-03786 | Two-Tower Model | Recommender Systems | Recommender Systems | [2022](https://doi.org/10.1109/icsp54964.2022.9778758) (source only) |
 | AIH-03822 | User Control over Recommendations | Recommender Systems | Recommender Systems | — |
-| AIH-03858 | User Embedding | Recommender Systems | Recommender Systems | — |
-| AIH-03894 | User-Based Collaborative Filtering | Recommender Systems | Recommender Systems | — |
+| AIH-03858 | User Embedding | Recommender Systems | Recommender Systems | [2016](https://doi.org/10.1109/ictai.2016.0048) (source only) |
+| AIH-03894 | User-Based Collaborative Filtering | Recommender Systems | Recommender Systems | [2008](https://doi.org/10.1109/isbim.2008.191) (source only) |
 | AIH-03930 | Watch Time Optimization | Recommender Systems | Recommender Systems | — |
-| AIH-03966 | Whole-Page Optimization | Recommender Systems | Recommender Systems | — |
-| AIH-04002 | Wide and Deep Model | Recommender Systems | Recommender Systems | — |
+| AIH-03966 | Whole-Page Optimization | Recommender Systems | Recommender Systems | [2013](https://doi.org/10.1145/2492002.2482603) (source only) |
+| AIH-04002 | Wide and Deep Model | Recommender Systems | Recommender Systems | [2018](https://doi.org/10.1109/access.2018.2868083) (source only) |
 | AIH-00109 | Action | Reinforcement Learning | Reinforcement Learning | [1971](https://doi.org/10.3138/9781442656963) (source only) |
 | AIH-00147 | Action Discretization | Reinforcement Learning | Reinforcement Learning | [2020](https://doi.org/10.1109/smc42975.2020.9283043) (source only) |
 | AIH-00185 | Action Masking | Reinforcement Learning | Reinforcement Learning | [2022](https://doi.org/10.32473/flairs.v35i.130584) (source only) |
@@ -485,28 +485,28 @@
 | AIH-02389 | Fictitious Self-Play | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-02427 | Frame Skipping | Reinforcement Learning | Reinforcement Learning | [2000](https://doi.org/10.1117/12.386547) (source only) |
 | AIH-02465 | Frame Stacking | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-02503 | GAIL | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-02541 | General-Sum Game | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-02579 | Generalization in RL | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-02617 | Goal-Conditioned Policy | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-02503 | GAIL | Reinforcement Learning | Reinforcement Learning | [2000](https://doi.org/10.1016/s0140-6736(05)74761-9) (source only) |
+| AIH-02541 | General-Sum Game | Reinforcement Learning | Reinforcement Learning | [2022](https://doi.org/10.64861/cegx6818) (source only) |
+| AIH-02579 | Generalization in RL | Reinforcement Learning | Reinforcement Learning | [2023](https://doi.org/10.52202/075280-1356) (source only) |
+| AIH-02617 | Goal-Conditioned Policy | Reinforcement Learning | Reinforcement Learning | [2022](https://doi.org/10.1609/aaai.v36i7.20721) (source only) |
 | AIH-02655 | Hierarchical Reinforcement Learning | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-02693 | Hindsight Experience Replay (HER) | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-02731 | Human-Normalized Score | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-02769 | Impact Measure | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-02807 | IMPALA | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-02807 | IMPALA | Reinforcement Learning | Reinforcement Learning | [2010](https://doi.org/10.69894/20100606) (source only) |
 | AIH-02845 | Imperfect Information Game | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-02883 | Implicit Q-Learning (IQL) | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-02921 | Importance Sampling Ratio | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-02959 | Independent Learners | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-02997 | Information State | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03035 | Interruptibility | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03072 | Intrinsic Motivation | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03109 | Inverse Optimal Control | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-02997 | Information State | Reinforcement Learning | Reinforcement Learning | [2003](https://doi.org/10.5040/9781350392946.ch-006) (source only) |
+| AIH-03035 | Interruptibility | Reinforcement Learning | Reinforcement Learning | [1970](https://doi.org/10.1121/1.1974859) (source only) |
+| AIH-03072 | Intrinsic Motivation | Reinforcement Learning | Reinforcement Learning | [1975](https://doi.org/10.1007/978-1-4613-4446-9) (source only) |
+| AIH-03109 | Inverse Optimal Control | Reinforcement Learning | Reinforcement Learning | [1974](https://doi.org/10.1080/00207177408932721) (source only) |
 | AIH-03146 | KL Divergence Constraint | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-03183 | Lagrangian Safe RL | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-03220 | Latent Imagination | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-03220 | Latent Imagination | Reinforcement Learning | Reinforcement Learning | [2021](https://doi.org/10.1109/icra48506.2021.9560734) (source only) |
 | AIH-03257 | Learned Dynamics Model | Reinforcement Learning | Reinforcement Learning | — |
 
-— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
+— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

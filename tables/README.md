@@ -1,6 +1,8 @@
 # Complete AI keyword tables — 20,000 terms
 
-[**Recovery 004 — 1,000 previously unresolved entries in two 500-row historical-evidence tables (in progress)**](../batches/DATE_RESEARCH_004_RECOVERY_FIRST_1000.md)
+[**Recovery 004 — original 1,000 undated records (25 dated leads; recovery incomplete)**](../batches/DATE_RESEARCH_004_RECOVERY_FIRST_1000.md)
+
+[**Date Research 005 — next 2,000 IDs with ★ estimates and documentary sources**](../batches/DATE_RESEARCH_005_NEXT_2000.md)
 
 Every keyword is included, not a short preview. Four batches of 5,000; each divided into ten GitHub-friendly tables of 500 rows.
 

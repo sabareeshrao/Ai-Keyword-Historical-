@@ -507,6 +507,6 @@
 | AIH-14184 | logistics industry | Mathematics | CSO: statistics | — |
 | AIH-14185 | logistics management | Mathematics | CSO: statistics | — |
 
-— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
+— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

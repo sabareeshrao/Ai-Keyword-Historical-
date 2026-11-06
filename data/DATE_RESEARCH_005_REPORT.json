@@ -1,0 +1,18 @@
+{
+  "batch": "DATE_RESEARCH_005",
+  "range": [
+    "AIH-02501",
+    "AIH-04500"
+  ],
+  "examined": 2000,
+  "documented_source_dates": 1124,
+  "unresolved": 840,
+  "estimated_star_dates": 36,
+  "dated_or_estimated": 1160,
+  "verified_original_first_use": 0,
+  "existing_first_2500_unchanged": true,
+  "stable_ids_preserved": true,
+  "inventory_total": 20100,
+  "estimated_display_rule": "★ immediately after year; low-confidence supporting source and reasoning mandatory.",
+  "note": "Neither linked publication dates nor estimated years prove historical first use."
+}

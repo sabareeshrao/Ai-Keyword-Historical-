@@ -7,35 +7,35 @@
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-03476 | Knowledge Representation (KR) | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-03512 | Landmark | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-03548 | Lean | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-03512 | Landmark | AI Foundations | Symbolic AI & Reasoning | [1905](https://openalex.org/W7205322671) (source only) |
+| AIH-03548 | Lean | AI Foundations | Symbolic AI & Reasoning | [2003](https://openalex.org/W149670520) (source only) |
 | AIH-03584 | Least Constraining Value (LCV) | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-03620 | Linear Temporal Logic (LTL) | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-03656 | Linguistic Variable | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-03692 | Link Prediction | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-03728 | Liveness Property | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-03620 | Linear Temporal Logic (LTL) | AI Foundations | Symbolic AI & Reasoning | [2008](https://doi.org/10.1007/978-3-540-69407-6_4) (source only) |
+| AIH-03656 | Linguistic Variable | AI Foundations | Symbolic AI & Reasoning | [1966](https://openalex.org/W250713959) (source only) |
+| AIH-03692 | Link Prediction | AI Foundations | Symbolic AI & Reasoning | [2014](https://doi.org/10.3724/sp.j.1001.2012.04206) (source only) |
+| AIH-03728 | Liveness Property | AI Foundations | Symbolic AI & Reasoning | [1983](https://doi.org/10.1016/0020-0190(83)90039-x) (source only) |
 | AIH-03764 | Local Consistency | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-03800 | Logic Programming | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-03836 | Loop Invariant | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-03800 | Logic Programming | AI Foundations | Symbolic AI & Reasoning | [1984](https://doi.org/10.1016/0743-1066(84)90030-x) (source only) |
+| AIH-03836 | Loop Invariant | AI Foundations | Symbolic AI & Reasoning | [1999](https://doi.org/10.1016/s0005-1098(98)00122-8) (source only) |
 | AIH-03872 | Markov Logic Network (MLN) | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-03908 | Means-End Reasoning | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-03944 | Membership Function | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-03944 | Membership Function | AI Foundations | Symbolic AI & Reasoning | [2008](https://doi.org/10.2139/ssrn.1101374) (source only) |
 | AIH-03980 | Minimax Search | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-04016 | Minimum Remaining Values (MRV) | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04051 | Model Checking | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04086 | Modus Ponens | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04121 | Modus Tollens | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04156 | Monotonic Reasoning | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-04051 | Model Checking | AI Foundations | Symbolic AI & Reasoning | [1993](https://doi.org/10.1007/978-1-4615-3190-6_2) (source only) |
+| AIH-04086 | Modus Ponens | AI Foundations | Symbolic AI & Reasoning | [1976](https://doi.org/10.30920/letras.48.84-85.05) (source only) |
+| AIH-04121 | Modus Tollens | AI Foundations | Symbolic AI & Reasoning | [1979](https://doi.org/10.1305/ndjfl/1093882408) (source only) |
+| AIH-04156 | Monotonic Reasoning | AI Foundations | Symbolic AI & Reasoning | [1980](https://doi.org/10.1016/0004-3702(80)90013-2) (source only) |
 | AIH-04191 | Naive Physics | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-04226 | Negation as Failure (NAF) | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04261 | Neural Theorem Prover | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04295 | Neuro-Symbolic Integration | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04328 | Node Expansion | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-04261 | Neural Theorem Prover | AI Foundations | Symbolic AI & Reasoning | [2017](https://doi.org/10.5626/jok.2017.44.4.399) (source only) |
+| AIH-04295 | Neuro-Symbolic Integration | AI Foundations | Symbolic AI & Reasoning | [2010](https://doi.org/10.1037/e601732011-008) (source only) |
+| AIH-04328 | Node Expansion | AI Foundations | Symbolic AI & Reasoning | [1994](https://doi.org/10.1007/978-1-4757-4503-0_7) (source only) |
 | AIH-04361 | Non-Monotonic Reasoning | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04394 | Ontology | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04427 | Ontology Alignment | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-04394 | Ontology | AI Foundations | Symbolic AI & Reasoning | [1990](https://doi.org/10.5325/j.ctv14gpdsj.8) (source only) |
+| AIH-04427 | Ontology Alignment | AI Foundations | Symbolic AI & Reasoning | [2007](https://doi.org/10.1007/978-0-387-36501-5) (source only) |
 | AIH-04460 | Open World Assumption (OWA) | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-04493 | OWL | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-04493 | OWL | AI Foundations | Symbolic AI & Reasoning | [1994](https://doi.org/10.1016/b978-0-12-072405-5.50013-5) (source only) |
 | AIH-04526 | Partial Order Planning | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-04559 | Pattern Database (PDB) | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-04592 | PDDL | AI Foundations | Symbolic AI & Reasoning | — |
@@ -213,39 +213,39 @@
 | AIH-02399 | Cost Monitoring | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02437 | Cost per Prediction | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02473 | Cost per Token | AI Infrastructure | AI Infrastructure | — |
-| AIH-02511 | CPU Offload | AI Infrastructure | AI Infrastructure | — |
-| AIH-02549 | CUDA | AI Infrastructure | AI Infrastructure | — |
-| AIH-02587 | CUDA Core | AI Infrastructure | AI Infrastructure | — |
-| AIH-02625 | CUDA Graph | AI Infrastructure | AI Infrastructure | — |
+| AIH-02511 | CPU Offload | AI Infrastructure | AI Infrastructure | [2006](https://openalex.org/W3033190569) ★ (estimated) |
+| AIH-02549 | CUDA | AI Infrastructure | AI Infrastructure | [2007](https://openalex.org/W31392012) (source only) |
+| AIH-02587 | CUDA Core | AI Infrastructure | AI Infrastructure | [2014](https://doi.org/10.1109/latw.2014.6841913) (source only) |
+| AIH-02625 | CUDA Graph | AI Infrastructure | AI Infrastructure | [2011](https://doi.org/10.1145/1941553.1941590) (source only) |
 | AIH-02475 | Customer Impact Assessment | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02513 | DAG Definition | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02551 | Dark Launch | AI Infrastructure | MLOps & Engineering | — |
 | AIH-01410 | Dark Silicon | AI Infrastructure | Hardware & Compute | [2011](https://doi.org/10.1109/mm.2011.77) (source only) |
-| AIH-02589 | Dashboard | AI Infrastructure | MLOps & Engineering | — |
-| AIH-02627 | Data Contract | AI Infrastructure | MLOps & Engineering | — |
+| AIH-02589 | Dashboard | AI Infrastructure | MLOps & Engineering | [2016](https://doi.org/10.21884/ijmter.2016.3075.ojzhi) (source only) |
+| AIH-02627 | Data Contract | AI Infrastructure | MLOps & Engineering | [2005](https://doi.org/10.3133/fs20053010) (source only) |
 | AIH-02665 | Data Deletion Propagation | AI Infrastructure | MLOps & Engineering | — |
-| AIH-02663 | Data Format for ML | AI Infrastructure | AI Infrastructure | — |
+| AIH-02663 | Data Format for ML | AI Infrastructure | AI Infrastructure | [2004](https://doi.org/10.1093/bioinformatics/bth396) ★ (estimated) |
 | AIH-02703 | Data Freshness | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02741 | Data Incident | AI Infrastructure | MLOps & Engineering | — |
-| AIH-02779 | Data Ingestion | AI Infrastructure | MLOps & Engineering | — |
-| AIH-02817 | Data Lake | AI Infrastructure | MLOps & Engineering | — |
+| AIH-02779 | Data Ingestion | AI Infrastructure | MLOps & Engineering | [2010](https://doi.org/10.1109/9780470874103.ch4) (source only) |
+| AIH-02817 | Data Lake | AI Infrastructure | MLOps & Engineering | [2015](https://doi.org/10.1002/9781119238881.ch7) (source only) |
 | AIH-02855 | Data Loader Bug | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02701 | Data Loader Worker | AI Infrastructure | AI Infrastructure | — |
 | AIH-02739 | Data Loading Pipeline | AI Infrastructure | AI Infrastructure | — |
-| AIH-02777 | Data Parallelism | AI Infrastructure | AI Infrastructure | — |
+| AIH-02777 | Data Parallelism | AI Infrastructure | AI Infrastructure | [1993](https://doi.org/10.7551/mitpress/3499.003.0009) (source only) |
 | AIH-02893 | Data Quality Score | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02931 | Data Reprocessing | AI Infrastructure | MLOps & Engineering | — |
-| AIH-02815 | Data Residency | AI Infrastructure | AI Infrastructure | — |
+| AIH-02815 | Data Residency | AI Infrastructure | AI Infrastructure | [2017](https://doi.org/10.1504/ijhpcn.2017.10017139) (source only) |
 | AIH-02853 | Data Residency Option | AI Infrastructure | AI Infrastructure | — |
 | AIH-02969 | Data Skew | AI Infrastructure | MLOps & Engineering | — |
-| AIH-03007 | Data Transformation | AI Infrastructure | MLOps & Engineering | — |
+| AIH-03007 | Data Transformation | AI Infrastructure | MLOps & Engineering | [1963](https://doi.org/10.21236/ad0401543) (source only) |
 | AIH-03045 | Data Warehouse | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02891 | Datacenter Region | AI Infrastructure | AI Infrastructure | — |
-| AIH-02929 | Dataflow Architecture | AI Infrastructure | AI Infrastructure | — |
+| AIH-02929 | Dataflow Architecture | AI Infrastructure | AI Infrastructure | [1984](https://doi.org/10.1145/800015.808197) (source only) |
 | AIH-01448 | DDR Memory | AI Infrastructure | Hardware & Compute | — |
 | AIH-03082 | Dead Letter Queue (DLQ) | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02967 | Deadline Propagation | AI Infrastructure | AI Infrastructure | — |
-| AIH-03119 | Decision Record | AI Infrastructure | MLOps & Engineering | — |
+| AIH-03119 | Decision Record | AI Infrastructure | MLOps & Engineering | [1989](https://doi.org/10.5962/bhl.title.157037) (source only) |
 | AIH-03156 | Decision Reproducibility | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03193 | Default Configuration | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03230 | Degenerate Feedback Loop | AI Infrastructure | MLOps & Engineering | — |
@@ -259,52 +259,52 @@
 | AIH-01524 | Depreciation Schedule | AI Infrastructure | Hardware & Compute | [1983](https://doi.org/10.5791/0882-2875-2.3.14) (source only) |
 | AIH-03378 | Derived Data Inventory | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03415 | Design Review | AI Infrastructure | MLOps & Engineering | — |
-| AIH-03451 | Detective Control | AI Infrastructure | MLOps & Engineering | — |
-| AIH-03117 | Deterministic Training | AI Infrastructure | AI Infrastructure | — |
+| AIH-03451 | Detective Control | AI Infrastructure | MLOps & Engineering | [2019](https://doi.org/10.1049/pbcs067e_ch2) (source only) |
+| AIH-03117 | Deterministic Training | AI Infrastructure | AI Infrastructure | [2022](https://doi.org/10.1145/3522664.3528605) (source only) |
 | AIH-01562 | Device Driver | AI Infrastructure | Hardware & Compute | [1980](https://doi.org/10.1002/spe.4380100304) (source only) |
 | AIH-01600 | Device Plugin | AI Infrastructure | Hardware & Compute | [2023](https://doi.org/10.1109/icpeca56706.2023.10076221) (source only) |
 | AIH-01638 | Die | AI Infrastructure | Hardware & Compute | — |
-| AIH-03154 | Digital Signal Processor (DSP) | AI Infrastructure | AI Infrastructure | — |
+| AIH-03154 | Digital Signal Processor (DSP) | AI Infrastructure | AI Infrastructure | [1987](https://doi.org/10.1117/12.942960) (source only) |
 | AIH-01676 | Direct Memory Access (DMA) | AI Infrastructure | Hardware & Compute | [1983](https://doi.org/10.1063/1.1137353) (source only) |
 | AIH-03487 | Directional Expectation Test | AI Infrastructure | MLOps & Engineering | — |
-| AIH-03523 | Directional Test for Models | AI Infrastructure | MLOps & Engineering | — |
+| AIH-03523 | Directional Test for Models | AI Infrastructure | MLOps & Engineering | [2002](https://doi.org/10.2514/6.2002-4626) ★ (estimated) |
 | AIH-03191 | Disaggregated Serving | AI Infrastructure | AI Infrastructure | — |
-| AIH-03228 | Distributed Checkpointing | AI Infrastructure | AI Infrastructure | — |
+| AIH-03228 | Distributed Checkpointing | AI Infrastructure | AI Infrastructure | [2004](https://doi.org/10.1016/j.jpdc.2004.01.003) (source only) |
 | AIH-03265 | Distributed Data Parallel (DDP) | AI Infrastructure | AI Infrastructure | — |
-| AIH-03559 | Distributed Tracing | AI Infrastructure | MLOps & Engineering | — |
-| AIH-03302 | Distributed Training | AI Infrastructure | AI Infrastructure | — |
+| AIH-03559 | Distributed Tracing | AI Infrastructure | MLOps & Engineering | [2019](https://doi.org/10.1109/cloudcom.2019.00039) (source only) |
+| AIH-03302 | Distributed Training | AI Infrastructure | AI Infrastructure | [1988](https://doi.org/10.21236/ada197083) (source only) |
 | AIH-03339 | Docker | AI Infrastructure | AI Infrastructure | — |
-| AIH-03595 | Documentation Requirement | AI Infrastructure | MLOps & Engineering | — |
+| AIH-03595 | Documentation Requirement | AI Infrastructure | MLOps & Engineering | [2009](https://doi.org/10.1016/j.jpubeco.2009.11.004) (source only) |
 | AIH-01714 | Double Buffering | AI Infrastructure | Hardware & Compute | [1982](https://doi.org/10.1093/comjnl/25.2.227) (source only) |
 | AIH-01752 | DPU | AI Infrastructure | Hardware & Compute | — |
-| AIH-03376 | Draft Model | AI Infrastructure | AI Infrastructure | — |
+| AIH-03376 | Draft Model | AI Infrastructure | AI Infrastructure | [1975](https://doi.org/10.1136/bmj.2.5961.49) (source only) |
 | AIH-01790 | Dragonfly Topology | AI Infrastructure | Hardware & Compute | — |
 | AIH-03631 | Drift Metric Selection | AI Infrastructure | MLOps & Engineering | — |
-| AIH-03413 | Dynamic Batching | AI Infrastructure | AI Infrastructure | — |
+| AIH-03413 | Dynamic Batching | AI Infrastructure | AI Infrastructure | [1991](https://doi.org/10.1109/66.79719) (source only) |
 | AIH-01828 | Dynamic Range | AI Infrastructure | Hardware & Compute | [2006](https://doi.org/10.1016/b978-0-12-585263-0.x5000-3) (source only) |
 | AIH-01866 | Dynamic Voltage and Frequency Scaling (DVFS) | AI Infrastructure | Hardware & Compute | — |
 | AIH-01904 | Edge Accelerator | AI Infrastructure | Hardware & Compute | — |
 | AIH-03449 | Edge AI | AI Infrastructure | AI Infrastructure | — |
-| AIH-03485 | Edge Computing | AI Infrastructure | AI Infrastructure | — |
-| AIH-03667 | Efficiency Initiative | AI Infrastructure | MLOps & Engineering | — |
-| AIH-03521 | Elastic Training | AI Infrastructure | AI Infrastructure | — |
-| AIH-03703 | ELT | AI Infrastructure | MLOps & Engineering | — |
-| AIH-03739 | Embedded Model | AI Infrastructure | MLOps & Engineering | — |
+| AIH-03485 | Edge Computing | AI Infrastructure | AI Infrastructure | [2017](https://doi.org/10.1109/edge41132.2017) (source only) |
+| AIH-03667 | Efficiency Initiative | AI Infrastructure | MLOps & Engineering | [2003](https://doi.org/10.1037/e322312004-014) (source only) |
+| AIH-03521 | Elastic Training | AI Infrastructure | AI Infrastructure | [2010](https://doi.org/10.1111/j.1532-950x.2010.00703.x) (source only) |
+| AIH-03703 | ELT | AI Infrastructure | MLOps & Engineering | [1986](https://doi.org/10.1093/elt/40.3.191) (source only) |
+| AIH-03739 | Embedded Model | AI Infrastructure | MLOps & Engineering | [2008](https://doi.org/10.1109/sies.2008.4577709) (source only) |
 | AIH-03775 | Embedding Drift Detection | AI Infrastructure | MLOps & Engineering | — |
-| AIH-03557 | Embedding Endpoint | AI Infrastructure | AI Infrastructure | — |
+| AIH-03557 | Embedding Endpoint | AI Infrastructure | AI Infrastructure | [2020](https://doi.org/10.1016/j.artmed.2020.101915) ★ (estimated) |
 | AIH-03811 | Emergency Change | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03593 | Emergency Disable | AI Infrastructure | AI Infrastructure | — |
-| AIH-03847 | End-to-End Test | AI Infrastructure | MLOps & Engineering | — |
+| AIH-03847 | End-to-End Test | AI Infrastructure | MLOps & Engineering | [1994](https://doi.org/10.2514/6.1994-3244) (source only) |
 | AIH-01942 | Energy per Inference | AI Infrastructure | Hardware & Compute | — |
-| AIH-03629 | Environment Parity | AI Infrastructure | AI Infrastructure | — |
+| AIH-03629 | Environment Parity | AI Infrastructure | AI Infrastructure | [2005](https://doi.org/10.1186/1751-0147-46-203) (source only) |
 | AIH-03883 | Environment Pinning | AI Infrastructure | MLOps & Engineering | — |
-| AIH-03919 | Error Analysis | AI Infrastructure | MLOps & Engineering | — |
-| AIH-03955 | Error Budget | AI Infrastructure | MLOps & Engineering | — |
-| AIH-03991 | Escalation Policy | AI Infrastructure | MLOps & Engineering | — |
+| AIH-03919 | Error Analysis | AI Infrastructure | MLOps & Engineering | [1964](https://doi.org/10.21236/ad0616993) (source only) |
+| AIH-03955 | Error Budget | AI Infrastructure | MLOps & Engineering | [1990](https://doi.org/10.1364/ao.29.003590) (source only) |
+| AIH-03991 | Escalation Policy | AI Infrastructure | MLOps & Engineering | [2008](https://doi.org/10.1201/9781420072464.ax21) (source only) |
 | AIH-04027 | ETL | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04062 | Eval Drift | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04097 | Evaluation Data Refresh | AI Infrastructure | MLOps & Engineering | — |
-| AIH-04132 | Evaluation Report | AI Infrastructure | MLOps & Engineering | — |
+| AIH-04132 | Evaluation Report | AI Infrastructure | MLOps & Engineering | [1900](https://doi.org/10.5089/9781475599510.017) (source only) |
 | AIH-04167 | Event Time vs Processing Time | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04202 | Exactly-Once Processing | AI Infrastructure | MLOps & Engineering | — |
 | AIH-01980 | Exascale Computing | AI Infrastructure | Hardware & Compute | [2007](https://doi.org/10.2172/1020814) (source only) |
@@ -314,17 +314,17 @@
 | AIH-04339 | Explanation Retention | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02018 | Extreme Ultraviolet Lithography (EUV) | AI Infrastructure | Hardware & Compute | — |
 | AIH-02056 | Fabless Design | AI Infrastructure | Hardware & Compute | [2014](https://doi.org/10.1109/rfic.2014.6851637) (source only) |
-| AIH-04372 | Failure Mode Taxonomy | AI Infrastructure | MLOps & Engineering | — |
+| AIH-04372 | Failure Mode Taxonomy | AI Infrastructure | MLOps & Engineering | [2004](https://doi.org/10.1007/978-0-85729-410-4_25) (source only) |
 | AIH-02094 | Fair Share Scheduling | AI Infrastructure | Hardware & Compute | — |
 | AIH-04405 | Fairness Regression Test | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03665 | Fallback Chain | AI Infrastructure | AI Infrastructure | — |
 | AIH-02132 | Fallback to CPU | AI Infrastructure | Hardware & Compute | — |
 | AIH-02170 | Fat Tree Topology | AI Infrastructure | Hardware & Compute | [2008](https://doi.org/10.1109/icpads.2008.44) (source only) |
 | AIH-03701 | Fault Tolerance in Training | AI Infrastructure | AI Infrastructure | — |
-| AIH-03737 | Feature Flag | AI Infrastructure | AI Infrastructure | — |
-| AIH-03773 | Feature Gate | AI Infrastructure | AI Infrastructure | — |
+| AIH-03737 | Feature Flag | AI Infrastructure | AI Infrastructure | [2020](https://doi.org/10.1145/3379597.3387463) (source only) |
+| AIH-03773 | Feature Gate | AI Infrastructure | AI Infrastructure | [2024](https://doi.org/10.1016/j.patcog.2024.110594) (source only) |
 | AIH-04438 | Feature Parity | AI Infrastructure | MLOps & Engineering | — |
-| AIH-04471 | Feedback Data Collection | AI Infrastructure | MLOps & Engineering | — |
+| AIH-04471 | Feedback Data Collection | AI Infrastructure | MLOps & Engineering | [2025](https://doi.org/10.5120/ijca2025924552) (source only) |
 | AIH-04504 | Feedback Loop in Production | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03809 | Field-Programmable Gate Array (FPGA) | AI Infrastructure | AI Infrastructure | — |
 | AIH-04537 | FinOps | AI Infrastructure | MLOps & Engineering | — |
@@ -336,9 +336,9 @@
 | AIH-02322 | Foundry | AI Infrastructure | Hardware & Compute | — |
 | AIH-04603 | Freshness Check | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03881 | Fully Sharded Data Parallel (FSDP) | AI Infrastructure | AI Infrastructure | — |
-| AIH-03917 | Gang Scheduling | AI Infrastructure | AI Infrastructure | — |
+| AIH-03917 | Gang Scheduling | AI Infrastructure | AI Infrastructure | [1996](https://doi.org/10.1007/bfb0022289) (source only) |
 | AIH-02360 | GDDR Memory | AI Infrastructure | Hardware & Compute | — |
-| AIH-03953 | Global Memory | AI Infrastructure | AI Infrastructure | — |
+| AIH-03953 | Global Memory | AI Infrastructure | AI Infrastructure | [2010](https://doi.org/10.1057/9780230283367_11) (source only) |
 | AIH-04636 | Golden Dataset | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03989 | GPU (Graphics Processing Unit) | AI Infrastructure | AI Infrastructure | — |
 | AIH-04025 | GPU Utilization | AI Infrastructure | AI Infrastructure | — |
@@ -349,7 +349,7 @@
 | AIH-04165 | Gradient Bucketing | AI Infrastructure | AI Infrastructure | — |
 | AIH-04702 | Gradient Check | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04200 | Gradient Compression | AI Infrastructure | AI Infrastructure | — |
-| AIH-04235 | Gradient Synchronization | AI Infrastructure | AI Infrastructure | — |
+| AIH-04235 | Gradient Synchronization | AI Infrastructure | AI Infrastructure | [2014](https://doi.org/10.1109/lcomm.2014.2346787) (source only) |
 | AIH-04270 | Gradual Ramp | AI Infrastructure | AI Infrastructure | — |
 | AIH-02398 | Graph Partitioning for Devices | AI Infrastructure | Hardware & Compute | — |
 | AIH-02436 | Grid and Block Dimensions | AI Infrastructure | Hardware & Compute | — |
@@ -359,93 +359,93 @@
 | AIH-04831 | Guardrail Metric | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02474 | Hardware Abstraction Layer (HAL) | AI Infrastructure | Hardware & Compute | — |
 | AIH-04304 | Hardware FLOPs Utilization (HFU) | AI Infrastructure | AI Infrastructure | — |
-| AIH-02512 | Hardware Lottery | AI Infrastructure | Hardware & Compute | — |
+| AIH-02512 | Hardware Lottery | AI Infrastructure | Hardware & Compute | [2021](https://doi.org/10.1145/3467017) (source only) |
 | AIH-02550 | Hardware Overhang | AI Infrastructure | Hardware & Compute | — |
-| AIH-02588 | HBM Stack | AI Infrastructure | Hardware & Compute | — |
+| AIH-02588 | HBM Stack | AI Infrastructure | Hardware & Compute | [2026](https://doi.org/10.1109/ectc51846.2026.00024) (source only) |
 | AIH-04863 | Health Check Endpoint | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04337 | Health Signal | AI Infrastructure | AI Infrastructure | — |
-| AIH-02626 | Heterogeneous Execution | AI Infrastructure | Hardware & Compute | — |
+| AIH-02626 | Heterogeneous Execution | AI Infrastructure | Hardware & Compute | [1992](https://doi.org/10.7551/mitpress/2768.003.0060) (source only) |
 | AIH-04895 | Heuristic Baseline | AI Infrastructure | MLOps & Engineering | — |
-| AIH-04370 | High Bandwidth Memory (HBM) | AI Infrastructure | AI Infrastructure | — |
-| AIH-02664 | HIP | AI Infrastructure | Hardware & Compute | — |
+| AIH-04370 | High Bandwidth Memory (HBM) | AI Infrastructure | AI Infrastructure | [2015](https://doi.org/10.1109/edaps.2015.7383697) (source only) |
+| AIH-02664 | HIP | AI Infrastructure | Hardware & Compute | [1987](https://doi.org/10.1097/00003086-198712000-00007) (source only) |
 | AIH-04927 | Holdback Group | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04403 | Homomorphic Encryption (HE) | AI Infrastructure | AI Infrastructure | — |
 | AIH-04436 | Horizontal Pod Autoscaler (HPA) | AI Infrastructure | AI Infrastructure | — |
 | AIH-04469 | Host-Device Transfer | AI Infrastructure | AI Infrastructure | — |
 | AIH-04502 | Hot Reload | AI Infrastructure | AI Infrastructure | — |
 | AIH-04535 | Hugging Face | AI Infrastructure | AI Infrastructure | — |
-| AIH-02702 | Hybrid Cloud | AI Infrastructure | Hardware & Compute | — |
+| AIH-02702 | Hybrid Cloud | AI Infrastructure | Hardware & Compute | [2013](https://doi.org/10.5220/0004354500130025) (source only) |
 | AIH-04959 | Hyperparameter Configuration File | AI Infrastructure | MLOps & Engineering | — |
 | AIH-04991 | Hyperparameter Search Budget | AI Infrastructure | MLOps & Engineering | — |
-| AIH-02740 | Hypervisor | AI Infrastructure | Hardware & Compute | — |
+| AIH-02740 | Hypervisor | AI Infrastructure | Hardware & Compute | [1973](https://doi.org/10.1145/800122.803956) (source only) |
 | AIH-05023 | Idempotency Key | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05055 | Idempotent Pipeline | AI Infrastructure | MLOps & Engineering | — |
-| AIH-02778 | Idle Power | AI Infrastructure | Hardware & Compute | — |
+| AIH-02778 | Idle Power | AI Infrastructure | Hardware & Compute | [1993](https://doi.org/10.1115/93-gt-175) (source only) |
 | AIH-05087 | Idle Resource | AI Infrastructure | MLOps & Engineering | — |
-| AIH-02816 | IEEE 754 | AI Infrastructure | Hardware & Compute | — |
+| AIH-02816 | IEEE 754 | AI Infrastructure | Hardware & Compute | [2004](https://doi.org/10.1016/b978-075067606-9/50019-9) (source only) |
 | AIH-04568 | Immutable Infrastructure | AI Infrastructure | AI Infrastructure | — |
 | AIH-04601 | In-Memory Computing | AI Infrastructure | AI Infrastructure | — |
 | AIH-04634 | Inference API | AI Infrastructure | AI Infrastructure | — |
 | AIH-04667 | InfiniBand | AI Infrastructure | AI Infrastructure | — |
 | AIH-04700 | Input Pipeline Bottleneck | AI Infrastructure | AI Infrastructure | — |
 | AIH-02854 | Instruction Cache Pressure | AI Infrastructure | Hardware & Compute | — |
-| AIH-02892 | Instruction Set Architecture (ISA) | AI Infrastructure | Hardware & Compute | — |
-| AIH-02930 | Instruction-Level Parallelism | AI Infrastructure | Hardware & Compute | — |
-| AIH-02968 | Instructions per Cycle | AI Infrastructure | Hardware & Compute | — |
-| AIH-03006 | INT4 | AI Infrastructure | Hardware & Compute | — |
+| AIH-02892 | Instruction Set Architecture (ISA) | AI Infrastructure | Hardware & Compute | [1984](https://doi.org/10.21236/ada151041) (source only) |
+| AIH-02930 | Instruction-Level Parallelism | AI Infrastructure | Hardware & Compute | [1990](https://doi.org/10.1145/99164.99177) (source only) |
+| AIH-02968 | Instructions per Cycle | AI Infrastructure | Hardware & Compute | [2001](https://doi.org/10.1016/s0167-739x(00)00053-4) (source only) |
+| AIH-03006 | INT4 | AI Infrastructure | Hardware & Compute | [2021](https://doi.org/10.1109/isscc42613.2021.9365791) (source only) |
 | AIH-03044 | INT8 | AI Infrastructure | Hardware & Compute | — |
 | AIH-03081 | Integer Quantization Format | AI Infrastructure | Hardware & Compute | — |
-| AIH-03118 | Interconnect Bandwidth | AI Infrastructure | Hardware & Compute | — |
+| AIH-03118 | Interconnect Bandwidth | AI Infrastructure | Hardware & Compute | [2020](https://doi.org/10.1109/iciis51140.2020.9342717) (source only) |
 | AIH-04733 | Interleaved Pipeline Schedule | AI Infrastructure | AI Infrastructure | — |
 | AIH-03155 | Interposer | AI Infrastructure | Hardware & Compute | — |
-| AIH-03192 | Interrupt | AI Infrastructure | Hardware & Compute | — |
-| AIH-03229 | IOPS | AI Infrastructure | Hardware & Compute | — |
+| AIH-03192 | Interrupt | AI Infrastructure | Hardware & Compute | [1971](https://doi.org/10.17487/rfc103) (source only) |
+| AIH-03229 | IOPS | AI Infrastructure | Hardware & Compute | [2002](https://doi.org/10.5670/oceanog.2002.37) (source only) |
 | AIH-04765 | JAX | AI Infrastructure | AI Infrastructure | — |
 | AIH-04797 | Jittered Backoff | AI Infrastructure | AI Infrastructure | — |
-| AIH-03266 | Job Preemption | AI Infrastructure | Hardware & Compute | — |
+| AIH-03266 | Job Preemption | AI Infrastructure | Hardware & Compute | [1990](https://doi.org/10.1111/j.1540-5915.1990.tb01692.x) (source only) |
 | AIH-04829 | Job Scheduler | AI Infrastructure | AI Infrastructure | — |
 | AIH-04861 | Keras | AI Infrastructure | AI Infrastructure | — |
-| AIH-03303 | Kernel Autotuning | AI Infrastructure | Hardware & Compute | — |
-| AIH-03340 | Kernel Bypass | AI Infrastructure | Hardware & Compute | — |
+| AIH-03303 | Kernel Autotuning | AI Infrastructure | Hardware & Compute | [2018](https://doi.org/10.1007/978-3-662-58485-9_8) (source only) |
+| AIH-03340 | Kernel Bypass | AI Infrastructure | Hardware & Compute | [2017](https://doi.org/10.1145/3098583) (source only) |
 | AIH-04893 | Kernel Launch Overhead | AI Infrastructure | AI Infrastructure | — |
 | AIH-04925 | Key Rotation | AI Infrastructure | AI Infrastructure | — |
 | AIH-04957 | Kubernetes (K8s) | AI Infrastructure | AI Infrastructure | — |
 | AIH-04989 | KV Cache | AI Infrastructure | AI Infrastructure | — |
 | AIH-05021 | KV Cache Eviction | AI Infrastructure | AI Infrastructure | — |
 | AIH-05053 | KV Cache Quantization | AI Infrastructure | AI Infrastructure | — |
-| AIH-03377 | L1 Cache | AI Infrastructure | Hardware & Compute | — |
-| AIH-03414 | L2 Cache | AI Infrastructure | Hardware & Compute | — |
+| AIH-03377 | L1 Cache | AI Infrastructure | Hardware & Compute | [2004](https://doi.org/10.1007/978-3-540-30121-9_1) (source only) |
+| AIH-03414 | L2 Cache | AI Infrastructure | Hardware & Compute | [2003](https://doi.org/10.1109/dsd.2003.1231896) (source only) |
 | AIH-05085 | LangChain | AI Infrastructure | AI Infrastructure | — |
-| AIH-03450 | Last Level Cache (LLC) | AI Infrastructure | Hardware & Compute | — |
+| AIH-03450 | Last Level Cache (LLC) | AI Infrastructure | Hardware & Compute | [2015](https://doi.org/10.1007/978-81-322-2731-1_4) (source only) |
 | AIH-03486 | Latency vs Bandwidth | AI Infrastructure | Hardware & Compute | — |
-| AIH-03522 | Lithography | AI Infrastructure | Hardware & Compute | — |
-| AIH-03558 | Loop Tiling | AI Infrastructure | Hardware & Compute | — |
-| AIH-03594 | LPDDR Memory | AI Infrastructure | Hardware & Compute | — |
-| AIH-03630 | Memory Capacity | AI Infrastructure | Hardware & Compute | — |
+| AIH-03522 | Lithography | AI Infrastructure | Hardware & Compute | [1991](https://doi.org/10.1364/sxray.1991.thd2) (source only) |
+| AIH-03558 | Loop Tiling | AI Infrastructure | Hardware & Compute | [1997](https://doi.org/10.1142/s0129626497000383) (source only) |
+| AIH-03594 | LPDDR Memory | AI Infrastructure | Hardware & Compute | [2025](https://doi.org/10.1109/emcsipi52291.2025.11170156) (source only) |
+| AIH-03630 | Memory Capacity | AI Infrastructure | Hardware & Compute | [1978](https://doi.org/10.3758/bf03197446) (source only) |
 | AIH-03666 | Memory Channel | AI Infrastructure | Hardware & Compute | — |
 | AIH-03702 | Memory Wall | AI Infrastructure | Hardware & Compute | — |
 | AIH-03738 | Message Passing Interface (MPI) | AI Infrastructure | Hardware & Compute | — |
-| AIH-03774 | Microcontroller (MCU) | AI Infrastructure | Hardware & Compute | — |
+| AIH-03774 | Microcontroller (MCU) | AI Infrastructure | Hardware & Compute | [2012](https://doi.org/10.1108/mi.2012.21829cab.012) (source only) |
 | AIH-03810 | Microscaling Format (MX) | AI Infrastructure | Hardware & Compute | — |
-| AIH-03846 | Migration | AI Infrastructure | Hardware & Compute | — |
-| AIH-03882 | MLPerf | AI Infrastructure | Hardware & Compute | — |
+| AIH-03846 | Migration | AI Infrastructure | Hardware & Compute | [1975](https://doi.org/10.2307/3002349) (source only) |
+| AIH-03882 | MLPerf | AI Infrastructure | Hardware & Compute | [2020](https://doi.org/10.1109/isca45697.2020.00045) (source only) |
 | AIH-03918 | Model Footprint | AI Infrastructure | Hardware & Compute | — |
 | AIH-03954 | Moore's Law | AI Infrastructure | Hardware & Compute | — |
 | AIH-03990 | Multi-Instance GPU (MIG) | AI Infrastructure | Hardware & Compute | — |
 | AIH-04026 | NCHW Layout | AI Infrastructure | Hardware & Compute | — |
 | AIH-04061 | Network Congestion | AI Infrastructure | Hardware & Compute | — |
-| AIH-04096 | Network Topology | AI Infrastructure | Hardware & Compute | — |
+| AIH-04096 | Network Topology | AI Infrastructure | Hardware & Compute | [1982](https://doi.org/10.1016/b978-0-12-103060-5.50011-5) (source only) |
 | AIH-04131 | NHWC Layout | AI Infrastructure | Hardware & Compute | — |
 | AIH-04166 | NUMA | AI Infrastructure | Hardware & Compute | — |
-| AIH-04201 | Numerical Precision | AI Infrastructure | Hardware & Compute | — |
-| AIH-04236 | NVMe | AI Infrastructure | Hardware & Compute | — |
+| AIH-04201 | Numerical Precision | AI Infrastructure | Hardware & Compute | [1979](https://doi.org/10.1145/800208.806423) (source only) |
+| AIH-04236 | NVMe | AI Infrastructure | Hardware & Compute | [2017](https://doi.org/10.1109/pccc.2017.8280431) (source only) |
 | AIH-04271 | On-Premises Deployment | AI Infrastructure | Hardware & Compute | — |
-| AIH-04305 | OpenCL | AI Infrastructure | Hardware & Compute | — |
+| AIH-04305 | OpenCL | AI Infrastructure | Hardware & Compute | [2012](https://doi.org/10.1016/c2011-0-69669-3) (source only) |
 | AIH-04338 | Operator Support Matrix | AI Infrastructure | Hardware & Compute | — |
-| AIH-04371 | Out-of-Order Execution | AI Infrastructure | Hardware & Compute | — |
-| AIH-04404 | Packaging Capacity | AI Infrastructure | Hardware & Compute | — |
+| AIH-04371 | Out-of-Order Execution | AI Infrastructure | Hardware & Compute | [1987](https://doi.org/10.1145/30350.30353) (source only) |
+| AIH-04404 | Packaging Capacity | AI Infrastructure | Hardware & Compute | [1990](https://doi.org/10.1128/jb.172.2.1129-1132.1990) (source only) |
 | AIH-04437 | Padding for Alignment | AI Infrastructure | Hardware & Compute | — |
-| AIH-04470 | Passthrough | AI Infrastructure | Hardware & Compute | — |
+| AIH-04470 | Passthrough | AI Infrastructure | Hardware & Compute | [1981](https://doi.org/10.2307/2327033) (source only) |
 | AIH-04503 | Peak Memory During Inference | AI Infrastructure | Hardware & Compute | — |
 | AIH-04536 | Peak Theoretical Throughput | AI Infrastructure | Hardware & Compute | — |
 | AIH-04569 | Performance per Watt | AI Infrastructure | Hardware & Compute | — |
@@ -507,6 +507,6 @@
 | AIH-00720 | Bias Audit | AI Safety | AI Policy & Governance | [2024](https://doi.org/10.1080/13600869.2024.2403053) (source only) |
 | AIH-00758 | Biometric Privacy Law | AI Safety | AI Policy & Governance | — |
 
-— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
+— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

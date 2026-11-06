@@ -72,20 +72,20 @@
 | AIH-02420 | Catastrophic Forgetting | Deep Learning | Deep Learning | — |
 | AIH-02458 | Catastrophic Forgetting in Fine-Tuning | Deep Learning | Deep Learning | — |
 | AIH-02496 | Causal Attention | Deep Learning | Deep Learning | [2023](https://doi.org/10.1016/j.neucom.2023.03.048) (source only) |
-| AIH-02534 | Causal Probe | Deep Learning | Deep Learning | — |
-| AIH-02572 | Causal Tracing | Deep Learning | Deep Learning | — |
-| AIH-02610 | Centered Kernel Alignment (CKA) | Deep Learning | Deep Learning | — |
+| AIH-02534 | Causal Probe | Deep Learning | Deep Learning | [2025](https://doi.org/10.48550/arxiv.2510.16167) (source only) |
+| AIH-02572 | Causal Tracing | Deep Learning | Deep Learning | [2007](https://openalex.org/W2358256703) (source only) |
+| AIH-02610 | Centered Kernel Alignment (CKA) | Deep Learning | Deep Learning | [2023](https://doi.org/10.1109/tpami.2022.3216518) (source only) |
 | AIH-00939 | Cerebras-GPT | Deep Learning | Models & Architectures | — |
-| AIH-02648 | Chain-of-Thought Distillation | Deep Learning | Deep Learning | — |
-| AIH-02686 | Channel | Deep Learning | Deep Learning | — |
+| AIH-02648 | Chain-of-Thought Distillation | Deep Learning | Deep Learning | [2023](https://doi.org/10.18653/v1/2023.acl-long.304) (source only) |
+| AIH-02686 | Channel | Deep Learning | Deep Learning | [2011](https://doi.org/10.3724/sp.j.1087.2011.00328) (source only) |
 | AIH-02724 | Channel Mixing | Deep Learning | Deep Learning | — |
-| AIH-02762 | Chat Template | Deep Learning | Deep Learning | — |
+| AIH-02762 | Chat Template | Deep Learning | Deep Learning | [2026](https://doi.org/10.1145/3843779.3844636) (source only) |
 | AIH-02800 | Checkerboard Artifact | Deep Learning | Deep Learning | — |
 | AIH-02838 | Chunked Cross-Attention | Deep Learning | Deep Learning | — |
 | AIH-02876 | Chunked Recurrence | Deep Learning | Deep Learning | — |
 | AIH-00977 | Cicero | Deep Learning | Models & Architectures | — |
 | AIH-02914 | Circuit | Deep Learning | Deep Learning | — |
-| AIH-02952 | Circuit Discovery | Deep Learning | Deep Learning | — |
+| AIH-02952 | Circuit Discovery | Deep Learning | Deep Learning | [2022](https://doi.org/10.1007/s40883-022-00264-z) (source only) |
 | AIH-01015 | Class Token in ViT | Deep Learning | Models & Architectures | — |
 | AIH-01053 | Classifier Head | Deep Learning | Models & Architectures | — |
 | AIH-01091 | Code Llama | Deep Learning | Models & Architectures | [2024](https://doi.org/10.1109/csr61664.2024.10679444) (source only) |
@@ -95,58 +95,58 @@
 | AIH-02990 | Compressive Memory | Deep Learning | Deep Learning | — |
 | AIH-03028 | Compute Allocation Across Layers | Deep Learning | Deep Learning | — |
 | AIH-03065 | Compute-Bound Operation | Deep Learning | Deep Learning | — |
-| AIH-03102 | Compute-Optimal Training | Deep Learning | Deep Learning | — |
+| AIH-03102 | Compute-Optimal Training | Deep Learning | Deep Learning | [2024](https://doi.org/10.52202/079017-2427) (source only) |
 | AIH-03139 | Concatenation versus Addition | Deep Learning | Deep Learning | — |
 | AIH-03176 | Concept Activation Vector (CAV) | Deep Learning | Deep Learning | — |
 | AIH-03213 | Concept Vector Arithmetic | Deep Learning | Deep Learning | — |
 | AIH-01243 | Conformer | Deep Learning | Models & Architectures | — |
 | AIH-03250 | Constitutional Feedback | Deep Learning | Deep Learning | — |
-| AIH-03287 | Constrained Decoding | Deep Learning | Deep Learning | — |
-| AIH-03324 | Content-Based Addressing | Deep Learning | Deep Learning | — |
+| AIH-03287 | Constrained Decoding | Deep Learning | Deep Learning | [2010](https://doi.org/10.1109/netcod.2010.5487687) (source only) |
+| AIH-03324 | Content-Based Addressing | Deep Learning | Deep Learning | [2020](https://doi.org/10.3390/app10207181) (source only) |
 | AIH-03361 | Continued Pretraining | Deep Learning | Deep Learning | — |
-| AIH-03398 | Contrastive Decoding | Deep Learning | Deep Learning | — |
+| AIH-03398 | Contrastive Decoding | Deep Learning | Deep Learning | [2024](https://doi.org/10.18653/v1/2024.acl-short.5) (source only) |
 | AIH-01281 | ConvNeXt | Deep Learning | Models & Architectures | [2022](https://doi.org/10.21203/rs.3.rs-1947449/v1) (source only) |
-| AIH-03434 | Convolution | Deep Learning | Deep Learning | — |
+| AIH-03434 | Convolution | Deep Learning | Deep Learning | [1978](https://doi.org/10.21236/ada074978) (source only) |
 | AIH-03470 | Convolution-Attention Hybrid | Deep Learning | Deep Learning | — |
-| AIH-03506 | Convolutional Neural Network (CNN) | Deep Learning | Deep Learning | — |
+| AIH-03506 | Convolutional Neural Network (CNN) | Deep Learning | Deep Learning | [2016](https://doi.org/10.12962/j23373539.v5i1.15696) (source only) |
 | AIH-03542 | Correlational Probe | Deep Learning | Deep Learning | — |
-| AIH-03578 | Counterfactual Explanation | Deep Learning | Deep Learning | — |
+| AIH-03578 | Counterfactual Explanation | Deep Learning | Deep Learning | [2011](https://doi.org/10.1515/9783110268669.45) (source only) |
 | AIH-01319 | Cross-Encoder | Deep Learning | Models & Architectures | [2021](https://doi.org/10.1109/iccv48922.2021.00368) (source only) |
-| AIH-03614 | Cross-Layer Connection | Deep Learning | Deep Learning | — |
+| AIH-03614 | Cross-Layer Connection | Deep Learning | Deep Learning | [2010](https://doi.org/10.5772/10169) (source only) |
 | AIH-01357 | DALL-E 2 | Deep Learning | Models & Architectures | — |
 | AIH-01395 | DALL-E 3 | Deep Learning | Models & Architectures | [2024](https://doi.org/10.5040/bci-0kgy.pt1) (source only) |
-| AIH-03650 | DARE Merging | Deep Learning | Deep Learning | — |
-| AIH-03686 | Data Curriculum | Deep Learning | Deep Learning | — |
+| AIH-03650 | DARE Merging | Deep Learning | Deep Learning | [2026](https://doi.org/10.47297/wspbdswsp2752-630501.20260601) ★ (estimated) |
+| AIH-03686 | Data Curriculum | Deep Learning | Deep Learning | [2025](https://doi.org/10.1109/iccv51701.2025.00166) (source only) |
 | AIH-03722 | Data Mixture | Deep Learning | Deep Learning | — |
 | AIH-03758 | Data Requirement of Architectures | Deep Learning | Deep Learning | — |
-| AIH-03794 | Dead Feature | Deep Learning | Deep Learning | — |
+| AIH-03794 | Dead Feature | Deep Learning | Deep Learning | [2024](https://doi.org/10.1016/j.engappai.2024.109000) (source only) |
 | AIH-03830 | Dead Layer | Deep Learning | Deep Learning | — |
 | AIH-01433 | DeBERTa | Deep Learning | Models & Architectures | — |
 | AIH-03866 | Decode Phase | Deep Learning | Deep Learning | — |
 | AIH-03902 | Decoder | Deep Learning | Deep Learning | — |
-| AIH-03938 | Decoder-Only Model | Deep Learning | Deep Learning | — |
+| AIH-03938 | Decoder-Only Model | Deep Learning | Deep Learning | [2025](https://doi.org/10.1109/iccv51701.2025.02684) (source only) |
 | AIH-03974 | Deduplication of Training Data | Deep Learning | Deep Learning | — |
 | AIH-01471 | Deep Blue | Deep Learning | Models & Architectures | [1896](https://doi.org/10.5962/bhl.title.39691) (source only) |
 | AIH-04010 | Deep Learning (DL) | Deep Learning | Deep Learning | — |
 | AIH-04045 | Deep Network | Deep Learning | Deep Learning | — |
-| AIH-04080 | Deep Supervision | Deep Learning | Deep Learning | — |
+| AIH-04080 | Deep Supervision | Deep Learning | Deep Learning | [2016](https://doi.org/10.1109/cvpr.2016.32) (source only) |
 | AIH-01509 | DeepSeek | Deep Learning | Models & Architectures | [2002](https://doi.org/10.5281/zenodo.18753523) (source only) |
 | AIH-01547 | DeepSeek-Coder | Deep Learning | Models & Architectures | [2025](https://doi.org/10.1109/meco66322.2025.11049257) (source only) |
 | AIH-04115 | Degradation Problem | Deep Learning | Deep Learning | — |
 | AIH-01585 | DeiT | Deep Learning | Models & Architectures | [2021](https://doi.org/10.1002/ett.4248) (source only) |
-| AIH-04150 | Dense Block | Deep Learning | Deep Learning | — |
-| AIH-04185 | Dense Connectivity | Deep Learning | Deep Learning | — |
+| AIH-04150 | Dense Block | Deep Learning | Deep Learning | [2008](https://doi.org/10.1109/turbocoding.2008.4658727) (source only) |
+| AIH-04185 | Dense Connectivity | Deep Learning | Deep Learning | [2018](https://doi.org/10.3390/rs10071158) (source only) |
 | AIH-01623 | Dense Model | Deep Learning | Models & Architectures | [1989](https://doi.org/10.1007/bf01356970) (source only) |
-| AIH-04220 | Depth Pruning | Deep Learning | Deep Learning | — |
-| AIH-04255 | Depth Separation | Deep Learning | Deep Learning | — |
+| AIH-04220 | Depth Pruning | Deep Learning | Deep Learning | [2022](https://doi.org/10.1109/icassp43922.2022.9746843) (source only) |
+| AIH-04255 | Depth Separation | Deep Learning | Deep Learning | [1981](https://doi.org/10.3758/bf03202004) (source only) |
 | AIH-04289 | Depthwise Convolution | Deep Learning | Deep Learning | — |
-| AIH-04322 | Depthwise Separable Convolution | Deep Learning | Deep Learning | — |
+| AIH-04322 | Depthwise Separable Convolution | Deep Learning | Deep Learning | [2019](https://doi.org/10.1109/iecon.2019.8927491) (source only) |
 | AIH-04355 | Dequantization | Deep Learning | Deep Learning | — |
 | AIH-04388 | Diagonal State Transition | Deep Learning | Deep Learning | — |
 | AIH-04421 | Dictionary Learning for Activations | Deep Learning | Deep Learning | — |
-| AIH-04454 | Differentiable Memory | Deep Learning | Deep Learning | — |
+| AIH-04454 | Differentiable Memory | Deep Learning | Deep Learning | [2024](https://doi.org/10.1609/aaai.v38i15.29636) (source only) |
 | AIH-01661 | Diffusion Transformer (DiT) | Deep Learning | Models & Architectures | — |
-| AIH-04487 | Dilated Attention | Deep Learning | Deep Learning | — |
+| AIH-04487 | Dilated Attention | Deep Learning | Deep Learning | [2022](https://doi.org/10.2139/ssrn.4226726) (source only) |
 | AIH-04520 | Dilated Convolution | Deep Learning | Deep Learning | — |
 | AIH-01699 | DINOv2 | Deep Learning | Models & Architectures | — |
 | AIH-04553 | Direct Logit Attribution | Deep Learning | Deep Learning | — |
@@ -187,60 +187,60 @@
 | AIH-02421 | Gemma | Deep Learning | Models & Architectures | [1972](https://doi.org/10.1111/j.1502-3931.1972.tb00838.x) (source only) |
 | AIH-02459 | GLIDE | Deep Learning | Models & Architectures | — |
 | AIH-02497 | GoogLeNet | Deep Learning | Models & Architectures | [2016](https://doi.org/10.6109/jkiice.2016.20.9.1657) (source only) |
-| AIH-02535 | Gopher | Deep Learning | Models & Architectures | — |
+| AIH-02535 | Gopher | Deep Learning | Models & Architectures | [2021](https://doi.org/10.48550/arxiv.2112.11446) (source only) |
 | AIH-02573 | Gorilla Model | Deep Learning | Models & Architectures | — |
-| AIH-02611 | GPT-4 | Deep Learning | Models & Architectures | — |
-| AIH-02649 | GPT-J | Deep Learning | Models & Architectures | — |
-| AIH-02687 | GPT-NeoX | Deep Learning | Models & Architectures | — |
+| AIH-02611 | GPT-4 | Deep Learning | Models & Architectures | [2023](https://doi.org/10.36227/techrxiv.22312330.v2) (source only) |
+| AIH-02649 | GPT-J | Deep Learning | Models & Architectures | [2022](https://doi.org/10.5281/zenodo.6366686) (source only) |
+| AIH-02687 | GPT-NeoX | Deep Learning | Models & Architectures | [2022](https://doi.org/10.18653/v1/2022.bigscience-1.9) (source only) |
 | AIH-02725 | GraphCast | Deep Learning | Models & Architectures | — |
 | AIH-02763 | Grok | Deep Learning | Models & Architectures | — |
 | AIH-02801 | GShard | Deep Learning | Models & Architectures | — |
 | AIH-02839 | GTE Embedding Model | Deep Learning | Models & Architectures | — |
-| AIH-02877 | HiFi-GAN | Deep Learning | Models & Architectures | — |
+| AIH-02877 | HiFi-GAN | Deep Learning | Models & Architectures | [2020](https://doi.org/10.21437/interspeech.2020-2143) (source only) |
 | AIH-02915 | HuBERT | Deep Learning | Models & Architectures | — |
 | AIH-02953 | Hybrid Attention-SSM Model | Deep Learning | Models & Architectures | — |
-| AIH-02991 | Hyena | Deep Learning | Models & Architectures | — |
-| AIH-03029 | Idefics | Deep Learning | Models & Architectures | — |
+| AIH-02991 | Hyena | Deep Learning | Models & Architectures | [2026](https://doi.org/10.66709/news-313579) (source only) |
+| AIH-03029 | Idefics | Deep Learning | Models & Architectures | [2011](https://doi.org/10.1038/ijo.2011.41) (source only) |
 | AIH-03066 | Imagen | Deep Learning | Models & Architectures | — |
 | AIH-03103 | Instructor Embedding | Deep Learning | Models & Architectures | — |
 | AIH-03140 | Interleaved Multimodal Input | Deep Learning | Models & Architectures | — |
-| AIH-03177 | InternLM | Deep Learning | Models & Architectures | — |
-| AIH-03214 | Jukebox | Deep Learning | Models & Architectures | — |
-| AIH-03251 | LaMDA | Deep Learning | Models & Architectures | — |
+| AIH-03177 | InternLM | Deep Learning | Models & Architectures | [2024](https://doi.org/10.52202/079017-1348) (source only) |
+| AIH-03214 | Jukebox | Deep Learning | Models & Architectures | [2019](https://doi.org/10.36019/9780813586366-002) (source only) |
+| AIH-03251 | LaMDA | Deep Learning | Models & Architectures | [2002](https://doi.org/10.1007/978-3-642-57491-7_27) (source only) |
 | AIH-03288 | Late Fusion | Deep Learning | Models & Architectures | — |
 | AIH-03325 | Late Interaction | Deep Learning | Models & Architectures | — |
 | AIH-03362 | Latent Consistency Model (LCM) | Deep Learning | Models & Architectures | — |
-| AIH-03399 | Leela Chess Zero | Deep Learning | Models & Architectures | — |
+| AIH-03399 | Leela Chess Zero | Deep Learning | Models & Architectures | [2022](https://doi.org/10.1007/978-3-031-11488-5_13) (source only) |
 | AIH-03435 | LeNet | Deep Learning | Models & Architectures | — |
 | AIH-03471 | Libratus | Deep Learning | Models & Architectures | — |
-| AIH-03507 | Listen Attend and Spell | Deep Learning | Models & Architectures | — |
-| AIH-03543 | LLaVA | Deep Learning | Models & Architectures | — |
-| AIH-03579 | Load Balancing Loss | Deep Learning | Models & Architectures | — |
-| AIH-03615 | MAE for Vision | Deep Learning | Models & Architectures | — |
-| AIH-03651 | mBERT | Deep Learning | Models & Architectures | — |
-| AIH-03687 | Megatron-LM | Deep Learning | Models & Architectures | — |
+| AIH-03507 | Listen Attend and Spell | Deep Learning | Models & Architectures | [2016](https://doi.org/10.1109/icassp.2016.7472621) (source only) |
+| AIH-03543 | LLaVA | Deep Learning | Models & Architectures | [2023](https://doi.org/10.48550/arxiv.2311.13435) (source only) |
+| AIH-03579 | Load Balancing Loss | Deep Learning | Models & Architectures | [2025](https://doi.org/10.18653/v1/2025.acl-long.249) (source only) |
+| AIH-03615 | MAE for Vision | Deep Learning | Models & Architectures | [2022](https://doi.org/10.48550/arxiv.2205.10063) ★ (estimated) |
+| AIH-03651 | mBERT | Deep Learning | Models & Architectures | [2021](https://doi.org/10.3390/electronics10212641) (source only) |
+| AIH-03687 | Megatron-LM | Deep Learning | Models & Architectures | [2021](https://doi.org/10.1145/3458817.3476209) (source only) |
 | AIH-03723 | Minerva | Deep Learning | Models & Architectures | — |
-| AIH-03759 | Mixtral | Deep Learning | Models & Architectures | — |
-| AIH-03795 | MobileNetV3 | Deep Learning | Models & Architectures | — |
-| AIH-03831 | Modality Encoder | Deep Learning | Models & Architectures | — |
+| AIH-03759 | Mixtral | Deep Learning | Models & Architectures | [2024](https://doi.org/10.30970/eli.26.2) (source only) |
+| AIH-03795 | MobileNetV3 | Deep Learning | Models & Architectures | [2020](https://doi.org/10.1109/icicas51530.2020.00095) (source only) |
+| AIH-03831 | Modality Encoder | Deep Learning | Models & Architectures | [2019](https://doi.org/10.18653/v1/d19-1514) (source only) |
 | AIH-03867 | Molmo | Deep Learning | Models & Architectures | — |
 | AIH-03903 | Monot5 | Deep Learning | Models & Architectures | — |
 | AIH-03939 | Multi-Head Output | Deep Learning | Models & Architectures | — |
-| AIH-03975 | Muse | Deep Learning | Models & Architectures | — |
+| AIH-03975 | Muse | Deep Learning | Models & Architectures | [2015](https://doi.org/10.1163/9789004292536_002) (source only) |
 | AIH-04011 | MusicLM | Deep Learning | Models & Architectures | — |
 | AIH-04046 | Nemotron | Deep Learning | Models & Architectures | — |
 | AIH-04081 | NNUE | Deep Learning | Models & Architectures | — |
 | AIH-04116 | OLMo | Deep Learning | Models & Architectures | — |
 | AIH-04151 | OpenAI Five | Deep Learning | Models & Architectures | — |
-| AIH-04186 | OPT | Deep Learning | Models & Architectures | — |
-| AIH-04221 | PaLM | Deep Learning | Models & Architectures | — |
+| AIH-04186 | OPT | Deep Learning | Models & Architectures | [2001](https://doi.org/10.1134/1.1380917) (source only) |
+| AIH-04221 | PaLM | Deep Learning | Models & Architectures | [2012](https://doi.org/10.1016/b978-0-9818936-9-3.50012-5) (source only) |
 | AIH-04256 | Parti | Deep Learning | Models & Architectures | — |
-| AIH-04290 | Patch Embedding | Deep Learning | Models & Architectures | — |
+| AIH-04290 | Patch Embedding | Deep Learning | Models & Architectures | [2013](https://doi.org/10.1007/s10443-013-9368-x) (source only) |
 | AIH-04323 | Perceiver | Deep Learning | Models & Architectures | — |
-| AIH-04356 | Perceiver IO | Deep Learning | Models & Architectures | — |
+| AIH-04356 | Perceiver IO | Deep Learning | Models & Architectures | [2022](https://doi.org/10.23919/iccas55662.2022.10003862) (source only) |
 | AIH-04389 | Phi | Deep Learning | Models & Architectures | — |
 | AIH-04422 | Pixtral | Deep Learning | Models & Architectures | — |
-| AIH-04455 | Pluribus | Deep Learning | Models & Architectures | — |
+| AIH-04455 | Pluribus | Deep Learning | Models & Architectures | [1904](https://doi.org/10.5479/sil.776763.39088011387511) (source only) |
 | AIH-04488 | Projection Layer for Multimodality | Deep Learning | Models & Architectures | — |
 | AIH-04521 | Protein Language Model (PLM) | Deep Learning | Models & Architectures | — |
 | AIH-04554 | Pythia | Deep Learning | Models & Architectures | — |
@@ -324,57 +324,57 @@
 | AIH-02444 | Gain Chart | Evaluation & Metrics | Evaluation & Metrics | [1985](https://doi.org/10.1080/00031305.1985.10479386) (source only) |
 | AIH-02482 | Generalization Test | Evaluation & Metrics | Evaluation & Metrics | [1964](https://doi.org/10.1037/h0044607) (source only) |
 | AIH-02520 | Golden Path Test | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-02558 | Groundedness Evaluation | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-02596 | Group Robustness | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-02634 | Hallucination Rate | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-02672 | Headroom | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-02558 | Groundedness Evaluation | Evaluation & Metrics | Evaluation & Metrics | [1997](https://openalex.org/W173526759) ★ (estimated) |
+| AIH-02596 | Group Robustness | Evaluation & Metrics | Evaluation & Metrics | [2021](https://doi.org/10.48550/arxiv.2201.00072) (source only) |
+| AIH-02634 | Hallucination Rate | Evaluation & Metrics | Evaluation & Metrics | [2024](https://doi.org/10.52202/079017-0982) (source only) |
+| AIH-02672 | Headroom | Evaluation & Metrics | Evaluation & Metrics | [1988](https://doi.org/10.5840/cpsem198842) (source only) |
 | AIH-02710 | Held-Out Split Integrity | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-02748 | Human Evaluation Protocol | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-02786 | Human-AI Complementarity | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-02786 | Human-AI Complementarity | Evaluation & Metrics | Evaluation & Metrics | [2020](https://doi.org/10.1145/3340631.3395384) (source only) |
 | AIH-02824 | Inference Budget Reporting | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-02862 | Inter-Rater Reliability | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-02862 | Inter-Rater Reliability | Evaluation & Metrics | Evaluation & Metrics | [2000](https://doi.org/10.15760/etd.567) (source only) |
 | AIH-02900 | Jagged Frontier | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-02938 | Judge Calibration | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-02976 | Knowledge Cutoff | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-02938 | Judge Calibration | Evaluation & Metrics | Evaluation & Metrics | [2026](https://doi.org/10.2139/ssrn.7548649) (source only) |
+| AIH-02976 | Knowledge Cutoff | Evaluation & Metrics | Evaluation & Metrics | [2026](https://doi.org/10.14722/last-x.2026.23016) (source only) |
 | AIH-03014 | Leaderboard Gaming | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-03052 | Length Generalization | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-03052 | Length Generalization | Evaluation & Metrics | Evaluation & Metrics | [1963](https://doi.org/10.1037/h0039754) (source only) |
 | AIH-03089 | Lift Curve | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-03126 | Log Score | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-03163 | Majority Vote Accuracy | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-03163 | Majority Vote Accuracy | Evaluation & Metrics | Evaluation & Metrics | [2003](https://doi.org/10.1007/s10044-002-0173-7) (source only) |
 | AIH-03200 | Matthews Correlation Coefficient (MCC) | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-03237 | Measurement Reliability | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-03274 | Median Absolute Error (MedAE) | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-03311 | Metric Definition Drift | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-03348 | Metric Gaming | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-03385 | Minimal Pair | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-03348 | Metric Gaming | Evaluation & Metrics | Evaluation & Metrics | [2026](https://doi.org/10.1145/3786166.3788432) (source only) |
+| AIH-03385 | Minimal Pair | Evaluation & Metrics | Evaluation & Metrics | [1965](https://doi.org/10.1515/9780824891480) (source only) |
 | AIH-03421 | Model-Based Evaluation Bias | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-03457 | Multi-Metric Reporting | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-03493 | Multi-Reference Evaluation | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-03529 | Near-OOD and Far-OOD | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-03565 | Normalized Exact Match | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-03601 | Operating Point | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-03637 | Out-of-Distribution Evaluation | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-03601 | Operating Point | Evaluation & Metrics | Evaluation & Metrics | [1965](https://doi.org/10.1007/978-1-349-81804-4_7) (source only) |
+| AIH-03637 | Out-of-Distribution Evaluation | Evaluation & Metrics | Evaluation & Metrics | [2023](https://doi.org/10.24963/ijcai.2023/749) (source only) |
 | AIH-03673 | Paired Comparison Test | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-03709 | Pareto Comparison of Models | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-03745 | Partial AUC | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-03745 | Partial AUC | Evaluation & Metrics | Evaluation & Metrics | [1996](https://doi.org/10.1038/sj.clpt.1996.109) (source only) |
 | AIH-03781 | Pass at One | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-03817 | Perturbation Robustness Test | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-03853 | Precision-Recall Tradeoff | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-03889 | Predictive Validity | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-03853 | Precision-Recall Tradeoff | Evaluation & Metrics | Evaluation & Metrics | [2026](https://doi.org/10.1287/mksc.2024.0930) (source only) |
+| AIH-03889 | Predictive Validity | Evaluation & Metrics | Evaluation & Metrics | [1971](https://doi.org/10.1037/h0032260) (source only) |
 | AIH-03925 | Prevalence-Adjusted Metric | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-03961 | Productivity Measurement | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-03997 | Prompt Sensitivity in Evaluation | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-04033 | Proxy Metric Risk | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-04068 | Quality Gate | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-04068 | Quality Gate | Evaluation & Metrics | Evaluation & Metrics | [2011](https://doi.org/10.1007/978-3-642-22386-0_16) (source only) |
 | AIH-04103 | Quality-Cost Frontier | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-04138 | R-Squared in Prediction | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-04173 | Randomized Presentation Order | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-04208 | Ranked Probability Score (RPS) | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-04243 | Rater Pool Diversity | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-04278 | Rater Training | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-04278 | Rater Training | Evaluation & Metrics | Evaluation & Metrics | [1974](https://doi.org/10.1080/10510977409367806) (source only) |
 | AIH-04311 | Reference-Based Metric | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-04344 | Regression Detection in Evaluation | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-04377 | Relative Error | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-04377 | Relative Error | Evaluation & Metrics | Evaluation & Metrics | [1970](https://doi.org/10.21236/ad0708691) (source only) |
 | AIH-04410 | Release Readiness Review | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-04443 | Residual Analysis | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-04476 | Risk-Coverage Curve | Evaluation & Metrics | Evaluation & Metrics | — |
@@ -461,52 +461,52 @@
 | AIH-02422 | Consistency Model | Generative AI | Generative AI | — |
 | AIH-02460 | Constitutional Prompt | Generative AI | Generative AI | — |
 | AIH-02498 | Content Credentials | Generative AI | Generative AI | [2024](https://doi.org/10.1109/mspec.2024.10380467) (source only) |
-| AIH-02536 | Content Planning | Generative AI | Generative AI | — |
-| AIH-02574 | Content Provenance | Generative AI | Generative AI | — |
-| AIH-02612 | Content-Style Separation | Generative AI | Generative AI | — |
+| AIH-02536 | Content Planning | Generative AI | Generative AI | [1990](https://doi.org/10.21236/ada460211) (source only) |
+| AIH-02574 | Content Provenance | Generative AI | Generative AI | [2015](https://doi.org/10.1109/liss.2015.7369688) (source only) |
+| AIH-02612 | Content-Style Separation | Generative AI | Generative AI | [2014](https://openalex.org/W2157746775) (source only) |
 | AIH-02650 | Context Distillation | Generative AI | Generative AI | — |
 | AIH-02688 | ControlNet | Generative AI | Generative AI | — |
 | AIH-02726 | Cosine Noise Schedule | Generative AI | Generative AI | — |
-| AIH-02764 | Counting Failure | Generative AI | Generative AI | — |
+| AIH-02764 | Counting Failure | Generative AI | Generative AI | [2012](https://doi.org/10.1115/imece2012-85727) (source only) |
 | AIH-02802 | Coupling Layer | Generative AI | Generative AI | — |
-| AIH-02840 | Creative Control | Generative AI | Generative AI | — |
-| AIH-02878 | Creative Direction | Generative AI | Generative AI | — |
+| AIH-02840 | Creative Control | Generative AI | Generative AI | [2015](https://doi.org/10.15216/978-5-4365-0319-6) (source only) |
+| AIH-02878 | Creative Direction | Generative AI | Generative AI | [1989](https://doi.org/10.1055/s-0028-1082496) (source only) |
 | AIH-02916 | Creative Labour Market | Generative AI | Generative AI | — |
-| AIH-02954 | Cross-Attention Conditioning | Generative AI | Generative AI | — |
-| AIH-02992 | Cultural Appropriateness | Generative AI | Generative AI | — |
+| AIH-02954 | Cross-Attention Conditioning | Generative AI | Generative AI | [2025](https://doi.org/10.1109/ijcnn64981.2025.11227286) (source only) |
+| AIH-02992 | Cultural Appropriateness | Generative AI | Generative AI | [1988](https://doi.org/10.1080/00970050.1988.10614533) (source only) |
 | AIH-03030 | Curation of Generated Output | Generative AI | Generative AI | — |
 | AIH-03067 | Cycle Consistency Loss | Generative AI | Generative AI | — |
 | AIH-03104 | CycleGAN | Generative AI | Generative AI | — |
 | AIH-03141 | Data Provenance Standard | Generative AI | Generative AI | — |
-| AIH-03178 | Data Provenance Tracking | Generative AI | Generative AI | — |
+| AIH-03178 | Data Provenance Tracking | Generative AI | Generative AI | [2008](https://doi.org/10.1007/978-3-540-89965-5_30) (source only) |
 | AIH-03215 | Data-to-Text Generation | Generative AI | Generative AI | — |
-| AIH-03252 | Dataset Nutrition Label | Generative AI | Generative AI | — |
-| AIH-03289 | DDIM | Generative AI | Generative AI | — |
-| AIH-03326 | Deepfake | Generative AI | Generative AI | — |
-| AIH-03363 | Deepfake Detection | Generative AI | Generative AI | — |
-| AIH-03400 | Denoising Step | Generative AI | Generative AI | — |
-| AIH-03436 | Denoising Strength | Generative AI | Generative AI | — |
+| AIH-03252 | Dataset Nutrition Label | Generative AI | Generative AI | [2020](https://doi.org/10.5040/9781509932771.ch-001) (source only) |
+| AIH-03289 | DDIM | Generative AI | Generative AI | [1995](https://doi.org/10.1117/12.221024) (source only) |
+| AIH-03326 | Deepfake | Generative AI | Generative AI | [2021](https://doi.org/10.1145/3476099.3480396) (source only) |
+| AIH-03363 | Deepfake Detection | Generative AI | Generative AI | [2021](https://doi.org/10.1145/3492421) (source only) |
+| AIH-03400 | Denoising Step | Generative AI | Generative AI | [2018](https://doi.org/10.18267/j.aop.592) (source only) |
+| AIH-03436 | Denoising Strength | Generative AI | Generative AI | [2022](https://doi.org/10.1117/12.2612900) (source only) |
 | AIH-03472 | Depth-Conditioned Generation | Generative AI | Generative AI | — |
-| AIH-03508 | Derivative Work | Generative AI | Generative AI | — |
-| AIH-03544 | Descriptive Prompting | Generative AI | Generative AI | — |
+| AIH-03508 | Derivative Work | Generative AI | Generative AI | [1980](https://openalex.org/W1007865679) (source only) |
+| AIH-03544 | Descriptive Prompting | Generative AI | Generative AI | [2026](https://doi.org/10.3390/electronics15102220) (source only) |
 | AIH-03580 | Detail Enhancement Pass | Generative AI | Generative AI | — |
-| AIH-03616 | Detection Evasion | Generative AI | Generative AI | — |
-| AIH-03652 | Detector Reliability | Generative AI | Generative AI | — |
+| AIH-03616 | Detection Evasion | Generative AI | Generative AI | [2012](https://doi.org/10.1002/sec.401) (source only) |
+| AIH-03652 | Detector Reliability | Generative AI | Generative AI | [1972](https://doi.org/10.1109/vtc.1972.1622131) (source only) |
 | AIH-03688 | Determinism in Generation | Generative AI | Generative AI | — |
 | AIH-03724 | Diffusion Model | Generative AI | Generative AI | — |
 | AIH-03760 | Disclosure of AI Generation | Generative AI | Generative AI | — |
-| AIH-03796 | Discrete Latent Space | Generative AI | Generative AI | — |
-| AIH-03832 | Discriminator | Generative AI | Generative AI | — |
+| AIH-03796 | Discrete Latent Space | Generative AI | Generative AI | [2023](https://doi.org/10.1109/iccv51070.2023.01360) (source only) |
+| AIH-03832 | Discriminator | Generative AI | Generative AI | [1951](https://doi.org/10.2172/4428133) (source only) |
 | AIH-03868 | Discriminator Overfitting | Generative AI | Generative AI | — |
-| AIH-03904 | Disentangled Representation | Generative AI | Generative AI | — |
-| AIH-03940 | Downranking | Generative AI | Generative AI | — |
+| AIH-03904 | Disentangled Representation | Generative AI | Generative AI | [2017](https://doi.org/10.1109/dsaa.2017.21) (source only) |
+| AIH-03940 | Downranking | Generative AI | Generative AI | [2019](https://doi.org/10.31234/osf.io/z3s5k) (source only) |
 | AIH-03976 | DPM-Solver | Generative AI | Generative AI | — |
-| AIH-04012 | Draft and Revise | Generative AI | Generative AI | — |
-| AIH-04047 | DreamBooth | Generative AI | Generative AI | — |
+| AIH-04012 | Draft and Revise | Generative AI | Generative AI | [2016](https://doi.org/10.5040/9798216510581.ch-4) (source only) |
+| AIH-04047 | DreamBooth | Generative AI | Generative AI | [2022](https://doi.org/10.1109/isriti56927.2022.10052908) (source only) |
 | AIH-04082 | Duration Predictor | Generative AI | Generative AI | — |
 | AIH-04117 | Economic Harm to Creators | Generative AI | Generative AI | — |
 | AIH-04152 | Editorial Standard | Generative AI | Generative AI | — |
 
-— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
+— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)
