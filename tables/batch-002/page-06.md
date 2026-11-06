@@ -476,8 +476,8 @@
 | AIH-08493 | Margin | Machine Learning | Machine Learning | — |
 | AIH-08498 | Margin Bound | Machine Learning | Machine Learning | [2002](https://doi.org/10.1109/tit.2002.805090) (source only) |
 | AIH-08503 | Market Basket Analysis | Machine Learning | Machine Learning | [2005](https://doi.org/10.1109/epia.2005.341294) (source only) |
-| AIH-08508 | Masked Autoencoder (MAE) | Machine Learning | Machine Learning | [2025](https://doi.org/10.1109/isbi60581.2025.10981288) (source only) |
-| AIH-08513 | Matryoshka Embedding | Machine Learning | Machine Learning | [2026](https://doi.org/10.1109/icassp55912.2026.11464059) (source only) |
+| AIH-08508 | Masked Autoencoder (MAE) | Machine Learning | Machine Learning | [2021](https://arxiv.org/abs/2111.06377) (source only) |
+| AIH-08513 | Matryoshka Embedding | Machine Learning | Machine Learning | [2022](https://arxiv.org/abs/2205.13147) (source only) |
 | AIH-08518 | Maximum Depth | Machine Learning | Machine Learning | [1959](https://doi.org/10.1139/f59-065) (source only) |
 | AIH-08523 | Maximum Margin Classifier | Machine Learning | Machine Learning | [2008](https://doi.org/10.1080/09720502.2008.10700555) (source only) |
 | AIH-08528 | Mean Shift | Machine Learning | Machine Learning | [2004](https://doi.org/10.1002/0471667196.ess0677) (source only) |

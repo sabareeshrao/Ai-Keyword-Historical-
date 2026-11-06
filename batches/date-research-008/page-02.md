@@ -9,7 +9,7 @@
 | ID | Keyword | Category | Date | Classification | Source |
 |---|---|---|---|---|---|
 | AIH-09001 | Representation Collapse | Machine Learning | 2023 | Dated publication mention | [Source](https://doi.org/10.18653/v1/2023.findings-emnlp.975) |
-| AIH-09002 | TIES Merging | Deep Learning | 2023 | Dated publication mention | [Source](https://doi.org/10.52202/075280-0310) |
+| AIH-09002 | TIES Merging | Deep Learning | 2023 | Original/early source (not proven first use) | [Source](https://arxiv.org/abs/2306.01708) |
 | AIH-09003 | Keyword extraction | AI Foundations | 2006 | Dated publication mention | [Source](https://doi.org/10.63317/3acxe4k38ekz) |
 | AIH-09004 | Linear System | Mathematics | 1987 | Dated publication mention | [Source](https://doi.org/10.2514/6.1987-2515) |
 | AIH-09005 | Reranking | Machine Learning | — | Unresolved | — |
@@ -22,7 +22,7 @@
 | AIH-09012 | Link Function | Mathematics | 2001 | Dated publication mention | [Source](https://doi.org/10.4135/9781412984348.n4) |
 | AIH-09013 | Residual Scaling | Machine Learning | — | Unresolved | — |
 | AIH-09014 | Token Mixing | Deep Learning | 2021 | Dated publication mention | [Source](https://doi.org/10.5244/c.35.79) |
-| AIH-09015 | KL Divergence | AI Foundations | 2009 | Dated publication mention | [Source](https://doi.org/10.21437/interspeech.2009-673) |
+| AIH-09015 | KL Divergence | AI Foundations | 1951 | Original/early source (not proven first use) | [Source](https://doi.org/10.1214/aoms/1177729694) |
 | AIH-09016 | Lipschitz Constant | Mathematics | 1968 | Dated publication mention | [Source](https://doi.org/10.4153/cmb-1968-017-8) |
 | AIH-09017 | Responsibility | Machine Learning | 1905 | Dated publication mention | [Source](https://doi.org/10.1037/13797-001) |
 | AIH-09018 | Tokens per Second (TPS) | Deep Learning | — | Unresolved | — |

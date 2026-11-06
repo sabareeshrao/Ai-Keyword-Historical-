@@ -90,7 +90,7 @@
 | AIH-08501 | Feedback Amplification | AI Foundations | Fundamentals | [2002](https://doi.org/10.3410/f.1006710.83755) (source only) |
 | AIH-08506 | Feedback Collection | AI Foundations | Fundamentals | [1998](https://openalex.org/W2398673636) (source only) |
 | AIH-08511 | Feedback in Interfaces | AI Foundations | Fundamentals | [2009](https://doi.org/10.1007/978-3-642-03889-1_83) ★ (estimated) |
-| AIH-08516 | Feedback Loop | AI Foundations | Fundamentals | [1978](https://doi.org/10.1104/pp.62.3.406) (source only) |
+| AIH-08516 | Feedback Loop | AI Foundations | Fundamentals | — |
 | AIH-08521 | Feedback Loop Collapse | AI Foundations | Fundamentals | [2026](https://doi.org/10.5281/zenodo.19024123) (source only) |
 | AIH-08526 | Feedback Loop Design | AI Foundations | Fundamentals | [1991](https://doi.org/10.1016/b978-0-08-049907-9.50031-3) (source only) |
 | AIH-08531 | Feedback to Model Development | AI Foundations | Fundamentals | [1987](https://doi.org/10.1109/te.1987.5570531) ★ (estimated) |
@@ -214,7 +214,7 @@
 | AIH-09003 | Keyword extraction | AI Foundations | Fundamentals | [2006](https://doi.org/10.63317/3acxe4k38ekz) (source only) |
 | AIH-09007 | Kill Switch | AI Foundations | Fundamentals | [2008](https://doi.org/10.1109/mspec.2008.4505310) (source only) |
 | AIH-09011 | Kinematics | AI Foundations | Fundamentals | — |
-| AIH-09015 | KL Divergence | AI Foundations | Fundamentals | [2009](https://doi.org/10.21437/interspeech.2009-673) (source only) |
+| AIH-09015 | KL Divergence | AI Foundations | Fundamentals | [1951](https://doi.org/10.1214/aoms/1177729694) (source only) |
 | AIH-09019 | Knowledge compilation | AI Foundations | Fundamentals | [1991](https://doi.org/10.1109/64.79712) (source only) |
 | AIH-09023 | Knowledge level | AI Foundations | Fundamentals | [1981](https://doi.org/10.21236/ada106556) (source only) |
 | AIH-09027 | Knowledge-based configuration | AI Foundations | Fundamentals | [2014](https://doi.org/10.1016/b978-0-12-415817-7.00028-1) (source only) |
@@ -376,7 +376,7 @@
 | AIH-09496 | Opportunity Sizing | AI Foundations | Fundamentals | [2026](https://doi.org/10.67209/boct9617) (source only) |
 | AIH-09498 | Opt-In Design | AI Foundations | Fundamentals | — |
 | AIH-09500 | Opt-Out Design | AI Foundations | Fundamentals | — |
-| AIH-09502 | Optical Flow | AI Foundations | Fundamentals | [1987](https://doi.org/10.1016/b978-0-08-050658-6.50007-2) (source only) |
+| AIH-09502 | Optical Flow | AI Foundations | Fundamentals | [1980](https://dspace.mit.edu/entities/publication/e7968bf6-651d-4fd0-b4e8-c608756f2bba) (source only) |
 | AIH-09504 | Optimal Control | AI Foundations | Fundamentals | [1960](https://openalex.org/W3035578948) (source only) |
 | AIH-09506 | Orchestration | AI Foundations | Fundamentals | [1974](https://doi.org/10.1515/9783110809695-011) (source only) |
 | AIH-09508 | Orthogonality | AI Foundations | Fundamentals | [1935](https://doi.org/10.1215/s0012-7094-35-00115-6) (source only) |

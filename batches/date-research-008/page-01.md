@@ -15,15 +15,15 @@
 | AIH-08505 | Word Similarity Benchmark | NLP and LLMs | 2025 | Dated publication mention | [Source](https://doi.org/10.4114/intartif.vol28iss76pp283-300) |
 | AIH-08506 | Feedback Collection | AI Foundations | 1998 | Dated publication mention | [Source](https://openalex.org/W2398673636) |
 | AIH-08507 | Hazard Rate | Mathematics | 1963 | Dated publication mention | [Source](https://doi.org/10.1214/aoms/1177704147) |
-| AIH-08508 | Masked Autoencoder (MAE) | Machine Learning | 2025 | Dated publication mention | [Source](https://doi.org/10.1109/isbi60581.2025.10981288) |
-| AIH-08509 | Position Interpolation | Deep Learning | 1949 | Dated publication mention | [Source](https://doi.org/10.1037/h0061921) |
-| AIH-08510 | WordNet | NLP and LLMs | — | Unresolved | — |
+| AIH-08508 | Masked Autoencoder (MAE) | Machine Learning | 2021 | Original/early source (not proven first use) | [Source](https://arxiv.org/abs/2111.06377) |
+| AIH-08509 | Position Interpolation | Deep Learning | 2023 | Original/early source (not proven first use) | [Source](https://arxiv.org/abs/2306.15595) |
+| AIH-08510 | WordNet | NLP and LLMs | 1990 | Original/early source (not proven first use) | [Source](https://doi.org/10.1093/ijl/3.4.235) |
 | AIH-08511 | Feedback in Interfaces | AI Foundations | 2009 ★ | Estimated ★ (low confidence) | [Source](https://doi.org/10.1007/978-3-642-03889-1_83) |
 | AIH-08512 | Heap | Mathematics | — | Unresolved | — |
-| AIH-08513 | Matryoshka Embedding | Machine Learning | 2026 | Dated publication mention | [Source](https://doi.org/10.1109/icassp55912.2026.11464059) |
+| AIH-08513 | Matryoshka Embedding | Machine Learning | 2022 | Original/early source (not proven first use) | [Source](https://arxiv.org/abs/2205.13147) |
 | AIH-08514 | Position Interpolation Quality | Deep Learning | — | Unresolved | — |
-| AIH-08515 | WordPiece | NLP and LLMs | 2019 | Dated publication mention | [Source](https://doi.org/10.1109/coase.2019.8843151) |
-| AIH-08516 | Feedback Loop | AI Foundations | 1978 | Dated publication mention | [Source](https://doi.org/10.1104/pp.62.3.406) |
+| AIH-08515 | WordPiece | NLP and LLMs | 2012 | Original/early source (not proven first use) | [Source](https://doi.org/10.1109/ICASSP.2012.6289079) |
+| AIH-08516 | Feedback Loop | AI Foundations | — | Cross-domain source rejected; unresolved | — |
 | AIH-08517 | Heat Equation | Mathematics | 1971 | Dated publication mention | [Source](https://doi.org/10.21136/cmj.1971.101069) |
 | AIH-08518 | Maximum Depth | Machine Learning | 1959 | Dated publication mention | [Source](https://doi.org/10.1139/f59-065) |
 | AIH-08519 | Positional Head | Deep Learning | 1978 | Dated publication mention | [Source](https://doi.org/10.1007/bf00666366) |

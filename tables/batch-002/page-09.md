@@ -452,8 +452,8 @@
 | AIH-08495 | Word Segmentation | NLP and LLMs | Natural Language Processing | — |
 | AIH-08500 | Word Sense Disambiguation (WSD) | NLP and LLMs | Natural Language Processing | [2016](https://doi.org/10.21090/ijaerd.031240) (source only) |
 | AIH-08505 | Word Similarity Benchmark | NLP and LLMs | Natural Language Processing | [2025](https://doi.org/10.4114/intartif.vol28iss76pp283-300) (source only) |
-| AIH-08510 | WordNet | NLP and LLMs | Natural Language Processing | — |
-| AIH-08515 | WordPiece | NLP and LLMs | Natural Language Processing | [2019](https://doi.org/10.1109/coase.2019.8843151) (source only) |
+| AIH-08510 | WordNet | NLP and LLMs | Natural Language Processing | [1990](https://doi.org/10.1093/ijl/3.4.235) (source only) |
+| AIH-08515 | WordPiece | NLP and LLMs | Natural Language Processing | [2012](https://doi.org/10.1109/ICASSP.2012.6289079) (source only) |
 | AIH-08520 | Writing Assistance Metric | NLP and LLMs | Natural Language Processing | — |
 | AIH-08525 | Zero-Shot Cross-Lingual Transfer | NLP and LLMs | Natural Language Processing | [2018](https://doi.org/10.18653/v1/d18-1026) (source only) |
 | AIH-08530 | Zero-Shot Extraction | NLP and LLMs | Natural Language Processing | [2024](https://doi.org/10.1109/jstars.2024.3392448) (source only) |

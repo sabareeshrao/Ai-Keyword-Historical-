@@ -14,5 +14,131 @@
   "stable_ids_preserved": true,
   "inventory_total": 20100,
   "estimated_display_rule": "★ immediately after year; low-confidence supporting source and reasoning mandatory.",
-  "note": "Neither linked publication dates nor estimated years prove historical first use."
+  "note": "Neither linked publication dates nor estimated years prove historical first use.",
+  "manual_source_corrections": 9,
+  "cross_domain_sources_rejected": 2,
+  "manual_correction_audit": [
+    {
+      "id": "AIH-08508",
+      "term": "Masked Autoencoder (MAE)",
+      "previous": {
+        "date": "2025",
+        "estimate": "",
+        "url": "https://doi.org/10.1109/isbi60581.2025.10981288"
+      },
+      "new_year": "2021",
+      "new_source": "https://arxiv.org/abs/2111.06377",
+      "reason": "November 2021 first public preprint of the named scalable vision MAE architecture. This does not prove earliest use of generic masked autoencoding."
+    },
+    {
+      "id": "AIH-08509",
+      "term": "Position Interpolation",
+      "previous": {
+        "date": "1949",
+        "estimate": "",
+        "url": "https://doi.org/10.1037/h0061921"
+      },
+      "new_year": "2023",
+      "new_source": "https://arxiv.org/abs/2306.15595",
+      "reason": "Original June 2023 paper on RoPE-based LLM Position Interpolation. Previous 1949 match was unrelated to this long-context technique."
+    },
+    {
+      "id": "AIH-08510",
+      "term": "WordNet",
+      "previous": {
+        "date": "",
+        "estimate": "",
+        "url": ""
+      },
+      "new_year": "1990",
+      "new_source": "https://doi.org/10.1093/ijl/3.4.235",
+      "reason": "1990 International Journal of Lexicography documentation of the WordNet lexical database. Earlier project work may have existed; 1990 is a documented publication, not proven coinage."
+    },
+    {
+      "id": "AIH-08513",
+      "term": "Matryoshka Embedding",
+      "previous": {
+        "date": "2026",
+        "estimate": "",
+        "url": "https://doi.org/10.1109/icassp55912.2026.11464059"
+      },
+      "new_year": "2022",
+      "new_source": "https://arxiv.org/abs/2205.13147",
+      "reason": "May 2022 Matryoshka Representation Learning preprint, introducing variable-dimensional Matryoshka representations. Term variant 'Matryoshka Embedding' may have appeared later."
+    },
+    {
+      "id": "AIH-08515",
+      "term": "WordPiece",
+      "previous": {
+        "date": "2019",
+        "estimate": "",
+        "url": "https://doi.org/10.1109/coase.2019.8843151"
+      },
+      "new_year": "2012",
+      "new_source": "https://doi.org/10.1109/ICASSP.2012.6289079",
+      "reason": "2012 ICASSP paper describing word-piece-based segmentation for Japanese and Korean voice search. Early published use, not independently established first-ever terminology."
+    },
+    {
+      "id": "AIH-09002",
+      "term": "TIES Merging",
+      "previous": {
+        "date": "2023",
+        "estimate": "",
+        "url": "https://doi.org/10.52202/075280-0310"
+      },
+      "new_year": "2023",
+      "new_source": "https://arxiv.org/abs/2306.01708",
+      "reason": "Original June 2023 research preprint introducing TIES-Merging. Replaces an indirect later bibliographic hit."
+    },
+    {
+      "id": "AIH-09015",
+      "term": "KL Divergence",
+      "previous": {
+        "date": "2009",
+        "estimate": "",
+        "url": "https://doi.org/10.21437/interspeech.2009-673"
+      },
+      "new_year": "1951",
+      "new_source": "https://doi.org/10.1214/aoms/1177729694",
+      "reason": "Original 1951 Kullback-Leibler information divergence paper; does NOT establish first use of the precise later expression 'KL divergence'."
+    },
+    {
+      "id": "AIH-09502",
+      "term": "Optical Flow",
+      "previous": {
+        "date": "1987",
+        "estimate": "",
+        "url": "https://doi.org/10.1016/b978-0-08-050658-6.50007-2"
+      },
+      "new_year": "1980",
+      "new_source": "https://dspace.mit.edu/entities/publication/e7968bf6-651d-4fd0-b4e8-c608756f2bba",
+      "reason": "April 1980 MIT Artificial Intelligence Laboratory technical report AIM-572; predates 1981 journal publication. Optical flow as a broader concept predates this particular method."
+    },
+    {
+      "id": "AIH-10008",
+      "term": "Top-p",
+      "previous": {
+        "date": "",
+        "estimate": "",
+        "url": ""
+      },
+      "new_year": "2019",
+      "new_source": "https://arxiv.org/abs/1904.09751",
+      "reason": "Original April 2019 nucleus sampling paper; modern top-p text decoding derives from this method. Date is not proven first use of literal string 'Top-p'."
+    },
+    {
+      "id": "AIH-08516",
+      "term": "Feedback Loop",
+      "rejected_source": "https://doi.org/10.1104/pp.62.3.406",
+      "old_year": "1978",
+      "reason": "1978 paper on plant stomata and carbon-dioxide feedback, not a source for AI feedback loops."
+    },
+    {
+      "id": "AIH-10002",
+      "term": "Tool Use",
+      "rejected_source": "https://doi.org/10.7560/775909",
+      "old_year": "1987",
+      "reason": "1987 archaeology book on prehistoric stone-tool use, not AI agent tool use."
+    }
+  ]
 }

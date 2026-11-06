@@ -275,7 +275,7 @@
 | AIH-08494 | Ponder Time | Deep Learning | Deep Learning | — |
 | AIH-08499 | Pooling | Deep Learning | Deep Learning | [2025](https://doi.org/10.20944/preprints202509.0310.v1) (source only) |
 | AIH-08504 | Position Bias in Evaluation | Deep Learning | Deep Learning | [2026](https://doi.org/10.5281/zenodo.22397577) ★ (estimated) |
-| AIH-08509 | Position Interpolation | Deep Learning | Deep Learning | [1949](https://doi.org/10.1037/h0061921) (source only) |
+| AIH-08509 | Position Interpolation | Deep Learning | Deep Learning | [2023](https://arxiv.org/abs/2306.15595) (source only) |
 | AIH-08514 | Position Interpolation Quality | Deep Learning | Deep Learning | — |
 | AIH-08519 | Positional Head | Deep Learning | Deep Learning | [1978](https://doi.org/10.1007/bf00666366) (source only) |
 | AIH-08524 | Post-Normalization | Deep Learning | Deep Learning | [1979](https://openalex.org/W2543607664) (source only) |
@@ -409,7 +409,7 @@
 | AIH-08990 | Teacher Model | Deep Learning | Deep Learning | — |
 | AIH-08994 | Tensor | Deep Learning | Deep Learning | — |
 | AIH-08998 | Thinking Budget | Deep Learning | Deep Learning | — |
-| AIH-09002 | TIES Merging | Deep Learning | Deep Learning | [2023](https://doi.org/10.52202/075280-0310) (source only) |
+| AIH-09002 | TIES Merging | Deep Learning | Deep Learning | [2023](https://arxiv.org/abs/2306.01708) (source only) |
 | AIH-09006 | Time to First Token (TTFT) | Deep Learning | Deep Learning | [2025](https://doi.org/10.31224/4666) (source only) |
 | AIH-09010 | Token Budget | Deep Learning | Deep Learning | — |
 | AIH-09014 | Token Mixing | Deep Learning | Deep Learning | [2021](https://doi.org/10.5244/c.35.79) (source only) |

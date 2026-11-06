@@ -9,7 +9,7 @@
 | ID | Keyword | Category | Date | Classification | Source |
 |---|---|---|---|---|---|
 | AIH-09501 | Orthogonal Matrix | Mathematics | 1988 | Dated publication mention | [Source](https://doi.org/10.1007/978-3-0348-5472-6_2) |
-| AIH-09502 | Optical Flow | AI Foundations | 1987 | Dated publication mention | [Source](https://doi.org/10.1016/b978-0-08-050658-6.50007-2) |
+| AIH-09502 | Optical Flow | AI Foundations | 1980 | Original/early source (not proven first use) | [Source](https://dspace.mit.edu/entities/publication/e7968bf6-651d-4fd0-b4e8-c608756f2bba) |
 | AIH-09503 | Orthogonal Polynomials | Mathematics | 1931 | Dated publication mention | [Source](https://doi.org/10.1090/s0002-9947-1931-1501591-0) |
 | AIH-09504 | Optimal Control | AI Foundations | 1960 | Dated publication mention | [Source](https://openalex.org/W3035578948) |
 | AIH-09505 | Orthogonal Procrustes Problem | Mathematics | 1966 | Dated publication mention | [Source](https://doi.org/10.1007/bf02289451) |

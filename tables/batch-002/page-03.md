@@ -161,10 +161,10 @@
 | AIH-09996 | Throughput Ceiling | AI Foundations | Fundamentals | — |
 | AIH-09998 | Time Series | AI Foundations | Fundamentals | [1983](https://doi.org/10.1111/j.1467-9892.1983.tb00368.x) (source only) |
 | AIH-10000 | Tool Invocation | AI Foundations | Fundamentals | — |
-| AIH-10002 | Tool Use | AI Foundations | Fundamentals | [1987](https://doi.org/10.7560/775909) (source only) |
+| AIH-10002 | Tool Use | AI Foundations | Fundamentals | — |
 | AIH-10004 | Tool-Augmented Prompt | AI Foundations | Fundamentals | — |
 | AIH-10006 | Top-k | AI Foundations | Fundamentals | — |
-| AIH-10008 | Top-p | AI Foundations | Fundamentals | — |
+| AIH-10008 | Top-p | AI Foundations | Fundamentals | [2019](https://arxiv.org/abs/1904.09751) (source only) |
 | AIH-10010 | Total Cost of an AI System | AI Foundations | Fundamentals | — |
 | AIH-10012 | Toy problem | AI Foundations | Fundamentals | [2003](https://doi.org/10.1163/156855303764018495) (source only) |
 | AIH-10014 | Train/Validation/Test Split | AI Foundations | Fundamentals | — |

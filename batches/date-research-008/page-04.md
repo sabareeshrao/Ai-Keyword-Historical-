@@ -9,13 +9,13 @@
 | ID | Keyword | Category | Date | Classification | Source |
 |---|---|---|---|---|---|
 | AIH-10001 | Strided Array | Mathematics | — | Unresolved | — |
-| AIH-10002 | Tool Use | AI Foundations | 1987 | Dated publication mention | [Source](https://doi.org/10.7560/775909) |
+| AIH-10002 | Tool Use | AI Foundations | — | Cross-domain source rejected; unresolved | — |
 | AIH-10003 | Strong Convexity | Mathematics | — | Unresolved | — |
 | AIH-10004 | Tool-Augmented Prompt | AI Foundations | — | Unresolved | — |
 | AIH-10005 | Strongly Connected Component | Mathematics | 2000 | Dated publication mention | [Source](https://doi.org/10.1007/3-540-40922-x_4) |
 | AIH-10006 | Top-k | AI Foundations | — | Unresolved | — |
 | AIH-10007 | Structured Sparsity | Mathematics | — | Unresolved | — |
-| AIH-10008 | Top-p | AI Foundations | — | Unresolved | — |
+| AIH-10008 | Top-p | AI Foundations | 2019 | Original/early source (not proven first use) | [Source](https://arxiv.org/abs/1904.09751) |
 | AIH-10009 | Subdifferential | Mathematics | 1972 | Dated publication mention | [Source](https://doi.org/10.7146/math.scand.a-11428) |
 | AIH-10010 | Total Cost of an AI System | AI Foundations | — | Unresolved | — |
 | AIH-10011 | Subgradient | Mathematics | — | Unresolved | — |
