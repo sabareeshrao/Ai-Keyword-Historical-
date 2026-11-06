@@ -30,6 +30,10 @@
 
 **[Date research 006: Next 2,000 keywords (AIH-04501–AIH-06500)](batches/DATE_RESEARCH_006_NEXT_2000.md)** — four full 500-row tables with dated publications, estimated years ★, and unresolved records.
 **[Research batch 006 QA report](data/DATE_RESEARCH_006_REPORT.json)** — actual counts, source status, and evidence limitations.
+**[Date research 007: Next 2,000 keywords (AIH-06501–AIH-08500)](batches/DATE_RESEARCH_007_NEXT_2000.md)** — complete 500-row pages, dated-source evidence, starred estimates, and unresolved terms.
+
+**[Date research 007 audit](data/DATE_RESEARCH_007_REPORT.json)** — actual findings and preserved-ID checks.
+
 ## Browse complete keyword tables
 
 | Inventory set | Added keywords | Full tables | ID range |

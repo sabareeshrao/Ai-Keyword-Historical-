@@ -322,24 +322,24 @@
 | AIH-06238 | Object Storage | AI Infrastructure | AI Infrastructure | [1990](https://doi.org/10.1007/978-1-4471-3173-1_18) (source only) |
 | AIH-06261 | Occupancy | AI Infrastructure | AI Infrastructure | — |
 | AIH-06567 | Off-by-One Error in Sequences | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06584 | Offline Metric | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06584 | Offline Metric | AI Infrastructure | MLOps & Engineering | [2020](https://openalex.org/W7120469129) (source only) |
 | AIH-06600 | On-Call for Models | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06616 | On-Call Rotation | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06616 | On-Call Rotation | AI Infrastructure | MLOps & Engineering | [2001](https://doi.org/10.1080/01421590126521) ★ (estimated) |
 | AIH-06283 | On-Device Inference | AI Infrastructure | AI Infrastructure | — |
-| AIH-06632 | Online Metric | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06632 | Online Metric | AI Infrastructure | MLOps & Engineering | [2012](https://doi.org/10.1007/s00453-012-9669-8) (source only) |
 | AIH-06305 | ONNX | AI Infrastructure | AI Infrastructure | [2019](https://doi.org/10.1109/aicas.2019.8771510) (source only) |
-| AIH-06648 | Operational Excellence | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06648 | Operational Excellence | AI Infrastructure | MLOps & Engineering | [2003](https://doi.org/10.2139/ssrn.413720) (source only) |
 | AIH-06664 | Operational Handover | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06327 | Out of Memory Error | AI Infrastructure | AI Infrastructure | — |
 | AIH-06680 | Out-of-Scope Use | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06696 | Output Distribution Monitoring | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06712 | Output Post-Processing | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06712 | Output Post-Processing | AI Infrastructure | MLOps & Engineering | [2004](https://doi.org/10.1109/tmag.2004.828987) (source only) |
 | AIH-06728 | Output Snapshot Testing | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06744 | Overall Evaluation Criterion (OEC) | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06760 | Overfit One Batch | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06349 | Overflow Handling | AI Infrastructure | AI Infrastructure | [1979](https://doi.org/10.1016/0306-4379(79)90002-4) (source only) |
-| AIH-06776 | Overprovisioning | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06792 | Ownership Mapping | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06776 | Overprovisioning | AI Infrastructure | MLOps & Engineering | [2005](https://doi.org/10.1007/11574859_11) (source only) |
+| AIH-06792 | Ownership Mapping | AI Infrastructure | MLOps & Engineering | [2022](https://doi.org/10.21606/drs.2022.601) (source only) |
 | AIH-06369 | Parallel File System | AI Infrastructure | AI Infrastructure | — |
 | AIH-06388 | Parallelism Strategy Search | AI Infrastructure | AI Infrastructure | — |
 | AIH-06407 | Parameter Offloading | AI Infrastructure | AI Infrastructure | [2019](https://doi.org/10.1007/978-3-030-34914-1_2) (source only) |
@@ -347,165 +347,165 @@
 | AIH-06808 | Partitioning | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06444 | PCIe | AI Infrastructure | AI Infrastructure | [2019](https://doi.org/10.5220/0007576902610268) (source only) |
 | AIH-06462 | Peak Memory Usage | AI Infrastructure | AI Infrastructure | [2014](https://doi.org/10.1016/j.entcs.2014.01.021) (source only) |
-| AIH-06824 | Performance Monitoring | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06824 | Performance Monitoring | AI Infrastructure | MLOps & Engineering | [1983](https://doi.org/10.1016/b978-0-08-029992-1.50008-9) (source only) |
 | AIH-06480 | Photonic Computing | AI Infrastructure | AI Infrastructure | [2007](https://doi.org/10.1201/9781420019520.ch3) (source only) |
 | AIH-06498 | Pinned Memory | AI Infrastructure | AI Infrastructure | [2019](https://doi.org/10.1109/intercon.2019.8853624) (source only) |
-| AIH-06515 | Pipeline Bubble | AI Infrastructure | AI Infrastructure | — |
+| AIH-06515 | Pipeline Bubble | AI Infrastructure | AI Infrastructure | [2019](https://openalex.org/W3153603297) (source only) |
 | AIH-06839 | Pipeline Idempotency Check | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06854 | Pipeline Orchestration | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06854 | Pipeline Orchestration | AI Infrastructure | MLOps & Engineering | [2015](https://doi.org/10.71465/ajbd3444) (source only) |
 | AIH-06532 | Pipeline Parallelism (PP) | AI Infrastructure | AI Infrastructure | — |
 | AIH-06869 | Pipeline Parameterization | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06549 | Pod | AI Infrastructure | AI Infrastructure | — |
 | AIH-06884 | Point-in-Time Correctness | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06899 | Point-in-Time Model Recovery | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06566 | Polling for Results | AI Infrastructure | AI Infrastructure | — |
-| AIH-06914 | Postmortem | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06566 | Polling for Results | AI Infrastructure | AI Infrastructure | [1955](https://doi.org/10.1086/266575) ★ (estimated) |
+| AIH-06914 | Postmortem | AI Infrastructure | MLOps & Engineering | [1972](https://doi.org/10.1520/jfs10114j) (source only) |
 | AIH-06929 | Postmortem for Model Failure | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06583 | Power Usage Effectiveness (PUE) | AI Infrastructure | AI Infrastructure | — |
+| AIH-06583 | Power Usage Effectiveness (PUE) | AI Infrastructure | AI Infrastructure | [2022](https://doi.org/10.1109/aris56205.2022.9910452) (source only) |
 | AIH-06944 | Precomputation | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06959 | Predicate Pushdown | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06959 | Predicate Pushdown | AI Infrastructure | MLOps & Engineering | [2019](https://doi.org/10.1007/978-1-4842-5461-5_4) (source only) |
 | AIH-06974 | Prediction Drift Alert | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06989 | Prediction Logging | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07004 | Preemption Handling | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06599 | Prefetching | AI Infrastructure | AI Infrastructure | — |
-| AIH-06615 | Prefix Caching | AI Infrastructure | AI Infrastructure | — |
-| AIH-07019 | Preprocessing Mismatch | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06599 | Prefetching | AI Infrastructure | AI Infrastructure | [1978](https://doi.org/10.1145/320263.320276) (source only) |
+| AIH-06615 | Prefix Caching | AI Infrastructure | AI Infrastructure | [1999](https://doi.org/10.1109/infcom.1999.752149) (source only) |
+| AIH-07019 | Preprocessing Mismatch | AI Infrastructure | MLOps & Engineering | [2011](https://doi.org/10.1016/j.patcog.2010.08.020) (source only) |
 | AIH-07034 | Preventive Control | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07049 | Primacy Effect | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06631 | Priority Queue for Requests | AI Infrastructure | AI Infrastructure | — |
+| AIH-07049 | Primacy Effect | AI Infrastructure | MLOps & Engineering | [1969](https://doi.org/10.1111/j.1460-2466.1969.tb00846.x) (source only) |
+| AIH-06631 | Priority Queue for Requests | AI Infrastructure | AI Infrastructure | [2020](https://doi.org/10.30534/ijatcse/2020/106952020) ★ (estimated) |
 | AIH-06647 | Priority Tier | AI Infrastructure | AI Infrastructure | — |
 | AIH-07064 | Privacy Review | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06663 | Private Deployment | AI Infrastructure | AI Infrastructure | — |
-| AIH-07079 | Problem Framing | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06663 | Private Deployment | AI Infrastructure | AI Infrastructure | [1999](https://doi.org/10.1163/9789004620193_011) (source only) |
+| AIH-07079 | Problem Framing | AI Infrastructure | MLOps & Engineering | [1991](https://doi.org/10.1007/bf02589620) (source only) |
 | AIH-07094 | Production Evaluation Set | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07109 | Progressive Delivery | AI Infrastructure | MLOps & Engineering | — |
+| AIH-07109 | Progressive Delivery | AI Infrastructure | MLOps & Engineering | [2001](https://doi.org/10.1145/363361.363374) (source only) |
 | AIH-06679 | Progressive Rollout | AI Infrastructure | AI Infrastructure | — |
-| AIH-06695 | Prompt Caching | AI Infrastructure | AI Infrastructure | — |
+| AIH-06695 | Prompt Caching | AI Infrastructure | AI Infrastructure | [2025](https://doi.org/10.1109/wcnc61545.2025.10978306) (source only) |
 | AIH-06711 | Prompt Logging | AI Infrastructure | AI Infrastructure | — |
-| AIH-06727 | Prompt Token | AI Infrastructure | AI Infrastructure | — |
+| AIH-06727 | Prompt Token | AI Infrastructure | AI Infrastructure | [2024](https://doi.org/10.1145/3664647.3680857) (source only) |
 | AIH-07123 | Property-Based Model Testing | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06743 | Provisioned Throughput | AI Infrastructure | AI Infrastructure | — |
-| AIH-07137 | Proxy Metric | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07151 | Proxy Monitoring | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06759 | PyTorch | AI Infrastructure | AI Infrastructure | — |
+| AIH-07137 | Proxy Metric | AI Infrastructure | MLOps & Engineering | [2010](https://doi.org/10.5465/amle.9.2.zqr321) (source only) |
+| AIH-07151 | Proxy Monitoring | AI Infrastructure | MLOps & Engineering | [2025](https://doi.org/10.3390/applmicrobiol6010003) (source only) |
+| AIH-06759 | PyTorch | AI Infrastructure | AI Infrastructure | [2019](https://doi.org/10.1007/978-1-4842-4258-2_7) (source only) |
 | AIH-07165 | Quality Bar | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06775 | Quantization | AI Infrastructure | AI Infrastructure | — |
-| AIH-07179 | Query Plan | AI Infrastructure | MLOps & Engineering | — |
+| AIH-06775 | Quantization | AI Infrastructure | AI Infrastructure | [1969](https://doi.org/10.1016/b978-0-08-012824-5.50009-3) (source only) |
+| AIH-07179 | Query Plan | AI Infrastructure | MLOps & Engineering | [2006](https://doi.org/10.1109/icebe.2006.24) (source only) |
 | AIH-06791 | Queue Depth | AI Infrastructure | AI Infrastructure | — |
-| AIH-06807 | Queue Time | AI Infrastructure | AI Infrastructure | — |
+| AIH-06807 | Queue Time | AI Infrastructure | AI Infrastructure | [1997](https://doi.org/10.21236/ada603824) (source only) |
 | AIH-06823 | Rack Density | AI Infrastructure | AI Infrastructure | — |
 | AIH-07192 | Random Seed Management | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06838 | RDMA | AI Infrastructure | AI Infrastructure | — |
-| AIH-07205 | Readiness Assessment | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07218 | Readiness Probe | AI Infrastructure | MLOps & Engineering | — |
-| AIH-06853 | Recomputation | AI Infrastructure | AI Infrastructure | — |
-| AIH-06868 | Reduce-Scatter | AI Infrastructure | AI Infrastructure | — |
+| AIH-07205 | Readiness Assessment | AI Infrastructure | MLOps & Engineering | [2017](https://doi.org/10.18356/9789210027403) (source only) |
+| AIH-07218 | Readiness Probe | AI Infrastructure | MLOps & Engineering | [2024](https://doi.org/10.21275/sr24820065625) (source only) |
+| AIH-06853 | Recomputation | AI Infrastructure | AI Infrastructure | [1932](https://doi.org/10.1179/003962632792133112) (source only) |
+| AIH-06868 | Reduce-Scatter | AI Infrastructure | AI Infrastructure | [1977](https://doi.org/10.2214/ajr.129.3.497) (source only) |
 | AIH-07231 | Reference Dataset for Monitoring | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07243 | Referential Integrity | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06883 | Regional Endpoint | AI Infrastructure | AI Infrastructure | — |
 | AIH-07255 | Regression Test for Models | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07267 | Remediation Plan | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07279 | Remediation Prioritization | AI Infrastructure | MLOps & Engineering | — |
+| AIH-07267 | Remediation Plan | AI Infrastructure | MLOps & Engineering | [1993](https://doi.org/10.2172/10192928) (source only) |
+| AIH-07279 | Remediation Prioritization | AI Infrastructure | MLOps & Engineering | [2024](https://doi.org/10.1080/19475705.2024.2393687) (source only) |
 | AIH-07291 | Remote Model Call | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06898 | Replica Count | AI Infrastructure | AI Infrastructure | — |
 | AIH-06913 | Reproducible Build | AI Infrastructure | AI Infrastructure | — |
-| AIH-07303 | Reproducible Pipeline | AI Infrastructure | MLOps & Engineering | — |
+| AIH-07303 | Reproducible Pipeline | AI Infrastructure | MLOps & Engineering | [2017](https://doi.org/10.1101/233544) (source only) |
 | AIH-06928 | Request Identifier | AI Infrastructure | AI Infrastructure | — |
-| AIH-06943 | Request Isolation | AI Infrastructure | AI Infrastructure | — |
-| AIH-06958 | Reserved Capacity | AI Infrastructure | AI Infrastructure | — |
+| AIH-06943 | Request Isolation | AI Infrastructure | AI Infrastructure | [2023](https://doi.org/10.1145/3552326.3567503) (source only) |
+| AIH-06958 | Reserved Capacity | AI Infrastructure | AI Infrastructure | [2000](https://doi.org/10.1239/aap/1013540245) (source only) |
 | AIH-07315 | Reserved versus On-Demand | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07327 | Resource Quota | AI Infrastructure | MLOps & Engineering | — |
+| AIH-07327 | Resource Quota | AI Infrastructure | MLOps & Engineering | [1998](https://doi.org/10.1023/a:1004930631206) (source only) |
 | AIH-07339 | Result Aggregation Across Seeds | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07351 | Retention Schedule for Models | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07363 | Retraining Cadence | AI Infrastructure | MLOps & Engineering | — |
 | AIH-06973 | Retry Storm | AI Infrastructure | AI Infrastructure | — |
 | AIH-06988 | Reverse Proxy | AI Infrastructure | AI Infrastructure | — |
-| AIH-07375 | Right-Sizing | AI Infrastructure | MLOps & Engineering | — |
+| AIH-07375 | Right-Sizing | AI Infrastructure | MLOps & Engineering | [1996](https://doi.org/10.1016/0167-4048(96)82609-5) (source only) |
 | AIH-07387 | Right-Sizing Analysis | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07003 | Ring All-Reduce | AI Infrastructure | AI Infrastructure | — |
-| AIH-07398 | Risk Appetite | AI Infrastructure | MLOps & Engineering | — |
+| AIH-07003 | Ring All-Reduce | AI Infrastructure | AI Infrastructure | [2022](https://doi.org/10.1109/infocom48880.2022.9796785) (source only) |
+| AIH-07398 | Risk Appetite | AI Infrastructure | MLOps & Engineering | [2004](https://doi.org/10.2139/ssrn.477467) (source only) |
 | AIH-07409 | Risk Owner | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07420 | Risk Review Cadence | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05118 | ROCm | AI Infrastructure | Hardware & Compute | — |
 | AIH-07018 | Rollback | AI Infrastructure | AI Infrastructure | — |
 | AIH-07431 | Rollback Trigger | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07033 | Rolling Update | AI Infrastructure | AI Infrastructure | — |
-| AIH-07048 | Rollout Strategy | AI Infrastructure | AI Infrastructure | — |
+| AIH-07033 | Rolling Update | AI Infrastructure | AI Infrastructure | [2019](https://doi.org/10.4236/gep.2019.73008) (source only) |
+| AIH-07048 | Rollout Strategy | AI Infrastructure | AI Infrastructure | [2007](https://doi.org/10.1109/icsmc.2007.4414200) (source only) |
 | AIH-05150 | Rounding Mode | AI Infrastructure | Hardware & Compute | — |
-| AIH-07442 | Run Comparison | AI Infrastructure | MLOps & Engineering | — |
+| AIH-07442 | Run Comparison | AI Infrastructure | MLOps & Engineering | [2004](https://doi.org/10.3386/w10300) (source only) |
 | AIH-07453 | Run Comparison Dashboard | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07464 | Runbook | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07475 | Runbook Automation | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07063 | Runtime Configuration | AI Infrastructure | AI Infrastructure | — |
-| AIH-07078 | Safetensors | AI Infrastructure | AI Infrastructure | — |
+| AIH-07464 | Runbook | AI Infrastructure | MLOps & Engineering | [2026](https://doi.org/10.1145/3832783.3834501) (source only) |
+| AIH-07475 | Runbook Automation | AI Infrastructure | MLOps & Engineering | [2014](https://doi.org/10.1109/noms.2014.6838370) (source only) |
+| AIH-07063 | Runtime Configuration | AI Infrastructure | AI Infrastructure | [2005](https://doi.org/10.1145/1083217.1083225) (source only) |
+| AIH-07078 | Safetensors | AI Infrastructure | AI Infrastructure | [2023](https://doi.org/10.32614/cran.package.safetensors) (source only) |
 | AIH-07486 | Safety Regression Test | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07497 | Sampling for Labelling | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07093 | Sampling for Observability | AI Infrastructure | AI Infrastructure | — |
-| AIH-07508 | Sanity Check | AI Infrastructure | MLOps & Engineering | — |
+| AIH-07508 | Sanity Check | AI Infrastructure | MLOps & Engineering | [1994](https://doi.org/10.1038/scientificamerican0694-19) (source only) |
 | AIH-05182 | Scale-Out | AI Infrastructure | Hardware & Compute | — |
 | AIH-07108 | Scale-to-Zero | AI Infrastructure | AI Infrastructure | — |
 | AIH-05213 | Scale-Up | AI Infrastructure | Hardware & Compute | [1991](https://doi.org/10.1007/978-3-642-76673-2_4) (source only) |
-| AIH-07122 | Scaling Policy | AI Infrastructure | AI Infrastructure | — |
-| AIH-07519 | Schema Change Detection | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07530 | Schema Enforcement | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07541 | Search Space Design | AI Infrastructure | MLOps & Engineering | — |
+| AIH-07122 | Scaling Policy | AI Infrastructure | AI Infrastructure | [2017](https://doi.org/10.3138/9781442668034-018) (source only) |
+| AIH-07519 | Schema Change Detection | AI Infrastructure | MLOps & Engineering | [2015](https://doi.org/10.1504/ijwgs.2015.068897) (source only) |
+| AIH-07530 | Schema Enforcement | AI Infrastructure | MLOps & Engineering | [2025](https://doi.org/10.71097/ijaidr.v16.i2.1581) (source only) |
+| AIH-07541 | Search Space Design | AI Infrastructure | MLOps & Engineering | [1993](https://doi.org/10.1068/b200617) (source only) |
 | AIH-07552 | Seasonality in Experiments | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07136 | Secrets Management | AI Infrastructure | AI Infrastructure | — |
-| AIH-07563 | Security Review | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07574 | Segment-Level Monitoring | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07150 | Selective Recomputation | AI Infrastructure | AI Infrastructure | — |
-| AIH-07585 | Self-Healing System | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07596 | Semantic Cache | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07607 | Semantic Comparison of Outputs | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07618 | Semantic Versioning (SemVer) | AI Infrastructure | MLOps & Engineering | — |
+| AIH-07136 | Secrets Management | AI Infrastructure | AI Infrastructure | [2021](https://doi.org/10.21275/sr24402110508) (source only) |
+| AIH-07563 | Security Review | AI Infrastructure | MLOps & Engineering | [1973](https://doi.org/10.1007/978-1-349-01930-4_18) (source only) |
+| AIH-07574 | Segment-Level Monitoring | AI Infrastructure | MLOps & Engineering | [2011](https://openalex.org/W2781754987) ★ (estimated) |
+| AIH-07150 | Selective Recomputation | AI Infrastructure | AI Infrastructure | [1997](https://doi.org/10.1007/bfb0033850) (source only) |
+| AIH-07585 | Self-Healing System | AI Infrastructure | MLOps & Engineering | [2007](https://doi.org/10.19153/cleiej.10.2.5) (source only) |
+| AIH-07596 | Semantic Cache | AI Infrastructure | MLOps & Engineering | [1999](https://doi.org/10.1016/s1389-1286(99)00035-3) (source only) |
+| AIH-07607 | Semantic Comparison of Outputs | AI Infrastructure | MLOps & Engineering | [2026](https://doi.org/10.5281/zenodo.22148611) ★ (estimated) |
+| AIH-07618 | Semantic Versioning (SemVer) | AI Infrastructure | MLOps & Engineering | [2025](https://doi.org/10.32614/cran.package.smvr) (source only) |
 | AIH-07164 | Sequence Parallelism (SP) | AI Infrastructure | AI Infrastructure | — |
 | AIH-05244 | Sequential Throughput | AI Infrastructure | Hardware & Compute | — |
-| AIH-07629 | Service Catalogue | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07178 | Service Level Agreement (SLA) | AI Infrastructure | AI Infrastructure | — |
-| AIH-07191 | Service Level Objective (SLO) | AI Infrastructure | AI Infrastructure | — |
+| AIH-07629 | Service Catalogue | AI Infrastructure | MLOps & Engineering | [1975](https://openalex.org/W3154556001) (source only) |
+| AIH-07178 | Service Level Agreement (SLA) | AI Infrastructure | AI Infrastructure | [2004](https://doi.org/10.1109/icc.2004.1312657) (source only) |
+| AIH-07191 | Service Level Objective (SLO) | AI Infrastructure | AI Infrastructure | [2026](https://doi.org/10.1109/icaiset66439.2026.11541542) (source only) |
 | AIH-07204 | Service Mesh | AI Infrastructure | AI Infrastructure | — |
 | AIH-07640 | Serving Abstraction | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07217 | Serving Framework | AI Infrastructure | AI Infrastructure | — |
+| AIH-07217 | Serving Framework | AI Infrastructure | AI Infrastructure | [2025](https://doi.org/10.52202/085713-3101) (source only) |
 | AIH-07651 | Severity Definition | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07662 | Shape Bug | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07230 | Sharded Dataset | AI Infrastructure | AI Infrastructure | — |
-| AIH-07242 | Shared Capacity | AI Infrastructure | AI Infrastructure | — |
+| AIH-07242 | Shared Capacity | AI Infrastructure | AI Infrastructure | [1967](https://doi.org/10.1016/0001-6918(67)99000-2) (source only) |
 | AIH-07254 | Shared Memory on GPU | AI Infrastructure | AI Infrastructure | — |
 | AIH-07266 | Showback | AI Infrastructure | AI Infrastructure | — |
 | AIH-07673 | Shuffle | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07684 | Sign-Off Criteria | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07695 | Silent Broadcasting Bug | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07706 | Silent Failure | AI Infrastructure | MLOps & Engineering | — |
+| AIH-07706 | Silent Failure | AI Infrastructure | MLOps & Engineering | [2025](https://doi.org/10.2139/ssrn.5382771) (source only) |
 | AIH-07717 | Silent Model Degradation | AI Infrastructure | MLOps & Engineering | — |
 | AIH-05275 | Simultaneous Multithreading (SMT) | AI Infrastructure | Hardware & Compute | [2005](https://doi.org/10.1147/rd.494.0555) (source only) |
 | AIH-07728 | SLA for Pipelines | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07739 | Slice-Based Evaluation | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07278 | Slurm | AI Infrastructure | AI Infrastructure | — |
+| AIH-07739 | Slice-Based Evaluation | AI Infrastructure | MLOps & Engineering | [2019](https://doi.org/10.1007/978-3-030-24337-1_2) (source only) |
+| AIH-07278 | Slurm | AI Infrastructure | AI Infrastructure | [2018](https://doi.org/10.1109/glosic.2018.8570130) (source only) |
 | AIH-05306 | SmartNIC | AI Infrastructure | Hardware & Compute | [2025](https://doi.org/10.1109/lcn65610.2025.11146316) (source only) |
-| AIH-07750 | Smoke Test | AI Infrastructure | MLOps & Engineering | — |
+| AIH-07750 | Smoke Test | AI Infrastructure | MLOps & Engineering | [2014](https://doi.org/10.1007/978-3-642-41714-6_194764) (source only) |
 | AIH-05337 | Software Pipelining | AI Infrastructure | Hardware & Compute | [1986](https://doi.org/10.1145/19551.19541) (source only) |
 | AIH-05368 | Solid State Drive (SSD) | AI Infrastructure | Hardware & Compute | — |
 | AIH-05399 | Sovereign Compute | AI Infrastructure | Hardware & Compute | — |
 | AIH-07290 | Sparsity Acceleration | AI Infrastructure | AI Infrastructure | — |
 | AIH-05430 | Specialization Tradeoff | AI Infrastructure | Hardware & Compute | [2021](https://doi.org/10.1101/2021.03.18.436093) (source only) |
-| AIH-07302 | Speculative Decoding | AI Infrastructure | AI Infrastructure | — |
+| AIH-07302 | Speculative Decoding | AI Infrastructure | AI Infrastructure | [2023](https://doi.org/10.18653/v1/2023.findings-emnlp.257) (source only) |
 | AIH-05461 | Speculative Execution | AI Infrastructure | Hardware & Compute | — |
-| AIH-07314 | Spot Instance | AI Infrastructure | AI Infrastructure | — |
+| AIH-07314 | Spot Instance | AI Infrastructure | AI Infrastructure | [2011](https://doi.org/10.1109/cloudcom.2011.48) (source only) |
 | AIH-05492 | SR-IOV | AI Infrastructure | Hardware & Compute | — |
 | AIH-07326 | Staging Environment | AI Infrastructure | AI Infrastructure | — |
 | AIH-07761 | Stakeholder Review | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07772 | Staleness Tolerance | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07783 | Stateful Stream Processing | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07793 | Statistical Rigour in ML Experiments | AI Infrastructure | MLOps & Engineering | — |
-| AIH-07803 | Status Page | AI Infrastructure | MLOps & Engineering | — |
+| AIH-07803 | Status Page | AI Infrastructure | MLOps & Engineering | [2016](https://doi.org/10.53731/r79y8rh-97aq74v-ag5ew) (source only) |
 | AIH-07338 | Sticky Routing | AI Infrastructure | AI Infrastructure | — |
 | AIH-05523 | Storage Tiering | AI Infrastructure | Hardware & Compute | [2011](https://doi.org/10.1109/ucc.2011.74) (source only) |
-| AIH-07350 | Straggler | AI Infrastructure | AI Infrastructure | — |
+| AIH-07350 | Straggler | AI Infrastructure | AI Infrastructure | [1947](https://doi.org/10.63172/266713qxkzfu) (source only) |
 | AIH-07813 | Stratified Production Sampling | AI Infrastructure | MLOps & Engineering | — |
 | AIH-07362 | Stream | AI Infrastructure | AI Infrastructure | — |
 | AIH-05553 | Stream Multiplexing | AI Infrastructure | Hardware & Compute | [2008](https://doi.org/10.1109/isita.2008.4895494) (source only) |
 | AIH-07374 | Streaming Chunk Size | AI Infrastructure | AI Infrastructure | — |
-| AIH-07386 | Streaming Dataset | AI Infrastructure | AI Infrastructure | — |
+| AIH-07386 | Streaming Dataset | AI Infrastructure | AI Infrastructure | [2016](https://doi.org/10.1109/icrtit.2016.7569580) (source only) |
 
 — means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
 

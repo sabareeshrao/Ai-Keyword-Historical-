@@ -27,54 +27,54 @@
 | AIH-06448 | Monorepo Tooling | Programming & Software | Programming & Software | — |
 | AIH-06466 | Multi-Line Completion | Programming & Software | Programming & Software | — |
 | AIH-06484 | Mutation Testing | Programming & Software | Programming & Software | — |
-| AIH-06502 | Mutex | Programming & Software | Programming & Software | — |
-| AIH-06519 | Naming Quality | Programming & Software | Programming & Software | — |
-| AIH-06536 | Null Pointer Dereference | Programming & Software | Programming & Software | — |
-| AIH-06553 | Observability of Failures | Programming & Software | Programming & Software | — |
+| AIH-06502 | Mutex | Programming & Software | Programming & Software | [2020](https://doi.org/10.1609/icaps.v30i1.6677) (source only) |
+| AIH-06519 | Naming Quality | Programming & Software | Programming & Software | [2017](https://doi.org/10.7208/chicago/9780226487137.003.0007) (source only) |
+| AIH-06536 | Null Pointer Dereference | Programming & Software | Programming & Software | [2008](https://doi.org/10.1007/978-3-540-88479-8_18) (source only) |
+| AIH-06553 | Observability of Failures | Programming & Software | Programming & Software | [2015](https://doi.org/10.1109/isgt-la.2015.7381148) ★ (estimated) |
 | AIH-06570 | Observability-Driven Development | Programming & Software | Programming & Software | — |
-| AIH-06587 | Observer Pattern | Programming & Software | Programming & Software | — |
+| AIH-06587 | Observer Pattern | Programming & Software | Programming & Software | [1996](https://openalex.org/W2338038908) (source only) |
 | AIH-06603 | Optimistic Concurrency Control (OCC) | Programming & Software | Programming & Software | — |
-| AIH-06619 | Ownership Model | Programming & Software | Programming & Software | — |
-| AIH-06635 | Package Hallucination | Programming & Software | Programming & Software | — |
-| AIH-06651 | Pair Programming with AI | Programming & Software | Programming & Software | — |
-| AIH-06667 | Parallelism | Programming & Software | Programming & Software | — |
-| AIH-06683 | Parser Combinator | Programming & Software | Programming & Software | — |
-| AIH-06699 | Partial Function | Programming & Software | Programming & Software | — |
-| AIH-06715 | Patch Release | Programming & Software | Programming & Software | — |
+| AIH-06619 | Ownership Model | Programming & Software | Programming & Software | [2005](https://doi.org/10.1111/j.1467-9973.2005.00361.x) (source only) |
+| AIH-06635 | Package Hallucination | Programming & Software | Programming & Software | [2026](https://doi.org/10.64643/ijirtv12i7-191660-459) (source only) |
+| AIH-06651 | Pair Programming with AI | Programming & Software | Programming & Software | [2024](https://doi.org/10.1109/cseet62301.2024.10663037) (source only) |
+| AIH-06667 | Parallelism | Programming & Software | Programming & Software | [1880](https://doi.org/10.1093/notesj/s6-i.2.34-e) (source only) |
+| AIH-06683 | Parser Combinator | Programming & Software | Programming & Software | [2011](https://doi.org/10.32614/cran.package.qmrparser) (source only) |
+| AIH-06699 | Partial Function | Programming & Software | Programming & Software | [1998](https://doi.org/10.14236/ewic/nfm1998.7) (source only) |
+| AIH-06715 | Patch Release | Programming & Software | Programming & Software | [2009](https://doi.org/10.1109/issre.2009.19) (source only) |
 | AIH-06731 | Paxos | Programming & Software | Programming & Software | — |
-| AIH-06747 | Pessimistic Locking | Programming & Software | Programming & Software | — |
-| AIH-06763 | Polymorphism | Programming & Software | Programming & Software | — |
+| AIH-06747 | Pessimistic Locking | Programming & Software | Programming & Software | [2017](https://doi.org/10.5220/0006119703120319) (source only) |
+| AIH-06763 | Polymorphism | Programming & Software | Programming & Software | [1994](https://doi.org/10.1007/978-94-017-1888-2_1) (source only) |
 | AIH-06779 | Polyrepo | Programming & Software | Programming & Software | — |
-| AIH-06795 | Postcondition | Programming & Software | Programming & Software | — |
+| AIH-06795 | Postcondition | Programming & Software | Programming & Software | [1990](https://doi.org/10.1007/978-1-4612-3228-5_12) (source only) |
 | AIH-06811 | Precondition | Programming & Software | Programming & Software | — |
-| AIH-06827 | Premature Optimization | Programming & Software | Programming & Software | — |
-| AIH-06842 | Principle of Least Surprise | Programming & Software | Programming & Software | — |
+| AIH-06827 | Premature Optimization | Programming & Software | Programming & Software | [2006](https://doi.org/10.59350/gpz46-v1139) (source only) |
+| AIH-06842 | Principle of Least Surprise | Programming & Software | Programming & Software | [1983](https://doi.org/10.1080/00949658308810689) (source only) |
 | AIH-06857 | Process | Programming & Software | Programming & Software | — |
 | AIH-06872 | Profiling | Programming & Software | Programming & Software | — |
 | AIH-06887 | Promise | Programming & Software | Programming & Software | — |
-| AIH-06902 | Property-Based Testing | Programming & Software | Programming & Software | — |
-| AIH-06917 | Protocol Buffers | Programming & Software | Programming & Software | — |
-| AIH-06932 | Publish-Subscribe | Programming & Software | Programming & Software | — |
+| AIH-06902 | Property-Based Testing | Programming & Software | Programming & Software | [1997](https://doi.org/10.1145/263244.263267) (source only) |
+| AIH-06917 | Protocol Buffers | Programming & Software | Programming & Software | [2010](https://doi.org/10.32614/cran.package.rprotobuf) (source only) |
+| AIH-06932 | Publish-Subscribe | Programming & Software | Programming & Software | [2000](https://doi.org/10.21236/ada444645) (source only) |
 | AIH-06947 | Pull Request (PR) | Programming & Software | Programming & Software | — |
 | AIH-06962 | Pure Function | Programming & Software | Programming & Software | — |
 | AIH-06977 | Queue | Programming & Software | Programming & Software | — |
-| AIH-06992 | Race Condition | Programming & Software | Programming & Software | — |
+| AIH-06992 | Race Condition | Programming & Software | Programming & Software | [1971](https://doi.org/10.17487/rfc161) (source only) |
 | AIH-07007 | Raft | Programming & Software | Programming & Software | — |
 | AIH-07022 | Rebase | Programming & Software | Programming & Software | — |
-| AIH-07037 | Recursion | Programming & Software | Programming & Software | — |
-| AIH-07052 | Refactoring | Programming & Software | Programming & Software | — |
-| AIH-07067 | Refactoring Automation | Programming & Software | Programming & Software | — |
+| AIH-07037 | Recursion | Programming & Software | Programming & Software | [1978](https://doi.org/10.1007/978-3-662-12898-5_3) (source only) |
+| AIH-07052 | Refactoring | Programming & Software | Programming & Software | [2000](https://doi.org/10.15760/etd.2671) (source only) |
+| AIH-07067 | Refactoring Automation | Programming & Software | Programming & Software | [2007](https://doi.org/10.1145/3255373) (source only) |
 | AIH-07082 | Reference Counting | Programming & Software | Programming & Software | — |
 | AIH-07097 | Referential Transparency | Programming & Software | Programming & Software | — |
-| AIH-07112 | Regression Risk | Programming & Software | Programming & Software | — |
-| AIH-07126 | Regular Expression | Programming & Software | Programming & Software | — |
+| AIH-07112 | Regression Risk | Programming & Software | Programming & Software | [2015](https://doi.org/10.21236/ada621688) (source only) |
+| AIH-07126 | Regular Expression | Programming & Software | Programming & Software | [1997](https://doi.org/10.1145/266714.266854) (source only) |
 | AIH-07140 | Release Branch | Programming & Software | Programming & Software | — |
-| AIH-07154 | Release Notes | Programming & Software | Programming & Software | — |
+| AIH-07154 | Release Notes | Programming & Software | Programming & Software | [1983](https://doi.org/10.6028/nbs.ir.83-2779) (source only) |
 | AIH-07168 | Release Train | Programming & Software | Programming & Software | — |
 | AIH-07181 | Remote Build Execution | Programming & Software | Programming & Software | — |
 | AIH-07194 | Remote Cache Hit Rate | Programming & Software | Programming & Software | — |
-| AIH-07207 | Repository Context | Programming & Software | Programming & Software | — |
-| AIH-07220 | Repository Pattern | Programming & Software | Programming & Software | — |
+| AIH-07207 | Repository Context | Programming & Software | Programming & Software | [2007](https://doi.org/10.1108/10650750710831547) (source only) |
+| AIH-07220 | Repository Pattern | Programming & Software | Programming & Software | [2008](https://doi.org/10.1109/icacte.2008.116) (source only) |
 | AIH-07233 | Repository-Level Understanding | Programming & Software | Programming & Software | — |
 | AIH-07245 | Reproducible Dependency Resolution | Programming & Software | Programming & Software | — |
 | AIH-07257 | Reproducible Environment | Programming & Software | Programming & Software | — |
@@ -87,61 +87,61 @@
 | AIH-07341 | Review Load | Programming & Software | Programming & Software | — |
 | AIH-07353 | Review Noise | Programming & Software | Programming & Software | — |
 | AIH-07365 | Root Cause versus Symptom | Programming & Software | Programming & Software | — |
-| AIH-07377 | Saga Pattern | Programming & Software | Programming & Software | — |
-| AIH-07389 | Schema Evolution | Programming & Software | Programming & Software | — |
+| AIH-07377 | Saga Pattern | Programming & Software | Programming & Software | [2019](https://doi.org/10.5220/0007918704830490) (source only) |
+| AIH-07389 | Schema Evolution | Programming & Software | Programming & Software | [1990](https://doi.org/10.1016/0306-4379(90)90036-o) (source only) |
 | AIH-07400 | Security of Generated Code | Programming & Software | Programming & Software | — |
-| AIH-07411 | Security Patch | Programming & Software | Programming & Software | — |
+| AIH-07411 | Security Patch | Programming & Software | Programming & Software | [2003](https://doi.org/10.1201/noe0849385858-67) (source only) |
 | AIH-07422 | Semantic Diff | Programming & Software | Programming & Software | — |
-| AIH-07433 | Semaphore | Programming & Software | Programming & Software | — |
-| AIH-07444 | Separation of Concerns | Programming & Software | Programming & Software | — |
-| AIH-07455 | Serialization | Programming & Software | Programming & Software | — |
+| AIH-07433 | Semaphore | Programming & Software | Programming & Software | [1885](https://doi.org/10.1038/031603a0) (source only) |
+| AIH-07444 | Separation of Concerns | Programming & Software | Programming & Software | [2000](https://doi.org/10.1145/369275.369281) (source only) |
+| AIH-07455 | Serialization | Programming & Software | Programming & Software | [1996](https://doi.org/10.1007/978-1-349-24489-8_2) (source only) |
 | AIH-07466 | Service Boundary | Programming & Software | Programming & Software | — |
 | AIH-07477 | Set Data Structure | Programming & Software | Programming & Software | — |
-| AIH-07488 | Severity Classification | Programming & Software | Programming & Software | — |
+| AIH-07488 | Severity Classification | Programming & Software | Programming & Software | [2021](https://doi.org/10.55788/36d9a177) (source only) |
 | AIH-07499 | SIMD | Programming & Software | Programming & Software | — |
 | AIH-07510 | Single Responsibility Principle (SRP) | Programming & Software | Programming & Software | — |
-| AIH-07521 | Small Pull Request | Programming & Software | Programming & Software | — |
-| AIH-07532 | Snapshot Test | Programming & Software | Programming & Software | — |
-| AIH-07543 | Source Code | Programming & Software | Programming & Software | — |
-| AIH-07554 | Stack Data Structure | Programming & Software | Programming & Software | — |
-| AIH-07565 | Stack Overflow | Programming & Software | Programming & Software | — |
+| AIH-07521 | Small Pull Request | Programming & Software | Programming & Software | [2026](https://doi.org/10.6084/m9.figshare.33033299) ★ (estimated) |
+| AIH-07532 | Snapshot Test | Programming & Software | Programming & Software | [2008](https://doi.org/10.3182/20080706-5-kr-1001.01209) (source only) |
+| AIH-07543 | Source Code | Programming & Software | Programming & Software | [1975](https://doi.org/10.1109/tse.1975.6312866) (source only) |
+| AIH-07554 | Stack Data Structure | Programming & Software | Programming & Software | [2009](https://doi.org/10.1109/biyomut.2009.5130350) (source only) |
+| AIH-07565 | Stack Overflow | Programming & Software | Programming & Software | [2003](https://doi.org/10.1007/978-3-540-45212-6_20) (source only) |
 | AIH-07576 | Stacked Changes | Programming & Software | Programming & Software | — |
-| AIH-07587 | Starvation | Programming & Software | Programming & Software | — |
+| AIH-07587 | Starvation | Programming & Software | Programming & Software | [1950](https://doi.org/10.5749/j.ctv9b2tqv.7) (source only) |
 | AIH-07598 | Stash | Programming & Software | Programming & Software | — |
-| AIH-07609 | Static Analysis | Programming & Software | Programming & Software | — |
-| AIH-07620 | Static Typing | Programming & Software | Programming & Software | — |
-| AIH-07631 | Strategy Pattern | Programming & Software | Programming & Software | — |
+| AIH-07609 | Static Analysis | Programming & Software | Programming & Software | [1984](https://doi.org/10.1007/3-540-12896-4_351) (source only) |
+| AIH-07620 | Static Typing | Programming & Software | Programming & Software | [1990](https://doi.org/10.1145/96709.96747) (source only) |
+| AIH-07631 | Strategy Pattern | Programming & Software | Programming & Software | [1996](https://openalex.org/W1959216240) (source only) |
 | AIH-07642 | Strong Consistency | Programming & Software | Programming & Software | — |
 | AIH-07653 | Stub | Programming & Software | Programming & Software | — |
 | AIH-07664 | Suggestion Latency | Programming & Software | Programming & Software | — |
-| AIH-07675 | Supply Chain Verification | Programming & Software | Programming & Software | — |
+| AIH-07675 | Supply Chain Verification | Programming & Software | Programming & Software | [2012](https://doi.org/10.1021/cen-09008-ad18) (source only) |
 | AIH-07686 | Symbol Resolution | Programming & Software | Programming & Software | — |
 | AIH-07697 | Tag | Programming & Software | Programming & Software | — |
 | AIH-07708 | Tail Call Optimization | Programming & Software | Programming & Software | — |
-| AIH-07719 | Technical Debt | Programming & Software | Programming & Software | — |
+| AIH-07719 | Technical Debt | Programming & Software | Programming & Software | [2011](https://doi.org/10.1145/1985362.1985371) (source only) |
 | AIH-07730 | Test Double | Programming & Software | Programming & Software | — |
 | AIH-07741 | Test Pass Rate | Programming & Software | Programming & Software | — |
-| AIH-07752 | Test Selection | Programming & Software | Programming & Software | — |
+| AIH-07752 | Test Selection | Programming & Software | Programming & Software | [1972](https://doi.org/10.1186/1297-9686-4-1-139) (source only) |
 | AIH-07763 | Thread | Programming & Software | Programming & Software | — |
-| AIH-07774 | Thread Pool | Programming & Software | Programming & Software | — |
+| AIH-07774 | Thread Pool | Programming & Software | Programming & Software | [2000](https://doi.org/10.1145/346152.346320) (source only) |
 | AIH-07785 | Time to Restore Service | Programming & Software | Programming & Software | — |
 | AIH-07795 | Total Function | Programming & Software | Programming & Software | — |
-| AIH-07805 | Transitive Dependency | Programming & Software | Programming & Software | — |
+| AIH-07805 | Transitive Dependency | Programming & Software | Programming & Software | [1996](https://doi.org/10.1142/s0129626496000406) (source only) |
 | AIH-07815 | Trunk-Based Development | Programming & Software | Programming & Software | — |
 | AIH-07825 | Tuple | Programming & Software | Programming & Software | — |
-| AIH-07835 | Two-Phase Commit (2PC) | Programming & Software | Programming & Software | — |
+| AIH-07835 | Two-Phase Commit (2PC) | Programming & Software | Programming & Software | [2025](https://doi.org/10.37547/tajet/volume07issue06-18) (source only) |
 | AIH-07845 | Type Annotation | Programming & Software | Programming & Software | — |
-| AIH-07855 | Type Checker | Programming & Software | Programming & Software | — |
-| AIH-07865 | Type Safety | Programming & Software | Programming & Software | — |
-| AIH-07875 | Undefined Behaviour | Programming & Software | Programming & Software | — |
+| AIH-07855 | Type Checker | Programming & Software | Programming & Software | [1986](https://doi.org/10.1016/0167-6423(86)90027-4) (source only) |
+| AIH-07865 | Type Safety | Programming & Software | Programming & Software | [2012](https://doi.org/10.1017/cbo9781139342131.007) (source only) |
+| AIH-07875 | Undefined Behaviour | Programming & Software | Programming & Software | [2014](https://doi.org/10.32614/cran.package.sanitizers) (source only) |
 | AIH-07885 | Upgrade Path | Programming & Software | Programming & Software | — |
-| AIH-07895 | UTF-8 | Programming & Software | Programming & Software | — |
-| AIH-07905 | Vectorization | Programming & Software | Programming & Software | — |
+| AIH-07895 | UTF-8 | Programming & Software | Programming & Software | [1996](https://doi.org/10.17487/rfc2044) (source only) |
+| AIH-07905 | Vectorization | Programming & Software | Programming & Software | [1984](https://doi.org/10.1007/978-3-322-87861-8_3) (source only) |
 | AIH-07915 | Vendoring | Programming & Software | Programming & Software | — |
 | AIH-07925 | Version Control (VCS) | Programming & Software | Programming & Software | — |
-| AIH-07935 | Versioning Policy | Programming & Software | Programming & Software | — |
-| AIH-07945 | Virtual Machine (VM) | Programming & Software | Programming & Software | — |
-| AIH-07955 | Work Stealing | Programming & Software | Programming & Software | — |
+| AIH-07935 | Versioning Policy | Programming & Software | Programming & Software | [2012](https://doi.org/10.1016/b978-0-12-415787-3.15005-2) (source only) |
+| AIH-07945 | Virtual Machine (VM) | Programming & Software | Programming & Software | [1979](https://doi.org/10.1016/b978-0-08-024448-8.50045-9) (source only) |
+| AIH-07955 | Work Stealing | Programming & Software | Programming & Software | [2001](https://doi.org/10.1109/sfcs.2001.959892) (source only) |
 | AIH-07965 | YAML | Programming & Software | Programming & Software | — |
 | AIH-07975 | Zero-Copy | Programming & Software | Programming & Software | — |
 | AIH-05109 | Reward | Reinforcement Learning | Reinforcement Learning | — |
@@ -252,54 +252,54 @@
 | AIH-06461 | Sim-to-Real Transfer | Robotics | Robotics & Autonomous Systems | [2020](https://doi.org/10.1109/icra40945.2020.9197512) (source only) |
 | AIH-06479 | Simulation | Robotics | Robotics & Autonomous Systems | [1963](https://doi.org/10.1177/003754976300100111) (source only) |
 | AIH-06497 | Simulation Environment for Robots | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06514 | Simulation-Based Validation | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06531 | Situated robotics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06548 | Social Robot | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06565 | Sociorobotics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06582 | Soft Gripper | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06598 | Speed and Separation Monitoring | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06614 | Steady-State Error | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06630 | Subsumption Architecture | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06646 | Suction Gripper | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06662 | Supervisory Autonomy | Robotics | Robotics & Autonomous Systems | — |
+| AIH-06514 | Simulation-Based Validation | Robotics | Robotics & Autonomous Systems | [2009](https://doi.org/10.1109/wsc.2009.5429556) (source only) |
+| AIH-06531 | Situated robotics | Robotics | Robotics & Autonomous Systems | [1994](https://doi.org/10.1098/rsta.1994.0111) (source only) |
+| AIH-06548 | Social Robot | Robotics | Robotics & Autonomous Systems | [2016](https://doi.org/10.1109/hri.2016.7451880) (source only) |
+| AIH-06565 | Sociorobotics | Robotics | Robotics & Autonomous Systems | [1994](https://openalex.org/W110985167) (source only) |
+| AIH-06582 | Soft Gripper | Robotics | Robotics & Autonomous Systems | [2019](https://doi.org/10.1089/soro.2018.0015) (source only) |
+| AIH-06598 | Speed and Separation Monitoring | Robotics | Robotics & Autonomous Systems | [2012](https://doi.org/10.1145/2393091.2393124) (source only) |
+| AIH-06614 | Steady-State Error | Robotics | Robotics & Autonomous Systems | [1970](https://doi.org/10.1109/tit.1970.1054474) (source only) |
+| AIH-06630 | Subsumption Architecture | Robotics | Robotics & Autonomous Systems | [1989](https://doi.org/10.1109/ijcnn.1989.118717) (source only) |
+| AIH-06646 | Suction Gripper | Robotics | Robotics & Autonomous Systems | [2008](https://doi.org/10.1016/j.precisioneng.2007.05.003) (source only) |
+| AIH-06662 | Supervisory Autonomy | Robotics | Robotics & Autonomous Systems | [2025](https://doi.org/10.1080/14719037.2025.2488940) (source only) |
 | AIH-06678 | Surgical Robot | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06694 | Swarm Robotics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06710 | Swept Volume | Robotics | Robotics & Autonomous Systems | — |
+| AIH-06694 | Swarm Robotics | Robotics | Robotics & Autonomous Systems | [2005](https://doi.org/10.1007/978-3-540-30552-1_1) (source only) |
+| AIH-06710 | Swept Volume | Robotics | Robotics & Autonomous Systems | [1986](https://doi.org/10.1109/mcg.1986.276586) (source only) |
 | AIH-06726 | System Identification for Robots | Robotics | Robotics & Autonomous Systems | — |
 | AIH-06742 | Tactile Sensing | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06758 | Takeover Time | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06774 | Task Allocation | Robotics | Robotics & Autonomous Systems | — |
+| AIH-06758 | Takeover Time | Robotics | Robotics & Autonomous Systems | [2002](https://doi.org/10.1108/aeat.2002.12774eaf.005) (source only) |
+| AIH-06774 | Task Allocation | Robotics | Robotics & Autonomous Systems | [1985](https://doi.org/10.2307/352084) (source only) |
 | AIH-06790 | Task Space | Robotics | Robotics & Autonomous Systems | — |
 | AIH-06806 | Taurob tracker | Robotics | Robotics & Autonomous Systems | — |
 | AIH-06822 | Teleoperation Interface | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06837 | Termite-inspired robots | Robotics | Robotics & Autonomous Systems | — |
+| AIH-06837 | Termite-inspired robots | Robotics | Robotics & Autonomous Systems | [2014](https://doi.org/10.1038/nature.2014.14713) (source only) |
 | AIH-06852 | Time Synchronization | Robotics | Robotics & Autonomous Systems | — |
 | AIH-06867 | Time-Optimal Trajectory | Robotics | Robotics & Autonomous Systems | — |
 | AIH-06882 | Topic | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06897 | Torque Control | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06912 | Traded Control | Robotics | Robotics & Autonomous Systems | — |
+| AIH-06897 | Torque Control | Robotics | Robotics & Autonomous Systems | [1995](https://doi.org/10.1049/ic:19951108) (source only) |
+| AIH-06912 | Traded Control | Robotics | Robotics & Autonomous Systems | [2020](https://doi.org/10.5220/0010183702550261) (source only) |
 | AIH-06927 | Traffic Management for Robots | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06942 | Trajectory Generation | Robotics | Robotics & Autonomous Systems | — |
+| AIH-06942 | Trajectory Generation | Robotics | Robotics & Autonomous Systems | [1983](https://doi.org/10.1007/978-1-4684-6846-5_9) (source only) |
 | AIH-06957 | Transform Tree | Robotics | Robotics & Autonomous Systems | — |
-| AIH-06972 | Uncanny Valley | Robotics | Robotics & Autonomous Systems | — |
+| AIH-06972 | Uncanny Valley | Robotics | Robotics & Autonomous Systems | [2007](https://doi.org/10.1109/roman.2007.4415111) (source only) |
 | AIH-06987 | Underactuated Hand | Robotics | Robotics & Autonomous Systems | — |
-| AIH-07002 | Unmanned aerial vehicle (UAV) | Robotics | Robotics & Autonomous Systems | — |
-| AIH-07017 | Unmanned ground vehicle (UGV) | Robotics | Robotics & Autonomous Systems | — |
-| AIH-07032 | Unscented Kalman Filter (UKF) | Robotics | Robotics & Autonomous Systems | — |
-| AIH-07047 | URDF | Robotics | Robotics & Autonomous Systems | — |
+| AIH-07002 | Unmanned aerial vehicle (UAV) | Robotics | Robotics & Autonomous Systems | [2003](https://doi.org/10.2514/6.2003-6612) (source only) |
+| AIH-07017 | Unmanned ground vehicle (UGV) | Robotics | Robotics & Autonomous Systems | [1996](https://doi.org/10.21236/ada308456) (source only) |
+| AIH-07032 | Unscented Kalman Filter (UKF) | Robotics | Robotics & Autonomous Systems | [2008](https://doi.org/10.1002/9780470611104.app11) (source only) |
+| AIH-07047 | URDF | Robotics | Robotics & Autonomous Systems | [2025](https://doi.org/10.52202/085713-3175) (source only) |
 | AIH-07062 | Vaimos | Robotics | Robotics & Autonomous Systems | — |
-| AIH-07077 | Velocity Control | Robotics | Robotics & Autonomous Systems | — |
-| AIH-07092 | VEX Robotics | Robotics | Robotics & Autonomous Systems | — |
+| AIH-07077 | Velocity Control | Robotics | Robotics & Autonomous Systems | [1953](https://doi.org/10.1515/9781400877218-009) (source only) |
+| AIH-07092 | VEX Robotics | Robotics | Robotics & Autonomous Systems | [2011](https://doi.org/10.1007/978-3-642-21975-7_2) (source only) |
 | AIH-07107 | Vision–language–action model (VLA) | Robotics | Robotics & Autonomous Systems | — |
-| AIH-07121 | Visual Servoing | Robotics | Robotics & Autonomous Systems | — |
-| AIH-07135 | Warehouse Automation | Robotics | Robotics & Autonomous Systems | — |
+| AIH-07121 | Visual Servoing | Robotics | Robotics & Autonomous Systems | [1989](https://doi.org/10.21236/ada218711) (source only) |
+| AIH-07135 | Warehouse Automation | Robotics | Robotics & Autonomous Systems | [1983](https://doi.org/10.1016/0011-684x(83)90032-1) (source only) |
 | AIH-07149 | Watchdog Timer | Robotics | Robotics & Autonomous Systems | — |
-| AIH-07163 | Waypoint Following | Robotics | Robotics & Autonomous Systems | — |
+| AIH-07163 | Waypoint Following | Robotics | Robotics & Autonomous Systems | [2011](https://doi.org/10.1109/cca.2011.6044507) (source only) |
 | AIH-07177 | Wheel Slip | Robotics | Robotics & Autonomous Systems | — |
 | AIH-07190 | Whole-Body Control (WBC) | Robotics | Robotics & Autonomous Systems | — |
 | AIH-07203 | Workplace robotics safety | Robotics | Robotics & Autonomous Systems | — |
-| AIH-07216 | Workspace | Robotics | Robotics & Autonomous Systems | — |
-| AIH-07229 | Zero Moment Point (ZMP) | Robotics | Robotics & Autonomous Systems | — |
+| AIH-07216 | Workspace | Robotics | Robotics & Autonomous Systems | [1991](https://doi.org/10.1016/b978-0-444-87441-2.50010-8) (source only) |
+| AIH-07229 | Zero Moment Point (ZMP) | Robotics | Robotics & Autonomous Systems | [1998](https://doi.org/10.1115/imece1998-0180) (source only) |
 | AIH-05128 | Radiomics | Science & Healthcare AI | Science & Healthcare AI | [2017](https://doi.org/10.53347/rid-56602) (source only) |
 | AIH-05160 | Reaction Prediction | Science & Healthcare AI | Science & Healthcare AI | [2020](https://doi.org/10.5373/jardcs/v12sp3/20201332) (source only) |
 | AIH-05191 | Readmission Prediction | Science & Healthcare AI | Science & Healthcare AI | — |
@@ -503,9 +503,9 @@
 | AIH-06485 | Vespa | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-06503 | Weaviate | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-06520 | WhyLogs | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-06537 | XGBoost Library | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-06554 | XLA | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-06571 | Yellowbrick | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-06537 | XGBoost Library | Tools & Frameworks | Tools & Frameworks | [2025](https://doi.org/10.3992/jgb.20.2.327) ★ (estimated) |
+| AIH-06554 | XLA | Tools & Frameworks | Tools & Frameworks | [2023](https://doi.org/10.48550/arxiv.2308.14364) (source only) |
+| AIH-06571 | Yellowbrick | Tools & Frameworks | Tools & Frameworks | [1991](https://doi.org/10.1111/j.1542-734x.1991.00113.x) (source only) |
 
 — means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
 

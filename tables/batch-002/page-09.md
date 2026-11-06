@@ -40,13 +40,13 @@
 | AIH-09883 | Sieve of Eratosthenes | Mathematics | Mathematics & Statistics | — |
 | AIH-09885 | Sigma-Algebra | Mathematics | Mathematics & Statistics | — |
 | AIH-09887 | Sigmoid Saturation | Mathematics | Mathematics & Statistics | — |
-| AIH-06512 | Sign Gradient Descent | Mathematics | Optimization | — |
+| AIH-06512 | Sign Gradient Descent | Mathematics | Optimization | [2019](https://doi.org/10.1016/j.ins.2019.04.012) (source only) |
 | AIH-09889 | Significance Level | Mathematics | Mathematics & Statistics | — |
 | AIH-09891 | Significant Figures | Mathematics | Mathematics & Statistics | — |
 | AIH-09893 | SimHash | Mathematics | Mathematics & Statistics | — |
 | AIH-09895 | Similar Matrices | Mathematics | Mathematics & Statistics | — |
 | AIH-09897 | Simple Random Sample | Mathematics | Mathematics & Statistics | — |
-| AIH-06529 | Simplex Method | Mathematics | Optimization | — |
+| AIH-06529 | Simplex Method | Mathematics | Optimization | [1954](https://doi.org/10.7249/rm1433) (source only) |
 | AIH-09899 | Simpson's Reversal | Mathematics | Mathematics & Statistics | — |
 | AIH-09901 | Simulated Annealing (SA) | Mathematics | Mathematics & Statistics | — |
 | AIH-06367 | Simulated Tempering | Mathematics | Probabilistic Methods | [1992](https://doi.org/10.1209/0295-5075/19/6/002) (source only) |
@@ -58,8 +58,8 @@
 | AIH-09913 | Skew-Symmetric Matrix | Mathematics | Mathematics & Statistics | — |
 | AIH-06386 | Skewness | Mathematics | Probabilistic Methods | — |
 | AIH-09915 | Skip List | Mathematics | Mathematics & Statistics | — |
-| AIH-06546 | Slack Variable | Mathematics | Optimization | — |
-| AIH-06563 | Slater's Condition | Mathematics | Optimization | — |
+| AIH-06546 | Slack Variable | Mathematics | Optimization | [1977](https://doi.org/10.1287/mnsc.23.8.859) (source only) |
+| AIH-06563 | Slater's Condition | Mathematics | Optimization | [1978](https://doi.org/10.1080/02331937808842484) (source only) |
 | AIH-09917 | Small-World Network | Mathematics | Mathematics & Statistics | — |
 | AIH-09919 | Smooth Function | Mathematics | Mathematics & Statistics | — |
 | AIH-09921 | Smoothing Spline | Mathematics | Mathematics & Statistics | — |
@@ -68,10 +68,10 @@
 | AIH-09927 | Sobol Sensitivity Index | Mathematics | Mathematics & Statistics | — |
 | AIH-09929 | Sobol Sequence | Mathematics | Mathematics & Statistics | — |
 | AIH-09931 | Soft Constraint Penalty | Mathematics | Mathematics & Statistics | — |
-| AIH-06580 | Soft Thresholding | Mathematics | Optimization | — |
+| AIH-06580 | Soft Thresholding | Mathematics | Optimization | [1995](https://doi.org/10.1109/18.382009) (source only) |
 | AIH-09933 | Softplus | Mathematics | Mathematics & Statistics | — |
-| AIH-06596 | Solution Pool | Mathematics | Optimization | — |
-| AIH-06612 | Sophia Optimizer | Mathematics | Optimization | — |
+| AIH-06596 | Solution Pool | Mathematics | Optimization | [2011](https://doi.org/10.1109/itsc.2011.6083127) (source only) |
+| AIH-06612 | Sophia Optimizer | Mathematics | Optimization | [2025](https://doi.org/10.1109/apeie66761.2025.11289350) (source only) |
 | AIH-09935 | Space Complexity | Mathematics | Mathematics & Statistics | — |
 | AIH-09937 | Space-Filling Curve | Mathematics | Mathematics & Statistics | — |
 | AIH-09939 | Span | Mathematics | Mathematics & Statistics | — |
@@ -98,9 +98,9 @@
 | AIH-06442 | Stationary Distribution | Mathematics | Probabilistic Methods | [1990](https://doi.org/10.21236/ada234421) (source only) |
 | AIH-09975 | Stationary Point | Mathematics | Mathematics & Statistics | — |
 | AIH-09977 | Statistical Power | Mathematics | Mathematics & Statistics | — |
-| AIH-06644 | Steepest Descent | Mathematics | Optimization | — |
+| AIH-06644 | Steepest Descent | Mathematics | Optimization | [1964](https://doi.org/10.2514/6.1964-662) (source only) |
 | AIH-06660 | Step Decay | Mathematics | Optimization | — |
-| AIH-06676 | Step Size | Mathematics | Optimization | — |
+| AIH-06676 | Step Size | Mathematics | Optimization | [1977](https://doi.org/10.2172/5294527) (source only) |
 | AIH-06460 | Stick-Breaking Process | Mathematics | Probabilistic Methods | — |
 | AIH-09979 | Stiefel Manifold | Mathematics | Mathematics & Statistics | — |
 | AIH-09981 | Stiff Equation | Mathematics | Mathematics & Statistics | — |
@@ -108,35 +108,35 @@
 | AIH-06478 | Stochastic Differential Equation (SDE) | Mathematics | Probabilistic Methods | — |
 | AIH-06496 | Stochastic Gradient Langevin Dynamics (SGLD) | Mathematics | Probabilistic Methods | [2025](https://doi.org/10.1109/icoiics67115.2025.11390664) (source only) |
 | AIH-09985 | Stochastic Matrix | Mathematics | Mathematics & Statistics | — |
-| AIH-06692 | Stochastic Optimization | Mathematics | Optimization | — |
+| AIH-06692 | Stochastic Optimization | Mathematics | Optimization | [1985](https://doi.org/10.1515/9783112780312-003) (source only) |
 | AIH-06708 | Stochastic Programming | Mathematics | Optimization | — |
-| AIH-06513 | Stochastic Variational Inference (SVI) | Mathematics | Probabilistic Methods | — |
+| AIH-06513 | Stochastic Variational Inference (SVI) | Mathematics | Probabilistic Methods | [2026](https://doi.org/10.1016/j.iintel.2026.100251) ★ (estimated) |
 | AIH-09987 | Stokes' Theorem | Mathematics | Mathematics & Statistics | — |
 | AIH-06724 | Stopping Tolerance | Mathematics | Optimization | — |
 | AIH-09989 | Straight-Through Estimator | Mathematics | Mathematics & Statistics | — |
 | AIH-09991 | Strassen Algorithm | Mathematics | Mathematics & Statistics | — |
 | AIH-09993 | Stratification in Sampling | Mathematics | Mathematics & Statistics | — |
 | AIH-09995 | Stratified Randomization | Mathematics | Mathematics & Statistics | — |
-| AIH-06530 | Stratified Sampling | Mathematics | Probabilistic Methods | — |
+| AIH-06530 | Stratified Sampling | Mathematics | Probabilistic Methods | [1934](https://doi.org/10.2307/2342192) (source only) |
 | AIH-09997 | Streaming Algorithm | Mathematics | Mathematics & Statistics | — |
 | AIH-09999 | Strict Convexity | Mathematics | Mathematics & Statistics | — |
 | AIH-10001 | Strided Array | Mathematics | Mathematics & Statistics | — |
 | AIH-10003 | Strong Convexity | Mathematics | Mathematics & Statistics | — |
-| AIH-06740 | Strong Duality | Mathematics | Optimization | — |
+| AIH-06740 | Strong Duality | Mathematics | Optimization | [1974](https://doi.org/10.1016/0370-2693(74)90525-5) (source only) |
 | AIH-10005 | Strongly Connected Component | Mathematics | Mathematics & Statistics | — |
 | AIH-10007 | Structured Sparsity | Mathematics | Mathematics & Statistics | — |
-| AIH-06547 | Student's t Distribution | Mathematics | Probabilistic Methods | — |
+| AIH-06547 | Student's t Distribution | Mathematics | Probabilistic Methods | [1954](https://doi.org/10.1093/biomet/41.1-2.153) (source only) |
 | AIH-10009 | Subdifferential | Mathematics | Mathematics & Statistics | — |
 | AIH-10011 | Subgradient | Mathematics | Mathematics & Statistics | — |
 | AIH-10013 | Subgraph Isomorphism | Mathematics | Mathematics & Statistics | — |
 | AIH-10015 | Sublevel Set | Mathematics | Mathematics & Statistics | — |
-| AIH-06756 | Sublinear Regret | Mathematics | Optimization | — |
+| AIH-06756 | Sublinear Regret | Mathematics | Optimization | [2019](https://doi.org/10.1109/cdc40024.2019.9030193) (source only) |
 | AIH-10017 | Subsampling | Mathematics | Mathematics & Statistics | — |
 | AIH-10019 | Subset | Mathematics | Mathematics & Statistics | — |
 | AIH-10021 | Subspace | Mathematics | Mathematics & Statistics | — |
 | AIH-10023 | Subspace Iteration | Mathematics | Mathematics & Statistics | — |
 | AIH-06772 | Successive Halving | Mathematics | Optimization | — |
-| AIH-06564 | Sufficient Statistic | Mathematics | Probabilistic Methods | — |
+| AIH-06564 | Sufficient Statistic | Mathematics | Probabilistic Methods | [1936](https://doi.org/10.1090/s0002-9947-1936-1501854-3) (source only) |
 | AIH-10025 | Suffix Array | Mathematics | Mathematics & Statistics | — |
 | AIH-10027 | Supporting Hyperplane | Mathematics | Mathematics & Statistics | — |
 | AIH-10029 | Supremum | Mathematics | Mathematics & Statistics | — |
@@ -148,7 +148,7 @@
 | AIH-10039 | Survival Analysis | Mathematics | Mathematics & Statistics | — |
 | AIH-10041 | Survivorship Bias | Mathematics | Mathematics & Statistics | — |
 | AIH-10043 | SUTVA | Mathematics | Mathematics & Statistics | — |
-| AIH-06804 | SVRG | Mathematics | Optimization | — |
+| AIH-06804 | SVRG | Mathematics | Optimization | [2022](https://doi.org/10.1109/tkde.2021.3070539) (source only) |
 | AIH-10045 | Switchback Experiment | Mathematics | Mathematics & Statistics | — |
 | AIH-10047 | Sylvester's Law of Inertia | Mathematics | Mathematics & Statistics | — |
 | AIH-10049 | Symmetric Matrix | Mathematics | Mathematics & Statistics | — |
@@ -162,11 +162,11 @@
 | AIH-10063 | Systematic Sampling | Mathematics | Mathematics & Statistics | — |
 | AIH-10065 | T-Test | Mathematics | Mathematics & Statistics | — |
 | AIH-10067 | Tabu Search | Mathematics | Mathematics & Statistics | — |
-| AIH-06581 | Tail Dependence | Mathematics | Probabilistic Methods | — |
+| AIH-06581 | Tail Dependence | Mathematics | Probabilistic Methods | [2001](https://doi.org/10.2139/ssrn.281210) (source only) |
 | AIH-10069 | Tangent Space | Mathematics | Mathematics & Statistics | — |
 | AIH-10071 | Taylor Expansion | Mathematics | Mathematics & Statistics | — |
 | AIH-10073 | Taylor Series | Mathematics | Mathematics & Statistics | — |
-| AIH-06597 | Tempered Distribution | Mathematics | Probabilistic Methods | — |
+| AIH-06597 | Tempered Distribution | Mathematics | Probabilistic Methods | [2015](https://doi.org/10.1134/s0037446615050122) (source only) |
 | AIH-10075 | Tensor Contraction | Mathematics | Mathematics & Statistics | — |
 | AIH-10077 | Tensor Network | Mathematics | Mathematics & Statistics | — |
 | AIH-10079 | Tensor Product Space | Mathematics | Mathematics & Statistics | — |
@@ -181,36 +181,36 @@
 | AIH-10093 | Total Derivative | Mathematics | Mathematics & Statistics | — |
 | AIH-10095 | Total Least Squares (TLS) | Mathematics | Mathematics & Statistics | — |
 | AIH-10097 | Total Order | Mathematics | Mathematics & Statistics | — |
-| AIH-06613 | Tower Property | Mathematics | Probabilistic Methods | — |
+| AIH-06613 | Tower Property | Mathematics | Probabilistic Methods | [1992](https://openalex.org/W759643011) (source only) |
 | AIH-10099 | Trace | Mathematics | Mathematics & Statistics | — |
-| AIH-06629 | Transition Kernel | Mathematics | Probabilistic Methods | — |
-| AIH-06645 | Treewidth | Mathematics | Probabilistic Methods | — |
+| AIH-06629 | Transition Kernel | Mathematics | Probabilistic Methods | [2014](https://doi.org/10.1051/ps/2013054) (source only) |
+| AIH-06645 | Treewidth | Mathematics | Probabilistic Methods | [1994](https://doi.org/10.1007/bfb0045375) (source only) |
 | AIH-06866 | Trust Region Method | Mathematics | Optimization | — |
-| AIH-06881 | Trust Region Policy Optimization (TRPO) | Mathematics | Optimization | — |
+| AIH-06881 | Trust Region Policy Optimization (TRPO) | Mathematics | Optimization | [2023](https://doi.org/10.21086/ksles.2023.12.30.6.642) (source only) |
 | AIH-06896 | Two-Stage Stochastic Program | Mathematics | Optimization | — |
 | AIH-06911 | UCB1 | Mathematics | Optimization | — |
-| AIH-06661 | Unbiased Estimator | Mathematics | Probabilistic Methods | — |
-| AIH-06926 | Unbounded Problem | Mathematics | Optimization | — |
-| AIH-06677 | Uniform Distribution | Mathematics | Probabilistic Methods | — |
+| AIH-06661 | Unbiased Estimator | Mathematics | Probabilistic Methods | [1973](https://doi.org/10.2307/2526046) (source only) |
+| AIH-06926 | Unbounded Problem | Mathematics | Optimization | [1990](https://doi.org/10.2307/2008793) (source only) |
+| AIH-06677 | Uniform Distribution | Mathematics | Probabilistic Methods | [1996](https://doi.org/10.1017/cbo9780511566011.010) (source only) |
 | AIH-06693 | Union Bound | Mathematics | Probabilistic Methods | — |
 | AIH-06941 | Unrolled Optimization | Mathematics | Optimization | — |
-| AIH-06956 | Upper Confidence Bound (UCB) | Mathematics | Optimization | — |
-| AIH-06971 | Value of the Stochastic Solution | Mathematics | Optimization | — |
+| AIH-06956 | Upper Confidence Bound (UCB) | Mathematics | Optimization | [2015](https://doi.org/10.1007/978-3-319-15934-8_28) (source only) |
+| AIH-06971 | Value of the Stochastic Solution | Mathematics | Optimization | [1982](https://doi.org/10.1007/bf01585113) (source only) |
 | AIH-06709 | Variable Elimination | Mathematics | Probabilistic Methods | — |
-| AIH-06986 | Variable Neighbourhood Search (VNS) | Mathematics | Optimization | — |
-| AIH-06725 | Variance Reduction | Mathematics | Probabilistic Methods | — |
-| AIH-07001 | Variance-Reduced Method | Mathematics | Optimization | — |
+| AIH-06986 | Variable Neighbourhood Search (VNS) | Mathematics | Optimization | [2024](https://doi.org/10.2166/wpt.2024.295) (source only) |
+| AIH-06725 | Variance Reduction | Mathematics | Probabilistic Methods | [1974](https://doi.org/10.2307/2334296) (source only) |
+| AIH-07001 | Variance-Reduced Method | Mathematics | Optimization | [2019](https://doi.org/10.1109/icassp.2019.8682527) (source only) |
 | AIH-06741 | Variational Inference (VI) | Mathematics | Probabilistic Methods | — |
-| AIH-06757 | Von Mises Distribution | Mathematics | Probabilistic Methods | — |
-| AIH-07016 | Warm Start | Mathematics | Optimization | — |
+| AIH-06757 | Von Mises Distribution | Mathematics | Probabilistic Methods | [1969](https://doi.org/10.2307/2334700) (source only) |
+| AIH-07016 | Warm Start | Mathematics | Optimization | [1978](https://doi.org/10.1145/359619.359634) (source only) |
 | AIH-07031 | Warm-Started Solver | Mathematics | Optimization | — |
 | AIH-07046 | Weak Duality | Mathematics | Optimization | — |
-| AIH-06773 | Weibull Distribution | Mathematics | Probabilistic Methods | — |
-| AIH-07061 | Weighted Sum Method | Mathematics | Optimization | — |
-| AIH-07076 | Whitened Gradient | Mathematics | Optimization | — |
-| AIH-06789 | Wiener Process | Mathematics | Probabilistic Methods | — |
-| AIH-06805 | Wishart Distribution | Mathematics | Probabilistic Methods | — |
-| AIH-07091 | Wolfe Conditions | Mathematics | Optimization | — |
+| AIH-06773 | Weibull Distribution | Mathematics | Probabilistic Methods | [1965](https://doi.org/10.21236/ada954615) (source only) |
+| AIH-07061 | Weighted Sum Method | Mathematics | Optimization | [2004](https://doi.org/10.2514/6.2004-1680) (source only) |
+| AIH-07076 | Whitened Gradient | Mathematics | Optimization | [2008](https://doi.org/10.1016/j.neunet.2007.12.016) (source only) |
+| AIH-06789 | Wiener Process | Mathematics | Probabilistic Methods | [1965](https://doi.org/10.1007/978-3-662-00031-1_9) (source only) |
+| AIH-06805 | Wishart Distribution | Mathematics | Probabilistic Methods | [1949](https://doi.org/10.2307/2332529) (source only) |
+| AIH-07091 | Wolfe Conditions | Mathematics | Optimization | [2013](https://doi.org/10.33899/edusj.2013.89664) (source only) |
 | AIH-07106 | Zero Redundancy Optimizer | Mathematics | Optimization | — |
 | AIH-06821 | Zipf's Law | Mathematics | Probabilistic Methods | — |
 | AIH-05105 | Grounded Response Generation | NLP and LLMs | Natural Language Processing | [2019](https://doi.org/10.18653/v1/w19-5917) (source only) |
@@ -267,190 +267,190 @@
 | AIH-06453 | Mixed-Initiative Dialogue | NLP and LLMs | Natural Language Processing | — |
 | AIH-06471 | Morpheme | NLP and LLMs | Natural Language Processing | — |
 | AIH-06489 | Morphologically Rich Language | NLP and LLMs | Natural Language Processing | — |
-| AIH-06507 | Morphology | NLP and LLMs | Natural Language Processing | — |
-| AIH-06524 | Multi-Document Summarization | NLP and LLMs | Natural Language Processing | — |
-| AIH-06541 | Multi-Hop Question Answering | NLP and LLMs | Natural Language Processing | — |
-| AIH-06558 | Multi-Page Document Understanding | NLP and LLMs | Natural Language Processing | — |
-| AIH-06575 | Multilingual Model | NLP and LLMs | Natural Language Processing | — |
-| AIH-06591 | Multilingual Transfer Gap | NLP and LLMs | Natural Language Processing | — |
-| AIH-06607 | N-Gram | NLP and LLMs | Natural Language Processing | — |
-| AIH-06623 | Named Entity Recognition (NER) | NLP and LLMs | Natural Language Processing | — |
-| AIH-06639 | Named Entity Substitution | NLP and LLMs | Natural Language Processing | — |
+| AIH-06507 | Morphology | NLP and LLMs | Natural Language Processing | [1935](https://doi.org/10.1093/aesa/28.3.408) (source only) |
+| AIH-06524 | Multi-Document Summarization | NLP and LLMs | Natural Language Processing | [2000](https://doi.org/10.3115/992730.992775) (source only) |
+| AIH-06541 | Multi-Hop Question Answering | NLP and LLMs | Natural Language Processing | [2018](https://doi.org/10.18653/v1/d18-1454) (source only) |
+| AIH-06558 | Multi-Page Document Understanding | NLP and LLMs | Natural Language Processing | [2025](https://doi.org/10.18653/v1/2025.acl-long.291) (source only) |
+| AIH-06575 | Multilingual Model | NLP and LLMs | Natural Language Processing | [1994](https://doi.org/10.1515/iral.1994.32.4.255) (source only) |
+| AIH-06591 | Multilingual Transfer Gap | NLP and LLMs | Natural Language Processing | [2022](https://doi.org/10.48550/arxiv.2210.13029) ★ (estimated) |
+| AIH-06607 | N-Gram | NLP and LLMs | Natural Language Processing | [1979](https://doi.org/10.1109/tpami.1979.4766902) (source only) |
+| AIH-06623 | Named Entity Recognition (NER) | NLP and LLMs | Natural Language Processing | [2015](https://doi.org/10.1186/s40655-015-0007-3) (source only) |
+| AIH-06639 | Named Entity Substitution | NLP and LLMs | Natural Language Processing | [2008](https://doi.org/10.3115/1599081.1599115) (source only) |
 | AIH-06655 | Natural Language Generation (NLG) | NLP and LLMs | Natural Language Processing | — |
-| AIH-06671 | Natural Language Inference (NLI) | NLP and LLMs | Natural Language Processing | — |
-| AIH-06687 | Natural Language Processing (NLP) | NLP and LLMs | Natural Language Processing | — |
+| AIH-06671 | Natural Language Inference (NLI) | NLP and LLMs | Natural Language Processing | [2021](https://doi.org/10.1088/1757-899x/1084/1/012018) (source only) |
+| AIH-06687 | Natural Language Processing (NLP) | NLP and LLMs | Natural Language Processing | [2011](https://doi.org/10.4016/32708.01) (source only) |
 | AIH-06703 | Natural Language Understanding (NLU) | NLP and LLMs | Natural Language Processing | — |
-| AIH-06719 | Neologism | NLP and LLMs | Natural Language Processing | — |
-| AIH-06735 | Nested Entity Recognition | NLP and LLMs | Natural Language Processing | — |
+| AIH-06719 | Neologism | NLP and LLMs | Natural Language Processing | [1869](https://doi.org/10.1093/nq/s4-iv.98.408a) (source only) |
+| AIH-06735 | Nested Entity Recognition | NLP and LLMs | Natural Language Processing | [2023](https://doi.org/10.3390/electronics12112483) (source only) |
 | AIH-06751 | Nested Extraction | NLP and LLMs | Natural Language Processing | — |
 | AIH-06767 | Next Sentence Prediction (NSP) | NLP and LLMs | Natural Language Processing | — |
 | AIH-06783 | Normalization Form | NLP and LLMs | Natural Language Processing | — |
 | AIH-06799 | Normalization of Extracted Values | NLP and LLMs | Natural Language Processing | — |
-| AIH-06815 | Normalization of Text | NLP and LLMs | Natural Language Processing | — |
+| AIH-06815 | Normalization of Text | NLP and LLMs | Natural Language Processing | [2010](https://doi.org/10.1109/icassp.2010.5495127) (source only) |
 | AIH-06831 | Open Information Extraction (OpenIE) | NLP and LLMs | Natural Language Processing | — |
-| AIH-06846 | Open-Book Question Answering | NLP and LLMs | Natural Language Processing | — |
+| AIH-06846 | Open-Book Question Answering | NLP and LLMs | Natural Language Processing | [2018](https://doi.org/10.18653/v1/d18-1260) (source only) |
 | AIH-06861 | Open-Domain Dialogue | NLP and LLMs | Natural Language Processing | — |
-| AIH-06876 | Opinion Summarization | NLP and LLMs | Natural Language Processing | — |
-| AIH-06891 | Out-of-Vocabulary Word | NLP and LLMs | Natural Language Processing | — |
-| AIH-06906 | Parallel Corpus | NLP and LLMs | Natural Language Processing | — |
+| AIH-06876 | Opinion Summarization | NLP and LLMs | Natural Language Processing | [2006](https://doi.org/10.3115/1654641.1654643) (source only) |
+| AIH-06891 | Out-of-Vocabulary Word | NLP and LLMs | Natural Language Processing | [2001](https://doi.org/10.21437/eurospeech.2001-14) (source only) |
+| AIH-06906 | Parallel Corpus | NLP and LLMs | Natural Language Processing | [2001](https://doi.org/10.1075/ijcl.6.3.10tad) (source only) |
 | AIH-06921 | Paraphrase Attack on Watermarks | NLP and LLMs | Natural Language Processing | — |
 | AIH-06936 | Paraphrase Detection | NLP and LLMs | Natural Language Processing | — |
-| AIH-06951 | Paraphrase Generation | NLP and LLMs | Natural Language Processing | — |
+| AIH-06951 | Paraphrase Generation | NLP and LLMs | Natural Language Processing | [2010](https://doi.org/10.21437/interspeech.2010-84) (source only) |
 | AIH-06966 | Parent Document Retrieval | NLP and LLMs | Natural Language Processing | — |
-| AIH-06981 | Parse Tree | NLP and LLMs | Natural Language Processing | — |
-| AIH-06996 | Part-of-Speech Tagging (POS) | NLP and LLMs | Natural Language Processing | — |
+| AIH-06981 | Parse Tree | NLP and LLMs | Natural Language Processing | [1989](https://doi.org/10.1145/76380.76387) (source only) |
+| AIH-06996 | Part-of-Speech Tagging (POS) | NLP and LLMs | Natural Language Processing | [2020](https://doi.org/10.1007/s10772-020-09716-9) (source only) |
 | AIH-07011 | Persona | NLP and LLMs | Natural Language Processing | — |
-| AIH-07026 | Persona Consistency | NLP and LLMs | Natural Language Processing | — |
-| AIH-07041 | Phoneme | NLP and LLMs | Natural Language Processing | — |
+| AIH-07026 | Persona Consistency | NLP and LLMs | Natural Language Processing | [2020](https://doi.org/10.18653/v1/2020.emnlp-main.65) (source only) |
+| AIH-07041 | Phoneme | NLP and LLMs | Natural Language Processing | [1991](https://doi.org/10.1109/icassp.1991.150284) (source only) |
 | AIH-07056 | Pivot Translation | NLP and LLMs | Natural Language Processing | — |
-| AIH-07071 | Plain Language | NLP and LLMs | Natural Language Processing | — |
+| AIH-07071 | Plain Language | NLP and LLMs | Natural Language Processing | [1991](https://doi.org/10.14217/9781848594753-4-en) (source only) |
 | AIH-07086 | Pointer Network | NLP and LLMs | Natural Language Processing | — |
-| AIH-07101 | Pooling Strategy | NLP and LLMs | Natural Language Processing | — |
+| AIH-07101 | Pooling Strategy | NLP and LLMs | Natural Language Processing | [1991](https://doi.org/10.1093/nar/19.22.6241) (source only) |
 | AIH-07116 | Post-Editing | NLP and LLMs | Natural Language Processing | — |
 | AIH-07130 | Post-Editing Effort | NLP and LLMs | Natural Language Processing | — |
-| AIH-07144 | Pragmatics | NLP and LLMs | Natural Language Processing | — |
-| AIH-07158 | Predicate-Argument Structure | NLP and LLMs | Natural Language Processing | — |
-| AIH-07172 | Presupposition | NLP and LLMs | Natural Language Processing | — |
-| AIH-07185 | Prompt Engineering | NLP and LLMs | Natural Language Processing | — |
+| AIH-07144 | Pragmatics | NLP and LLMs | Natural Language Processing | [2020](https://doi.org/10.1075/prag.19016.kad) (source only) |
+| AIH-07158 | Predicate-Argument Structure | NLP and LLMs | Natural Language Processing | [1987](https://doi.org/10.3765/bls.v13i0.1825) (source only) |
+| AIH-07172 | Presupposition | NLP and LLMs | Natural Language Processing | [1974](https://doi.org/10.1515/9783110876291) (source only) |
+| AIH-07185 | Prompt Engineering | NLP and LLMs | Natural Language Processing | [2023](https://doi.org/10.33140/ijcmer.02.07.01) (source only) |
 | AIH-07198 | Pronoun Ambiguity in Translation | NLP and LLMs | Natural Language Processing | — |
 | AIH-07211 | Pronoun Resolution | NLP and LLMs | Natural Language Processing | — |
 | AIH-07224 | PropBank | NLP and LLMs | Natural Language Processing | — |
 | AIH-07237 | Quality Estimation (QE) | NLP and LLMs | Natural Language Processing | — |
-| AIH-07249 | Query Autocomplete | NLP and LLMs | Natural Language Processing | — |
-| AIH-07261 | Query Decomposition | NLP and LLMs | Natural Language Processing | — |
+| AIH-07249 | Query Autocomplete | NLP and LLMs | Natural Language Processing | [2024](https://doi.org/10.18653/v1/2024.emnlp-industry.78) (source only) |
+| AIH-07261 | Query Decomposition | NLP and LLMs | Natural Language Processing | [1987](https://doi.org/10.1109/icde.1987.7272413) (source only) |
 | AIH-07273 | Query Expansion | NLP and LLMs | Natural Language Processing | — |
 | AIH-07285 | Query Focus | NLP and LLMs | Natural Language Processing | — |
-| AIH-07297 | Query Rewriting | NLP and LLMs | Natural Language Processing | — |
-| AIH-07309 | Query Understanding | NLP and LLMs | Natural Language Processing | — |
-| AIH-07321 | Query-Focused Summarization | NLP and LLMs | Natural Language Processing | — |
-| AIH-07333 | Question Answering (QA) | NLP and LLMs | Natural Language Processing | — |
+| AIH-07297 | Query Rewriting | NLP and LLMs | Natural Language Processing | [1998](https://doi.org/10.1007/978-1-4757-6132-0_4) (source only) |
+| AIH-07309 | Query Understanding | NLP and LLMs | Natural Language Processing | [2010](https://doi.org/10.1109/icdim.2010.5664250) (source only) |
+| AIH-07321 | Query-Focused Summarization | NLP and LLMs | Natural Language Processing | [2006](https://doi.org/10.3115/1220175.1220214) (source only) |
+| AIH-07333 | Question Answering (QA) | NLP and LLMs | Natural Language Processing | [2012](https://doi.org/10.1016/j.proeng.2012.01.979) (source only) |
 | AIH-07345 | Re-Identification Risk in Text | NLP and LLMs | Natural Language Processing | — |
-| AIH-07357 | Readability Adaptation | NLP and LLMs | Natural Language Processing | — |
+| AIH-07357 | Readability Adaptation | NLP and LLMs | Natural Language Processing | [2025](https://doi.org/10.18653/v1/2025.bionlp-share.32) (source only) |
 | AIH-07369 | Readability Score | NLP and LLMs | Natural Language Processing | — |
 | AIH-07381 | Reading Comprehension | NLP and LLMs | Natural Language Processing | — |
-| AIH-07393 | Reading Order Detection | NLP and LLMs | Natural Language Processing | — |
+| AIH-07393 | Reading Order Detection | NLP and LLMs | Natural Language Processing | [2007](https://doi.org/10.1109/icdar.2007.4377050) (source only) |
 | AIH-07404 | Reciprocal Rank Fusion (RRF) | NLP and LLMs | Natural Language Processing | — |
-| AIH-07415 | Redundancy Removal | NLP and LLMs | Natural Language Processing | — |
+| AIH-07415 | Redundancy Removal | NLP and LLMs | Natural Language Processing | [1967](https://doi.org/10.1109/proc.1967.5482) (source only) |
 | AIH-07426 | Reference-Free Evaluation | NLP and LLMs | Natural Language Processing | — |
 | AIH-07437 | Refine Pattern | NLP and LLMs | Natural Language Processing | — |
-| AIH-07448 | Reinforcement Learning from AI Feedback (RLAIF) | NLP and LLMs | Natural Language Processing | — |
-| AIH-07459 | Reinforcement Learning from Human Feedback (RLHF) | NLP and LLMs | Natural Language Processing | — |
+| AIH-07448 | Reinforcement Learning from AI Feedback (RLAIF) | NLP and LLMs | Natural Language Processing | [2024](https://doi.org/10.1109/naecon61878.2024.10670346) (source only) |
+| AIH-07459 | Reinforcement Learning from Human Feedback (RLHF) | NLP and LLMs | Natural Language Processing | [2024](https://doi.org/10.1515/9783111425078-007) (source only) |
 | AIH-07470 | Relation Extraction | NLP and LLMs | Natural Language Processing | — |
-| AIH-07481 | Repetition Problem | NLP and LLMs | Natural Language Processing | — |
+| AIH-07481 | Repetition Problem | NLP and LLMs | Natural Language Processing | [2022](https://doi.org/10.1109/bigcomp54360.2022.00090) (source only) |
 | AIH-07492 | Replaced Token Detection (RTD) | NLP and LLMs | Natural Language Processing | — |
-| AIH-07503 | Retrieval Corpus | NLP and LLMs | Natural Language Processing | — |
-| AIH-07514 | Rhetorical Role Labelling | NLP and LLMs | Natural Language Processing | — |
-| AIH-07525 | Rhetorical Structure Theory (RST) | NLP and LLMs | Natural Language Processing | — |
-| AIH-07536 | Right-to-Left Text | NLP and LLMs | Natural Language Processing | — |
-| AIH-07547 | Romanization | NLP and LLMs | Natural Language Processing | — |
+| AIH-07503 | Retrieval Corpus | NLP and LLMs | Natural Language Processing | [2012](https://doi.org/10.5281/zenodo.3256068) (source only) |
+| AIH-07514 | Rhetorical Role Labelling | NLP and LLMs | Natural Language Processing | [2020](https://openalex.org/W3147568765) (source only) |
+| AIH-07525 | Rhetorical Structure Theory (RST) | NLP and LLMs | Natural Language Processing | [2006](https://doi.org/10.1016/j.csi.2006.06.006) (source only) |
+| AIH-07536 | Right-to-Left Text | NLP and LLMs | Natural Language Processing | [1978](https://doi.org/10.1007/bf00923412) ★ (estimated) |
+| AIH-07547 | Romanization | NLP and LLMs | Natural Language Processing | [1907](https://doi.org/10.2307/198398) (source only) |
 | AIH-07558 | ROUGE | NLP and LLMs | Natural Language Processing | — |
 | AIH-07569 | Salience | NLP and LLMs | Natural Language Processing | — |
-| AIH-07580 | Schema-Guided Extraction | NLP and LLMs | Natural Language Processing | — |
-| AIH-07591 | Script Detection | NLP and LLMs | Natural Language Processing | — |
-| AIH-07602 | Script Transfer | NLP and LLMs | Natural Language Processing | — |
-| AIH-07613 | Semantic Chunking | NLP and LLMs | Natural Language Processing | — |
-| AIH-07624 | Semantic Drift | NLP and LLMs | Natural Language Processing | — |
-| AIH-07635 | Semantic Role Labeling (SRL) | NLP and LLMs | Natural Language Processing | — |
+| AIH-07580 | Schema-Guided Extraction | NLP and LLMs | Natural Language Processing | [2026](https://doi.org/10.18653/v1/2026.eacl-industry.17) (source only) |
+| AIH-07591 | Script Detection | NLP and LLMs | Natural Language Processing | [2009](https://openalex.org/W2341709915) (source only) |
+| AIH-07602 | Script Transfer | NLP and LLMs | Natural Language Processing | [2004](https://doi.org/10.1016/s0010-0277(04)00050-2) (source only) |
+| AIH-07613 | Semantic Chunking | NLP and LLMs | Natural Language Processing | [1986](https://openalex.org/W640713197) (source only) |
+| AIH-07624 | Semantic Drift | NLP and LLMs | Natural Language Processing | [1983](https://doi.org/10.1075/aral.6.1.04but) (source only) |
+| AIH-07635 | Semantic Role Labeling (SRL) | NLP and LLMs | Natural Language Processing | [2024](https://doi.org/10.69722/1694-8211-2024-59-278-284) (source only) |
 | AIH-07646 | Semantic Search | NLP and LLMs | Natural Language Processing | — |
 | AIH-07657 | Semantic Textual Similarity (STS) | NLP and LLMs | Natural Language Processing | — |
-| AIH-07668 | Sentence Alignment | NLP and LLMs | Natural Language Processing | — |
-| AIH-07679 | Sentence Embedding | NLP and LLMs | Natural Language Processing | — |
-| AIH-07690 | Sentence Pair Classification | NLP and LLMs | Natural Language Processing | — |
-| AIH-07701 | Sentence Segmentation | NLP and LLMs | Natural Language Processing | — |
-| AIH-07712 | Sentence Simplification | NLP and LLMs | Natural Language Processing | — |
+| AIH-07668 | Sentence Alignment | NLP and LLMs | Natural Language Processing | [1998](https://doi.org/10.1023/a:1008010319408) (source only) |
+| AIH-07679 | Sentence Embedding | NLP and LLMs | Natural Language Processing | [2016](https://doi.org/10.18653/v1/w16-2526) (source only) |
+| AIH-07690 | Sentence Pair Classification | NLP and LLMs | Natural Language Processing | [2009](https://doi.org/10.3115/1699510.1699523) (source only) |
+| AIH-07701 | Sentence Segmentation | NLP and LLMs | Natural Language Processing | [1978](https://doi.org/10.1044/jshr.2104.793) (source only) |
+| AIH-07712 | Sentence Simplification | NLP and LLMs | Natural Language Processing | [2008](https://doi.org/10.3115/1596324.1596373) (source only) |
 | AIH-07723 | Sentence-BERT (SBERT) | NLP and LLMs | Natural Language Processing | — |
-| AIH-07734 | SentencePiece | NLP and LLMs | Natural Language Processing | — |
-| AIH-07745 | Sentiment Analysis | NLP and LLMs | Natural Language Processing | — |
-| AIH-07756 | Shallow Parsing | NLP and LLMs | Natural Language Processing | — |
-| AIH-07767 | Skip-Gram | NLP and LLMs | Natural Language Processing | — |
+| AIH-07734 | SentencePiece | NLP and LLMs | Natural Language Processing | [2018](https://doi.org/10.18653/v1/d18-2012) (source only) |
+| AIH-07745 | Sentiment Analysis | NLP and LLMs | Natural Language Processing | [2012](https://doi.org/10.4000/books.oep.216) (source only) |
+| AIH-07756 | Shallow Parsing | NLP and LLMs | Natural Language Processing | [1999](https://doi.org/10.1162/10996629952104377) (source only) |
+| AIH-07767 | Skip-Gram | NLP and LLMs | Natural Language Processing | [2015](https://doi.org/10.18653/v1/k15-1035) (source only) |
 | AIH-07778 | Slot Filling | NLP and LLMs | Natural Language Processing | — |
 | AIH-07789 | Slot Value Extraction | NLP and LLMs | Natural Language Processing | — |
-| AIH-07799 | Spam Detection | NLP and LLMs | Natural Language Processing | — |
+| AIH-07799 | Spam Detection | NLP and LLMs | Natural Language Processing | [2005](https://doi.org/10.6028/nist.sp.500-266.spam-puc-rs.terra) (source only) |
 | AIH-07809 | Span Corruption | NLP and LLMs | Natural Language Processing | — |
 | AIH-07819 | Sparse Representation of Text | NLP and LLMs | Natural Language Processing | — |
-| AIH-07829 | Speech Act | NLP and LLMs | Natural Language Processing | — |
+| AIH-07829 | Speech Act | NLP and LLMs | Natural Language Processing | [1977](https://doi.org/10.1007/978-94-010-1045-0_4) (source only) |
 | AIH-07839 | Spelling Correction | NLP and LLMs | Natural Language Processing | — |
-| AIH-07849 | Spelling Variation | NLP and LLMs | Natural Language Processing | — |
+| AIH-07849 | Spelling Variation | NLP and LLMs | Natural Language Processing | [2012](https://doi.org/10.1007/978-3-031-02146-6_6) (source only) |
 | AIH-07859 | Stance Detection | NLP and LLMs | Natural Language Processing | — |
-| AIH-07869 | Static Embedding | NLP and LLMs | Natural Language Processing | — |
-| AIH-07879 | Stemming | NLP and LLMs | Natural Language Processing | — |
-| AIH-07889 | Stop Word | NLP and LLMs | Natural Language Processing | — |
-| AIH-07899 | Straight-Through Processing | NLP and LLMs | Natural Language Processing | — |
+| AIH-07869 | Static Embedding | NLP and LLMs | Natural Language Processing | [2014](https://doi.org/10.1016/j.comnet.2014.01.004) (source only) |
+| AIH-07879 | Stemming | NLP and LLMs | Natural Language Processing | [2002](https://doi.org/10.1145/564376.564425) (source only) |
+| AIH-07889 | Stop Word | NLP and LLMs | Natural Language Processing | [2000](https://doi.org/10.1007/pl00013551) (source only) |
+| AIH-07899 | Straight-Through Processing | NLP and LLMs | Natural Language Processing | [2000](https://doi.org/10.1201/9780203997611-51) (source only) |
 | AIH-07909 | Style Transfer in Text | NLP and LLMs | Natural Language Processing | — |
-| AIH-07919 | Stylometry | NLP and LLMs | Natural Language Processing | — |
-| AIH-07929 | Subjectivity Detection | NLP and LLMs | Natural Language Processing | — |
-| AIH-07939 | Subword Tokenization | NLP and LLMs | Natural Language Processing | — |
+| AIH-07919 | Stylometry | NLP and LLMs | Natural Language Processing | [1897](https://doi.org/10.1017/s0009840x00032315) (source only) |
+| AIH-07929 | Subjectivity Detection | NLP and LLMs | Natural Language Processing | [2015](https://doi.org/10.1109/clei.2015.7360018) (source only) |
+| AIH-07939 | Subword Tokenization | NLP and LLMs | Natural Language Processing | [2019](https://doi.org/10.21437/ssw.2019-42) (source only) |
 | AIH-07949 | Suggestion Acceptance | NLP and LLMs | Natural Language Processing | — |
 | AIH-07959 | Summarization Compression Ratio | NLP and LLMs | Natural Language Processing | — |
-| AIH-07969 | Syllabification | NLP and LLMs | Natural Language Processing | — |
-| AIH-07979 | Synonym Replacement | NLP and LLMs | Natural Language Processing | — |
-| AIH-07988 | Synset | NLP and LLMs | Natural Language Processing | — |
+| AIH-07969 | Syllabification | NLP and LLMs | Natural Language Processing | [1897](https://doi.org/10.2307/2919354) (source only) |
+| AIH-07979 | Synonym Replacement | NLP and LLMs | Natural Language Processing | [2013](https://doi.org/10.3384/nejlt.2000-1533.1333) (source only) |
+| AIH-07988 | Synset | NLP and LLMs | Natural Language Processing | [2013](https://doi.org/10.1109/icact.2013.6710540) (source only) |
 | AIH-07997 | Syntactic Ambiguity | NLP and LLMs | Natural Language Processing | — |
 | AIH-08006 | Syntax | NLP and LLMs | Natural Language Processing | — |
 | AIH-08015 | Table Extraction from Text | NLP and LLMs | Natural Language Processing | — |
 | AIH-08024 | Task Completion in Dialogue | NLP and LLMs | Natural Language Processing | — |
-| AIH-08033 | Task-Oriented Dialogue | NLP and LLMs | Natural Language Processing | — |
-| AIH-08042 | Template Filling | NLP and LLMs | Natural Language Processing | — |
-| AIH-08051 | Temporal Expression Recognition | NLP and LLMs | Natural Language Processing | — |
+| AIH-08033 | Task-Oriented Dialogue | NLP and LLMs | Natural Language Processing | [1994](https://doi.org/10.21437/icslp.1994-233) (source only) |
+| AIH-08042 | Template Filling | NLP and LLMs | Natural Language Processing | [2011](https://doi.org/10.1177/1080569911404055) (source only) |
+| AIH-08051 | Temporal Expression Recognition | NLP and LLMs | Natural Language Processing | [2007](https://doi.org/10.1109/time.2007.54) (source only) |
 | AIH-08060 | TER | NLP and LLMs | Natural Language Processing | — |
 | AIH-08069 | Term Frequency (TF) | NLP and LLMs | Natural Language Processing | — |
-| AIH-08078 | Terminology Consistency | NLP and LLMs | Natural Language Processing | — |
-| AIH-08087 | Terminology Extraction | NLP and LLMs | Natural Language Processing | — |
+| AIH-08078 | Terminology Consistency | NLP and LLMs | Natural Language Processing | [2020](https://doi.org/10.26689/jcer.v4i7.1362) (source only) |
+| AIH-08087 | Terminology Extraction | NLP and LLMs | Natural Language Processing | [2001](https://doi.org/10.1075/z.htm2.28ahm) (source only) |
 | AIH-08095 | Text Anonymization | NLP and LLMs | Natural Language Processing | — |
 | AIH-08103 | Text Classification | NLP and LLMs | Natural Language Processing | — |
-| AIH-08111 | Text Cleaning | NLP and LLMs | Natural Language Processing | — |
-| AIH-08119 | Text Detoxification | NLP and LLMs | Natural Language Processing | — |
+| AIH-08111 | Text Cleaning | NLP and LLMs | Natural Language Processing | [2017](https://doi.org/10.32614/cran.package.textclean) (source only) |
+| AIH-08119 | Text Detoxification | NLP and LLMs | Natural Language Processing | [2021](https://doi.org/10.18653/v1/2021.emnlp-main.629) (source only) |
 | AIH-08127 | Text Normalization for Speech | NLP and LLMs | Natural Language Processing | — |
-| AIH-08135 | Text Provenance | NLP and LLMs | Natural Language Processing | — |
-| AIH-08143 | Text Quality Metric | NLP and LLMs | Natural Language Processing | — |
+| AIH-08135 | Text Provenance | NLP and LLMs | Natural Language Processing | [2021](https://doi.org/10.1109/sp40001.2021.00083) (source only) |
+| AIH-08143 | Text Quality Metric | NLP and LLMs | Natural Language Processing | [2023](https://doi.org/10.2352/ei.2023.35.8.iqsp-310) (source only) |
 | AIH-08151 | Text Segmentation into Topics | NLP and LLMs | Natural Language Processing | — |
-| AIH-08159 | Text Simplification | NLP and LLMs | Natural Language Processing | — |
-| AIH-08167 | Text Spotting | NLP and LLMs | Natural Language Processing | — |
+| AIH-08159 | Text Simplification | NLP and LLMs | Natural Language Processing | [2014](https://doi.org/10.1075/itl.165.2.06sid) (source only) |
+| AIH-08167 | Text Spotting | NLP and LLMs | Natural Language Processing | [1999](https://doi.org/10.1108/intr.1999.17209caf.003) (source only) |
 | AIH-08175 | Text Summarization | NLP and LLMs | Natural Language Processing | — |
-| AIH-08183 | Textual Entailment | NLP and LLMs | Natural Language Processing | — |
+| AIH-08183 | Textual Entailment | NLP and LLMs | Natural Language Processing | [2005](https://doi.org/10.3115/1631862.1631869) (source only) |
 | AIH-08191 | TF-IDF | NLP and LLMs | Natural Language Processing | — |
-| AIH-08199 | Timeline Generation | NLP and LLMs | Natural Language Processing | — |
+| AIH-08199 | Timeline Generation | NLP and LLMs | Natural Language Processing | [1985](https://doi.org/10.1109/tns.1985.4333812) (source only) |
 | AIH-08207 | Token | NLP and LLMs | Natural Language Processing | — |
 | AIH-08215 | Token Healing | NLP and LLMs | Natural Language Processing | — |
 | AIH-08223 | Token ID | NLP and LLMs | Natural Language Processing | — |
-| AIH-08231 | Tokenization | NLP and LLMs | Natural Language Processing | — |
+| AIH-08231 | Tokenization | NLP and LLMs | Natural Language Processing | [2010](https://doi.org/10.2139/ssrn.1627284) (source only) |
 | AIH-08239 | Tokenization Fairness | NLP and LLMs | Natural Language Processing | — |
 | AIH-08247 | Tokenization for Chinese | NLP and LLMs | Natural Language Processing | — |
-| AIH-08255 | Tokenizer | NLP and LLMs | Natural Language Processing | — |
+| AIH-08255 | Tokenizer | NLP and LLMs | Natural Language Processing | [2003](https://doi.org/10.1145/882067.882071) (source only) |
 | AIH-08263 | Tokenizer Fertility | NLP and LLMs | Natural Language Processing | — |
-| AIH-08271 | Tokenizer Training | NLP and LLMs | Natural Language Processing | — |
+| AIH-08271 | Tokenizer Training | NLP and LLMs | Natural Language Processing | [2024](https://doi.org/10.18653/v1/2024.emnlp-main.925) (source only) |
 | AIH-08279 | Tokenizer Vocabulary Merge | NLP and LLMs | Natural Language Processing | — |
-| AIH-08287 | Topic Drift | NLP and LLMs | Natural Language Processing | — |
-| AIH-08295 | Toxicity Classification | NLP and LLMs | Natural Language Processing | — |
+| AIH-08287 | Topic Drift | NLP and LLMs | Natural Language Processing | [2009](https://doi.org/10.1075/cilt.309.09kni) (source only) |
+| AIH-08295 | Toxicity Classification | NLP and LLMs | Natural Language Processing | [2009](https://doi.org/10.1016/j.toxlet.2009.02.003) (source only) |
 | AIH-08303 | Translation Memory (TM) | NLP and LLMs | Natural Language Processing | — |
 | AIH-08311 | Translation Memory Leverage | NLP and LLMs | Natural Language Processing | — |
-| AIH-08319 | Transliteration | NLP and LLMs | Natural Language Processing | — |
-| AIH-08327 | Treebank | NLP and LLMs | Natural Language Processing | — |
-| AIH-08335 | Trigram | NLP and LLMs | Natural Language Processing | — |
-| AIH-08343 | Turn-Level Evaluation | NLP and LLMs | Natural Language Processing | — |
+| AIH-08319 | Transliteration | NLP and LLMs | Natural Language Processing | [1937](https://doi.org/10.4159/harvard.9780674600201.c2) (source only) |
+| AIH-08327 | Treebank | NLP and LLMs | Natural Language Processing | [2025](https://doi.org/10.21203/rs.3.rs-8299268/v1) (source only) |
+| AIH-08335 | Trigram | NLP and LLMs | Natural Language Processing | [1992](https://doi.org/10.21437/icslp.1992-244) (source only) |
+| AIH-08343 | Turn-Level Evaluation | NLP and LLMs | Natural Language Processing | [2025](https://doi.org/10.1016/j.engappai.2024.109572) (source only) |
 | AIH-08351 | Turn-Taking | NLP and LLMs | Natural Language Processing | — |
-| AIH-08359 | Type-Token Ratio | NLP and LLMs | Natural Language Processing | — |
-| AIH-08367 | Unanswerable Question | NLP and LLMs | Natural Language Processing | — |
+| AIH-08359 | Type-Token Ratio | NLP and LLMs | Natural Language Processing | [1946](https://doi.org/10.1044/jshd.1102.126) (source only) |
+| AIH-08367 | Unanswerable Question | NLP and LLMs | Natural Language Processing | [1968](https://doi.org/10.1088/0031-9120/3/6/113) (source only) |
 | AIH-08375 | Unicode Normalization | NLP and LLMs | Natural Language Processing | — |
 | AIH-08383 | Unigram Language Model Tokenizer | NLP and LLMs | Natural Language Processing | — |
-| AIH-08391 | Universal Dependencies (UD) | NLP and LLMs | Natural Language Processing | — |
-| AIH-08399 | Unknown Token | NLP and LLMs | Natural Language Processing | — |
-| AIH-08407 | Unsupervised Machine Translation | NLP and LLMs | Natural Language Processing | — |
-| AIH-08415 | Update Summarization | NLP and LLMs | Natural Language Processing | — |
-| AIH-08423 | User Simulation | NLP and LLMs | Natural Language Processing | — |
+| AIH-08391 | Universal Dependencies (UD) | NLP and LLMs | Natural Language Processing | [2019](https://doi.org/10.5334/gjgl.537) (source only) |
+| AIH-08399 | Unknown Token | NLP and LLMs | Natural Language Processing | [2025](https://doi.org/10.1007/978-981-96-2292-4_2) (source only) |
+| AIH-08407 | Unsupervised Machine Translation | NLP and LLMs | Natural Language Processing | [2018](https://doi.org/10.18653/v1/w18-6428) (source only) |
+| AIH-08415 | Update Summarization | NLP and LLMs | Natural Language Processing | [2009](https://doi.org/10.1145/1600193.1600239) (source only) |
+| AIH-08423 | User Simulation | NLP and LLMs | Natural Language Processing | [2024](https://doi.org/10.1561/9781638283799) (source only) |
 | AIH-08431 | Validation of Extraction | NLP and LLMs | Natural Language Processing | — |
-| AIH-08438 | Vocabulary Expansion | NLP and LLMs | Natural Language Processing | — |
-| AIH-08445 | Vocabulary Growth | NLP and LLMs | Natural Language Processing | — |
-| AIH-08452 | Vocabulary Pruning | NLP and LLMs | Natural Language Processing | — |
+| AIH-08438 | Vocabulary Expansion | NLP and LLMs | Natural Language Processing | [1964](https://doi.org/10.1111/j.2044-8279.1964.tb00643.x) (source only) |
+| AIH-08445 | Vocabulary Growth | NLP and LLMs | Natural Language Processing | [1993](https://doi.org/10.1002/cd.23219936106) (source only) |
+| AIH-08452 | Vocabulary Pruning | NLP and LLMs | Natural Language Processing | [2010](https://doi.org/10.1109/cvpr.2010.5540062) (source only) |
 | AIH-08459 | Vocabulary Size | NLP and LLMs | Natural Language Processing | — |
 | AIH-08465 | Watermarked Text Detection | NLP and LLMs | Natural Language Processing | — |
-| AIH-08470 | Whisper | NLP and LLMs | Natural Language Processing | — |
+| AIH-08470 | Whisper | NLP and LLMs | Natural Language Processing | [2024](https://doi.org/10.21437/interspeech.2024-322) (source only) |
 | AIH-08475 | Whitespace Tokenization | NLP and LLMs | Natural Language Processing | — |
 | AIH-08480 | Winograd Schema | NLP and LLMs | Natural Language Processing | — |
-| AIH-08485 | Word Embedding | NLP and LLMs | Natural Language Processing | — |
-| AIH-08490 | Word Order Typology | NLP and LLMs | Natural Language Processing | — |
+| AIH-08485 | Word Embedding | NLP and LLMs | Natural Language Processing | [2016](https://doi.org/10.18653/v1/w16-1603) (source only) |
+| AIH-08490 | Word Order Typology | NLP and LLMs | Natural Language Processing | [1983](https://doi.org/10.1075/cilt.25.04wor) (source only) |
 | AIH-08495 | Word Segmentation | NLP and LLMs | Natural Language Processing | — |
-| AIH-08500 | Word Sense Disambiguation (WSD) | NLP and LLMs | Natural Language Processing | — |
+| AIH-08500 | Word Sense Disambiguation (WSD) | NLP and LLMs | Natural Language Processing | [2016](https://doi.org/10.21090/ijaerd.031240) (source only) |
 | AIH-08505 | Word Similarity Benchmark | NLP and LLMs | Natural Language Processing | — |
 | AIH-08510 | WordNet | NLP and LLMs | Natural Language Processing | — |
 | AIH-08515 | WordPiece | NLP and LLMs | Natural Language Processing | — |

@@ -6,84 +6,84 @@
 
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
-| AIH-07840 | DL Boost | AI Foundations | Fundamentals | — |
-| AIH-07850 | Do-Operator | AI Foundations | Fundamentals | — |
-| AIH-07860 | Documentation Debt | AI Foundations | Fundamentals | — |
+| AIH-07840 | DL Boost | AI Foundations | Fundamentals | [2019](https://doi.org/10.1109/icetet-sip-1946815.2019.9092041) (source only) |
+| AIH-07850 | Do-Operator | AI Foundations | Fundamentals | [2004](https://doi.org/10.1037/e537052012-103) (source only) |
+| AIH-07860 | Documentation Debt | AI Foundations | Fundamentals | [2015](https://doi.org/10.1109/itng.2015.68) (source only) |
 | AIH-07870 | Documentation of Methodology | AI Foundations | Fundamentals | — |
 | AIH-07880 | Domain Randomization (DR) | AI Foundations | Fundamentals | — |
-| AIH-07890 | Domain Shift | AI Foundations | Fundamentals | — |
+| AIH-07890 | Domain Shift | AI Foundations | Fundamentals | [2015](https://doi.org/10.5244/c.29.96) (source only) |
 | AIH-07900 | Dual Problem | AI Foundations | Fundamentals | — |
-| AIH-07910 | Dual-coding theory | AI Foundations | Fundamentals | — |
+| AIH-07910 | Dual-coding theory | AI Foundations | Fundamentals | [1987](https://doi.org/10.1037/027324) (source only) |
 | AIH-07920 | Due Process | AI Foundations | Fundamentals | — |
-| AIH-07930 | Dynamicism | AI Foundations | Fundamentals | — |
+| AIH-07930 | Dynamicism | AI Foundations | Fundamentals | [1998](https://doi.org/10.1017/s0140525x98341734) (source only) |
 | AIH-07940 | Dynamics | AI Foundations | Fundamentals | — |
-| AIH-07950 | Dynamics Model | AI Foundations | Fundamentals | — |
-| AIH-07960 | Déjà vu | AI Foundations | Fundamentals | — |
+| AIH-07950 | Dynamics Model | AI Foundations | Fundamentals | [1977](https://doi.org/10.21236/ada045463) (source only) |
+| AIH-07960 | Déjà vu | AI Foundations | Fundamentals | [1988](https://doi.org/10.1093/sw/33.4.291) (source only) |
 | AIH-07970 | E-Discovery | AI Foundations | Fundamentals | — |
-| AIH-07980 | Early Stopping | AI Foundations | Fundamentals | — |
+| AIH-07980 | Early Stopping | AI Foundations | Fundamentals | [1983](https://doi.org/10.1016/s0197-2456(83)80006-3) (source only) |
 | AIH-07989 | Edge Case Policy | AI Foundations | Fundamentals | — |
-| AIH-07998 | Educational robotics | AI Foundations | Fundamentals | — |
-| AIH-08007 | Eigenvector | AI Foundations | Fundamentals | — |
-| AIH-08016 | Elicitation technique | AI Foundations | Fundamentals | — |
-| AIH-08025 | Embodied agent | AI Foundations | Fundamentals | — |
+| AIH-07998 | Educational robotics | AI Foundations | Fundamentals | [2009](https://doi.org/10.1007/978-3-7908-2127-7_9) (source only) |
+| AIH-08007 | Eigenvector | AI Foundations | Fundamentals | [1974](https://doi.org/10.1137/1.9781611970531.ch5) (source only) |
+| AIH-08016 | Elicitation technique | AI Foundations | Fundamentals | [1975](https://doi.org/10.1515/9783112415405-021) (source only) |
+| AIH-08025 | Embodied agent | AI Foundations | Fundamentals | [1997](https://doi.org/10.1177/0038038597031004006) (source only) |
 | AIH-08034 | Embodied AI | AI Foundations | Fundamentals | — |
-| AIH-08043 | Embodied cognitive science | AI Foundations | Fundamentals | — |
+| AIH-08043 | Embodied cognitive science | AI Foundations | Fundamentals | [1999](https://doi.org/10.1016/s1364-6613(99)01361-3) (source only) |
 | AIH-08052 | Embodied embedded cognition (EEC) | AI Foundations | Fundamentals | — |
-| AIH-08061 | Embodiment Hypothesis | AI Foundations | Fundamentals | — |
-| AIH-08070 | Emergence | AI Foundations | Fundamentals | — |
+| AIH-08061 | Embodiment Hypothesis | AI Foundations | Fundamentals | [1966](https://doi.org/10.1086/259105) (source only) |
+| AIH-08070 | Emergence | AI Foundations | Fundamentals | [1999](https://doi.org/10.1207/s15327000em0101_4) (source only) |
 | AIH-08079 | Emergent algorithm | AI Foundations | Fundamentals | — |
 | AIH-08088 | Emergent Capability Debate | AI Foundations | Fundamentals | — |
-| AIH-08096 | Emergent Competition | AI Foundations | Fundamentals | — |
-| AIH-08104 | Emergent Coordination | AI Foundations | Fundamentals | — |
-| AIH-08112 | Empirical Risk Minimization (ERM) | AI Foundations | Fundamentals | — |
-| AIH-08120 | Enactivism | AI Foundations | Fundamentals | — |
+| AIH-08096 | Emergent Competition | AI Foundations | Fundamentals | [2014](https://doi.org/10.1103/physrevb.90.245115) (source only) |
+| AIH-08104 | Emergent Coordination | AI Foundations | Fundamentals | [2009](https://doi.org/10.1016/j.neulet.2008.10.092) (source only) |
+| AIH-08112 | Empirical Risk Minimization (ERM) | AI Foundations | Fundamentals | [2026](https://doi.org/10.1007/978-981-92-2012-0_4-1) (source only) |
+| AIH-08120 | Enactivism | AI Foundations | Fundamentals | [2006](https://doi.org/10.5040/9798216000198.ch-056) (source only) |
 | AIH-08128 | Encryption in Transit/At Rest | AI Foundations | Fundamentals | — |
 | AIH-08136 | End of Life | AI Foundations | Fundamentals | — |
 | AIH-08144 | Energy-Based Model (EBM) | AI Foundations | Fundamentals | — |
 | AIH-08152 | Entanglement in ML Systems | AI Foundations | Fundamentals | — |
-| AIH-08160 | Entropic vector | AI Foundations | Fundamentals | — |
+| AIH-08160 | Entropic vector | AI Foundations | Fundamentals | [2012](https://doi.org/10.1109/allerton.2012.6483409) (source only) |
 | AIH-08168 | Entropy | AI Foundations | Fundamentals | — |
 | AIH-08176 | Epistemic modal logic | AI Foundations | Fundamentals | — |
-| AIH-08184 | Error Recovery | AI Foundations | Fundamentals | — |
+| AIH-08184 | Error Recovery | AI Foundations | Fundamentals | [1971](https://doi.org/10.17487/rfc133) (source only) |
 | AIH-08192 | Escalation Authority | AI Foundations | Fundamentals | — |
-| AIH-08200 | Escalation Criteria | AI Foundations | Fundamentals | — |
+| AIH-08200 | Escalation Criteria | AI Foundations | Fundamentals | [2026](https://doi.org/10.1002/ccr3.72909) (source only) |
 | AIH-08208 | Ethical regulator theorem | AI Foundations | Fundamentals | — |
 | AIH-08216 | EU AI Act | AI Foundations | Fundamentals | — |
 | AIH-08224 | Eval Harness | AI Foundations | Fundamentals | — |
-| AIH-08232 | Evolutionary developmental robotics | AI Foundations | Fundamentals | — |
+| AIH-08232 | Evolutionary developmental robotics | AI Foundations | Fundamentals | [2012](https://doi.org/10.1145/3245068) (source only) |
 | AIH-08240 | Exception Process | AI Foundations | Fundamentals | — |
-| AIH-08248 | Existential Risk | AI Foundations | Fundamentals | — |
-| AIH-08256 | Exit Strategy | AI Foundations | Fundamentals | — |
+| AIH-08248 | Existential Risk | AI Foundations | Fundamentals | [2010](https://doi.org/10.5749/9781452966991-004) (source only) |
+| AIH-08256 | Exit Strategy | AI Foundations | Fundamentals | [1997](https://doi.org/10.21236/ada328399) (source only) |
 | AIH-08264 | Expectation | AI Foundations | Fundamentals | — |
-| AIH-08272 | Expectation Setting | AI Foundations | Fundamentals | — |
+| AIH-08272 | Expectation Setting | AI Foundations | Fundamentals | [1971](https://doi.org/10.1016/s0031-6997(25)06900-5) (source only) |
 | AIH-08280 | Experiment Tracking | AI Foundations | Fundamentals | — |
-| AIH-08288 | Expert Disagreement | AI Foundations | Fundamentals | — |
-| AIH-08296 | Expert System | AI Foundations | Fundamentals | — |
-| AIH-08304 | Explainability | AI Foundations | Fundamentals | — |
+| AIH-08288 | Expert Disagreement | AI Foundations | Fundamentals | [1992](https://doi.org/10.1520/jfs13297j) (source only) |
+| AIH-08296 | Expert System | AI Foundations | Fundamentals | [1984](https://doi.org/10.1111/j.1468-0394.1984.tb00438.x) (source only) |
+| AIH-08304 | Explainability | AI Foundations | Fundamentals | [2018](https://doi.org/10.31859/20180401.0600) (source only) |
 | AIH-08312 | Explainability Mandate | AI Foundations | Fundamentals | — |
 | AIH-08320 | Explainability Requirement | AI Foundations | Fundamentals | — |
 | AIH-08328 | Explainable Credit Model | AI Foundations | Fundamentals | — |
 | AIH-08336 | Explainable Interface | AI Foundations | Fundamentals | — |
 | AIH-08344 | Explicit Feedback Signal | AI Foundations | Fundamentals | — |
-| AIH-08352 | Explicit Knowledge | AI Foundations | Fundamentals | — |
-| AIH-08360 | Exploding Gradient | AI Foundations | Fundamentals | — |
+| AIH-08352 | Explicit Knowledge | AI Foundations | Fundamentals | [2001](https://doi.org/10.1108/13673270110384455) (source only) |
+| AIH-08360 | Exploding Gradient | AI Foundations | Fundamentals | [2020](https://doi.org/10.1016/j.ifacol.2020.12.1342) (source only) |
 | AIH-08368 | Exploration-Exploitation Tradeoff | AI Foundations | Fundamentals | — |
 | AIH-08376 | Exposure Bias | AI Foundations | Fundamentals | — |
 | AIH-08384 | Expressivity | AI Foundations | Fundamentals | — |
-| AIH-08392 | Exteroception | AI Foundations | Fundamentals | — |
+| AIH-08392 | Exteroception | AI Foundations | Fundamentals | [1994](https://doi.org/10.1016/0306-4522(94)90264-x) (source only) |
 | AIH-08400 | Extrapolation of Trends | AI Foundations | Fundamentals | — |
-| AIH-08408 | Extrapolation Risk | AI Foundations | Fundamentals | — |
-| AIH-08416 | Extremal optimization (EO) | AI Foundations | Fundamentals | — |
-| AIH-08424 | Extreme learning machine (ELM) | AI Foundations | Fundamentals | — |
+| AIH-08408 | Extrapolation Risk | AI Foundations | Fundamentals | [2013](https://doi.org/10.2172/1095941) (source only) |
+| AIH-08416 | Extremal optimization (EO) | AI Foundations | Fundamentals | [2011](https://doi.org/10.1007/978-3-642-24958-7_26) (source only) |
+| AIH-08424 | Extreme learning machine (ELM) | AI Foundations | Fundamentals | [2013](https://doi.org/10.1109/ccdc.2013.6561727) (source only) |
 | AIH-08432 | Eye movement in reading | AI Foundations | Fundamentals | — |
 | AIH-08439 | Eye tracking | AI Foundations | Fundamentals | — |
 | AIH-08446 | F1 Score | AI Foundations | Fundamentals | — |
 | AIH-08453 | Factor Graph | AI Foundations | Fundamentals | — |
 | AIH-08460 | Failure Imagination | AI Foundations | Fundamentals | — |
-| AIH-08466 | Fair Lending | AI Foundations | Fundamentals | — |
-| AIH-08471 | False Negative (FN) | AI Foundations | Fundamentals | — |
-| AIH-08476 | Fast Takeoff | AI Foundations | Fundamentals | — |
-| AIH-08481 | FDA Clearance | AI Foundations | Fundamentals | — |
+| AIH-08466 | Fair Lending | AI Foundations | Fundamentals | [2000](https://doi.org/10.2139/ssrn.224823) (source only) |
+| AIH-08471 | False Negative (FN) | AI Foundations | Fundamentals | [1978](https://doi.org/10.1016/0002-9149(78)90285-0) (source only) |
+| AIH-08476 | Fast Takeoff | AI Foundations | Fundamentals | [2016](https://doi.org/10.1201/b19187-14) (source only) |
+| AIH-08481 | FDA Clearance | AI Foundations | Fundamentals | [1966](https://doi.org/10.1021/cen-v044n045.p009) (source only) |
 | AIH-08486 | Feature | AI Foundations | Fundamentals | — |
 | AIH-08491 | Feature Store | AI Foundations | Fundamentals | — |
 | AIH-08496 | Feedback | AI Foundations | Fundamentals | — |

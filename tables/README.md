@@ -4,6 +4,7 @@
 
 [**Date Research 005 — next 2,000 IDs with ★ estimates and documentary sources**](../batches/DATE_RESEARCH_005_NEXT_2000.md)
 [**Date Research 006 — next 2,000 IDs (04501–06500), linked sources, and ★ estimates**](../batches/DATE_RESEARCH_006_NEXT_2000.md)
+[**Date Research 007 — next 2,000 IDs (06501–08500), linked sources, and ★ estimates**](../batches/DATE_RESEARCH_007_NEXT_2000.md)
 
 Every keyword is included, not a short preview. Four batches of 5,000; each divided into ten GitHub-friendly tables of 500 rows.
 
