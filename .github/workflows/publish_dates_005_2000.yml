@@ -1,0 +1,80 @@
+name: Publish 2000 researched dates from saved artifacts
+
+on:
+  push:
+    paths:
+      - ".github/workflows/publish_dates_005_2000.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: publish-date-005-2000
+  cancel-in-progress: false
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Recover both completed research segments from prior run
+        uses: actions/download-artifact@v4
+        with:
+          run-id: 42278199059
+          github-token: ${{ github.token }}
+          pattern: historical-dates-segment-*
+          merge-multiple: true
+          path: data/date_staging
+      - name: Merge 2000 researched dates and ★ estimates without overwriting recovery batch 004
+        run: python scripts/merge_date_research_2000.py
+      - name: Regenerate all readable keyword tables and preserve recovery navigation
+        run: python scripts/build_keyword_tables.py
+      - name: Update complete README
+        run: python scripts/sync_readme.py
+      - name: Validate new batch, existing work, and star semantics
+        run: |
+          python - <<'PY'
+          import csv,json
+          from pathlib import Path
+          original=json.loads(Path("data/DATE_RESEARCH_004_REPORT.json").read_text())
+          assert original["newly_dated_count"]==25
+          report=json.loads(Path("data/DATE_RESEARCH_005_REPORT.json").read_text())
+          assert report["examined"]==2000
+          assert report["documented_source_dates"]+report["estimated_star_dates"]+report["unresolved"]==2000
+          with Path("data/KEYWORD_INVENTORY.csv").open(newline="",encoding="utf-8") as f:
+              rows=list(csv.DictReader(f))
+          assert len(rows)==20100 and len({r['id'] for r in rows})==20100
+          new=[r for r in rows if 2501<=int(r["id"].split("-")[-1])<=4500]
+          assert len(new)==2000
+          for r in new:
+              if r.get("date_status")=="estimated_star":
+                  assert r.get("display_date","").endswith(" ★") and r.get("estimated_source_url") and r.get("estimated_reason")
+              assert not r.get("first_use_date")
+          for i in range(1,5):
+              path=Path(f"batches/date-research-005/page-{i:02d}.md")
+              assert sum(s.startswith("| AIH-") for s in path.read_text().splitlines())==500
+          assert Path("batches/DATE_RESEARCH_004_RECOVERY_FIRST_1000.md").exists()
+          assert "Recovery 004" in Path("README.md").read_text()
+          print("Preserved concurrent recovery batch 004; validated 2000 new research records.")
+          PY
+      - name: Commit completed research batch and preserve other AI's work
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data/KEYWORD_INVENTORY.csv data/DATE_RESEARCH_005_REPORT.json batches/DATE_RESEARCH_005_NEXT_2000.md batches/date-research-005/ tables/
+          if git diff --cached --quiet; then
+            echo "No changes"
+            exit 0
+          fi
+          git commit -m "Research 2000 term dates in batch 005; keep recovery 004 and ★ estimates separate"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
