@@ -183,7 +183,7 @@
 | AIH-11226 | statistical methods | Mathematics | CSO: statistics | — |
 | AIH-11227 | statistical significance | Mathematics | CSO: statistics | — |
 | AIH-14298 | statistical timing analysis | Mathematics | CSO: statistics | — |
-| AIH-10154 | statistics | Mathematics | CSO: statistics | — |
+| AIH-10154 | statistics | Mathematics | CSO: statistics | [1985](https://doi.org/10.1080/02331888508801841) (source only) |
 | AIH-14300 | steiner tree | Mathematics | CSO: graph theory | — |
 | AIH-14299 | steiner tree problem | Mathematics | CSO: graph theory | — |
 | AIH-14301 | steiner trees | Mathematics | CSO: graph theory | — |
@@ -212,7 +212,7 @@
 | AIH-11245 | stochastic petri net | Mathematics | CSO: stochastic processes | — |
 | AIH-11246 | stochastic petri nets | Mathematics | CSO: stochastic processes | — |
 | AIH-11247 | stochastic process | Mathematics | CSO: stochastic processes | — |
-| AIH-10155 | stochastic processes | Mathematics | CSO: stochastic processes | — |
+| AIH-10155 | stochastic processes | Mathematics | CSO: stochastic processes | [1951](https://doi.org/10.2307/2332337) (source only) |
 | AIH-11249 | stochastic resonance | Mathematics | CSO: stochastic processes | — |
 | AIH-11250 | stochastic resonances | Mathematics | CSO: stochastic processes | — |
 | AIH-11251 | stochastic simulation | Mathematics | CSO: stochastic processes | — |
@@ -301,9 +301,9 @@
 | AIH-11283 | language guessing | NLP and LLMs | CSO: natural language processing | — |
 | AIH-11284 | language identification | NLP and LLMs | CSO: natural language processing | — |
 | AIH-11285 | language model adaptation | NLP and LLMs | CSO: language modeling | — |
-| AIH-10158 | language modeling | NLP and LLMs | CSO: language modeling | — |
+| AIH-10158 | language modeling | NLP and LLMs | CSO: language modeling | [2000](https://doi.org/10.1006/csla.2000.0147) (source only) |
 | AIH-11286 | language pairs | NLP and LLMs | CSO: machine translation | — |
-| AIH-10159 | large language models | NLP and LLMs | CSO: large language models | — |
+| AIH-10159 | large language models | NLP and LLMs | CSO: large language models | [2023](https://doi.org/10.1145/3644116.3644226) (source only) |
 | AIH-14357 | learning automata | NLP and LLMs | CSO: computational linguistics | — |
 | AIH-11287 | lexical database | NLP and LLMs | CSO: natural language processing | — |
 | AIH-11288 | lexical resources | NLP and LLMs | CSO: natural language processing | — |
@@ -370,7 +370,7 @@
 | AIH-11337 | target language | NLP and LLMs | CSO: machine translation | — |
 | AIH-11338 | text data | NLP and LLMs | CSO: text mining | — |
 | AIH-11339 | text document | NLP and LLMs | CSO: text mining | — |
-| AIH-10162 | text mining | NLP and LLMs | CSO: text mining | — |
+| AIH-10162 | text mining | NLP and LLMs | CSO: text mining | [1998](https://doi.org/10.1007/978-0-387-35300-5_3) (source only) |
 | AIH-11340 | text mining techniques | NLP and LLMs | CSO: text mining | — |
 | AIH-11341 | text representation | NLP and LLMs | CSO: text mining | — |
 | AIH-11342 | textual data | NLP and LLMs | CSO: text mining | — |
@@ -389,7 +389,7 @@
 | AIH-11354 | adaptive architecture | Programming & Software | CSO: software architecture | — |
 | AIH-14386 | adaptive system | Programming & Software | CSO: software architecture | — |
 | AIH-14387 | adaptive systems | Programming & Software | CSO: software architecture | — |
-| AIH-10333 | additive manufacturing | Programming & Software | CSO: software architecture | — |
+| AIH-10333 | additive manufacturing | Programming & Software | CSO: software architecture | [2015](https://doi.org/10.1201/b18893-9) (source only) |
 | AIH-14391 | agile | Programming & Software | CSO: software architecture | — |
 | AIH-14388 | agile development | Programming & Software | CSO: software architecture | — |
 | AIH-14389 | agile methods | Programming & Software | CSO: software architecture | — |

@@ -39,7 +39,7 @@
 | AIH-13216 | hyperspectral imaging systems | Computer Vision | CSO: image processing | — |
 | AIH-13217 | hyperspectral sensors | Computer Vision | CSO: image processing | — |
 | AIH-13218 | image acquisition | Computer Vision | CSO: image processing | — |
-| AIH-10127 | image analysis | Computer Vision | CSO: image analysis | — |
+| AIH-10127 | image analysis | Computer Vision | CSO: image analysis | [1996](https://doi.org/10.1016/s1361-8415(96)80007-7) (source only) |
 | AIH-13219 | image authentication | Computer Vision | CSO: image processing | — |
 | AIH-10633 | image coding | Computer Vision | CSO: image processing | — |
 | AIH-13220 | image communication systems | Computer Vision | CSO: image processing | — |
@@ -148,7 +148,7 @@
 | AIH-13304 | object detection systems | Computer Vision | CSO: object recognition | — |
 | AIH-13305 | object localization | Computer Vision | CSO: object recognition | — |
 | AIH-13306 | object location | Computer Vision | CSO: object recognition | — |
-| AIH-10129 | object recognition | Computer Vision | CSO: object recognition | — |
+| AIH-10129 | object recognition | Computer Vision | CSO: object recognition | [1987](https://doi.org/10.1016/0031-3203(87)90020-3) (source only) |
 | AIH-10670 | object segmentation | Computer Vision | CSO: object recognition | — |
 | AIH-13307 | object tracking algorithm | Computer Vision | CSO: object recognition | — |
 | AIH-13308 | off-chip memories | Computer Vision | CSO: image processing | — |
@@ -295,7 +295,7 @@
 | AIH-13442 | wavelets | Computer Vision | CSO: image processing | — |
 | AIH-10695 | 3d data processing | Data Science | CSO: data visualization | — |
 | AIH-10696 | 3d visualization | Data Science | CSO: data visualization | — |
-| AIH-10340 | african american | Data Science | CSO: bioinformatics | — |
+| AIH-10340 | african american | Data Science | CSO: bioinformatics | [2001](https://doi.org/10.1093/acref/9780195301731.013.50970) (source only) |
 | AIH-10698 | african americans | Data Science | CSO: bioinformatics | — |
 | AIH-10726 | african continental ancestry group | Data Science | CSO: bioinformatics | — |
 | AIH-10782 | asian | Data Science | CSO: bioinformatics | — |
@@ -349,7 +349,7 @@
 | AIH-12053 | cytochrome p450 2c9 | Data Science | CSO: bioinformatics | — |
 | AIH-12064 | cytogenetic analysis | Data Science | CSO: bioinformatics | — |
 | AIH-12067 | cytogenetics | Data Science | CSO: bioinformatics | — |
-| AIH-10131 | data visualization | Data Science | CSO: data visualization | — |
+| AIH-10131 | data visualization | Data Science | CSO: data visualization | [2005](https://doi.org/10.1016/s0169-7161(04)24017-2) (source only) |
 | AIH-13464 | deoxyribonucleases, type ii site-specific | Data Science | CSO: bioinformatics | — |
 | AIH-13477 | ethnic difference | Data Science | CSO: bioinformatics | — |
 | AIH-13478 | ethnic groups | Data Science | CSO: bioinformatics | — |
@@ -388,7 +388,7 @@
 | AIH-13474 | parallel coordinates | Data Science | CSO: data visualization | — |
 | AIH-13475 | polymorphism, genetic | Data Science | CSO: bioinformatics | — |
 | AIH-13476 | polymorphism, single nucleotide | Data Science | CSO: bioinformatics | — |
-| AIH-10132 | scientific computing | Data Science | CSO: scientific computing | — |
+| AIH-10132 | scientific computing | Data Science | CSO: scientific computing | [1976](https://doi.org/10.1016/c2013-0-11262-7) (source only) |
 | AIH-10711 | scientific data | Data Science | CSO: data visualization | — |
 | AIH-10712 | scientific visualization | Data Science | CSO: data visualization | — |
 | AIH-10713 | scientific visualizations | Data Science | CSO: data visualization | — |
@@ -489,7 +489,7 @@
 | AIH-10780 | recurrent neural networks | Deep Learning | CSO: neural networks | — |
 | AIH-10781 | relu networks | Deep Learning | CSO: neural networks | — |
 | AIH-13525 | semi-global | Deep Learning | CSO: neural networks | — |
-| AIH-10134 | sliding mode variable structure control | Deep Learning | CSO: neural networks | — |
+| AIH-10134 | sliding mode variable structure control | Deep Learning | CSO: neural networks | [2008](https://doi.org/10.1109/ccdc.2008.4598273) (source only) |
 | AIH-13526 | sparse autoencoders | Deep Learning | CSO: deep learning | — |
 | AIH-13527 | sparse transformer models | Deep Learning | CSO: deep learning | — |
 | AIH-10783 | spiking neural networks | Deep Learning | CSO: neural networks | — |

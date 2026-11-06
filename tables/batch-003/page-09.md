@@ -92,7 +92,7 @@
 | AIH-11407 | program documentation | Programming & Software | CSO: software engineering | — |
 | AIH-14522 | program slicing | Programming & Software | CSO: software engineering | — |
 | AIH-14523 | program understanding | Programming & Software | CSO: software engineering | — |
-| AIH-10164 | programming languages | Programming & Software | CSO: programming languages | — |
+| AIH-10164 | programming languages | Programming & Software | CSO: programming languages | [1975](https://doi.org/10.1145/512976.512991) (source only) |
 | AIH-14524 | prototyping | Programming & Software | CSO: software architecture | — |
 | AIH-14564 | prototyping process | Programming & Software | CSO: software architecture | — |
 | AIH-14571 | pushdown systems | Programming & Software | CSO: software architecture | — |
@@ -171,7 +171,7 @@
 | AIH-11422 | software development process | Programming & Software | CSO: software architecture | — |
 | AIH-11423 | software development projects | Programming & Software | CSO: software architecture | — |
 | AIH-14586 | software development teams | Programming & Software | CSO: software architecture | — |
-| AIH-10166 | software engineering | Programming & Software | CSO: software engineering | — |
+| AIH-10166 | software engineering | Programming & Software | CSO: software engineering | [1983](https://doi.org/10.1016/0141-1195(83)90142-0) (source only) |
 | AIH-14587 | software engineering course | Programming & Software | CSO: software engineering | — |
 | AIH-14588 | software engineering education | Programming & Software | CSO: software engineering | — |
 | AIH-14589 | software evolution | Programming & Software | CSO: software engineering | — |
@@ -344,10 +344,10 @@
 | AIH-14693 | absolute stability | Robotics | CSO: control systems | — |
 | AIH-14694 | active control | Robotics | CSO: control systems | — |
 | AIH-10173 | active disturbance rejection controls | Robotics | CSO: robotics | — |
-| AIH-10224 | actuation redundancy | Robotics | CSO: robotics | — |
+| AIH-10224 | actuation redundancy | Robotics | CSO: robotics | [1990](https://doi.org/10.23919/acc.1990.4791139) (source only) |
 | AIH-14695 | actuator failures | Robotics | CSO: control systems | — |
 | AIH-10330 | adaptive sliding mode control | Robotics | CSO: robotics | — |
-| AIH-10331 | adaptive sliding mode controller | Robotics | CSO: robotics | — |
+| AIH-10331 | adaptive sliding mode controller | Robotics | CSO: robotics | [1996](https://doi.org/10.1016/s1474-6670(17)58511-0) (source only) |
 | AIH-10733 | air traffic controller | Robotics | CSO: robotics | — |
 | AIH-14696 | aircraft control | Robotics | CSO: control systems | — |
 | AIH-14698 | anti-collision | Robotics | CSO: motion planning | — |
@@ -388,7 +388,7 @@
 | AIH-14722 | control parameters | Robotics | CSO: control systems | — |
 | AIH-11518 | control system analysis | Robotics | CSO: control systems | — |
 | AIH-14723 | control system stability | Robotics | CSO: control systems | — |
-| AIH-10170 | control systems | Robotics | CSO: control systems | — |
+| AIH-10170 | control systems | Robotics | CSO: control systems | [1982](https://doi.org/10.1016/s0167-6911(82)80027-3) (source only) |
 | AIH-11549 | control towers | Robotics | CSO: robotics | — |
 | AIH-11553 | conventional pid | Robotics | CSO: control systems | — |
 | AIH-14724 | conventional-pi controller | Robotics | CSO: control systems | — |

@@ -10,7 +10,7 @@
 | AIH-13537 | diffusion probabilistic models | Generative AI | CSO: generative artificial intelligence | — |
 | AIH-10787 | energy-based models | Generative AI | CSO: generative artificial intelligence | — |
 | AIH-10136 | generative adversarial networks | Generative AI | CSO: generative adversarial networks | — |
-| AIH-10137 | generative artificial intelligence | Generative AI | CSO: generative artificial intelligence | — |
+| AIH-10137 | generative artificial intelligence | Generative AI | CSO: generative artificial intelligence | [2023](https://doi.org/10.1596/39959) (source only) |
 | AIH-10789 | latent variable generative models | Generative AI | CSO: generative artificial intelligence | — |
 | AIH-10791 | quantized llms | Generative AI | CSO: generative artificial intelligence | — |
 | AIH-13538 | score-based generative models | Generative AI | CSO: generative artificial intelligence | — |
@@ -52,7 +52,7 @@
 | AIH-13568 | keyword queries | Information Retrieval | CSO: search engines | — |
 | AIH-10808 | keyword search | Information Retrieval | CSO: search engines | — |
 | AIH-13569 | keyword-based search | Information Retrieval | CSO: search engines | — |
-| AIH-10140 | knowledge graphs | Information Retrieval | CSO: knowledge graphs | — |
+| AIH-10140 | knowledge graphs | Information Retrieval | CSO: knowledge graphs | [2017](https://doi.org/10.1007/978-3-319-45654-6_6) (source only) |
 | AIH-10811 | knowledge graphs engineering | Information Retrieval | CSO: knowledge graphs | — |
 | AIH-10812 | knowledge graphs management | Information Retrieval | CSO: knowledge graphs | — |
 | AIH-10813 | link structure | Information Retrieval | CSO: search engines | — |
@@ -68,7 +68,7 @@
 | AIH-13579 | music similarity | Information Retrieval | CSO: information retrieval | — |
 | AIH-13580 | national library of medicine (u.s.) | Information Retrieval | CSO: information retrieval | — |
 | AIH-10817 | online searching | Information Retrieval | CSO: search engines | — |
-| AIH-10141 | ontologies | Information Retrieval | CSO: ontologies | — |
+| AIH-10141 | ontologies | Information Retrieval | CSO: ontologies | [2001](https://doi.org/10.1007/978-3-662-04396-7_2) (source only) |
 | AIH-10819 | ontology building | Information Retrieval | CSO: ontologies | — |
 | AIH-10820 | ontology concepts | Information Retrieval | CSO: ontologies | — |
 | AIH-10821 | ontology construction | Information Retrieval | CSO: semantic web | — |
@@ -119,7 +119,7 @@
 | AIH-10847 | scholarly ontologies | Information Retrieval | CSO: ontologies | — |
 | AIH-10848 | scholarly ontology | Information Retrieval | CSO: ontologies | — |
 | AIH-10849 | scientific knowledge graphs | Information Retrieval | CSO: knowledge graphs | — |
-| AIH-10142 | search engines | Information Retrieval | CSO: search engines | — |
+| AIH-10142 | search engines | Information Retrieval | CSO: search engines | [2005](https://doi.org/10.63485/zs484-ekb49) (source only) |
 | AIH-10850 | search process | Information Retrieval | CSO: search engines | — |
 | AIH-13611 | searchable encryption | Information Retrieval | CSO: search engines | — |
 | AIH-10851 | semantic description | Information Retrieval | CSO: semantic web | — |
@@ -133,7 +133,7 @@
 | AIH-10859 | semantic search engines | Information Retrieval | CSO: search engines | — |
 | AIH-10861 | semantic service | Information Retrieval | CSO: semantic web | — |
 | AIH-10862 | semantic social network analysis | Information Retrieval | CSO: semantic web | — |
-| AIH-10143 | semantic web | Information Retrieval | CSO: semantic web | — |
+| AIH-10143 | semantic web | Information Retrieval | CSO: semantic web | [2002](https://doi.org/10.1201/9781420000023.ch10) (source only) |
 | AIH-13612 | semantic web rule languages | Information Retrieval | CSO: semantic web | — |
 | AIH-10863 | semantic web service | Information Retrieval | CSO: semantic web | — |
 | AIH-13613 | semantic web service discovery | Information Retrieval | CSO: semantic web | — |
@@ -181,10 +181,10 @@
 | AIH-10138 | 28s rrna | Machine Learning | CSO: classification | — |
 | AIH-13635 | 3d pose estimation | Machine Learning | CSO: pattern recognition | — |
 | AIH-13636 | accelerometer data | Machine Learning | CSO: pattern recognition | — |
-| AIH-10144 | acidobacteria | Machine Learning | CSO: classification | — |
+| AIH-10144 | acidobacteria | Machine Learning | CSO: classification | [2000](https://doi.org/10.1046/j.1365-2672.2000.00780.x) (source only) |
 | AIH-13800 | acidobacterium | Machine Learning | CSO: classification | — |
 | AIH-13637 | actinomycetales | Machine Learning | CSO: classification | — |
-| AIH-10145 | action sequences | Machine Learning | CSO: pattern recognition | — |
+| AIH-10145 | action sequences | Machine Learning | CSO: pattern recognition | [1998](https://doi.org/10.1016/s0001-6918(98)00011-0) (source only) |
 | AIH-13639 | active appearance model | Machine Learning | CSO: pattern recognition | — |
 | AIH-13640 | active appearance models | Machine Learning | CSO: pattern recognition | — |
 | AIH-13641 | activity models | Machine Learning | CSO: pattern recognition | — |
@@ -198,7 +198,7 @@
 | AIH-13647 | appearance models | Machine Learning | CSO: pattern recognition | — |
 | AIH-13650 | apriori | Machine Learning | CSO: data mining | — |
 | AIH-13649 | apriori algorithms | Machine Learning | CSO: machine learning | — |
-| AIH-10147 | arcanobacterium | Machine Learning | CSO: classification | — |
+| AIH-10147 | arcanobacterium | Machine Learning | CSO: classification | [1982](https://doi.org/10.1099/00221287-128-6-1279) (source only) |
 | AIH-10895 | artificial neural network | Machine Learning | CSO: machine learning | — |
 | AIH-13651 | association mining | Machine Learning | CSO: machine learning | — |
 | AIH-10898 | association rule | Machine Learning | CSO: data mining | — |
@@ -210,7 +210,7 @@
 | AIH-10901 | associative learning | Machine Learning | CSO: machine learning | — |
 | AIH-10902 | associative processing | Machine Learning | CSO: machine learning | — |
 | AIH-13654 | associative storage | Machine Learning | CSO: machine learning | — |
-| AIH-10148 | automatic facial expression recognition | Machine Learning | CSO: pattern recognition | — |
+| AIH-10148 | automatic facial expression recognition | Machine Learning | CSO: pattern recognition | [2006](https://doi.org/10.1109/chicc.2006.280876) (source only) |
 | AIH-10805 | automatic vehicle identification | Machine Learning | CSO: pattern recognition | — |
 | AIH-13655 | average link clustering | Machine Learning | CSO: clustering | — |
 | AIH-13656 | average linkage clustering | Machine Learning | CSO: clustering | — |
@@ -332,7 +332,7 @@
 | AIH-10942 | data clustering | Machine Learning | CSO: clustering | — |
 | AIH-13729 | data clustering algorithm | Machine Learning | CSO: clustering | — |
 | AIH-13730 | data mart | Machine Learning | CSO: data mining | — |
-| AIH-10146 | data mining | Machine Learning | CSO: data mining | — |
+| AIH-10146 | data mining | Machine Learning | CSO: data mining | [2001](https://doi.org/10.1201/9781420040616-11) (source only) |
 | AIH-10943 | data mining algorithm | Machine Learning | CSO: data mining | — |
 | AIH-10944 | data mining applications | Machine Learning | CSO: data mining | — |
 | AIH-10945 | data mining methods | Machine Learning | CSO: data mining | — |

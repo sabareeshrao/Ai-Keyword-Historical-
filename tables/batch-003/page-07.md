@@ -125,7 +125,7 @@
 | AIH-13927 | parameter-efficient tuning | Machine Learning | CSO: machine learning | — |
 | AIH-11041 | pattern classification | Machine Learning | CSO: pattern recognition | — |
 | AIH-13928 | pattern classification problems | Machine Learning | CSO: pattern recognition | — |
-| AIH-10149 | pattern recognition | Machine Learning | CSO: pattern recognition | — |
+| AIH-10149 | pattern recognition | Machine Learning | CSO: pattern recognition | [1968](https://doi.org/10.1016/0031-3203(68)90014-9) (source only) |
 | AIH-11042 | pattern recognition systems | Machine Learning | CSO: pattern recognition | — |
 | AIH-11043 | pattern recognition, visual | Machine Learning | CSO: pattern recognition | — |
 | AIH-13929 | pca method | Machine Learning | CSO: pattern recognition | — |
@@ -211,7 +211,7 @@
 | AIH-13953 | sphingobacteria | Machine Learning | CSO: classification | — |
 | AIH-13954 | spiral bevel gears | Machine Learning | CSO: pattern recognition | — |
 | AIH-13638 | spur gears | Machine Learning | CSO: pattern recognition | — |
-| AIH-10150 | statistical learning | Machine Learning | CSO: statistical learning | — |
+| AIH-10150 | statistical learning | Machine Learning | CSO: statistical learning | [2000](https://doi.org/10.1007/978-1-4757-3264-1_8) (source only) |
 | AIH-13984 | statistical relational learning | Machine Learning | CSO: machine learning | — |
 | AIH-13955 | stereopsis | Machine Learning | CSO: pattern recognition | — |
 | AIH-13642 | stereoscopic vision | Machine Learning | CSO: pattern recognition | — |
@@ -285,7 +285,7 @@
 | AIH-14027 | activity diagrams | Mathematics | CSO: graph theory | — |
 | AIH-14028 | adjacent vertices | Mathematics | CSO: graph theory | — |
 | AIH-10739 | algebraic riccati equations | Mathematics | CSO: optimization | — |
-| AIH-10151 | applied mathematics | Mathematics | CSO: applied mathematics | — |
+| AIH-10151 | applied mathematics | Mathematics | CSO: applied mathematics | [1947](https://doi.org/10.6028/nbs.rpt.1946-1947) (source only) |
 | AIH-11096 | approximation algorithms | Mathematics | CSO: graph theory | — |
 | AIH-14029 | approximation bounds | Mathematics | CSO: graph theory | — |
 | AIH-14030 | approximation factor | Mathematics | CSO: graph theory | — |
@@ -442,7 +442,7 @@
 | AIH-14132 | graph layout | Mathematics | CSO: graph theory | — |
 | AIH-11149 | graph property prediction | Mathematics | CSO: graph theory | — |
 | AIH-14133 | graph structures | Mathematics | CSO: graph theory | — |
-| AIH-10152 | graph theory | Mathematics | CSO: graph theory | — |
+| AIH-10152 | graph theory | Mathematics | CSO: graph theory | [1977](https://doi.org/10.1002/jgt.3190010206) (source only) |
 | AIH-14134 | graph transformation | Mathematics | CSO: graph theory | — |
 | AIH-14135 | graph transformations | Mathematics | CSO: graph theory | — |
 | AIH-14136 | graph visualization | Mathematics | CSO: graph theory | — |

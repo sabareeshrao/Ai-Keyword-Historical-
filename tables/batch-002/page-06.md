@@ -475,37 +475,37 @@
 | AIH-08488 | Manifold Assumption | Machine Learning | Machine Learning | — |
 | AIH-08493 | Margin | Machine Learning | Machine Learning | — |
 | AIH-08498 | Margin Bound | Machine Learning | Machine Learning | [2002](https://doi.org/10.1109/tit.2002.805090) (source only) |
-| AIH-08503 | Market Basket Analysis | Machine Learning | Machine Learning | — |
-| AIH-08508 | Masked Autoencoder (MAE) | Machine Learning | Machine Learning | — |
-| AIH-08513 | Matryoshka Embedding | Machine Learning | Machine Learning | — |
-| AIH-08518 | Maximum Depth | Machine Learning | Machine Learning | — |
-| AIH-08523 | Maximum Margin Classifier | Machine Learning | Machine Learning | — |
-| AIH-08528 | Mean Shift | Machine Learning | Machine Learning | — |
-| AIH-08533 | Medoid | Machine Learning | Machine Learning | — |
+| AIH-08503 | Market Basket Analysis | Machine Learning | Machine Learning | [2005](https://doi.org/10.1109/epia.2005.341294) (source only) |
+| AIH-08508 | Masked Autoencoder (MAE) | Machine Learning | Machine Learning | [2025](https://doi.org/10.1109/isbi60581.2025.10981288) (source only) |
+| AIH-08513 | Matryoshka Embedding | Machine Learning | Machine Learning | [2026](https://doi.org/10.1109/icassp55912.2026.11464059) (source only) |
+| AIH-08518 | Maximum Depth | Machine Learning | Machine Learning | [1959](https://doi.org/10.1139/f59-065) (source only) |
+| AIH-08523 | Maximum Margin Classifier | Machine Learning | Machine Learning | [2008](https://doi.org/10.1080/09720502.2008.10700555) (source only) |
+| AIH-08528 | Mean Shift | Machine Learning | Machine Learning | [2004](https://doi.org/10.1002/0471667196.ess0677) (source only) |
+| AIH-08533 | Medoid | Machine Learning | Machine Learning | [2022](https://doi.org/10.1109/icaa52185.2022.00014) (source only) |
 | AIH-08537 | Memorization versus Generalization | Machine Learning | Machine Learning | — |
 | AIH-08541 | Memory Profiling for Training | Machine Learning | Machine Learning | — |
-| AIH-08545 | Meta-Learner | Machine Learning | Machine Learning | — |
-| AIH-08549 | Meta-learning | Machine Learning | Machine Learning | — |
-| AIH-08553 | Metric Space Embedding | Machine Learning | Machine Learning | — |
+| AIH-08545 | Meta-Learner | Machine Learning | Machine Learning | [2002](https://doi.org/10.1007/3-540-48050-1_49) (source only) |
+| AIH-08549 | Meta-learning | Machine Learning | Machine Learning | [2011](https://doi.org/10.1007/978-3-642-20980-2_4) (source only) |
+| AIH-08553 | Metric Space Embedding | Machine Learning | Machine Learning | [2021](https://doi.org/10.1007/978-3-030-77961-0_42) (source only) |
 | AIH-08557 | MinHash Deduplication | Machine Learning | Machine Learning | — |
-| AIH-08561 | Minimum Norm Solution | Machine Learning | Machine Learning | — |
+| AIH-08561 | Minimum Norm Solution | Machine Learning | Machine Learning | [1982](https://doi.org/10.1007/bf02525582) (source only) |
 | AIH-08565 | Minimum Samples per Leaf | Machine Learning | Machine Learning | — |
-| AIH-08569 | Minkowski Distance | Machine Learning | Machine Learning | — |
-| AIH-08573 | MixMatch | Machine Learning | Machine Learning | — |
-| AIH-08577 | Mixture of Depths | Machine Learning | Machine Learning | — |
-| AIH-08581 | Mixup | Machine Learning | Machine Learning | — |
+| AIH-08569 | Minkowski Distance | Machine Learning | Machine Learning | [1981](https://doi.org/10.1007/bf01951198) (source only) |
+| AIH-08573 | MixMatch | Machine Learning | Machine Learning | [2020](https://doi.org/10.1007/978-3-030-61166-8_12) (source only) |
+| AIH-08577 | Mixture of Depths | Machine Learning | Machine Learning | [2024](https://doi.org/10.1007/978-981-96-0963-5_9) (source only) |
+| AIH-08581 | Mixup | Machine Learning | Machine Learning | [2021](https://doi.org/10.21437/interspeech.2021-1911) (source only) |
 | AIH-08585 | MoCo | Machine Learning | Machine Learning | — |
-| AIH-08589 | Model Averaging | Machine Learning | Machine Learning | — |
-| AIH-08593 | Model Capacity | Machine Learning | Machine Learning | — |
-| AIH-08597 | Model Editing | Machine Learning | Machine Learning | — |
-| AIH-08601 | Model Evaluation | Machine Learning | Machine Learning | — |
-| AIH-08605 | Model Family | Machine Learning | Machine Learning | — |
-| AIH-08609 | Model Router Training | Machine Learning | Machine Learning | — |
-| AIH-08613 | Model Selection | Machine Learning | Machine Learning | — |
-| AIH-08617 | Model-Based Clustering | Machine Learning | Machine Learning | — |
-| AIH-08621 | Monotonic Constraint | Machine Learning | Machine Learning | — |
-| AIH-08625 | Multi-Document Reasoning | Machine Learning | Machine Learning | — |
-| AIH-08629 | Multi-Teacher Distillation | Machine Learning | Machine Learning | — |
+| AIH-08589 | Model Averaging | Machine Learning | Machine Learning | [1997](https://doi.org/10.2307/2111781) (source only) |
+| AIH-08593 | Model Capacity | Machine Learning | Machine Learning | [2003](https://doi.org/10.1109/vetecf.2003.1285000) (source only) |
+| AIH-08597 | Model Editing | Machine Learning | Machine Learning | [1995](https://doi.org/10.1107/s0021889894010642) (source only) |
+| AIH-08601 | Model Evaluation | Machine Learning | Machine Learning | [2009](https://doi.org/10.1017/cbo9780511812156.019) (source only) |
+| AIH-08605 | Model Family | Machine Learning | Machine Learning | [1976](https://doi.org/10.2307/1965826) (source only) |
+| AIH-08609 | Model Router Training | Machine Learning | Machine Learning | [2024](https://doi.org/10.48550/arxiv.2409.15518) ★ (estimated) |
+| AIH-08613 | Model Selection | Machine Learning | Machine Learning | [1974](https://doi.org/10.2307/2296710) (source only) |
+| AIH-08617 | Model-Based Clustering | Machine Learning | Machine Learning | [2003](https://doi.org/10.21236/ada459759) (source only) |
+| AIH-08621 | Monotonic Constraint | Machine Learning | Machine Learning | [2000](https://doi.org/10.1023/a:1008321216723) (source only) |
+| AIH-08625 | Multi-Document Reasoning | Machine Learning | Machine Learning | [2025](https://doi.org/10.18653/v1/2025.findings-acl.1312) (source only) |
+| AIH-08629 | Multi-Teacher Distillation | Machine Learning | Machine Learning | [2023](https://doi.org/10.2139/ssrn.4412754) (source only) |
 
 — means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
 

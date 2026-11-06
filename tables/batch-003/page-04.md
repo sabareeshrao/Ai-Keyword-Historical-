@@ -317,10 +317,10 @@
 | AIH-10156 | 3-d videos | Computer Vision | CSO: image processing | — |
 | AIH-13097 | 3d imaging | Computer Vision | CSO: image analysis | — |
 | AIH-10604 | 3d object recognition | Computer Vision | CSO: object recognition | — |
-| AIH-10160 | 3d video | Computer Vision | CSO: image processing | — |
+| AIH-10160 | 3d video | Computer Vision | CSO: image processing | [2008](https://doi.org/10.1109/3dtv.2008.4547813) (source only) |
 | AIH-10161 | 3d video coding | Computer Vision | CSO: image processing | — |
 | AIH-13098 | ac coefficients | Computer Vision | CSO: image processing | — |
-| AIH-10199 | acoustic streaming | Computer Vision | CSO: image processing | — |
+| AIH-10199 | acoustic streaming | Computer Vision | CSO: image processing | [1969](https://doi.org/10.1016/0041-624x(69)90854-3) (source only) |
 | AIH-13100 | active contour | Computer Vision | CSO: image processing | — |
 | AIH-13099 | active contour model | Computer Vision | CSO: image processing | — |
 | AIH-13101 | active contours | Computer Vision | CSO: image processing | — |
@@ -328,7 +328,7 @@
 | AIH-13103 | adaptive median filter | Computer Vision | CSO: image processing | — |
 | AIH-10328 | adaptive rate control | Computer Vision | CSO: image processing | — |
 | AIH-10329 | adaptive regularization | Computer Vision | CSO: image processing | — |
-| AIH-10335 | advanced video coding | Computer Vision | CSO: image processing | — |
+| AIH-10335 | advanced video coding | Computer Vision | CSO: image processing | [1999](https://doi.org/10.1016/s0928-1479(99)x8001-6) (source only) |
 | AIH-13104 | anatomic landmark | Computer Vision | CSO: image analysis | — |
 | AIH-13105 | anatomic landmarks | Computer Vision | CSO: image analysis | — |
 | AIH-10606 | approximation coefficients | Computer Vision | CSO: image processing | — |
@@ -399,7 +399,7 @@
 | AIH-13133 | computational photography | Computer Vision | CSO: image processing | — |
 | AIH-13134 | computer assisted diagnosis | Computer Vision | CSO: image processing | — |
 | AIH-13135 | computer assisted impedance tomography | Computer Vision | CSO: image processing | — |
-| AIH-10126 | computer vision | Computer Vision | CSO: computer vision | — |
+| AIH-10126 | computer vision | Computer Vision | CSO: computer vision | [1983](https://doi.org/10.1016/0734-189x(83)90088-9) (source only) |
 | AIH-10613 | computer vision applications | Computer Vision | CSO: image processing | — |
 | AIH-13137 | computer-aided diagnosis | Computer Vision | CSO: image processing | — |
 | AIH-13138 | computerized tomography | Computer Vision | CSO: image processing | — |

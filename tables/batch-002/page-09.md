@@ -6,98 +6,98 @@
 
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
-| AIH-09843 | Scaling Argument | Mathematics | Mathematics & Statistics | — |
-| AIH-09845 | Scatter Plot | Mathematics | Mathematics & Statistics | — |
+| AIH-09843 | Scaling Argument | Mathematics | Mathematics & Statistics | [1981](https://doi.org/10.1007/bf01208276) (source only) |
+| AIH-09845 | Scatter Plot | Mathematics | Mathematics & Statistics | [2004](https://doi.org/10.1002/0471667196.ess2770) (source only) |
 | AIH-06404 | Scenario Generation | Mathematics | Optimization | — |
-| AIH-09847 | Schur Complement | Mathematics | Mathematics & Statistics | — |
-| AIH-09849 | Schur Decomposition | Mathematics | Mathematics & Statistics | — |
+| AIH-09847 | Schur Complement | Mathematics | Mathematics & Statistics | [1974](https://doi.org/10.1016/0024-3795(74)90066-4) (source only) |
+| AIH-09849 | Schur Decomposition | Mathematics | Mathematics & Statistics | [1981](https://doi.org/10.1016/0024-3795(81)90086-0) (source only) |
 | AIH-06259 | Score Function | Mathematics | Probabilistic Methods | [2005](https://doi.org/10.1002/0471667196.ess3209) (source only) |
 | AIH-09851 | Score Function Estimator | Mathematics | Mathematics & Statistics | — |
-| AIH-09853 | Score Test | Mathematics | Mathematics & Statistics | — |
+| AIH-09853 | Score Test | Mathematics | Mathematics & Statistics | [2008](https://doi.org/10.1007/978-1-4020-6754-9_15161) (source only) |
 | AIH-06423 | Second-Order Approximation | Mathematics | Optimization | [1973](https://doi.org/10.1109/proc.1973.9039) (source only) |
 | AIH-06441 | Second-Order Cone Programming (SOCP) | Mathematics | Optimization | [2005](https://doi.org/10.1109/tcsii.2004.840285) (source only) |
 | AIH-09855 | Second-Order Logic | Mathematics | Mathematics & Statistics | — |
 | AIH-06459 | Second-Order Optimality Condition | Mathematics | Optimization | [1996](https://doi.org/10.1016/0167-6377(96)00006-5) (source only) |
 | AIH-09857 | Seed Reproducibility | Mathematics | Mathematics & Statistics | — |
-| AIH-09859 | Segment Tree | Mathematics | Mathematics & Statistics | — |
-| AIH-09861 | Selection Bias | Mathematics | Mathematics & Statistics | — |
+| AIH-09859 | Segment Tree | Mathematics | Mathematics & Statistics | [2001](https://doi.org/10.1145/378583.378647) (source only) |
+| AIH-09861 | Selection Bias | Mathematics | Mathematics & Statistics | [1987](https://doi.org/10.1057/978-1-349-95121-5_1762-1) (source only) |
 | AIH-09863 | Selective Inference | Mathematics | Mathematics & Statistics | — |
 | AIH-06281 | Self-Normalized Importance Sampling | Mathematics | Probabilistic Methods | [2022](https://doi.org/10.52202/068431-0052) (source only) |
 | AIH-06477 | Semidefinite Programming (SDP) | Mathematics | Optimization | [2007](https://doi.org/10.1109/asru.2007.4430130) (source only) |
-| AIH-09865 | Semiparametric Model | Mathematics | Mathematics & Statistics | — |
-| AIH-09867 | Sensitivity Coefficient | Mathematics | Mathematics & Statistics | — |
-| AIH-09869 | Separating Hyperplane Theorem | Mathematics | Mathematics & Statistics | — |
+| AIH-09865 | Semiparametric Model | Mathematics | Mathematics & Statistics | [1990](https://doi.org/10.1007/978-1-4612-3396-1_8) (source only) |
+| AIH-09867 | Sensitivity Coefficient | Mathematics | Mathematics & Statistics | [1967](https://doi.org/10.1109/tac.1967.1098773) (source only) |
+| AIH-09869 | Separating Hyperplane Theorem | Mathematics | Mathematics & Statistics | [1991](https://doi.org/10.1017/cbo9781139171663.012) (source only) |
 | AIH-06303 | Sequential Monte Carlo (SMC) | Mathematics | Probabilistic Methods | — |
 | AIH-09871 | Sequential Testing | Mathematics | Mathematics & Statistics | — |
 | AIH-09873 | Series Convergence | Mathematics | Mathematics & Statistics | — |
 | AIH-09875 | Set | Mathematics | Mathematics & Statistics | — |
 | AIH-06495 | Shampoo Optimizer | Mathematics | Optimization | — |
-| AIH-09877 | Shapiro-Wilk Test | Mathematics | Mathematics & Statistics | — |
+| AIH-09877 | Shapiro-Wilk Test | Mathematics | Mathematics & Statistics | [1976](https://doi.org/10.1007/978-3-0348-5513-6_13) (source only) |
 | AIH-06325 | Sharpness | Mathematics | Probabilistic Methods | [1940](https://doi.org/10.1021/ie50365a017) (source only) |
-| AIH-09879 | Shear Transformation | Mathematics | Mathematics & Statistics | — |
-| AIH-09881 | Sherman-Morrison Formula | Mathematics | Mathematics & Statistics | — |
+| AIH-09879 | Shear Transformation | Mathematics | Mathematics & Statistics | [1985](https://doi.org/10.1051/jphys:01985004605077100) (source only) |
+| AIH-09881 | Sherman-Morrison Formula | Mathematics | Mathematics & Statistics | [2001](https://doi.org/10.1007/978-1-4613-0295-7_9) (source only) |
 | AIH-06347 | Shrinkage | Mathematics | Probabilistic Methods | — |
-| AIH-09883 | Sieve of Eratosthenes | Mathematics | Mathematics & Statistics | — |
-| AIH-09885 | Sigma-Algebra | Mathematics | Mathematics & Statistics | — |
+| AIH-09883 | Sieve of Eratosthenes | Mathematics | Mathematics & Statistics | [1909](https://doi.org/10.2307/1967477) (source only) |
+| AIH-09885 | Sigma-Algebra | Mathematics | Mathematics & Statistics | [1957](https://doi.org/10.21136/cmj.1957.100235) (source only) |
 | AIH-09887 | Sigmoid Saturation | Mathematics | Mathematics & Statistics | — |
 | AIH-06512 | Sign Gradient Descent | Mathematics | Optimization | [2019](https://doi.org/10.1016/j.ins.2019.04.012) (source only) |
-| AIH-09889 | Significance Level | Mathematics | Mathematics & Statistics | — |
-| AIH-09891 | Significant Figures | Mathematics | Mathematics & Statistics | — |
-| AIH-09893 | SimHash | Mathematics | Mathematics & Statistics | — |
-| AIH-09895 | Similar Matrices | Mathematics | Mathematics & Statistics | — |
-| AIH-09897 | Simple Random Sample | Mathematics | Mathematics & Statistics | — |
+| AIH-09889 | Significance Level | Mathematics | Mathematics & Statistics | [1980](https://doi.org/10.1177/001316448004000207) (source only) |
+| AIH-09891 | Significant Figures | Mathematics | Mathematics & Statistics | [1929](https://doi.org/10.1038/123835a0) (source only) |
+| AIH-09893 | SimHash | Mathematics | Mathematics & Statistics | [2013](https://doi.org/10.1109/fpt.2013.6718403) (source only) |
+| AIH-09895 | Similar Matrices | Mathematics | Mathematics & Statistics | [1962](https://doi.org/10.1016/0022-247x(62)90050-1) (source only) |
+| AIH-09897 | Simple Random Sample | Mathematics | Mathematics & Statistics | [1983](https://doi.org/10.2307/2347297) (source only) |
 | AIH-06529 | Simplex Method | Mathematics | Optimization | [1954](https://doi.org/10.7249/rm1433) (source only) |
 | AIH-09899 | Simpson's Reversal | Mathematics | Mathematics & Statistics | — |
-| AIH-09901 | Simulated Annealing (SA) | Mathematics | Mathematics & Statistics | — |
+| AIH-09901 | Simulated Annealing (SA) | Mathematics | Mathematics & Statistics | [1995](https://doi.org/10.1007/978-3-663-09046-5_5) (source only) |
 | AIH-06367 | Simulated Tempering | Mathematics | Probabilistic Methods | [1992](https://doi.org/10.1209/0295-5075/19/6/002) (source only) |
 | AIH-09903 | Simultaneous Confidence Band | Mathematics | Mathematics & Statistics | — |
-| AIH-09905 | Singular Matrix | Mathematics | Mathematics & Statistics | — |
-| AIH-09907 | Singular Value | Mathematics | Mathematics & Statistics | — |
-| AIH-09909 | Sinkhorn Distance | Mathematics | Mathematics & Statistics | — |
-| AIH-09911 | Sinkhorn Normalization | Mathematics | Mathematics & Statistics | — |
-| AIH-09913 | Skew-Symmetric Matrix | Mathematics | Mathematics & Statistics | — |
+| AIH-09905 | Singular Matrix | Mathematics | Mathematics & Statistics | [1992](https://doi.org/10.1137/0613003) (source only) |
+| AIH-09907 | Singular Value | Mathematics | Mathematics & Statistics | [1977](https://doi.org/10.21236/ada042789) (source only) |
+| AIH-09909 | Sinkhorn Distance | Mathematics | Mathematics & Statistics | [2019](https://doi.org/10.3390/rs11232870) (source only) |
+| AIH-09911 | Sinkhorn Normalization | Mathematics | Mathematics & Statistics | [2025](https://doi.org/10.1145/3746027.3755468) (source only) |
+| AIH-09913 | Skew-Symmetric Matrix | Mathematics | Mathematics & Statistics | [1965](https://doi.org/10.1307/mmj/1028999245) (source only) |
 | AIH-06386 | Skewness | Mathematics | Probabilistic Methods | — |
 | AIH-09915 | Skip List | Mathematics | Mathematics & Statistics | — |
 | AIH-06546 | Slack Variable | Mathematics | Optimization | [1977](https://doi.org/10.1287/mnsc.23.8.859) (source only) |
 | AIH-06563 | Slater's Condition | Mathematics | Optimization | [1978](https://doi.org/10.1080/02331937808842484) (source only) |
 | AIH-09917 | Small-World Network | Mathematics | Mathematics & Statistics | — |
-| AIH-09919 | Smooth Function | Mathematics | Mathematics & Statistics | — |
-| AIH-09921 | Smoothing Spline | Mathematics | Mathematics & Statistics | — |
+| AIH-09919 | Smooth Function | Mathematics | Mathematics & Statistics | [2025](https://doi.org/10.32614/cran.package.lgspline) (source only) |
+| AIH-09921 | Smoothing Spline | Mathematics | Mathematics & Statistics | [1990](https://doi.org/10.4095/128121) (source only) |
 | AIH-09923 | Smoothness Constant | Mathematics | Mathematics & Statistics | — |
-| AIH-09925 | SMT Solver | Mathematics | Mathematics & Statistics | — |
-| AIH-09927 | Sobol Sensitivity Index | Mathematics | Mathematics & Statistics | — |
-| AIH-09929 | Sobol Sequence | Mathematics | Mathematics & Statistics | — |
+| AIH-09925 | SMT Solver | Mathematics | Mathematics & Statistics | [2008](https://doi.org/10.1007/978-3-540-78800-3_24) (source only) |
+| AIH-09927 | Sobol Sensitivity Index | Mathematics | Mathematics & Statistics | [2018](https://doi.org/10.3850/978-981-11-2726-7_ctc304s1grr03) (source only) |
+| AIH-09929 | Sobol Sequence | Mathematics | Mathematics & Statistics | [2003](https://doi.org/10.1007/3-540-36487-0_8) (source only) |
 | AIH-09931 | Soft Constraint Penalty | Mathematics | Mathematics & Statistics | — |
 | AIH-06580 | Soft Thresholding | Mathematics | Optimization | [1995](https://doi.org/10.1109/18.382009) (source only) |
-| AIH-09933 | Softplus | Mathematics | Mathematics & Statistics | — |
+| AIH-09933 | Softplus | Mathematics | Mathematics & Statistics | [2014](https://doi.org/10.1109/icassp.2014.6855087) (source only) |
 | AIH-06596 | Solution Pool | Mathematics | Optimization | [2011](https://doi.org/10.1109/itsc.2011.6083127) (source only) |
 | AIH-06612 | Sophia Optimizer | Mathematics | Optimization | [2025](https://doi.org/10.1109/apeie66761.2025.11289350) (source only) |
-| AIH-09935 | Space Complexity | Mathematics | Mathematics & Statistics | — |
-| AIH-09937 | Space-Filling Curve | Mathematics | Mathematics & Statistics | — |
-| AIH-09939 | Span | Mathematics | Mathematics & Statistics | — |
-| AIH-09941 | Spanning Tree | Mathematics | Mathematics & Statistics | — |
+| AIH-09935 | Space Complexity | Mathematics | Mathematics & Statistics | [1991](https://doi.org/10.1017/cbo9780511609619.012) (source only) |
+| AIH-09937 | Space-Filling Curve | Mathematics | Mathematics & Statistics | [1969](https://doi.org/10.1016/s0022-0000(69)80010-3) (source only) |
+| AIH-09939 | Span | Mathematics | Mathematics & Statistics | [2024](https://doi.org/10.2139/ssrn.4902470) (source only) |
+| AIH-09941 | Spanning Tree | Mathematics | Mathematics & Statistics | [1991](https://doi.org/10.1016/b978-1-85617-085-7.50008-1) (source only) |
 | AIH-09943 | Sparse Coding | Mathematics | Mathematics & Statistics | — |
-| AIH-09945 | Sparse Direct Solver | Mathematics | Mathematics & Statistics | — |
-| AIH-09947 | Sparse Matrix | Mathematics | Mathematics & Statistics | — |
+| AIH-09945 | Sparse Direct Solver | Mathematics | Mathematics & Statistics | [2003](https://doi.org/10.1016/j.parco.2003.05.010) (source only) |
+| AIH-09947 | Sparse Matrix | Mathematics | Mathematics & Statistics | [1972](https://doi.org/10.1007/978-1-4615-8675-3_5) (source only) |
 | AIH-09949 | Sparse Matrix Format | Mathematics | Mathematics & Statistics | — |
 | AIH-09951 | Spearman Correlation | Mathematics | Mathematics & Statistics | — |
 | AIH-09953 | Spectral Method | Mathematics | Mathematics & Statistics | — |
-| AIH-09955 | Spectral Norm | Mathematics | Mathematics & Statistics | — |
+| AIH-09955 | Spectral Norm | Mathematics | Mathematics & Statistics | [1963](https://doi.org/10.1007/bf01385889) (source only) |
 | AIH-09957 | Spectral Normalization | Mathematics | Mathematics & Statistics | — |
-| AIH-09959 | Spectral Radius | Mathematics | Mathematics & Statistics | — |
-| AIH-09961 | Spectral Theorem | Mathematics | Mathematics & Statistics | — |
+| AIH-09959 | Spectral Radius | Mathematics | Mathematics & Statistics | [1962](https://doi.org/10.21136/cmj.1962.100539) (source only) |
+| AIH-09961 | Spectral Theorem | Mathematics | Mathematics & Statistics | [1964](https://doi.org/10.1214/aoms/1177703773) (source only) |
 | AIH-09963 | Spline | Mathematics | Mathematics & Statistics | — |
-| AIH-09965 | Stability Selection | Mathematics | Mathematics & Statistics | — |
-| AIH-09967 | Stable Matching | Mathematics | Mathematics & Statistics | — |
-| AIH-09969 | Stable Rank | Mathematics | Mathematics & Statistics | — |
+| AIH-09965 | Stability Selection | Mathematics | Mathematics & Statistics | [2011](https://doi.org/10.32614/cran.package.s4vd) (source only) |
+| AIH-09967 | Stable Matching | Mathematics | Mathematics & Statistics | [2008](https://doi.org/10.1007/978-0-387-30162-4_396) (source only) |
+| AIH-09969 | Stable Rank | Mathematics | Mathematics & Statistics | [1981](https://doi.org/10.1007/bf00149352) (source only) |
 | AIH-06405 | Stan | Mathematics | Probabilistic Methods | — |
-| AIH-09971 | Standard Deviation (SD) | Mathematics | Mathematics & Statistics | — |
+| AIH-09971 | Standard Deviation (SD) | Mathematics | Mathematics & Statistics | [2009](https://doi.org/10.1007/978-3-211-89836-9_1318) (source only) |
 | AIH-06424 | Standard Normal Distribution | Mathematics | Probabilistic Methods | — |
-| AIH-09973 | Standardization | Mathematics | Mathematics & Statistics | — |
+| AIH-09973 | Standardization | Mathematics | Mathematics & Statistics | [1973](https://doi.org/10.1016/0092-1157(73)90013-9) (source only) |
 | AIH-06628 | Stateless Optimizer | Mathematics | Optimization | — |
 | AIH-06442 | Stationary Distribution | Mathematics | Probabilistic Methods | [1990](https://doi.org/10.21236/ada234421) (source only) |
 | AIH-09975 | Stationary Point | Mathematics | Mathematics & Statistics | — |
-| AIH-09977 | Statistical Power | Mathematics | Mathematics & Statistics | — |
+| AIH-09977 | Statistical Power | Mathematics | Mathematics & Statistics | [1977](https://doi.org/10.1016/c2013-0-10517-x) (source only) |
 | AIH-06644 | Steepest Descent | Mathematics | Optimization | [1964](https://doi.org/10.2514/6.1964-662) (source only) |
 | AIH-06660 | Step Decay | Mathematics | Optimization | — |
 | AIH-06676 | Step Size | Mathematics | Optimization | [1977](https://doi.org/10.2172/5294527) (source only) |
@@ -111,76 +111,76 @@
 | AIH-06692 | Stochastic Optimization | Mathematics | Optimization | [1985](https://doi.org/10.1515/9783112780312-003) (source only) |
 | AIH-06708 | Stochastic Programming | Mathematics | Optimization | — |
 | AIH-06513 | Stochastic Variational Inference (SVI) | Mathematics | Probabilistic Methods | [2013](https://jmlr.org/papers/v14/hoffman13a.html) (source only) |
-| AIH-09987 | Stokes' Theorem | Mathematics | Mathematics & Statistics | — |
+| AIH-09987 | Stokes' Theorem | Mathematics | Mathematics & Statistics | [1950](https://doi.org/10.1215/kjm/1250777991) (source only) |
 | AIH-06724 | Stopping Tolerance | Mathematics | Optimization | — |
-| AIH-09989 | Straight-Through Estimator | Mathematics | Mathematics & Statistics | — |
-| AIH-09991 | Strassen Algorithm | Mathematics | Mathematics & Statistics | — |
+| AIH-09989 | Straight-Through Estimator | Mathematics | Mathematics & Statistics | [2019](https://doi.org/10.24963/ijcai.2019/425) (source only) |
+| AIH-09991 | Strassen Algorithm | Mathematics | Mathematics & Statistics | [2007](https://doi.org/10.1109/icics.2007.4449780) (source only) |
 | AIH-09993 | Stratification in Sampling | Mathematics | Mathematics & Statistics | — |
-| AIH-09995 | Stratified Randomization | Mathematics | Mathematics & Statistics | — |
+| AIH-09995 | Stratified Randomization | Mathematics | Mathematics & Statistics | [1978](https://doi.org/10.1016/0021-9681(78)90008-5) (source only) |
 | AIH-06530 | Stratified Sampling | Mathematics | Probabilistic Methods | [1934](https://doi.org/10.2307/2342192) (source only) |
-| AIH-09997 | Streaming Algorithm | Mathematics | Mathematics & Statistics | — |
+| AIH-09997 | Streaming Algorithm | Mathematics | Mathematics & Statistics | [2008](https://doi.org/10.5220/0001531101900196) (source only) |
 | AIH-09999 | Strict Convexity | Mathematics | Mathematics & Statistics | — |
 | AIH-10001 | Strided Array | Mathematics | Mathematics & Statistics | — |
 | AIH-10003 | Strong Convexity | Mathematics | Mathematics & Statistics | — |
 | AIH-06740 | Strong Duality | Mathematics | Optimization | [1974](https://doi.org/10.1016/0370-2693(74)90525-5) (source only) |
-| AIH-10005 | Strongly Connected Component | Mathematics | Mathematics & Statistics | — |
+| AIH-10005 | Strongly Connected Component | Mathematics | Mathematics & Statistics | [2000](https://doi.org/10.1007/3-540-40922-x_4) (source only) |
 | AIH-10007 | Structured Sparsity | Mathematics | Mathematics & Statistics | — |
 | AIH-06547 | Student's t Distribution | Mathematics | Probabilistic Methods | [1954](https://doi.org/10.1093/biomet/41.1-2.153) (source only) |
-| AIH-10009 | Subdifferential | Mathematics | Mathematics & Statistics | — |
+| AIH-10009 | Subdifferential | Mathematics | Mathematics & Statistics | [1972](https://doi.org/10.7146/math.scand.a-11428) (source only) |
 | AIH-10011 | Subgradient | Mathematics | Mathematics & Statistics | — |
-| AIH-10013 | Subgraph Isomorphism | Mathematics | Mathematics & Statistics | — |
-| AIH-10015 | Sublevel Set | Mathematics | Mathematics & Statistics | — |
+| AIH-10013 | Subgraph Isomorphism | Mathematics | Mathematics & Statistics | [1976](https://doi.org/10.1145/321921.321925) (source only) |
+| AIH-10015 | Sublevel Set | Mathematics | Mathematics & Statistics | [1999](https://doi.org/10.1090/s0894-0347-99-00309-4) (source only) |
 | AIH-06756 | Sublinear Regret | Mathematics | Optimization | [2019](https://doi.org/10.1109/cdc40024.2019.9030193) (source only) |
-| AIH-10017 | Subsampling | Mathematics | Mathematics & Statistics | — |
+| AIH-10017 | Subsampling | Mathematics | Mathematics & Statistics | [1984](https://doi.org/10.1093/forestscience/30.3.673) (source only) |
 | AIH-10019 | Subset | Mathematics | Mathematics & Statistics | — |
 | AIH-10021 | Subspace | Mathematics | Mathematics & Statistics | — |
-| AIH-10023 | Subspace Iteration | Mathematics | Mathematics & Statistics | — |
+| AIH-10023 | Subspace Iteration | Mathematics | Mathematics & Statistics | [1981](https://doi.org/10.1016/0010-4485(81)90098-1) (source only) |
 | AIH-06772 | Successive Halving | Mathematics | Optimization | — |
 | AIH-06564 | Sufficient Statistic | Mathematics | Probabilistic Methods | [1936](https://doi.org/10.1090/s0002-9947-1936-1501854-3) (source only) |
-| AIH-10025 | Suffix Array | Mathematics | Mathematics & Statistics | — |
+| AIH-10025 | Suffix Array | Mathematics | Mathematics & Statistics | [1995](https://doi.org/10.1007/3-540-60044-2_43) (source only) |
 | AIH-10027 | Supporting Hyperplane | Mathematics | Mathematics & Statistics | — |
 | AIH-10029 | Supremum | Mathematics | Mathematics & Statistics | — |
-| AIH-10031 | Surface Integral | Mathematics | Mathematics & Statistics | — |
+| AIH-10031 | Surface Integral | Mathematics | Mathematics & Statistics | [1956](https://doi.org/10.21136/cmj.1956.100219) (source only) |
 | AIH-10033 | Surjective Function | Mathematics | Mathematics & Statistics | — |
 | AIH-10035 | Surrogate Model Fidelity | Mathematics | Mathematics & Statistics | — |
 | AIH-06788 | Surrogate Objective | Mathematics | Optimization | — |
-| AIH-10037 | Survey Weighting | Mathematics | Mathematics & Statistics | — |
+| AIH-10037 | Survey Weighting | Mathematics | Mathematics & Statistics | [2017](https://doi.org/10.4135/9781473997691) (source only) |
 | AIH-10039 | Survival Analysis | Mathematics | Mathematics & Statistics | — |
-| AIH-10041 | Survivorship Bias | Mathematics | Mathematics & Statistics | — |
+| AIH-10041 | Survivorship Bias | Mathematics | Mathematics & Statistics | [1993](https://doi.org/10.3905/jpm.1993.409445) (source only) |
 | AIH-10043 | SUTVA | Mathematics | Mathematics & Statistics | — |
 | AIH-06804 | SVRG | Mathematics | Optimization | [2022](https://doi.org/10.1109/tkde.2021.3070539) (source only) |
 | AIH-10045 | Switchback Experiment | Mathematics | Mathematics & Statistics | — |
-| AIH-10047 | Sylvester's Law of Inertia | Mathematics | Mathematics & Statistics | — |
-| AIH-10049 | Symmetric Matrix | Mathematics | Mathematics & Statistics | — |
-| AIH-10051 | Symmetrization | Mathematics | Mathematics & Statistics | — |
+| AIH-10047 | Sylvester's Law of Inertia | Mathematics | Mathematics & Statistics | [1983](https://doi.org/10.1007/978-3-0348-9355-8_24) (source only) |
+| AIH-10049 | Symmetric Matrix | Mathematics | Mathematics & Statistics | [1954](https://doi.org/10.2172/4412175) (source only) |
+| AIH-10051 | Symmetrization | Mathematics | Mathematics & Statistics | [1951](https://doi.org/10.1515/9781400882663-011) (source only) |
 | AIH-06820 | Symmetry Breaking in Optimization | Mathematics | Optimization | — |
-| AIH-10053 | Symmetry Constraint | Mathematics | Mathematics & Statistics | — |
+| AIH-10053 | Symmetry Constraint | Mathematics | Mathematics & Statistics | [1972](https://doi.org/10.1007/bf02757237) (source only) |
 | AIH-10055 | Symmetry Group | Mathematics | Mathematics & Statistics | — |
-| AIH-10057 | Symplectic Integrator | Mathematics | Mathematics & Statistics | — |
-| AIH-10059 | Systematic Error | Mathematics | Mathematics & Statistics | — |
+| AIH-10057 | Symplectic Integrator | Mathematics | Mathematics & Statistics | [1992](https://doi.org/10.1016/0167-2789(92)90247-k) (source only) |
+| AIH-10059 | Systematic Error | Mathematics | Mathematics & Statistics | [1953](https://doi.org/10.1016/s0031--866(3()53)80012--8) (source only) |
 | AIH-10061 | Systematic Resampling | Mathematics | Mathematics & Statistics | — |
-| AIH-10063 | Systematic Sampling | Mathematics | Mathematics & Statistics | — |
+| AIH-10063 | Systematic Sampling | Mathematics | Mathematics & Statistics | [1953](https://doi.org/10.1214/aoms/1177729087) (source only) |
 | AIH-10065 | T-Test | Mathematics | Mathematics & Statistics | — |
-| AIH-10067 | Tabu Search | Mathematics | Mathematics & Statistics | — |
+| AIH-10067 | Tabu Search | Mathematics | Mathematics & Statistics | [1997](https://doi.org/10.1007/978-1-4615-6089-0) (source only) |
 | AIH-06581 | Tail Dependence | Mathematics | Probabilistic Methods | [2001](https://doi.org/10.2139/ssrn.281210) (source only) |
-| AIH-10069 | Tangent Space | Mathematics | Mathematics & Statistics | — |
-| AIH-10071 | Taylor Expansion | Mathematics | Mathematics & Statistics | — |
-| AIH-10073 | Taylor Series | Mathematics | Mathematics & Statistics | — |
+| AIH-10069 | Tangent Space | Mathematics | Mathematics & Statistics | [1983](https://doi.org/10.4064/ap-40-3-207-212) (source only) |
+| AIH-10071 | Taylor Expansion | Mathematics | Mathematics & Statistics | [1967](https://doi.org/10.4095/8609) (source only) |
+| AIH-10073 | Taylor Series | Mathematics | Mathematics & Statistics | [1972](https://doi.org/10.2307/2978114) (source only) |
 | AIH-06597 | Tempered Distribution | Mathematics | Probabilistic Methods | [2015](https://doi.org/10.1134/s0037446615050122) (source only) |
 | AIH-10075 | Tensor Contraction | Mathematics | Mathematics & Statistics | — |
-| AIH-10077 | Tensor Network | Mathematics | Mathematics & Statistics | — |
-| AIH-10079 | Tensor Product Space | Mathematics | Mathematics & Statistics | — |
-| AIH-10081 | Tensor Rank | Mathematics | Mathematics & Statistics | — |
+| AIH-10077 | Tensor Network | Mathematics | Mathematics & Statistics | [2010](https://doi.org/10.4016/19568.01) (source only) |
+| AIH-10079 | Tensor Product Space | Mathematics | Mathematics & Statistics | [1988](https://doi.org/10.1007/bf00670682) (source only) |
+| AIH-10081 | Tensor Rank | Mathematics | Mathematics & Statistics | [2013](https://doi.org/10.4171/pm/1933) (source only) |
 | AIH-10083 | Tensor Train (TT) | Mathematics | Mathematics & Statistics | — |
 | AIH-06836 | Thompson Sampling (TS) | Mathematics | Optimization | — |
 | AIH-10085 | Time Complexity | Mathematics | Mathematics & Statistics | — |
 | AIH-06851 | Time-Limited Optimization | Mathematics | Optimization | — |
-| AIH-10087 | Tobit Model | Mathematics | Mathematics & Statistics | — |
-| AIH-10089 | Toeplitz Matrix | Mathematics | Mathematics & Statistics | — |
-| AIH-10091 | Topological Sort | Mathematics | Mathematics & Statistics | — |
+| AIH-10087 | Tobit Model | Mathematics | Mathematics & Statistics | [1982](https://doi.org/10.1016/0165-1765(82)90064-7) (source only) |
+| AIH-10089 | Toeplitz Matrix | Mathematics | Mathematics & Statistics | [1970](https://doi.org/10.2307/1267360) (source only) |
+| AIH-10091 | Topological Sort | Mathematics | Mathematics & Statistics | [1991](https://doi.org/10.1016/0097-8493(91)90009-7) (source only) |
 | AIH-10093 | Total Derivative | Mathematics | Mathematics & Statistics | — |
 | AIH-10095 | Total Least Squares (TLS) | Mathematics | Mathematics & Statistics | — |
-| AIH-10097 | Total Order | Mathematics | Mathematics & Statistics | — |
+| AIH-10097 | Total Order | Mathematics | Mathematics & Statistics | [1993](https://doi.org/10.1007/978-1-4471-3217-2_14) (source only) |
 | AIH-06613 | Tower Property | Mathematics | Probabilistic Methods | [1992](https://openalex.org/W759643011) (source only) |
 | AIH-10099 | Trace | Mathematics | Mathematics & Statistics | — |
 | AIH-06629 | Transition Kernel | Mathematics | Probabilistic Methods | [2014](https://doi.org/10.1051/ps/2013054) (source only) |
@@ -451,12 +451,12 @@
 | AIH-08490 | Word Order Typology | NLP and LLMs | Natural Language Processing | [1983](https://doi.org/10.1075/cilt.25.04wor) (source only) |
 | AIH-08495 | Word Segmentation | NLP and LLMs | Natural Language Processing | — |
 | AIH-08500 | Word Sense Disambiguation (WSD) | NLP and LLMs | Natural Language Processing | [2016](https://doi.org/10.21090/ijaerd.031240) (source only) |
-| AIH-08505 | Word Similarity Benchmark | NLP and LLMs | Natural Language Processing | — |
+| AIH-08505 | Word Similarity Benchmark | NLP and LLMs | Natural Language Processing | [2025](https://doi.org/10.4114/intartif.vol28iss76pp283-300) (source only) |
 | AIH-08510 | WordNet | NLP and LLMs | Natural Language Processing | — |
-| AIH-08515 | WordPiece | NLP and LLMs | Natural Language Processing | — |
+| AIH-08515 | WordPiece | NLP and LLMs | Natural Language Processing | [2019](https://doi.org/10.1109/coase.2019.8843151) (source only) |
 | AIH-08520 | Writing Assistance Metric | NLP and LLMs | Natural Language Processing | — |
-| AIH-08525 | Zero-Shot Cross-Lingual Transfer | NLP and LLMs | Natural Language Processing | — |
-| AIH-08530 | Zero-Shot Extraction | NLP and LLMs | Natural Language Processing | — |
+| AIH-08525 | Zero-Shot Cross-Lingual Transfer | NLP and LLMs | Natural Language Processing | [2018](https://doi.org/10.18653/v1/d18-1026) (source only) |
+| AIH-08530 | Zero-Shot Extraction | NLP and LLMs | Natural Language Processing | [2024](https://doi.org/10.1109/jstars.2024.3392448) (source only) |
 | AIH-05126 | Staged Disclosure | People & Organizations | People & Organizations | — |
 | AIH-05158 | Stakeholder Mapping | People & Organizations | People & Organizations | [2009](https://doi.org/10.3384/cu.2000.1525.09119305) (source only) |
 | AIH-05189 | Stanford HAI | People & Organizations | People & Organizations | — |

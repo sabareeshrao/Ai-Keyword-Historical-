@@ -6,18 +6,18 @@
 
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
-| AIH-09742 | Retrieval Prompt | AI Foundations | Fundamentals | — |
-| AIH-09744 | Reversibility of a Decision | AI Foundations | Fundamentals | — |
+| AIH-09742 | Retrieval Prompt | AI Foundations | Fundamentals | [2026](https://doi.org/10.1109/access.2026.3664300) (source only) |
+| AIH-09744 | Reversibility of a Decision | AI Foundations | Fundamentals | [1984](https://doi.org/10.1002/ejsp.2420140410) (source only) |
 | AIH-09746 | Review Quality Assurance | AI Foundations | Fundamentals | — |
 | AIH-09748 | Reviewer Agreement with Model | AI Foundations | Fundamentals | — |
 | AIH-09750 | Reward Model (RM) | AI Foundations | Fundamentals | — |
-| AIH-09752 | Reward Shaping | AI Foundations | Fundamentals | — |
+| AIH-09752 | Reward Shaping | AI Foundations | Fundamentals | [2008](https://doi.org/10.1109/is.2008.4670492) (source only) |
 | AIH-09754 | Rigid Body Dynamics | AI Foundations | Fundamentals | — |
-| AIH-09756 | Risk Register | AI Foundations | Fundamentals | — |
+| AIH-09756 | Risk Register | AI Foundations | Fundamentals | [1962](https://doi.org/10.1016/s0140-6736(62)91939-6) (source only) |
 | AIH-09758 | Risk Stratification | AI Foundations | Fundamentals | — |
 | AIH-09760 | Robotics | AI Foundations | Fundamentals | — |
-| AIH-09762 | Robust Alignment | AI Foundations | Fundamentals | — |
-| AIH-09764 | Robust Control | AI Foundations | Fundamentals | — |
+| AIH-09762 | Robust Alignment | AI Foundations | Fundamentals | [2006](https://doi.org/10.1109/icpr.2006.1000) (source only) |
+| AIH-09764 | Robust Control | AI Foundations | Fundamentals | [1999](https://doi.org/10.1002/(sici)1099-1239(19990415)9:4<239::aid-rnc405>3.0.co;2-v) (source only) |
 | AIH-09766 | ROC Curve | AI Foundations | Fundamentals | — |
 | AIH-09768 | Role Prompting | AI Foundations | Fundamentals | — |
 | AIH-09770 | Rollback Readiness | AI Foundations | Fundamentals | — |
@@ -25,58 +25,58 @@
 | AIH-05420 | Rough Set Theory | AI Foundations | Symbolic AI & Reasoning | [1994](https://doi.org/10.1007/978-1-4471-3238-7_31) (source only) |
 | AIH-05451 | Rule Engine | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-09774 | Rules versus Standards | AI Foundations | Fundamentals | — |
-| AIH-09776 | Run-to-completion scheduling | AI Foundations | Fundamentals | — |
+| AIH-09776 | Run-to-completion scheduling | AI Foundations | Fundamentals | [2023](https://doi.org/10.1007/978-3-031-47963-2_12) (source only) |
 | AIH-09778 | Runbook Coverage | AI Foundations | Fundamentals | — |
-| AIH-09780 | Runway | AI Foundations | Fundamentals | — |
+| AIH-09780 | Runway | AI Foundations | Fundamentals | [2020](https://doi.org/10.2514/6.2020-1402) (source only) |
 | AIH-09782 | Saddle Plateau | AI Foundations | Fundamentals | — |
-| AIH-09784 | Saddle Point | AI Foundations | Fundamentals | — |
+| AIH-09784 | Saddle Point | AI Foundations | Fundamentals | [1952](https://doi.org/10.7249/p264) (source only) |
 | AIH-09786 | Safety by Design | AI Foundations | Fundamentals | — |
-| AIH-09788 | Safety Envelope | AI Foundations | Fundamentals | — |
+| AIH-09788 | Safety Envelope | AI Foundations | Fundamentals | [1992](https://doi.org/10.1109/hfpp.1992.283362) (source only) |
 | AIH-09790 | Safety Filter | AI Foundations | Fundamentals | — |
 | AIH-09792 | Safety Margin | AI Foundations | Fundamentals | — |
 | AIH-05482 | Safety Property | AI Foundations | Symbolic AI & Reasoning | [2007](https://doi.org/10.1109/fmcad.2007.4401992) (source only) |
 | AIH-09794 | Safety-Critical System | AI Foundations | Fundamentals | — |
 | AIH-09796 | Sampling | AI Foundations | Fundamentals | — |
-| AIH-09798 | Scalable Oversight | AI Foundations | Fundamentals | — |
+| AIH-09798 | Scalable Oversight | AI Foundations | Fundamentals | [2024](https://doi.org/10.52202/079017-2395) (source only) |
 | AIH-09800 | Scalar (mathematics) | AI Foundations | Fundamentals | — |
 | AIH-05513 | Schema Matching | AI Foundations | Symbolic AI & Reasoning | [1998](https://openalex.org/W2142104809) (source only) |
-| AIH-09802 | Scientific ML | AI Foundations | Fundamentals | — |
-| AIH-09804 | Scope Creep | AI Foundations | Fundamentals | — |
-| AIH-09806 | Scope Statement | AI Foundations | Fundamentals | — |
+| AIH-09802 | Scientific ML | AI Foundations | Fundamentals | [2019](https://doi.org/10.15200/winn.156631.13064) (source only) |
+| AIH-09804 | Scope Creep | AI Foundations | Fundamentals | [2007](https://doi.org/10.1097/01.cnq.0000278922.21821.52) (source only) |
+| AIH-09806 | Scope Statement | AI Foundations | Fundamentals | [1991](https://doi.org/10.1016/0738-3991(91)90013-u) (source only) |
 | AIH-09808 | Score-Based Model | AI Foundations | Fundamentals | — |
 | AIH-09810 | Scratchpad | AI Foundations | Fundamentals | — |
 | AIH-05543 | Script in AI | AI Foundations | Symbolic AI & Reasoning | [2024](https://doi.org/10.33153/capture.v15i1.5621) ★ (estimated) |
 | AIH-05573 | Search Heuristic for CSP | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-05603 | Search Tree | AI Foundations | Symbolic AI & Reasoning | [1998](https://doi.org/10.1145/275295.275354) (source only) |
-| AIH-09812 | Second-Order Methods | AI Foundations | Fundamentals | — |
-| AIH-09814 | Secure Inference | AI Foundations | Fundamentals | — |
+| AIH-09812 | Second-Order Methods | AI Foundations | Fundamentals | [1982](https://doi.org/10.21236/ada122197) (source only) |
+| AIH-09814 | Secure Inference | AI Foundations | Fundamentals | [2026](https://doi.org/10.7249/rra4827-1) (source only) |
 | AIH-09816 | Security by Default | AI Foundations | Fundamentals | — |
 | AIH-09818 | Self-Attention | AI Foundations | Fundamentals | — |
-| AIH-09820 | Self-Consistency | AI Foundations | Fundamentals | — |
+| AIH-09820 | Self-Consistency | AI Foundations | Fundamentals | [1959](https://doi.org/10.2466/pr0.5..503-503) (source only) |
 | AIH-09822 | Self-management (computer science) | AI Foundations | Fundamentals | — |
-| AIH-09824 | Self-Model | AI Foundations | Fundamentals | — |
-| AIH-09826 | Self-Reflection | AI Foundations | Fundamentals | — |
+| AIH-09824 | Self-Model | AI Foundations | Fundamentals | [2021](https://doi.org/10.3389/fpsyg.2021.652465) (source only) |
+| AIH-09826 | Self-Reflection | AI Foundations | Fundamentals | [1999](https://doi.org/10.1037/002004) (source only) |
 | AIH-05633 | Semantic Loss | AI Foundations | Symbolic AI & Reasoning | [1995](https://doi.org/10.1080/13554799508402380) (source only) |
 | AIH-05662 | Semantic Network | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-09828 | Semi-Supervised Learning | AI Foundations | Fundamentals | — |
+| AIH-09828 | Semi-Supervised Learning | AI Foundations | Fundamentals | [2006](https://doi.org/10.7551/mitpress/6173.003.0003) (source only) |
 | AIH-09830 | Sensitivity | AI Foundations | Fundamentals | — |
 | AIH-09832 | Sensor | AI Foundations | Fundamentals | — |
-| AIH-09834 | Sensorimotor Loop | AI Foundations | Fundamentals | — |
+| AIH-09834 | Sensorimotor Loop | AI Foundations | Fundamentals | [2005](https://doi.org/10.1016/j.neuron.2005.01.022) (source only) |
 | AIH-09836 | Sentencing Algorithm | AI Foundations | Fundamentals | — |
-| AIH-09838 | Sequence labeling | AI Foundations | Fundamentals | — |
+| AIH-09838 | Sequence labeling | AI Foundations | Fundamentals | [2007](https://doi.org/10.1145/1273496.1273582) (source only) |
 | AIH-09840 | Service Design | AI Foundations | Fundamentals | — |
-| AIH-09842 | Shadow AI | AI Foundations | Fundamentals | — |
+| AIH-09842 | Shadow AI | AI Foundations | Fundamentals | [2024](https://doi.org/10.1093/itnow/bwae054) (source only) |
 | AIH-09844 | Shadow Deployment | AI Foundations | Fundamentals | — |
 | AIH-09846 | SHAP | AI Foundations | Fundamentals | — |
-| AIH-09848 | Shared Autonomy | AI Foundations | Fundamentals | — |
-| AIH-09850 | Sharp Minimum | AI Foundations | Fundamentals | — |
-| AIH-09852 | Shutdown Problem | AI Foundations | Fundamentals | — |
+| AIH-09848 | Shared Autonomy | AI Foundations | Fundamentals | [1984](https://doi.org/10.1007/bf00489479) (source only) |
+| AIH-09850 | Sharp Minimum | AI Foundations | Fundamentals | [1999](https://doi.org/10.1006/jmaa.1999.6291) (source only) |
+| AIH-09852 | Shutdown Problem | AI Foundations | Fundamentals | [1965](https://doi.org/10.13182/nse65-a20634) (source only) |
 | AIH-09854 | Sieve of Pritchard | AI Foundations | Fundamentals | — |
-| AIH-09856 | Sim-to-Real Gap | AI Foundations | Fundamentals | — |
-| AIH-09858 | Simplicity theory | AI Foundations | Fundamentals | — |
-| AIH-09860 | Simpson’s Paradox | AI Foundations | Fundamentals | — |
+| AIH-09856 | Sim-to-Real Gap | AI Foundations | Fundamentals | [2019](https://doi.org/10.3389/fnbot.2019.00009) (source only) |
+| AIH-09858 | Simplicity theory | AI Foundations | Fundamentals | [2009](https://doi.org/10.1142/9789814293020_0009) (source only) |
+| AIH-09860 | Simpson’s Paradox | AI Foundations | Fundamentals | [1991](https://doi.org/10.1163/18756735-90000492) (source only) |
 | AIH-09862 | Singular Value Decomposition (SVD) | AI Foundations | Fundamentals | — |
-| AIH-09864 | Singularity | AI Foundations | Fundamentals | — |
+| AIH-09864 | Singularity | AI Foundations | Fundamentals | [1977](https://doi.org/10.2307/jj.32416475.11) (source only) |
 | AIH-09866 | Situated | AI Foundations | Fundamentals | — |
 | AIH-09868 | Situated approach (artificial intelligence) | AI Foundations | Fundamentals | — |
 | AIH-05691 | Situation Calculus | AI Foundations | Symbolic AI & Reasoning | — |
@@ -84,139 +84,139 @@
 | AIH-09870 | Skill Erosion | AI Foundations | Fundamentals | — |
 | AIH-09872 | SLAM | AI Foundations | Fundamentals | — |
 | AIH-05747 | Slot and Filler | AI Foundations | Symbolic AI & Reasoning | [1988](https://doi.org/10.3115/991635.991684) (source only) |
-| AIH-09874 | Smart object | AI Foundations | Fundamentals | — |
+| AIH-09874 | Smart object | AI Foundations | Fundamentals | [2003](https://doi.org/10.5381/jot.2003.2.6.a3) (source only) |
 | AIH-05775 | SOAR | AI Foundations | Symbolic AI & Reasoning | [2005](https://doi.org/10.1016/j.cogsys.2004.09.006) (source only) |
-| AIH-09876 | Social neuroscience | AI Foundations | Fundamentals | — |
-| AIH-09878 | Soft Robotics | AI Foundations | Fundamentals | — |
-| AIH-09880 | Softmax | AI Foundations | Fundamentals | — |
-| AIH-09882 | Software agent | AI Foundations | Fundamentals | — |
+| AIH-09876 | Social neuroscience | AI Foundations | Fundamentals | [2002](https://doi.org/10.7551/mitpress/3077.003.0002) (source only) |
+| AIH-09878 | Soft Robotics | AI Foundations | Fundamentals | [2013](https://doi.org/10.1089/soro.2013.0003) (source only) |
+| AIH-09880 | Softmax | AI Foundations | Fundamentals | [2015](https://doi.org/10.21437/interspeech.2015-652) (source only) |
+| AIH-09882 | Software agent | AI Foundations | Fundamentals | [2004](https://doi.org/10.1049/ic:20040359) (source only) |
 | AIH-05803 | Soundness | AI Foundations | Symbolic AI & Reasoning | [1887](https://doi.org/10.5962/bhl.title.28934) (source only) |
-| AIH-09884 | Sovereign AI | AI Foundations | Fundamentals | — |
+| AIH-09884 | Sovereign AI | AI Foundations | Fundamentals | [2025](https://doi.org/10.2139/ssrn.5639470) (source only) |
 | AIH-05830 | SPARQL | AI Foundations | Symbolic AI & Reasoning | [2018](https://doi.org/10.5220/0006925300570067) (source only) |
-| AIH-09886 | Sparse Attention | AI Foundations | Fundamentals | — |
-| AIH-09888 | Sparse Reward | AI Foundations | Fundamentals | — |
-| AIH-09890 | Speaker Diarization | AI Foundations | Fundamentals | — |
-| AIH-09892 | Specification Gaming | AI Foundations | Fundamentals | — |
+| AIH-09886 | Sparse Attention | AI Foundations | Fundamentals | [2020](https://doi.org/10.3390/s20236758) (source only) |
+| AIH-09888 | Sparse Reward | AI Foundations | Fundamentals | [2018](https://doi.org/10.1109/robio.2018.8665328) (source only) |
+| AIH-09890 | Speaker Diarization | AI Foundations | Fundamentals | [2005](https://doi.org/10.21437/interspeech.2005-651) (source only) |
+| AIH-09892 | Specification Gaming | AI Foundations | Fundamentals | [2026](https://doi.org/10.36074/grail-of-science.18.09.2026.032) (source only) |
 | AIH-09894 | Specificity | AI Foundations | Fundamentals | — |
-| AIH-09896 | Spectral theory | AI Foundations | Fundamentals | — |
-| AIH-09898 | Spreading activation | AI Foundations | Fundamentals | — |
+| AIH-09896 | Spectral theory | AI Foundations | Fundamentals | [1965](https://doi.org/10.1515/9781400875528-005) (source only) |
+| AIH-09898 | Spreading activation | AI Foundations | Fundamentals | [1988](https://doi.org/10.1016/b978-1-4832-1446-7.50016-9) (source only) |
 | AIH-09900 | Spurious Correlation | AI Foundations | Fundamentals | — |
 | AIH-09902 | Stability | AI Foundations | Fundamentals | — |
 | AIH-09904 | Stakeholder Sign-Off | AI Foundations | Fundamentals | — |
-| AIH-09906 | Standards Compliance | AI Foundations | Fundamentals | — |
+| AIH-09906 | Standards Compliance | AI Foundations | Fundamentals | [2008](https://doi.org/10.1016/b978-1-59749-266-9.x0001-x) (source only) |
 | AIH-09908 | State Estimation | AI Foundations | Fundamentals | — |
-| AIH-09910 | State Space | AI Foundations | Fundamentals | — |
-| AIH-09912 | State Space Model (SSM) | AI Foundations | Fundamentals | — |
+| AIH-09910 | State Space | AI Foundations | Fundamentals | [1987](https://doi.org/10.1007/978-3-642-96985-0_5) (source only) |
+| AIH-09912 | State Space Model (SSM) | AI Foundations | Fundamentals | [2015](https://doi.org/10.3390/rs71215872) (source only) |
 | AIH-05856 | State Space Search | AI Foundations | Symbolic AI & Reasoning | [1988](https://doi.org/10.1016/b978-0-12-266720-6.50018-8) (source only) |
 | AIH-09914 | Stochastic Gradient Descent (SGD) | AI Foundations | Fundamentals | — |
 | AIH-09916 | Stochastic Parrot | AI Foundations | Fundamentals | — |
 | AIH-09918 | Strategic Interaction | AI Foundations | Fundamentals | — |
 | AIH-05882 | STRIPS | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-09920 | Structural Causal Model (SCM) | AI Foundations | Fundamentals | — |
+| AIH-09920 | Structural Causal Model (SCM) | AI Foundations | Fundamentals | [2023](https://doi.org/10.17508/cjfst.2023.15.2.05) (source only) |
 | AIH-05908 | Structure Mapping Theory | AI Foundations | Symbolic AI & Reasoning | [1986](https://doi.org/10.21236/ada177300) (source only) |
-| AIH-09922 | Structured Output | AI Foundations | Fundamentals | — |
-| AIH-09924 | Substantive Fairness | AI Foundations | Fundamentals | — |
+| AIH-09922 | Structured Output | AI Foundations | Fundamentals | [1988](https://doi.org/10.3115/991719.991741) (source only) |
+| AIH-09924 | Substantive Fairness | AI Foundations | Fundamentals | [1992](https://doi.org/10.1093/acprof:oso/9780198254355.003.0004) (source only) |
 | AIH-05934 | Subsumption Reasoning | AI Foundations | Symbolic AI & Reasoning | [2011](https://doi.org/10.1145/2072221.2072237) (source only) |
-| AIH-09926 | Successor Model | AI Foundations | Fundamentals | — |
+| AIH-09926 | Successor Model | AI Foundations | Fundamentals | [2019](https://doi.org/10.4324/9781315227306-3) (source only) |
 | AIH-09928 | Sunsetting a System | AI Foundations | Fundamentals | — |
-| AIH-09930 | Supply Chain Attack | AI Foundations | Fundamentals | — |
-| AIH-09932 | Support Model | AI Foundations | Fundamentals | — |
+| AIH-09930 | Supply Chain Attack | AI Foundations | Fundamentals | [2013](https://doi.org/10.21236/ada610495) (source only) |
+| AIH-09932 | Support Model | AI Foundations | Fundamentals | [2012](https://doi.org/10.18820/9780992180614/04) (source only) |
 | AIH-09934 | SUPS | AI Foundations | Fundamentals | — |
-| AIH-09936 | Surrogate Model | AI Foundations | Fundamentals | — |
+| AIH-09936 | Surrogate Model | AI Foundations | Fundamentals | [2005](https://doi.org/10.2172/882352) (source only) |
 | AIH-09938 | Sustainable by Design | AI Foundations | Fundamentals | — |
-| AIH-09940 | Swarm Dynamics | AI Foundations | Fundamentals | — |
-| AIH-09942 | Swarm Intelligence | AI Foundations | Fundamentals | — |
+| AIH-09940 | Swarm Dynamics | AI Foundations | Fundamentals | [2003](https://doi.org/10.1007/978-3-0348-8043-5_17) (source only) |
+| AIH-09942 | Swarm Intelligence | AI Foundations | Fundamentals | [2001](https://doi.org/10.1016/b978-1-55860-595-4.x5000-1) (source only) |
 | AIH-09944 | Syman | AI Foundations | Fundamentals | — |
 | AIH-05959 | Symbol Grounding Problem | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-09946 | Symbol level | AI Foundations | Fundamentals | — |
 | AIH-09948 | Symbolic AI | AI Foundations | Fundamentals | — |
-| AIH-09950 | Symbolic Regression | AI Foundations | Fundamentals | — |
+| AIH-09950 | Symbolic Regression | AI Foundations | Fundamentals | [2011](https://doi.org/10.1007/978-0-387-30164-8_807) (source only) |
 | AIH-05984 | Syntax-Guided Synthesis (SyGuS) | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-09952 | Synthetic Sensors | AI Foundations | Fundamentals | — |
-| AIH-09954 | System Dynamics | AI Foundations | Fundamentals | — |
+| AIH-09954 | System Dynamics | AI Foundations | Fundamentals | [1980](https://doi.org/10.1080/00423118008968631) (source only) |
 | AIH-09956 | System Identification | AI Foundations | Fundamentals | — |
-| AIH-09958 | System Prompt | AI Foundations | Fundamentals | — |
+| AIH-09958 | System Prompt | AI Foundations | Fundamentals | [2025](https://doi.org/10.52202/085713-1854) (source only) |
 | AIH-09960 | Systemic Error Detection | AI Foundations | Fundamentals | — |
-| AIH-09962 | Tacit Knowledge | AI Foundations | Fundamentals | — |
+| AIH-09962 | Tacit Knowledge | AI Foundations | Fundamentals | [1999](https://doi.org/10.4324/9781410603098-18) (source only) |
 | AIH-06009 | Tactic | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-09964 | Takeoff Speed | AI Foundations | Fundamentals | — |
-| AIH-09966 | Task Allocation Between Human and Machine | AI Foundations | Fundamentals | — |
+| AIH-09964 | Takeoff Speed | AI Foundations | Fundamentals | [1999](https://doi.org/10.1119/1.880334) (source only) |
+| AIH-09966 | Task Allocation Between Human and Machine | AI Foundations | Fundamentals | [2013](https://doi.org/10.3233/978-1-61499-293-6-103) (source only) |
 | AIH-09968 | Task Fit Assessment | AI Foundations | Fundamentals | — |
 | AIH-09970 | Task-Based Analysis | AI Foundations | Fundamentals | — |
 | AIH-06034 | Taxonomy | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-09972 | Teacher forcing | AI Foundations | Fundamentals | — |
 | AIH-09974 | Technical Feasibility | AI Foundations | Fundamentals | — |
-| AIH-09976 | Technology Readiness Level | AI Foundations | Fundamentals | — |
+| AIH-09976 | Technology Readiness Level | AI Foundations | Fundamentals | [2006](https://doi.org/10.1115/caneus2006-11075) (source only) |
 | AIH-09978 | Teleoperation | AI Foundations | Fundamentals | — |
 | AIH-09980 | Temperature | AI Foundations | Fundamentals | — |
-| AIH-09982 | Temporal Convolution | AI Foundations | Fundamentals | — |
+| AIH-09982 | Temporal Convolution | AI Foundations | Fundamentals | [2020](https://doi.org/10.21437/interspeech.2020-3177) (source only) |
 | AIH-06059 | Temporal Logic | AI Foundations | Symbolic AI & Reasoning | [1971](https://doi.org/10.1007/978-3-7091-7664-1_1) (source only) |
 | AIH-06084 | Temporal Reasoning | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-09984 | TensorFlow Hub | AI Foundations | Fundamentals | — |
-| AIH-09986 | Term of Art | AI Foundations | Fundamentals | — |
+| AIH-09984 | TensorFlow Hub | AI Foundations | Fundamentals | [2019](https://doi.org/10.32614/cran.package.tfhub) (source only) |
+| AIH-09986 | Term of Art | AI Foundations | Fundamentals | [2015](https://doi.org/10.2139/ssrn.2617811) (source only) |
 | AIH-09988 | Tesla Dojo | AI Foundations | Fundamentals | — |
-| AIH-09990 | Theil index | AI Foundations | Fundamentals | — |
+| AIH-09990 | Theil index | AI Foundations | Fundamentals | [1999](https://doi.org/10.2139/ssrn.148008) (source only) |
 | AIH-09992 | Thinkfree Office | AI Foundations | Fundamentals | — |
-| AIH-09994 | Throughput | AI Foundations | Fundamentals | — |
+| AIH-09994 | Throughput | AI Foundations | Fundamentals | [2000](https://doi.org/10.1201/9781420025514.ch14) (source only) |
 | AIH-09996 | Throughput Ceiling | AI Foundations | Fundamentals | — |
-| AIH-09998 | Time Series | AI Foundations | Fundamentals | — |
+| AIH-09998 | Time Series | AI Foundations | Fundamentals | [1983](https://doi.org/10.1111/j.1467-9892.1983.tb00368.x) (source only) |
 | AIH-10000 | Tool Invocation | AI Foundations | Fundamentals | — |
-| AIH-10002 | Tool Use | AI Foundations | Fundamentals | — |
+| AIH-10002 | Tool Use | AI Foundations | Fundamentals | [1987](https://doi.org/10.7560/775909) (source only) |
 | AIH-10004 | Tool-Augmented Prompt | AI Foundations | Fundamentals | — |
 | AIH-10006 | Top-k | AI Foundations | Fundamentals | — |
 | AIH-10008 | Top-p | AI Foundations | Fundamentals | — |
 | AIH-10010 | Total Cost of an AI System | AI Foundations | Fundamentals | — |
-| AIH-10012 | Toy problem | AI Foundations | Fundamentals | — |
+| AIH-10012 | Toy problem | AI Foundations | Fundamentals | [2003](https://doi.org/10.1163/156855303764018495) (source only) |
 | AIH-10014 | Train/Validation/Test Split | AI Foundations | Fundamentals | — |
 | AIH-10016 | Training | AI Foundations | Fundamentals | — |
-| AIH-10018 | Training Cost | AI Foundations | Fundamentals | — |
+| AIH-10018 | Training Cost | AI Foundations | Fundamentals | [1984](https://doi.org/10.2172/5243919) (source only) |
 | AIH-10020 | Training for Oversight | AI Foundations | Fundamentals | — |
-| AIH-10022 | Training Pipeline | AI Foundations | Fundamentals | — |
-| AIH-10024 | Trajectory Optimization | AI Foundations | Fundamentals | — |
+| AIH-10022 | Training Pipeline | AI Foundations | Fundamentals | [2010](https://doi.org/10.21236/ada530796) (source only) |
+| AIH-10024 | Trajectory Optimization | AI Foundations | Fundamentals | [1964](https://doi.org/10.1016/b978-1-4831-9812-5.50007-2) (source only) |
 | AIH-06109 | TransE | AI Foundations | Symbolic AI & Reasoning | [2024](https://doi.org/10.3390/electronics13163171) (source only) |
-| AIH-10026 | Transition Plan | AI Foundations | Fundamentals | — |
+| AIH-10026 | Transition Plan | AI Foundations | Fundamentals | [1980](https://doi.org/10.17487/rfc771) (source only) |
 | AIH-10028 | Transition Support | AI Foundations | Fundamentals | — |
 | AIH-10030 | Transparency Obligation | AI Foundations | Fundamentals | — |
 | AIH-10032 | Transpose of a linear map | AI Foundations | Fundamentals | — |
 | AIH-06134 | Transposition Table | AI Foundations | Symbolic AI & Reasoning | [1987](https://doi.org/10.3233/icg-1987-10202) (source only) |
-| AIH-10034 | Trend Component | AI Foundations | Fundamentals | — |
-| AIH-10036 | Triage System | AI Foundations | Fundamentals | — |
+| AIH-10034 | Trend Component | AI Foundations | Fundamentals | [1988](https://doi.org/10.1016/0304-4149(88)90098-1) (source only) |
+| AIH-10036 | Triage System | AI Foundations | Fundamentals | [1999](https://doi.org/10.1046/j.1440-1622.1999.01644.x) (source only) |
 | AIH-06159 | Triple | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-10038 | Tripwire | AI Foundations | Fundamentals | — |
 | AIH-10040 | Trough of Disillusionment | AI Foundations | Fundamentals | — |
-| AIH-10042 | Trust in Automation | AI Foundations | Fundamentals | — |
-| AIH-10044 | Trust Region | AI Foundations | Fundamentals | — |
+| AIH-10042 | Trust in Automation | AI Foundations | Fundamentals | [1994](https://doi.org/10.1080/00140139408964957) (source only) |
+| AIH-10044 | Trust Region | AI Foundations | Fundamentals | [1980](https://doi.org/10.2172/6836252) (source only) |
 | AIH-06184 | Truth Maintenance System (TMS) | AI Foundations | Symbolic AI & Reasoning | [1987](https://doi.org/10.1117/12.940637) (source only) |
-| AIH-10046 | Turing Test | AI Foundations | Fundamentals | — |
+| AIH-10046 | Turing Test | AI Foundations | Fundamentals | [1950](https://doi.org/10.1037/t78475-000) (source only) |
 | AIH-06207 | Type Inference | AI Foundations | Symbolic AI & Reasoning | [1990](https://doi.org/10.1007/978-1-4471-3166-3_17) (source only) |
 | AIH-06230 | Type System | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-10048 | Unauthorized Practice of Law | AI Foundations | Fundamentals | — |
+| AIH-10048 | Unauthorized Practice of Law | AI Foundations | Fundamentals | [1932](https://doi.org/10.2307/1067070) (source only) |
 | AIH-10050 | Uncertainty Disclosure | AI Foundations | Fundamentals | — |
 | AIH-10052 | Undeclared Consumer | AI Foundations | Fundamentals | — |
-| AIH-10054 | Understanding Debate | AI Foundations | Fundamentals | — |
+| AIH-10054 | Understanding Debate | AI Foundations | Fundamentals | [2025](https://doi.org/10.5040/9798881843113.ch-007) (source only) |
 | AIH-10056 | United States Tech Force | AI Foundations | Fundamentals | — |
 | AIH-10058 | Universal Approximation Theorem | AI Foundations | Fundamentals | — |
-| AIH-10060 | Universal Design | AI Foundations | Fundamentals | — |
-| AIH-10062 | Universal psychometrics | AI Foundations | Fundamentals | — |
-| AIH-10064 | Unknown Unknown | AI Foundations | Fundamentals | — |
-| AIH-10066 | Usability Testing | AI Foundations | Fundamentals | — |
+| AIH-10060 | Universal Design | AI Foundations | Fundamentals | [2007](https://doi.org/10.1201/9781420007664.sec4) (source only) |
+| AIH-10062 | Universal psychometrics | AI Foundations | Fundamentals | [2014](https://doi.org/10.1016/j.cogsys.2013.06.001) (source only) |
+| AIH-10064 | Unknown Unknown | AI Foundations | Fundamentals | [2014](https://doi.org/10.1126/scitranslmed.3008434) (source only) |
+| AIH-10066 | Usability Testing | AI Foundations | Fundamentals | [1993](https://doi.org/10.1016/b978-0-08-052029-2.50009-7) (source only) |
 | AIH-10068 | Use Case Approval | AI Foundations | Fundamentals | — |
 | AIH-10070 | Use Case Prioritization | AI Foundations | Fundamentals | — |
-| AIH-10072 | Use-Case Classification | AI Foundations | Fundamentals | — |
-| AIH-10074 | User Experience | AI Foundations | Fundamentals | — |
+| AIH-10072 | Use-Case Classification | AI Foundations | Fundamentals | [2026](https://doi.org/10.1016/j.procir.2026.03.178) (source only) |
+| AIH-10074 | User Experience | AI Foundations | Fundamentals | [2003](https://doi.org/10.1016/b978-155860923-5/50031-0) (source only) |
 | AIH-10076 | Value at Risk (VaR) | AI Foundations | Fundamentals | — |
 | AIH-10078 | Value Function | AI Foundations | Fundamentals | — |
-| AIH-10080 | Value Learning | AI Foundations | Fundamentals | — |
-| AIH-10082 | Value Misalignment | AI Foundations | Fundamentals | — |
-| AIH-10084 | Vanishing Gradient | AI Foundations | Fundamentals | — |
+| AIH-10080 | Value Learning | AI Foundations | Fundamentals | [2011](https://doi.org/10.1007/978-0-387-30164-8_43) (source only) |
+| AIH-10082 | Value Misalignment | AI Foundations | Fundamentals | [2017](https://doi.org/10.5465/ambpp.2017.14485abstract) (source only) |
+| AIH-10084 | Vanishing Gradient | AI Foundations | Fundamentals | [1994](https://doi.org/10.1006/jmaa.1994.1231) (source only) |
 | AIH-10086 | Variance | AI Foundations | Fundamentals | — |
-| AIH-10088 | Variance Term | AI Foundations | Fundamentals | — |
-| AIH-10090 | VC Dimension | AI Foundations | Fundamentals | — |
+| AIH-10088 | Variance Term | AI Foundations | Fundamentals | [2005](https://doi.org/10.2139/ssrn.705802) (source only) |
+| AIH-10090 | VC Dimension | AI Foundations | Fundamentals | [1991](https://doi.org/10.1016/b978-1-55860-213-7.50026-2) (source only) |
 | AIH-10092 | Vector Space | AI Foundations | Fundamentals | — |
-| AIH-10094 | Vendor Risk | AI Foundations | Fundamentals | — |
+| AIH-10094 | Vendor Risk | AI Foundations | Fundamentals | [2014](https://doi.org/10.1080/07366981.2014.922837) (source only) |
 | AIH-10096 | Verification Habit | AI Foundations | Fundamentals | — |
 | AIH-10098 | Version Comparison for Users | AI Foundations | Fundamentals | — |
-| AIH-10100 | ViBe | AI Foundations | Fundamentals | — |
+| AIH-10100 | ViBe | AI Foundations | Fundamentals | [2026](https://doi.org/10.1177/21522715261443745) (source only) |
 | AIH-06253 | Weakest Precondition | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-06275 | Weighted A-Star | AI Foundations | Symbolic AI & Reasoning | [2023](https://doi.org/10.1504/ijvics.2023.10063614) (source only) |
 | AIH-06297 | Wikidata | AI Foundations | Symbolic AI & Reasoning | — |

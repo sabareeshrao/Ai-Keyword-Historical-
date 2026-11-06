@@ -274,107 +274,107 @@
 | AIH-08489 | Polysemantic Neuron | Deep Learning | Deep Learning | — |
 | AIH-08494 | Ponder Time | Deep Learning | Deep Learning | — |
 | AIH-08499 | Pooling | Deep Learning | Deep Learning | [2025](https://doi.org/10.20944/preprints202509.0310.v1) (source only) |
-| AIH-08504 | Position Bias in Evaluation | Deep Learning | Deep Learning | — |
-| AIH-08509 | Position Interpolation | Deep Learning | Deep Learning | — |
+| AIH-08504 | Position Bias in Evaluation | Deep Learning | Deep Learning | [2026](https://doi.org/10.5281/zenodo.22397577) ★ (estimated) |
+| AIH-08509 | Position Interpolation | Deep Learning | Deep Learning | [1949](https://doi.org/10.1037/h0061921) (source only) |
 | AIH-08514 | Position Interpolation Quality | Deep Learning | Deep Learning | — |
-| AIH-08519 | Positional Head | Deep Learning | Deep Learning | — |
-| AIH-08524 | Post-Normalization | Deep Learning | Deep Learning | — |
-| AIH-08529 | Post-Training | Deep Learning | Deep Learning | — |
-| AIH-08534 | Post-Training Quantization (PTQ) | Deep Learning | Deep Learning | — |
-| AIH-08538 | Pre-Normalization | Deep Learning | Deep Learning | — |
-| AIH-08542 | Pre-training | Deep Learning | Deep Learning | — |
-| AIH-08546 | Preference Pair | Deep Learning | Deep Learning | — |
-| AIH-08550 | Prefill | Deep Learning | Deep Learning | — |
-| AIH-08554 | Prefix Language Model | Deep Learning | Deep Learning | — |
-| AIH-08558 | Prefix Tuning | Deep Learning | Deep Learning | — |
-| AIH-08562 | Presence Penalty | Deep Learning | Deep Learning | — |
+| AIH-08519 | Positional Head | Deep Learning | Deep Learning | [1978](https://doi.org/10.1007/bf00666366) (source only) |
+| AIH-08524 | Post-Normalization | Deep Learning | Deep Learning | [1979](https://openalex.org/W2543607664) (source only) |
+| AIH-08529 | Post-Training | Deep Learning | Deep Learning | [1968](https://doi.org/10.1515/9781400876235-025) (source only) |
+| AIH-08534 | Post-Training Quantization (PTQ) | Deep Learning | Deep Learning | [2024](https://doi.org/10.1109/cscwd61410.2024.10580660) ★ (estimated) |
+| AIH-08538 | Pre-Normalization | Deep Learning | Deep Learning | [2005](https://openalex.org/W584361283) (source only) |
+| AIH-08542 | Pre-training | Deep Learning | Deep Learning | [2009](https://doi.org/10.1017/cbo9780511811678.014) (source only) |
+| AIH-08546 | Preference Pair | Deep Learning | Deep Learning | [2025](https://doi.org/10.48550/arxiv.2509.15664) (source only) |
+| AIH-08550 | Prefill | Deep Learning | Deep Learning | [2024](https://doi.org/10.48550/arxiv.2401.09670) (source only) |
+| AIH-08554 | Prefix Language Model | Deep Learning | Deep Learning | [2001](https://openalex.org/W2772059424) ★ (estimated) |
+| AIH-08558 | Prefix Tuning | Deep Learning | Deep Learning | [2022](https://doi.org/10.18653/v1/2022.emnlp-main.50) (source only) |
+| AIH-08562 | Presence Penalty | Deep Learning | Deep Learning | [2026](https://doi.org/10.60797/irj.2026.169.108) (source only) |
 | AIH-08566 | Previous Token Head | Deep Learning | Deep Learning | — |
-| AIH-08570 | Probe Generalization | Deep Learning | Deep Learning | — |
-| AIH-08574 | Probing Classifier | Deep Learning | Deep Learning | — |
-| AIH-08578 | Prompt Tuning | Deep Learning | Deep Learning | — |
-| AIH-08582 | Pruning | Deep Learning | Deep Learning | — |
-| AIH-08586 | QLoRA | Deep Learning | Deep Learning | — |
-| AIH-08590 | Quality Filtering | Deep Learning | Deep Learning | — |
-| AIH-08594 | Quantization-Aware Training (QAT) | Deep Learning | Deep Learning | — |
+| AIH-08570 | Probe Generalization | Deep Learning | Deep Learning | [2026](https://doi.org/10.48550/arxiv.2609.02893) (source only) |
+| AIH-08574 | Probing Classifier | Deep Learning | Deep Learning | [2023](https://doi.org/10.48550/arxiv.2312.10746) (source only) |
+| AIH-08578 | Prompt Tuning | Deep Learning | Deep Learning | [2022](https://doi.org/10.18653/v1/2022.findings-emnlp.95) (source only) |
+| AIH-08582 | Pruning | Deep Learning | Deep Learning | [2000](https://doi.org/10.48550/arxiv.cs/0006025) (source only) |
+| AIH-08586 | QLoRA | Deep Learning | Deep Learning | [2024](https://doi.org/10.1109/access.2024.3470850) (source only) |
+| AIH-08590 | Quality Filtering | Deep Learning | Deep Learning | [1972](https://openalex.org/W2273252081) (source only) |
+| AIH-08594 | Quantization-Aware Training (QAT) | Deep Learning | Deep Learning | [2025](https://doi.org/10.1145/3776759.3776826) (source only) |
 | AIH-08598 | Query | Deep Learning | Deep Learning | — |
-| AIH-08602 | Random Feature Model | Deep Learning | Deep Learning | — |
-| AIH-08606 | Reasoning Trace | Deep Learning | Deep Learning | — |
-| AIH-08610 | Receptive Field | Deep Learning | Deep Learning | — |
-| AIH-08614 | Reconstruction Fidelity | Deep Learning | Deep Learning | — |
-| AIH-08618 | Recurrent Depth | Deep Learning | Deep Learning | — |
+| AIH-08602 | Random Feature Model | Deep Learning | Deep Learning | [1992](https://doi.org/10.1016/0165-4896(92)90045-7) (source only) |
+| AIH-08606 | Reasoning Trace | Deep Learning | Deep Learning | [2018](https://doi.org/10.1109/icci-cc.2018.8482053) (source only) |
+| AIH-08610 | Receptive Field | Deep Learning | Deep Learning | [1968](https://doi.org/10.1037/e473742008-055) (source only) |
+| AIH-08614 | Reconstruction Fidelity | Deep Learning | Deep Learning | [1979](https://doi.org/10.1364/josa.69.000496) (source only) |
+| AIH-08618 | Recurrent Depth | Deep Learning | Deep Learning | [2020](https://doi.org/10.7717/peerj-cs.317) (source only) |
 | AIH-08622 | Recurrent Memory Token | Deep Learning | Deep Learning | — |
-| AIH-08626 | Recurrent Neural Network (RNN) | Deep Learning | Deep Learning | — |
-| AIH-08630 | Recurrent Weight Sharing | Deep Learning | Deep Learning | — |
-| AIH-08634 | Reference Model | Deep Learning | Deep Learning | — |
+| AIH-08626 | Recurrent Neural Network (RNN) | Deep Learning | Deep Learning | [2007](https://openalex.org/W2359713273) (source only) |
+| AIH-08630 | Recurrent Weight Sharing | Deep Learning | Deep Learning | [2017](https://doi.org/10.1109/ijcnn.2017.7966419) ★ (estimated) |
+| AIH-08634 | Reference Model | Deep Learning | Deep Learning | [2000](https://doi.org/10.1201/9781420000078-5) (source only) |
 | AIH-08638 | Reformer | Deep Learning | Deep Learning | — |
-| AIH-08642 | Refusal Direction | Deep Learning | Deep Learning | — |
-| AIH-08646 | Rehearsal Data | Deep Learning | Deep Learning | — |
-| AIH-08650 | Rejection Sampling Fine-Tuning | Deep Learning | Deep Learning | — |
-| AIH-08654 | Relation-Based Distillation | Deep Learning | Deep Learning | — |
+| AIH-08642 | Refusal Direction | Deep Learning | Deep Learning | [2025](https://doi.org/10.52202/085713-1086) (source only) |
+| AIH-08646 | Rehearsal Data | Deep Learning | Deep Learning | [2002](https://doi.org/10.1007/3-540-47922-8_8) ★ (estimated) |
+| AIH-08650 | Rejection Sampling Fine-Tuning | Deep Learning | Deep Learning | [2026](https://doi.org/10.48550/arxiv.2610.25812) (source only) |
+| AIH-08654 | Relation-Based Distillation | Deep Learning | Deep Learning | [2019](https://doi.org/10.1109/iccv.2019.00712) ★ (estimated) |
 | AIH-08658 | Relative Positional Encoding | Deep Learning | Deep Learning | — |
 | AIH-08662 | Repetition Penalty | Deep Learning | Deep Learning | — |
 | AIH-08666 | Representation Bottleneck | Deep Learning | Deep Learning | — |
-| AIH-08670 | Representation Engineering | Deep Learning | Deep Learning | — |
+| AIH-08670 | Representation Engineering | Deep Learning | Deep Learning | [1990](https://doi.org/10.1007/978-1-4613-1523-0_9) (source only) |
 | AIH-08674 | Representation Similarity Analysis (RSA) | Deep Learning | Deep Learning | — |
 | AIH-08678 | Resample Ablation | Deep Learning | Deep Learning | — |
-| AIH-08682 | Residual Block | Deep Learning | Deep Learning | — |
+| AIH-08682 | Residual Block | Deep Learning | Deep Learning | [2005](https://doi.org/10.1213/01.ane.0000153954.29750.2b) (source only) |
 | AIH-08686 | Residual Post-Init Scaling | Deep Learning | Deep Learning | — |
 | AIH-08690 | Residual Stream | Deep Learning | Deep Learning | — |
 | AIH-08694 | Residual Stream Decomposition | Deep Learning | Deep Learning | — |
-| AIH-08698 | Resolution Schedule | Deep Learning | Deep Learning | — |
-| AIH-08702 | Response-Based Distillation | Deep Learning | Deep Learning | — |
-| AIH-08706 | Retrieval-Augmented Architecture | Deep Learning | Deep Learning | — |
-| AIH-08710 | Reward Model Overoptimization | Deep Learning | Deep Learning | — |
-| AIH-08714 | Reward Modelling | Deep Learning | Deep Learning | — |
-| AIH-08718 | Ring Attention | Deep Learning | Deep Learning | — |
+| AIH-08698 | Resolution Schedule | Deep Learning | Deep Learning | [2020](https://doi.org/10.1177/0042098020919323) (source only) |
+| AIH-08702 | Response-Based Distillation | Deep Learning | Deep Learning | [2024](https://doi.org/10.2139/ssrn.4952324) (source only) |
+| AIH-08706 | Retrieval-Augmented Architecture | Deep Learning | Deep Learning | [2026](https://doi.org/10.20944/preprints202607.1383.v1) (source only) |
+| AIH-08710 | Reward Model Overoptimization | Deep Learning | Deep Learning | [2024](https://doi.org/10.52202/079017-4009) (source only) |
+| AIH-08714 | Reward Modelling | Deep Learning | Deep Learning | [2001](https://doi.org/10.1016/s0166-5316(00)00056-0) (source only) |
+| AIH-08718 | Ring Attention | Deep Learning | Deep Learning | [2025](https://doi.org/10.1109/thms.2025.3591502) (source only) |
 | AIH-08722 | RMSNorm | Deep Learning | Deep Learning | — |
 | AIH-08726 | Roofline Model | Deep Learning | Deep Learning | — |
-| AIH-08730 | RoPE Scaling | Deep Learning | Deep Learning | — |
-| AIH-08734 | Rubric-Based Evaluation | Deep Learning | Deep Learning | — |
-| AIH-08738 | Running Statistics | Deep Learning | Deep Learning | — |
-| AIH-08742 | Saliency Map | Deep Learning | Deep Learning | — |
-| AIH-08746 | Same Padding | Deep Learning | Deep Learning | — |
-| AIH-08750 | Sample Efficiency | Deep Learning | Deep Learning | — |
-| AIH-08754 | Sample Weighting | Deep Learning | Deep Learning | — |
-| AIH-08758 | Scale Symmetry | Deep Learning | Deep Learning | — |
+| AIH-08730 | RoPE Scaling | Deep Learning | Deep Learning | [2006](https://doi.org/10.1086/506466) (source only) |
+| AIH-08734 | Rubric-Based Evaluation | Deep Learning | Deep Learning | [2009](https://doi.org/10.1109/cseet.2009.54) (source only) |
+| AIH-08738 | Running Statistics | Deep Learning | Deep Learning | [1971](https://doi.org/10.1109/cdc.1971.270986) (source only) |
+| AIH-08742 | Saliency Map | Deep Learning | Deep Learning | [2005](https://doi.org/10.1016/b978-012375731-9/50097-5) (source only) |
+| AIH-08746 | Same Padding | Deep Learning | Deep Learning | [2021](https://doi.org/10.22441//fifo.2020.v12i2.002) (source only) |
+| AIH-08750 | Sample Efficiency | Deep Learning | Deep Learning | [1981](https://doi.org/10.2307/1403067) (source only) |
+| AIH-08754 | Sample Weighting | Deep Learning | Deep Learning | [1964](https://doi.org/10.1109/tcom.1964.1088885) (source only) |
+| AIH-08758 | Scale Symmetry | Deep Learning | Deep Learning | [1997](https://doi.org/10.1007/978-3-662-09799-1_21) (source only) |
 | AIH-08762 | Scaled Dot-Product Attention | Deep Learning | Deep Learning | — |
 | AIH-08766 | Scaling Laws | Deep Learning | Deep Learning | — |
 | AIH-08770 | Scheduled Sampling | Deep Learning | Deep Learning | — |
 | AIH-08774 | Segment-Level Recurrence | Deep Learning | Deep Learning | — |
 | AIH-08778 | Selective State Update | Deep Learning | Deep Learning | — |
-| AIH-08782 | Self-Distillation | Deep Learning | Deep Learning | — |
-| AIH-08786 | Self-Instruct | Deep Learning | Deep Learning | — |
-| AIH-08790 | SELU | Deep Learning | Deep Learning | — |
+| AIH-08782 | Self-Distillation | Deep Learning | Deep Learning | [2019](https://doi.org/10.1541/ieejeiss.139.1509) (source only) |
+| AIH-08786 | Self-Instruct | Deep Learning | Deep Learning | [1988](https://doi.org/10.1177/104298598802300106) (source only) |
+| AIH-08790 | SELU | Deep Learning | Deep Learning | [2021](https://doi.org/10.36227/techrxiv.15096888) (source only) |
 | AIH-08794 | Sequence Packing Boundary | Deep Learning | Deep Learning | — |
 | AIH-08798 | Sequence-to-Sequence (Seq2Seq) | Deep Learning | Deep Learning | — |
-| AIH-08802 | Sequential Revision | Deep Learning | Deep Learning | — |
+| AIH-08802 | Sequential Revision | Deep Learning | Deep Learning | [1997](https://doi.org/10.1109/3468.568738) (source only) |
 | AIH-08806 | Shape Polymorphism | Deep Learning | Deep Learning | — |
-| AIH-08810 | Sharpness Measure | Deep Learning | Deep Learning | — |
-| AIH-08814 | Shortcut Path | Deep Learning | Deep Learning | — |
+| AIH-08810 | Sharpness Measure | Deep Learning | Deep Learning | [2003](https://doi.org/10.1007/978-3-540-45179-2_19) (source only) |
+| AIH-08814 | Shortcut Path | Deep Learning | Deep Learning | [2005](https://doi.org/10.1049/el:20052972) (source only) |
 | AIH-05103 | SigLIP | Deep Learning | Models & Architectures | — |
-| AIH-08818 | Sigmoid Function | Deep Learning | Deep Learning | — |
-| AIH-08822 | Signal Propagation Analysis | Deep Learning | Deep Learning | — |
-| AIH-08826 | SiLU | Deep Learning | Deep Learning | — |
-| AIH-08830 | Simplicity Bias | Deep Learning | Deep Learning | — |
+| AIH-08818 | Sigmoid Function | Deep Learning | Deep Learning | [2000](https://doi.org/10.2352/issn.2169-4451.2000.16.1.art00065_2) (source only) |
+| AIH-08822 | Signal Propagation Analysis | Deep Learning | Deep Learning | [2013](https://doi.org/10.1109/aps.2013.6711457) (source only) |
+| AIH-08826 | SiLU | Deep Learning | Deep Learning | [2025](https://doi.org/10.1007/s00371-025-04185-0) (source only) |
+| AIH-08830 | Simplicity Bias | Deep Learning | Deep Learning | [2000](https://doi.org/10.1007/3-540-45164-1_23) (source only) |
 | AIH-08834 | Skip Connection | Deep Learning | Deep Learning | — |
 | AIH-08838 | Skip Connection Types | Deep Learning | Deep Learning | — |
 | AIH-08842 | SLERP Merging | Deep Learning | Deep Learning | — |
 | AIH-08846 | Sliding Window Attention (SWA) | Deep Learning | Deep Learning | — |
-| AIH-08850 | SmoothQuant | Deep Learning | Deep Learning | — |
-| AIH-08854 | Soft Parameter Sharing | Deep Learning | Deep Learning | — |
-| AIH-08858 | Soft Target | Deep Learning | Deep Learning | — |
+| AIH-08850 | SmoothQuant | Deep Learning | Deep Learning | [2025](https://doi.org/10.1109/icaice68195.2025.11382356) (source only) |
+| AIH-08854 | Soft Parameter Sharing | Deep Learning | Deep Learning | [2022](https://doi.org/10.1109/scisisis55246.2022.10001943) (source only) |
+| AIH-08858 | Soft Target | Deep Learning | Deep Learning | [1964](https://doi.org/10.21236/ad0601467) (source only) |
 | AIH-05135 | Sparrow | Deep Learning | Models & Architectures | — |
 | AIH-05167 | Sparse Activation | Deep Learning | Models & Architectures | [2017](https://doi.org/10.1587/transele.e100.c.1073) (source only) |
 | AIH-08862 | Sparse Mixture of Experts (SMoE) | Deep Learning | Deep Learning | — |
-| AIH-08866 | Sparse Model | Deep Learning | Deep Learning | — |
-| AIH-08870 | SparseGPT | Deep Learning | Deep Learning | — |
-| AIH-08874 | Sparsity Ratio | Deep Learning | Deep Learning | — |
-| AIH-08878 | Spatial Dropout | Deep Learning | Deep Learning | — |
-| AIH-08882 | Special Token | Deep Learning | Deep Learning | — |
-| AIH-08886 | Spectral Bias | Deep Learning | Deep Learning | — |
+| AIH-08866 | Sparse Model | Deep Learning | Deep Learning | [2010](https://doi.org/10.21236/ada513259) (source only) |
+| AIH-08870 | SparseGPT | Deep Learning | Deep Learning | [2025](https://doi.org/10.12732/ijam.v38i12s.1711) (source only) |
+| AIH-08874 | Sparsity Ratio | Deep Learning | Deep Learning | [2023](https://doi.org/10.1109/icmla58977.2023.00009) (source only) |
+| AIH-08878 | Spatial Dropout | Deep Learning | Deep Learning | [2020](https://doi.org/10.1007/s11042-020-09054-7) (source only) |
+| AIH-08882 | Special Token | Deep Learning | Deep Learning | [2023](https://doi.org/10.18653/v1/2023.eacl-main.60) (source only) |
+| AIH-08886 | Spectral Bias | Deep Learning | Deep Learning | [1987](https://doi.org/10.2514/3.9622) (source only) |
 | AIH-08890 | Spiking Neural Network (SNN) | Deep Learning | Deep Learning | — |
 | AIH-05198 | SPLADE | Deep Learning | Models & Architectures | [2021](https://doi.org/10.6028/nist.sp.500-335.deep-nle) (source only) |
-| AIH-08894 | Squeeze-and-Excitation (SE) | Deep Learning | Deep Learning | — |
+| AIH-08894 | Squeeze-and-Excitation (SE) | Deep Learning | Deep Learning | [2024](https://doi.org/10.12720/jait.15.5.565-571) (source only) |
 | AIH-05229 | SqueezeNet | Deep Learning | Models & Architectures | [2018](https://doi.org/10.1109/icecs.2018.8617876) (source only) |
 | AIH-05260 | Stable Diffusion XL (SDXL) | Deep Learning | Models & Architectures | — |
 | AIH-05291 | Stable Video Diffusion | Deep Learning | Models & Architectures | [2025](https://doi.org/10.1117/12.3059564) (source only) |
@@ -382,57 +382,57 @@
 | AIH-05322 | StarCoder | Deep Learning | Models & Architectures | [2026](https://doi.org/10.1007/978-3-032-18470-2_3) (source only) |
 | AIH-08902 | State Space Duality | Deep Learning | Deep Learning | — |
 | AIH-05353 | State Space Layer | Deep Learning | Models & Architectures | — |
-| AIH-08906 | Static Shape | Deep Learning | Deep Learning | — |
-| AIH-08910 | Steering Vector | Deep Learning | Deep Learning | — |
+| AIH-08906 | Static Shape | Deep Learning | Deep Learning | [1981](https://doi.org/10.2514/6.1981-1785) (source only) |
+| AIH-08910 | Steering Vector | Deep Learning | Deep Learning | [1999](https://doi.org/10.1016/s0165-1684(98)00174-1) (source only) |
 | AIH-08914 | Stem | Deep Learning | Deep Learning | — |
 | AIH-08918 | Stochastic Depth | Deep Learning | Deep Learning | — |
-| AIH-08922 | Stochastic Rounding | Deep Learning | Deep Learning | — |
+| AIH-08922 | Stochastic Rounding | Deep Learning | Deep Learning | [2017](https://doi.org/10.1109/ner.2017.8008430) (source only) |
 | AIH-05384 | Stockfish | Deep Learning | Models & Architectures | [1892](https://doi.org/10.1093/nq/s8-i.26.511b) (source only) |
 | AIH-08926 | Stop Sequence | Deep Learning | Deep Learning | — |
-| AIH-08930 | Streaming Attention | Deep Learning | Deep Learning | — |
-| AIH-08934 | Stride | Deep Learning | Deep Learning | — |
+| AIH-08930 | Streaming Attention | Deep Learning | Deep Learning | [2025](https://doi.org/10.52202/085713-0705) (source only) |
+| AIH-08934 | Stride | Deep Learning | Deep Learning | [2023](https://doi.org/10.1101/2023.01.30.526246) (source only) |
 | AIH-08938 | Structured Pruning | Deep Learning | Deep Learning | — |
 | AIH-08942 | Student Model | Deep Learning | Deep Learning | — |
-| AIH-08946 | Supernet | Deep Learning | Deep Learning | — |
-| AIH-08950 | Superposition | Deep Learning | Deep Learning | — |
-| AIH-08954 | Supervised Fine-Tuning (SFT) | Deep Learning | Deep Learning | — |
-| AIH-08958 | Suppression Head | Deep Learning | Deep Learning | — |
+| AIH-08946 | Supernet | Deep Learning | Deep Learning | [2019](https://doi.org/10.1109/icoac48765.2019.246879) (source only) |
+| AIH-08950 | Superposition | Deep Learning | Deep Learning | [1961](https://doi.org/10.21236/ad0256068) (source only) |
+| AIH-08954 | Supervised Fine-Tuning (SFT) | Deep Learning | Deep Learning | [2024](https://doi.org/10.6109/jkiice.2024.28.3.267) (source only) |
+| AIH-08958 | Suppression Head | Deep Learning | Deep Learning | [2018](https://doi.org/10.3342/kjorl-hns.2017.00353) (source only) |
 | AIH-08962 | SwiGLU | Deep Learning | Deep Learning | — |
 | AIH-05415 | Swin Transformer | Deep Learning | Models & Architectures | [2021](https://doi.org/10.12677/airr.2021.104028) (source only) |
-| AIH-08966 | Sycophancy | Deep Learning | Deep Learning | — |
-| AIH-08970 | Symmetry Breaking | Deep Learning | Deep Learning | — |
-| AIH-08974 | Synthetic Training Data | Deep Learning | Deep Learning | — |
+| AIH-08966 | Sycophancy | Deep Learning | Deep Learning | [1919](https://doi.org/10.2307/4387779) (source only) |
+| AIH-08970 | Symmetry Breaking | Deep Learning | Deep Learning | [1992](https://doi.org/10.1142/9789814538404) (source only) |
+| AIH-08974 | Synthetic Training Data | Deep Learning | Deep Learning | [2020](https://doi.org/10.1109/cog47356.2020.9231742) (source only) |
 | AIH-05446 | Tacotron | Deep Learning | Models & Architectures | [2021](https://doi.org/10.1088/1742-6596/1950/1/012044) (source only) |
-| AIH-08978 | Tanh | Deep Learning | Deep Learning | — |
-| AIH-08982 | Task Vector | Deep Learning | Deep Learning | — |
+| AIH-08978 | Tanh | Deep Learning | Deep Learning | [2009](https://doi.org/10.1109/icim.2009.22) (source only) |
+| AIH-08982 | Task Vector | Deep Learning | Deep Learning | [2016](https://doi.org/10.1109/wac.2016.7582997) (source only) |
 | AIH-08986 | Teacher Forcing in Training | Deep Learning | Deep Learning | — |
 | AIH-08990 | Teacher Model | Deep Learning | Deep Learning | — |
 | AIH-08994 | Tensor | Deep Learning | Deep Learning | — |
 | AIH-08998 | Thinking Budget | Deep Learning | Deep Learning | — |
-| AIH-09002 | TIES Merging | Deep Learning | Deep Learning | — |
-| AIH-09006 | Time to First Token (TTFT) | Deep Learning | Deep Learning | — |
+| AIH-09002 | TIES Merging | Deep Learning | Deep Learning | [2023](https://doi.org/10.52202/075280-0310) (source only) |
+| AIH-09006 | Time to First Token (TTFT) | Deep Learning | Deep Learning | [2025](https://doi.org/10.31224/4666) (source only) |
 | AIH-09010 | Token Budget | Deep Learning | Deep Learning | — |
-| AIH-09014 | Token Mixing | Deep Learning | Deep Learning | — |
+| AIH-09014 | Token Mixing | Deep Learning | Deep Learning | [2021](https://doi.org/10.5244/c.35.79) (source only) |
 | AIH-09018 | Tokens per Second (TPS) | Deep Learning | Deep Learning | — |
 | AIH-05477 | Top-2 Routing | Deep Learning | Models & Architectures | — |
 | AIH-09022 | Toxicity Filtering | Deep Learning | Deep Learning | — |
 | AIH-09026 | Train-Inference Discrepancy | Deep Learning | Deep Learning | — |
-| AIH-09030 | Training Data Extraction | Deep Learning | Deep Learning | — |
-| AIH-09034 | Training Loop | Deep Learning | Deep Learning | — |
+| AIH-09030 | Training Data Extraction | Deep Learning | Deep Learning | [2015](https://doi.org/10.1109/nof.2015.7333298) (source only) |
+| AIH-09034 | Training Loop | Deep Learning | Deep Learning | [2006](https://doi.org/10.1037/e533762007-001) (source only) |
 | AIH-09038 | Training Step | Deep Learning | Deep Learning | — |
 | AIH-09042 | Training Trajectory | Deep Learning | Deep Learning | — |
 | AIH-05508 | Transducer Model | Deep Learning | Models & Architectures | [1961](https://openalex.org/W624554748) (source only) |
 | AIH-09046 | Transformer | Deep Learning | Deep Learning | — |
-| AIH-09050 | Transformer Block | Deep Learning | Deep Learning | — |
-| AIH-09054 | Transposed Convolution | Deep Learning | Deep Learning | — |
-| AIH-09058 | Tree Search Decoding | Deep Learning | Deep Learning | — |
+| AIH-09050 | Transformer Block | Deep Learning | Deep Learning | [2019](https://doi.org/10.1109/eastconf.2019.8725341) (source only) |
+| AIH-09054 | Transposed Convolution | Deep Learning | Deep Learning | [2017](https://doi.org/10.1109/ucmmt.2017.8068494) (source only) |
+| AIH-09058 | Tree Search Decoding | Deep Learning | Deep Learning | [2005](https://doi.org/10.1109/itw.2005.1531875) (source only) |
 | AIH-05538 | Turing-NLG | Deep Learning | Models & Architectures | [2022](https://doi.org/10.48550/arxiv.2201.11990) (source only) |
-| AIH-09062 | Typical Sampling | Deep Learning | Deep Learning | — |
+| AIH-09062 | Typical Sampling | Deep Learning | Deep Learning | [2012](https://doi.org/10.1201/b11909-16) (source only) |
 | AIH-09066 | Undertrained Model | Deep Learning | Deep Learning | — |
 | AIH-05568 | Unified Multimodal Model | Deep Learning | Models & Architectures | [2022](https://doi.org/10.1145/3503161.3547974) (source only) |
 | AIH-09070 | Universal Transformer | Deep Learning | Deep Learning | — |
-| AIH-09074 | Unpooling | Deep Learning | Deep Learning | — |
-| AIH-09078 | Unstructured Pruning | Deep Learning | Deep Learning | — |
+| AIH-09074 | Unpooling | Deep Learning | Deep Learning | [2019](https://doi.org/10.47839/ijc.18.1.1270) (source only) |
+| AIH-09078 | Unstructured Pruning | Deep Learning | Deep Learning | [2014](https://doi.org/10.1109/tmtt.2014.2360845) (source only) |
 | AIH-09082 | Upsampling Layer | Deep Learning | Deep Learning | — |
 | AIH-09086 | Valid Padding | Deep Learning | Deep Learning | — |
 | AIH-09090 | Validation Loss Divergence | Deep Learning | Deep Learning | — |
@@ -451,29 +451,29 @@
 | AIH-05770 | Wav2Vec 2.0 | Deep Learning | Models & Architectures | [2021](https://doi.org/10.1121/10.0008579) (source only) |
 | AIH-05798 | WebGPT | Deep Learning | Models & Architectures | — |
 | AIH-09118 | Weight | Deep Learning | Deep Learning | — |
-| AIH-09122 | Weight Initialization Scheme | Deep Learning | Deep Learning | — |
-| AIH-09126 | Weight Interpolation | Deep Learning | Deep Learning | — |
+| AIH-09122 | Weight Initialization Scheme | Deep Learning | Deep Learning | [2026](https://doi.org/10.3390/electronics15184325) (source only) |
+| AIH-09126 | Weight Interpolation | Deep Learning | Deep Learning | [2021](https://doi.org/10.1145/3450623.3464632) (source only) |
 | AIH-09130 | Weight Normalization (WN) | Deep Learning | Deep Learning | — |
 | AIH-09134 | Weight Sharing NAS | Deep Learning | Deep Learning | — |
-| AIH-09138 | Weight Symmetry | Deep Learning | Deep Learning | — |
-| AIH-09142 | Weight Tying | Deep Learning | Deep Learning | — |
-| AIH-09146 | Weight-Only Quantization | Deep Learning | Deep Learning | — |
+| AIH-09138 | Weight Symmetry | Deep Learning | Deep Learning | [1977](https://doi.org/10.1109/tit.1977.1055733) (source only) |
+| AIH-09142 | Weight Tying | Deep Learning | Deep Learning | [2018](https://doi.org/10.1109/smc.2018.00681) (source only) |
+| AIH-09146 | Weight-Only Quantization | Deep Learning | Deep Learning | [2025](https://doi.org/10.18653/v1/2025.emnlp-main.1799) (source only) |
 | AIH-09150 | Weight-Tied Layers | Deep Learning | Deep Learning | — |
-| AIH-09154 | Weighted Feature Fusion | Deep Learning | Deep Learning | — |
-| AIH-09158 | Wide Network | Deep Learning | Deep Learning | — |
+| AIH-09154 | Weighted Feature Fusion | Deep Learning | Deep Learning | [2015](https://doi.org/10.5120/cae-1567) (source only) |
+| AIH-09158 | Wide Network | Deep Learning | Deep Learning | [1960](https://doi.org/10.17226/21635) (source only) |
 | AIH-09162 | Wide Network Theory | Deep Learning | Deep Learning | — |
 | AIH-05825 | Wide ResNet | Deep Learning | Models & Architectures | — |
-| AIH-09166 | Width Pruning | Deep Learning | Deep Learning | — |
-| AIH-09170 | Win Rate | Deep Learning | Deep Learning | — |
-| AIH-09174 | Xavier Initialization | Deep Learning | Deep Learning | — |
+| AIH-09166 | Width Pruning | Deep Learning | Deep Learning | [2025](https://doi.org/10.36227/techrxiv.176462159.96022593/v2) (source only) |
+| AIH-09170 | Win Rate | Deep Learning | Deep Learning | [1973](https://doi.org/10.1097/00000446-197304000-00006) (source only) |
+| AIH-09174 | Xavier Initialization | Deep Learning | Deep Learning | [2023](https://doi.org/10.1109/bcd57833.2023.10466341) (source only) |
 | AIH-05851 | Xception | Deep Learning | Models & Architectures | [2017](https://doi.org/10.1109/cvpr.2017.195) (source only) |
 | AIH-05877 | XLM-R | Deep Learning | Models & Architectures | [2024](https://doi.org/10.1145/3662739.3672320) (source only) |
 | AIH-05903 | XLNet | Deep Learning | Models & Architectures | [2021](https://doi.org/10.1109/icekim52309.2021.00146) (source only) |
 | AIH-09178 | YaRN | Deep Learning | Deep Learning | — |
 | AIH-05929 | Yi Model | Deep Learning | Models & Architectures | — |
-| AIH-09182 | Zero Ablation | Deep Learning | Deep Learning | — |
+| AIH-09182 | Zero Ablation | Deep Learning | Deep Learning | [1993](https://doi.org/10.1109/20.195754) (source only) |
 | AIH-09186 | Zero Initialization Problem | Deep Learning | Deep Learning | — |
-| AIH-09190 | Zero-Cost Proxy | Deep Learning | Deep Learning | — |
+| AIH-09190 | Zero-Cost Proxy | Deep Learning | Deep Learning | [2023](https://doi.org/10.18293/seke2023-116) (source only) |
 | AIH-05124 | Temperature Zero Evaluation | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-05156 | Temporal Generalization | Evaluation & Metrics | Evaluation & Metrics | [1964](https://doi.org/10.2466/pr0.1964.14.1.51) (source only) |
 | AIH-05187 | Test-Retest Reliability | Evaluation & Metrics | Evaluation & Metrics | — |
