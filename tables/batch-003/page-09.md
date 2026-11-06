@@ -12,14 +12,14 @@
 | AIH-14458 | dsdm | Programming & Software | CSO: software architecture | — |
 | AIH-14459 | dynamic software architecture | Programming & Software | CSO: software architecture | — |
 | AIH-14460 | efficiency increasing | Programming & Software | CSO: software architecture | — |
-| AIH-11400 | engineering research | Programming & Software | CSO: software engineering | — |
+| AIH-11400 | engineering research | Programming & Software | CSO: software engineering | [1989](https://doi.org/10.1177/014362448901000107) (source only) |
 | AIH-14461 | execution trace | Programming & Software | CSO: software engineering | — |
 | AIH-14462 | execution traces | Programming & Software | CSO: software engineering | — |
 | AIH-14463 | extreme programming | Programming & Software | CSO: software architecture | — |
 | AIH-14464 | failure data | Programming & Software | CSO: software engineering | — |
-| AIH-11443 | fault localization | Programming & Software | CSO: software engineering | — |
+| AIH-11443 | fault localization | Programming & Software | CSO: software engineering | [2011](https://doi.org/10.3724/sp.j.1016.2011.01411) (source only) |
 | AIH-14465 | flexibility increasing | Programming & Software | CSO: software architecture | — |
-| AIH-11402 | formal specifications | Programming & Software | CSO: software engineering | — |
+| AIH-11402 | formal specifications | Programming & Software | CSO: software engineering | [1978](https://doi.org/10.21236/ada109317) (source only) |
 | AIH-14384 | fortran 90 | Programming & Software | CSO: programming languages | — |
 | AIH-14466 | function point | Programming & Software | CSO: software engineering | — |
 | AIH-14467 | function points | Programming & Software | CSO: software engineering | — |
@@ -67,7 +67,7 @@
 | AIH-14503 | modulo scheduling | Programming & Software | CSO: software engineering | — |
 | AIH-14504 | multi-tier | Programming & Software | CSO: software architecture | — |
 | AIH-14505 | non-homogeneous poisson process | Programming & Software | CSO: software engineering | — |
-| AIH-11403 | object oriented design | Programming & Software | CSO: software engineering | — |
+| AIH-11403 | object oriented design | Programming & Software | CSO: software engineering | [1987](https://doi.org/10.1145/38765.38813) (source only) |
 | AIH-11404 | object-oriented system | Programming & Software | CSO: software engineering | — |
 | AIH-14506 | ocl | Programming & Software | CSO: software engineering | — |
 | AIH-14507 | open source projects | Programming & Software | CSO: software engineering | — |
@@ -80,7 +80,7 @@
 | AIH-14513 | pipes and filters | Programming & Software | CSO: software architecture | — |
 | AIH-14514 | pointer analysis | Programming & Software | CSO: software engineering | — |
 | AIH-14515 | points-to analysis | Programming & Software | CSO: software engineering | — |
-| AIH-11405 | process engineering | Programming & Software | CSO: software engineering | — |
+| AIH-11405 | process engineering | Programming & Software | CSO: software engineering | [1984](https://doi.org/10.1016/0255-2701(84)80001-x) (source only) |
 | AIH-14516 | process management | Programming & Software | CSO: software engineering | — |
 | AIH-14517 | process models | Programming & Software | CSO: software engineering | — |
 | AIH-14518 | process planning | Programming & Software | CSO: software engineering | — |
@@ -88,15 +88,15 @@
 | AIH-14520 | productivity increasing | Programming & Software | CSO: software architecture | — |
 | AIH-10163 | program analysis | Programming & Software | CSO: program analysis | — |
 | AIH-14521 | program comprehension | Programming & Software | CSO: software engineering | — |
-| AIH-11406 | program diagnostics | Programming & Software | CSO: software engineering | — |
-| AIH-11407 | program documentation | Programming & Software | CSO: software engineering | — |
+| AIH-11406 | program diagnostics | Programming & Software | CSO: software engineering | [1999](https://doi.org/10.1002/047134608x.w6933) (source only) |
+| AIH-11407 | program documentation | Programming & Software | CSO: software engineering | [1966](https://doi.org/10.2172/4544877) (source only) |
 | AIH-14522 | program slicing | Programming & Software | CSO: software engineering | — |
 | AIH-14523 | program understanding | Programming & Software | CSO: software engineering | — |
 | AIH-10164 | programming languages | Programming & Software | CSO: programming languages | [1975](https://doi.org/10.1145/512976.512991) (source only) |
 | AIH-14524 | prototyping | Programming & Software | CSO: software architecture | — |
 | AIH-14564 | prototyping process | Programming & Software | CSO: software architecture | — |
 | AIH-14571 | pushdown systems | Programming & Software | CSO: software architecture | — |
-| AIH-11408 | quality attributes | Programming & Software | CSO: software architecture | — |
+| AIH-11408 | quality attributes | Programming & Software | CSO: software architecture | [1989](https://doi.org/10.1071/9780643101456.ch03) (source only) |
 | AIH-11409 | quality characteristic | Programming & Software | CSO: software architecture | — |
 | AIH-14526 | quality concerns | Programming & Software | CSO: software architecture | — |
 | AIH-14527 | quality increasing | Programming & Software | CSO: software architecture | — |
@@ -115,11 +115,11 @@
 | AIH-14540 | representational state transfer | Programming & Software | CSO: software architecture | — |
 | AIH-14541 | requirement analysis | Programming & Software | CSO: software engineering | — |
 | AIH-14542 | requirement elicitation | Programming & Software | CSO: software engineering | — |
-| AIH-11411 | requirement engineering | Programming & Software | CSO: software engineering | — |
+| AIH-11411 | requirement engineering | Programming & Software | CSO: software engineering | [2008](https://doi.org/10.1109/icadiwt.2008.4664355) (source only) |
 | AIH-14543 | requirements analysis | Programming & Software | CSO: software engineering | — |
 | AIH-14544 | requirements document | Programming & Software | CSO: software engineering | — |
 | AIH-14545 | requirements elicitation | Programming & Software | CSO: software engineering | — |
-| AIH-11412 | requirements engineering | Programming & Software | CSO: software engineering | — |
+| AIH-11412 | requirements engineering | Programming & Software | CSO: software engineering | [1991](https://doi.org/10.1515/9783110703801-010) (source only) |
 | AIH-14546 | requirements engineering process | Programming & Software | CSO: software engineering | — |
 | AIH-14547 | requirements engineers | Programming & Software | CSO: software engineering | — |
 | AIH-14548 | requirements management | Programming & Software | CSO: software engineering | — |
@@ -134,10 +134,10 @@
 | AIH-14557 | rup | Programming & Software | CSO: software architecture | — |
 | AIH-14558 | scrum | Programming & Software | CSO: software architecture | — |
 | AIH-14559 | secure software | Programming & Software | CSO: software engineering | — |
-| AIH-11413 | security engineering | Programming & Software | CSO: software engineering | — |
+| AIH-11413 | security engineering | Programming & Software | CSO: software engineering | [2003](https://doi.org/10.1016/s0167-4048(03)00605-9) (source only) |
 | AIH-14560 | security requirements engineering | Programming & Software | CSO: software engineering | — |
 | AIH-14562 | service architecture | Programming & Software | CSO: software architecture | — |
-| AIH-11414 | service-based systems | Programming & Software | CSO: software engineering | — |
+| AIH-11414 | service-based systems | Programming & Software | CSO: software engineering | [2011](https://doi.org/10.1109/scc.2011.114) (source only) |
 | AIH-14563 | service-oriented architecture (soa) | Programming & Software | CSO: software architecture | — |
 | AIH-14565 | service-oriented architectures | Programming & Software | CSO: software architecture | — |
 | AIH-14566 | shared data pattern | Programming & Software | CSO: software architecture | — |
@@ -148,10 +148,10 @@
 | AIH-10165 | software architecture | Programming & Software | CSO: software architecture | — |
 | AIH-14572 | software architecture assessment | Programming & Software | CSO: software architecture | — |
 | AIH-14573 | software architecture decay | Programming & Software | CSO: software architecture | — |
-| AIH-11415 | software architecture design | Programming & Software | CSO: software architecture | — |
+| AIH-11415 | software architecture design | Programming & Software | CSO: software architecture | [1996](https://doi.org/10.1145/243327.243616) (source only) |
 | AIH-14574 | software architecture erosion | Programming & Software | CSO: software architecture | — |
 | AIH-14575 | software architecture evaluation | Programming & Software | CSO: software architecture | — |
-| AIH-11416 | software architecture patterns | Programming & Software | CSO: software architecture | — |
+| AIH-11416 | software architecture patterns | Programming & Software | CSO: software architecture | [2007](https://doi.org/10.1109/wicsa.2007.32) (source only) |
 | AIH-14576 | software architecture reconstruction | Programming & Software | CSO: software architecture | — |
 | AIH-14577 | software architecture reverse engineering | Programming & Software | CSO: software architecture | — |
 | AIH-14578 | software architectures | Programming & Software | CSO: software engineering | — |
@@ -162,14 +162,14 @@
 | AIH-11417 | software design patterns | Programming & Software | CSO: software architecture | — |
 | AIH-11419 | software developer | Programming & Software | CSO: software architecture | — |
 | AIH-11420 | software developers | Programming & Software | CSO: software architecture | — |
-| AIH-11424 | software development | Programming & Software | CSO: software architecture | — |
+| AIH-11424 | software development | Programming & Software | CSO: software architecture | [1985](https://doi.org/10.1017/cbo9780511624223.004) (source only) |
 | AIH-11421 | software development life cycle | Programming & Software | CSO: software architecture | — |
 | AIH-14582 | software development methodologies | Programming & Software | CSO: software architecture | — |
 | AIH-14583 | software development methods | Programming & Software | CSO: software architecture | — |
 | AIH-14584 | software development organizations | Programming & Software | CSO: software architecture | — |
 | AIH-14585 | software development practices | Programming & Software | CSO: software architecture | — |
-| AIH-11422 | software development process | Programming & Software | CSO: software architecture | — |
-| AIH-11423 | software development projects | Programming & Software | CSO: software architecture | — |
+| AIH-11422 | software development process | Programming & Software | CSO: software architecture | [1985](https://doi.org/10.1017/cbo9780511624223.004) (source only) |
+| AIH-11423 | software development projects | Programming & Software | CSO: software architecture | [2007](https://doi.org/10.1108/k.2007.06736aae.003) (source only) |
 | AIH-14586 | software development teams | Programming & Software | CSO: software architecture | — |
 | AIH-10166 | software engineering | Programming & Software | CSO: software engineering | [1983](https://doi.org/10.1016/0141-1195(83)90142-0) (source only) |
 | AIH-14587 | software engineering course | Programming & Software | CSO: software engineering | — |
@@ -193,16 +193,16 @@
 | AIH-14604 | software requirements | Programming & Software | CSO: software engineering | — |
 | AIH-14605 | software systems | Programming & Software | CSO: software engineering | — |
 | AIH-14606 | software teams | Programming & Software | CSO: software architecture | — |
-| AIH-11427 | solution methods | Programming & Software | CSO: programming languages | — |
+| AIH-11427 | solution methods | Programming & Software | CSO: programming languages | [1994](https://doi.org/10.1017/cbo9780511624100.002) (source only) |
 | AIH-14607 | source code analysis | Programming & Software | CSO: software engineering | — |
-| AIH-11429 | source codes | Programming & Software | CSO: software engineering | — |
+| AIH-11429 | source codes | Programming & Software | CSO: software engineering | [1991](https://doi.org/10.1109/18.79932) (source only) |
 | AIH-14608 | static and dynamic analysis | Programming & Software | CSO: software engineering | — |
 | AIH-14609 | static program analysis | Programming & Software | CSO: software engineering | — |
 | AIH-14610 | sysml | Programming & Software | CSO: software engineering | — |
-| AIH-11431 | system architecture | Programming & Software | CSO: software engineering | — |
-| AIH-11432 | system architectures | Programming & Software | CSO: software engineering | — |
+| AIH-11431 | system architecture | Programming & Software | CSO: software engineering | [1991](https://doi.org/10.1016/b978-1-85617-119-9.50007-x) (source only) |
+| AIH-11432 | system architectures | Programming & Software | CSO: software engineering | [1980](https://doi.org/10.21236/ada082927) (source only) |
 | AIH-14611 | system requirements | Programming & Software | CSO: software engineering | — |
-| AIH-11433 | system testing | Programming & Software | CSO: software engineering | — |
+| AIH-11433 | system testing | Programming & Software | CSO: software engineering | [1996](https://doi.org/10.1016/0960-1481(96)88359-5) (source only) |
 | AIH-11434 | system under test | Programming & Software | CSO: software engineering | — |
 | AIH-14612 | system usability | Programming & Software | CSO: software engineering | — |
 | AIH-11435 | systems architecting | Programming & Software | CSO: software architecture | — |
@@ -216,12 +216,12 @@
 | AIH-14619 | tactics for security | Programming & Software | CSO: software architecture | — |
 | AIH-14620 | tactics for testability | Programming & Software | CSO: software architecture | — |
 | AIH-14621 | technology innovation | Programming & Software | CSO: software engineering | — |
-| AIH-11438 | test case generation | Programming & Software | CSO: software engineering | — |
-| AIH-11439 | test case selection | Programming & Software | CSO: software engineering | — |
-| AIH-11440 | test data generation | Programming & Software | CSO: software engineering | — |
+| AIH-11438 | test case generation | Programming & Software | CSO: software engineering | [1978](https://doi.org/10.21236/ada052726) (source only) |
+| AIH-11439 | test case selection | Programming & Software | CSO: software engineering | [2008](https://doi.org/10.1002/9780470464076.ch2) (source only) |
+| AIH-11440 | test data generation | Programming & Software | CSO: software engineering | [1972](https://doi.org/10.1145/569943.569944) (source only) |
 | AIH-14622 | tool support | Programming & Software | CSO: software engineering | — |
 | AIH-14623 | traceability management | Programming & Software | CSO: software architecture | — |
-| AIH-11441 | transformation rules | Programming & Software | CSO: software engineering | — |
+| AIH-11441 | transformation rules | Programming & Software | CSO: software engineering | [1972](https://doi.org/10.1515/9783111349695-005) (source only) |
 | AIH-11442 | uml | Programming & Software | CSO: software engineering | — |
 | AIH-14624 | uml 2.0 | Programming & Software | CSO: software engineering | — |
 | AIH-14625 | uml class diagrams | Programming & Software | CSO: software engineering | — |
@@ -235,48 +235,48 @@
 | AIH-11444 | unified modeling language | Programming & Software | CSO: software engineering | — |
 | AIH-11445 | unified modelling language | Programming & Software | CSO: software engineering | — |
 | AIH-14633 | usability assessment | Programming & Software | CSO: software engineering | — |
-| AIH-11446 | usability engineering | Programming & Software | CSO: software engineering | — |
+| AIH-11446 | usability engineering | Programming & Software | CSO: software engineering | [1993](https://doi.org/10.1016/c2009-0-21512-1) (source only) |
 | AIH-14634 | usability methods | Programming & Software | CSO: software engineering | — |
 | AIH-14635 | usability problems | Programming & Software | CSO: software engineering | — |
 | AIH-14636 | usability requirements | Programming & Software | CSO: software engineering | — |
 | AIH-14637 | usability studies | Programming & Software | CSO: software engineering | — |
 | AIH-14638 | usability study | Programming & Software | CSO: software engineering | — |
 | AIH-14639 | user testing | Programming & Software | CSO: software engineering | — |
-| AIH-11447 | viewpoint | Programming & Software | CSO: software architecture | — |
+| AIH-11447 | viewpoint | Programming & Software | CSO: software architecture | [1960](https://doi.org/10.1111/apv.11002) (source only) |
 | AIH-14640 | waterfall | Programming & Software | CSO: software architecture | — |
 | AIH-14641 | web application development | Programming & Software | CSO: software engineering | — |
-| AIH-11448 | web engineering | Programming & Software | CSO: software engineering | — |
+| AIH-11448 | web engineering | Programming & Software | CSO: software engineering | [2001](https://doi.org/10.1007/3-540-45144-7_4) (source only) |
 | AIH-14642 | web usability | Programming & Software | CSO: software engineering | — |
 | AIH-14643 | whiteboard | Programming & Software | CSO: software architecture | — |
 | AIH-14644 | z formal specification | Programming & Software | CSO: software engineering | — |
 | AIH-14645 | z notation | Programming & Software | CSO: software engineering | — |
-| AIH-11449 | action selection | Reinforcement Learning | CSO: reinforcement learning | — |
-| AIH-11450 | action spaces | Reinforcement Learning | CSO: reinforcement learning | — |
-| AIH-11452 | actor-critic algorithms | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11449 | action selection | Reinforcement Learning | CSO: reinforcement learning | [1993](https://doi.org/10.21236/ada274261) (source only) |
+| AIH-11450 | action spaces | Reinforcement Learning | CSO: reinforcement learning | [2011](https://doi.org/10.26481/umamet.2011029) (source only) |
+| AIH-11452 | actor-critic algorithms | Reinforcement Learning | CSO: reinforcement learning | [2006](https://doi.org/10.1109/acc.2006.1656451) (source only) |
 | AIH-14646 | adaptive dynamic programming | Reinforcement Learning | CSO: reinforcement learning | — |
-| AIH-11453 | approximate dynamic programming | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11453 | approximate dynamic programming | Reinforcement Learning | CSO: reinforcement learning | [2006](https://doi.org/10.1108/k.2006.06735aae.005) (source only) |
 | AIH-14647 | auction mechanisms | Reinforcement Learning | CSO: game theory | — |
-| AIH-11454 | average reward | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11454 | average reward | Reinforcement Learning | CSO: reinforcement learning | [1973](https://doi.org/10.5109/13072) (source only) |
 | AIH-14648 | best response | Reinforcement Learning | CSO: game theory | — |
-| AIH-11455 | computer game | Reinforcement Learning | CSO: game theory | — |
-| AIH-11456 | computer games | Reinforcement Learning | CSO: game theory | — |
+| AIH-11455 | computer game | Reinforcement Learning | CSO: game theory | [1976](https://doi.org/10.1016/0010-4485(76)90105-6) (source only) |
+| AIH-11456 | computer games | Reinforcement Learning | CSO: game theory | [1998](https://doi.org/10.7551/mitpress/3125.003.0005) (source only) |
 | AIH-14649 | continuous state | Reinforcement Learning | CSO: reinforcement learning | — |
-| AIH-11457 | continuous state space | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11457 | continuous state space | Reinforcement Learning | CSO: reinforcement learning | [1958](https://doi.org/10.21136/cmj.1958.100304) (source only) |
 | AIH-11458 | cooperative game theory | Reinforcement Learning | CSO: game theory | — |
 | AIH-11460 | cooperative games | Reinforcement Learning | CSO: game theory | — |
 | AIH-14650 | correlated equilibria | Reinforcement Learning | CSO: game theory | — |
 | AIH-14651 | digital games | Reinforcement Learning | CSO: game theory | — |
 | AIH-14652 | dominant strategy | Reinforcement Learning | CSO: game theory | — |
-| AIH-11461 | dynamic spectrum sharing | Reinforcement Learning | CSO: game theory | — |
+| AIH-11461 | dynamic spectrum sharing | Reinforcement Learning | CSO: game theory | [2007](https://doi.org/10.1109/dyspan.2007.44) (source only) |
 | AIH-14654 | evolution of cooperation | Reinforcement Learning | CSO: game theory | — |
 | AIH-11462 | evolutionarily stable strategy | Reinforcement Learning | CSO: game theory | — |
-| AIH-11464 | evolutionary game | Reinforcement Learning | CSO: game theory | — |
-| AIH-11463 | evolutionary game theory | Reinforcement Learning | CSO: game theory | — |
-| AIH-11465 | evolutionary games | Reinforcement Learning | CSO: game theory | — |
+| AIH-11464 | evolutionary game | Reinforcement Learning | CSO: game theory | [1990](https://doi.org/10.1016/b978-0-12-370182-4.50027-1) (source only) |
+| AIH-11463 | evolutionary game theory | Reinforcement Learning | CSO: game theory | [1990](https://doi.org/10.1016/b978-0-12-370182-4.50027-1) (source only) |
+| AIH-11465 | evolutionary games | Reinforcement Learning | CSO: game theory | [1995](https://doi.org/10.4324/9780203199275.ch7) (source only) |
 | AIH-14655 | evolutionary stability | Reinforcement Learning | CSO: game theory | — |
 | AIH-14656 | evolutionary stable strategy | Reinforcement Learning | CSO: game theory | — |
 | AIH-14657 | existence and uniqueness | Reinforcement Learning | CSO: game theory | — |
-| AIH-11466 | function approximation | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11466 | function approximation | Reinforcement Learning | CSO: reinforcement learning | [1963](https://doi.org/10.21236/ad0402778) (source only) |
 | AIH-14658 | function approximators | Reinforcement Learning | CSO: reinforcement learning | — |
 | AIH-14659 | game analysis | Reinforcement Learning | CSO: game theory | — |
 | AIH-14660 | game environment | Reinforcement Learning | CSO: game theory | — |
@@ -284,62 +284,62 @@
 | AIH-11468 | game-theoretic | Reinforcement Learning | CSO: game theory | — |
 | AIH-14661 | game-theoretic model | Reinforcement Learning | CSO: game theory | — |
 | AIH-11469 | goal-conditioned learning | Reinforcement Learning | CSO: reinforcement learning | — |
-| AIH-11470 | goal-conditioned reinforcement learning | Reinforcement Learning | CSO: reinforcement learning | — |
-| AIH-11471 | goal-conditioned rl | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11470 | goal-conditioned reinforcement learning | Reinforcement Learning | CSO: reinforcement learning | [2020](https://doi.org/10.1299/jsmermd.2020.2a1-l01) (source only) |
+| AIH-11471 | goal-conditioned rl | Reinforcement Learning | CSO: reinforcement learning | [2023](https://doi.org/10.52202/075280-1515) (source only) |
 | AIH-11473 | hierarchical rl | Reinforcement Learning | CSO: reinforcement learning | — |
 | AIH-14662 | incentive compatibility | Reinforcement Learning | CSO: game theory | — |
 | AIH-14663 | incentive compatible | Reinforcement Learning | CSO: game theory | — |
 | AIH-11475 | incentive mechanism | Reinforcement Learning | CSO: game theory | — |
-| AIH-11476 | incentive mechanisms | Reinforcement Learning | CSO: game theory | — |
+| AIH-11476 | incentive mechanisms | Reinforcement Learning | CSO: game theory | [1981](https://doi.org/10.1016/b978-0-08-025837-9.50009-6) (source only) |
 | AIH-14664 | incentive schemes | Reinforcement Learning | CSO: game theory | — |
 | AIH-14665 | iterated prisoners dilemma | Reinforcement Learning | CSO: game theory | — |
-| AIH-11477 | kernelized reinforcement learning | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11477 | kernelized reinforcement learning | Reinforcement Learning | CSO: reinforcement learning | [2023](https://doi.org/10.52202/075280-0186) (source only) |
 | AIH-11478 | kernelized rl | Reinforcement Learning | CSO: reinforcement learning | — |
-| AIH-11479 | leader-follower | Reinforcement Learning | CSO: game theory | — |
+| AIH-11479 | leader-follower | Reinforcement Learning | CSO: game theory | [2004](https://doi.org/10.4135/9781412952392.n192) (source only) |
 | AIH-14666 | mixed strategy | Reinforcement Learning | CSO: game theory | — |
 | AIH-11481 | model free | Reinforcement Learning | CSO: reinforcement learning | — |
 | AIH-14667 | nash bargaining solution | Reinforcement Learning | CSO: game theory | — |
-| AIH-11482 | nash equilibria | Reinforcement Learning | CSO: game theory | — |
+| AIH-11482 | nash equilibria | Reinforcement Learning | CSO: game theory | [1982](https://doi.org/10.21236/ada114693) (source only) |
 | AIH-14670 | non-cooperative | Reinforcement Learning | CSO: game theory | — |
 | AIH-14668 | non-cooperative game | Reinforcement Learning | CSO: game theory | — |
 | AIH-14669 | non-cooperative games | Reinforcement Learning | CSO: game theory | — |
 | AIH-14672 | optimal mechanism | Reinforcement Learning | CSO: game theory | — |
 | AIH-11484 | optimal strategies | Reinforcement Learning | CSO: game theory | — |
-| AIH-11485 | optimal strategy | Reinforcement Learning | CSO: game theory | — |
-| AIH-11486 | partially observable markov decision process | Reinforcement Learning | CSO: reinforcement learning | — |
-| AIH-11487 | partially observable markov decision processes | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11485 | optimal strategy | Reinforcement Learning | CSO: game theory | [1959](https://doi.org/10.21136/cpm.1959.117317) (source only) |
+| AIH-11486 | partially observable markov decision process | Reinforcement Learning | CSO: reinforcement learning | [1996](https://doi.org/10.1287/opre.44.3.458) (source only) |
+| AIH-11487 | partially observable markov decision processes | Reinforcement Learning | CSO: reinforcement learning | [1976](https://doi.org/10.1037/e429542004-001) (source only) |
 | AIH-14673 | payoff function | Reinforcement Learning | CSO: game theory | — |
 | AIH-14674 | planning under uncertainty | Reinforcement Learning | CSO: reinforcement learning | — |
 | AIH-14677 | potential games | Reinforcement Learning | CSO: game theory | — |
 | AIH-14678 | price of anarchy | Reinforcement Learning | CSO: game theory | — |
 | AIH-14679 | principal-agent theory | Reinforcement Learning | CSO: game theory | — |
-| AIH-11489 | prisoner dilemma | Reinforcement Learning | CSO: game theory | — |
-| AIH-11490 | prisoners dilemma | Reinforcement Learning | CSO: game theory | — |
+| AIH-11489 | prisoner dilemma | Reinforcement Learning | CSO: game theory | [2003](https://doi.org/10.1016/s0375-9601(03)01175-7) (source only) |
+| AIH-11490 | prisoners dilemma | Reinforcement Learning | CSO: game theory | [1983](https://doi.org/10.1007/bf00485828) (source only) |
 | AIH-14680 | q-learning algorithms | Reinforcement Learning | CSO: reinforcement learning | — |
 | AIH-14681 | q-values | Reinforcement Learning | CSO: reinforcement learning | — |
-| AIH-11492 | reinforcement learning approach | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11492 | reinforcement learning approach | Reinforcement Learning | CSO: reinforcement learning | [2008](https://doi.org/10.5772/5285) (source only) |
 | AIH-14682 | reinforcement learning method | Reinforcement Learning | CSO: reinforcement learning | — |
 | AIH-11493 | reinforcement learning techniques | Reinforcement Learning | CSO: reinforcement learning | — |
-| AIH-11494 | reinforcement learning with human feedback | Reinforcement Learning | CSO: reinforcement learning | — |
-| AIH-11495 | repeated games | Reinforcement Learning | CSO: game theory | — |
+| AIH-11494 | reinforcement learning with human feedback | Reinforcement Learning | CSO: reinforcement learning | [2024](https://doi.org/10.52783/jes.1363) (source only) |
+| AIH-11495 | repeated games | Reinforcement Learning | CSO: game theory | [1987](https://doi.org/10.21236/ada198447) (source only) |
 | AIH-14683 | replicator dynamics | Reinforcement Learning | CSO: game theory | — |
 | AIH-11496 | retail price | Reinforcement Learning | CSO: game theory | — |
-| AIH-11499 | selfish node | Reinforcement Learning | CSO: game theory | — |
-| AIH-11500 | selfish nodes | Reinforcement Learning | CSO: game theory | — |
+| AIH-11499 | selfish node | Reinforcement Learning | CSO: game theory | [2007](https://doi.org/10.1049/cp:20070789) (source only) |
+| AIH-11500 | selfish nodes | Reinforcement Learning | CSO: game theory | [2006](https://doi.org/10.1002/wcm.440) (source only) |
 | AIH-10169 | sequential decision making | Reinforcement Learning | CSO: sequential decision making | — |
 | AIH-14684 | shapley value | Reinforcement Learning | CSO: game theory | — |
 | AIH-14686 | stackelberg | Reinforcement Learning | CSO: game theory | — |
 | AIH-14685 | stackelberg equilibrium | Reinforcement Learning | CSO: game theory | — |
-| AIH-11501 | stackelberg game | Reinforcement Learning | CSO: game theory | — |
-| AIH-11502 | stackelberg games | Reinforcement Learning | CSO: game theory | — |
+| AIH-11501 | stackelberg game | Reinforcement Learning | CSO: game theory | [1987](https://doi.org/10.1016/s0165-1889(87)80004-0) (source only) |
+| AIH-11502 | stackelberg games | Reinforcement Learning | CSO: game theory | [2004](https://doi.org/10.1016/j.geb.2003.07.003) (source only) |
 | AIH-14687 | strategic game | Reinforcement Learning | CSO: game theory | — |
 | AIH-14688 | strategy proofs | Reinforcement Learning | CSO: game theory | — |
-| AIH-11504 | temporal differences | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11504 | temporal differences | Reinforcement Learning | CSO: reinforcement learning | [1981](https://doi.org/10.1121/1.386775) (source only) |
 | AIH-14689 | truthful mechanisms | Reinforcement Learning | CSO: game theory | — |
-| AIH-11505 | utility function | Reinforcement Learning | CSO: game theory | — |
-| AIH-11506 | utility functions | Reinforcement Learning | CSO: game theory | — |
+| AIH-11505 | utility function | Reinforcement Learning | CSO: game theory | [1934](https://doi.org/10.2307/2967485) (source only) |
+| AIH-11506 | utility functions | Reinforcement Learning | CSO: game theory | [1976](https://doi.org/10.21236/ada029655) (source only) |
 | AIH-14690 | value function approximation | Reinforcement Learning | CSO: reinforcement learning | — |
-| AIH-11508 | value functions | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11508 | value functions | Reinforcement Learning | CSO: reinforcement learning | [1986](https://doi.org/10.1142/9789814415477_0018) (source only) |
 | AIH-14691 | vcg mechanism | Reinforcement Learning | CSO: game theory | — |
 | AIH-14693 | absolute stability | Robotics | CSO: control systems | — |
 | AIH-14694 | active control | Robotics | CSO: control systems | — |
@@ -348,7 +348,7 @@
 | AIH-14695 | actuator failures | Robotics | CSO: control systems | — |
 | AIH-10330 | adaptive sliding mode control | Robotics | CSO: robotics | — |
 | AIH-10331 | adaptive sliding mode controller | Robotics | CSO: robotics | [1996](https://doi.org/10.1016/s1474-6670(17)58511-0) (source only) |
-| AIH-10733 | air traffic controller | Robotics | CSO: robotics | — |
+| AIH-10733 | air traffic controller | Robotics | CSO: robotics | [1957](https://doi.org/10.1037/e422022004-001) (source only) |
 | AIH-14696 | aircraft control | Robotics | CSO: control systems | — |
 | AIH-14698 | anti-collision | Robotics | CSO: motion planning | — |
 | AIH-14697 | anti-collision algorithms | Robotics | CSO: motion planning | — |
@@ -356,73 +356,73 @@
 | AIH-14700 | artificial potential fields | Robotics | CSO: motion planning | — |
 | AIH-14701 | assembly planning | Robotics | CSO: motion planning | — |
 | AIH-14702 | assembly tasks | Robotics | CSO: motion planning | — |
-| AIH-11509 | assistive devices | Robotics | CSO: robotics | — |
+| AIH-11509 | assistive devices | Robotics | CSO: robotics | [1994](https://doi.org/10.1080/10400435.1994.10132228) (source only) |
 | AIH-14703 | asymptotical stability | Robotics | CSO: control systems | — |
 | AIH-14704 | automated guided vehicles | Robotics | CSO: robotics | — |
-| AIH-11510 | autonomous mobile robot | Robotics | CSO: motion planning | — |
-| AIH-11511 | autonomous mobile robots | Robotics | CSO: motion planning | — |
+| AIH-11510 | autonomous mobile robot | Robotics | CSO: motion planning | [1989](https://doi.org/10.1109/2.30718) (source only) |
+| AIH-11511 | autonomous mobile robots | Robotics | CSO: motion planning | [1987](https://doi.org/10.7551/mitpress/1166.003.0014) (source only) |
 | AIH-14706 | autonomous robot | Robotics | CSO: robotics | — |
 | AIH-14707 | autonomous robots | Robotics | CSO: robotics | — |
 | AIH-14708 | autonomous underwater vehicle (auv) | Robotics | CSO: robotics | — |
 | AIH-14711 | autonomous underwater vehicles | Robotics | CSO: robotics | — |
 | AIH-14712 | bilateral control | Robotics | CSO: motion planning | — |
-| AIH-10816 | bilateral teleoperation | Robotics | CSO: robotics | — |
-| AIH-11512 | biomimetic | Robotics | CSO: robotics | — |
+| AIH-10816 | bilateral teleoperation | Robotics | CSO: robotics | [2001](https://doi.org/10.23919/ecc.2001.7076076) (source only) |
+| AIH-11512 | biomimetic | Robotics | CSO: robotics | [1990](https://doi.org/10.1007/978-1-4613-0657-3_1) (source only) |
 | AIH-14713 | biomimetic material | Robotics | CSO: robotics | — |
 | AIH-14714 | biomimetic materials | Robotics | CSO: robotics | — |
-| AIH-11513 | biomimetics | Robotics | CSO: robotics | — |
+| AIH-11513 | biomimetics | Robotics | CSO: robotics | [1994](https://doi.org/10.1002/jemt.1070270503) (source only) |
 | AIH-14715 | biped locomotion | Robotics | CSO: robotics | — |
 | AIH-14716 | c-systems | Robotics | CSO: robotics | — |
-| AIH-11322 | chattering | Robotics | CSO: robotics | — |
-| AIH-11324 | chattering phenomenon | Robotics | CSO: robotics | — |
-| AIH-11515 | closed-loop controls | Robotics | CSO: robotics | — |
-| AIH-11516 | collision avoidance | Robotics | CSO: motion planning | — |
+| AIH-11322 | chattering | Robotics | CSO: robotics | [1925](https://doi.org/10.2307/912184) (source only) |
+| AIH-11324 | chattering phenomenon | Robotics | CSO: robotics | [2001](https://doi.org/10.1007/bf03184373) (source only) |
+| AIH-11515 | closed-loop controls | Robotics | CSO: robotics | [1969](https://doi.org/10.1016/0022-0396(69)90019-9) (source only) |
+| AIH-11516 | collision avoidance | Robotics | CSO: motion planning | [1972](https://openalex.org/W769091025) (source only) |
 | AIH-14717 | collision avoidance systems | Robotics | CSO: motion planning | — |
 | AIH-14718 | collision detection | Robotics | CSO: motion planning | — |
 | AIH-14719 | collision-free paths | Robotics | CSO: motion planning | — |
 | AIH-14720 | communication robot | Robotics | CSO: robotics | — |
-| AIH-11514 | compliant joints | Robotics | CSO: motion planning | — |
-| AIH-11517 | computer control | Robotics | CSO: control systems | — |
-| AIH-11533 | contact models | Robotics | CSO: robotics | — |
-| AIH-11545 | contact points | Robotics | CSO: robotics | — |
+| AIH-11514 | compliant joints | Robotics | CSO: motion planning | [1988](https://doi.org/10.1016/0895-7177(88)90674-7) (source only) |
+| AIH-11517 | computer control | Robotics | CSO: control systems | [1959](https://doi.org/10.1109/tac.1959.1104883) (source only) |
+| AIH-11533 | contact models | Robotics | CSO: robotics | [1967](https://doi.org/10.4157/grj.40.564) (source only) |
+| AIH-11545 | contact points | Robotics | CSO: robotics | [1938](https://doi.org/10.1049/jiee-1.1938.0096) (source only) |
 | AIH-14722 | control parameters | Robotics | CSO: control systems | — |
-| AIH-11518 | control system analysis | Robotics | CSO: control systems | — |
+| AIH-11518 | control system analysis | Robotics | CSO: control systems | [1960](https://doi.org/10.1115/1.3662604) (source only) |
 | AIH-14723 | control system stability | Robotics | CSO: control systems | — |
 | AIH-10170 | control systems | Robotics | CSO: control systems | [1982](https://doi.org/10.1016/s0167-6911(82)80027-3) (source only) |
-| AIH-11549 | control towers | Robotics | CSO: robotics | — |
-| AIH-11553 | conventional pid | Robotics | CSO: control systems | — |
+| AIH-11549 | control towers | Robotics | CSO: robotics | [1959](https://doi.org/10.1121/1.2369379) (source only) |
+| AIH-11553 | conventional pid | Robotics | CSO: control systems | [1984](https://doi.org/10.1016/0009-2509(84)85075-7) (source only) |
 | AIH-14724 | conventional-pi controller | Robotics | CSO: control systems | — |
-| AIH-11519 | cooperative localization | Robotics | CSO: robotics | — |
-| AIH-11556 | dc servomotors | Robotics | CSO: motion planning | — |
+| AIH-11519 | cooperative localization | Robotics | CSO: robotics | [2002](https://doi.org/10.1109/iros.2001.976240) (source only) |
+| AIH-11556 | dc servomotors | Robotics | CSO: motion planning | [1977](https://doi.org/10.1109/tia.1977.4503398) (source only) |
 | AIH-14725 | delay-dependent | Robotics | CSO: control systems | — |
-| AIH-11568 | delay-dependent robust stability | Robotics | CSO: control systems | — |
+| AIH-11568 | delay-dependent robust stability | Robotics | CSO: control systems | [2001](https://doi.org/10.1049/el:20010632) (source only) |
 | AIH-14726 | design automation conference (dac) | Robotics | CSO: robotics | — |
 | AIH-13535 | dexterous hands | Robotics | CSO: robotics | — |
 | AIH-13541 | dexterous manipulation | Robotics | CSO: robotics | — |
 | AIH-14727 | distributed delay | Robotics | CSO: control systems | — |
 | AIH-14728 | distributed delays | Robotics | CSO: control systems | — |
 | AIH-14729 | disturbance observer | Robotics | CSO: motion planning | — |
-| AIH-11520 | dynamic environment | Robotics | CSO: motion planning | — |
-| AIH-11521 | dynamic environments | Robotics | CSO: motion planning | — |
+| AIH-11520 | dynamic environment | Robotics | CSO: motion planning | [1995](https://doi.org/10.1142/9789812831507_0008) (source only) |
+| AIH-11521 | dynamic environments | Robotics | CSO: motion planning | [2002](https://doi.org/10.1007/978-1-4615-0911-0_2) (source only) |
 | AIH-14730 | dynamic inversion | Robotics | CSO: control systems | — |
 | AIH-13997 | electric frequency control | Robotics | CSO: control systems | — |
 | AIH-14195 | electromagnetic torques | Robotics | CSO: motion planning | — |
 | AIH-14271 | equivalent control | Robotics | CSO: robotics | — |
 | AIH-14731 | exponential stability | Robotics | CSO: control systems | — |
 | AIH-14369 | facts devices | Robotics | CSO: control systems | — |
-| AIH-11522 | fault tolerant control | Robotics | CSO: control systems | — |
+| AIH-11522 | fault tolerant control | Robotics | CSO: control systems | [2003](https://doi.org/10.1007/978-3-662-05344-7_1) (source only) |
 | AIH-14732 | fault tolerant control systems | Robotics | CSO: control systems | — |
 | AIH-14675 | finite time | Robotics | CSO: robotics | — |
 | AIH-14733 | flexible manipulator | Robotics | CSO: robotics | — |
 | AIH-14734 | flexible manipulators | Robotics | CSO: robotics | — |
 | AIH-14735 | flight conditions | Robotics | CSO: control systems | — |
 | AIH-14736 | flight control | Robotics | CSO: control systems | — |
-| AIH-11523 | flight control system | Robotics | CSO: control systems | — |
-| AIH-11524 | flight control systems | Robotics | CSO: control systems | — |
+| AIH-11523 | flight control system | Robotics | CSO: control systems | [1964](https://doi.org/10.2514/6.1964-328) (source only) |
+| AIH-11524 | flight control systems | Robotics | CSO: control systems | [1968](https://doi.org/10.2514/6.1968-843) (source only) |
 | AIH-14737 | flight envelopes | Robotics | CSO: control systems | — |
 | AIH-14738 | flight test | Robotics | CSO: control systems | — |
 | AIH-14705 | flux linkages | Robotics | CSO: motion planning | — |
-| AIH-11525 | force control | Robotics | CSO: control systems | — |
+| AIH-11525 | force control | Robotics | CSO: control systems | [1977](https://openalex.org/W1554842388) (source only) |
 | AIH-14709 | force feedback devices | Robotics | CSO: robotics | — |
 | AIH-14739 | force sensor | Robotics | CSO: robotics | — |
 | AIH-14740 | force sensors | Robotics | CSO: robotics | — |
@@ -438,17 +438,17 @@
 | AIH-14744 | global path planning | Robotics | CSO: motion planning | — |
 | AIH-14795 | grasped object | Robotics | CSO: robotics | — |
 | AIH-14803 | hand model | Robotics | CSO: robotics | — |
-| AIH-11526 | hand motion | Robotics | CSO: robotics | — |
-| AIH-11527 | haptic guidance | Robotics | CSO: robotics | — |
+| AIH-11526 | hand motion | Robotics | CSO: robotics | [1990](https://doi.org/10.5100/jje.26.supplement_184) (source only) |
+| AIH-11527 | haptic guidance | Robotics | CSO: robotics | [2008](https://doi.org/10.1109/haptics.2008.4479984) (source only) |
 | AIH-14746 | human emotion | Robotics | CSO: robotics | — |
 | AIH-14806 | human hands | Robotics | CSO: robotics | — |
 | AIH-14747 | human machine interaction | Robotics | CSO: robotics | — |
 | AIH-14748 | human machine interface | Robotics | CSO: robotics | — |
-| AIH-11528 | human motion | Robotics | CSO: robotics | — |
+| AIH-11528 | human motion | Robotics | CSO: robotics | [2000](https://doi.org/10.1109/humo.2000.897362) (source only) |
 | AIH-14749 | human motion capture | Robotics | CSO: robotics | — |
 | AIH-14750 | human motion recognition | Robotics | CSO: robotics | — |
 | AIH-14751 | human motion tracking | Robotics | CSO: robotics | — |
-| AIH-11529 | human motions | Robotics | CSO: robotics | — |
+| AIH-11529 | human motions | Robotics | CSO: robotics | [1963](https://doi.org/10.21236/ad0282116) (source only) |
 | AIH-14752 | human robot interactions | Robotics | CSO: robotics | — |
 | AIH-14753 | human system interface | Robotics | CSO: robotics | — |
 | AIH-14754 | human-machine interfaces | Robotics | CSO: robotics | — |
@@ -457,8 +457,8 @@
 | AIH-14821 | indoor navigation system | Robotics | CSO: robotics | — |
 | AIH-14839 | indoor positioning systems | Robotics | CSO: robotics | — |
 | AIH-14758 | industrial manipulators | Robotics | CSO: robotics | — |
-| AIH-11530 | industrial robot | Robotics | CSO: robotics | — |
-| AIH-11531 | industrial robots | Robotics | CSO: robotics | — |
+| AIH-11530 | industrial robot | Robotics | CSO: robotics | [1974](https://doi.org/10.1108/eb004449) (source only) |
+| AIH-11531 | industrial robots | Robotics | CSO: robotics | [1975](https://doi.org/10.1007/978-3-0348-5530-3_5) (source only) |
 | AIH-14854 | integral sliding mode | Robotics | CSO: robotics | — |
 | AIH-14860 | integral sliding mode control | Robotics | CSO: robotics | — |
 | AIH-14759 | known environments | Robotics | CSO: motion planning | — |
@@ -468,28 +468,28 @@
 | AIH-14763 | load torques | Robotics | CSO: control systems | — |
 | AIH-14764 | lyapunov method | Robotics | CSO: control systems | — |
 | AIH-14765 | lyapunov methods | Robotics | CSO: control systems | — |
-| AIH-11532 | lyapunov stability theory | Robotics | CSO: control systems | — |
+| AIH-11532 | lyapunov stability theory | Robotics | CSO: control systems | [1964](https://doi.org/10.1109/jacc.1964.4168699) (source only) |
 | AIH-14766 | lyapunov-krasovskii functional | Robotics | CSO: control systems | — |
 | AIH-14767 | lyapunov-krasovskii functionals | Robotics | CSO: control systems | — |
 | AIH-14768 | machine design | Robotics | CSO: robotics | — |
 | AIH-14769 | magneto-rheological dampers | Robotics | CSO: control systems | — |
-| AIH-11534 | man machine systems | Robotics | CSO: robotics | — |
+| AIH-11534 | man machine systems | Robotics | CSO: robotics | [1954](https://doi.org/10.1049/ipej.1954.0070) (source only) |
 | AIH-14771 | manipulators | Robotics | CSO: robotics | — |
 | AIH-14772 | mechanical vibrations | Robotics | CSO: robotics | — |
 | AIH-14773 | mechatronics | Robotics | CSO: robotics | — |
-| AIH-11535 | micro assembly | Robotics | CSO: robotics | — |
+| AIH-11535 | micro assembly | Robotics | CSO: robotics | [1988](https://doi.org/10.1108/eb036656) (source only) |
 | AIH-14774 | micro part | Robotics | CSO: robotics | — |
 | AIH-14775 | mobile platform | Robotics | CSO: robotics | — |
 | AIH-14776 | mobile platforms | Robotics | CSO: robotics | — |
-| AIH-11537 | mobile robot | Robotics | CSO: robotics | — |
-| AIH-11536 | mobile robot navigation | Robotics | CSO: motion planning | — |
-| AIH-11538 | mobile robotic | Robotics | CSO: robotics | — |
-| AIH-11539 | mobile robotics | Robotics | CSO: robotics | — |
-| AIH-11540 | mobile robots | Robotics | CSO: robotics | — |
+| AIH-11537 | mobile robot | Robotics | CSO: robotics | [1985](https://doi.org/10.1109/jra.1985.1087002) (source only) |
+| AIH-11536 | mobile robot navigation | Robotics | CSO: motion planning | [1985](https://doi.org/10.1117/12.950820) (source only) |
+| AIH-11538 | mobile robotic | Robotics | CSO: robotics | [2002](https://doi.org/10.1007/0-306-47373-9_15) (source only) |
+| AIH-11539 | mobile robotics | Robotics | CSO: robotics | [1997](https://doi.org/10.1023/a:1008855018923) (source only) |
+| AIH-11540 | mobile robots | Robotics | CSO: robotics | [1986](https://doi.org/10.1109/jra.1986.1087051) (source only) |
 | AIH-14777 | modular robots | Robotics | CSO: robotics | — |
 | AIH-14778 | motion capture data | Robotics | CSO: robotics | — |
 | AIH-14779 | motion capture system | Robotics | CSO: robotics | — |
-| AIH-11541 | motion control | Robotics | CSO: motion planning | — |
+| AIH-11541 | motion control | Robotics | CSO: motion planning | [1969](https://openalex.org/W199867479) (source only) |
 | AIH-14780 | motion controller | Robotics | CSO: motion planning | — |
 | AIH-14781 | motion data | Robotics | CSO: robotics | — |
 | AIH-10171 | motion planning | Robotics | CSO: motion planning | — |
@@ -499,8 +499,8 @@
 | AIH-14785 | motion synthesis | Robotics | CSO: robotics | — |
 | AIH-14786 | moving obstacles | Robotics | CSO: motion planning | — |
 | AIH-14787 | multi-body system (mbs) | Robotics | CSO: robotics | — |
-| AIH-11542 | multiple mobile robot | Robotics | CSO: motion planning | — |
-| AIH-11543 | multiple mobile robots | Robotics | CSO: motion planning | — |
+| AIH-11542 | multiple mobile robot | Robotics | CSO: motion planning | [1994](https://doi.org/10.1007/978-4-431-68275-2_12) (source only) |
+| AIH-11543 | multiple mobile robots | Robotics | CSO: motion planning | [1994](https://doi.org/10.21236/ada283919) (source only) |
 | AIH-14788 | multipurpose robots | Robotics | CSO: robotics | — |
 | AIH-14789 | nanosystems | Robotics | CSO: robotics | — |
 | AIH-14790 | navigation system | Robotics | CSO: robotics | — |

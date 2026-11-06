@@ -7,39 +7,39 @@
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-12469 | learning environment | AI Infrastructure | CSO: information systems | — |
-| AIH-12470 | learning environments | AI Infrastructure | CSO: information systems | — |
+| AIH-12470 | learning environments | AI Infrastructure | CSO: information systems | [1992](https://doi.org/10.1080/1049482920020101) (source only) |
 | AIH-12471 | learning experiences | AI Infrastructure | CSO: information systems | — |
 | AIH-12472 | learning from demonstration | AI Infrastructure | CSO: information systems | — |
-| AIH-12473 | learning organization | AI Infrastructure | CSO: information systems | — |
-| AIH-12474 | learning organizations | AI Infrastructure | CSO: information systems | — |
-| AIH-12475 | learning outcome | AI Infrastructure | CSO: information systems | — |
+| AIH-12473 | learning organization | AI Infrastructure | CSO: information systems | [1995](https://doi.org/10.1108/09696479510075606) (source only) |
+| AIH-12474 | learning organizations | AI Infrastructure | CSO: information systems | [2000](https://doi.org/10.1007/978-1-4757-3113-2_9) (source only) |
+| AIH-12475 | learning outcome | AI Infrastructure | CSO: information systems | [2001](https://doi.org/10.4314/ifep.v9i2.23623) (source only) |
 | AIH-12476 | learning outcomes | AI Infrastructure | CSO: information systems | — |
 | AIH-12477 | learning paths | AI Infrastructure | CSO: information systems | — |
-| AIH-12478 | learning style | AI Infrastructure | CSO: information systems | — |
+| AIH-12478 | learning style | AI Infrastructure | CSO: information systems | [1987](https://doi.org/10.1080/00940771.1987.11494744) (source only) |
 | AIH-12479 | learning styles | AI Infrastructure | CSO: information systems | — |
-| AIH-12481 | legacy systems | AI Infrastructure | CSO: information systems | — |
+| AIH-12481 | legacy systems | AI Infrastructure | CSO: information systems | [1997](https://doi.org/10.1080/10580539708907023) (source only) |
 | AIH-12482 | leo satellite networks | AI Infrastructure | CSO: computer networks | — |
-| AIH-12483 | library services | AI Infrastructure | CSO: database systems | — |
-| AIH-12484 | light modulation | AI Infrastructure | CSO: computer networks | — |
+| AIH-12483 | library services | AI Infrastructure | CSO: database systems | [2004](https://doi.org/10.29085/9781856047876.014) (source only) |
+| AIH-12484 | light modulation | AI Infrastructure | CSO: computer networks | [1963](https://doi.org/10.21236/ad0406933) (source only) |
 | AIH-10477 | linear speed-up | AI Infrastructure | CSO: parallel computing | [1991](https://doi.org/10.1002/cpe.4330030102) (source only) |
-| AIH-12485 | link utilization | AI Infrastructure | CSO: computer networks | — |
-| AIH-12486 | live migrations | AI Infrastructure | CSO: cloud computing | — |
+| AIH-12485 | link utilization | AI Infrastructure | CSO: computer networks | [2004](https://doi.org/10.1016/j.comnet.2003.10.006) (source only) |
+| AIH-12486 | live migrations | AI Infrastructure | CSO: cloud computing | [2011](https://doi.org/10.1109/svm.2011.6096464) (source only) |
 | AIH-12487 | live streaming | AI Infrastructure | CSO: computer networks | — |
-| AIH-12488 | local area networks | AI Infrastructure | CSO: computer networks | — |
+| AIH-12488 | local area networks | AI Infrastructure | CSO: computer networks | [1985](https://doi.org/10.1016/c2009-0-26123-x) (source only) |
 | AIH-12489 | locks (fasteners) | AI Infrastructure | CSO: database systems | — |
 | AIH-12490 | logic design | AI Infrastructure | CSO: computer hardware | — |
-| AIH-12491 | logic devices | AI Infrastructure | CSO: computer hardware | — |
+| AIH-12491 | logic devices | AI Infrastructure | CSO: computer hardware | [1971](https://doi.org/10.1109/c-m.1971.216838) (source only) |
 | AIH-12492 | logic gate | AI Infrastructure | CSO: computer hardware | — |
-| AIH-12493 | logic gates | AI Infrastructure | CSO: computer hardware | — |
+| AIH-12493 | logic gates | AI Infrastructure | CSO: computer hardware | [1983](https://doi.org/10.1007/978-1-349-86040-1_19) (source only) |
 | AIH-10478 | logistics information | AI Infrastructure | CSO: information systems | — |
-| AIH-12494 | loop antennas | AI Infrastructure | CSO: computer networks | — |
-| AIH-12496 | lossless compressions | AI Infrastructure | CSO: database systems | — |
+| AIH-12494 | loop antennas | AI Infrastructure | CSO: computer networks | [1960](https://doi.org/10.1109/tap.1960.1144811) (source only) |
+| AIH-12496 | lossless compressions | AI Infrastructure | CSO: database systems | [2005](https://doi.org/10.1117/12.575437) (source only) |
 | AIH-10479 | low power | AI Infrastructure | CSO: computer hardware | [1996](https://doi.org/10.1007/978-1-4615-2307-9_8) (source only) |
-| AIH-12497 | low power design | AI Infrastructure | CSO: computer hardware | — |
-| AIH-12498 | low-power consumption | AI Infrastructure | CSO: computer hardware | — |
-| AIH-12499 | lsi | AI Infrastructure | CSO: computer hardware | — |
+| AIH-12497 | low power design | AI Infrastructure | CSO: computer hardware | [1997](https://doi.org/10.1007/978-1-4615-5685-5_3) (source only) |
+| AIH-12498 | low-power consumption | AI Infrastructure | CSO: computer hardware | [1989](https://doi.org/10.1016/0141-9382(89)90055-3) (source only) |
+| AIH-12499 | lsi | AI Infrastructure | CSO: computer hardware | [2018](https://doi.org/10.5772/intechopen.74171) (source only) |
 | AIH-10480 | lsi circuits | AI Infrastructure | CSO: computer hardware | [1975](https://doi.org/10.1016/0026-2714(75)90522-3) (source only) |
-| AIH-12500 | lumped parameter networks | AI Infrastructure | CSO: computer hardware | — |
+| AIH-12500 | lumped parameter networks | AI Infrastructure | CSO: computer hardware | [2013](https://doi.org/10.1109/iemdc.2013.6556188) (source only) |
 | AIH-12503 | mac | AI Infrastructure | CSO: computer networks | — |
 | AIH-12501 | mac protocol | AI Infrastructure | CSO: computer networks | — |
 | AIH-12502 | mac protocols | AI Infrastructure | CSO: computer networks | — |
@@ -165,16 +165,16 @@
 | AIH-10499 | p2p network | AI Infrastructure | CSO: computer networks | — |
 | AIH-10500 | p2p networks | AI Infrastructure | CSO: computer networks | [2007](https://doi.org/10.1109/p2p.2007.4343460) (source only) |
 | AIH-12612 | p2p streaming | AI Infrastructure | CSO: computer networks | — |
-| AIH-10501 | p2p system | AI Infrastructure | CSO: computer networks | — |
-| AIH-10502 | p2p systems | AI Infrastructure | CSO: computer networks | — |
+| AIH-10501 | p2p system | AI Infrastructure | CSO: computer networks | [2007](https://doi.org/10.1145/1364654.1364690) (source only) |
+| AIH-10502 | p2p systems | AI Infrastructure | CSO: computer networks | [2001](https://doi.org/10.1145/505202.505216) (source only) |
 | AIH-12613 | packet latencies | AI Infrastructure | CSO: computer networks | — |
 | AIH-12614 | packet networks | AI Infrastructure | CSO: computer networks | — |
-| AIH-10504 | parallel and distributed processing | AI Infrastructure | CSO: computer networks | — |
-| AIH-10505 | parallel computation | AI Infrastructure | CSO: parallel computing | — |
-| AIH-10506 | parallel computations | AI Infrastructure | CSO: parallel computing | — |
+| AIH-10504 | parallel and distributed processing | AI Infrastructure | CSO: computer networks | [1981](https://doi.org/10.1109/tc.1981.1675771) (source only) |
+| AIH-10505 | parallel computation | AI Infrastructure | CSO: parallel computing | [1976](https://doi.org/10.21136/am.1976.103645) (source only) |
+| AIH-10506 | parallel computations | AI Infrastructure | CSO: parallel computing | [1982](https://doi.org/10.1016/c2013-0-11392-x) (source only) |
 | AIH-10122 | parallel computing | AI Infrastructure | CSO: parallel computing | [1986](https://doi.org/10.1016/0167-8191(86)90016-5) (source only) |
-| AIH-10507 | parallel efficiency | AI Infrastructure | CSO: parallel computing | — |
-| AIH-10508 | parallel performance | AI Infrastructure | CSO: parallel computing | — |
+| AIH-10507 | parallel efficiency | AI Infrastructure | CSO: parallel computing | [1986](https://doi.org/10.1016/0167-8191(86)90025-6) (source only) |
+| AIH-10508 | parallel performance | AI Infrastructure | CSO: parallel computing | [1989](https://doi.org/10.21236/ada207792) (source only) |
 | AIH-12615 | parallel virtual machine | AI Infrastructure | CSO: computer networks | — |
 | AIH-12616 | passive networks | AI Infrastructure | CSO: computer networks | — |
 | AIH-12617 | passive sonar | AI Infrastructure | CSO: computer hardware | — |
@@ -183,21 +183,21 @@
 | AIH-12620 | pattern language | AI Infrastructure | CSO: database systems | — |
 | AIH-12621 | pattern languages | AI Infrastructure | CSO: database systems | — |
 | AIH-12622 | peer selection | AI Infrastructure | CSO: computer networks | — |
-| AIH-10509 | peer to peer (p2p) network | AI Infrastructure | CSO: computer networks | — |
-| AIH-10516 | peer-to-peer | AI Infrastructure | CSO: computer networks | — |
+| AIH-10509 | peer to peer (p2p) network | AI Infrastructure | CSO: computer networks | [2004](https://openalex.org/W9265184) (source only) |
+| AIH-10516 | peer-to-peer | AI Infrastructure | CSO: computer networks | [2001](https://doi.org/10.1145/375348.377427) (source only) |
 | AIH-12623 | peer-to-peer application | AI Infrastructure | CSO: computer networks | — |
 | AIH-12624 | peer-to-peer architectures | AI Infrastructure | CSO: computer networks | — |
 | AIH-12625 | peer-to-peer computing | AI Infrastructure | CSO: computer networks | — |
 | AIH-12626 | peer-to-peer file sharing | AI Infrastructure | CSO: computer networks | — |
-| AIH-10511 | peer-to-peer network | AI Infrastructure | CSO: computer networks | — |
-| AIH-10512 | peer-to-peer networks | AI Infrastructure | CSO: computer networks | — |
+| AIH-10511 | peer-to-peer network | AI Infrastructure | CSO: computer networks | [1991](https://doi.org/10.1109/65.75839) (source only) |
+| AIH-10512 | peer-to-peer networks | AI Infrastructure | CSO: computer networks | [2001](https://doi.org/10.1109/5992.919270) (source only) |
 | AIH-12627 | peer-to-peer streaming | AI Infrastructure | CSO: computer networks | — |
-| AIH-10513 | peer-to-peer system | AI Infrastructure | CSO: computer networks | — |
-| AIH-10514 | peer-to-peer systems | AI Infrastructure | CSO: computer networks | — |
-| AIH-10515 | peer-to-peer technologies | AI Infrastructure | CSO: computer networks | — |
+| AIH-10513 | peer-to-peer system | AI Infrastructure | CSO: computer networks | [2002](https://doi.org/10.1145/1133373.1133396) (source only) |
+| AIH-10514 | peer-to-peer systems | AI Infrastructure | CSO: computer networks | [2001](https://openalex.org/W2100721895) (source only) |
+| AIH-10515 | peer-to-peer technologies | AI Infrastructure | CSO: computer networks | [2004](https://doi.org/10.1016/b978-155860933-4/50037-7) (source only) |
 | AIH-12628 | peer-to-peer video streaming | AI Infrastructure | CSO: computer networks | — |
-| AIH-10517 | perceived risk | AI Infrastructure | CSO: information systems | — |
-| AIH-10518 | perceived value | AI Infrastructure | CSO: information systems | — |
+| AIH-10517 | perceived risk | AI Infrastructure | CSO: information systems | [1964](https://doi.org/10.1177/002224376400100405) (source only) |
+| AIH-10518 | perceived value | AI Infrastructure | CSO: information systems | [1987](https://openalex.org/W650267594) (source only) |
 | AIH-10382 | periodic structure | AI Infrastructure | CSO: computer networks | — |
 | AIH-10396 | periodic structures | AI Infrastructure | CSO: computer networks | — |
 | AIH-12629 | persistent surveillance | AI Infrastructure | CSO: computer hardware | — |
@@ -215,41 +215,41 @@
 | AIH-10476 | phase unwrapping | AI Infrastructure | CSO: computer hardware | [1993](https://doi.org/10.1190/1.1443515) (source only) |
 | AIH-10484 | phased array radar | AI Infrastructure | CSO: computer hardware | [1996](https://doi.org/10.21236/ada309641) (source only) |
 | AIH-10496 | phased array radars | AI Infrastructure | CSO: computer hardware | [1962](https://doi.org/10.1109/pgmtt.1962.1122407) (source only) |
-| AIH-10510 | phasor measurement units | AI Infrastructure | CSO: computer networks | — |
-| AIH-10524 | phd filters | AI Infrastructure | CSO: computer hardware | — |
-| AIH-10529 | phemt | AI Infrastructure | CSO: computer hardware | — |
-| AIH-10531 | photonic integration technology | AI Infrastructure | CSO: computer networks | — |
-| AIH-10532 | photonic integrations | AI Infrastructure | CSO: computer networks | — |
+| AIH-10510 | phasor measurement units | AI Infrastructure | CSO: computer networks | [1994](https://doi.org/10.1109/67.251311) (source only) |
+| AIH-10524 | phd filters | AI Infrastructure | CSO: computer hardware | [2006](https://doi.org/10.1117/12.667085) (source only) |
+| AIH-10529 | phemt | AI Infrastructure | CSO: computer hardware | [2006](https://doi.org/10.1109/apmc.2006.4429405) (source only) |
+| AIH-10531 | photonic integration technology | AI Infrastructure | CSO: computer networks | [2004](https://doi.org/10.1364/ipr.2004.ifb1) (source only) |
+| AIH-10532 | photonic integrations | AI Infrastructure | CSO: computer networks | [2008](https://doi.org/10.1364/ol.33.002104) (source only) |
 | AIH-12633 | physical layer | AI Infrastructure | CSO: computer networks | — |
 | AIH-12634 | physical layers | AI Infrastructure | CSO: computer networks | — |
 | AIH-12635 | physical resources | AI Infrastructure | CSO: cloud computing | — |
-| AIH-10539 | pickup and delivery | AI Infrastructure | CSO: computer networks | — |
+| AIH-10539 | pickup and delivery | AI Infrastructure | CSO: computer networks | [1969](https://openalex.org/W2401719329) (source only) |
 | AIH-12638 | picture archiving and communication systems | AI Infrastructure | CSO: database systems | — |
-| AIH-10549 | piezo-resistive | AI Infrastructure | CSO: computer hardware | — |
-| AIH-10562 | piezoelectric elements | AI Infrastructure | CSO: computer hardware | — |
+| AIH-10549 | piezo-resistive | AI Infrastructure | CSO: computer hardware | [1935](https://doi.org/10.1103/physrev.47.194.2) (source only) |
+| AIH-10562 | piezoelectric elements | AI Infrastructure | CSO: computer hardware | [1952](https://doi.org/10.1109/jrproc.1952.273849) (source only) |
 | AIH-12100 | piezoelectric energy harvesting | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12639 | piezoelectric sensor | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12640 | piezoelectric sensors | AI Infrastructure | CSO: computer hardware | — |
-| AIH-12104 | pipe linings | AI Infrastructure | CSO: computer hardware | — |
+| AIH-12104 | pipe linings | AI Infrastructure | CSO: computer hardware | [1936](https://doi.org/10.1002/j.1551-8833.1936.tb17128.x) (source only) |
 | AIH-12641 | pipeline architecture | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12124 | pipelined adc | AI Infrastructure | CSO: computer networks | — |
 | AIH-12155 | pipelined adcs | AI Infrastructure | CSO: computer networks | — |
 | AIH-12642 | pipelined architecture | AI Infrastructure | CSO: computer hardware | — |
-| AIH-12158 | pipelining | AI Infrastructure | CSO: computer hardware | — |
+| AIH-12158 | pipelining | AI Infrastructure | CSO: computer hardware | [1973](https://doi.org/10.1524/itit.1973.15.16.269) (source only) |
 | AIH-12171 | pixel expansion | AI Infrastructure | CSO: computer networks | — |
-| AIH-12179 | planar antenna | AI Infrastructure | CSO: computer networks | — |
+| AIH-12179 | planar antenna | AI Infrastructure | CSO: computer networks | [2009](https://doi.org/10.21236/ada510475) (source only) |
 | AIH-12205 | planar antennas | AI Infrastructure | CSO: computer networks | — |
 | AIH-12241 | planar inverted-f antenna | AI Infrastructure | CSO: computer networks | — |
-| AIH-12256 | plastic optical fibers | AI Infrastructure | CSO: computer hardware | — |
-| AIH-12276 | plc system | AI Infrastructure | CSO: computer hardware | — |
+| AIH-12256 | plastic optical fibers | AI Infrastructure | CSO: computer hardware | [1973](https://doi.org/10.1295/kobunshi.22.436) (source only) |
+| AIH-12276 | plc system | AI Infrastructure | CSO: computer hardware | [2018](https://doi.org/10.29367/issn.1809-3957.13.2018.155.58) (source only) |
 | AIH-12280 | pmipv6 | AI Infrastructure | CSO: computer networks | — |
 | AIH-12285 | point data | AI Infrastructure | CSO: computer hardware | — |
-| AIH-12302 | point density | AI Infrastructure | CSO: computer hardware | — |
+| AIH-12302 | point density | AI Infrastructure | CSO: computer hardware | [1962](https://doi.org/10.1093/forestscience/8.1.85) (source only) |
 | AIH-12643 | pointcut | AI Infrastructure | CSO: database systems | — |
-| AIH-12308 | polarimetric radars | AI Infrastructure | CSO: computer hardware | — |
-| AIH-12339 | polarimetric synthetic aperture radars | AI Infrastructure | CSO: computer hardware | — |
+| AIH-12308 | polarimetric radars | AI Infrastructure | CSO: computer hardware | [1984](https://doi.org/10.1177/003754978404300505) (source only) |
+| AIH-12339 | polarimetric synthetic aperture radars | AI Infrastructure | CSO: computer hardware | [2017](https://doi.org/10.1016/j.neucom.2016.11.072) (source only) |
 | AIH-12644 | polarization mode dispersion | AI Infrastructure | CSO: computer networks | — |
-| AIH-12358 | polarization state | AI Infrastructure | CSO: computer hardware | — |
+| AIH-12358 | polarization state | AI Infrastructure | CSO: computer hardware | [1988](https://doi.org/10.1016/0030-4018(88)90038-7) (source only) |
 | AIH-12380 | polarographic analysis | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12401 | polinsar | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12645 | pollution attack | AI Infrastructure | CSO: computer networks | — |
@@ -257,13 +257,13 @@
 | AIH-12406 | portable equipment | AI Infrastructure | CSO: computer networks | — |
 | AIH-12408 | post-secondary education | AI Infrastructure | CSO: information systems | — |
 | AIH-12646 | power allocation | AI Infrastructure | CSO: computer networks | — |
-| AIH-12416 | power allocation strategies | AI Infrastructure | CSO: computer networks | — |
+| AIH-12416 | power allocation strategies | AI Infrastructure | CSO: computer networks | [2006](https://doi.org/10.1109/wcnc.2006.1696540) (source only) |
 | AIH-12647 | power allocations | AI Infrastructure | CSO: computer networks | — |
 | AIH-12648 | power gains | AI Infrastructure | CSO: computer networks | — |
-| AIH-12423 | power harvesting | AI Infrastructure | CSO: computer hardware | — |
+| AIH-12423 | power harvesting | AI Infrastructure | CSO: computer hardware | [2003](https://doi.org/10.21236/ada413367) (source only) |
 | AIH-12445 | power networks | AI Infrastructure | CSO: computer networks | — |
 | AIH-12480 | power saving mechanism | AI Infrastructure | CSO: computer networks | — |
-| AIH-12495 | power supplies | AI Infrastructure | CSO: computer hardware | — |
+| AIH-12495 | power supplies | AI Infrastructure | CSO: computer hardware | [1965](https://doi.org/10.2172/4604503) (source only) |
 | AIH-12522 | ppm | AI Infrastructure | CSO: computer networks | — |
 | AIH-12558 | precoder | AI Infrastructure | CSO: computer networks | — |
 | AIH-12568 | precoders | AI Infrastructure | CSO: computer networks | — |
@@ -274,7 +274,7 @@
 | AIH-12650 | private cloud | AI Infrastructure | CSO: cloud computing | — |
 | AIH-12651 | private clouds | AI Infrastructure | CSO: cloud computing | — |
 | AIH-12636 | probabilistic routing | AI Infrastructure | CSO: computer networks | — |
-| AIH-10519 | probability--queueing theory | AI Infrastructure | CSO: computer networks | — |
+| AIH-10519 | probability--queueing theory | AI Infrastructure | CSO: computer networks | [1978](https://doi.org/10.1016/c2013-0-10285-1) ★ (estimated) |
 | AIH-12652 | process reengineering | AI Infrastructure | CSO: information systems | — |
 | AIH-12653 | process variation | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12654 | process variations | AI Infrastructure | CSO: computer hardware | — |
@@ -318,7 +318,7 @@
 | AIH-12671 | quality of service (qos) | AI Infrastructure | CSO: computer networks | — |
 | AIH-12921 | quality of service routing | AI Infrastructure | CSO: computer networks | — |
 | AIH-12922 | quantum wires | AI Infrastructure | CSO: computer hardware | — |
-| AIH-10520 | query languages | AI Infrastructure | CSO: database systems | — |
+| AIH-10520 | query languages | AI Infrastructure | CSO: database systems | [1978](https://doi.org/10.1007/3-540-08921-7_60) (source only) |
 | AIH-10521 | radar | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12924 | radar backscatter | AI Infrastructure | CSO: computer networks | — |
 | AIH-12928 | radar backscattering | AI Infrastructure | CSO: computer networks | — |
@@ -348,8 +348,8 @@
 | AIH-12693 | resource discovery | AI Infrastructure | CSO: computer networks | — |
 | AIH-12694 | resource information | AI Infrastructure | CSO: database systems | — |
 | AIH-12695 | resource management systems | AI Infrastructure | CSO: database systems | — |
-| AIH-10522 | resource provisioning | AI Infrastructure | CSO: cloud computing | — |
-| AIH-10523 | resource-based view | AI Infrastructure | CSO: information systems | — |
+| AIH-10522 | resource provisioning | AI Infrastructure | CSO: cloud computing | [1996](https://doi.org/10.1007/978-1-4757-4568-9_6) (source only) |
+| AIH-10523 | resource-based view | AI Infrastructure | CSO: information systems | [1994](https://doi.org/10.1007/978-3-322-82548-3_3) (source only) |
 | AIH-12696 | retrieval accuracy | AI Infrastructure | CSO: database systems | — |
 | AIH-12697 | retrieval methods | AI Infrastructure | CSO: database systems | — |
 | AIH-12698 | retrieval models | AI Infrastructure | CSO: database systems | — |
@@ -362,8 +362,8 @@
 | AIH-12705 | robot pose | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12706 | router | AI Infrastructure | CSO: computer networks | — |
 | AIH-12707 | routers | AI Infrastructure | CSO: computer networks | — |
-| AIH-10525 | routing algorithm | AI Infrastructure | CSO: computer networks | — |
-| AIH-10526 | routing algorithms | AI Infrastructure | CSO: computer networks | — |
+| AIH-10525 | routing algorithm | AI Infrastructure | CSO: computer networks | [1986](https://doi.org/10.17487/rfc981) (source only) |
+| AIH-10526 | routing algorithms | AI Infrastructure | CSO: computer networks | [1988](https://doi.org/10.21236/ada204273) (source only) |
 | AIH-12708 | routing and wavelength assignment (rwa) | AI Infrastructure | CSO: computer networks | — |
 | AIH-12710 | routing path | AI Infrastructure | CSO: computer networks | — |
 | AIH-12711 | routing problems | AI Infrastructure | CSO: computer networks | — |
@@ -386,9 +386,9 @@
 | AIH-12729 | secret information | AI Infrastructure | CSO: computer networks | — |
 | AIH-12731 | secure communications | AI Infrastructure | CSO: computer networks | — |
 | AIH-12732 | security analysis | AI Infrastructure | CSO: computer networks | — |
-| AIH-10527 | security and privacy issues | AI Infrastructure | CSO: cloud computing | — |
+| AIH-10527 | security and privacy issues | AI Infrastructure | CSO: cloud computing | [2006](https://doi.org/10.1080/15536548.2006.10855803) (source only) |
 | AIH-12733 | security architecture | AI Infrastructure | CSO: computer networks | — |
-| AIH-10528 | security challenges | AI Infrastructure | CSO: cloud computing | — |
+| AIH-10528 | security challenges | AI Infrastructure | CSO: cloud computing | [1992](https://doi.org/10.1355/9789814376976-001) (source only) |
 | AIH-12734 | security issues | AI Infrastructure | CSO: computer networks | — |
 | AIH-12735 | security level | AI Infrastructure | CSO: computer networks | — |
 | AIH-12736 | security management | AI Infrastructure | CSO: computer networks | — |
@@ -423,7 +423,7 @@
 | AIH-12764 | serializability | AI Infrastructure | CSO: database systems | — |
 | AIH-12765 | server consolidation | AI Infrastructure | CSO: cloud computing | — |
 | AIH-12766 | service layers | AI Infrastructure | CSO: information systems | — |
-| AIH-10533 | service level agreements | AI Infrastructure | CSO: cloud computing | — |
+| AIH-10533 | service level agreements | AI Infrastructure | CSO: cloud computing | [1994](https://doi.org/10.1108/09544789410053966) (source only) |
 | AIH-12767 | service-oriented computing (soc) | AI Infrastructure | CSO: information systems | — |
 | AIH-10534 | servqual | AI Infrastructure | CSO: information systems | — |
 | AIH-12769 | sgml | AI Infrastructure | CSO: database systems | — |
@@ -437,18 +437,18 @@
 | AIH-12779 | single chips | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12780 | single-chip | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12781 | sla management | AI Infrastructure | CSO: cloud computing | — |
-| AIH-10535 | social influence | AI Infrastructure | CSO: information systems | — |
-| AIH-10536 | social presence | AI Infrastructure | CSO: information systems | — |
-| AIH-10537 | social software | AI Infrastructure | CSO: information systems | — |
+| AIH-10535 | social influence | AI Infrastructure | CSO: information systems | [1983](https://doi.org/10.2307/2578279) (source only) |
+| AIH-10536 | social presence | AI Infrastructure | CSO: information systems | [2005](https://doi.org/10.1207/s1532785xmep0701_2) (source only) |
+| AIH-10537 | social software | AI Infrastructure | CSO: information systems | [2008](https://doi.org/10.1109/asew.2008.4686306) (source only) |
 | AIH-12782 | soft error | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12783 | soft errors | AI Infrastructure | CSO: computer hardware | — |
-| AIH-10538 | software as a service (saas) | AI Infrastructure | CSO: cloud computing | — |
+| AIH-10538 | software as a service (saas) | AI Infrastructure | CSO: cloud computing | [2008](https://doi.org/10.1016/b978-1-59749-256-0.00013-8) (source only) |
 | AIH-12784 | software product line | AI Infrastructure | CSO: computer networks | — |
 | AIH-12785 | software product lines | AI Infrastructure | CSO: computer networks | — |
 | AIH-12786 | solid state drives | AI Infrastructure | CSO: computer hardware | — |
 | AIH-10540 | sonar | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12787 | sonar system | AI Infrastructure | CSO: computer hardware | — |
-| AIH-10541 | spatio-temporal database | AI Infrastructure | CSO: database systems | — |
+| AIH-10541 | spatio-temporal database | AI Infrastructure | CSO: database systems | [1998](https://doi.org/10.1145/330560.330675) (source only) |
 | AIH-12789 | specific absorption rate | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12790 | spectral efficiencies | AI Infrastructure | CSO: computer networks | — |
 | AIH-12791 | spectral efficiency | AI Infrastructure | CSO: computer networks | — |
@@ -463,13 +463,13 @@
 | AIH-12801 | static random access storage | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12802 | storage management | AI Infrastructure | CSO: database systems | — |
 | AIH-12803 | storage overhead | AI Infrastructure | CSO: computer networks | — |
-| AIH-10542 | storage resources | AI Infrastructure | CSO: cloud computing | — |
+| AIH-10542 | storage resources | AI Infrastructure | CSO: cloud computing | [2002](https://doi.org/10.1007/3-540-46080-2_59) (source only) |
 | AIH-12804 | storage servers | AI Infrastructure | CSO: computer hardware | — |
-| AIH-10543 | storage services | AI Infrastructure | CSO: cloud computing | — |
+| AIH-10543 | storage services | AI Infrastructure | CSO: cloud computing | [2006](https://doi.org/10.1007/11823285_44) (source only) |
 | AIH-12805 | storage spaces | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12806 | storage virtualization | AI Infrastructure | CSO: cloud computing | — |
 | AIH-12807 | strategic alignment | AI Infrastructure | CSO: information systems | — |
-| AIH-10544 | stream processing | AI Infrastructure | CSO: database systems | — |
+| AIH-10544 | stream processing | AI Infrastructure | CSO: database systems | [1975](https://doi.org/10.1147/rd.191.0012) (source only) |
 | AIH-12808 | stream processing systems | AI Infrastructure | CSO: database systems | — |
 | AIH-12809 | structural health monitoring (shm) | AI Infrastructure | CSO: computer hardware | — |
 | AIH-12813 | structured p2p | AI Infrastructure | CSO: database systems | — |
