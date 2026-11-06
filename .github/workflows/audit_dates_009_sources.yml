@@ -1,0 +1,90 @@
+name: Audit Batch 009 historical research sources
+
+on:
+  push:
+    paths:
+      - ".github/workflows/audit_dates_009_sources.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: historical-keywords-audit-009
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Apply original ML/RL citations and remove unrelated biology/marketing matches
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/audit_dates_009_original_sources.py
+            python scripts/build_keyword_tables.py
+            python scripts/sync_readme.py
+            python - <<'PY'
+          import csv,json
+          from pathlib import Path
+          report=json.loads(Path("data/DATE_RESEARCH_009_REPORT.json").read_text())
+          assert report["examined"]==2000 and report["inventory_total"]==20100
+          assert report["manual_primary_source_corrections"]==7
+          assert report["withdrawn_cross_domain_sources"]==2
+          assert sum(report[k] for k in ("documented_source_dates","estimated_star_dates","unresolved"))==2000
+          with Path("data/KEYWORD_INVENTORY.csv").open(encoding="utf-8",newline="") as f:
+              all_rows=list(csv.DictReader(f))
+          assert len(all_rows)==20100 and len({r["id"] for r in all_rows})==20100
+          lookup={r["id"]:r for r in all_rows}
+          expected={
+            "AIH-11004":"1967",
+            "AIH-11005":"1966",
+            "AIH-11006":"1966",
+            "AIH-11007":"1966",
+            "AIH-11009":"1967",
+            "AIH-11011":"1967",
+            "AIH-11504":"1988",
+          }
+          for uid,year in expected.items():
+              row=lookup[uid]
+              assert row["historical_evidence_date"]==year
+              assert row["historical_evidence_url"].startswith("https://")
+              assert not row["first_use_date"]
+          for uid in ("AIH-10517","AIH-11019"):
+              row=lookup[uid]
+              assert not row.get("historical_evidence_date")
+              assert row["date_status"]=="unresolved"
+          for i in range(1,5):
+              page=Path(f"batches/date-research-009/page-{i:02d}.md")
+              assert sum(s.startswith("| AIH-") for s in page.read_text().splitlines())==500
+          for prior in range(5,9):
+              assert Path(f"batches/DATE_RESEARCH_{prior:03d}_NEXT_2000.md").exists()
+          assert Path("batches/DATE_RESEARCH_004_RECOVERY_FIRST_1000.md").exists()
+          assert lookup["AIH-02503"]["historical_evidence_date"]=="2016"
+          assert lookup["AIH-06007"]["historical_evidence_date"]=="2023"
+          print("Batch 009 QA complete, 2,000 entries and all prior permanent IDs preserved.")
+          PY
+            git add README.md data/KEYWORD_INVENTORY.csv data/DATE_RESEARCH_009_REPORT.json batches/DATE_RESEARCH_009_NEXT_2000.md batches/date-research-009/ tables/
+            if git diff --cached --quiet; then
+              echo "No change"
+              exit 0
+            fi
+            git commit -m "Review Batch 009: restore seven early ML/RL sources and withdraw unrelated matches"
+            if git push origin HEAD:main; then
+              echo "Historical sources audited and published"
+              exit 0
+            fi
+            sleep 3
+          done
+          echo "Concurrent commits prevented non-force publication"
+          exit 1
