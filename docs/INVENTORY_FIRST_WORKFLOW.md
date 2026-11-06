@@ -47,3 +47,8 @@
 ## Honest progress accounting
 
 The inventory now contains **10,100 records**: the original 100 plus two source-backed batches of 5,000 each (AIH-00101 through AIH-10100). These are machine-deduplicated **candidate terms**, not individually expert-reviewed origins. The original source has 10,200 entries, of which 118 were rejected during import as duplicates or aliases. The remaining 10,900 to the 21,000 planning target have not yet been populated. See data/INVENTORY_IMPORT_REPORT.json.
+
+
+## 2026-11-06 operational handover addendum
+
+The original `100 IDs per batch` instruction above remains as historical project documentation. The active user-directed research/recovery work is now scoped into **1,000 records per batch**, usually displayed as two separate 500-row tables. An audit table containing a pending row does **not** prove that a full historical search was performed on that term. Preserve permanent IDs, prior date/source attestations, and distinctions among attested wording, original concept/method introduction, qualified first-known evidence, and clearly starred estimated years. Only call a batch complete when every row has independently received the required origin research or an explicitly documented unresolved investigation.

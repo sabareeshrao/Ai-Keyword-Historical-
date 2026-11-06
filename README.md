@@ -4,6 +4,12 @@
 
 > **Research status:** First-use historical dates remain unverified, and individual relevance of source-derived technical terms needs expert review. A source ontology topic is not proof that the term originated on any particular date.
 
+## Recovery research 004 — in progress (2026-11-06)
+
+**[First 1,000 previously undated records — recovery tables](batches/DATE_RESEARCH_004_RECOVERY_FIRST_1000.md)**: 25 independently reviewed dated leads (23 qualified documentations and 2 ★ estimates); 975 remain unresolved and are **not yet researched in this recovery pass**. All IDs and the original 1,350 source attestations were preserved. [QA report](data/DATE_RESEARCH_004_REPORT.json).
+
+Per the 2026-11-06 handover, the active operational recovery selection size is **1,000**, superseding the older 100-entry workflow size. A selected record is not automatically a completed research record.
+
 ## Date research progress
 
 **[First 500 terms: historical evidence table](batches/DATE_RESEARCH_001_FIRST_500.md)** — 500 ID records and linked dated documents where found, with honest uncertainty labels.
