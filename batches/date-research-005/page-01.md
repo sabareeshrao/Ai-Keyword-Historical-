@@ -10,7 +10,7 @@
 |---|---|---|---|---|---|
 | AIH-02501 | Artificial brain | AI Foundations | 1989 | Dated publication mention | [Source](https://doi.org/10.1016/0303-2647(89)90024-5) |
 | AIH-02502 | Frame of Reference Problem | AI Foundations | 1948 | Dated publication mention | [Source](https://doi.org/10.2307/2785198) |
-| AIH-02503 | GAIL | Reinforcement Learning | 2000 | Dated publication mention | [Source](https://doi.org/10.1016/s0140-6736(05)74761-9) |
+| AIH-02503 | GAIL | Reinforcement Learning | 2016 | Original AI method publication | [Source](https://arxiv.org/abs/1606.03476) |
 | AIH-02504 | Data Leakage in Vision Datasets | Computer Vision | — | Unresolved | — |
 | AIH-02505 | Engagement Optimization Risk | AI Safety | 2024 ★ | Estimated ★ (low confidence) | [Source](https://doi.org/10.1186/s40900-024-00577-z) |
 | AIH-02506 | Feedback Bias | AI Safety | 1987 | Dated publication mention | [Source](https://doi.org/10.1002/bs.3830320105) |
