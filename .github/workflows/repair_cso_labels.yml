@@ -1,0 +1,36 @@
+name: Repair CSO ontology labels and republish full tables
+
+on:
+  push:
+    paths:
+      - ".github/workflows/repair_cso_labels.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Clean source labels, fix duplicate normalized terms with spare ontology vocabulary, preserve IDs
+        run: python scripts/repair_cso_labels.py
+      - name: Regenerate all 40 complete 500-row tables
+        run: python scripts/build_keyword_tables.py
+      - name: Ensure README and batch counts remain correct
+        run: python scripts/sync_readme.py
+      - name: Commit only if validations succeeded
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/KEYWORD_INVENTORY.csv data/CSO_LABEL_REPAIR_REPORT.json tables/ batches/ README.md
+          git diff --cached --quiet && exit 0
+          git commit -m "Clean CSO language artifacts, resolve duplicates, and republish 20k keyword tables"
+          git push origin HEAD:main
