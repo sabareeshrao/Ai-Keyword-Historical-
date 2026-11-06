@@ -25,3 +25,7 @@ All first-use dates remain unverified. Existing 2,500 previously researched IDs 
 
 [Research report](../data/DATE_RESEARCH_005_REPORT.json) | [Master CSV](../data/KEYWORD_INVENTORY.csv)
 
+
+## Source correction
+
+AIH-02503 (GAIL): rejected an unrelated 2000 cancer-research surname match and linked the original 2016 Generative Adversarial Imitation Learning paper by Ho and Ermon. Its year remains a dated original method publication, not a claim about every earlier use of the acronym.

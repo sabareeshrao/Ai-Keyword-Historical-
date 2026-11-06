@@ -485,7 +485,7 @@
 | AIH-02389 | Fictitious Self-Play | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-02427 | Frame Skipping | Reinforcement Learning | Reinforcement Learning | [2000](https://doi.org/10.1117/12.386547) (source only) |
 | AIH-02465 | Frame Stacking | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-02503 | GAIL | Reinforcement Learning | Reinforcement Learning | [2000](https://doi.org/10.1016/s0140-6736(05)74761-9) (source only) |
+| AIH-02503 | GAIL | Reinforcement Learning | Reinforcement Learning | [2016](https://arxiv.org/abs/1606.03476) (source only) |
 | AIH-02541 | General-Sum Game | Reinforcement Learning | Reinforcement Learning | [2022](https://doi.org/10.64861/cegx6818) (source only) |
 | AIH-02579 | Generalization in RL | Reinforcement Learning | Reinforcement Learning | [2023](https://doi.org/10.52202/075280-1356) (source only) |
 | AIH-02617 | Goal-Conditioned Policy | Reinforcement Learning | Reinforcement Learning | [2022](https://doi.org/10.1609/aaai.v36i7.20721) (source only) |
