@@ -30,9 +30,9 @@ all_index=[
 "| Batch | Full keyword index | Count |",
 "|---|---|---:|",
 "| 001 | [Browse 5,000 keywords](../batches/INVENTORY_001_5000.md) | 5,000 |",
-"| 002 | [Browse 5,000 keywords](../batches/INVENTORY_002_5000.md) | 5,000 |
-| 003 | [Browse 5,000 keywords](../batches/INVENTORY_003_5000.md) | 5,000 |
-| 004 | [Browse 5,000 keywords](../batches/INVENTORY_004_5000.md) | 5,000 |",
+"| 002 | [Browse 5,000 keywords](../batches/INVENTORY_002_5000.md) | 5,000 |",
+"| 003 | [Browse 5,000 keywords](../batches/INVENTORY_003_5000.md) | 5,000 |",
+"| 004 | [Browse 5,000 keywords](../batches/INVENTORY_004_5000.md) | 5,000 |",
 "| **Total** | **40 tables** | **20,000** |",
 "",
 "## Category totals","","| Field | Number of keywords |","|---|---:|",
@@ -95,4 +95,4 @@ for number in ["001","002","003","004"]:
 files=sorted(table_dir.glob("batch-*/page-*.md"))
 assert len(files)==40
 assert all(sum(line.startswith("| AIH-") for line in f.read_text(encoding="utf-8").splitlines())==500 for f in files)
-print("Verified 20 Markdown tables x 500 = 20,000 keyword rows; all IDs preserved.")
+print("Verified 40 Markdown tables x 500 = 20,000 keyword rows; all IDs preserved.")
