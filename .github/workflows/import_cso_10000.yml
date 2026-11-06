@@ -1,0 +1,39 @@
+name: Import next 10,000 CSO keyword candidates and publish full tables
+
+on:
+  push:
+    paths:
+      - ".github/workflows/import_cso_10000.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Download source ontology, select 10,000 verified-source labels, and append without changing IDs
+        run: python scripts/import_cso_10000.py
+      - name: Render every keyword in complete 500-row tables
+        run: python scripts/build_keyword_tables.py
+      - name: Update README with audited counts
+        run: python scripts/sync_readme.py
+      - name: Commit only after all three validations have passed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data/KEYWORD_INVENTORY.csv data/INVENTORY_IMPORT_REPORT_003_004.json batches/ tables/
+          if git diff --cached --quiet; then
+            echo "No new inventory data"
+            exit 0
+          fi
+          git commit -m "Inventory batches 003-004: add 10000 sourced CSO topics and publish 20 full tables"
+          git push origin HEAD:main
