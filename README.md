@@ -1,5 +1,9 @@
 # AI Keyword Historical
 
+> **CURRENT WORKFLOW (updated November 2026):** Build the complete **keyword inventory first**, then research the earliest documented *use of each term* in 100-keyword batches, and create the chronologically sorted export only after the research batches finish. [Read the inventory-first workflow](docs/INVENTORY_FIRST_WORKFLOW.md). The historic Batch 001 file below is an initial milestone-source index, **not** 100 verified term coinage dates. The 21,000-keyword figure is a research target, not a filled inventory.
+
+**Inventory status:** [100 seeded keyword IDs](data/KEYWORD_INVENTORY.csv) / 21,000 targeted; earliest-use dates pending verification. 
+
 A source-linked, chronological research catalog of AI-related terminology, methods, architectures, models, benchmarks, and foundational concepts. The long-term **working target** is ~20,000 distinct records across AI, machine learning, generative AI, agentic AI, AGI, and neighboring fields; the number is a planning estimate, not a census.
 
 **Current total:** 100 records (Batch 001)  
