@@ -229,7 +229,7 @@
 | AIH-00833 | Autonomous Weapons | AI Safety | — | unresolved — pending recheck | — | — | — | — | Previous title search: Search incomplete. Independent recovery not yet completed. |
 | AIH-00834 | Calibration Within Groups | AI Safety | — | unresolved — pending recheck | — | — | — | — | Previous title search: No dated title found. Independent recovery not yet completed. |
 | AIH-00835 | Amortized Analysis | Mathematics | — | unresolved — pending recheck | — | — | — | — | Previous title search: Search incomplete. Independent recovery not yet completed. |
-| AIH-00836 | Benders Decomposition | Mathematics | — | unresolved — pending recheck | — | — | — | — | Previous title search: Search incomplete. Independent recovery not yet completed. |
+| AIH-00836 | Benders Decomposition | Mathematics | 1962 ★ | estimated | Jacques F. Benders | Partitioning procedures for solving mixed-variables programming problems | [Original source](https://doi.org/10.1007/BF01386316) | Medium | ESTIMATE: 1962 original publication of the decomposition method; the later name 'Benders decomposition' is not proven to have appeared in the original paper. Method invention is not the exact expression's coinage. |
 | AIH-00837 | Brownian Motion | Mathematics | — | unresolved — pending recheck | — | — | — | — | Previous title search: Search incomplete. Independent recovery not yet completed. |
 | AIH-00838 | Behaviour Tree (BT) | Robotics | — | unresolved — pending recheck | — | — | — | — | Previous title search: Search incomplete. Independent recovery not yet completed. |
 | AIH-00839 | Artifact Store | AI Infrastructure | — | unresolved — pending recheck | — | — | — | — | Previous title search: No dated title found. Independent recovery not yet completed. |
@@ -327,7 +327,7 @@
 | AIH-00997 | Fluid Simulation | Computer Graphics | — | unresolved — pending recheck | — | — | — | — | Previous title search: Search incomplete. Independent recovery not yet completed. |
 | AIH-00998 | Cannibalization Analysis | Data Science | — | unresolved — pending recheck | — | — | — | — | Previous title search: Search incomplete. Independent recovery not yet completed. |
 | AIH-00999 | BraTS | Datasets & Benchmarks | — | unresolved — pending recheck | — | — | — | — | Previous title search: Search incomplete. Independent recovery not yet completed. |
-| AIH-01001 | Expressive Power of GNNs | Graph & Network Learning | — | unresolved — pending recheck | — | — | — | — | Previous title search: Search incomplete. Independent recovery not yet completed. |
+| AIH-01001 | Expressive Power of GNNs | Graph & Network Learning | 2018 | earliest_known | Keyulu Xu; Weihua Hu; Jure Leskovec; Stefanie Jegelka | How Powerful are Graph Neural Networks? | [Original source](https://arxiv.org/abs/1810.00826) | High | October 2018 original preprint explicitly uses 'expressive power of GNNs' in its abstract. Establishes a dated term attestation, not globally first-ever use. |
 | AIH-01003 | Auditing Firm | People & Organizations | — | unresolved — pending recheck | — | — | — | — | Previous title search: Search incomplete. Independent recovery not yet completed. |
 | AIH-01006 | Creator Cold Start | Recommender Systems | — | unresolved — pending recheck | — | — | — | — | Previous title search: No dated title found. Independent recovery not yet completed. |
 | AIH-01007 | Climate Model | Science & Healthcare AI | — | unresolved — pending recheck | — | — | — | — | Previous title search: Search incomplete. Independent recovery not yet completed. |
