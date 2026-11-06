@@ -1,83 +1,60 @@
-# Inventory Batch 001 — 5000 keywords
+# Inventory Batch 001 — All 5,000 Keywords
 
-Inventory terms only: historical first-use dates remain blank.
+The full 5,000-term inventory is arranged in 10 tables below, each containing 500 rows. No keywords are omitted.
 
-Source: https://huggingface.co/datasets/whoashish115/AI-Glossary-Reference (MIT-licensed dataset)
+[Browse both batches](../tables/README.md) | [Complete master CSV](../data/KEYWORD_INVENTORY.csv)
 
-Stable IDs: AIH-00101 through AIH-05100
+## Full keyword tables
 
-All records: ../data/KEYWORD_INVENTORY.csv
+| Page | Keyword count | First term / Last term | Open table |
+|---:|---:|---|---|
+| 01 | 500 | Agentic AI: Acceptance Criteria for Agents → AI Foundations: Knowledge Graph Embedding (KGE) | [View all 500](../tables/batch-001/page-01.md) |
+| 02 | 500 | AI Foundations: Knowledge Representation (KR) → AI Safety: Biometric Privacy Law | [View all 500](../tables/batch-001/page-02.md) |
+| 03 | 500 | AI Safety: Bletchley Declaration → Computer Graphics: Deferred Shading | [View all 500](../tables/batch-001/page-03.md) |
+| 04 | 500 | Computer Graphics: Depth Buffer → Deep Learning: AlphaFold 2 | [View all 500](../tables/batch-001/page-04.md) |
+| 05 | 500 | Deep Learning: AlphaFold 3 → Generative AI: Editorial Standard | [View all 500](../tables/batch-001/page-05.md) |
+| 06 | 500 | Generative AI: Election Integrity Measure → Mathematics: Bayesian Neural Network (BNN) | [View all 500](../tables/batch-001/page-06.md) |
+| 07 | 500 | Mathematics: Beam Width → People & Organizations: Community Consent | [View all 500](../tables/batch-001/page-07.md) |
+| 08 | 500 | People & Organizations: Competition Authority → Reinforcement Learning: Learned Dynamics Model | [View all 500](../tables/batch-001/page-08.md) |
+| 09 | 500 | Reinforcement Learning: Learning from Observation → Signal & Information Theory: Decimation | [View all 500](../tables/batch-001/page-09.md) |
+| 10 | 500 | Signal & Information Theory: Deep Image Prior (DIP) → Tools & Frameworks: PyTorch Geometric (PyG) | [View all 500](../tables/batch-001/page-10.md) |
 
-| Category | Count |
-|---|---:|
-| AI Applications | 137 |
-| AI Foundations | 274 |
-| AI Infrastructure | 411 |
-| AI Safety | 274 |
-| Agentic AI | 137 |
-| Causal Inference | 112 |
-| Cognitive Science | 137 |
-| Computer Graphics | 87 |
-| Computer Vision | 137 |
-| Data Science | 137 |
-| Datasets & Benchmarks | 137 |
-| Deep Learning | 274 |
-| Evaluation & Metrics | 137 |
-| Generative AI | 137 |
-| Graph & Network Learning | 111 |
-| Information Retrieval | 137 |
-| Machine Learning | 137 |
-| Mathematics | 411 |
-| NLP and LLMs | 137 |
-| People & Organizations | 137 |
-| Programming & Software | 137 |
-| Quantum & Emerging Compute | 77 |
-| Recommender Systems | 104 |
-| Reinforcement Learning | 137 |
-| Robotics | 137 |
-| Science & Healthcare AI | 137 |
-| Security & Privacy | 137 |
-| Signal & Information Theory | 137 |
-| Speech & Audio | 137 |
-| Time Series & Forecasting | 125 |
-| Tools & Frameworks | 137 |
+## Browse by category
 
-## Example terms
+| Field | Number of keywords | Table pages |
+|---|---:|---|
+| Agentic AI | 137 | [Page 1](../tables/batch-001/page-01.md) |
+| AI Applications | 137 | [Page 1](../tables/batch-001/page-01.md) |
+| AI Foundations | 274 | [Page 1](../tables/batch-001/page-01.md), [Page 2](../tables/batch-001/page-02.md) |
+| AI Infrastructure | 411 | [Page 2](../tables/batch-001/page-02.md) |
+| AI Safety | 274 | [Page 2](../tables/batch-001/page-02.md), [Page 3](../tables/batch-001/page-03.md) |
+| Causal Inference | 112 | [Page 3](../tables/batch-001/page-03.md) |
+| Cognitive Science | 137 | [Page 3](../tables/batch-001/page-03.md) |
+| Computer Graphics | 87 | [Page 3](../tables/batch-001/page-03.md), [Page 4](../tables/batch-001/page-04.md) |
+| Computer Vision | 137 | [Page 4](../tables/batch-001/page-04.md) |
+| Data Science | 137 | [Page 4](../tables/batch-001/page-04.md) |
+| Datasets & Benchmarks | 137 | [Page 4](../tables/batch-001/page-04.md) |
+| Deep Learning | 274 | [Page 4](../tables/batch-001/page-04.md), [Page 5](../tables/batch-001/page-05.md) |
+| Evaluation & Metrics | 137 | [Page 5](../tables/batch-001/page-05.md) |
+| Generative AI | 137 | [Page 5](../tables/batch-001/page-05.md), [Page 6](../tables/batch-001/page-06.md) |
+| Graph & Network Learning | 111 | [Page 6](../tables/batch-001/page-06.md) |
+| Information Retrieval | 137 | [Page 6](../tables/batch-001/page-06.md) |
+| Machine Learning | 137 | [Page 6](../tables/batch-001/page-06.md) |
+| Mathematics | 411 | [Page 6](../tables/batch-001/page-06.md), [Page 7](../tables/batch-001/page-07.md) |
+| NLP and LLMs | 137 | [Page 7](../tables/batch-001/page-07.md) |
+| People & Organizations | 137 | [Page 7](../tables/batch-001/page-07.md), [Page 8](../tables/batch-001/page-08.md) |
+| Programming & Software | 137 | [Page 8](../tables/batch-001/page-08.md) |
+| Quantum & Emerging Compute | 77 | [Page 8](../tables/batch-001/page-08.md) |
+| Recommender Systems | 104 | [Page 8](../tables/batch-001/page-08.md) |
+| Reinforcement Learning | 137 | [Page 8](../tables/batch-001/page-08.md), [Page 9](../tables/batch-001/page-09.md) |
+| Robotics | 137 | [Page 9](../tables/batch-001/page-09.md) |
+| Science & Healthcare AI | 137 | [Page 9](../tables/batch-001/page-09.md) |
+| Security & Privacy | 137 | [Page 9](../tables/batch-001/page-09.md) |
+| Signal & Information Theory | 137 | [Page 9](../tables/batch-001/page-09.md), [Page 10](../tables/batch-001/page-10.md) |
+| Speech & Audio | 137 | [Page 10](../tables/batch-001/page-10.md) |
+| Time Series & Forecasting | 125 | [Page 10](../tables/batch-001/page-10.md) |
+| Tools & Frameworks | 137 | [Page 10](../tables/batch-001/page-10.md) |
 
-| ID | Term | Category |
-|---|---|---|
-| AIH-00101 | Activation Compression | Machine Learning |
-| AIH-00102 | Ablation Study for Components | Deep Learning |
-| AIH-00103 | ALBERT | Deep Learning |
-| AIH-00104 | Accessibility of Generated Content | Generative AI |
-| AIH-00105 | Abbreviation Resolution | NLP and LLMs |
-| AIH-00106 | Acceptance Criteria for Agents | Agentic AI |
-| AIH-00107 | 4E cognition | AI Foundations |
-| AIH-00108 | Abductive Reasoning | AI Foundations |
-| AIH-00109 | Action | Reinforcement Learning |
-| AIH-00110 | 3D Convolution | Computer Vision |
-| AIH-00111 | Abuse Reporting Channel | AI Safety |
-| AIH-00112 | Acceptable Use Policy (AUP) | AI Safety |
-| AIH-00113 | A-Optimality | Mathematics |
-| AIH-00114 | 8-Bit Optimizer | Mathematics |
-| AIH-00115 | Absorbing State | Mathematics |
-| AIH-00116 | 6D Pose | Robotics |
-| AIH-00117 | 3D Parallelism | AI Infrastructure |
-| AIH-00118 | 2.5D Integration | AI Infrastructure |
-| AIH-00119 | A/B Test for Models | AI Infrastructure |
-| AIH-00120 | Academic Integrity Detection | AI Applications |
-| AIH-00121 | Adjustment Set | Causal Inference |
-| AIH-00122 | Algorithm Aversion | Cognitive Science |
-| AIH-00123 | Albedo | Computer Graphics |
-| AIH-00124 | Accuracy of Data | Data Science |
-| AIH-00125 | 20 Newsgroups | Datasets & Benchmarks |
-| AIH-00126 | Abstention Rate | Evaluation & Metrics |
-| AIH-00127 | Aggregation Function | Graph & Network Learning |
-| AIH-00128 | Abandonment Rate | Information Retrieval |
-| AIH-00129 | AAAI | People & Organizations |
-| AIH-00130 | Abstract Syntax Tree (AST) | Programming & Software |
-| AIH-00131 | Adiabatic Quantum Computation | Quantum & Emerging Compute |
-| AIH-00132 | Amplification Measurement | Recommender Systems |
-| AIH-00133 | Active Learning for Experiments | Science & Healthcare AI |
-| AIH-00134 | Abuse Detection | Security & Privacy |
-| AIH-00135 | Adaptive Filter | Signal & Information Theory |
+**Total: 5,000 real sourced entries.** Date verification and human content review remain pending.
+
+Source: https://huggingface.co/datasets/whoashish115/AI-Glossary-Reference

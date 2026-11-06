@@ -1,77 +1,54 @@
-# Inventory Batch 002 — 5000 keywords
+# Inventory Batch 002 — All 5,000 Keywords
 
-Inventory terms only: historical first-use dates remain blank.
+The full 5,000-term inventory is arranged in 10 tables below, each containing 500 rows. No keywords are omitted.
 
-Source: https://huggingface.co/datasets/whoashish115/AI-Glossary-Reference (MIT-licensed dataset)
+[Browse both batches](../tables/README.md) | [Complete master CSV](../data/KEYWORD_INVENTORY.csv)
 
-Stable IDs: AIH-05101 through AIH-10100
+## Full keyword tables
 
-All records: ../data/KEYWORD_INVENTORY.csv
+| Page | Keyword count | First term / Last term | Open table |
+|---:|---:|---|---|
+| 01 | 500 | Agentic AI: Output Filtering → AI Foundations: Distributed Common Ground System (DCGS) | [View all 500](../tables/batch-002/page-01.md) |
+| 02 | 500 | AI Foundations: DL Boost → AI Foundations: Restricted Boltzmann Machine (RBM) | [View all 500](../tables/batch-002/page-02.md) |
+| 03 | 500 | AI Foundations: Retrieval Prompt → AI Infrastructure: Streaming Dataset | [View all 500](../tables/batch-002/page-03.md) |
+| 04 | 500 | AI Infrastructure: Streaming Inference → Datasets & Benchmarks: SQuAD | [View all 500](../tables/batch-002/page-04.md) |
+| 05 | 500 | Datasets & Benchmarks: SQuAD 2.0 → Generative AI: Invertible Architecture | [View all 500](../tables/batch-002/page-05.md) |
+| 06 | 500 | Generative AI: Invisible Watermark → Machine Learning: Multi-Teacher Distillation | [View all 500](../tables/batch-002/page-06.md) |
+| 07 | 500 | Machine Learning: Multiclass Classification → Mathematics: Influence Function | [View all 500](../tables/batch-002/page-07.md) |
+| 08 | 500 | Mathematics: Information Criterion → Mathematics: Scale-Free Network | [View all 500](../tables/batch-002/page-08.md) |
+| 09 | 500 | Mathematics: Scaling Argument → Programming & Software: Loop Unrolling | [View all 500](../tables/batch-002/page-09.md) |
+| 10 | 500 | Programming & Software: Major Release → Tools & Frameworks: Yellowbrick | [View all 500](../tables/batch-002/page-10.md) |
 
-| Category | Count |
-|---|---:|
-| AI Applications | 229 |
-| AI Foundations | 872 |
-| AI Infrastructure | 374 |
-| AI Safety | 73 |
-| Agentic AI | 115 |
-| Cognitive Science | 2 |
-| Computer Vision | 230 |
-| Data Science | 97 |
-| Datasets & Benchmarks | 38 |
-| Deep Learning | 438 |
-| Evaluation & Metrics | 13 |
-| Generative AI | 226 |
-| Information Retrieval | 24 |
-| Machine Learning | 484 |
-| Mathematics | 992 |
-| NLP and LLMs | 244 |
-| People & Organizations | 17 |
-| Programming & Software | 170 |
-| Reinforcement Learning | 54 |
-| Robotics | 102 |
-| Science & Healthcare AI | 46 |
-| Security & Privacy | 45 |
-| Signal & Information Theory | 38 |
-| Speech & Audio | 19 |
-| Tools & Frameworks | 58 |
+## Browse by category
 
-## Example terms
+| Field | Number of keywords | Table pages |
+|---|---:|---|
+| Agentic AI | 115 | [Page 1](../tables/batch-002/page-01.md) |
+| AI Applications | 229 | [Page 1](../tables/batch-002/page-01.md) |
+| AI Foundations | 872 | [Page 1](../tables/batch-002/page-01.md), [Page 2](../tables/batch-002/page-02.md), [Page 3](../tables/batch-002/page-03.md) |
+| AI Infrastructure | 374 | [Page 3](../tables/batch-002/page-03.md), [Page 4](../tables/batch-002/page-04.md) |
+| AI Safety | 73 | [Page 4](../tables/batch-002/page-04.md) |
+| Cognitive Science | 2 | [Page 4](../tables/batch-002/page-04.md) |
+| Computer Vision | 230 | [Page 4](../tables/batch-002/page-04.md) |
+| Data Science | 97 | [Page 4](../tables/batch-002/page-04.md) |
+| Datasets & Benchmarks | 38 | [Page 4](../tables/batch-002/page-04.md), [Page 5](../tables/batch-002/page-05.md) |
+| Deep Learning | 438 | [Page 5](../tables/batch-002/page-05.md) |
+| Evaluation & Metrics | 13 | [Page 5](../tables/batch-002/page-05.md) |
+| Generative AI | 226 | [Page 5](../tables/batch-002/page-05.md), [Page 6](../tables/batch-002/page-06.md) |
+| Information Retrieval | 24 | [Page 6](../tables/batch-002/page-06.md) |
+| Machine Learning | 484 | [Page 6](../tables/batch-002/page-06.md), [Page 7](../tables/batch-002/page-07.md) |
+| Mathematics | 992 | [Page 7](../tables/batch-002/page-07.md), [Page 8](../tables/batch-002/page-08.md), [Page 9](../tables/batch-002/page-09.md) |
+| NLP and LLMs | 244 | [Page 9](../tables/batch-002/page-09.md) |
+| People & Organizations | 17 | [Page 9](../tables/batch-002/page-09.md) |
+| Programming & Software | 170 | [Page 9](../tables/batch-002/page-09.md), [Page 10](../tables/batch-002/page-10.md) |
+| Reinforcement Learning | 54 | [Page 10](../tables/batch-002/page-10.md) |
+| Robotics | 102 | [Page 10](../tables/batch-002/page-10.md) |
+| Science & Healthcare AI | 46 | [Page 10](../tables/batch-002/page-10.md) |
+| Security & Privacy | 45 | [Page 10](../tables/batch-002/page-10.md) |
+| Signal & Information Theory | 38 | [Page 10](../tables/batch-002/page-10.md) |
+| Speech & Audio | 19 | [Page 10](../tables/batch-002/page-10.md) |
+| Tools & Frameworks | 58 | [Page 10](../tables/batch-002/page-10.md) |
 
-| ID | Term | Category |
-|---|---|---|
-| AIH-05101 | CUSUM | Machine Learning |
-| AIH-05102 | Effective Receptive Field | Deep Learning |
-| AIH-05103 | SigLIP | Deep Learning |
-| AIH-05104 | Hash Matching for Known Harm | Generative AI |
-| AIH-05105 | Grounded Response Generation | NLP and LLMs |
-| AIH-05106 | Output Filtering | Agentic AI |
-| AIH-05107 | Canary Tokens | AI Foundations |
-| AIH-05108 | Qualification Problem | AI Foundations |
-| AIH-05109 | Reward | Reinforcement Learning |
-| AIH-05110 | Image Compositing | Computer Vision |
-| AIH-05111 | Reversibility Consideration | AI Safety |
-| AIH-05112 | Standard Setting Body | AI Safety |
-| AIH-05113 | Column Space | Mathematics |
-| AIH-05114 | Mixed-Integer Linear Programming (MILP) | Mathematics |
-| AIH-05115 | Natural Parameter | Mathematics |
-| AIH-05116 | Overshoot | Robotics |
-| AIH-05117 | Latency Breakdown | AI Infrastructure |
-| AIH-05118 | ROCm | AI Infrastructure |
-| AIH-05119 | Impact Assessment | AI Infrastructure |
-| AIH-05120 | Drug Discovery | AI Applications |
-| AIH-05121 | Working Memory (WM) | Cognitive Science |
-| AIH-05122 | Label Guideline | Data Science |
-| AIH-05123 | Random Seed for Splitting | Datasets & Benchmarks |
-| AIH-05124 | Temperature Zero Evaluation | Evaluation & Metrics |
-| AIH-05125 | SQL Execution Verification | Information Retrieval |
-| AIH-05126 | Staged Disclosure | People & Organizations |
-| AIH-05127 | Hidden Test Case | Programming & Software |
-| AIH-05128 | Radiomics | Science & Healthcare AI |
-| AIH-05129 | Role-Based Access Control (RBAC) | Security & Privacy |
-| AIH-05130 | Sampling Theorem | Signal & Information Theory |
-| AIH-05131 | Streaming Synthesis | Speech & Audio |
-| AIH-05132 | PyTorch Lightning | Tools & Frameworks |
-| AIH-05133 | CutMix | Machine Learning |
-| AIH-05134 | Elo Rating for Models | Deep Learning |
-| AIH-05135 | Sparrow | Deep Learning |
+**Total: 5,000 real sourced entries.** Date verification and human content review remain pending.
+
+Source: https://huggingface.co/datasets/whoashish115/AI-Glossary-Reference
