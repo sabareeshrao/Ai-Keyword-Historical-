@@ -1,0 +1,36 @@
+{
+  "total": 20100,
+  "kept_original": 10100,
+  "new_batch_count": 10000,
+  "trailing_language_markers_removed": 9998,
+  "duplicate_or_invalid_labels_replaced_with_unused_source_terms": 914,
+  "original_ids_preserved": true,
+  "unique_normalized_names": 20100,
+  "all_new_dates_blank": true,
+  "first_and_last_new_ids": [
+    "AIH-10101",
+    "AIH-20100"
+  ],
+  "replacement_field_counts": {
+    "AI Applications": 31,
+    "AI Foundations": 106,
+    "Deep Learning": 24,
+    "Generative AI": 7,
+    "Information Retrieval": 36,
+    "Machine Learning": 115,
+    "NLP and LLMs": 23,
+    "Reinforcement Learning": 20,
+    "Robotics": 37,
+    "Speech & Audio": 100,
+    "Agentic AI": 8,
+    "AI Infrastructure": 198,
+    "AI Safety": 23,
+    "Computer Vision": 84,
+    "Data Science": 7,
+    "Mathematics": 71,
+    "Programming & Software": 24
+  },
+  "source": "https://cso.kmi.open.ac.uk/downloads",
+  "license": "CC BY 4.0",
+  "note": "Ontology candidate names; historical dates and fine-grained scope still require research."
+}

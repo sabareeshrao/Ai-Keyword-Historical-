@@ -16,35 +16,35 @@ Every keyword is included, not a short preview. Four batches of 5,000; each divi
 
 | Field | Number of keywords |
 |---|---:|
-| Agentic AI | 327 |
-| AI Applications | 731 |
-| AI Foundations | 1863 |
+| Agentic AI | 319 |
+| AI Applications | 701 |
+| AI Foundations | 1774 |
 | AI Infrastructure | 4137 |
-| AI Safety | 764 |
+| AI Safety | 786 |
 | Causal Inference | 112 |
 | Cognitive Science | 139 |
 | Computer Graphics | 87 |
-| Computer Vision | 1302 |
-| Data Science | 392 |
+| Computer Vision | 1379 |
+| Data Science | 453 |
 | Datasets & Benchmarks | 175 |
-| Deep Learning | 847 |
+| Deep Learning | 827 |
 | Evaluation & Metrics | 150 |
-| Generative AI | 381 |
+| Generative AI | 374 |
 | Graph & Network Learning | 111 |
-| Information Retrieval | 379 |
-| Machine Learning | 1463 |
-| Mathematics | 2065 |
-| NLP and LLMs | 542 |
+| Information Retrieval | 343 |
+| Machine Learning | 1442 |
+| Mathematics | 2045 |
+| NLP and LLMs | 519 |
 | People & Organizations | 154 |
-| Programming & Software | 798 |
+| Programming & Software | 802 |
 | Quantum & Emerging Compute | 77 |
 | Recommender Systems | 104 |
-| Reinforcement Learning | 311 |
-| Robotics | 671 |
+| Reinforcement Learning | 291 |
+| Robotics | 701 |
 | Science & Healthcare AI | 183 |
 | Security & Privacy | 182 |
 | Signal & Information Theory | 175 |
-| Speech & Audio | 1058 |
+| Speech & Audio | 1138 |
 | Time Series & Forecasting | 125 |
 | Tools & Frameworks | 195 |
 | **Total** | **20,000** |
