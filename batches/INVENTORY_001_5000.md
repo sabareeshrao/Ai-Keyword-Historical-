@@ -2,7 +2,7 @@
 
 The full 5,000-term inventory is arranged in 10 tables below, each containing 500 rows. No keywords are omitted.
 
-[Browse both batches](../tables/README.md) | [Complete master CSV](../data/KEYWORD_INVENTORY.csv)
+[Browse all four batches](../tables/README.md) | [Complete master CSV](../data/KEYWORD_INVENTORY.csv)
 
 ## Full keyword tables
 
@@ -57,4 +57,4 @@ The full 5,000-term inventory is arranged in 10 tables below, each containing 50
 
 **Total: 5,000 real sourced entries.** Date verification and human content review remain pending.
 
-Source: https://huggingface.co/datasets/whoashish115/AI-Glossary-Reference
+Source: https://huggingface.co/datasets/whoashish115/AI-Glossary-Reference (001–002) or https://cso.kmi.open.ac.uk/downloads (003–004; CC BY 4.0).

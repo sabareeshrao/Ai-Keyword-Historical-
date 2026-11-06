@@ -1,0 +1,51 @@
+{
+  "source": "https://cso.kmi.open.ac.uk/downloads",
+  "source_versions": [
+    "https://cso.kmi.open.ac.uk/download/version-3.5/CSO.3.5.csv.zip"
+  ],
+  "source_topics": 14736,
+  "source_terms_after_existing_dedup": 14226,
+  "previous_total": 10100,
+  "added": 10000,
+  "inventory_total": 20100,
+  "batch_003": 5000,
+  "batch_004": 5000,
+  "batch_003_ids": [
+    "AIH-10101",
+    "AIH-15100"
+  ],
+  "batch_004_ids": [
+    "AIH-15101",
+    "AIH-20100"
+  ],
+  "semantic_classification": {
+    "graph_scored_candidates": 10000,
+    "supporting_cs_candidates": 0
+  },
+  "source_exclusions": {
+    "existing_or_alias": 508,
+    "invalid": 2
+  },
+  "all_new_historical_dates_blank": true,
+  "categories": {
+    "AI Applications": 365,
+    "AI Foundations": 717,
+    "AI Infrastructure": 3352,
+    "AI Safety": 417,
+    "Agentic AI": 75,
+    "Computer Vision": 935,
+    "Data Science": 158,
+    "Deep Learning": 135,
+    "Generative AI": 18,
+    "Information Retrieval": 218,
+    "Machine Learning": 842,
+    "Mathematics": 662,
+    "NLP and LLMs": 161,
+    "Programming & Software": 491,
+    "Reinforcement Learning": 120,
+    "Robotics": 432,
+    "Speech & Audio": 902
+  },
+  "license": "Computer Science Ontology: CC BY 4.0",
+  "review_note": "Ontology labels and taxonomy relations are sourced; individual AI relevance and earliest use dates are NOT yet human verified."
+}
