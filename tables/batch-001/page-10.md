@@ -1,10 +1,10 @@
 # Batch 001 — Full keyword table 10/10
 
-500 keywords; sorted by category then alphabetically. Historical first-use date is pending research.
+500 keywords sorted by category then alphabetically. A linked date is a documented publication or milestone, not confirmed earliest use of the term.
 
 [Back to Batch 001 index](../../batches/INVENTORY_001_5000.md)
 
-| ID | Keyword | Field | Subfield | First-used date |
+| ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-01503 | Deep Image Prior (DIP) | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-01541 | Dereverberation | Signal & Information Theory | Signal & Information Theory | — |
@@ -107,15 +107,15 @@
 | AIH-05034 | Room Impulse Response (RIR) | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-05066 | Run-Length Encoding | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-05098 | Sample Rate | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00136 | Accented Speech | Speech & Audio | Speech & Audio | — |
+| AIH-00136 | Accented Speech | Speech & Audio | Speech & Audio | [1973](https://doi.org/10.1080/03637757309375813) (source only) |
 | AIH-00174 | Accessibility in Speech Technology | Speech & Audio | Speech & Audio | — |
-| AIH-00212 | Acoustic Echo | Speech & Audio | Speech & Audio | — |
-| AIH-00250 | Acoustic Feature | Speech & Audio | Speech & Audio | — |
+| AIH-00212 | Acoustic Echo | Speech & Audio | Speech & Audio | [1975](https://doi.org/10.1093/jof/73.10.633) (source only) |
+| AIH-00250 | Acoustic Feature | Speech & Audio | Speech & Audio | [2007](https://doi.org/10.21437/interspeech.2007-540) (source only) |
 | AIH-00288 | Acoustic Scene Classification | Speech & Audio | Speech & Audio | — |
-| AIH-00326 | Acoustic Simulation | Speech & Audio | Speech & Audio | — |
+| AIH-00326 | Acoustic Simulation | Speech & Audio | Speech & Audio | [2000](https://doi.org/10.1177/003754970007500203) (source only) |
 | AIH-00364 | Acoustic Speech Token | Speech & Audio | Speech & Audio | — |
-| AIH-00402 | Agent Assist | Speech & Audio | Speech & Audio | — |
-| AIH-00440 | Alignment-Free Training | Speech & Audio | Speech & Audio | — |
+| AIH-00402 | Agent Assist | Speech & Audio | Speech & Audio | [2002](https://doi.org/10.21236/ada406635) (source only) |
+| AIH-00440 | Alignment-Free Training | Speech & Audio | Speech & Audio | [2024](https://doi.org/10.21437/interspeech.2024-771) (source only) |
 | AIH-00478 | Always-On Listening | Speech & Audio | Speech & Audio | — |
 | AIH-00516 | Ambisonics | Speech & Audio | Speech & Audio | — |
 | AIH-00554 | Anti-Spoofing for Speech | Speech & Audio | Speech & Audio | — |
@@ -244,13 +244,13 @@
 | AIH-05035 | Speech-to-Speech Translation | Speech & Audio | Speech & Audio | — |
 | AIH-05067 | Speed Perturbation | Speech & Audio | Speech & Audio | — |
 | AIH-05099 | Streaming Recognition | Speech & Audio | Speech & Audio | — |
-| AIH-00137 | Additive Decomposition | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-00137 | Additive Decomposition | Time Series & Forecasting | Time Series & Forecasting | [1984](https://doi.org/10.1016/s0166-4115(08)62097-x) (source only) |
 | AIH-00175 | Anomaly Detection in Time Series | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-00213 | ARIMAX | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-00251 | ARMA | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-00289 | Backtesting | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-00327 | Bayesian Structural Time Series (BSTS) | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-00365 | Bottom-Up Approach | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-00213 | ARIMAX | Time Series & Forecasting | Time Series & Forecasting | [2009](https://doi.org/10.1109/icmtma.2009.250) (source only) |
+| AIH-00251 | ARMA | Time Series & Forecasting | Time Series & Forecasting | [1983](https://doi.org/10.21236/ada137929) (source only) |
+| AIH-00289 | Backtesting | Time Series & Forecasting | Time Series & Forecasting | [2002](https://doi.org/10.2139/ssrn.329541) (source only) |
+| AIH-00327 | Bayesian Structural Time Series (BSTS) | Time Series & Forecasting | Time Series & Forecasting | [2023](https://doi.org/10.59287/as-proceedings.267) (source only) |
+| AIH-00365 | Bottom-Up Approach | Time Series & Forecasting | Time Series & Forecasting | [2003](https://doi.org/10.4324/9780203417850-17) (source only) |
 | AIH-00403 | Calendar Feature | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-00441 | Calendar Misalignment | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-00479 | Capacity Forecasting | Time Series & Forecasting | Time Series & Forecasting | — |
@@ -371,14 +371,14 @@
 | AIH-04715 | Weighted Quantile Loss (WQL) | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-00138 | Adversarial Robustness Toolbox (ART) | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-00176 | AI Fairness 360 (AIF360) | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-00214 | Airflow | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-00214 | Airflow | Tools & Frameworks | Tools & Frameworks | [2001](https://doi.org/10.1034/j.1600-0668.2001.110407.x) (source only) |
 | AIH-00252 | Albumentations | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-00290 | Altair | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-00290 | Altair | Tools & Frameworks | Tools & Frameworks | [1996](https://doi.org/10.1049/cp:19960445) (source only) |
 | AIH-00328 | Annoy | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-00366 | Apache Beam | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-00404 | Apache Flink | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-00442 | Apache Hudi | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-00480 | Apache Iceberg | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-00404 | Apache Flink | Tools & Frameworks | Tools & Frameworks | [2016](https://doi.org/10.1515/itit-2016-0005) (source only) |
+| AIH-00442 | Apache Hudi | Tools & Frameworks | Tools & Frameworks | [2026](https://doi.org/10.1145/3802514.3809177) (source only) |
+| AIH-00480 | Apache Iceberg | Tools & Frameworks | Tools & Frameworks | [2022](https://doi.org/10.63282/3050-9416.ijaibdcms-v3i4p105) (source only) |
 | AIH-00518 | Apache Kafka | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-00556 | Apache Solr | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-00594 | Apache Spark | Tools & Frameworks | Tools & Frameworks | — |
@@ -507,6 +507,6 @@
 | AIH-05068 | PySyft | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-05100 | PyTorch Geometric (PyG) | Tools & Frameworks | Tools & Frameworks | — |
 
-— means first-used date has not yet been independently verified.
+— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

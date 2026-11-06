@@ -4,6 +4,12 @@
 
 > **Research status:** First-use historical dates remain unverified, and individual relevance of source-derived technical terms needs expert review. A source ontology topic is not proof that the term originated on any particular date.
 
+## Date research progress
+
+**[First 500 terms: historical evidence table](batches/DATE_RESEARCH_001_FIRST_500.md)** — 500 ID records and linked dated documents where found, with honest uncertainty labels.
+
+**[Date research quality report](data/DATE_RESEARCH_001_REPORT.json)** — attached date count and outstanding investigations. Publication dates are not proven original coinage dates.
+
 ## Browse complete keyword tables
 
 | Inventory set | Added keywords | Full tables | ID range |
@@ -15,7 +21,7 @@
 | 004 | 5,000 | [Browse all 5,000](batches/INVENTORY_004_5000.md) | AIH-15101–AIH-20100 |
 | **Total** | **20,100** | **40 full 500-row tables + original 100** | |
 
-**[Browse the 20,000 imported keywords in full GitHub tables](tables/README.md)**. Each of the 40 pages lists all 500 records as a table with permanent ID, term, category, subfield, and first-use date placeholder.
+**[Browse the 20,000 imported keywords in full GitHub tables](tables/README.md)**. Each of the 40 pages lists all 500 records as a table with permanent ID, term, category, subfield, and source-documented date where available; original first-use dates remain unverified.
 
 **[Master keyword CSV — all 20,100 records](data/KEYWORD_INVENTORY.csv)**
 

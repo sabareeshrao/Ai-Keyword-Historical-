@@ -1,17 +1,17 @@
 # Batch 001 — Full keyword table 05/10
 
-500 keywords; sorted by category then alphabetically. Historical first-use date is pending research.
+500 keywords sorted by category then alphabetically. A linked date is a documented publication or milestone, not confirmed earliest use of the term.
 
 [Back to Batch 001 index](../../batches/INVENTORY_001_5000.md)
 
-| ID | Keyword | Field | Subfield | First-used date |
+| ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
-| AIH-00293 | AlphaFold 3 | Deep Learning | Models & Architectures | — |
-| AIH-00331 | AlphaGeometry | Deep Learning | Models & Architectures | — |
+| AIH-00293 | AlphaFold 3 | Deep Learning | Models & Architectures | [2024](https://doi.org/10.17504/protocols.io.6qpvr8rm2lmk/v1) (source only) |
+| AIH-00331 | AlphaGeometry | Deep Learning | Models & Architectures | [2024](https://doi.org/10.1108/oxan-es284655) (source only) |
 | AIH-00369 | AlphaGo | Deep Learning | Models & Architectures | — |
 | AIH-00407 | AlphaMissense | Deep Learning | Models & Architectures | — |
-| AIH-00445 | AlphaProof | Deep Learning | Models & Architectures | — |
-| AIH-00483 | AlphaStar | Deep Learning | Models & Architectures | — |
+| AIH-00445 | AlphaProof | Deep Learning | Models & Architectures | [2024](https://doi.org/10.17513/mjpfi.13680) (source only) |
+| AIH-00483 | AlphaStar | Deep Learning | Models & Architectures | [2019](https://doi.org/10.1145/3319619.3321894) (source only) |
 | AIH-00521 | AlphaTensor | Deep Learning | Models & Architectures | — |
 | AIH-00672 | Annealing Phase | Deep Learning | Deep Learning | — |
 | AIH-00710 | Annotator Agreement | Deep Learning | Deep Learning | — |
@@ -260,16 +260,16 @@
 | AIH-05007 | SDXL Turbo | Deep Learning | Models & Architectures | — |
 | AIH-05039 | Shared Expert | Deep Learning | Models & Architectures | — |
 | AIH-05071 | ShuffleNet | Deep Learning | Models & Architectures | — |
-| AIH-00126 | Abstention Rate | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-00164 | Acceptance Criteria | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-00126 | Abstention Rate | Evaluation & Metrics | Evaluation & Metrics | [1998](https://doi.org/10.4200/jjhg1948.50.507) (source only) |
+| AIH-00164 | Acceptance Criteria | Evaluation & Metrics | Evaluation & Metrics | [1978](https://doi.org/10.2172/5580038) (source only) |
 | AIH-00202 | Acceptance Rate of Suggestions | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-00240 | Adversarial Evaluation | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-00240 | Adversarial Evaluation | Evaluation & Metrics | Evaluation & Metrics | [2017](https://doi.org/10.18653/v1/w17-5534) (source only) |
 | AIH-00278 | Annotation Cost per Judgment | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-00316 | Answer Extraction | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-00316 | Answer Extraction | Evaluation & Metrics | Evaluation & Metrics | [2000](https://doi.org/10.3115/974147.974188) (source only) |
 | AIH-00354 | Appropriate Trust Measurement | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-00392 | Area Under Precision-Recall Curve (AUPRC) | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-00430 | Attention Check | Evaluation & Metrics | Evaluation & Metrics | — |
-| AIH-00468 | Balanced Accuracy | Evaluation & Metrics | Evaluation & Metrics | — |
+| AIH-00430 | Attention Check | Evaluation & Metrics | Evaluation & Metrics | [2017](https://doi.org/10.31234/osf.io/9vrdn) (source only) |
+| AIH-00468 | Balanced Accuracy | Evaluation & Metrics | Evaluation & Metrics | [2010](https://doi.org/10.1109/icpr.2010.764) (source only) |
 | AIH-00506 | Behavioural Probe | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-00544 | Benchmark Saturation Point | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-00582 | Benchmark Validity | Evaluation & Metrics | Evaluation & Metrics | — |
@@ -400,14 +400,14 @@
 | AIH-00104 | Accessibility of Generated Content | Generative AI | Generative AI | — |
 | AIH-00142 | Adaptive Discriminator Augmentation | Generative AI | Generative AI | — |
 | AIH-00180 | Adversarial Diffusion Distillation | Generative AI | Generative AI | — |
-| AIH-00218 | Adversarial Loss | Generative AI | Generative AI | — |
+| AIH-00218 | Adversarial Loss | Generative AI | Generative AI | [2019](https://doi.org/10.4218/etrij.2018-0473) (source only) |
 | AIH-00256 | Adversarial Prompt for Images | Generative AI | Generative AI | — |
 | AIH-00294 | Aesthetic Control | Generative AI | Generative AI | — |
 | AIH-00332 | Aesthetic Score Filtering | Generative AI | Generative AI | — |
 | AIH-00370 | Alt Text Quality | Generative AI | Generative AI | — |
-| AIH-00408 | Anatomical Coherence | Generative AI | Generative AI | — |
+| AIH-00408 | Anatomical Coherence | Generative AI | Generative AI | [2025](https://doi.org/10.1167/jov.25.9.2340) (source only) |
 | AIH-00446 | Ancestral Sampling in Diffusion | Generative AI | Generative AI | — |
-| AIH-00484 | Artifact | Generative AI | Generative AI | — |
+| AIH-00484 | Artifact | Generative AI | Generative AI | [1994](https://doi.org/10.1093/oso/9780195086461.003.0005) (source only) |
 | AIH-00522 | Artistic Medium Specification | Generative AI | Generative AI | — |
 | AIH-00560 | Aspect Ratio Conditioning | Generative AI | Generative AI | — |
 | AIH-00598 | Asset Generation | Generative AI | Generative AI | — |
@@ -507,6 +507,6 @@
 | AIH-04117 | Economic Harm to Creators | Generative AI | Generative AI | — |
 | AIH-04152 | Editorial Standard | Generative AI | Generative AI | — |
 
-— means first-used date has not yet been independently verified.
+— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

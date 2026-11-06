@@ -1,10 +1,10 @@
 # Batch 001 — Full keyword table 08/10
 
-500 keywords; sorted by category then alphabetically. Historical first-use date is pending research.
+500 keywords sorted by category then alphabetically. A linked date is a documented publication or milestone, not confirmed earliest use of the term.
 
 [Back to Batch 001 index](../../batches/INVENTORY_001_5000.md)
 
-| ID | Keyword | Field | Subfield | First-used date |
+| ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-01611 | Competition Authority | People & Organizations | People & Organizations | — |
 | AIH-01649 | Compute Divide | People & Organizations | People & Organizations | — |
@@ -104,16 +104,16 @@
 | AIH-05030 | Shannon Vallor | People & Organizations | People & Organizations | — |
 | AIH-05062 | SIGGRAPH | People & Organizations | People & Organizations | — |
 | AIH-05094 | Stability AI | People & Organizations | People & Organizations | — |
-| AIH-00130 | Abstract Syntax Tree (AST) | Programming & Software | Programming & Software | — |
+| AIH-00130 | Abstract Syntax Tree (AST) | Programming & Software | Programming & Software | [2015](https://doi.org/10.1109/isncc.2015.7238572) (source only) |
 | AIH-00168 | Abstraction | Programming & Software | Programming & Software | — |
 | AIH-00206 | Acceptance Rate of Completions | Programming & Software | Programming & Software | — |
-| AIH-00244 | ACID Properties | Programming & Software | Programming & Software | — |
-| AIH-00282 | Actor Model | Programming & Software | Programming & Software | — |
-| AIH-00320 | Adapter Pattern | Programming & Software | Programming & Software | — |
+| AIH-00244 | ACID Properties | Programming & Software | Programming & Software | [2006](https://doi.org/10.1016/b978-008044428-4/50025-7) (source only) |
+| AIH-00282 | Actor Model | Programming & Software | Programming & Software | [1993](https://doi.org/10.21236/ada260196) (source only) |
+| AIH-00320 | Adapter Pattern | Programming & Software | Programming & Software | [2003](https://doi.org/10.1007/978-1-4302-0776-4_4) (source only) |
 | AIH-00358 | Affected Target Detection | Programming & Software | Programming & Software | — |
-| AIH-00396 | Anti-Pattern | Programming & Software | Programming & Software | — |
-| AIH-00434 | API Versioning | Programming & Software | Programming & Software | — |
-| AIH-00472 | Array | Programming & Software | Programming & Software | — |
+| AIH-00396 | Anti-Pattern | Programming & Software | Programming & Software | [2006](https://doi.org/10.59347/kadkc-hnr30) (source only) |
+| AIH-00434 | API Versioning | Programming & Software | Programming & Software | [2022](https://doi.org/10.1007/978-1-4842-8008-9_6) (source only) |
+| AIH-00472 | Array | Programming & Software | Programming & Software | [2000](https://doi.org/10.1201/9781420040630.ch2) (source only) |
 | AIH-00510 | Assertion | Programming & Software | Programming & Software | — |
 | AIH-00548 | Async/Await | Programming & Software | Programming & Software | — |
 | AIH-00586 | Atomic Operation | Programming & Software | Programming & Software | — |
@@ -241,15 +241,15 @@
 | AIH-05031 | Green Thread | Programming & Software | Programming & Software | — |
 | AIH-05063 | gRPC | Programming & Software | Programming & Software | — |
 | AIH-05095 | Hermetic Build | Programming & Software | Programming & Software | — |
-| AIH-00131 | Adiabatic Quantum Computation | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-00131 | Adiabatic Quantum Computation | Quantum & Emerging Compute | Quantum & Emerging Compute | [1998](https://doi.org/10.1016/s0038-1098(97)10001-1) (source only) |
 | AIH-00169 | Amplitude Encoding | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00207 | Analog Matrix Multiplication | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00245 | Angle Encoding | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00283 | Approximate Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00321 | Barren Plateau | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00359 | Biological Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00397 | Bloch Sphere | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00435 | Circuit Depth | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-00207 | Analog Matrix Multiplication | Quantum & Emerging Compute | Quantum & Emerging Compute | [1980](https://doi.org/10.1117/12.958884) (source only) |
+| AIH-00245 | Angle Encoding | Quantum & Emerging Compute | Quantum & Emerging Compute | [1971](https://doi.org/10.1117/12.953469) (source only) |
+| AIH-00283 | Approximate Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | [2012](https://doi.org/10.1007/978-3-030-98347-5_5) (source only) |
+| AIH-00321 | Barren Plateau | Quantum & Emerging Compute | Quantum & Emerging Compute | [2014](https://doi.org/10.1007/978-3-642-41714-6_20603) (source only) |
+| AIH-00359 | Biological Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | [2007](https://doi.org/10.1016/s0262-4079(07)62973-x) (source only) |
+| AIH-00397 | Bloch Sphere | Quantum & Emerging Compute | Quantum & Emerging Compute | [2003](https://doi.org/10.1109/qels.2003.238043) (source only) |
+| AIH-00435 | Circuit Depth | Quantum & Emerging Compute | Quantum & Emerging Compute | [1988](https://doi.org/10.7146/dpb.v17i239.7595) (source only) |
 | AIH-00473 | CNOT Gate | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-00511 | Coherence Time | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-00549 | Crossbar Array | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
@@ -318,14 +318,14 @@
 | AIH-02943 | Variational Quantum Algorithm (VQA) | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-02981 | Variational Quantum Eigensolver (VQE) | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-03019 | Zero-Noise Extrapolation (ZNE) | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00132 | Amplification Measurement | Recommender Systems | Recommender Systems | — |
-| AIH-00170 | Bandit Recommendation | Recommender Systems | Recommender Systems | — |
-| AIH-00208 | Basket Recommendation | Recommender Systems | Recommender Systems | — |
+| AIH-00132 | Amplification Measurement | Recommender Systems | Recommender Systems | [2022](https://doi.org/10.1016/j.physleta.2022.128329) (source only) |
+| AIH-00170 | Bandit Recommendation | Recommender Systems | Recommender Systems | [2024](https://doi.org/10.1109/icassp48485.2024.10446562) (source only) |
+| AIH-00208 | Basket Recommendation | Recommender Systems | Recommender Systems | [2010](https://doi.org/10.1145/1772690.1772773) (source only) |
 | AIH-00246 | Bayesian Personalized Ranking (BPR) | Recommender Systems | Recommender Systems | — |
 | AIH-00284 | Business Rule Layer | Recommender Systems | Recommender Systems | — |
-| AIH-00322 | Calibration in Recommendation | Recommender Systems | Recommender Systems | — |
-| AIH-00360 | Candidate Generation | Recommender Systems | Recommender Systems | — |
-| AIH-00398 | Cannibalization | Recommender Systems | Recommender Systems | — |
+| AIH-00322 | Calibration in Recommendation | Recommender Systems | Recommender Systems | [2024](https://doi.org/10.1145/3664190.3672507) (source only) |
+| AIH-00360 | Candidate Generation | Recommender Systems | Recommender Systems | [1991](https://doi.org/10.1016/0954-1810(91)90037-o) (source only) |
+| AIH-00398 | Cannibalization | Recommender Systems | Recommender Systems | [1973](https://doi.org/10.1002/nav.3800200402) (source only) |
 | AIH-00436 | Carousel Layout | Recommender Systems | Recommender Systems | — |
 | AIH-00474 | Chronological Feed | Recommender Systems | Recommender Systems | — |
 | AIH-00512 | Click-Through Rate Prediction (CTR) | Recommender Systems | Recommender Systems | — |
@@ -423,16 +423,16 @@
 | AIH-03966 | Whole-Page Optimization | Recommender Systems | Recommender Systems | — |
 | AIH-04002 | Wide and Deep Model | Recommender Systems | Recommender Systems | — |
 | AIH-00109 | Action | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-00147 | Action Discretization | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-00185 | Action Masking | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-00147 | Action Discretization | Reinforcement Learning | Reinforcement Learning | [2020](https://doi.org/10.1109/smc42975.2020.9283043) (source only) |
+| AIH-00185 | Action Masking | Reinforcement Learning | Reinforcement Learning | [2022](https://doi.org/10.32473/flairs.v35i.130584) (source only) |
 | AIH-00223 | Action Repeat | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-00261 | Actor | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-00261 | Actor | Reinforcement Learning | Reinforcement Learning | [2008](https://doi.org/10.1109/iced.2008.4786710) (source only) |
 | AIH-00299 | Actor-Learner Architecture | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-00337 | Advantage Actor-Critic (A2C) | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-00375 | Adversarial Imitation Learning | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-00413 | AlphaZero | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-00337 | Advantage Actor-Critic (A2C) | Reinforcement Learning | Reinforcement Learning | [2022](https://doi.org/10.1109/vtc2022-spring54318.2022.9860924) (source only) |
+| AIH-00375 | Adversarial Imitation Learning | Reinforcement Learning | Reinforcement Learning | [2018](https://doi.org/10.1162/isal_a_00120) (source only) |
+| AIH-00413 | AlphaZero | Reinforcement Learning | Reinforcement Learning | [2018](https://doi.org/10.1109/taai.2018.00034) (source only) |
 | AIH-00451 | Ape-X | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-00489 | Automatic Curriculum | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-00489 | Automatic Curriculum | Reinforcement Learning | Reinforcement Learning | [2016](https://doi.org/10.12792/icisip2016.045) (source only) |
 | AIH-00527 | Baseline Subtraction | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-00565 | Batch-Constrained RL | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-00603 | Behaviour Policy | Reinforcement Learning | Reinforcement Learning | — |
@@ -507,6 +507,6 @@
 | AIH-03220 | Latent Imagination | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-03257 | Learned Dynamics Model | Reinforcement Learning | Reinforcement Learning | — |
 
-— means first-used date has not yet been independently verified.
+— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

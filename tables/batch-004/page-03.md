@@ -1,10 +1,10 @@
 # Batch 004 — Full keyword table 03/10
 
-500 keywords; sorted by category then alphabetically. Historical first-use date is pending research.
+500 keywords sorted by category then alphabetically. A linked date is a documented publication or milestone, not confirmed earliest use of the term.
 
 [Back to Batch 004 index](../../batches/INVENTORY_004_5000.md)
 
-| ID | Keyword | Field | Subfield | First-used date |
+| ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-15903 | digital communication systems | AI Infrastructure | CSO: computer networks | — |
 | AIH-19587 | digital communications | AI Infrastructure | CSO: computer networks | — |
@@ -507,6 +507,6 @@
 | AIH-19818 | ionospheric electromagnetic wave propagation | AI Infrastructure | CSO: computer networks | — |
 | AIH-19819 | ios | AI Infrastructure | CSO: computer hardware | — |
 
-— means first-used date has not yet been independently verified.
+— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

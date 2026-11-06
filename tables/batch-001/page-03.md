@@ -1,10 +1,10 @@
 # Batch 001 — Full keyword table 03/10
 
-500 keywords; sorted by category then alphabetically. Historical first-use date is pending research.
+500 keywords sorted by category then alphabetically. A linked date is a documented publication or milestone, not confirmed earliest use of the term.
 
 [Back to Batch 001 index](../../batches/INVENTORY_001_5000.md)
 
-| ID | Keyword | Field | Subfield | First-used date |
+| ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-00796 | Bletchley Declaration | AI Safety | AI Policy & Governance | — |
 | AIH-00985 | Boxing | AI Safety | AI Ethics & Safety | — |
@@ -239,16 +239,16 @@
 | AIH-05016 | Situational Awareness Evaluation | AI Safety | AI Policy & Governance | — |
 | AIH-05048 | Soft Law | AI Safety | AI Policy & Governance | — |
 | AIH-05080 | Staged Release | AI Safety | AI Policy & Governance | — |
-| AIH-00121 | Adjustment Set | Causal Inference | Causal Inference | — |
-| AIH-00159 | Always-Takers | Causal Inference | Causal Inference | — |
+| AIH-00121 | Adjustment Set | Causal Inference | Causal Inference | [2025](https://doi.org/10.2139/ssrn.5394371) (source only) |
+| AIH-00159 | Always-Takers | Causal Inference | Causal Inference | [2022](https://doi.org/10.2139/ssrn.4186399) (source only) |
 | AIH-00197 | Backdoor Criterion | Causal Inference | Causal Inference | — |
 | AIH-00235 | Bad Control | Causal Inference | Causal Inference | — |
 | AIH-00273 | Balancing Score | Causal Inference | Causal Inference | — |
 | AIH-00311 | Bandwidth Selection in RD | Causal Inference | Causal Inference | — |
-| AIH-00349 | Causal Discovery | Causal Inference | Causal Inference | — |
-| AIH-00387 | Causal Effect | Causal Inference | Causal Inference | — |
+| AIH-00349 | Causal Discovery | Causal Inference | Causal Inference | [1999](https://doi.org/10.7551/mitpress/2006.003.0007) (source only) |
+| AIH-00387 | Causal Effect | Causal Inference | Causal Inference | [2007](https://doi.org/10.3386/w13341) (source only) |
 | AIH-00425 | Causal Forest | Causal Inference | Causal Inference | — |
-| AIH-00463 | Causal Impact Analysis | Causal Inference | Causal Inference | — |
+| AIH-00463 | Causal Impact Analysis | Causal Inference | Causal Inference | [2022](https://doi.org/10.2139/ssrn.4127249) (source only) |
 | AIH-00501 | Causal Machine Learning | Causal Inference | Causal Inference | — |
 | AIH-00539 | Causal Mechanism | Causal Inference | Causal Inference | — |
 | AIH-00577 | Causal Representation Learning | Causal Inference | Causal Inference | — |
@@ -351,16 +351,16 @@
 | AIH-04204 | Uplift Segmentation | Causal Inference | Causal Inference | — |
 | AIH-04239 | Weak Instrument | Causal Inference | Causal Inference | — |
 | AIH-04274 | X-Learner | Causal Inference | Causal Inference | — |
-| AIH-00122 | Algorithm Aversion | Cognitive Science | Cognitive Science | — |
-| AIH-00160 | Analogical Transfer | Cognitive Science | Cognitive Science | — |
-| AIH-00198 | Anchoring | Cognitive Science | Cognitive Science | — |
-| AIH-00236 | Appropriate Reliance | Cognitive Science | Cognitive Science | — |
-| AIH-00274 | Attentional Blink | Cognitive Science | Cognitive Science | — |
-| AIH-00312 | Attentional Capture | Cognitive Science | Cognitive Science | — |
-| AIH-00350 | Automaticity in Skill | Cognitive Science | Cognitive Science | — |
+| AIH-00122 | Algorithm Aversion | Cognitive Science | Cognitive Science | [2013](https://doi.org/10.1037/e513702014-071) (source only) |
+| AIH-00160 | Analogical Transfer | Cognitive Science | Cognitive Science | [1983](https://doi.org/10.1016/0010-0285(83)90002-6) (source only) |
+| AIH-00198 | Anchoring | Cognitive Science | Cognitive Science | [1983](https://doi.org/10.1016/b978-0-444-99689-3.50031-5) (source only) |
+| AIH-00236 | Appropriate Reliance | Cognitive Science | Cognitive Science | [2004](https://doi.org/10.1518/hfes.46.1.50.30392) (source only) |
+| AIH-00274 | Attentional Blink | Cognitive Science | Cognitive Science | [1994](https://doi.org/10.1037/e537272012-471) (source only) |
+| AIH-00312 | Attentional Capture | Cognitive Science | Cognitive Science | [1991](https://doi.org/10.1037/e665402011-118) (source only) |
+| AIH-00350 | Automaticity in Skill | Cognitive Science | Cognitive Science | [1989](https://doi.org/10.1037/0096-1523.15.4.686) (source only) |
 | AIH-00388 | Automation Bias in Humans | Cognitive Science | Cognitive Science | — |
 | AIH-00426 | Availability Heuristic | Cognitive Science | Cognitive Science | — |
-| AIH-00464 | Basic Level Category | Cognitive Science | Cognitive Science | — |
+| AIH-00464 | Basic Level Category | Cognitive Science | Cognitive Science | [1988](https://doi.org/10.1037//0012-1649.24.1.21) (source only) |
 | AIH-00502 | Bayesian Brain Hypothesis | Cognitive Science | Cognitive Science | — |
 | AIH-00540 | Bottom-Up Processing | Cognitive Science | Cognitive Science | — |
 | AIH-00578 | Categorical Perception | Cognitive Science | Cognitive Science | — |
@@ -488,15 +488,15 @@
 | AIH-05025 | Ventral Stream | Cognitive Science | Cognitive Science | — |
 | AIH-05057 | Visual Cortex Areas | Cognitive Science | Cognitive Science | — |
 | AIH-05089 | Visual Search Task | Cognitive Science | Cognitive Science | — |
-| AIH-00123 | Albedo | Computer Graphics | Computer Graphics | — |
+| AIH-00123 | Albedo | Computer Graphics | Computer Graphics | [1978](https://doi.org/10.2172/6797122) (source only) |
 | AIH-00161 | Alpha Blending | Computer Graphics | Computer Graphics | — |
 | AIH-00199 | Ambient Occlusion (AO) | Computer Graphics | Computer Graphics | — |
-| AIH-00237 | Anti-Aliasing | Computer Graphics | Computer Graphics | — |
-| AIH-00275 | Augmented Reality (AR) | Computer Graphics | Computer Graphics | — |
-| AIH-00313 | Batching | Computer Graphics | Computer Graphics | — |
+| AIH-00237 | Anti-Aliasing | Computer Graphics | Computer Graphics | [1982](https://doi.org/10.1145/800064.801254) (source only) |
+| AIH-00275 | Augmented Reality (AR) | Computer Graphics | Computer Graphics | [2009](https://doi.org/10.1109/ismar-amh.2009.5336728) (source only) |
+| AIH-00313 | Batching | Computer Graphics | Computer Graphics | [1947](https://doi.org/10.1038/scientificamerican0447-153) (source only) |
 | AIH-00351 | Bidirectional Reflectance Distribution Function (BRDF) | Computer Graphics | Computer Graphics | — |
-| AIH-00389 | Blend Shape | Computer Graphics | Computer Graphics | — |
-| AIH-00427 | Bounding Volume Hierarchy (BVH) | Computer Graphics | Computer Graphics | — |
+| AIH-00389 | Blend Shape | Computer Graphics | Computer Graphics | [2003](https://doi.org/10.1145/965400.965571) (source only) |
+| AIH-00427 | Bounding Volume Hierarchy (BVH) | Computer Graphics | Computer Graphics | [2023](https://doi.org/10.18845/tm.v36i2.6098) (source only) |
 | AIH-00465 | Broad Phase | Computer Graphics | Computer Graphics | — |
 | AIH-00503 | Cloth Simulation | Computer Graphics | Computer Graphics | — |
 | AIH-00541 | Collision Detection in Graphics | Computer Graphics | Computer Graphics | — |
@@ -507,6 +507,6 @@
 | AIH-00731 | Deep Learning Super Sampling (DLSS) | Computer Graphics | Computer Graphics | — |
 | AIH-00769 | Deferred Shading | Computer Graphics | Computer Graphics | — |
 
-— means first-used date has not yet been independently verified.
+— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

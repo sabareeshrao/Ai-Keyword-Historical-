@@ -1,10 +1,10 @@
 # Batch 001 — Full keyword table 07/10
 
-500 keywords; sorted by category then alphabetically. Historical first-use date is pending research.
+500 keywords sorted by category then alphabetically. A linked date is a documented publication or milestone, not confirmed earliest use of the term.
 
 [Back to Batch 001 index](../../batches/INVENTORY_001_5000.md)
 
-| ID | Keyword | Field | Subfield | First-used date |
+| ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-02203 | Beam Width | Mathematics | Mathematics & Statistics | — |
 | AIH-02241 | Bellman-Ford Algorithm | Mathematics | Mathematics & Statistics | — |
@@ -332,15 +332,15 @@
 | AIH-05083 | Mutually Exclusive Events | Mathematics | Probabilistic Methods | — |
 | AIH-00105 | Abbreviation Resolution | NLP and LLMs | Natural Language Processing | — |
 | AIH-00143 | Abstractive Question Answering | NLP and LLMs | Natural Language Processing | — |
-| AIH-00181 | Abstractive Summarization | NLP and LLMs | Natural Language Processing | — |
-| AIH-00219 | Agglutinative Language | NLP and LLMs | Natural Language Processing | — |
+| AIH-00181 | Abstractive Summarization | NLP and LLMs | Natural Language Processing | [2016](https://doi.org/10.18653/v1/p16-3015) (source only) |
+| AIH-00219 | Agglutinative Language | NLP and LLMs | Natural Language Processing | [1989](https://doi.org/10.1007/978-94-009-1041-6_11) (source only) |
 | AIH-00257 | Ambiguous Question | NLP and LLMs | Natural Language Processing | — |
-| AIH-00295 | Analogy Task | NLP and LLMs | Natural Language Processing | — |
-| AIH-00333 | Anaphora | NLP and LLMs | Natural Language Processing | — |
-| AIH-00371 | Answer Span | NLP and LLMs | Natural Language Processing | — |
-| AIH-00409 | Answerability Detection | NLP and LLMs | Natural Language Processing | — |
+| AIH-00295 | Analogy Task | NLP and LLMs | Natural Language Processing | [1987](https://doi.org/10.1111/j.2044-8295.1987.tb02223.x) (source only) |
+| AIH-00333 | Anaphora | NLP and LLMs | Natural Language Processing | [1981](https://doi.org/10.1007/3-540-10858-0_2) (source only) |
+| AIH-00371 | Answer Span | NLP and LLMs | Natural Language Processing | [2020](https://doi.org/10.18653/v1/2020.findings-emnlp.226) (source only) |
+| AIH-00409 | Answerability Detection | NLP and LLMs | Natural Language Processing | [2025](https://doi.org/10.1007/s10489-025-06765-y) (source only) |
 | AIH-00447 | Argument Mining | NLP and LLMs | Natural Language Processing | — |
-| AIH-00485 | Aspect-Based Sentiment Analysis (ABSA) | NLP and LLMs | Natural Language Processing | — |
+| AIH-00485 | Aspect-Based Sentiment Analysis (ABSA) | NLP and LLMs | Natural Language Processing | [2023](https://doi.org/10.1016/j.tmp.2022.101063) (source only) |
 | AIH-00523 | Attribute Conditioning | NLP and LLMs | Natural Language Processing | — |
 | AIH-00561 | Attribution | NLP and LLMs | Natural Language Processing | — |
 | AIH-00599 | Authorship Attribution | NLP and LLMs | Natural Language Processing | — |
@@ -470,13 +470,13 @@
 | AIH-00129 | AAAI | People & Organizations | People & Organizations | — |
 | AIH-00167 | Academic Access Programme | People & Organizations | People & Organizations | — |
 | AIH-00205 | ACL Conference | People & Organizations | People & Organizations | — |
-| AIH-00243 | Ada Lovelace | People & Organizations | People & Organizations | — |
+| AIH-00243 | Ada Lovelace | People & Organizations | People & Organizations | [2012](https://doi.org/10.1016/s0262-4079(12)62633-5) (source only) |
 | AIH-00281 | Affected Person | People & Organizations | People & Organizations | — |
 | AIH-00319 | AI Ethics Community | People & Organizations | People & Organizations | — |
 | AIH-00357 | AI Safety Community | People & Organizations | People & Organizations | — |
 | AIH-00395 | AI Standards Body | People & Organizations | People & Organizations | — |
-| AIH-00433 | AI Startup Ecosystem | People & Organizations | People & Organizations | — |
-| AIH-00471 | AI Winter | People & Organizations | People & Organizations | — |
+| AIH-00433 | AI Startup Ecosystem | People & Organizations | People & Organizations | [2026](https://doi.org/10.1007/978-3-032-21940-4_11) (source only) |
+| AIH-00471 | AI Winter | People & Organizations | People & Organizations | [1995](https://doi.org/10.7551/mitpress/4301.003.0009) (source only) |
 | AIH-00509 | AIES | People & Organizations | People & Organizations | — |
 | AIH-00547 | Alan Turing | People & Organizations | People & Organizations | — |
 | AIH-00585 | Alex Krizhevsky | People & Organizations | People & Organizations | — |
@@ -507,6 +507,6 @@
 | AIH-01535 | Cohere Organization | People & Organizations | People & Organizations | — |
 | AIH-01573 | Community Consent | People & Organizations | People & Organizations | — |
 
-— means first-used date has not yet been independently verified.
+— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

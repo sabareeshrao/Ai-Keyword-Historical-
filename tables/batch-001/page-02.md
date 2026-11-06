@@ -1,10 +1,10 @@
 # Batch 001 — Full keyword table 02/10
 
-500 keywords; sorted by category then alphabetically. Historical first-use date is pending research.
+500 keywords sorted by category then alphabetically. A linked date is a documented publication or milestone, not confirmed earliest use of the term.
 
 [Back to Batch 001 index](../../batches/INVENTORY_001_5000.md)
 
-| ID | Keyword | Field | Subfield | First-used date |
+| ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-03476 | Knowledge Representation (KR) | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-03512 | Landmark | AI Foundations | Symbolic AI & Reasoning | — |
@@ -55,30 +55,30 @@
 | AIH-05044 | Proof Assistant | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-05076 | Proof Search | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-00118 | 2.5D Integration | AI Infrastructure | Hardware & Compute | — |
-| AIH-00117 | 3D Parallelism | AI Infrastructure | AI Infrastructure | — |
-| AIH-00156 | 3D Stacking | AI Infrastructure | Hardware & Compute | — |
+| AIH-00117 | 3D Parallelism | AI Infrastructure | AI Infrastructure | [2024](https://doi.org/10.1109/icde60146.2024.00153) (source only) |
+| AIH-00156 | 3D Stacking | AI Infrastructure | Hardware & Compute | [1999](https://doi.org/10.3997/2214-4609.201407764) (source only) |
 | AIH-00119 | A/B Test for Models | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00157 | Ablation Study | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00195 | Ablation Transparency | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00194 | Accelerator Lifetime | AI Infrastructure | Hardware & Compute | — |
 | AIH-00232 | Accelerator Supply Chain | AI Infrastructure | Hardware & Compute | — |
-| AIH-00155 | Acceptance Rate | AI Infrastructure | AI Infrastructure | — |
-| AIH-00233 | Acceptance Threshold | AI Infrastructure | MLOps & Engineering | — |
+| AIH-00155 | Acceptance Rate | AI Infrastructure | AI Infrastructure | [1962](https://doi.org/10.21236/ada079220) (source only) |
+| AIH-00233 | Acceptance Threshold | AI Infrastructure | MLOps & Engineering | [1968](https://doi.org/10.1016/0022-1910(68)90013-9) (source only) |
 | AIH-00270 | Achieved Throughput | AI Infrastructure | Hardware & Compute | — |
 | AIH-00271 | Action Item Tracking | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00193 | Activation Memory | AI Infrastructure | AI Infrastructure | — |
 | AIH-00231 | Activation Offloading | AI Infrastructure | AI Infrastructure | — |
 | AIH-00269 | Adapter Hot Swap | AI Infrastructure | AI Infrastructure | — |
-| AIH-00307 | Admission Control | AI Infrastructure | AI Infrastructure | — |
-| AIH-00308 | Advanced Packaging | AI Infrastructure | Hardware & Compute | — |
-| AIH-00346 | Affinity Scheduling | AI Infrastructure | Hardware & Compute | — |
-| AIH-00345 | AI Accelerator | AI Infrastructure | AI Infrastructure | — |
-| AIH-00383 | AI Chip | AI Infrastructure | AI Infrastructure | — |
+| AIH-00307 | Admission Control | AI Infrastructure | AI Infrastructure | [2000](https://doi.org/10.17487/rfc2753) (source only) |
+| AIH-00308 | Advanced Packaging | AI Infrastructure | Hardware & Compute | [2000](https://doi.org/10.1109/tadvp.2000.883771) (source only) |
+| AIH-00346 | Affinity Scheduling | AI Infrastructure | Hardware & Compute | [1993](https://doi.org/10.1145/166962.167038) (source only) |
+| AIH-00345 | AI Accelerator | AI Infrastructure | AI Infrastructure | [2012](https://doi.org/10.1007/978-3-031-22170-5_7) (source only) |
+| AIH-00383 | AI Chip | AI Infrastructure | AI Infrastructure | [2017](https://doi.org/10.64628/aa.k4kg9xu4j) (source only) |
 | AIH-00421 | AI Gateway | AI Infrastructure | AI Infrastructure | — |
-| AIH-00459 | AI Model Marketplace | AI Infrastructure | AI Infrastructure | — |
+| AIH-00459 | AI Model Marketplace | AI Infrastructure | AI Infrastructure | [2026](https://doi.org/10.1109/icsft66733.2026.11507790) (source only) |
 | AIH-00497 | Air-Gapped Deployment | AI Infrastructure | AI Infrastructure | — |
-| AIH-00309 | Alert Fatigue | AI Infrastructure | MLOps & Engineering | — |
-| AIH-00347 | Alert Threshold | AI Infrastructure | MLOps & Engineering | — |
+| AIH-00309 | Alert Fatigue | AI Infrastructure | MLOps & Engineering | [2009](https://doi.org/10.2146/ajhp090181) (source only) |
+| AIH-00347 | Alert Threshold | AI Infrastructure | MLOps & Engineering | [2004](https://doi.org/10.3201/eid1007.030722) (source only) |
 | AIH-00385 | Alert Tuning | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00384 | Algorithmic Efficiency Improvement | AI Infrastructure | Hardware & Compute | — |
 | AIH-00535 | All-Gather | AI Infrastructure | AI Infrastructure | — |
@@ -89,7 +89,7 @@
 | AIH-00687 | API (Application Programming Interface) | AI Infrastructure | AI Infrastructure | — |
 | AIH-00725 | API Gateway | AI Infrastructure | AI Infrastructure | — |
 | AIH-00763 | Application-Specific Integrated Circuit (ASIC) | AI Infrastructure | AI Infrastructure | — |
-| AIH-00461 | Approval Workflow | AI Infrastructure | MLOps & Engineering | — |
+| AIH-00461 | Approval Workflow | AI Infrastructure | MLOps & Engineering | [2010](https://doi.org/10.1057/dam.2010.46) (source only) |
 | AIH-00499 | Architecture Decision Record (ADR) | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00422 | ARM Architecture | AI Infrastructure | Hardware & Compute | — |
 | AIH-00801 | Artifact Caching | AI Infrastructure | AI Infrastructure | — |
@@ -97,7 +97,7 @@
 | AIH-00537 | Artifact Versioning | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00877 | Async Job Submission | AI Infrastructure | AI Infrastructure | — |
 | AIH-00915 | Asynchronous Checkpointing | AI Infrastructure | AI Infrastructure | — |
-| AIH-00460 | Asynchronous Copy | AI Infrastructure | Hardware & Compute | — |
+| AIH-00460 | Asynchronous Copy | AI Infrastructure | Hardware & Compute | [2003](https://doi.org/10.1016/s0141-9331(03)00101-7) (source only) |
 | AIH-00953 | Asynchronous Execution | AI Infrastructure | AI Infrastructure | — |
 | AIH-00575 | At-Least-Once Delivery | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00613 | Audit Trail for Predictions | AI Infrastructure | MLOps & Engineering | — |
@@ -108,7 +108,7 @@
 | AIH-00689 | Backfill | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00727 | Backfill Correctness | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00765 | Backfill Run | AI Infrastructure | MLOps & Engineering | — |
-| AIH-00498 | Backfill Scheduling | AI Infrastructure | Hardware & Compute | — |
+| AIH-00498 | Backfill Scheduling | AI Infrastructure | Hardware & Compute | [2008](https://doi.org/10.1109/pdp.2008.53) (source only) |
 | AIH-01105 | Backpressure | AI Infrastructure | AI Infrastructure | — |
 | AIH-00803 | Backpressure Handling | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00536 | Bank Conflict | AI Infrastructure | Hardware & Compute | — |
@@ -466,32 +466,32 @@
 | AIH-05054 | Reticle Limit | AI Infrastructure | Hardware & Compute | — |
 | AIH-05086 | RISC-V | AI Infrastructure | Hardware & Compute | — |
 | AIH-00111 | Abuse Reporting Channel | AI Safety | AI Ethics & Safety | — |
-| AIH-00112 | Acceptable Use Policy (AUP) | AI Safety | AI Policy & Governance | — |
-| AIH-00149 | Accident Risk | AI Safety | AI Ethics & Safety | — |
-| AIH-00150 | Accountability Structure | AI Safety | AI Policy & Governance | — |
+| AIH-00112 | Acceptable Use Policy (AUP) | AI Safety | AI Policy & Governance | [2019](https://doi.org/10.7826/isr-um.06.res.01.01.07-2x) (source only) |
+| AIH-00149 | Accident Risk | AI Safety | AI Ethics & Safety | [1982](https://doi.org/10.1016/0001-4575(82)90019-7) (source only) |
+| AIH-00150 | Accountability Structure | AI Safety | AI Policy & Governance | [2013](https://doi.org/10.37665/smzjcst80507) (source only) |
 | AIH-00187 | Adversarial Attack | AI Safety | AI Ethics & Safety | — |
 | AIH-00225 | Adversarial Fine-Tuning Risk | AI Safety | AI Ethics & Safety | — |
-| AIH-00263 | Adversarial Robustness | AI Safety | AI Ethics & Safety | — |
-| AIH-00301 | Age-Appropriate Design | AI Safety | AI Ethics & Safety | — |
+| AIH-00263 | Adversarial Robustness | AI Safety | AI Ethics & Safety | [2020](https://doi.org/10.1109/ijcnn48605.2020.9206760) (source only) |
+| AIH-00301 | Age-Appropriate Design | AI Safety | AI Ethics & Safety | [2022](https://doi.org/10.1117/12.2655165) (source only) |
 | AIH-00188 | Aggregation Bias | AI Safety | AI Policy & Governance | — |
 | AIH-00226 | AI Asset Inventory | AI Safety | AI Policy & Governance | — |
 | AIH-00339 | AI Ethics | AI Safety | AI Ethics & Safety | — |
-| AIH-00377 | AI Governance | AI Safety | AI Ethics & Safety | — |
-| AIH-00415 | AI Regulation | AI Safety | AI Ethics & Safety | — |
-| AIH-00453 | AI Risk Assessment | AI Safety | AI Ethics & Safety | — |
-| AIH-00491 | AI Safety | AI Safety | AI Ethics & Safety | — |
+| AIH-00377 | AI Governance | AI Safety | AI Ethics & Safety | [2021](https://doi.org/10.2139/ssrn.3882493) (source only) |
+| AIH-00415 | AI Regulation | AI Safety | AI Ethics & Safety | [2023](https://doi.org/10.2139/ssrn.4467684) (source only) |
+| AIH-00453 | AI Risk Assessment | AI Safety | AI Ethics & Safety | [2023](https://doi.org/10.2139/ssrn.4464783) (source only) |
+| AIH-00491 | AI Safety | AI Safety | AI Ethics & Safety | [2018](https://doi.org/10.1201/9781351251389-13) (source only) |
 | AIH-00264 | AI Safety Institute (AISI) | AI Safety | AI Policy & Governance | — |
 | AIH-00529 | AI Watermarking | AI Safety | AI Ethics & Safety | — |
-| AIH-00302 | Algorithmic Auditing | AI Safety | AI Policy & Governance | — |
-| AIH-00340 | Algorithmic Impact Assessment (AIA) | AI Safety | AI Policy & Governance | — |
+| AIH-00302 | Algorithmic Auditing | AI Safety | AI Policy & Governance | [2021](https://doi.org/10.1145/3465416.3483294) (source only) |
+| AIH-00340 | Algorithmic Impact Assessment (AIA) | AI Safety | AI Policy & Governance | [2025](https://doi.org/10.70183/lijdlr.2025.v03.185) (source only) |
 | AIH-00378 | Algorithmic Management | AI Safety | AI Policy & Governance | — |
 | AIH-00567 | Alignment Faking | AI Safety | AI Ethics & Safety | — |
 | AIH-00605 | Alignment Objective | AI Safety | AI Ethics & Safety | — |
-| AIH-00416 | Allocative Harm | AI Safety | AI Policy & Governance | — |
+| AIH-00416 | Allocative Harm | AI Safety | AI Policy & Governance | [2021](https://doi.org/10.5210/fm.v26i8.11717) (source only) |
 | AIH-00454 | Annotator Wellbeing | AI Safety | AI Policy & Governance | — |
 | AIH-00643 | Anomalous Action Detection | AI Safety | AI Ethics & Safety | — |
 | AIH-00681 | Anthropomorphism | AI Safety | AI Ethics & Safety | — |
-| AIH-00492 | Appeal Process | AI Safety | AI Policy & Governance | — |
+| AIH-00492 | Appeal Process | AI Safety | AI Policy & Governance | [1948](https://doi.org/10.2307/1283867) (source only) |
 | AIH-00719 | Ask for Clarification | AI Safety | AI Ethics & Safety | — |
 | AIH-00757 | Assistance Game | AI Safety | AI Ethics & Safety | — |
 | AIH-00530 | Attribution Requirement | AI Safety | AI Policy & Governance | — |
@@ -507,6 +507,6 @@
 | AIH-00720 | Bias Audit | AI Safety | AI Policy & Governance | — |
 | AIH-00758 | Biometric Privacy Law | AI Safety | AI Policy & Governance | — |
 
-— means first-used date has not yet been independently verified.
+— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

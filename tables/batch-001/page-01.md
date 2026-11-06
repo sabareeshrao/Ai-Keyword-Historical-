@@ -1,22 +1,22 @@
 # Batch 001 — Full keyword table 01/10
 
-500 keywords; sorted by category then alphabetically. Historical first-use date is pending research.
+500 keywords sorted by category then alphabetically. A linked date is a documented publication or milestone, not confirmed earliest use of the term.
 
 [Back to Batch 001 index](../../batches/INVENTORY_001_5000.md)
 
-| ID | Keyword | Field | Subfield | First-used date |
+| ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-00106 | Acceptance Criteria for Agents | Agentic AI | AI Agents | — |
-| AIH-00144 | Accessibility Tree | Agentic AI | AI Agents | — |
+| AIH-00144 | Accessibility Tree | Agentic AI | AI Agents | [2026](https://doi.org/10.21203/rs.3.rs-11206775/v1) (source only) |
 | AIH-00182 | Action Allowlist | Agentic AI | AI Agents | — |
-| AIH-00220 | Action Grounding | Agentic AI | AI Agents | — |
-| AIH-00258 | Action Module | Agentic AI | AI Agents | — |
+| AIH-00220 | Action Grounding | Agentic AI | AI Agents | [2020](https://doi.org/10.2139/ssrn.3658431) (source only) |
+| AIH-00258 | Action Module | Agentic AI | AI Agents | [2005](https://doi.org/10.4324/9780203995778-15) (source only) |
 | AIH-00296 | Action Preview | Agentic AI | AI Agents | — |
 | AIH-00334 | Action Space for Agents | Agentic AI | AI Agents | — |
 | AIH-00372 | Adversarial Agent Review | Agentic AI | AI Agents | — |
 | AIH-00410 | Agent Architecture | Agentic AI | AI Agents | — |
-| AIH-00448 | Agent Benchmark | Agentic AI | AI Agents | — |
-| AIH-00486 | Agent Communication Protocol | Agentic AI | AI Agents | — |
+| AIH-00448 | Agent Benchmark | Agentic AI | AI Agents | [2023](https://doi.org/10.31219/osf.io/d7pbh) (source only) |
+| AIH-00486 | Agent Communication Protocol | Agentic AI | AI Agents | [2004](https://doi.org/10.1109/icdcs.2004.1281613) (source only) |
 | AIH-00524 | Agent Debugging | Agentic AI | AI Agents | — |
 | AIH-00562 | Agent Handoff | Agentic AI | AI Agents | — |
 | AIH-00600 | Agent Harness | Agentic AI | AI Agents | — |
@@ -147,13 +147,13 @@
 | AIH-00158 | Access Control in Retrieval | AI Applications | AI Applications | — |
 | AIH-00196 | Access to Justice | AI Applications | AI Applications | — |
 | AIH-00234 | Accessibility Technology | AI Applications | AI Applications | — |
-| AIH-00272 | Action Item Extraction | AI Applications | AI Applications | — |
-| AIH-00310 | Actuarial Model | AI Applications | AI Applications | — |
-| AIH-00348 | Ad Targeting | AI Applications | AI Applications | — |
-| AIH-00386 | Adaptive Learning Path | AI Applications | AI Applications | — |
-| AIH-00424 | Adherence Prediction | AI Applications | AI Applications | — |
+| AIH-00272 | Action Item Extraction | AI Applications | AI Applications | [2026](https://doi.org/10.1109/i2itcon69735.2026.11747161) (source only) |
+| AIH-00310 | Actuarial Model | AI Applications | AI Applications | [2020](https://doi.org/10.22617/tim200426-2) (source only) |
+| AIH-00348 | Ad Targeting | AI Applications | AI Applications | [1990](https://doi.org/10.1007/978-1-4613-1565-0_16) (source only) |
+| AIH-00386 | Adaptive Learning Path | AI Applications | AI Applications | [2012](https://doi.org/10.1037/e502102013-041) (source only) |
+| AIH-00424 | Adherence Prediction | AI Applications | AI Applications | [2015](https://doi.org/10.1016/j.jval.2015.03.376) (source only) |
 | AIH-00462 | Adverse Action Notice | AI Applications | AI Applications | — |
-| AIH-00500 | Adverse Event Detection | AI Applications | AI Applications | — |
+| AIH-00500 | Adverse Event Detection | AI Applications | AI Applications | [2004](https://doi.org/10.1097/00002800-200411000-00003) (source only) |
 | AIH-00538 | Agentic AI | AI Applications | AI Applications | — |
 | AIH-00576 | Agentic Workflow | AI Applications | AI Applications | — |
 | AIH-00614 | Agricultural Advisory | AI Applications | AI Applications | — |
@@ -280,21 +280,21 @@
 | AIH-05024 | Document Fraud Detection | AI Applications | AI Applications | — |
 | AIH-05056 | Document Summarization in Enterprise | AI Applications | AI Applications | — |
 | AIH-05088 | Draft Reply Generation | AI Applications | AI Applications | — |
-| AIH-00107 | 4E cognition | AI Foundations | Fundamentals | — |
-| AIH-00145 | A Mathematical Theory of Communication | AI Foundations | Fundamentals | — |
+| AIH-00107 | 4E cognition | AI Foundations | Fundamentals | [2018](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) (source only) |
+| AIH-00145 | A Mathematical Theory of Communication | AI Foundations | Fundamentals | [1948](https://doi.org/10.1002/j.1538-7305.1948.tb01338.x) (source only) |
 | AIH-00183 | A/B Testing | AI Foundations | Fundamentals | — |
-| AIH-00108 | Abductive Reasoning | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-00108 | Abductive Reasoning | AI Foundations | Symbolic AI & Reasoning | [1991](https://doi.org/10.1016/0925-2312(91)90055-g) (source only) |
 | AIH-00221 | Absolute Positional Encoding | AI Foundations | Fundamentals | — |
-| AIH-00146 | Abstract Interpretation | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-00146 | Abstract Interpretation | AI Foundations | Symbolic AI & Reasoning | [1987](https://doi.org/10.21236/ada179451) (source only) |
 | AIH-00184 | Abstraction Heuristic | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-00259 | Acceptance Testing | AI Foundations | Fundamentals | — |
+| AIH-00259 | Acceptance Testing | AI Foundations | Fundamentals | [1981](https://doi.org/10.37206/8) (source only) |
 | AIH-00297 | Accessibility by Default | AI Foundations | Fundamentals | — |
-| AIH-00335 | Accessibility Standard | AI Foundations | Fundamentals | — |
-| AIH-00373 | Accuracy | AI Foundations | Fundamentals | — |
-| AIH-00411 | Acoustic Model | AI Foundations | Fundamentals | — |
+| AIH-00335 | Accessibility Standard | AI Foundations | Fundamentals | [1982](https://doi.org/10.6028/nbs.ir.82-2567) (source only) |
+| AIH-00373 | Accuracy | AI Foundations | Fundamentals | [1989](https://doi.org/10.1201/b12612-20) (source only) |
+| AIH-00411 | Acoustic Model | AI Foundations | Fundamentals | [1974](https://doi.org/10.21236/ada096584) (source only) |
 | AIH-00222 | ACT-R | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-00449 | Action Space | AI Foundations | Fundamentals | — |
-| AIH-00487 | Actionable Output | AI Foundations | Fundamentals | — |
+| AIH-00449 | Action Space | AI Foundations | Fundamentals | [2009](https://doi.org/10.1007/978-3-540-29678-2_6341) (source only) |
+| AIH-00487 | Actionable Output | AI Foundations | Fundamentals | [2007](https://doi.org/10.1016/b978-075067796-7/50031-3) (source only) |
 | AIH-00525 | Actionable Recourse | AI Foundations | Fundamentals | — |
 | AIH-00563 | Active Experimentation | AI Foundations | Fundamentals | — |
 | AIH-00601 | Active Inference | AI Foundations | Fundamentals | — |
@@ -302,9 +302,9 @@
 | AIH-00677 | Actuator | AI Foundations | Fundamentals | — |
 | AIH-00715 | ADALINE | AI Foundations | Fundamentals | — |
 | AIH-00753 | Adam | AI Foundations | Fundamentals | — |
-| AIH-00260 | Adaptation in Case-Based Reasoning | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-00260 | Adaptation in Case-Based Reasoning | AI Foundations | Symbolic AI & Reasoning | [1999](https://doi.org/10.1007/3-540-48508-2_8) (source only) |
 | AIH-00791 | Adaptive Optimization | AI Foundations | Fundamentals | — |
-| AIH-00298 | Admissibility | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-00298 | Admissibility | AI Foundations | Symbolic AI & Reasoning | [1916](https://doi.org/10.2307/1063471) (source only) |
 | AIH-00829 | Admissible heuristic | AI Foundations | Fundamentals | — |
 | AIH-00867 | Adversarial Example | AI Foundations | Fundamentals | — |
 | AIH-00905 | Adversarial Market | AI Foundations | Fundamentals | — |
@@ -338,11 +338,11 @@
 | AIH-01969 | Alignment Tax | AI Foundations | Fundamentals | — |
 | AIH-00336 | All-Different Constraint | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-00374 | Allen's Interval Algebra | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-00412 | Alpha-Beta Pruning | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-00412 | Alpha-Beta Pruning | AI Foundations | Symbolic AI & Reasoning | [1975](https://doi.org/10.1016/0004-3702(75)90019-3) (source only) |
 | AIH-02007 | AlphaFold | AI Foundations | Fundamentals | — |
 | AIH-02045 | Ameca (robot) | AI Foundations | Fundamentals | — |
-| AIH-00450 | Analogical Reasoning | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-00488 | Analogy Retrieval | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-00450 | Analogical Reasoning | AI Foundations | Symbolic AI & Reasoning | [1988](https://doi.org/10.1007/978-94-015-7811-0) (source only) |
+| AIH-00488 | Analogy Retrieval | AI Foundations | Symbolic AI & Reasoning | [2000](https://doi.org/10.1111/1468-0394.00125) (source only) |
 | AIH-02083 | Analytical Integrity | AI Foundations | Fundamentals | — |
 | AIH-02121 | And–or tree | AI Foundations | Fundamentals | — |
 | AIH-00526 | Answer Set Programming (ASP) | AI Foundations | Symbolic AI & Reasoning | — |
@@ -507,6 +507,6 @@
 | AIH-03404 | Knowledge Graph Construction | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-03440 | Knowledge Graph Embedding (KGE) | AI Foundations | Symbolic AI & Reasoning | — |
 
-— means first-used date has not yet been independently verified.
+— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

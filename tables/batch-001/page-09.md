@@ -1,10 +1,10 @@
 # Batch 001 — Full keyword table 09/10
 
-500 keywords; sorted by category then alphabetically. Historical first-use date is pending research.
+500 keywords sorted by category then alphabetically. A linked date is a documented publication or milestone, not confirmed earliest use of the term.
 
 [Back to Batch 001 index](../../batches/INVENTORY_001_5000.md)
 
-| ID | Keyword | Field | Subfield | First-used date |
+| ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-03294 | Learning from Observation | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-03331 | Maximization Bias | Reinforcement Learning | Reinforcement Learning | — |
@@ -59,17 +59,17 @@
 | AIH-05013 | Retrace | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-05045 | Return | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-05077 | Return-Conditioned Policy | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-00116 | 6D Pose | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00154 | Actuator Saturation | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00192 | Admittance Control | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00230 | Affordance Detection | Robotics | Robotics & Autonomous Systems | — |
+| AIH-00116 | 6D Pose | Robotics | Robotics & Autonomous Systems | [2017](https://doi.org/10.1109/iccv.2017.169) (source only) |
+| AIH-00154 | Actuator Saturation | Robotics | Robotics & Autonomous Systems | [1993](https://doi.org/10.23919/acc.1993.4793322) (source only) |
+| AIH-00192 | Admittance Control | Robotics | Robotics & Autonomous Systems | [2005](https://doi.org/10.3182/20050703-6-cz-1902.01341) (source only) |
+| AIH-00230 | Affordance Detection | Robotics | Robotics & Autonomous Systems | [2015](https://doi.org/10.1109/ivcnz.2015.7761532) (source only) |
 | AIH-00268 | Agricultural Robot | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00306 | Anthrobotics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00344 | Antipodal Grasp | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00382 | Assembly Sequence Planning | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00420 | Assistive Robot | Robotics | Robotics & Autonomous Systems | — |
+| AIH-00306 | Anthrobotics | Robotics | Robotics & Autonomous Systems | [1995](https://doi.org/10.1016/0278-6125(95)90003-9) (source only) |
+| AIH-00344 | Antipodal Grasp | Robotics | Robotics & Autonomous Systems | [2005](https://doi.org/10.1109/tro.2005.844679) (source only) |
+| AIH-00382 | Assembly Sequence Planning | Robotics | Robotics & Autonomous Systems | [1988](https://doi.org/10.2514/6.1988-3500) (source only) |
+| AIH-00420 | Assistive Robot | Robotics | Robotics & Autonomous Systems | [2002](https://doi.org/10.1007/978-1-4471-3719-1_21) (source only) |
 | AIH-00458 | Attitude Control | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00496 | Automated Guided Vehicle (AGV) | Robotics | Robotics & Autonomous Systems | — |
+| AIH-00496 | Automated Guided Vehicle (AGV) | Robotics | Robotics & Autonomous Systems | [2007](https://doi.org/10.1016/j.simpat.2006.11.002) (source only) |
 | AIH-00534 | Automaton | Robotics | Robotics & Autonomous Systems | — |
 | AIH-00572 | Autonomous Drone | Robotics | Robotics & Autonomous Systems | — |
 | AIH-00610 | Autonomous logistics | Robotics | Robotics & Autonomous Systems | — |
@@ -199,13 +199,13 @@
 | AIH-00133 | Active Learning for Experiments | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-00171 | Adaptive Algorithm in Medicine | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-00209 | Adaptive Trial Design | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-00247 | ADMET Prediction | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-00247 | ADMET Prediction | Science & Healthcare AI | Science & Healthcare AI | [2014](https://doi.org/10.1007/978-3-319-09976-7_12) (source only) |
 | AIH-00285 | Alert Fatigue in Clinical Systems | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-00323 | Algorithmic Bias in Healthcare | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-00361 | Antibody Design | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-00323 | Algorithmic Bias in Healthcare | Science & Healthcare AI | Science & Healthcare AI | [2024](https://doi.org/10.1002/9781394263752.ch6) (source only) |
+| AIH-00361 | Antibody Design | Science & Healthcare AI | Science & Healthcare AI | [2020](https://doi.org/10.1093/abt/tbaa012) (source only) |
 | AIH-00399 | Automation Bias in Medicine | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-00437 | Basket Trial | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-00475 | Batch Correction | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-00475 | Batch Correction | Science & Healthcare AI | Science & Healthcare AI | [2018](https://doi.org/10.1007/978-981-13-2167-2_19) (source only) |
 | AIH-00513 | Batch Effect | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-00551 | Bayesian Experimental Design (BOED) | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-00589 | Bibliometrics | Science & Healthcare AI | Science & Healthcare AI | — |
@@ -333,16 +333,16 @@
 | AIH-05032 | Quaternary Structure | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-05064 | Race Correction in Clinical Algorithms | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-05096 | Radiation Dose Optimization | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-00134 | Abuse Detection | Security & Privacy | Security & Privacy | — |
-| AIH-00172 | Account Takeover | Security & Privacy | Security & Privacy | — |
+| AIH-00134 | Abuse Detection | Security & Privacy | Security & Privacy | [1995](https://doi.org/10.1300/j070v04n02_07) (source only) |
+| AIH-00172 | Account Takeover | Security & Privacy | Security & Privacy | [2002](https://doi.org/10.1037/e313422004-001) (source only) |
 | AIH-00210 | Adaptive Attack | Security & Privacy | Security & Privacy | — |
-| AIH-00248 | Adversarial Perturbation | Security & Privacy | Security & Privacy | — |
-| AIH-00286 | Adversarial Training | Security & Privacy | Security & Privacy | — |
-| AIH-00324 | Adversary Capability | Security & Privacy | Security & Privacy | — |
+| AIH-00248 | Adversarial Perturbation | Security & Privacy | Security & Privacy | [2019](https://doi.org/10.1109/iciscae48440.2019.221662) (source only) |
+| AIH-00286 | Adversarial Training | Security & Privacy | Security & Privacy | [2017](https://doi.org/10.21437/interspeech.2017-421) (source only) |
+| AIH-00324 | Adversary Capability | Security & Privacy | Security & Privacy | [2011](https://doi.org/10.1007/978-3-642-21694-7_8) (source only) |
 | AIH-00362 | Air-Gapped Backup | Security & Privacy | Security & Privacy | — |
-| AIH-00400 | Alert Triage | Security & Privacy | Security & Privacy | — |
-| AIH-00438 | Anomaly-Based Detection | Security & Privacy | Security & Privacy | — |
-| AIH-00476 | Anonymization | Security & Privacy | Security & Privacy | — |
+| AIH-00400 | Alert Triage | Security & Privacy | Security & Privacy | [2003](https://doi.org/10.1007/978-3-540-45215-7_42) (source only) |
+| AIH-00438 | Anomaly-Based Detection | Security & Privacy | Security & Privacy | [2015](https://doi.org/10.1109/iccerec.2015.7337024) (source only) |
+| AIH-00476 | Anonymization | Security & Privacy | Security & Privacy | [2007](https://doi.org/10.1109/icde.2007.369024) (source only) |
 | AIH-00514 | Attack Surface | Security & Privacy | Security & Privacy | — |
 | AIH-00552 | Attestation | Security & Privacy | Security & Privacy | — |
 | AIH-00590 | Attribute Inference | Security & Privacy | Security & Privacy | — |
@@ -470,16 +470,16 @@
 | AIH-05033 | Right to Erasure | Security & Privacy | Security & Privacy | — |
 | AIH-05065 | Right to Explanation | Security & Privacy | Security & Privacy | — |
 | AIH-05097 | Robustness-Accuracy Tradeoff | Security & Privacy | Security & Privacy | — |
-| AIH-00135 | Adaptive Filter | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00173 | Algorithmic Information Theory | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00211 | Aliasing | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00249 | Analytic Signal | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-00135 | Adaptive Filter | Signal & Information Theory | Signal & Information Theory | [1991](https://doi.org/10.1007/978-3-662-10048-6_10) (source only) |
+| AIH-00173 | Algorithmic Information Theory | Signal & Information Theory | Signal & Information Theory | [1973](https://doi.org/10.1016/0020-0255(73)90028-5) (source only) |
+| AIH-00211 | Aliasing | Signal & Information Theory | Signal & Information Theory | [1985](https://doi.org/10.21236/ada253722) (source only) |
+| AIH-00249 | Analytic Signal | Signal & Information Theory | Signal & Information Theory | [1979](https://doi.org/10.1109/tassp.1979.1163321) (source only) |
 | AIH-00287 | Anti-Aliasing Filter | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00325 | Arithmetic Coding | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00363 | Autocorrelation Function (ACF) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00401 | Band-Pass Filter | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00439 | Basis Pursuit | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00477 | Beamforming | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-00325 | Arithmetic Coding | Signal & Information Theory | Signal & Information Theory | [1997](https://doi.org/10.1049/el:19971145) (source only) |
+| AIH-00363 | Autocorrelation Function (ACF) | Signal & Information Theory | Signal & Information Theory | [1996](https://doi.org/10.1121/1.416159) (source only) |
+| AIH-00401 | Band-Pass Filter | Signal & Information Theory | Signal & Information Theory | [1976](https://doi.org/10.1016/0026-2714(76)90726-5) (source only) |
+| AIH-00439 | Basis Pursuit | Signal & Information Theory | Signal & Information Theory | [2001](https://doi.org/10.1137/s003614450037906x) (source only) |
+| AIH-00477 | Beamforming | Signal & Information Theory | Signal & Information Theory | [1987](https://doi.org/10.21236/ada187496) (source only) |
 | AIH-00515 | Beat Tracking | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-00553 | Bit | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-00591 | Bit Depth | Signal & Information Theory | Signal & Information Theory | — |
@@ -507,6 +507,6 @@
 | AIH-01427 | Decibel (dB) | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-01465 | Decimation | Signal & Information Theory | Signal & Information Theory | — |
 
-— means first-used date has not yet been independently verified.
+— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

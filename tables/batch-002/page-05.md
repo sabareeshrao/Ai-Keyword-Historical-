@@ -1,10 +1,10 @@
 # Batch 002 — Full keyword table 05/10
 
-500 keywords; sorted by category then alphabetically. Historical first-use date is pending research.
+500 keywords sorted by category then alphabetically. A linked date is a documented publication or milestone, not confirmed earliest use of the term.
 
 [Back to Batch 002 index](../../batches/INVENTORY_002_5000.md)
 
-| ID | Keyword | Field | Subfield | First-used date |
+| ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-05372 | SQuAD 2.0 | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-05403 | SST | Datasets & Benchmarks | Datasets & Benchmarks | — |
@@ -507,6 +507,6 @@
 | AIH-05629 | Instruction Tuning | Generative AI | Generative AI | — |
 | AIH-05658 | Invertible Architecture | Generative AI | Generative AI | — |
 
-— means first-used date has not yet been independently verified.
+— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

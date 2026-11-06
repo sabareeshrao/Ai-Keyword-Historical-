@@ -1,10 +1,10 @@
 # Batch 001 — Full keyword table 04/10
 
-500 keywords; sorted by category then alphabetically. Historical first-use date is pending research.
+500 keywords sorted by category then alphabetically. A linked date is a documented publication or milestone, not confirmed earliest use of the term.
 
 [Back to Batch 001 index](../../batches/INVENTORY_001_5000.md)
 
-| ID | Keyword | Field | Subfield | First-used date |
+| ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-00807 | Depth Buffer | Computer Graphics | Computer Graphics | — |
 | AIH-00845 | Determinism in Simulation | Computer Graphics | Computer Graphics | — |
@@ -75,17 +75,17 @@
 | AIH-03308 | UV Coordinates | Computer Graphics | Computer Graphics | — |
 | AIH-03345 | Vertex Shader | Computer Graphics | Computer Graphics | — |
 | AIH-03382 | Virtual Reality (VR) | Computer Graphics | Computer Graphics | — |
-| AIH-00110 | 3D Convolution | Computer Vision | Computer Vision | — |
-| AIH-00148 | 3D Gaussian Splatting (3DGS) | Computer Vision | Computer Vision | — |
-| AIH-00186 | 3D Vision | Computer Vision | Computer Vision | — |
+| AIH-00110 | 3D Convolution | Computer Vision | Computer Vision | [1999](https://doi.org/10.1109/visual.1999.809934) (source only) |
+| AIH-00148 | 3D Gaussian Splatting (3DGS) | Computer Vision | Computer Vision | [2025](https://doi.org/10.23919/oceans59106.2025.11245171) (source only) |
+| AIH-00186 | 3D Vision | Computer Vision | Computer Vision | [2007](https://doi.org/10.5772/4995) (source only) |
 | AIH-00224 | Action Anticipation | Computer Vision | Computer Vision | — |
-| AIH-00262 | Action Recognition | Computer Vision | Computer Vision | — |
-| AIH-00300 | Adaptive Thresholding | Computer Vision | Computer Vision | — |
-| AIH-00338 | Adversarial Patch | Computer Vision | Computer Vision | — |
+| AIH-00262 | Action Recognition | Computer Vision | Computer Vision | [2008](https://doi.org/10.3724/sp.j.1001.2008.01623) (source only) |
+| AIH-00300 | Adaptive Thresholding | Computer Vision | Computer Vision | [1987](https://doi.org/10.1007/978-1-4613-1971-9_12) (source only) |
+| AIH-00338 | Adversarial Patch | Computer Vision | Computer Vision | [2020](https://doi.org/10.1109/access.2020.3027372) (source only) |
 | AIH-00376 | Aesthetic Predictor | Computer Vision | Computer Vision | — |
 | AIH-00414 | Affine Augmentation | Computer Vision | Computer Vision | — |
-| AIH-00452 | Alpha Matting | Computer Vision | Computer Vision | — |
-| AIH-00490 | Anchor Box | Computer Vision | Computer Vision | — |
+| AIH-00452 | Alpha Matting | Computer Vision | Computer Vision | [2005](https://doi.org/10.1007/11567646_16) (source only) |
+| AIH-00490 | Anchor Box | Computer Vision | Computer Vision | [1965](https://doi.org/10.1016/0011-7471(65)90816-8) (source only) |
 | AIH-00528 | Anchor-Free Detection | Computer Vision | Computer Vision | — |
 | AIH-00566 | Anomaly Detection in Images | Computer Vision | Computer Vision | — |
 | AIH-00604 | Aspect Ratio | Computer Vision | Computer Vision | — |
@@ -212,13 +212,13 @@
 | AIH-05014 | Image Augmentation | Computer Vision | Computer Vision | — |
 | AIH-05046 | Image Captioning | Computer Vision | Computer Vision | — |
 | AIH-05078 | Image Captioning Metric | Computer Vision | Computer Vision | — |
-| AIH-00124 | Accuracy of Data | Data Science | Data Science | — |
-| AIH-00162 | Actionable Metric | Data Science | Data Science | — |
-| AIH-00200 | Active Annotation | Data Science | Data Science | — |
+| AIH-00124 | Accuracy of Data | Data Science | Data Science | [2018](https://doi.org/10.5194/gi-2018-44-sc1) (source only) |
+| AIH-00162 | Actionable Metric | Data Science | Data Science | [2022](https://doi.org/10.1109/tcds.2021.3114162) (source only) |
+| AIH-00200 | Active Annotation | Data Science | Data Science | [2012](https://doi.org/10.1109/eait.2012.6407942) (source only) |
 | AIH-00238 | Ad Hoc Query | Data Science | Data Science | — |
-| AIH-00276 | Adjudication | Data Science | Data Science | — |
-| AIH-00314 | Aggregate Feature | Data Science | Data Science | — |
-| AIH-00352 | Aggregation | Data Science | Data Science | — |
+| AIH-00276 | Adjudication | Data Science | Data Science | [1999](https://doi.org/10.1093/acprof:oso/9780198260257.003.0012) (source only) |
+| AIH-00314 | Aggregate Feature | Data Science | Data Science | [2023](https://doi.org/10.3390/electronics12194118) (source only) |
+| AIH-00352 | Aggregation | Data Science | Data Science | [1964](https://doi.org/10.1515/9781400876662-002) (source only) |
 | AIH-00390 | Aggregation Threshold | Data Science | Data Science | — |
 | AIH-00428 | Alerting on Data Quality | Data Science | Data Science | — |
 | AIH-00466 | Alerting on Metrics | Data Science | Data Science | — |
@@ -349,16 +349,16 @@
 | AIH-05026 | Join | Data Science | Data Science | — |
 | AIH-05058 | KPI | Data Science | Data Science | — |
 | AIH-05090 | Krippendorff's Alpha | Data Science | Data Science | — |
-| AIH-00125 | 20 Newsgroups | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-00163 | ActivityNet | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-00201 | ADE20K | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-00239 | Adult Income Dataset | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-00125 | 20 Newsgroups | Datasets & Benchmarks | Datasets & Benchmarks | [2015](https://doi.org/10.1109/wi-iat.2015.90) (source only) |
+| AIH-00163 | ActivityNet | Datasets & Benchmarks | Datasets & Benchmarks | [2015](https://doi.org/10.1109/cvpr.2015.7298698) (source only) |
+| AIH-00201 | ADE20K | Datasets & Benchmarks | Datasets & Benchmarks | [2025](https://doi.org/10.52783/rev-alap.69) (source only) |
+| AIH-00239 | Adult Income Dataset | Datasets & Benchmarks | Datasets & Benchmarks | [2026](https://doi.org/10.1109/rev-ai70456.2026.11622042) (source only) |
 | AIH-00277 | Adversarial Dataset Construction | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-00315 | AG News | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-00353 | AIME Benchmark | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-00391 | AlpacaEval | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-00429 | Amazon Reviews Dataset | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-00467 | APPS | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-00429 | Amazon Reviews Dataset | Datasets & Benchmarks | Datasets & Benchmarks | [2023](https://doi.org/10.22214/ijraset.2023.48678) (source only) |
+| AIH-00467 | APPS | Datasets & Benchmarks | Datasets & Benchmarks | [2026](https://doi.org/10.1007/979-8-8688-1817-2_15) (source only) |
 | AIH-00505 | ARC Benchmark | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-00543 | Arena-Hard | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-00581 | AudioSet | Datasets & Benchmarks | Datasets & Benchmarks | — |
@@ -487,26 +487,26 @@
 | AIH-05059 | PubMed Graph Dataset | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-05091 | QM9 | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-00102 | Ablation Study for Components | Deep Learning | Deep Learning | — |
-| AIH-00140 | Activation Function | Deep Learning | Deep Learning | — |
-| AIH-00178 | Activation Map | Deep Learning | Deep Learning | — |
-| AIH-00216 | Activation Patching | Deep Learning | Deep Learning | — |
-| AIH-00254 | Activation Quantization | Deep Learning | Deep Learning | — |
-| AIH-00292 | Activation Sparsity | Deep Learning | Deep Learning | — |
-| AIH-00330 | Activation Steering | Deep Learning | Deep Learning | — |
-| AIH-00368 | Adapter | Deep Learning | Deep Learning | — |
+| AIH-00140 | Activation Function | Deep Learning | Deep Learning | [2014](https://doi.org/10.4135/9781446247501.n51) (source only) |
+| AIH-00178 | Activation Map | Deep Learning | Deep Learning | [2020](https://doi.org/10.1109/ijcnn48605.2020.9206626) (source only) |
+| AIH-00216 | Activation Patching | Deep Learning | Deep Learning | [2024](https://doi.org/10.18653/v1/2024.findings-acl.315) (source only) |
+| AIH-00254 | Activation Quantization | Deep Learning | Deep Learning | [2018](https://doi.org/10.1109/emc2.2018.00009) (source only) |
+| AIH-00292 | Activation Sparsity | Deep Learning | Deep Learning | [2018](https://doi.org/10.1109/hpca.2018.00017) (source only) |
+| AIH-00330 | Activation Steering | Deep Learning | Deep Learning | [2024](https://doi.org/10.32388/btht4k) (source only) |
+| AIH-00368 | Adapter | Deep Learning | Deep Learning | [2024](https://doi.org/10.1145/3664647.3681566) (source only) |
 | AIH-00406 | Adapter Merging | Deep Learning | Deep Learning | — |
-| AIH-00444 | Adapter Module | Deep Learning | Deep Learning | — |
-| AIH-00482 | Adaptive Depth | Deep Learning | Deep Learning | — |
+| AIH-00444 | Adapter Module | Deep Learning | Deep Learning | [1965](https://doi.org/10.2514/6.1965-1123) (source only) |
+| AIH-00482 | Adaptive Depth | Deep Learning | Deep Learning | [2012](https://doi.org/10.1109/vcip.2012.6410849) (source only) |
 | AIH-00520 | Adaptive Pooling | Deep Learning | Deep Learning | — |
 | AIH-00558 | Advantage Estimation | Deep Learning | Deep Learning | — |
 | AIH-00596 | Ahead-of-Time Compilation (AOT) | Deep Learning | Deep Learning | — |
 | AIH-00103 | ALBERT | Deep Learning | Models & Architectures | — |
 | AIH-00634 | ALiBi | Deep Learning | Deep Learning | — |
-| AIH-00141 | ALIGN | Deep Learning | Models & Architectures | — |
-| AIH-00179 | AlphaCode | Deep Learning | Models & Architectures | — |
+| AIH-00141 | ALIGN | Deep Learning | Models & Architectures | [2010](https://doi.org/10.1504/ijmpt.2010.031427) (source only) |
+| AIH-00179 | AlphaCode | Deep Learning | Models & Architectures | [1960](https://doi.org/10.1093/comjnl/3.2.98) (source only) |
 | AIH-00217 | AlphaDev | Deep Learning | Models & Architectures | — |
-| AIH-00255 | AlphaFold 2 | Deep Learning | Models & Architectures | — |
+| AIH-00255 | AlphaFold 2 | Deep Learning | Models & Architectures | [2024](https://doi.org/10.1101/2024.10.30.621056) (source only) |
 
-— means first-used date has not yet been independently verified.
+— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

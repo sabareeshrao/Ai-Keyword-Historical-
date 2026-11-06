@@ -1,10 +1,10 @@
 # Batch 002 — Full keyword table 07/10
 
-500 keywords; sorted by category then alphabetically. Historical first-use date is pending research.
+500 keywords sorted by category then alphabetically. A linked date is a documented publication or milestone, not confirmed earliest use of the term.
 
 [Back to Batch 002 index](../../batches/INVENTORY_002_5000.md)
 
-| ID | Keyword | Field | Subfield | First-used date |
+| ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-08633 | Multiclass Classification | Machine Learning | Machine Learning | — |
 | AIH-08637 | Multidimensional Scaling (MDS) | Machine Learning | Machine Learning | — |
@@ -507,6 +507,6 @@
 | AIH-08692 | Inflection Point | Mathematics | Mathematics & Statistics | — |
 | AIH-08696 | Influence Function | Mathematics | Mathematics & Statistics | — |
 
-— means first-used date has not yet been independently verified.
+— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

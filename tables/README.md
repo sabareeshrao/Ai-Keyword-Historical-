@@ -2,7 +2,7 @@
 
 Every keyword is included, not a short preview. Four batches of 5,000; each divided into ten GitHub-friendly tables of 500 rows.
 
-**Organization:** field A-Z, keyword A-Z. Permanent IDs are unchanged. Historical dates are blank until independently researched.
+**Organization:** field A-Z, keyword A-Z. Permanent IDs are unchanged. Historical first-use dates remain blank until verified; some rows display dated research-source attestations.
 
 | Batch | Full keyword index | Count |
 |---|---|---:|

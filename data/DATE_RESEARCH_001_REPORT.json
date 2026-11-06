@@ -1,0 +1,16 @@
+{
+  "examined": 500,
+  "id_range": [
+    "AIH-00001",
+    "AIH-00500"
+  ],
+  "existing_milestone_dates": 100,
+  "additional_crossref_title_dates": 249,
+  "unresolved": 71,
+  "search_error": 80,
+  "dated_total": 349,
+  "verified_original_term_first_uses": 0,
+  "provisional_dates_not_origin_proof": true,
+  "all_permanent_ids_preserved": true,
+  "inventory_total": 20100
+}
