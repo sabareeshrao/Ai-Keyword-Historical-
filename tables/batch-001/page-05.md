@@ -398,11 +398,11 @@
 | AIH-05060 | Task Decomposition in Evaluation | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-05092 | Task Success Rate for Users | Evaluation & Metrics | Evaluation & Metrics | — |
 | AIH-00104 | Accessibility of Generated Content | Generative AI | Generative AI | — |
-| AIH-00142 | Adaptive Discriminator Augmentation | Generative AI | Generative AI | — |
-| AIH-00180 | Adversarial Diffusion Distillation | Generative AI | Generative AI | — |
+| AIH-00142 | Adaptive Discriminator Augmentation | Generative AI | Generative AI | [2022](https://doi.org/10.1002/jor.25325) (source only) |
+| AIH-00180 | Adversarial Diffusion Distillation | Generative AI | Generative AI | [2024](https://doi.org/10.1007/978-3-031-73016-0_6) (source only) |
 | AIH-00218 | Adversarial Loss | Generative AI | Generative AI | [2019](https://doi.org/10.4218/etrij.2018-0473) (source only) |
 | AIH-00256 | Adversarial Prompt for Images | Generative AI | Generative AI | — |
-| AIH-00294 | Aesthetic Control | Generative AI | Generative AI | — |
+| AIH-00294 | Aesthetic Control | Generative AI | Generative AI | [1981](https://doi.org/10.1093/bjaesthetics/21.3.261) (source only) |
 | AIH-00332 | Aesthetic Score Filtering | Generative AI | Generative AI | — |
 | AIH-00370 | Alt Text Quality | Generative AI | Generative AI | — |
 | AIH-00408 | Anatomical Coherence | Generative AI | Generative AI | [2025](https://doi.org/10.1167/jov.25.9.2340) (source only) |

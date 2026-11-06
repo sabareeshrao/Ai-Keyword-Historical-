@@ -111,7 +111,7 @@
 | AIH-00174 | Accessibility in Speech Technology | Speech & Audio | Speech & Audio | — |
 | AIH-00212 | Acoustic Echo | Speech & Audio | Speech & Audio | [1975](https://doi.org/10.1093/jof/73.10.633) (source only) |
 | AIH-00250 | Acoustic Feature | Speech & Audio | Speech & Audio | [2007](https://doi.org/10.21437/interspeech.2007-540) (source only) |
-| AIH-00288 | Acoustic Scene Classification | Speech & Audio | Speech & Audio | — |
+| AIH-00288 | Acoustic Scene Classification | Speech & Audio | Speech & Audio | [2013](https://doi.org/10.5281/zenodo.43342) (source only) |
 | AIH-00326 | Acoustic Simulation | Speech & Audio | Speech & Audio | [2000](https://doi.org/10.1177/003754970007500203) (source only) |
 | AIH-00364 | Acoustic Speech Token | Speech & Audio | Speech & Audio | — |
 | AIH-00402 | Agent Assist | Speech & Audio | Speech & Audio | [2002](https://doi.org/10.21236/ada406635) (source only) |
@@ -245,7 +245,7 @@
 | AIH-05067 | Speed Perturbation | Speech & Audio | Speech & Audio | — |
 | AIH-05099 | Streaming Recognition | Speech & Audio | Speech & Audio | — |
 | AIH-00137 | Additive Decomposition | Time Series & Forecasting | Time Series & Forecasting | [1984](https://doi.org/10.1016/s0166-4115(08)62097-x) (source only) |
-| AIH-00175 | Anomaly Detection in Time Series | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-00175 | Anomaly Detection in Time Series | Time Series & Forecasting | Time Series & Forecasting | [2005](https://openalex.org/W1598358187) (source only) |
 | AIH-00213 | ARIMAX | Time Series & Forecasting | Time Series & Forecasting | [2009](https://doi.org/10.1109/icmtma.2009.250) (source only) |
 | AIH-00251 | ARMA | Time Series & Forecasting | Time Series & Forecasting | [1983](https://doi.org/10.21236/ada137929) (source only) |
 | AIH-00289 | Backtesting | Time Series & Forecasting | Time Series & Forecasting | [2002](https://doi.org/10.2139/ssrn.329541) (source only) |
@@ -369,10 +369,10 @@
 | AIH-04649 | Weak Stationarity | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-04682 | Weather-Adjusted Forecast | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-04715 | Weighted Quantile Loss (WQL) | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-00138 | Adversarial Robustness Toolbox (ART) | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-00138 | Adversarial Robustness Toolbox (ART) | Tools & Frameworks | Tools & Frameworks | [2021](https://openalex.org/W3186336407) (source only) |
 | AIH-00176 | AI Fairness 360 (AIF360) | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-00214 | Airflow | Tools & Frameworks | Tools & Frameworks | [2001](https://doi.org/10.1034/j.1600-0668.2001.110407.x) (source only) |
-| AIH-00252 | Albumentations | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-00252 | Albumentations | Tools & Frameworks | Tools & Frameworks | [2020](https://doi.org/10.3390/info11020125) (source only) |
 | AIH-00290 | Altair | Tools & Frameworks | Tools & Frameworks | [1996](https://doi.org/10.1049/cp:19960445) (source only) |
 | AIH-00328 | Annoy | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-00366 | Apache Beam | Tools & Frameworks | Tools & Frameworks | — |

@@ -78,7 +78,7 @@
 | AIH-00110 | 3D Convolution | Computer Vision | Computer Vision | [1999](https://doi.org/10.1109/visual.1999.809934) (source only) |
 | AIH-00148 | 3D Gaussian Splatting (3DGS) | Computer Vision | Computer Vision | [2025](https://doi.org/10.23919/oceans59106.2025.11245171) (source only) |
 | AIH-00186 | 3D Vision | Computer Vision | Computer Vision | [2007](https://doi.org/10.5772/4995) (source only) |
-| AIH-00224 | Action Anticipation | Computer Vision | Computer Vision | — |
+| AIH-00224 | Action Anticipation | Computer Vision | Computer Vision | [2007](https://doi.org/10.1111/j.1467-9280.2007.01944.x) (source only) |
 | AIH-00262 | Action Recognition | Computer Vision | Computer Vision | [2008](https://doi.org/10.3724/sp.j.1001.2008.01623) (source only) |
 | AIH-00300 | Adaptive Thresholding | Computer Vision | Computer Vision | [1987](https://doi.org/10.1007/978-1-4613-1971-9_12) (source only) |
 | AIH-00338 | Adversarial Patch | Computer Vision | Computer Vision | [2020](https://doi.org/10.1109/access.2020.3027372) (source only) |
@@ -215,7 +215,7 @@
 | AIH-00124 | Accuracy of Data | Data Science | Data Science | [2018](https://doi.org/10.5194/gi-2018-44-sc1) (source only) |
 | AIH-00162 | Actionable Metric | Data Science | Data Science | [2022](https://doi.org/10.1109/tcds.2021.3114162) (source only) |
 | AIH-00200 | Active Annotation | Data Science | Data Science | [2012](https://doi.org/10.1109/eait.2012.6407942) (source only) |
-| AIH-00238 | Ad Hoc Query | Data Science | Data Science | — |
+| AIH-00238 | Ad Hoc Query | Data Science | Data Science | [1991](https://openalex.org/W105897460) (source only) |
 | AIH-00276 | Adjudication | Data Science | Data Science | [1999](https://doi.org/10.1093/acprof:oso/9780198260257.003.0012) (source only) |
 | AIH-00314 | Aggregate Feature | Data Science | Data Science | [2023](https://doi.org/10.3390/electronics12194118) (source only) |
 | AIH-00352 | Aggregation | Data Science | Data Science | [1964](https://doi.org/10.1515/9781400876662-002) (source only) |
@@ -354,7 +354,7 @@
 | AIH-00201 | ADE20K | Datasets & Benchmarks | Datasets & Benchmarks | [2025](https://doi.org/10.52783/rev-alap.69) (source only) |
 | AIH-00239 | Adult Income Dataset | Datasets & Benchmarks | Datasets & Benchmarks | [2026](https://doi.org/10.1109/rev-ai70456.2026.11622042) (source only) |
 | AIH-00277 | Adversarial Dataset Construction | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-00315 | AG News | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-00315 | AG News | Datasets & Benchmarks | Datasets & Benchmarks | [1987](https://doi.org/10.4148/1051-0834.1594) (source only) |
 | AIH-00353 | AIME Benchmark | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-00391 | AlpacaEval | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-00429 | Amazon Reviews Dataset | Datasets & Benchmarks | Datasets & Benchmarks | [2023](https://doi.org/10.22214/ijraset.2023.48678) (source only) |
@@ -500,11 +500,11 @@
 | AIH-00520 | Adaptive Pooling | Deep Learning | Deep Learning | — |
 | AIH-00558 | Advantage Estimation | Deep Learning | Deep Learning | — |
 | AIH-00596 | Ahead-of-Time Compilation (AOT) | Deep Learning | Deep Learning | — |
-| AIH-00103 | ALBERT | Deep Learning | Models & Architectures | — |
+| AIH-00103 | ALBERT | Deep Learning | Models & Architectures | [2002](https://doi.org/10.1016/s0378-4371(02)00740-9) (source only) |
 | AIH-00634 | ALiBi | Deep Learning | Deep Learning | — |
 | AIH-00141 | ALIGN | Deep Learning | Models & Architectures | [2010](https://doi.org/10.1504/ijmpt.2010.031427) (source only) |
 | AIH-00179 | AlphaCode | Deep Learning | Models & Architectures | [1960](https://doi.org/10.1093/comjnl/3.2.98) (source only) |
-| AIH-00217 | AlphaDev | Deep Learning | Models & Architectures | — |
+| AIH-00217 | AlphaDev | Deep Learning | Models & Architectures | [2025](https://doi.org/10.1145/3696673.3723083) (source only) |
 | AIH-00255 | AlphaFold 2 | Deep Learning | Models & Architectures | [2024](https://doi.org/10.1101/2024.10.30.621056) (source only) |
 
 — means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.

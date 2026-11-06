@@ -105,7 +105,7 @@
 | AIH-05062 | SIGGRAPH | People & Organizations | People & Organizations | — |
 | AIH-05094 | Stability AI | People & Organizations | People & Organizations | — |
 | AIH-00130 | Abstract Syntax Tree (AST) | Programming & Software | Programming & Software | [2015](https://doi.org/10.1109/isncc.2015.7238572) (source only) |
-| AIH-00168 | Abstraction | Programming & Software | Programming & Software | — |
+| AIH-00168 | Abstraction | Programming & Software | Programming & Software | [1953](https://openalex.org/W1501973377) (source only) |
 | AIH-00206 | Acceptance Rate of Completions | Programming & Software | Programming & Software | — |
 | AIH-00244 | ACID Properties | Programming & Software | Programming & Software | [2006](https://doi.org/10.1016/b978-008044428-4/50025-7) (source only) |
 | AIH-00282 | Actor Model | Programming & Software | Programming & Software | [1993](https://doi.org/10.21236/ada260196) (source only) |
@@ -242,7 +242,7 @@
 | AIH-05063 | gRPC | Programming & Software | Programming & Software | — |
 | AIH-05095 | Hermetic Build | Programming & Software | Programming & Software | — |
 | AIH-00131 | Adiabatic Quantum Computation | Quantum & Emerging Compute | Quantum & Emerging Compute | [1998](https://doi.org/10.1016/s0038-1098(97)10001-1) (source only) |
-| AIH-00169 | Amplitude Encoding | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-00169 | Amplitude Encoding | Quantum & Emerging Compute | Quantum & Emerging Compute | [1987](https://openalex.org/W2382907206) (source only) |
 | AIH-00207 | Analog Matrix Multiplication | Quantum & Emerging Compute | Quantum & Emerging Compute | [1980](https://doi.org/10.1117/12.958884) (source only) |
 | AIH-00245 | Angle Encoding | Quantum & Emerging Compute | Quantum & Emerging Compute | [1971](https://doi.org/10.1117/12.953469) (source only) |
 | AIH-00283 | Approximate Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | [2012](https://doi.org/10.1007/978-3-030-98347-5_5) (source only) |
@@ -422,7 +422,7 @@
 | AIH-03930 | Watch Time Optimization | Recommender Systems | Recommender Systems | — |
 | AIH-03966 | Whole-Page Optimization | Recommender Systems | Recommender Systems | — |
 | AIH-04002 | Wide and Deep Model | Recommender Systems | Recommender Systems | — |
-| AIH-00109 | Action | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-00109 | Action | Reinforcement Learning | Reinforcement Learning | [1971](https://doi.org/10.3138/9781442656963) (source only) |
 | AIH-00147 | Action Discretization | Reinforcement Learning | Reinforcement Learning | [2020](https://doi.org/10.1109/smc42975.2020.9283043) (source only) |
 | AIH-00185 | Action Masking | Reinforcement Learning | Reinforcement Learning | [2022](https://doi.org/10.32473/flairs.v35i.130584) (source only) |
 | AIH-00223 | Action Repeat | Reinforcement Learning | Reinforcement Learning | — |

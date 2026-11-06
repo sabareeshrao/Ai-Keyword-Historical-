@@ -54,20 +54,20 @@
 | AIH-05012 | Prolog | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-05044 | Proof Assistant | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-05076 | Proof Search | AI Foundations | Symbolic AI & Reasoning | — |
-| AIH-00118 | 2.5D Integration | AI Infrastructure | Hardware & Compute | — |
+| AIH-00118 | 2.5D Integration | AI Infrastructure | Hardware & Compute | [2012](https://doi.org/10.4071/isom-2012-tp15) (source only) |
 | AIH-00117 | 3D Parallelism | AI Infrastructure | AI Infrastructure | [2024](https://doi.org/10.1109/icde60146.2024.00153) (source only) |
 | AIH-00156 | 3D Stacking | AI Infrastructure | Hardware & Compute | [1999](https://doi.org/10.3997/2214-4609.201407764) (source only) |
 | AIH-00119 | A/B Test for Models | AI Infrastructure | MLOps & Engineering | — |
-| AIH-00157 | Ablation Study | AI Infrastructure | MLOps & Engineering | — |
+| AIH-00157 | Ablation Study | AI Infrastructure | MLOps & Engineering | [1973](https://openalex.org/W268722328) (source only) |
 | AIH-00195 | Ablation Transparency | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00194 | Accelerator Lifetime | AI Infrastructure | Hardware & Compute | — |
-| AIH-00232 | Accelerator Supply Chain | AI Infrastructure | Hardware & Compute | — |
+| AIH-00232 | Accelerator Supply Chain | AI Infrastructure | Hardware & Compute | [2025](https://doi.org/10.54254/2754-1169/2025.bl29667) (source only) |
 | AIH-00155 | Acceptance Rate | AI Infrastructure | AI Infrastructure | [1962](https://doi.org/10.21236/ada079220) (source only) |
 | AIH-00233 | Acceptance Threshold | AI Infrastructure | MLOps & Engineering | [1968](https://doi.org/10.1016/0022-1910(68)90013-9) (source only) |
-| AIH-00270 | Achieved Throughput | AI Infrastructure | Hardware & Compute | — |
+| AIH-00270 | Achieved Throughput | AI Infrastructure | Hardware & Compute | [2004](https://doi.org/10.1007/978-3-540-24707-4_37) (source only) |
 | AIH-00271 | Action Item Tracking | AI Infrastructure | MLOps & Engineering | — |
-| AIH-00193 | Activation Memory | AI Infrastructure | AI Infrastructure | — |
-| AIH-00231 | Activation Offloading | AI Infrastructure | AI Infrastructure | — |
+| AIH-00193 | Activation Memory | AI Infrastructure | AI Infrastructure | [2002](https://doi.org/10.1128/jvi.76.22.11425-11433.2002) (source only) |
+| AIH-00231 | Activation Offloading | AI Infrastructure | AI Infrastructure | [2025](https://doi.org/10.1109/dac63849.2025.11132754) (source only) |
 | AIH-00269 | Adapter Hot Swap | AI Infrastructure | AI Infrastructure | — |
 | AIH-00307 | Admission Control | AI Infrastructure | AI Infrastructure | [2000](https://doi.org/10.17487/rfc2753) (source only) |
 | AIH-00308 | Advanced Packaging | AI Infrastructure | Hardware & Compute | [2000](https://doi.org/10.1109/tadvp.2000.883771) (source only) |
@@ -469,13 +469,13 @@
 | AIH-00112 | Acceptable Use Policy (AUP) | AI Safety | AI Policy & Governance | [2019](https://doi.org/10.7826/isr-um.06.res.01.01.07-2x) (source only) |
 | AIH-00149 | Accident Risk | AI Safety | AI Ethics & Safety | [1982](https://doi.org/10.1016/0001-4575(82)90019-7) (source only) |
 | AIH-00150 | Accountability Structure | AI Safety | AI Policy & Governance | [2013](https://doi.org/10.37665/smzjcst80507) (source only) |
-| AIH-00187 | Adversarial Attack | AI Safety | AI Ethics & Safety | — |
+| AIH-00187 | Adversarial Attack | AI Safety | AI Ethics & Safety | [2018](https://doi.org/10.48550/arxiv.1806.02371) (source only) |
 | AIH-00225 | Adversarial Fine-Tuning Risk | AI Safety | AI Ethics & Safety | — |
 | AIH-00263 | Adversarial Robustness | AI Safety | AI Ethics & Safety | [2020](https://doi.org/10.1109/ijcnn48605.2020.9206760) (source only) |
 | AIH-00301 | Age-Appropriate Design | AI Safety | AI Ethics & Safety | [2022](https://doi.org/10.1117/12.2655165) (source only) |
-| AIH-00188 | Aggregation Bias | AI Safety | AI Policy & Governance | — |
+| AIH-00188 | Aggregation Bias | AI Safety | AI Policy & Governance | [1962](https://doi.org/10.1080/01621459.1962.10480664) (source only) |
 | AIH-00226 | AI Asset Inventory | AI Safety | AI Policy & Governance | — |
-| AIH-00339 | AI Ethics | AI Safety | AI Ethics & Safety | — |
+| AIH-00339 | AI Ethics | AI Safety | AI Ethics & Safety | [2018](https://doi.org/10.1145/3278721) (source only) |
 | AIH-00377 | AI Governance | AI Safety | AI Ethics & Safety | [2021](https://doi.org/10.2139/ssrn.3882493) (source only) |
 | AIH-00415 | AI Regulation | AI Safety | AI Ethics & Safety | [2023](https://doi.org/10.2139/ssrn.4467684) (source only) |
 | AIH-00453 | AI Risk Assessment | AI Safety | AI Ethics & Safety | [2023](https://doi.org/10.2139/ssrn.4464783) (source only) |

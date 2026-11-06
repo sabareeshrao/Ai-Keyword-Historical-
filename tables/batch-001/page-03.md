@@ -242,8 +242,8 @@
 | AIH-00121 | Adjustment Set | Causal Inference | Causal Inference | [2025](https://doi.org/10.2139/ssrn.5394371) (source only) |
 | AIH-00159 | Always-Takers | Causal Inference | Causal Inference | [2022](https://doi.org/10.2139/ssrn.4186399) (source only) |
 | AIH-00197 | Backdoor Criterion | Causal Inference | Causal Inference | — |
-| AIH-00235 | Bad Control | Causal Inference | Causal Inference | — |
-| AIH-00273 | Balancing Score | Causal Inference | Causal Inference | — |
+| AIH-00235 | Bad Control | Causal Inference | Causal Inference | [1998](https://openalex.org/W2112779452) (source only) |
+| AIH-00273 | Balancing Score | Causal Inference | Causal Inference | [2011](https://doi.org/10.1093/aje/kwq406) (source only) |
 | AIH-00311 | Bandwidth Selection in RD | Causal Inference | Causal Inference | — |
 | AIH-00349 | Causal Discovery | Causal Inference | Causal Inference | [1999](https://doi.org/10.7551/mitpress/2006.003.0007) (source only) |
 | AIH-00387 | Causal Effect | Causal Inference | Causal Inference | [2007](https://doi.org/10.3386/w13341) (source only) |
@@ -489,12 +489,12 @@
 | AIH-05057 | Visual Cortex Areas | Cognitive Science | Cognitive Science | — |
 | AIH-05089 | Visual Search Task | Cognitive Science | Cognitive Science | — |
 | AIH-00123 | Albedo | Computer Graphics | Computer Graphics | [1978](https://doi.org/10.2172/6797122) (source only) |
-| AIH-00161 | Alpha Blending | Computer Graphics | Computer Graphics | — |
+| AIH-00161 | Alpha Blending | Computer Graphics | Computer Graphics | [1990](https://openalex.org/W2912714911) (source only) |
 | AIH-00199 | Ambient Occlusion (AO) | Computer Graphics | Computer Graphics | — |
 | AIH-00237 | Anti-Aliasing | Computer Graphics | Computer Graphics | [1982](https://doi.org/10.1145/800064.801254) (source only) |
 | AIH-00275 | Augmented Reality (AR) | Computer Graphics | Computer Graphics | [2009](https://doi.org/10.1109/ismar-amh.2009.5336728) (source only) |
 | AIH-00313 | Batching | Computer Graphics | Computer Graphics | [1947](https://doi.org/10.1038/scientificamerican0447-153) (source only) |
-| AIH-00351 | Bidirectional Reflectance Distribution Function (BRDF) | Computer Graphics | Computer Graphics | — |
+| AIH-00351 | Bidirectional Reflectance Distribution Function (BRDF) | Computer Graphics | Computer Graphics | [1978](https://openalex.org/W3210832619) (source only) |
 | AIH-00389 | Blend Shape | Computer Graphics | Computer Graphics | [2003](https://doi.org/10.1145/965400.965571) (source only) |
 | AIH-00427 | Bounding Volume Hierarchy (BVH) | Computer Graphics | Computer Graphics | [2023](https://doi.org/10.18845/tm.v36i2.6098) (source only) |
 | AIH-00465 | Broad Phase | Computer Graphics | Computer Graphics | — |

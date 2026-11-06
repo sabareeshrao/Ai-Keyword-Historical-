@@ -143,10 +143,10 @@
 | AIH-05010 | Observation Space | Agentic AI | AI Agents | — |
 | AIH-05042 | Orchestrator Agent | Agentic AI | AI Agents | — |
 | AIH-05074 | Outcome Evaluation | Agentic AI | AI Agents | — |
-| AIH-00120 | Academic Integrity Detection | AI Applications | AI Applications | — |
-| AIH-00158 | Access Control in Retrieval | AI Applications | AI Applications | — |
-| AIH-00196 | Access to Justice | AI Applications | AI Applications | — |
-| AIH-00234 | Accessibility Technology | AI Applications | AI Applications | — |
+| AIH-00120 | Academic Integrity Detection | AI Applications | AI Applications | [2026](https://doi.org/10.30574/ijsra.2026.19.2.1117) (source only) |
+| AIH-00158 | Access Control in Retrieval | AI Applications | AI Applications | [2026](https://doi.org/10.1109/compsac69091.2026.00386) (source only) |
+| AIH-00196 | Access to Justice | AI Applications | AI Applications | [1983](https://doi.org/10.2307/1288427) (source only) |
+| AIH-00234 | Accessibility Technology | AI Applications | AI Applications | [2004](https://doi.org/10.1147/rd.485.0735) (source only) |
 | AIH-00272 | Action Item Extraction | AI Applications | AI Applications | [2026](https://doi.org/10.1109/i2itcon69735.2026.11747161) (source only) |
 | AIH-00310 | Actuarial Model | AI Applications | AI Applications | [2020](https://doi.org/10.22617/tim200426-2) (source only) |
 | AIH-00348 | Ad Targeting | AI Applications | AI Applications | [1990](https://doi.org/10.1007/978-1-4613-1565-0_16) (source only) |
@@ -282,7 +282,7 @@
 | AIH-05088 | Draft Reply Generation | AI Applications | AI Applications | — |
 | AIH-00107 | 4E cognition | AI Foundations | Fundamentals | [2018](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) (source only) |
 | AIH-00145 | A Mathematical Theory of Communication | AI Foundations | Fundamentals | [1948](https://doi.org/10.1002/j.1538-7305.1948.tb01338.x) (source only) |
-| AIH-00183 | A/B Testing | AI Foundations | Fundamentals | — |
+| AIH-00183 | A/B Testing | AI Foundations | Fundamentals | [2012](https://doi.org/10.1002/9781119176459) (source only) |
 | AIH-00108 | Abductive Reasoning | AI Foundations | Symbolic AI & Reasoning | [1991](https://doi.org/10.1016/0925-2312(91)90055-g) (source only) |
 | AIH-00221 | Absolute Positional Encoding | AI Foundations | Fundamentals | — |
 | AIH-00146 | Abstract Interpretation | AI Foundations | Symbolic AI & Reasoning | [1987](https://doi.org/10.21236/ada179451) (source only) |
@@ -292,7 +292,7 @@
 | AIH-00335 | Accessibility Standard | AI Foundations | Fundamentals | [1982](https://doi.org/10.6028/nbs.ir.82-2567) (source only) |
 | AIH-00373 | Accuracy | AI Foundations | Fundamentals | [1989](https://doi.org/10.1201/b12612-20) (source only) |
 | AIH-00411 | Acoustic Model | AI Foundations | Fundamentals | [1974](https://doi.org/10.21236/ada096584) (source only) |
-| AIH-00222 | ACT-R | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-00222 | ACT-R | AI Foundations | Symbolic AI & Reasoning | [1997](https://openalex.org/W1581404362) (source only) |
 | AIH-00449 | Action Space | AI Foundations | Fundamentals | [2009](https://doi.org/10.1007/978-3-540-29678-2_6341) (source only) |
 | AIH-00487 | Actionable Output | AI Foundations | Fundamentals | [2007](https://doi.org/10.1016/b978-075067796-7/50031-3) (source only) |
 | AIH-00525 | Actionable Recourse | AI Foundations | Fundamentals | — |
@@ -336,7 +336,7 @@
 | AIH-01893 | Alignment Problem | AI Foundations | Fundamentals | — |
 | AIH-01931 | Alignment Research | AI Foundations | Fundamentals | — |
 | AIH-01969 | Alignment Tax | AI Foundations | Fundamentals | — |
-| AIH-00336 | All-Different Constraint | AI Foundations | Symbolic AI & Reasoning | — |
+| AIH-00336 | All-Different Constraint | AI Foundations | Symbolic AI & Reasoning | [2002](https://doi.org/10.1007/3-540-46135-3_56) (source only) |
 | AIH-00374 | Allen's Interval Algebra | AI Foundations | Symbolic AI & Reasoning | — |
 | AIH-00412 | Alpha-Beta Pruning | AI Foundations | Symbolic AI & Reasoning | [1975](https://doi.org/10.1016/0004-3702(75)90019-3) (source only) |
 | AIH-02007 | AlphaFold | AI Foundations | Fundamentals | — |

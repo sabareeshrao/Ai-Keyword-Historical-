@@ -8,9 +8,12 @@
   "additional_crossref_title_dates": 249,
   "unresolved": 71,
   "search_error": 80,
-  "dated_total": 349,
+  "dated_total": 398,
   "verified_original_term_first_uses": 0,
   "provisional_dates_not_origin_proof": true,
   "all_permanent_ids_preserved": true,
-  "inventory_total": 20100
+  "inventory_total": 20100,
+  "additional_openalex_title_dates": 49,
+  "outstanding_no_dated_source": 102,
+  "note": "Document dates do not prove original term coinage."
 }

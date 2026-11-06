@@ -63,7 +63,7 @@
 | AIH-00154 | Actuator Saturation | Robotics | Robotics & Autonomous Systems | [1993](https://doi.org/10.23919/acc.1993.4793322) (source only) |
 | AIH-00192 | Admittance Control | Robotics | Robotics & Autonomous Systems | [2005](https://doi.org/10.3182/20050703-6-cz-1902.01341) (source only) |
 | AIH-00230 | Affordance Detection | Robotics | Robotics & Autonomous Systems | [2015](https://doi.org/10.1109/ivcnz.2015.7761532) (source only) |
-| AIH-00268 | Agricultural Robot | Robotics | Robotics & Autonomous Systems | — |
+| AIH-00268 | Agricultural Robot | Robotics | Robotics & Autonomous Systems | [1994](https://doi.org/10.1109/21.299707) (source only) |
 | AIH-00306 | Anthrobotics | Robotics | Robotics & Autonomous Systems | [1995](https://doi.org/10.1016/0278-6125(95)90003-9) (source only) |
 | AIH-00344 | Antipodal Grasp | Robotics | Robotics & Autonomous Systems | [2005](https://doi.org/10.1109/tro.2005.844679) (source only) |
 | AIH-00382 | Assembly Sequence Planning | Robotics | Robotics & Autonomous Systems | [1988](https://doi.org/10.2514/6.1988-3500) (source only) |
@@ -196,9 +196,9 @@
 | AIH-05020 | Open-source robotics | Robotics | Robotics & Autonomous Systems | — |
 | AIH-05052 | Operational Design Domain (ODD) | Robotics | Robotics & Autonomous Systems | — |
 | AIH-05084 | Outline of robotics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00133 | Active Learning for Experiments | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-00133 | Active Learning for Experiments | Science & Healthcare AI | Science & Healthcare AI | [2022](https://doi.org/10.1080/01621459.2022.2123335) (source only) |
 | AIH-00171 | Adaptive Algorithm in Medicine | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-00209 | Adaptive Trial Design | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-00209 | Adaptive Trial Design | Science & Healthcare AI | Science & Healthcare AI | [2007](https://openalex.org/W2416741242) (source only) |
 | AIH-00247 | ADMET Prediction | Science & Healthcare AI | Science & Healthcare AI | [2014](https://doi.org/10.1007/978-3-319-09976-7_12) (source only) |
 | AIH-00285 | Alert Fatigue in Clinical Systems | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-00323 | Algorithmic Bias in Healthcare | Science & Healthcare AI | Science & Healthcare AI | [2024](https://doi.org/10.1002/9781394263752.ch6) (source only) |
@@ -335,7 +335,7 @@
 | AIH-05096 | Radiation Dose Optimization | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-00134 | Abuse Detection | Security & Privacy | Security & Privacy | [1995](https://doi.org/10.1300/j070v04n02_07) (source only) |
 | AIH-00172 | Account Takeover | Security & Privacy | Security & Privacy | [2002](https://doi.org/10.1037/e313422004-001) (source only) |
-| AIH-00210 | Adaptive Attack | Security & Privacy | Security & Privacy | — |
+| AIH-00210 | Adaptive Attack | Security & Privacy | Security & Privacy | [2000](https://doi.org/10.1007/3-540-46513-8_4) (source only) |
 | AIH-00248 | Adversarial Perturbation | Security & Privacy | Security & Privacy | [2019](https://doi.org/10.1109/iciscae48440.2019.221662) (source only) |
 | AIH-00286 | Adversarial Training | Security & Privacy | Security & Privacy | [2017](https://doi.org/10.21437/interspeech.2017-421) (source only) |
 | AIH-00324 | Adversary Capability | Security & Privacy | Security & Privacy | [2011](https://doi.org/10.1007/978-3-642-21694-7_8) (source only) |
@@ -474,7 +474,7 @@
 | AIH-00173 | Algorithmic Information Theory | Signal & Information Theory | Signal & Information Theory | [1973](https://doi.org/10.1016/0020-0255(73)90028-5) (source only) |
 | AIH-00211 | Aliasing | Signal & Information Theory | Signal & Information Theory | [1985](https://doi.org/10.21236/ada253722) (source only) |
 | AIH-00249 | Analytic Signal | Signal & Information Theory | Signal & Information Theory | [1979](https://doi.org/10.1109/tassp.1979.1163321) (source only) |
-| AIH-00287 | Anti-Aliasing Filter | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-00287 | Anti-Aliasing Filter | Signal & Information Theory | Signal & Information Theory | [1986](https://doi.org/10.1109/jlt.1986.1074632) (source only) |
 | AIH-00325 | Arithmetic Coding | Signal & Information Theory | Signal & Information Theory | [1997](https://doi.org/10.1049/el:19971145) (source only) |
 | AIH-00363 | Autocorrelation Function (ACF) | Signal & Information Theory | Signal & Information Theory | [1996](https://doi.org/10.1121/1.416159) (source only) |
 | AIH-00401 | Band-Pass Filter | Signal & Information Theory | Signal & Information Theory | [1976](https://doi.org/10.1016/0026-2714(76)90726-5) (source only) |

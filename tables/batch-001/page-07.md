@@ -330,11 +330,11 @@
 | AIH-05019 | Multinomial Distribution | Mathematics | Probabilistic Methods | — |
 | AIH-05051 | Multivariate Normal Distribution | Mathematics | Probabilistic Methods | — |
 | AIH-05083 | Mutually Exclusive Events | Mathematics | Probabilistic Methods | — |
-| AIH-00105 | Abbreviation Resolution | NLP and LLMs | Natural Language Processing | — |
-| AIH-00143 | Abstractive Question Answering | NLP and LLMs | Natural Language Processing | — |
+| AIH-00105 | Abbreviation Resolution | NLP and LLMs | Natural Language Processing | [2013](https://openalex.org/W2292990913) (source only) |
+| AIH-00143 | Abstractive Question Answering | NLP and LLMs | Natural Language Processing | [2022](https://doi.org/10.18653/v1/2022.naacl-main.328) (source only) |
 | AIH-00181 | Abstractive Summarization | NLP and LLMs | Natural Language Processing | [2016](https://doi.org/10.18653/v1/p16-3015) (source only) |
 | AIH-00219 | Agglutinative Language | NLP and LLMs | Natural Language Processing | [1989](https://doi.org/10.1007/978-94-009-1041-6_11) (source only) |
-| AIH-00257 | Ambiguous Question | NLP and LLMs | Natural Language Processing | — |
+| AIH-00257 | Ambiguous Question | NLP and LLMs | Natural Language Processing | [2008](https://doi.org/10.3758/mc.36.4.873) (source only) |
 | AIH-00295 | Analogy Task | NLP and LLMs | Natural Language Processing | [1987](https://doi.org/10.1111/j.2044-8295.1987.tb02223.x) (source only) |
 | AIH-00333 | Anaphora | NLP and LLMs | Natural Language Processing | [1981](https://doi.org/10.1007/3-540-10858-0_2) (source only) |
 | AIH-00371 | Answer Span | NLP and LLMs | Natural Language Processing | [2020](https://doi.org/10.18653/v1/2020.findings-emnlp.226) (source only) |
@@ -467,11 +467,11 @@
 | AIH-05009 | Grammatical Error Correction (GEC) | NLP and LLMs | Natural Language Processing | — |
 | AIH-05041 | Grapheme-to-Phoneme Conversion (G2P) | NLP and LLMs | Natural Language Processing | — |
 | AIH-05073 | Grounded Dialogue | NLP and LLMs | Natural Language Processing | — |
-| AIH-00129 | AAAI | People & Organizations | People & Organizations | — |
+| AIH-00129 | AAAI | People & Organizations | People & Organizations | [1996](https://doi.org/10.1609/aimag.v17i2.1223) (source only) |
 | AIH-00167 | Academic Access Programme | People & Organizations | People & Organizations | — |
-| AIH-00205 | ACL Conference | People & Organizations | People & Organizations | — |
+| AIH-00205 | ACL Conference | People & Organizations | People & Organizations | [2000](https://doi.org/10.55221/2572-7478.1895) (source only) |
 | AIH-00243 | Ada Lovelace | People & Organizations | People & Organizations | [2012](https://doi.org/10.1016/s0262-4079(12)62633-5) (source only) |
-| AIH-00281 | Affected Person | People & Organizations | People & Organizations | — |
+| AIH-00281 | Affected Person | People & Organizations | People & Organizations | [2013](https://openalex.org/W2245266123) (source only) |
 | AIH-00319 | AI Ethics Community | People & Organizations | People & Organizations | — |
 | AIH-00357 | AI Safety Community | People & Organizations | People & Organizations | — |
 | AIH-00395 | AI Standards Body | People & Organizations | People & Organizations | — |

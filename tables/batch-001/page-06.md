@@ -39,7 +39,7 @@
 | AIH-00203 | Attention over Neighbors | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-00241 | Autoregressive Graph Generation | Graph & Network Learning | Graph & Network Learning | [2025](https://doi.org/10.1109/icdmw69685.2025.00130) (source only) |
 | AIH-00279 | Chebyshev Graph Filter | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-00317 | Circuit Graph | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-00317 | Circuit Graph | Graph & Network Learning | Graph & Network Learning | [1995](https://openalex.org/W617405584) (source only) |
 | AIH-00355 | Citation Graph | Graph & Network Learning | Graph & Network Learning | [2010](https://doi.org/10.1007/s11192-010-0208-6) (source only) |
 | AIH-00393 | Cluster-GCN | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-00431 | Continuous-Time Dynamic Graph | Graph & Network Learning | Graph & Network Learning | [2020](https://doi.org/10.1145/3340531.3411946) (source only) |
@@ -283,7 +283,7 @@
 | AIH-05061 | Spam in Search | Information Retrieval | Information Retrieval | — |
 | AIH-05093 | Spell Correction in Search | Information Retrieval | Information Retrieval | — |
 | AIH-00101 | Activation Compression | Machine Learning | Machine Learning | [2023](https://doi.org/10.1109/aicas57966.2023.10168658) (source only) |
-| AIH-00139 | Active Data Selection | Machine Learning | Machine Learning | — |
+| AIH-00139 | Active Data Selection | Machine Learning | Machine Learning | [1992](https://doi.org/10.1162/neco.1992.4.4.590) (source only) |
 | AIH-00177 | Active Learning (AL) | Machine Learning | Machine Learning | [2021](https://doi.org/10.26226/morressier.60ddad35e537565438d6c487) (source only) |
 | AIH-00215 | Active Learning Query Strategy | Machine Learning | Machine Learning | [2019](https://doi.org/10.1109/icassp.2019.8683089) (source only) |
 | AIH-00253 | Adaptive Computation | Machine Learning | Machine Learning | [2005](https://doi.org/10.21236/ada435164) (source only) |
@@ -442,7 +442,7 @@
 | AIH-00455 | Affine Transformation | Mathematics | Mathematics & Statistics | [1989](https://doi.org/10.21236/ada210106) (source only) |
 | AIH-00493 | Agnostic Learning | Mathematics | Mathematics & Statistics | [1992](https://doi.org/10.1145/130385.130424) (source only) |
 | AIH-00531 | Akaike Information Criterion (AIC) | Mathematics | Mathematics & Statistics | — |
-| AIH-00153 | Aleatoric Uncertainty | Mathematics | Probabilistic Methods | — |
+| AIH-00153 | Aleatoric Uncertainty | Mathematics | Probabilistic Methods | [2013](https://doi.org/10.1115/detc2013-13234) (source only) |
 | AIH-00569 | Alias Method | Mathematics | Mathematics & Statistics | — |
 | AIH-00607 | Almost Everywhere | Mathematics | Mathematics & Statistics | — |
 | AIH-00645 | Alternating Least Squares (ALS) | Mathematics | Mathematics & Statistics | — |
