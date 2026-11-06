@@ -1,0 +1,109 @@
+name: Research 2000 additional AI term dates (batch 006)
+
+on:
+  push:
+    paths:
+      - ".github/workflows/research_dates_006_2000.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: ai-keyword-date-006
+  cancel-in-progress: false
+
+jobs:
+  segments:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        start: [4501, 5501]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Find scholarly source attestations and ★ estimates for 1000 terms
+        run: python scripts/date_research_006_segment.py --start ${{ matrix.start }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: date-006-segment-${{ matrix.start }}
+          path: data/segment_date_006_*.json
+          if-no-files-found: error
+          retention-days: 7
+
+  publish:
+    needs: segments
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Refresh repository immediately before merge to preserve concurrent edits
+        run: |
+          git fetch origin main
+          git reset --hard origin/main
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: date-006-segment-*
+          merge-multiple: true
+          path: data/date_staging
+      - name: Merge and validate 2000 new date records
+        run: python scripts/merge_date_research_006_2000.py
+      - name: Regenerate all 40 complete source-linked keyword table pages
+        run: python scripts/build_keyword_tables.py
+      - name: Synchronize project navigation
+        run: python scripts/sync_readme.py
+      - name: Audit all IDs, date quality and provenance
+        run: |
+          python - <<'PY'
+          import csv,json
+          from pathlib import Path
+          report=json.loads(Path("data/DATE_RESEARCH_006_REPORT.json").read_text(encoding="utf-8"))
+          assert report["examined"]==2000 and report["inventory_total"]==20100
+          assert sum(report[k] for k in ("documented_source_dates","estimated_star_dates","unresolved"))==2000
+          assert report["existing_first_4500_unchanged"]
+          with Path("data/KEYWORD_INVENTORY.csv").open(encoding="utf-8",newline="") as f:
+              rows=list(csv.DictReader(f))
+          assert len(rows)==20100 and len(set(r["id"] for r in rows))==20100
+          group=[r for r in rows if 4501<=int(r["id"].split("-")[-1])<=6500]
+          assert len(group)==2000
+          for record in group:
+              assert not record["first_use_date"]
+              if record["date_status"]=="estimated_star":
+                  assert record["display_date"].endswith(" ★")
+                  assert record["estimated_source_url"] and record["estimated_reason"]
+                  assert not record.get("historical_evidence_date")
+              if record["date_status"]=="documented_source_not_first_use":
+                  assert record["historical_evidence_url"] and not record.get("estimated_first_use_year")
+          for i in range(1,5):
+              path=Path(f"batches/date-research-006/page-{i:02d}.md")
+              assert sum(line.startswith("| AIH-") for line in path.read_text().splitlines())==500
+          assert Path("batches/DATE_RESEARCH_004_RECOVERY_FIRST_1000.md").exists()
+          assert Path("batches/DATE_RESEARCH_005_NEXT_2000.md").exists()
+          assert "Date research 006" in Path("README.md").read_text()
+          gail=next(r for r in rows if r["id"]=="AIH-02503")
+          assert gail["historical_evidence_date"]=="2016"
+          print("Verified 2,000 IDs, four full tables, source dates, ★ estimates and prior records.")
+          PY
+      - name: Commit results without forcing remote history
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md data/KEYWORD_INVENTORY.csv data/DATE_RESEARCH_006_REPORT.json batches/DATE_RESEARCH_006_NEXT_2000.md batches/date-research-006/ tables/
+          if git diff --cached --quiet; then
+            echo "Already published"
+            exit 0
+          fi
+          git commit -m "Date research 006: 2000 scholarly source dates and ★ estimates, complete tables"
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
