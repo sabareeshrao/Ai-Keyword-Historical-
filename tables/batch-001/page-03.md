@@ -6,42 +6,42 @@
 
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
-| AIH-00796 | Bletchley Declaration | AI Safety | AI Policy & Governance | — |
+| AIH-00796 | Bletchley Declaration | AI Safety | AI Policy & Governance | [2023](https://doi.org/10.21275/sr231105111311) (source only) |
 | AIH-00985 | Boxing | AI Safety | AI Ethics & Safety | — |
 | AIH-01023 | Calibrated Honesty | AI Safety | AI Ethics & Safety | — |
 | AIH-00834 | Calibration Within Groups | AI Safety | AI Policy & Governance | — |
 | AIH-01061 | Capability Control | AI Safety | AI Ethics & Safety | — |
 | AIH-01099 | Capability Generalization | AI Safety | AI Ethics & Safety | — |
-| AIH-00872 | Capability Threshold | AI Safety | AI Policy & Governance | — |
-| AIH-01137 | Catastrophic AI Risk | AI Safety | AI Ethics & Safety | — |
-| AIH-00910 | CCPA | AI Safety | AI Policy & Governance | — |
+| AIH-00872 | Capability Threshold | AI Safety | AI Policy & Governance | [2013](https://doi.org/10.1108/ijse-2012-0136) (source only) |
+| AIH-01137 | Catastrophic AI Risk | AI Safety | AI Ethics & Safety | [2018](https://doi.org/10.1201/9781351251389-22) (source only) |
+| AIH-00910 | CCPA | AI Safety | AI Policy & Governance | [2020](https://doi.org/10.23939/law2020.27.072) (source only) |
 | AIH-00948 | CE Marking for AI | AI Safety | AI Policy & Governance | — |
 | AIH-01175 | Chain-of-Thought Monitoring | AI Safety | AI Ethics & Safety | — |
 | AIH-01213 | Character Stability | AI Safety | AI Ethics & Safety | — |
 | AIH-00986 | Chemical and Biological Risk Screening | AI Safety | AI Policy & Governance | — |
 | AIH-01251 | Classifier Cascade for Safety | AI Safety | AI Ethics & Safety | — |
 | AIH-01289 | Collective Constitutional Process | AI Safety | AI Ethics & Safety | — |
-| AIH-01024 | Complementarity | AI Safety | AI Policy & Governance | — |
+| AIH-01024 | Complementarity | AI Safety | AI Policy & Governance | [1992](https://doi.org/10.1007/bfb0084659) (source only) |
 | AIH-01062 | Compliance Evidence | AI Safety | AI Policy & Governance | — |
 | AIH-01100 | Compute Export Restriction | AI Safety | AI Policy & Governance | — |
 | AIH-01327 | Compute Monitoring | AI Safety | AI Ethics & Safety | — |
 | AIH-01138 | Compute Threshold | AI Safety | AI Policy & Governance | — |
 | AIH-01365 | Concentration of Power | AI Safety | AI Ethics & Safety | — |
-| AIH-01403 | Confidence-Building Measure | AI Safety | AI Ethics & Safety | — |
-| AIH-01176 | Conformity Assessment | AI Safety | AI Policy & Governance | — |
-| AIH-01441 | Conservative Policy | AI Safety | AI Ethics & Safety | — |
+| AIH-01403 | Confidence-Building Measure | AI Safety | AI Ethics & Safety | [1988](https://doi.org/10.2307/1166762) (source only) |
+| AIH-01176 | Conformity Assessment | AI Safety | AI Policy & Governance | [1992](https://doi.org/10.6028/nist.ir.4853) (source only) |
+| AIH-01441 | Conservative Policy | AI Safety | AI Ethics & Safety | [1974](https://doi.org/10.1007/978-1-349-16210-9_8) (source only) |
 | AIH-01479 | Constitutional Classifier | AI Safety | AI Ethics & Safety | — |
 | AIH-01517 | Content Classifier | AI Safety | AI Ethics & Safety | — |
-| AIH-01214 | Contestability | AI Safety | AI Policy & Governance | — |
+| AIH-01214 | Contestability | AI Safety | AI Policy & Governance | [1985](https://doi.org/10.1080/08102597.1985.11800562) (source only) |
 | AIH-01555 | Context Manipulation | AI Safety | AI Ethics & Safety | — |
 | AIH-01593 | Context-Dependent Judgment | AI Safety | AI Ethics & Safety | — |
-| AIH-01252 | Continuous Compliance | AI Safety | AI Policy & Governance | — |
-| AIH-01290 | Control Effectiveness | AI Safety | AI Policy & Governance | — |
+| AIH-01252 | Continuous Compliance | AI Safety | AI Policy & Governance | [1993](https://doi.org/10.1007/bf00180065) (source only) |
+| AIH-01290 | Control Effectiveness | AI Safety | AI Policy & Governance | [2012](https://doi.org/10.1002/9781119196815.ch8) (source only) |
 | AIH-01631 | Cooperative Inverse Reinforcement Learning | AI Safety | AI Ethics & Safety | — |
 | AIH-01328 | COPPA | AI Safety | AI Policy & Governance | — |
 | AIH-01366 | Copyright and Training Data | AI Safety | AI Policy & Governance | — |
 | AIH-01404 | Council of Europe AI Convention | AI Safety | AI Policy & Governance | — |
-| AIH-01442 | Counterfactual Fairness | AI Safety | AI Policy & Governance | — |
+| AIH-01442 | Counterfactual Fairness | AI Safety | AI Policy & Governance | [2019](https://doi.org/10.1609/aaai.v33i01.33017801) (source only) |
 | AIH-01669 | Counterfactual Impact | AI Safety | AI Ethics & Safety | — |
 | AIH-01707 | Crescendo Attack | AI Safety | AI Ethics & Safety | — |
 | AIH-01745 | Crisis Response | AI Safety | AI Ethics & Safety | — |
@@ -249,33 +249,33 @@
 | AIH-00387 | Causal Effect | Causal Inference | Causal Inference | [2007](https://doi.org/10.3386/w13341) (source only) |
 | AIH-00425 | Causal Forest | Causal Inference | Causal Inference | — |
 | AIH-00463 | Causal Impact Analysis | Causal Inference | Causal Inference | [2022](https://doi.org/10.2139/ssrn.4127249) (source only) |
-| AIH-00501 | Causal Machine Learning | Causal Inference | Causal Inference | — |
-| AIH-00539 | Causal Mechanism | Causal Inference | Causal Inference | — |
-| AIH-00577 | Causal Representation Learning | Causal Inference | Causal Inference | — |
-| AIH-00615 | Causal Sufficiency | Causal Inference | Causal Inference | — |
-| AIH-00653 | Cluster Randomized Trial (CRT) | Causal Inference | Causal Inference | — |
+| AIH-00501 | Causal Machine Learning | Causal Inference | Causal Inference | [2023](https://doi.org/10.7551/mitpress/14934.003.0006) (source only) |
+| AIH-00539 | Causal Mechanism | Causal Inference | Causal Inference | [2003](https://doi.org/10.1080/1356346032000078723) (source only) |
+| AIH-00577 | Causal Representation Learning | Causal Inference | Causal Inference | [2022](https://doi.org/10.52202/068431-2776) (source only) |
+| AIH-00615 | Causal Sufficiency | Causal Inference | Causal Inference | [1979](https://doi.org/10.1093/mind/lxxxviii.1.105) (source only) |
+| AIH-00653 | Cluster Randomized Trial (CRT) | Causal Inference | Causal Inference | [2012](https://doi.org/10.1016/s0020-7292(12)60553-0) (source only) |
 | AIH-00691 | Coarsened Exact Matching (CEM) | Causal Inference | Causal Inference | — |
 | AIH-00729 | Collider Bias | Causal Inference | Causal Inference | — |
-| AIH-00767 | Common Support | Causal Inference | Causal Inference | — |
-| AIH-00805 | Compliers | Causal Inference | Causal Inference | — |
+| AIH-00767 | Common Support | Causal Inference | Causal Inference | [2001](https://doi.org/10.2139/ssrn.259239) (source only) |
+| AIH-00805 | Compliers | Causal Inference | Causal Inference | [1982](https://doi.org/10.1249/00005768-198202000-00367) (source only) |
 | AIH-00843 | Conditional Average Treatment Effect (CATE) | Causal Inference | Causal Inference | — |
-| AIH-00881 | Confounder | Causal Inference | Causal Inference | — |
+| AIH-00881 | Confounder | Causal Inference | Causal Inference | [1991](https://doi.org/10.1007/978-3-642-48090-4_6) (source only) |
 | AIH-00919 | Counterfactual Forecast | Causal Inference | Causal Inference | — |
 | AIH-00957 | Counterfactual Outcome | Causal Inference | Causal Inference | — |
-| AIH-00995 | Cross-Fitting | Causal Inference | Causal Inference | — |
-| AIH-01033 | Difference-in-Differences (DiD) | Causal Inference | Causal Inference | — |
-| AIH-01071 | Direct Effect | Causal Inference | Causal Inference | — |
+| AIH-00995 | Cross-Fitting | Causal Inference | Causal Inference | [2017](https://doi.org/10.1920/wp.cem.2017.4117) (source only) |
+| AIH-01033 | Difference-in-Differences (DiD) | Causal Inference | Causal Inference | [2020](https://doi.org/10.4337/9781789903485.00013) (source only) |
+| AIH-01071 | Direct Effect | Causal Inference | Causal Inference | [2004](https://doi.org/10.4324/9781843146575-61) (source only) |
 | AIH-01109 | Do-Calculus | Causal Inference | Causal Inference | — |
-| AIH-01147 | Dose-Response Curve | Causal Inference | Causal Inference | — |
-| AIH-01185 | Double Machine Learning (DML) | Causal Inference | Causal Inference | — |
-| AIH-01223 | Doubly Robust Estimation | Causal Inference | Causal Inference | — |
-| AIH-01261 | E-Value | Causal Inference | Causal Inference | — |
-| AIH-01299 | Effect Modification | Causal Inference | Causal Inference | — |
-| AIH-01337 | Encouragement Design | Causal Inference | Causal Inference | — |
-| AIH-01375 | Entropy Balancing | Causal Inference | Causal Inference | — |
-| AIH-01413 | Event Study Design | Causal Inference | Causal Inference | — |
-| AIH-01451 | Exclusion Restriction | Causal Inference | Causal Inference | — |
-| AIH-01489 | External Validity | Causal Inference | Causal Inference | — |
+| AIH-01147 | Dose-Response Curve | Causal Inference | Causal Inference | [1969](https://doi.org/10.1016/0027-5107(69)90090-6) (source only) |
+| AIH-01185 | Double Machine Learning (DML) | Causal Inference | Causal Inference | [2025](https://doi.org/10.26868/25222708.2025.1176) (source only) |
+| AIH-01223 | Doubly Robust Estimation | Causal Inference | Causal Inference | [2005](https://doi.org/10.1111/j.1541-0420.2005.00377.x) (source only) |
+| AIH-01261 | E-Value | Causal Inference | Causal Inference | [2015](https://doi.org/10.1002/9783527678679.dg04060) (source only) |
+| AIH-01299 | Effect Modification | Causal Inference | Causal Inference | [2000](https://doi.org/10.1002/9780470695005.ch21) (source only) |
+| AIH-01337 | Encouragement Design | Causal Inference | Causal Inference | [2006](https://doi.org/10.1002/sim.2388) (source only) |
+| AIH-01375 | Entropy Balancing | Causal Inference | Causal Inference | [1999](https://doi.org/10.1093/oso/9780195118285.003.0004) (source only) |
+| AIH-01413 | Event Study Design | Causal Inference | Causal Inference | [2018](https://doi.org/10.3386/w24565) (source only) |
+| AIH-01451 | Exclusion Restriction | Causal Inference | Causal Inference | [2005](https://doi.org/10.1017/cbo9780511614491.022) (source only) |
+| AIH-01489 | External Validity | Causal Inference | Causal Inference | [1980](https://doi.org/10.1037//0003-066x.35.4.387) (source only) |
 | AIH-01527 | Faithfulness Assumption | Causal Inference | Causal Inference | — |
 | AIH-01565 | FCI Algorithm | Causal Inference | Causal Inference | — |
 | AIH-01603 | Frontdoor Criterion | Causal Inference | Causal Inference | — |
@@ -361,33 +361,33 @@
 | AIH-00388 | Automation Bias in Humans | Cognitive Science | Cognitive Science | — |
 | AIH-00426 | Availability Heuristic | Cognitive Science | Cognitive Science | — |
 | AIH-00464 | Basic Level Category | Cognitive Science | Cognitive Science | [1988](https://doi.org/10.1037//0012-1649.24.1.21) (source only) |
-| AIH-00502 | Bayesian Brain Hypothesis | Cognitive Science | Cognitive Science | — |
-| AIH-00540 | Bottom-Up Processing | Cognitive Science | Cognitive Science | — |
-| AIH-00578 | Categorical Perception | Cognitive Science | Cognitive Science | — |
-| AIH-00616 | Change Blindness | Cognitive Science | Cognitive Science | — |
+| AIH-00502 | Bayesian Brain Hypothesis | Cognitive Science | Cognitive Science | [2022](https://doi.org/10.31234/osf.io/vgw6q) (source only) |
+| AIH-00540 | Bottom-Up Processing | Cognitive Science | Cognitive Science | [1991](https://doi.org/10.21236/ada238235) (source only) |
+| AIH-00578 | Categorical Perception | Cognitive Science | Cognitive Science | [1973](https://doi.org/10.1016/s0010-9452(73)80035-8) (source only) |
+| AIH-00616 | Change Blindness | Cognitive Science | Cognitive Science | [2000](https://doi.org/10.1037/e501882009-193) (source only) |
 | AIH-00654 | Chunking in Memory | Cognitive Science | Cognitive Science | — |
-| AIH-00692 | Cocktail Party Effect | Cognitive Science | Cognitive Science | — |
-| AIH-00730 | Cognition | Cognitive Science | Cognitive Science | — |
-| AIH-00768 | Cognitive Bias | Cognitive Science | Cognitive Science | — |
-| AIH-00806 | Cognitive Flexibility | Cognitive Science | Cognitive Science | — |
+| AIH-00692 | Cocktail Party Effect | Cognitive Science | Cognitive Science | [1957](https://doi.org/10.1121/1.1919140) (source only) |
+| AIH-00730 | Cognition | Cognitive Science | Cognitive Science | [1976](https://doi.org/10.1016/0010-0277(76)90019-6) (source only) |
+| AIH-00768 | Cognitive Bias | Cognitive Science | Cognitive Science | [1985](https://doi.org/10.1037/t04389-000) (source only) |
+| AIH-00806 | Cognitive Flexibility | Cognitive Science | Cognitive Science | [1962](https://doi.org/10.2307/2785779) (source only) |
 | AIH-00844 | Cognitive Load | Cognitive Science | Cognitive Science | — |
 | AIH-00882 | Cognitive Offloading | Cognitive Science | Cognitive Science | — |
-| AIH-00920 | Cognitive Plausibility | Cognitive Science | Cognitive Science | — |
+| AIH-00920 | Cognitive Plausibility | Cognitive Science | Cognitive Science | [2000](https://doi.org/10.1007/s001650070021) (source only) |
 | AIH-00958 | Concept Formation | Cognitive Science | Cognitive Science | — |
-| AIH-00996 | Conceptual Model | Cognitive Science | Cognitive Science | — |
+| AIH-00996 | Conceptual Model | Cognitive Science | Cognitive Science | [2004](https://doi.org/10.4095/215903) (source only) |
 | AIH-01034 | Confidence Judgment | Cognitive Science | Cognitive Science | — |
-| AIH-01072 | Confirmation Bias | Cognitive Science | Cognitive Science | — |
+| AIH-01072 | Confirmation Bias | Cognitive Science | Cognitive Science | [1995](https://doi.org/10.21236/ada293570) (source only) |
 | AIH-01110 | Consolidation | Cognitive Science | Cognitive Science | — |
 | AIH-01148 | Cortical Hierarchy | Cognitive Science | Cognitive Science | — |
-| AIH-01186 | Critical Period | Cognitive Science | Cognitive Science | — |
+| AIH-01186 | Critical Period | Cognitive Science | Cognitive Science | [1932](https://doi.org/10.7312/spau92150) (source only) |
 | AIH-01224 | Cultural Evolution | Cognitive Science | Cognitive Science | — |
-| AIH-01262 | Curse of Knowledge | Cognitive Science | Cognitive Science | — |
-| AIH-01300 | Deliberate Practice | Cognitive Science | Cognitive Science | — |
-| AIH-01338 | Distributed Cognition Theory | Cognitive Science | Cognitive Science | — |
-| AIH-01376 | Divided Attention | Cognitive Science | Cognitive Science | — |
-| AIH-01414 | Dorsal Stream | Cognitive Science | Cognitive Science | — |
+| AIH-01262 | Curse of Knowledge | Cognitive Science | Cognitive Science | [1992](https://doi.org/10.1007/978-3-642-49959-3_4) (source only) |
+| AIH-01300 | Deliberate Practice | Cognitive Science | Cognitive Science | [2003](https://doi.org/10.1037/e344792004-001) (source only) |
+| AIH-01338 | Distributed Cognition Theory | Cognitive Science | Cognitive Science | [2005](https://doi.org/10.1360/jos161717) (source only) |
+| AIH-01376 | Divided Attention | Cognitive Science | Cognitive Science | [1969](https://doi.org/10.1037/e666672011-102) (source only) |
+| AIH-01414 | Dorsal Stream | Cognitive Science | Cognitive Science | [2000](https://doi.org/10.1006/nimg.2000.0635) (source only) |
 | AIH-01452 | Dual Process Theory | Cognitive Science | Cognitive Science | — |
-| AIH-01490 | Dual-Task Interference | Cognitive Science | Cognitive Science | — |
+| AIH-01490 | Dual-Task Interference | Cognitive Science | Cognitive Science | [1973](https://doi.org/10.1037/e665992011-267) (source only) |
 | AIH-01528 | Dunning-Kruger Effect | Cognitive Science | Cognitive Science | — |
 | AIH-01566 | Einstellung Effect | Cognitive Science | Cognitive Science | — |
 | AIH-01604 | Embodied Cognition | Cognitive Science | Cognitive Science | — |
@@ -498,12 +498,12 @@
 | AIH-00389 | Blend Shape | Computer Graphics | Computer Graphics | [2003](https://doi.org/10.1145/965400.965571) (source only) |
 | AIH-00427 | Bounding Volume Hierarchy (BVH) | Computer Graphics | Computer Graphics | [2023](https://doi.org/10.18845/tm.v36i2.6098) (source only) |
 | AIH-00465 | Broad Phase | Computer Graphics | Computer Graphics | — |
-| AIH-00503 | Cloth Simulation | Computer Graphics | Computer Graphics | — |
+| AIH-00503 | Cloth Simulation | Computer Graphics | Computer Graphics | [2001](https://doi.org/10.1016/s0097-8493(01)00062-0) (source only) |
 | AIH-00541 | Collision Detection in Graphics | Computer Graphics | Computer Graphics | — |
-| AIH-00579 | Colour Grading | Computer Graphics | Computer Graphics | — |
-| AIH-00617 | Compute Shader | Computer Graphics | Computer Graphics | — |
-| AIH-00655 | Constraint Solver | Computer Graphics | Computer Graphics | — |
-| AIH-00693 | Culling | Computer Graphics | Computer Graphics | — |
+| AIH-00579 | Colour Grading | Computer Graphics | Computer Graphics | [1939](https://doi.org/10.1007/bf02544277) (source only) |
+| AIH-00617 | Compute Shader | Computer Graphics | Computer Graphics | [2010](https://openalex.org/W989317347) (source only) |
+| AIH-00655 | Constraint Solver | Computer Graphics | Computer Graphics | [1990](https://doi.org/10.1145/76372.77531) (source only) |
+| AIH-00693 | Culling | Computer Graphics | Computer Graphics | [2001](https://doi.org/10.1007/978-3-7091-6215-6_10) (source only) |
 | AIH-00731 | Deep Learning Super Sampling (DLSS) | Computer Graphics | Computer Graphics | — |
 | AIH-00769 | Deferred Shading | Computer Graphics | Computer Graphics | — |
 

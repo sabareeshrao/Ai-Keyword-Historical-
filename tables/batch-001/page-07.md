@@ -11,15 +11,15 @@
 | AIH-00836 | Benders Decomposition | Mathematics | Optimization | — |
 | AIH-02279 | Benjamini-Hochberg Procedure (BH) | Mathematics | Mathematics & Statistics | — |
 | AIH-02317 | Berkson's Paradox | Mathematics | Mathematics & Statistics | — |
-| AIH-00609 | Bernoulli Distribution | Mathematics | Probabilistic Methods | — |
-| AIH-00647 | Bernstein Inequality | Mathematics | Probabilistic Methods | — |
+| AIH-00609 | Bernoulli Distribution | Mathematics | Probabilistic Methods | [2003](https://doi.org/10.1002/0471722227.ch4) (source only) |
+| AIH-00647 | Bernstein Inequality | Mathematics | Probabilistic Methods | [1986](https://doi.org/10.1007/bf01909364) (source only) |
 | AIH-00874 | Best Arm Identification | Mathematics | Optimization | — |
 | AIH-02355 | Best-First Search | Mathematics | Mathematics & Statistics | — |
-| AIH-00685 | Beta Distribution | Mathematics | Probabilistic Methods | — |
+| AIH-00685 | Beta Distribution | Mathematics | Probabilistic Methods | [1955](https://doi.org/10.1214/aoms/1177728424) (source only) |
 | AIH-02393 | Betweenness Centrality | Mathematics | Mathematics & Statistics | — |
 | AIH-02431 | Bezier Curve | Mathematics | Mathematics & Statistics | — |
 | AIH-00912 | BFGS | Mathematics | Optimization | — |
-| AIH-00723 | Bias of an Estimator | Mathematics | Probabilistic Methods | — |
+| AIH-00723 | Bias of an Estimator | Mathematics | Probabilistic Methods | [2007](https://doi.org/10.1002/9780470061572.eqr171) (source only) |
 | AIH-02469 | Bias-Corrected Bootstrap | Mathematics | Mathematics & Statistics | — |
 | AIH-02507 | Bidiagonalization | Mathematics | Mathematics & Statistics | — |
 | AIH-02545 | Bidirectional Search | Mathematics | Mathematics & Statistics | — |
@@ -27,7 +27,7 @@
 | AIH-02583 | Big-O Notation | Mathematics | Mathematics & Statistics | — |
 | AIH-02621 | Big-Theta Notation | Mathematics | Mathematics & Statistics | — |
 | AIH-02659 | Bijection | Mathematics | Mathematics & Statistics | — |
-| AIH-00988 | Bilevel Optimization | Mathematics | Optimization | — |
+| AIH-00988 | Bilevel Optimization | Mathematics | Optimization | [1994](https://doi.org/10.2514/6.1994-4334) (source only) |
 | AIH-02697 | Bilinear Form | Mathematics | Mathematics & Statistics | — |
 | AIH-02735 | Binary Search Tree (BST) | Mathematics | Mathematics & Statistics | — |
 | AIH-02773 | Binomial Coefficient | Mathematics | Mathematics & Statistics | — |
@@ -36,7 +36,7 @@
 | AIH-02849 | Bipartite Matching | Mathematics | Mathematics & Statistics | — |
 | AIH-02887 | BLAS | Mathematics | Mathematics & Statistics | — |
 | AIH-02925 | Blinding | Mathematics | Mathematics & Statistics | — |
-| AIH-01026 | Block Coordinate Descent | Mathematics | Optimization | — |
+| AIH-01026 | Block Coordinate Descent | Mathematics | Optimization | [1996](https://doi.org/10.1007/978-3-642-99789-1_25) (source only) |
 | AIH-02963 | Block Matrix | Mathematics | Mathematics & Statistics | — |
 | AIH-03001 | Block-Diagonal Matrix | Mathematics | Mathematics & Statistics | — |
 | AIH-03039 | Blocking | Mathematics | Mathematics & Statistics | — |
@@ -44,7 +44,7 @@
 | AIH-01064 | BOHB | Mathematics | Optimization | — |
 | AIH-03113 | Bonferroni Correction | Mathematics | Mathematics & Statistics | — |
 | AIH-03150 | Boolean Algebra | Mathematics | Mathematics & Statistics | — |
-| AIH-00799 | Bootstrap | Mathematics | Probabilistic Methods | — |
+| AIH-00799 | Bootstrap | Mathematics | Probabilistic Methods | [1962](https://doi.org/10.1093/jof/60.3.200) (source only) |
 | AIH-03187 | Bootstrap Percentile Interval | Mathematics | Mathematics & Statistics | — |
 | AIH-03224 | Boundary | Mathematics | Mathematics & Statistics | — |
 | AIH-03261 | Boundary Condition | Mathematics | Mathematics & Statistics | — |
@@ -55,7 +55,7 @@
 | AIH-03445 | BPP | Mathematics | Mathematics & Statistics | — |
 | AIH-03481 | BQP | Mathematics | Mathematics & Statistics | — |
 | AIH-03517 | Branch and Bound (B&B) | Mathematics | Mathematics & Statistics | — |
-| AIH-01102 | Branching Strategy | Mathematics | Optimization | — |
+| AIH-01102 | Branching Strategy | Mathematics | Optimization | [1979](https://doi.org/10.1021/jo01317a033) (source only) |
 | AIH-03553 | Breadth-First Search (BFS) | Mathematics | Mathematics & Statistics | — |
 | AIH-03589 | Breakdown Point | Mathematics | Mathematics & Statistics | — |
 | AIH-03625 | Bregman Divergence | Mathematics | Mathematics & Statistics | — |
@@ -66,13 +66,13 @@
 | AIH-00875 | Burn-In | Mathematics | Probabilistic Methods | — |
 | AIH-03769 | Cache-Oblivious Algorithm | Mathematics | Mathematics & Statistics | — |
 | AIH-03805 | Calculus of Variations | Mathematics | Mathematics & Statistics | — |
-| AIH-00913 | Calibration Curve | Mathematics | Probabilistic Methods | — |
+| AIH-00913 | Calibration Curve | Mathematics | Probabilistic Methods | [2011](https://doi.org/10.1515/9783110249484.27) (source only) |
 | AIH-03841 | Cardinality | Mathematics | Mathematics & Statistics | — |
 | AIH-03877 | Cartesian Product | Mathematics | Mathematics & Statistics | — |
 | AIH-03913 | Catalan Number | Mathematics | Mathematics & Statistics | — |
 | AIH-03949 | Catastrophic Cancellation | Mathematics | Mathematics & Statistics | — |
 | AIH-00951 | Categorical Distribution | Mathematics | Probabilistic Methods | — |
-| AIH-00989 | Cauchy Distribution | Mathematics | Probabilistic Methods | — |
+| AIH-00989 | Cauchy Distribution | Mathematics | Probabilistic Methods | [1969](https://doi.org/10.1214/aoms/1177697613) (source only) |
 | AIH-03985 | Cauchy Sequence | Mathematics | Mathematics & Statistics | — |
 | AIH-04021 | CDCL | Mathematics | Mathematics & Statistics | — |
 | AIH-04056 | Censoring | Mathematics | Mathematics & Statistics | — |
@@ -88,14 +88,14 @@
 | AIH-01027 | Characteristic Function | Mathematics | Probabilistic Methods | — |
 | AIH-04333 | Characteristic Polynomial | Mathematics | Mathematics & Statistics | — |
 | AIH-04366 | Chart | Mathematics | Mathematics & Statistics | — |
-| AIH-01065 | Chebyshev Inequality | Mathematics | Probabilistic Methods | — |
+| AIH-01065 | Chebyshev Inequality | Mathematics | Probabilistic Methods | [1984](https://doi.org/10.1080/00031305.1984.10483182) (source only) |
 | AIH-04399 | Chebyshev Nodes | Mathematics | Mathematics & Statistics | — |
 | AIH-04432 | Checkpointing | Mathematics | Mathematics & Statistics | — |
-| AIH-01103 | Chernoff Bound | Mathematics | Probabilistic Methods | — |
-| AIH-01141 | Chi-Squared Distribution | Mathematics | Probabilistic Methods | — |
+| AIH-01103 | Chernoff Bound | Mathematics | Probabilistic Methods | [1967](https://doi.org/10.1109/tit.1967.1054036) (source only) |
+| AIH-01141 | Chi-Squared Distribution | Mathematics | Probabilistic Methods | [1968](https://doi.org/10.1016/b978-0-408-70676-6.50015-2) (source only) |
 | AIH-04465 | Chi-Squared Test | Mathematics | Mathematics & Statistics | — |
 | AIH-04498 | Chinese Remainder Theorem | Mathematics | Mathematics & Statistics | — |
-| AIH-01179 | Chinese Restaurant Process | Mathematics | Probabilistic Methods | — |
+| AIH-01179 | Chinese Restaurant Process | Mathematics | Probabilistic Methods | [2006](https://doi.org/10.1093/bioinformatics/btl284) (source only) |
 | AIH-04531 | Cholesky Decomposition | Mathematics | Mathematics & Statistics | — |
 | AIH-04564 | Chomsky Hierarchy | Mathematics | Mathematics & Statistics | — |
 | AIH-04597 | Chromatic Number | Mathematics | Mathematics & Statistics | — |
@@ -116,20 +116,20 @@
 | AIH-05017 | Cohen's d | Mathematics | Mathematics & Statistics | — |
 | AIH-05049 | Coherence of a Dictionary | Mathematics | Mathematics & Statistics | — |
 | AIH-01292 | Cold Start Optimization | Mathematics | Optimization | — |
-| AIH-01217 | Collider | Mathematics | Probabilistic Methods | — |
+| AIH-01217 | Collider | Mathematics | Probabilistic Methods | [1980](https://doi.org/10.2172/1156107) (source only) |
 | AIH-05081 | Collocation Point | Mathematics | Mathematics & Statistics | — |
 | AIH-01330 | Column Generation (CG) | Mathematics | Optimization | — |
-| AIH-01368 | Complementary Slackness | Mathematics | Optimization | — |
+| AIH-01368 | Complementary Slackness | Mathematics | Optimization | [1967](https://doi.org/10.21236/ad0662668) (source only) |
 | AIH-01255 | Concentration Inequality | Mathematics | Probabilistic Methods | — |
 | AIH-01293 | Conditional Expectation | Mathematics | Probabilistic Methods | — |
-| AIH-01331 | Conditional Independence | Mathematics | Probabilistic Methods | — |
-| AIH-01369 | Conditional Probability | Mathematics | Probabilistic Methods | — |
+| AIH-01331 | Conditional Independence | Mathematics | Probabilistic Methods | [1978](https://doi.org/10.1007/978-1-4612-6335-7) (source only) |
+| AIH-01369 | Conditional Probability | Mathematics | Probabilistic Methods | [1973](https://doi.org/10.1016/b978-0-12-256450-5.50010-8) (source only) |
 | AIH-01407 | Conformal Prediction | Mathematics | Probabilistic Methods | — |
-| AIH-01406 | Conjugate Direction | Mathematics | Optimization | — |
-| AIH-01445 | Conjugate Prior | Mathematics | Probabilistic Methods | — |
-| AIH-01483 | Consistency | Mathematics | Probabilistic Methods | — |
+| AIH-01406 | Conjugate Direction | Mathematics | Optimization | [1969](https://doi.org/10.1016/0016-0032(69)90253-1) (source only) |
+| AIH-01445 | Conjugate Prior | Mathematics | Probabilistic Methods | [1988](https://doi.org/10.1016/0304-4076(88)90025-5) (source only) |
+| AIH-01483 | Consistency | Mathematics | Probabilistic Methods | [1915](https://doi.org/10.7312/reis92604-002) (source only) |
 | AIH-01444 | Constraint | Mathematics | Optimization | — |
-| AIH-01482 | Constraint Tightening | Mathematics | Optimization | — |
+| AIH-01482 | Constraint Tightening | Mathematics | Optimization | [2006](https://doi.org/10.1109/acc.2006.1656440) (source only) |
 | AIH-01520 | Contextual Bandit | Mathematics | Optimization | — |
 | AIH-01558 | Convergence Criterion | Mathematics | Optimization | — |
 | AIH-01596 | Convex Relaxation | Mathematics | Optimization | — |
@@ -341,30 +341,30 @@
 | AIH-00409 | Answerability Detection | NLP and LLMs | Natural Language Processing | [2025](https://doi.org/10.1007/s10489-025-06765-y) (source only) |
 | AIH-00447 | Argument Mining | NLP and LLMs | Natural Language Processing | — |
 | AIH-00485 | Aspect-Based Sentiment Analysis (ABSA) | NLP and LLMs | Natural Language Processing | [2023](https://doi.org/10.1016/j.tmp.2022.101063) (source only) |
-| AIH-00523 | Attribute Conditioning | NLP and LLMs | Natural Language Processing | — |
-| AIH-00561 | Attribution | NLP and LLMs | Natural Language Processing | — |
-| AIH-00599 | Authorship Attribution | NLP and LLMs | Natural Language Processing | — |
-| AIH-00637 | Authorship Obfuscation | NLP and LLMs | Natural Language Processing | — |
-| AIH-00675 | Back-Translation | NLP and LLMs | Natural Language Processing | — |
-| AIH-00713 | Back-Translation Augmentation | NLP and LLMs | Natural Language Processing | — |
-| AIH-00751 | Bag of Words | NLP and LLMs | Natural Language Processing | — |
-| AIH-00789 | Barge-In | NLP and LLMs | Natural Language Processing | — |
+| AIH-00523 | Attribute Conditioning | NLP and LLMs | Natural Language Processing | [2014](https://doi.org/10.1080/17470218.2014.939667) (source only) |
+| AIH-00561 | Attribution | NLP and LLMs | Natural Language Processing | [1985](https://doi.org/10.1007/978-1-4612-5094-4_3) (source only) |
+| AIH-00599 | Authorship Attribution | NLP and LLMs | Natural Language Processing | [2006](https://doi.org/10.1016/b0-08-044854-2/00968-8) (source only) |
+| AIH-00637 | Authorship Obfuscation | NLP and LLMs | Natural Language Processing | [2010](https://doi.org/10.1145/1866423.1866427) (source only) |
+| AIH-00675 | Back-Translation | NLP and LLMs | Natural Language Processing | [1970](https://doi.org/10.1177/135910457000100301) (source only) |
+| AIH-00713 | Back-Translation Augmentation | NLP and LLMs | Natural Language Processing | [2023](https://doi.org/10.22329/uwdj.v1i1.8270) (source only) |
+| AIH-00751 | Bag of Words | NLP and LLMs | Natural Language Processing | [2009](https://doi.org/10.1109/cisis.2009.11) (source only) |
+| AIH-00789 | Barge-In | NLP and LLMs | Natural Language Processing | [2023](https://doi.org/10.1016/j.marstruc.2023.103444) (source only) |
 | AIH-00827 | Belief Update in Dialogue | NLP and LLMs | Natural Language Processing | — |
 | AIH-00865 | BERT (Bidirectional Encoder Representations from Transformers) | NLP and LLMs | Natural Language Processing | — |
 | AIH-00903 | BERTScore | NLP and LLMs | Natural Language Processing | — |
-| AIH-00941 | Bidirectional Encoder | NLP and LLMs | Natural Language Processing | — |
-| AIH-00979 | Bigram | NLP and LLMs | Natural Language Processing | — |
-| AIH-01017 | Bilingual Lexicon Induction | NLP and LLMs | Natural Language Processing | — |
-| AIH-01055 | Biomedical Text Mining | NLP and LLMs | Natural Language Processing | — |
+| AIH-00941 | Bidirectional Encoder | NLP and LLMs | Natural Language Processing | [2019](https://doi.org/10.21437/interspeech.2019-1355) (source only) |
+| AIH-00979 | Bigram | NLP and LLMs | Natural Language Processing | [1994](https://doi.org/10.21437/icslp.1994-231) (source only) |
+| AIH-01017 | Bilingual Lexicon Induction | NLP and LLMs | Natural Language Processing | [2015](https://doi.org/10.18653/v1/d15-1015) (source only) |
+| AIH-01055 | Biomedical Text Mining | NLP and LLMs | Natural Language Processing | [2010](https://doi.org/10.1201/9781420085938-35) (source only) |
 | AIH-01093 | BLEU | NLP and LLMs | Natural Language Processing | — |
 | AIH-01131 | BLEURT | NLP and LLMs | Natural Language Processing | — |
-| AIH-01169 | BM25 | NLP and LLMs | Natural Language Processing | — |
+| AIH-01169 | BM25 | NLP and LLMs | Natural Language Processing | [2009](https://doi.org/10.1145/1645953.1646237) (source only) |
 | AIH-01207 | Boilerplate Removal | NLP and LLMs | Natural Language Processing | — |
-| AIH-01245 | Burstiness of Words | NLP and LLMs | Natural Language Processing | — |
+| AIH-01245 | Burstiness of Words | NLP and LLMs | Natural Language Processing | [2010](https://doi.org/10.1016/j.ipm.2009.12.004) (source only) |
 | AIH-01283 | Byte Fallback | NLP and LLMs | Natural Language Processing | — |
-| AIH-01321 | Byte Pair Encoding (BPE) | NLP and LLMs | Natural Language Processing | — |
+| AIH-01321 | Byte Pair Encoding (BPE) | NLP and LLMs | Natural Language Processing | [2024](https://doi.org/10.32614/cran.package.rtiktoken) (source only) |
 | AIH-01359 | Byte-Level Tokenization | NLP and LLMs | Natural Language Processing | — |
-| AIH-01397 | Cataphora | NLP and LLMs | Natural Language Processing | — |
+| AIH-01397 | Cataphora | NLP and LLMs | Natural Language Processing | [1983](https://doi.org/10.1515/9783112420065-020) (source only) |
 | AIH-01435 | Causal Language Modelling (CLM) | NLP and LLMs | Natural Language Processing | — |
 | AIH-01473 | Chain-of-Thought (CoT) Prompting | NLP and LLMs | Natural Language Processing | — |
 | AIH-01511 | Character-Level Model | NLP and LLMs | Natural Language Processing | — |
@@ -477,29 +477,29 @@
 | AIH-00395 | AI Standards Body | People & Organizations | People & Organizations | — |
 | AIH-00433 | AI Startup Ecosystem | People & Organizations | People & Organizations | [2026](https://doi.org/10.1007/978-3-032-21940-4_11) (source only) |
 | AIH-00471 | AI Winter | People & Organizations | People & Organizations | [1995](https://doi.org/10.7551/mitpress/4301.003.0009) (source only) |
-| AIH-00509 | AIES | People & Organizations | People & Organizations | — |
-| AIH-00547 | Alan Turing | People & Organizations | People & Organizations | — |
-| AIH-00585 | Alex Krizhevsky | People & Organizations | People & Organizations | — |
+| AIH-00509 | AIES | People & Organizations | People & Organizations | [1995](https://doi.org/10.1016/0031-3203(94)00157-h) (source only) |
+| AIH-00547 | Alan Turing | People & Organizations | People & Organizations | [1989](https://doi.org/10.7551/mitpress/5485.003.0005) (source only) |
+| AIH-00585 | Alex Krizhevsky | People & Organizations | People & Organizations | [2026](https://doi.org/10.3390/engproc2026134084) (source only) |
 | AIH-00623 | Algorithmic Accountability Advocacy | People & Organizations | People & Organizations | — |
 | AIH-00661 | Allen Institute for AI (AI2) | People & Organizations | People & Organizations | — |
 | AIH-00699 | Allen Newell | People & Organizations | People & Organizations | — |
 | AIH-00737 | Andrew Barto | People & Organizations | People & Organizations | — |
-| AIH-00775 | Andrew Ng | People & Organizations | People & Organizations | — |
+| AIH-00775 | Andrew Ng | People & Organizations | People & Organizations | [2022](https://doi.org/10.1109/mspec.2022.9754503) (source only) |
 | AIH-00813 | Annotation Vendor | People & Organizations | People & Organizations | — |
 | AIH-00851 | Application Layer | People & Organizations | People & Organizations | — |
-| AIH-00889 | Arthur Samuel | People & Organizations | People & Organizations | — |
+| AIH-00889 | Arthur Samuel | People & Organizations | People & Organizations | [1992](https://doi.org/10.1147/rd.363.0329) (source only) |
 | AIH-00927 | arXiv | People & Organizations | People & Organizations | — |
 | AIH-00965 | Ashish Vaswani | People & Organizations | People & Organizations | — |
 | AIH-01003 | Auditing Firm | People & Organizations | People & Organizations | — |
-| AIH-01041 | Barbara Liskov | People & Organizations | People & Organizations | — |
+| AIH-01041 | Barbara Liskov | People & Organizations | People & Organizations | [1986](https://doi.org/10.1145/12923.1013575) (source only) |
 | AIH-01079 | Benchmark Maintainer | People & Organizations | People & Organizations | — |
 | AIH-01117 | Berkeley AI Research (BAIR) | People & Organizations | People & Organizations | — |
-| AIH-01155 | Bitter Lesson | People & Organizations | People & Organizations | — |
+| AIH-01155 | Bitter Lesson | People & Organizations | People & Organizations | [1989](https://doi.org/10.55540/0031-1723.1540) (source only) |
 | AIH-01193 | Brain Drain | People & Organizations | People & Organizations | — |
 | AIH-01231 | Broader Impact Statement | People & Organizations | People & Organizations | — |
 | AIH-01269 | Chelsea Finn | People & Organizations | People & Organizations | — |
 | AIH-01307 | Chip Designer | People & Organizations | People & Organizations | — |
-| AIH-01345 | Christopher Manning | People & Organizations | People & Organizations | — |
+| AIH-01345 | Christopher Manning | People & Organizations | People & Organizations | [2010](https://doi.org/10.1093/jahist/97.2.573) (source only) |
 | AIH-01383 | CIFAR | People & Organizations | People & Organizations | — |
 | AIH-01421 | Civil Society Organization | People & Organizations | People & Organizations | — |
 | AIH-01459 | Claude Shannon | People & Organizations | People & Organizations | — |

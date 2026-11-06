@@ -44,33 +44,33 @@
 | AIH-00393 | Cluster-GCN | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-00431 | Continuous-Time Dynamic Graph | Graph & Network Learning | Graph & Network Learning | [2020](https://doi.org/10.1145/3340531.3411946) (source only) |
 | AIH-00469 | Cypher | Graph & Network Learning | Graph & Network Learning | [2015](https://doi.org/10.1007/978-1-4842-1227-1_7) (source only) |
-| AIH-00507 | DeepWalk | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-00545 | DiffPool | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-00583 | Diffusion for Graphs | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-00621 | Distributed Graph Processing | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-00507 | DeepWalk | Graph & Network Learning | Graph & Network Learning | [2014](https://doi.org/10.1145/2623330.2623732) (source only) |
+| AIH-00545 | DiffPool | Graph & Network Learning | Graph & Network Learning | [2024](https://doi.org/10.1109/icacrs62842.2024.10841755) (source only) |
+| AIH-00583 | Diffusion for Graphs | Graph & Network Learning | Graph & Network Learning | [2019](https://doi.org/10.1017/s0004972719001102) (source only) |
+| AIH-00621 | Distributed Graph Processing | Graph & Network Learning | Graph & Network Learning | [2017](https://doi.org/10.1007/s41019-017-0034-4) (source only) |
 | AIH-00659 | Drug-Drug Interaction Prediction (DDI) | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-00697 | Dynamic Graph Network | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-00735 | E(3)-Equivariance | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-00773 | Edge Dropout | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-00811 | Edge Feature | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-00773 | Edge Dropout | Graph & Network Learning | Graph & Network Learning | [2016](https://doi.org/10.15363/thinklab.d215) (source only) |
+| AIH-00811 | Edge Feature | Graph & Network Learning | Graph & Network Learning | [1996](https://doi.org/10.1109/icpr.1996.546833) (source only) |
 | AIH-00849 | Edge-Level Task | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-00887 | Entity Alignment | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-00925 | Epidemic Model on Networks | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-00963 | Equivariant Graph Network | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-00925 | Epidemic Model on Networks | Graph & Network Learning | Graph & Network Learning | [2011](https://doi.org/10.1016/j.amc.2010.09.063) (source only) |
+| AIH-00963 | Equivariant Graph Network | Graph & Network Learning | Graph & Network Learning | [2025](https://doi.org/10.21203/rs.3.rs-6961427/v1) (source only) |
 | AIH-01001 | Expressive Power of GNNs | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-01039 | Fraud Ring Detection | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-01077 | GNNExplainer | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-01039 | Fraud Ring Detection | Graph & Network Learning | Graph & Network Learning | [2025](https://doi.org/10.1109/iccvdm66874.2025.11290341) (source only) |
+| AIH-01077 | GNNExplainer | Graph & Network Learning | Graph & Network Learning | [2022](https://doi.org/10.1109/icpr56361.2022.9956201) (source only) |
 | AIH-01115 | Graph Adversarial Attack | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-01153 | Graph Anomaly Detection | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-01191 | Graph Augmentation | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-01191 | Graph Augmentation | Graph & Network Learning | Graph & Network Learning | [2012](https://doi.org/10.1109/icnc.2012.75) (source only) |
 | AIH-01229 | Graph Coarsening | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-01267 | Graph Contrastive Learning | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-01305 | Graph Convolutional Network (GCN) | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-01305 | Graph Convolutional Network (GCN) | Graph & Network Learning | Graph & Network Learning | [2024](https://doi.org/10.1109/comnet64071.2024.10987419) (source only) |
 | AIH-01343 | Graph Database | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-01381 | Graph Embedding Index | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-01419 | Graph Explainability | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-01457 | Graph Fourier Transform | Graph & Network Learning | Graph & Network Learning | — |
-| AIH-01495 | Graph Generation | Graph & Network Learning | Graph & Network Learning | — |
+| AIH-01457 | Graph Fourier Transform | Graph & Network Learning | Graph & Network Learning | [2012](https://doi.org/10.1109/ssp.2012.6319640) (source only) |
+| AIH-01495 | Graph Generation | Graph & Network Learning | Graph & Network Learning | [2006](https://doi.org/10.1201/9781584887195-6) (source only) |
 | AIH-01533 | Graph Neural Network Benchmark | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-01571 | Graph Normalization | Graph & Network Learning | Graph & Network Learning | — |
 | AIH-01609 | Graph Partitioning | Graph & Network Learning | Graph & Network Learning | — |
@@ -155,33 +155,33 @@
 | AIH-00394 | Boolean Retrieval | Information Retrieval | Information Retrieval | — |
 | AIH-00432 | Boosting in Search | Information Retrieval | Information Retrieval | — |
 | AIH-00470 | Caching in Search | Information Retrieval | Information Retrieval | — |
-| AIH-00508 | Candidate Set Size | Information Retrieval | Information Retrieval | — |
+| AIH-00508 | Candidate Set Size | Information Retrieval | Information Retrieval | [2004](https://openalex.org/W2053457551) (source only) |
 | AIH-00546 | Canonical URL | Information Retrieval | Information Retrieval | — |
-| AIH-00584 | Cascade Click Model | Information Retrieval | Information Retrieval | — |
-| AIH-00622 | Chunk Retrieval | Information Retrieval | Information Retrieval | — |
-| AIH-00660 | Click Model | Information Retrieval | Information Retrieval | — |
+| AIH-00584 | Cascade Click Model | Information Retrieval | Information Retrieval | [2021](https://doi.org/10.48550/arxiv.2111.11314) (source only) |
+| AIH-00622 | Chunk Retrieval | Information Retrieval | Information Retrieval | [2010](https://doi.org/10.1109/icime.2010.5477651) (source only) |
+| AIH-00660 | Click Model | Information Retrieval | Information Retrieval | [2008](https://doi.org/10.2753/jec1086-4415130202) (source only) |
 | AIH-00698 | Click Position Debiasing | Information Retrieval | Information Retrieval | — |
-| AIH-00736 | Cloaking | Information Retrieval | Information Retrieval | — |
-| AIH-00774 | Context Assembly | Information Retrieval | Information Retrieval | — |
+| AIH-00736 | Cloaking | Information Retrieval | Information Retrieval | [1996](https://doi.org/10.5117/9789053561799) (source only) |
+| AIH-00774 | Context Assembly | Information Retrieval | Information Retrieval | [2026](https://doi.org/10.2139/ssrn.7415278) (source only) |
 | AIH-00812 | Context Precision | Information Retrieval | Information Retrieval | — |
 | AIH-00850 | Context Recall | Information Retrieval | Information Retrieval | — |
 | AIH-00888 | Conversational Context in Search | Information Retrieval | Information Retrieval | — |
 | AIH-00926 | Counterfactual Learning to Rank | Information Retrieval | Information Retrieval | — |
 | AIH-00964 | Crawl Budget | Information Retrieval | Information Retrieval | — |
-| AIH-01002 | Crawler | Information Retrieval | Information Retrieval | — |
-| AIH-01040 | Did You Mean | Information Retrieval | Information Retrieval | — |
+| AIH-01002 | Crawler | Information Retrieval | Information Retrieval | [2000](https://doi.org/10.2172/766286) (source only) |
+| AIH-01040 | Did You Mean | Information Retrieval | Information Retrieval | [1992](https://doi.org/10.1515/humr.1992.5.4.357) (source only) |
 | AIH-01078 | Dirichlet Smoothing | Information Retrieval | Information Retrieval | — |
-| AIH-01116 | Document Length Normalization | Information Retrieval | Information Retrieval | — |
+| AIH-01116 | Document Length Normalization | Information Retrieval | Information Retrieval | [1996](https://doi.org/10.1016/0306-4573(96)00008-8) (source only) |
 | AIH-01154 | Document Static Features | Information Retrieval | Information Retrieval | — |
 | AIH-01192 | Duplicate Content Detection | Information Retrieval | Information Retrieval | — |
-| AIH-01230 | Dwell Time | Information Retrieval | Information Retrieval | — |
+| AIH-01230 | Dwell Time | Information Retrieval | Information Retrieval | [1956](https://doi.org/10.2172/4357081) (source only) |
 | AIH-01268 | Early Termination | Information Retrieval | Information Retrieval | — |
 | AIH-01306 | Embedding Dimensionality Choice | Information Retrieval | Information Retrieval | — |
 | AIH-01344 | Entity Recognition in Queries | Information Retrieval | Information Retrieval | — |
 | AIH-01382 | Examination Hypothesis | Information Retrieval | Information Retrieval | — |
 | AIH-01420 | Expected Reciprocal Rank (ERR) | Information Retrieval | Information Retrieval | — |
 | AIH-01458 | Exploratory Search | Information Retrieval | Information Retrieval | — |
-| AIH-01496 | Faceted Search | Information Retrieval | Information Retrieval | — |
+| AIH-01496 | Faceted Search | Information Retrieval | Information Retrieval | [2007](https://doi.org/10.1109/dexa.2007.75) (source only) |
 | AIH-01534 | Feature Store for Ranking | Information Retrieval | Information Retrieval | — |
 | AIH-01572 | Federated Search | Information Retrieval | Information Retrieval | — |
 | AIH-01610 | Field Weighting | Information Retrieval | Information Retrieval | — |
@@ -293,32 +293,32 @@
 | AIH-00405 | Adjusted Rand Index (ARI) | Machine Learning | Machine Learning | — |
 | AIH-00443 | ADWIN | Machine Learning | Machine Learning | [2019](https://doi.org/10.1007/978-3-319-77525-8_100005) (source only) |
 | AIH-00481 | Affinity Matrix | Machine Learning | Machine Learning | [1979](https://doi.org/10.1016/0014-5793(79)81030-3) (source only) |
-| AIH-00519 | Affinity Propagation | Machine Learning | Machine Learning | — |
-| AIH-00557 | Agglomerative Clustering | Machine Learning | Machine Learning | — |
-| AIH-00595 | AIXI | Machine Learning | Machine Learning | — |
-| AIH-00633 | Algorithmic inference | Machine Learning | Machine Learning | — |
+| AIH-00519 | Affinity Propagation | Machine Learning | Machine Learning | [2004](https://doi.org/10.1002/9780471650126.dob0801) (source only) |
+| AIH-00557 | Agglomerative Clustering | Machine Learning | Machine Learning | [1978](https://doi.org/10.1016/0031-3203(78)90018-3) (source only) |
+| AIH-00595 | AIXI | Machine Learning | Machine Learning | [2005](https://doi.org/10.1007/3-540-26877-4_5) (source only) |
+| AIH-00633 | Algorithmic inference | Machine Learning | Machine Learning | [2005](https://doi.org/10.1109/tnn.2005.853003) (source only) |
 | AIH-00671 | Algorithmic Stability Bound | Machine Learning | Machine Learning | — |
-| AIH-00709 | Annotation Budget | Machine Learning | Machine Learning | — |
-| AIH-00747 | Anomaly Detection | Machine Learning | Machine Learning | — |
+| AIH-00709 | Annotation Budget | Machine Learning | Machine Learning | [2023](https://doi.org/10.1109/cvpr52729.2023.02271) (source only) |
+| AIH-00747 | Anomaly Detection | Machine Learning | Machine Learning | [2013](https://doi.org/10.1201/b15088-14) (source only) |
 | AIH-00785 | Anomaly Score | Machine Learning | Machine Learning | — |
 | AIH-00823 | Anti-Curriculum | Machine Learning | Machine Learning | — |
-| AIH-00861 | Apprenticeship learning | Machine Learning | Machine Learning | — |
-| AIH-00899 | Approximate Nearest Neighbor (ANN) | Machine Learning | Machine Learning | — |
+| AIH-00861 | Apprenticeship learning | Machine Learning | Machine Learning | [1990](https://doi.org/10.1016/b978-0-08-051055-2.50028-6) (source only) |
+| AIH-00899 | Approximate Nearest Neighbor (ANN) | Machine Learning | Machine Learning | [2011](https://doi.org/10.1090/surv/173/20) (source only) |
 | AIH-00937 | Approximate Unlearning | Machine Learning | Machine Learning | — |
-| AIH-00975 | Apriori Algorithm | Machine Learning | Machine Learning | — |
+| AIH-00975 | Apriori Algorithm | Machine Learning | Machine Learning | [1999](https://doi.org/10.6028/nist.sp.500-246.adhoc-kasetsart) (source only) |
 | AIH-01013 | Aspect Ratio of a Model | Machine Learning | Machine Learning | — |
-| AIH-01051 | Association Rule Mining | Machine Learning | Machine Learning | — |
-| AIH-01089 | Astrostatistics | Machine Learning | Machine Learning | — |
+| AIH-01051 | Association Rule Mining | Machine Learning | Machine Learning | [2004](https://doi.org/10.1002/9780471650126.dob0810) (source only) |
+| AIH-01089 | Astrostatistics | Machine Learning | Machine Learning | [1996](https://doi.org/10.2307/2532875) (source only) |
 | AIH-01127 | Attention Logit Growth | Machine Learning | Machine Learning | — |
 | AIH-01165 | Attention Mask Efficiency | Machine Learning | Machine Learning | — |
-| AIH-01203 | Attribute | Machine Learning | Machine Learning | — |
-| AIH-01241 | AutoAugment | Machine Learning | Machine Learning | — |
+| AIH-01203 | Attribute | Machine Learning | Machine Learning | [1978](https://doi.org/10.1007/978-94-009-9874-2_1) (source only) |
+| AIH-01241 | AutoAugment | Machine Learning | Machine Learning | [2019](https://doi.org/10.1109/cvpr.2019.00020) (source only) |
 | AIH-01279 | Autoencoder Anomaly Detection | Machine Learning | Machine Learning | — |
 | AIH-01317 | Autoencoder Bottleneck | Machine Learning | Machine Learning | — |
-| AIH-01355 | AutoML | Machine Learning | Machine Learning | — |
+| AIH-01355 | AutoML | Machine Learning | Machine Learning | [2018](https://doi.org/10.32614/cran.package.automl) (source only) |
 | AIH-01393 | Average Linkage | Machine Learning | Machine Learning | — |
 | AIH-01431 | Axis-Aligned Split | Machine Learning | Machine Learning | — |
-| AIH-01469 | Bag-of-words model (BoW) | Machine Learning | Machine Learning | — |
+| AIH-01469 | Bag-of-words model (BoW) | Machine Learning | Machine Learning | [2016](https://doi.org/10.2307/jj.15135955.93) (source only) |
 | AIH-01507 | Bagging | Machine Learning | Machine Learning | — |
 | AIH-01545 | Ball tree | Machine Learning | Machine Learning | — |
 | AIH-01583 | Barlow Twins | Machine Learning | Machine Learning | — |
@@ -441,42 +441,42 @@
 | AIH-00417 | Adversarial Sequence | Mathematics | Mathematics & Statistics | [2021](https://doi.org/10.1109/tip.2021.3066903) (source only) |
 | AIH-00455 | Affine Transformation | Mathematics | Mathematics & Statistics | [1989](https://doi.org/10.21236/ada210106) (source only) |
 | AIH-00493 | Agnostic Learning | Mathematics | Mathematics & Statistics | [1992](https://doi.org/10.1145/130385.130424) (source only) |
-| AIH-00531 | Akaike Information Criterion (AIC) | Mathematics | Mathematics & Statistics | — |
+| AIH-00531 | Akaike Information Criterion (AIC) | Mathematics | Mathematics & Statistics | [1990](https://doi.org/10.1002/syn.890050207) (source only) |
 | AIH-00153 | Aleatoric Uncertainty | Mathematics | Probabilistic Methods | [2013](https://doi.org/10.1115/detc2013-13234) (source only) |
-| AIH-00569 | Alias Method | Mathematics | Mathematics & Statistics | — |
-| AIH-00607 | Almost Everywhere | Mathematics | Mathematics & Statistics | — |
-| AIH-00645 | Alternating Least Squares (ALS) | Mathematics | Mathematics & Statistics | — |
-| AIH-00683 | Alternative Hypothesis | Mathematics | Mathematics & Statistics | — |
+| AIH-00569 | Alias Method | Mathematics | Mathematics & Statistics | [1979](https://doi.org/10.1080/00031305.1979.10482697) (source only) |
+| AIH-00607 | Almost Everywhere | Mathematics | Mathematics & Statistics | [1958](https://doi.org/10.29173/bluejay2834) (source only) |
+| AIH-00645 | Alternating Least Squares (ALS) | Mathematics | Mathematics & Statistics | [1988](https://doi.org/10.1080/02331938808843383) (source only) |
+| AIH-00683 | Alternative Hypothesis | Mathematics | Mathematics & Statistics | [1967](https://doi.org/10.2307/2799493) (source only) |
 | AIH-00721 | Always-Valid P-Value | Mathematics | Mathematics & Statistics | — |
-| AIH-00759 | Ambiguous Grammar | Mathematics | Mathematics & Statistics | — |
-| AIH-00797 | Amdahl's Law | Mathematics | Mathematics & Statistics | — |
+| AIH-00759 | Ambiguous Grammar | Mathematics | Mathematics & Statistics | [2010](https://doi.org/10.1109/iccit.2010.5711150) (source only) |
+| AIH-00797 | Amdahl's Law | Mathematics | Mathematics & Statistics | [2007](https://doi.org/10.1109/n-ssc.2007.4785612) (source only) |
 | AIH-00835 | Amortized Analysis | Mathematics | Mathematics & Statistics | — |
 | AIH-00191 | Amortized Inference | Mathematics | Probabilistic Methods | [2015](https://doi.org/10.1609/aaai.v29i1.9535) (source only) |
-| AIH-00873 | Analysis of Variance (ANOVA) | Mathematics | Mathematics & Statistics | — |
-| AIH-00911 | Analytic Function | Mathematics | Mathematics & Statistics | — |
+| AIH-00873 | Analysis of Variance (ANOVA) | Mathematics | Mathematics & Statistics | [1986](https://doi.org/10.1017/cbo9781139165891.013) (source only) |
+| AIH-00911 | Analytic Function | Mathematics | Mathematics & Statistics | [1971](https://doi.org/10.1016/b978-0-12-240801-4.50010-8) (source only) |
 | AIH-00229 | Ancestral Sampling | Mathematics | Probabilistic Methods | [2024](https://doi.org/10.1109/cvpr52733.2024.00192) (source only) |
 | AIH-00267 | Ancillary Statistic | Mathematics | Probabilistic Methods | [1961](https://doi.org/10.1214/aoms/1177705071) (source only) |
 | AIH-00949 | Anderson-Darling Test | Mathematics | Mathematics & Statistics | — |
-| AIH-00987 | Anisotropy | Mathematics | Mathematics & Statistics | — |
+| AIH-00987 | Anisotropy | Mathematics | Mathematics & Statistics | [1977](https://doi.org/10.1007/978-1-4684-0781-5_5) (source only) |
 | AIH-00305 | Annealed Importance Sampling (AIS) | Mathematics | Probabilistic Methods | — |
-| AIH-01025 | Ant Colony Optimization (ACO) | Mathematics | Mathematics & Statistics | — |
+| AIH-01025 | Ant Colony Optimization (ACO) | Mathematics | Mathematics & Statistics | [2006](https://doi.org/10.1080/09720502.2006.10700434) (source only) |
 | AIH-00343 | Antithetic Variates | Mathematics | Probabilistic Methods | [1956](https://doi.org/10.1017/s0305004100031467) (source only) |
 | AIH-00494 | Anytime Optimization | Mathematics | Optimization | [2008](https://doi.org/10.1016/j.ejor.2006.12.062) (source only) |
 | AIH-01063 | Approximation Algorithm | Mathematics | Mathematics & Statistics | — |
 | AIH-01101 | Approximation Error | Mathematics | Mathematics & Statistics | — |
 | AIH-01139 | Approximation Ratio | Mathematics | Mathematics & Statistics | — |
-| AIH-01177 | Arbitrary Precision Arithmetic | Mathematics | Mathematics & Statistics | — |
-| AIH-01215 | Arc Consistency | Mathematics | Mathematics & Statistics | — |
-| AIH-01253 | Argmax | Mathematics | Mathematics & Statistics | — |
-| AIH-01291 | Argmin | Mathematics | Mathematics & Statistics | — |
+| AIH-01177 | Arbitrary Precision Arithmetic | Mathematics | Mathematics & Statistics | [1971](https://doi.org/10.6028/nbs.rpt.10563) (source only) |
+| AIH-01215 | Arc Consistency | Mathematics | Mathematics & Statistics | [1988](https://doi.org/10.1007/978-3-642-83462-2_14) (source only) |
+| AIH-01253 | Argmax | Mathematics | Mathematics & Statistics | [2003](https://doi.org/10.5860/choice.41-1656) (source only) |
+| AIH-01291 | Argmin | Mathematics | Mathematics & Statistics | [2002](https://doi.org/10.1023/a:1020990912095) (source only) |
 | AIH-01329 | Argument of a Complex Number | Mathematics | Mathematics & Statistics | — |
-| AIH-00532 | Armijo Condition | Mathematics | Optimization | — |
-| AIH-01367 | Arnoldi Iteration | Mathematics | Mathematics & Statistics | — |
+| AIH-00532 | Armijo Condition | Mathematics | Optimization | [2021](https://doi.org/10.1109/cdc45484.2021.9682982) (source only) |
+| AIH-01367 | Arnoldi Iteration | Mathematics | Mathematics & Statistics | [1995](https://doi.org/10.1016/0168-9274(95)00060-8) (source only) |
 | AIH-01405 | Assouad's Lemma | Mathematics | Mathematics & Statistics | — |
 | AIH-01443 | Asymptotic Analysis | Mathematics | Mathematics & Statistics | — |
 | AIH-00381 | Asymptotic Normality | Mathematics | Probabilistic Methods | — |
 | AIH-01481 | Augmented Dickey-Fuller Test (ADF) | Mathematics | Mathematics & Statistics | — |
-| AIH-00570 | Augmented Lagrangian | Mathematics | Optimization | — |
+| AIH-00570 | Augmented Lagrangian | Mathematics | Optimization | [1978](https://doi.org/10.1016/b978-0-12-468660-1.50006-2) (source only) |
 | AIH-01519 | Autocorrelation | Mathematics | Mathematics & Statistics | — |
 | AIH-00419 | Autocorrelation Time | Mathematics | Probabilistic Methods | [1985](https://doi.org/10.1016/0375-9601(85)90478-5) (source only) |
 | AIH-01557 | Automatic Sparsity Detection | Mathematics | Mathematics & Statistics | — |
@@ -484,16 +484,16 @@
 | AIH-01633 | B-Tree | Mathematics | Mathematics & Statistics | — |
 | AIH-01671 | Backjumping | Mathematics | Mathematics & Statistics | — |
 | AIH-01709 | Backtracking | Mathematics | Mathematics & Statistics | — |
-| AIH-00608 | Backtracking Line Search | Mathematics | Optimization | — |
+| AIH-00608 | Backtracking Line Search | Mathematics | Optimization | [2010](https://openalex.org/W2368213454) (source only) |
 | AIH-01747 | Backward Stability | Mathematics | Mathematics & Statistics | — |
 | AIH-01785 | Balanced Tree | Mathematics | Mathematics & Statistics | — |
 | AIH-01823 | Banach Fixed-Point Theorem | Mathematics | Mathematics & Statistics | — |
 | AIH-01861 | Banach Space | Mathematics | Mathematics & Statistics | — |
 | AIH-01899 | Bandit Experiment | Mathematics | Mathematics & Statistics | — |
-| AIH-00646 | Bandit Feedback | Mathematics | Optimization | — |
+| AIH-00646 | Bandit Feedback | Mathematics | Optimization | [2012](https://doi.org/10.1007/s10994-012-5321-8) (source only) |
 | AIH-01937 | Bandwidth Selection | Mathematics | Mathematics & Statistics | — |
 | AIH-01975 | Bandwidth Tradeoff | Mathematics | Mathematics & Statistics | — |
-| AIH-00684 | Barrier Function | Mathematics | Optimization | — |
+| AIH-00684 | Barrier Function | Mathematics | Optimization | [2001](https://doi.org/10.1201/b14036-5) (source only) |
 | AIH-00722 | Barrier Parameter | Mathematics | Optimization | — |
 | AIH-02013 | Base Rate Fallacy | Mathematics | Mathematics & Statistics | — |
 | AIH-02051 | Basis | Mathematics | Mathematics & Statistics | — |
@@ -504,8 +504,8 @@
 | AIH-02127 | Bayes Optimal Predictor | Mathematics | Mathematics & Statistics | — |
 | AIH-00495 | Bayes' Theorem | Mathematics | Probabilistic Methods | [1924](https://doi.org/10.2307/2331920) (source only) |
 | AIH-02165 | Bayesian Information Criterion (BIC) | Mathematics | Mathematics & Statistics | — |
-| AIH-00533 | Bayesian Network (BN) | Mathematics | Probabilistic Methods | — |
-| AIH-00571 | Bayesian Neural Network (BNN) | Mathematics | Probabilistic Methods | — |
+| AIH-00533 | Bayesian Network (BN) | Mathematics | Probabilistic Methods | [2001](https://doi.org/10.1002/mop.1212) (source only) |
+| AIH-00571 | Bayesian Neural Network (BNN) | Mathematics | Probabilistic Methods | [2021](https://openalex.org/W3212348872) (source only) |
 
 — means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.
 

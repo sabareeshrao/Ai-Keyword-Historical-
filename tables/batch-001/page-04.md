@@ -9,21 +9,21 @@
 | AIH-00807 | Depth Buffer | Computer Graphics | Computer Graphics | — |
 | AIH-00845 | Determinism in Simulation | Computer Graphics | Computer Graphics | — |
 | AIH-00883 | Displacement Map | Computer Graphics | Computer Graphics | — |
-| AIH-00921 | Draw Call | Computer Graphics | Computer Graphics | — |
+| AIH-00921 | Draw Call | Computer Graphics | Computer Graphics | [2018](https://doi.org/10.1007/s00371-018-1484-z) (source only) |
 | AIH-00959 | Eye Tracking in Displays | Computer Graphics | Computer Graphics | — |
 | AIH-00997 | Fluid Simulation | Computer Graphics | Computer Graphics | — |
 | AIH-01035 | Forward Rendering | Computer Graphics | Computer Graphics | — |
-| AIH-01073 | Foveated Rendering | Computer Graphics | Computer Graphics | — |
+| AIH-01073 | Foveated Rendering | Computer Graphics | Computer Graphics | [2015](https://doi.org/10.1145/2824840.2824863) (source only) |
 | AIH-01111 | Fragment Shader | Computer Graphics | Computer Graphics | — |
 | AIH-01149 | Frame Budget | Computer Graphics | Computer Graphics | — |
-| AIH-01187 | Frame Generation | Computer Graphics | Computer Graphics | — |
-| AIH-01225 | Framebuffer | Computer Graphics | Computer Graphics | — |
+| AIH-01187 | Frame Generation | Computer Graphics | Computer Graphics | [2007](https://doi.org/10.1142/9789812708823_0012) (source only) |
+| AIH-01225 | Framebuffer | Computer Graphics | Computer Graphics | [1986](https://doi.org/10.3758/bf03201433) (source only) |
 | AIH-01263 | Frustum Culling | Computer Graphics | Computer Graphics | — |
-| AIH-01301 | Gamma Space | Computer Graphics | Computer Graphics | — |
+| AIH-01301 | Gamma Space | Computer Graphics | Computer Graphics | [2005](https://doi.org/10.1002/0471743984.vse3514) (source only) |
 | AIH-01339 | Global Illumination (GI) | Computer Graphics | Computer Graphics | — |
-| AIH-01377 | GPU Profiling | Computer Graphics | Computer Graphics | — |
-| AIH-01415 | Hand Tracking | Computer Graphics | Computer Graphics | — |
-| AIH-01453 | Head-Mounted Display (HMD) | Computer Graphics | Computer Graphics | — |
+| AIH-01377 | GPU Profiling | Computer Graphics | Computer Graphics | [2015](https://doi.org/10.1016/b978-0-12-800726-6.00010-0) (source only) |
+| AIH-01415 | Hand Tracking | Computer Graphics | Computer Graphics | [2007](https://doi.org/10.5772/4942) (source only) |
+| AIH-01453 | Head-Mounted Display (HMD) | Computer Graphics | Computer Graphics | [1998](https://doi.org/10.1016/s0042-6989(97)00397-0) (source only) |
 | AIH-01491 | High Dynamic Range (HDR) | Computer Graphics | Computer Graphics | — |
 | AIH-01529 | Instancing | Computer Graphics | Computer Graphics | — |
 | AIH-01567 | Keyframe Animation | Computer Graphics | Computer Graphics | — |
@@ -86,32 +86,32 @@
 | AIH-00414 | Affine Augmentation | Computer Vision | Computer Vision | — |
 | AIH-00452 | Alpha Matting | Computer Vision | Computer Vision | [2005](https://doi.org/10.1007/11567646_16) (source only) |
 | AIH-00490 | Anchor Box | Computer Vision | Computer Vision | [1965](https://doi.org/10.1016/0011-7471(65)90816-8) (source only) |
-| AIH-00528 | Anchor-Free Detection | Computer Vision | Computer Vision | — |
-| AIH-00566 | Anomaly Detection in Images | Computer Vision | Computer Vision | — |
-| AIH-00604 | Aspect Ratio | Computer Vision | Computer Vision | — |
-| AIH-00642 | Aspect Ratio Distortion | Computer Vision | Computer Vision | — |
-| AIH-00680 | Atrous Spatial Pyramid Pooling (ASPP) | Computer Vision | Computer Vision | — |
+| AIH-00528 | Anchor-Free Detection | Computer Vision | Computer Vision | [2020](https://doi.org/10.1109/icsip49896.2020.9339250) (source only) |
+| AIH-00566 | Anomaly Detection in Images | Computer Vision | Computer Vision | [2015](https://doi.org/10.1080/00401706.2015.1102764) (source only) |
+| AIH-00604 | Aspect Ratio | Computer Vision | Computer Vision | [1940](https://openalex.org/W268125961) (source only) |
+| AIH-00642 | Aspect Ratio Distortion | Computer Vision | Computer Vision | [2012](https://doi.org/10.1109/icmew.2012.101) (source only) |
+| AIH-00680 | Atrous Spatial Pyramid Pooling (ASPP) | Computer Vision | Computer Vision | [2023](https://doi.org/10.1109/spin57001.2023.10116882) (source only) |
 | AIH-00718 | Attention Map Visualization | Computer Vision | Computer Vision | — |
 | AIH-00756 | Audio-Visual Correspondence | Computer Vision | Computer Vision | — |
-| AIH-00794 | Background Replacement | Computer Vision | Computer Vision | — |
+| AIH-00794 | Background Replacement | Computer Vision | Computer Vision | [1984](https://doi.org/10.1093/genetics/108.1.181) (source only) |
 | AIH-00832 | Background Robustness | Computer Vision | Computer Vision | — |
 | AIH-00870 | Background Subtraction | Computer Vision | Computer Vision | — |
-| AIH-00908 | Bag of Visual Words (BoVW) | Computer Vision | Computer Vision | — |
+| AIH-00908 | Bag of Visual Words (BoVW) | Computer Vision | Computer Vision | [2016](https://doi.org/10.1145/2976796.2988178) (source only) |
 | AIH-00946 | Bicubic Interpolation | Computer Vision | Computer Vision | — |
-| AIH-00984 | Bilateral Filter | Computer Vision | Computer Vision | — |
+| AIH-00984 | Bilateral Filter | Computer Vision | Computer Vision | [2005](https://doi.org/10.1109/iembs.2005.1617216) (source only) |
 | AIH-01022 | Bilinear Interpolation | Computer Vision | Computer Vision | — |
 | AIH-01060 | Bird's Eye View Representation (BEV) | Computer Vision | Computer Vision | — |
 | AIH-01098 | Bit Depth in Images | Computer Vision | Computer Vision | — |
-| AIH-01136 | Blob Detection | Computer Vision | Computer Vision | — |
-| AIH-01174 | Bokeh Simulation | Computer Vision | Computer Vision | — |
-| AIH-01212 | Bottom-Up Pose Estimation | Computer Vision | Computer Vision | — |
-| AIH-01250 | Boundary Loss | Computer Vision | Computer Vision | — |
-| AIH-01288 | Bounding Box | Computer Vision | Computer Vision | — |
+| AIH-01136 | Blob Detection | Computer Vision | Computer Vision | [1979](https://doi.org/10.21236/ada086190) (source only) |
+| AIH-01174 | Bokeh Simulation | Computer Vision | Computer Vision | [2019](https://doi.org/10.1364/freeform.2019.jt5a.10) (source only) |
+| AIH-01212 | Bottom-Up Pose Estimation | Computer Vision | Computer Vision | [2018](https://doi.org/10.1109/icpr.2018.8546194) (source only) |
+| AIH-01250 | Boundary Loss | Computer Vision | Computer Vision | [2025](https://doi.org/10.7780/kjrs.2025.41.2.1.9) (source only) |
+| AIH-01288 | Bounding Box | Computer Vision | Computer Vision | [2000](https://doi.org/10.1007/1-4020-0613-6_1803) (source only) |
 | AIH-01326 | Bundle Adjustment (BA) | Computer Vision | Computer Vision | — |
-| AIH-01364 | Camera Calibration | Computer Vision | Computer Vision | — |
-| AIH-01402 | Camera Pose Estimation | Computer Vision | Computer Vision | — |
+| AIH-01364 | Camera Calibration | Computer Vision | Computer Vision | [1990](https://doi.org/10.1163/156855391x00232) (source only) |
+| AIH-01402 | Camera Pose Estimation | Computer Vision | Computer Vision | [2006](https://doi.org/10.1109/icpr.2006.999) (source only) |
 | AIH-01440 | Camera Response Function | Computer Vision | Computer Vision | — |
-| AIH-01478 | Caption Filtering | Computer Vision | Computer Vision | — |
+| AIH-01478 | Caption Filtering | Computer Vision | Computer Vision | [2014](https://doi.org/10.1017/s0958344014000214) (source only) |
 | AIH-01516 | Catastrophic Forgetting in Vision | Computer Vision | Computer Vision | — |
 | AIH-01554 | Center Crop | Computer Vision | Computer Vision | — |
 | AIH-01592 | Certified Robustness | Computer Vision | Computer Vision | — |
@@ -222,15 +222,15 @@
 | AIH-00390 | Aggregation Threshold | Data Science | Data Science | — |
 | AIH-00428 | Alerting on Data Quality | Data Science | Data Science | — |
 | AIH-00466 | Alerting on Metrics | Data Science | Data Science | — |
-| AIH-00504 | Analytics Engineering | Data Science | Data Science | — |
-| AIH-00542 | Analytics Maturity | Data Science | Data Science | — |
+| AIH-00504 | Analytics Engineering | Data Science | Data Science | [2019](https://doi.org/10.62973/19-026) (source only) |
+| AIH-00542 | Analytics Maturity | Data Science | Data Science | [2015](https://doi.org/10.69554/mcva7776) (source only) |
 | AIH-00580 | Annotation Cost Model | Data Science | Data Science | — |
 | AIH-00618 | Annotation in Charts | Data Science | Data Science | — |
-| AIH-00656 | Annotation Interface | Data Science | Data Science | — |
-| AIH-00694 | Anti-Join | Data Science | Data Science | — |
+| AIH-00656 | Annotation Interface | Data Science | Data Science | [2006](https://doi.org/10.1109/have.2006.283798) (source only) |
+| AIH-00694 | Anti-Join | Data Science | Data Science | [1993](https://doi.org/10.1016/0012-365x(93)90123-b) (source only) |
 | AIH-00732 | As-Of Join | Data Science | Data Science | — |
 | AIH-00770 | Attribution Modelling | Data Science | Data Science | — |
-| AIH-00808 | Axis Truncation | Data Science | Data Science | — |
+| AIH-00808 | Axis Truncation | Data Science | Data Science | [2024](https://doi.org/10.31219/osf.io/zny4j) (source only) |
 | AIH-00846 | Bitemporal Modelling | Data Science | Data Science | — |
 | AIH-00884 | Break-Even Analysis | Data Science | Data Science | — |
 | AIH-00922 | Business Case | Data Science | Data Science | — |
@@ -238,13 +238,13 @@
 | AIH-00998 | Cannibalization Analysis | Data Science | Data Science | — |
 | AIH-01036 | Cardinality of a Relationship | Data Science | Data Science | — |
 | AIH-01074 | Chart Junk | Data Science | Data Science | — |
-| AIH-01112 | Choropleth Map | Data Science | Data Science | — |
-| AIH-01150 | Churn | Data Science | Data Science | — |
-| AIH-01188 | Churn Prediction | Data Science | Data Science | — |
+| AIH-01112 | Choropleth Map | Data Science | Data Science | [1972](https://doi.org/10.3138/k775-4923-8185-0341) (source only) |
+| AIH-01150 | Churn | Data Science | Data Science | [2012](https://doi.org/10.1109/sysose.2012.6333546) (source only) |
+| AIH-01188 | Churn Prediction | Data Science | Data Science | [2012](https://doi.org/10.1109/sysose.2012.6333546) (source only) |
 | AIH-01226 | Circuit Breaker for Pipelines | Data Science | Data Science | — |
 | AIH-01264 | Clustering for Segmentation | Data Science | Data Science | — |
 | AIH-01302 | Cohen's Kappa | Data Science | Data Science | — |
-| AIH-01340 | Cohort Analysis | Data Science | Data Science | — |
+| AIH-01340 | Cohort Analysis | Data Science | Data Science | [1985](https://doi.org/10.1007/978-1-4613-8536-3_6) (source only) |
 | AIH-01378 | Colour Blindness Accessibility | Data Science | Data Science | — |
 | AIH-01416 | Colour Scale Selection | Data Science | Data Science | — |
 | AIH-01454 | Column-Level Lineage | Data Science | Data Science | — |
@@ -359,11 +359,11 @@
 | AIH-00391 | AlpacaEval | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-00429 | Amazon Reviews Dataset | Datasets & Benchmarks | Datasets & Benchmarks | [2023](https://doi.org/10.22214/ijraset.2023.48678) (source only) |
 | AIH-00467 | APPS | Datasets & Benchmarks | Datasets & Benchmarks | [2026](https://doi.org/10.1007/979-8-8688-1817-2_15) (source only) |
-| AIH-00505 | ARC Benchmark | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-00543 | Arena-Hard | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-00581 | AudioSet | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-00505 | ARC Benchmark | Datasets & Benchmarks | Datasets & Benchmarks | [2026](https://doi.org/10.18653/2026.emnlp-main.99) (source only) |
+| AIH-00543 | Arena-Hard | Datasets & Benchmarks | Datasets & Benchmarks | [2024](https://doi.org/10.57702/e3wlulb5) (source only) |
+| AIH-00581 | AudioSet | Datasets & Benchmarks | Datasets & Benchmarks | [2018](https://doi.org/10.48550/arxiv.1807.09902) (source only) |
 | AIH-00619 | Avazu Dataset | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-00657 | BEIR | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-00657 | BEIR | Datasets & Benchmarks | Datasets & Benchmarks | [2007](https://doi.org/10.1504/ijlr.2007.017635) (source only) |
 | AIH-00695 | Benchmark Lifespan | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-00733 | Benchmark Suite Aggregation | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-00771 | BIG-Bench | Datasets & Benchmarks | Datasets & Benchmarks | — |
@@ -371,21 +371,21 @@
 | AIH-00847 | BigCodeBench | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-00885 | BookCorpus | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-00923 | Bootstrap Resampling of Scores | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-00961 | Boston Housing Dataset | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-00961 | Boston Housing Dataset | Datasets & Benchmarks | Datasets & Benchmarks | [2025](https://doi.org/10.15332/23393076.10765) (source only) |
 | AIH-00999 | BraTS | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-01037 | C4 | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-01075 | Canary String | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-01113 | CASP | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-01151 | Ceiling Effect | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-01151 | Ceiling Effect | Datasets & Benchmarks | Datasets & Benchmarks | [1980](https://doi.org/10.1007/bf03290120) (source only) |
 | AIH-01189 | CelebA | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-01227 | Charades | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-01265 | ChartQA | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-01303 | Chatbot Arena | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-01341 | CheXpert | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-01379 | CIFAR-10 | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-01417 | CIFAR-100 | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-01455 | Citeseer Dataset | Datasets & Benchmarks | Datasets & Benchmarks | — |
-| AIH-01493 | Cityscapes | Datasets & Benchmarks | Datasets & Benchmarks | — |
+| AIH-01227 | Charades | Datasets & Benchmarks | Datasets & Benchmarks | [1850](https://doi.org/10.1038/scientificamerican08031850-365f) (source only) |
+| AIH-01265 | ChartQA | Datasets & Benchmarks | Datasets & Benchmarks | [2022](https://doi.org/10.18653/v1/2022.findings-acl.177) (source only) |
+| AIH-01303 | Chatbot Arena | Datasets & Benchmarks | Datasets & Benchmarks | [2023](https://doi.org/10.52202/075280-2020) (source only) |
+| AIH-01341 | CheXpert | Datasets & Benchmarks | Datasets & Benchmarks | [2019](https://doi.org/10.1609/aaai.v33i01.3301590) (source only) |
+| AIH-01379 | CIFAR-10 | Datasets & Benchmarks | Datasets & Benchmarks | [2024](https://doi.org/10.1145/3724504.3724579) (source only) |
+| AIH-01417 | CIFAR-100 | Datasets & Benchmarks | Datasets & Benchmarks | [2024](https://doi.org/10.1145/3724504.3724579) (source only) |
+| AIH-01455 | Citeseer Dataset | Datasets & Benchmarks | Datasets & Benchmarks | [2016](https://doi.org/10.1007/978-3-319-48740-3_3) (source only) |
+| AIH-01493 | Cityscapes | Datasets & Benchmarks | Datasets & Benchmarks | [1992](https://doi.org/10.1525/9780520914476-009) (source only) |
 | AIH-01531 | COCO | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-01569 | CodeContests | Datasets & Benchmarks | Datasets & Benchmarks | — |
 | AIH-01607 | CodeSearchNet | Datasets & Benchmarks | Datasets & Benchmarks | — |
@@ -497,11 +497,11 @@
 | AIH-00406 | Adapter Merging | Deep Learning | Deep Learning | — |
 | AIH-00444 | Adapter Module | Deep Learning | Deep Learning | [1965](https://doi.org/10.2514/6.1965-1123) (source only) |
 | AIH-00482 | Adaptive Depth | Deep Learning | Deep Learning | [2012](https://doi.org/10.1109/vcip.2012.6410849) (source only) |
-| AIH-00520 | Adaptive Pooling | Deep Learning | Deep Learning | — |
-| AIH-00558 | Advantage Estimation | Deep Learning | Deep Learning | — |
+| AIH-00520 | Adaptive Pooling | Deep Learning | Deep Learning | [1996](https://doi.org/10.1007/978-1-4612-0751-1_8) (source only) |
+| AIH-00558 | Advantage Estimation | Deep Learning | Deep Learning | [2018](https://doi.org/10.3386/w24772) (source only) |
 | AIH-00596 | Ahead-of-Time Compilation (AOT) | Deep Learning | Deep Learning | — |
 | AIH-00103 | ALBERT | Deep Learning | Models & Architectures | [2002](https://doi.org/10.1016/s0378-4371(02)00740-9) (source only) |
-| AIH-00634 | ALiBi | Deep Learning | Deep Learning | — |
+| AIH-00634 | ALiBi | Deep Learning | Deep Learning | [2010](https://doi.org/10.1348/2044-8333.002003) (source only) |
 | AIH-00141 | ALIGN | Deep Learning | Models & Architectures | [2010](https://doi.org/10.1504/ijmpt.2010.031427) (source only) |
 | AIH-00179 | AlphaCode | Deep Learning | Models & Architectures | [1960](https://doi.org/10.1093/comjnl/3.2.98) (source only) |
 | AIH-00217 | AlphaDev | Deep Learning | Models & Architectures | [2025](https://doi.org/10.1145/3696673.3723083) (source only) |

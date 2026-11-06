@@ -70,27 +70,27 @@
 | AIH-00420 | Assistive Robot | Robotics | Robotics & Autonomous Systems | [2002](https://doi.org/10.1007/978-1-4471-3719-1_21) (source only) |
 | AIH-00458 | Attitude Control | Robotics | Robotics & Autonomous Systems | — |
 | AIH-00496 | Automated Guided Vehicle (AGV) | Robotics | Robotics & Autonomous Systems | [2007](https://doi.org/10.1016/j.simpat.2006.11.002) (source only) |
-| AIH-00534 | Automaton | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00572 | Autonomous Drone | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00610 | Autonomous logistics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00648 | Autonomous Navigation | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00686 | Autonomous Vehicle (AV) | Robotics | Robotics & Autonomous Systems | — |
+| AIH-00534 | Automaton | Robotics | Robotics & Autonomous Systems | [1958](https://doi.org/10.1090/s0002-9939-1958-0135681-9) (source only) |
+| AIH-00572 | Autonomous Drone | Robotics | Robotics & Autonomous Systems | [2014](https://openalex.org/W637287294) (source only) |
+| AIH-00610 | Autonomous logistics | Robotics | Robotics & Autonomous Systems | [2000](https://doi.org/10.5711/1082598325323) (source only) |
+| AIH-00648 | Autonomous Navigation | Robotics | Robotics & Autonomous Systems | [1989](https://doi.org/10.21236/ada205604) (source only) |
+| AIH-00686 | Autonomous Vehicle (AV) | Robotics | Robotics & Autonomous Systems | [2007](https://openalex.org/W2623775510) (source only) |
 | AIH-00724 | Autonomous Weapon System | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00762 | Backdrivability | Robotics | Robotics & Autonomous Systems | — |
+| AIH-00762 | Backdrivability | Robotics | Robotics & Autonomous Systems | [2004](https://doi.org/10.1299/jsmermd.2004.196_1) (source only) |
 | AIH-00800 | Behavior-based robotics (BBR) | Robotics | Robotics & Autonomous Systems | — |
 | AIH-00838 | Behaviour Tree (BT) | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00876 | Beyond Visual Line of Sight (BVLOS) | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00914 | BigDog | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00952 | Bin Picking | Robotics | Robotics & Autonomous Systems | — |
-| AIH-00990 | Biorobotics | Robotics | Robotics & Autonomous Systems | — |
+| AIH-00876 | Beyond Visual Line of Sight (BVLOS) | Robotics | Robotics & Autonomous Systems | [2018](https://doi.org/10.1109/icepds.2018.8571665) (source only) |
+| AIH-00914 | BigDog | Robotics | Robotics & Autonomous Systems | [2006](https://doi.org/10.1016/s0021-9290(06)84441-6) (source only) |
+| AIH-00952 | Bin Picking | Robotics | Robotics & Autonomous Systems | [1989](https://doi.org/10.1007/978-1-4684-6608-9_40) (source only) |
+| AIH-00990 | Biorobotics | Robotics | Robotics & Autonomous Systems | [1998](https://doi.org/10.1080/095400998116387) (source only) |
 | AIH-01028 | Blobotics | Robotics | Robotics & Autonomous Systems | — |
-| AIH-01066 | Capture Point | Robotics | Robotics & Autonomous Systems | — |
-| AIH-01104 | Category-Level Pose Estimation | Robotics | Robotics & Autonomous Systems | — |
+| AIH-01066 | Capture Point | Robotics | Robotics & Autonomous Systems | [2012](https://doi.org/10.1524/auto.2012.1036) (source only) |
+| AIH-01104 | Category-Level Pose Estimation | Robotics | Robotics & Autonomous Systems | [2021](https://doi.org/10.1109/iccv48922.2021.00331) (source only) |
 | AIH-01142 | Centroidal Dynamics | Robotics | Robotics & Autonomous Systems | — |
 | AIH-01180 | Collaborative Robot (Cobot) | Robotics | Robotics & Autonomous Systems | — |
 | AIH-01218 | Collision Checking | Robotics | Robotics & Autonomous Systems | — |
-| AIH-01256 | Compliance | Robotics | Robotics & Autonomous Systems | — |
-| AIH-01294 | Condition Monitoring | Robotics | Robotics & Autonomous Systems | — |
+| AIH-01256 | Compliance | Robotics | Robotics & Autonomous Systems | [2001](https://doi.org/10.1201/9781420032406.ch2) (source only) |
+| AIH-01294 | Condition Monitoring | Robotics | Robotics & Autonomous Systems | [1990](https://doi.org/10.1049/pbme001e_ch2) (source only) |
 | AIH-01332 | Configuration Space Obstacle | Robotics | Robotics & Autonomous Systems | — |
 | AIH-01370 | Consensus Algorithm for Robots | Robotics | Robotics & Autonomous Systems | — |
 | AIH-01408 | Contact Schedule | Robotics | Robotics & Autonomous Systems | — |
@@ -206,30 +206,30 @@
 | AIH-00399 | Automation Bias in Medicine | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-00437 | Basket Trial | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-00475 | Batch Correction | Science & Healthcare AI | Science & Healthcare AI | [2018](https://doi.org/10.1007/978-981-13-2167-2_19) (source only) |
-| AIH-00513 | Batch Effect | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-00513 | Batch Effect | Science & Healthcare AI | Science & Healthcare AI | [2002](https://doi.org/10.1016/s0896-8446(01)00125-5) (source only) |
 | AIH-00551 | Bayesian Experimental Design (BOED) | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-00589 | Bibliometrics | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-00627 | Binding Affinity | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-00665 | Bioinformatics Pipeline | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-00703 | Biomarker | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-00589 | Bibliometrics | Science & Healthcare AI | Science & Healthcare AI | [1978](https://doi.org/10.1300/j105v02n03_01) (source only) |
+| AIH-00627 | Binding Affinity | Science & Healthcare AI | Science & Healthcare AI | [2015](https://doi.org/10.1002/prot.24946) (source only) |
+| AIH-00665 | Bioinformatics Pipeline | Science & Healthcare AI | Science & Healthcare AI | [2009](https://doi.org/10.1109/bibm.2009.20) (source only) |
+| AIH-00703 | Biomarker | Science & Healthcare AI | Science & Healthcare AI | [2004](https://doi.org/10.1017/cbo9781107326040.006) (source only) |
 | AIH-00741 | BLAST | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-00779 | Calibration in Clinical Models | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-00817 | Capacity Management in Hospitals | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-00855 | Cell Type Annotation | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-00893 | Change Detection in Satellite Imagery | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-00931 | Chemical Space | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-00969 | Citation Analysis | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-00855 | Cell Type Annotation | Science & Healthcare AI | Science & Healthcare AI | [2019](https://doi.org/10.1101/2019.12.22.886481) (source only) |
+| AIH-00893 | Change Detection in Satellite Imagery | Science & Healthcare AI | Science & Healthcare AI | [2014](https://doi.org/10.5623/cig2014-001) (source only) |
+| AIH-00931 | Chemical Space | Science & Healthcare AI | Science & Healthcare AI | [1961](https://doi.org/10.2514/5.9781600864780.0595.0611) (source only) |
+| AIH-00969 | Citation Analysis | Science & Healthcare AI | Science & Healthcare AI | [1996](https://doi.org/10.1515/libr.1996.46.3.149) (source only) |
 | AIH-01007 | Climate Model | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-01045 | Clinical Decision Support System (CDSS) | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-01083 | Clinical NLP | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-01083 | Clinical NLP | Science & Healthcare AI | Science & Healthcare AI | [2011](https://doi.org/10.4016/30387.01) (source only) |
 | AIH-01121 | Clinical Note | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-01159 | Clinical Trial Design | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-01197 | Clinical Utility | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-01235 | Clinical Workflow Integration | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-01197 | Clinical Utility | Science & Healthcare AI | Science & Healthcare AI | [1984](https://doi.org/10.1037/e469942004-001) (source only) |
+| AIH-01235 | Clinical Workflow Integration | Science & Healthcare AI | Science & Healthcare AI | [2023](https://doi.org/10.1101/2023.05.26.23290243) (source only) |
 | AIH-01273 | Clinician in the Loop | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-01311 | Closed-Loop Discovery | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-01311 | Closed-Loop Discovery | Science & Healthcare AI | Science & Healthcare AI | [2018](https://doi.org/10.1080/17460441.2019.1546690) (source only) |
 | AIH-01349 | Coarse-Grained Model | Science & Healthcare AI | Science & Healthcare AI | — |
-| AIH-01387 | Compartmental Model | Science & Healthcare AI | Science & Healthcare AI | — |
+| AIH-01387 | Compartmental Model | Science & Healthcare AI | Science & Healthcare AI | [1969](https://doi.org/10.2307/1267024) (source only) |
 | AIH-01425 | Compressed Sensing MRI | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-01463 | Computational Biology | Science & Healthcare AI | Science & Healthcare AI | — |
 | AIH-01501 | Computer-Aided Detection (CAD) | Science & Healthcare AI | Science & Healthcare AI | — |
@@ -343,31 +343,31 @@
 | AIH-00400 | Alert Triage | Security & Privacy | Security & Privacy | [2003](https://doi.org/10.1007/978-3-540-45215-7_42) (source only) |
 | AIH-00438 | Anomaly-Based Detection | Security & Privacy | Security & Privacy | [2015](https://doi.org/10.1109/iccerec.2015.7337024) (source only) |
 | AIH-00476 | Anonymization | Security & Privacy | Security & Privacy | [2007](https://doi.org/10.1109/icde.2007.369024) (source only) |
-| AIH-00514 | Attack Surface | Security & Privacy | Security & Privacy | — |
-| AIH-00552 | Attestation | Security & Privacy | Security & Privacy | — |
-| AIH-00590 | Attribute Inference | Security & Privacy | Security & Privacy | — |
-| AIH-00628 | Attribute-Based Access Control (ABAC) | Security & Privacy | Security & Privacy | — |
-| AIH-00666 | Authentication | Security & Privacy | Security & Privacy | — |
-| AIH-00704 | Authorization | Security & Privacy | Security & Privacy | — |
-| AIH-00742 | AutoAttack | Security & Privacy | Security & Privacy | — |
-| AIH-00780 | Backdoor Trigger | Security & Privacy | Security & Privacy | — |
+| AIH-00514 | Attack Surface | Security & Privacy | Security & Privacy | [2004](https://doi.org/10.21236/ada458115) (source only) |
+| AIH-00552 | Attestation | Security & Privacy | Security & Privacy | [1913](https://doi.org/10.2307/1326572) (source only) |
+| AIH-00590 | Attribute Inference | Security & Privacy | Security & Privacy | [1984](https://doi.org/10.1525/eth.1984.12.3.02a00030) (source only) |
+| AIH-00628 | Attribute-Based Access Control (ABAC) | Security & Privacy | Security & Privacy | [2011](https://doi.org/10.4271/2024-01-3241) (source only) |
+| AIH-00666 | Authentication | Security & Privacy | Security & Privacy | [1996](https://doi.org/10.1007/978-1-4613-1119-5_10) (source only) |
+| AIH-00704 | Authorization | Security & Privacy | Security & Privacy | [2000](https://doi.org/10.2172/801319) (source only) |
+| AIH-00742 | AutoAttack | Security & Privacy | Security & Privacy | [2025](https://doi.org/10.1109/icmlc66258.2025.11280165) (source only) |
+| AIH-00780 | Backdoor Trigger | Security & Privacy | Security & Privacy | [2023](https://doi.org/10.1109/cdc49753.2023.10383622) (source only) |
 | AIH-00818 | Backup Verification | Security & Privacy | Security & Privacy | — |
-| AIH-00856 | Black-Box Attack | Security & Privacy | Security & Privacy | — |
-| AIH-00894 | Blast Radius | Security & Privacy | Security & Privacy | — |
-| AIH-00932 | Bot Detection | Security & Privacy | Security & Privacy | — |
+| AIH-00856 | Black-Box Attack | Security & Privacy | Security & Privacy | [2004](https://doi.org/10.1080/0161-110491892980) (source only) |
+| AIH-00894 | Blast Radius | Security & Privacy | Security & Privacy | [2018](https://doi.org/10.1515/9780773555457-047) (source only) |
+| AIH-00932 | Bot Detection | Security & Privacy | Security & Privacy | [2008](https://doi.org/10.1145/1324198.1324205) (source only) |
 | AIH-00970 | Bug Bounty | Security & Privacy | Security & Privacy | — |
-| AIH-01008 | Business Continuity Plan | Security & Privacy | Security & Privacy | — |
-| AIH-01046 | CAPTCHA | Security & Privacy | Security & Privacy | — |
+| AIH-01008 | Business Continuity Plan | Security & Privacy | Security & Privacy | [1999](https://doi.org/10.2172/798666) (source only) |
+| AIH-01046 | CAPTCHA | Security & Privacy | Security & Privacy | [2009](https://doi.org/10.1109/cccm.2009.5270464) (source only) |
 | AIH-01084 | Carlini-Wagner Attack (C&W) | Security & Privacy | Security & Privacy | — |
-| AIH-01122 | Central Differential Privacy | Security & Privacy | Security & Privacy | — |
+| AIH-01122 | Central Differential Privacy | Security & Privacy | Security & Privacy | [2020](https://doi.org/10.1145/3357713.3384297) (source only) |
 | AIH-01160 | Certificate Pinning | Security & Privacy | Security & Privacy | — |
 | AIH-01198 | Certification Radius | Security & Privacy | Security & Privacy | — |
 | AIH-01236 | Clean-Label Poisoning | Security & Privacy | Security & Privacy | — |
 | AIH-01274 | Code Signing | Security & Privacy | Security & Privacy | — |
 | AIH-01312 | Common Vulnerabilities and Exposures (CVE) | Security & Privacy | Security & Privacy | — |
-| AIH-01350 | Confidential Computing | Security & Privacy | Security & Privacy | — |
-| AIH-01388 | Confused Deputy | Security & Privacy | Security & Privacy | — |
-| AIH-01426 | Consent Management | Security & Privacy | Security & Privacy | — |
+| AIH-01350 | Confidential Computing | Security & Privacy | Security & Privacy | [2020](https://doi.org/10.1002/9781119695158.ch11) (source only) |
+| AIH-01388 | Confused Deputy | Security & Privacy | Security & Privacy | [1988](https://doi.org/10.1145/54289.871709) (source only) |
+| AIH-01426 | Consent Management | Security & Privacy | Security & Privacy | [2016](https://doi.org/10.5220/0005941301250132) (source only) |
 | AIH-01464 | Container Escape | Security & Privacy | Security & Privacy | — |
 | AIH-01502 | Containment | Security & Privacy | Security & Privacy | — |
 | AIH-01540 | Context Leakage | Security & Privacy | Security & Privacy | — |
@@ -480,31 +480,31 @@
 | AIH-00401 | Band-Pass Filter | Signal & Information Theory | Signal & Information Theory | [1976](https://doi.org/10.1016/0026-2714(76)90726-5) (source only) |
 | AIH-00439 | Basis Pursuit | Signal & Information Theory | Signal & Information Theory | [2001](https://doi.org/10.1137/s003614450037906x) (source only) |
 | AIH-00477 | Beamforming | Signal & Information Theory | Signal & Information Theory | [1987](https://doi.org/10.21236/ada187496) (source only) |
-| AIH-00515 | Beat Tracking | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00553 | Bit | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00591 | Bit Depth | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00629 | Bitrate | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00667 | Blind Source Separation (BSS) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00705 | Block-Matching and 3D Filtering (BM3D) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00743 | Cepstrum | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00781 | Channel Capacity | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-00515 | Beat Tracking | Signal & Information Theory | Signal & Information Theory | [1994](https://doi.org/10.1145/192593.192700) (source only) |
+| AIH-00553 | Bit | Signal & Information Theory | Signal & Information Theory | [2016](https://doi.org/10.5194/gmd-2016-3-rc2) (source only) |
+| AIH-00591 | Bit Depth | Signal & Information Theory | Signal & Information Theory | [1998](https://doi.org/10.1117/12.298285) (source only) |
+| AIH-00629 | Bitrate | Signal & Information Theory | Signal & Information Theory | [1995](https://doi.org/10.1016/0923-5965(95)00023-3) (source only) |
+| AIH-00667 | Blind Source Separation (BSS) | Signal & Information Theory | Signal & Information Theory | [2001](https://doi.org/10.1117/12.428151) (source only) |
+| AIH-00705 | Block-Matching and 3D Filtering (BM3D) | Signal & Information Theory | Signal & Information Theory | [2022](https://doi.org/10.1016/j.net.2022.04.008) (source only) |
+| AIH-00743 | Cepstrum | Signal & Information Theory | Signal & Information Theory | [1975](https://doi.org/10.21236/ada029560) (source only) |
+| AIH-00781 | Channel Capacity | Signal & Information Theory | Signal & Information Theory | [1995](https://doi.org/10.7551/mitpress/5671.003.0105) (source only) |
 | AIH-00819 | Channel Coding | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00857 | Checksum | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00895 | Chirp Signal | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-00933 | Codec | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-00857 | Checksum | Signal & Information Theory | Signal & Information Theory | [1964](https://doi.org/10.1145/355586.364794) (source only) |
+| AIH-00895 | Chirp Signal | Signal & Information Theory | Signal & Information Theory | [1975](https://doi.org/10.1109/ultsym.1975.196535) (source only) |
+| AIH-00933 | Codec | Signal & Information Theory | Signal & Information Theory | [1993](https://doi.org/10.1007/978-1-4615-3230-9_6) (source only) |
 | AIH-00971 | Coherence | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-01009 | Colored Noise | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-01009 | Colored Noise | Signal & Information Theory | Signal & Information Theory | [1965](https://doi.org/10.1515/9781400876204-009) (source only) |
 | AIH-01047 | Companding | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-01085 | Conditional Entropy | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-01085 | Conditional Entropy | Signal & Information Theory | Signal & Information Theory | [1971](https://doi.org/10.1007/bfb0066091) (source only) |
 | AIH-01123 | Conditional Mutual Information | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-01161 | Continuous Wavelet Transform (CWT) | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-01161 | Continuous Wavelet Transform (CWT) | Signal & Information Theory | Signal & Information Theory | [2007](https://doi.org/10.1007/s11160-007-9078-2) (source only) |
 | AIH-01199 | Controllability | Signal & Information Theory | Signal & Information Theory | — |
 | AIH-01237 | Convolution Theorem | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-01275 | Correlation Receiver | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-01275 | Correlation Receiver | Signal & Information Theory | Signal & Information Theory | [1966](https://doi.org/10.1109/proc.1966.4822) (source only) |
 | AIH-01313 | Critical Band | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-01351 | Cross-Spectral Density | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-01389 | Cyclic Redundancy Check (CRC) | Signal & Information Theory | Signal & Information Theory | — |
-| AIH-01427 | Decibel (dB) | Signal & Information Theory | Signal & Information Theory | — |
+| AIH-01351 | Cross-Spectral Density | Signal & Information Theory | Signal & Information Theory | [1959](https://doi.org/10.1063/1.1716503) (source only) |
+| AIH-01389 | Cyclic Redundancy Check (CRC) | Signal & Information Theory | Signal & Information Theory | [1999](https://doi.org/10.1016/s0920-5489(99)90902-9) (source only) |
+| AIH-01427 | Decibel (dB) | Signal & Information Theory | Signal & Information Theory | [2008](https://doi.org/10.1007/978-3-540-29678-2_1396) (source only) |
 | AIH-01465 | Decimation | Signal & Information Theory | Signal & Information Theory | — |
 
 — means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.

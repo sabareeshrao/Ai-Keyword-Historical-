@@ -117,28 +117,28 @@
 | AIH-00402 | Agent Assist | Speech & Audio | Speech & Audio | [2002](https://doi.org/10.21236/ada406635) (source only) |
 | AIH-00440 | Alignment-Free Training | Speech & Audio | Speech & Audio | [2024](https://doi.org/10.21437/interspeech.2024-771) (source only) |
 | AIH-00478 | Always-On Listening | Speech & Audio | Speech & Audio | — |
-| AIH-00516 | Ambisonics | Speech & Audio | Speech & Audio | — |
+| AIH-00516 | Ambisonics | Speech & Audio | Speech & Audio | [1975](https://openalex.org/W2338275273) (source only) |
 | AIH-00554 | Anti-Spoofing for Speech | Speech & Audio | Speech & Audio | — |
 | AIH-00592 | Attention Alignment in Speech | Speech & Audio | Speech & Audio | — |
-| AIH-00630 | Audio Captioning | Speech & Audio | Speech & Audio | — |
-| AIH-00668 | Audio Data Augmentation | Speech & Audio | Speech & Audio | — |
+| AIH-00630 | Audio Captioning | Speech & Audio | Speech & Audio | [2017](https://doi.org/10.1109/waspaa.2017.8170058) (source only) |
+| AIH-00668 | Audio Data Augmentation | Speech & Audio | Speech & Audio | [2020](https://doi.org/10.1109/mmsp48831.2020.9287156) (source only) |
 | AIH-00706 | Audio Deepfake | Speech & Audio | Speech & Audio | — |
 | AIH-00744 | Audio Description | Speech & Audio | Speech & Audio | — |
-| AIH-00782 | Audio Event Detection | Speech & Audio | Speech & Audio | — |
-| AIH-00820 | Audio Fingerprinting | Speech & Audio | Speech & Audio | — |
+| AIH-00782 | Audio Event Detection | Speech & Audio | Speech & Audio | [2010](https://doi.org/10.1109/icece.2010.78) (source only) |
+| AIH-00820 | Audio Fingerprinting | Speech & Audio | Speech & Audio | [2002](https://doi.org/10.1109/icassp.2002.1006107) (source only) |
 | AIH-00858 | Audio Latency Budget | Speech & Audio | Speech & Audio | — |
-| AIH-00896 | Audio Preprocessing | Speech & Audio | Speech & Audio | — |
-| AIH-00934 | Audio Privacy | Speech & Audio | Speech & Audio | — |
-| AIH-00972 | Audio Question Answering | Speech & Audio | Speech & Audio | — |
+| AIH-00896 | Audio Preprocessing | Speech & Audio | Speech & Audio | [2026](https://doi.org/10.1117/12.3121320) (source only) |
+| AIH-00934 | Audio Privacy | Speech & Audio | Speech & Audio | [2008](https://doi.org/10.1145/1459359.1459472) (source only) |
+| AIH-00972 | Audio Question Answering | Speech & Audio | Speech & Audio | [2020](https://doi.org/10.1109/taslp.2020.3010650) (source only) |
 | AIH-01010 | Audio Watermarking | Speech & Audio | Speech & Audio | — |
-| AIH-01048 | Audio-Visual Learning | Speech & Audio | Speech & Audio | — |
+| AIH-01048 | Audio-Visual Learning | Speech & Audio | Speech & Audio | [2012](https://doi.org/10.1007/978-1-4419-1428-6_3264) (source only) |
 | AIH-01086 | Audio-Visual Speech Recognition | Speech & Audio | Speech & Audio | — |
 | AIH-01124 | Automatic Gain Control (AGC) | Speech & Audio | Speech & Audio | — |
-| AIH-01162 | Automatic Music Transcription (AMT) | Speech & Audio | Speech & Audio | — |
+| AIH-01162 | Automatic Music Transcription (AMT) | Speech & Audio | Speech & Audio | [2019](https://doi.org/10.1109/isvlsi.2019.00075) (source only) |
 | AIH-01200 | Automatic Speech Recognition Pipeline | Speech & Audio | Speech & Audio | — |
 | AIH-01238 | Autoregressive Vocoder | Speech & Audio | Speech & Audio | — |
-| AIH-01276 | Backchannel | Speech & Audio | Speech & Audio | — |
-| AIH-01314 | Binaural Rendering | Speech & Audio | Speech & Audio | — |
+| AIH-01276 | Backchannel | Speech & Audio | Speech & Audio | [1986](https://doi.org/10.1145/18172.18194) (source only) |
+| AIH-01314 | Binaural Rendering | Speech & Audio | Speech & Audio | [2007](https://doi.org/10.1109/icassp.2007.366644) (source only) |
 | AIH-01352 | Bioacoustics | Speech & Audio | Speech & Audio | — |
 | AIH-01390 | Call Center Automation | Speech & Audio | Speech & Audio | — |
 | AIH-01428 | Cascaded Speech Translation | Speech & Audio | Speech & Audio | — |
@@ -254,32 +254,32 @@
 | AIH-00403 | Calendar Feature | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-00441 | Calendar Misalignment | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-00479 | Capacity Forecasting | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-00517 | Channel Independence | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-00555 | Cointegration | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-00593 | Collective Anomaly | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-00517 | Channel Independence | Time Series & Forecasting | Time Series & Forecasting | [1983](https://doi.org/10.1121/1.2020307) (source only) |
+| AIH-00555 | Cointegration | Time Series & Forecasting | Time Series & Forecasting | [1991](https://doi.org/10.1093/oso/9780198283393.003.0007) (source only) |
+| AIH-00593 | Collective Anomaly | Time Series & Forecasting | Time Series & Forecasting | [2014](https://doi.org/10.1109/iciea.2014.6931337) (source only) |
 | AIH-00631 | Conformal Forecast Interval | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-00669 | Contextual Anomaly | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-00669 | Contextual Anomaly | Time Series & Forecasting | Time Series & Forecasting | [2012](https://doi.org/10.3390/a5040469) (source only) |
 | AIH-00707 | Continuous Ranked Probability Score (CRPS) | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-00745 | Cross-Learning | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-00783 | Croston's Method | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-00821 | Cyclic Pattern | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-00859 | Data Vintage | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-00897 | DeepAR | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-00821 | Cyclic Pattern | Time Series & Forecasting | Time Series & Forecasting | [1966](https://doi.org/10.1038/211512a0) (source only) |
+| AIH-00859 | Data Vintage | Time Series & Forecasting | Time Series & Forecasting | [1999](https://doi.org/10.21799/frbp.wp.1999.15) (source only) |
+| AIH-00897 | DeepAR | Time Series & Forecasting | Time Series & Forecasting | [2019](https://doi.org/10.1109/infcomw.2019.8845240) (source only) |
 | AIH-00935 | Demand Forecasting | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-00973 | Differencing | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-00973 | Differencing | Time Series & Forecasting | Time Series & Forecasting | [1868](https://doi.org/10.1093/nq/s4-ii.52.606-e) (source only) |
 | AIH-01011 | Direct Multi-Step Forecasting | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-01049 | Discord Discovery | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-01087 | Drift Method | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-01087 | Drift Method | Time Series & Forecasting | Time Series & Forecasting | [2014](https://doi.org/10.1007/978-3-642-41714-6_133088) (source only) |
 | AIH-01125 | Dynamic Linear Model (DLM) | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-01163 | Early Classification | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-01201 | ETS Model | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-01201 | ETS Model | Time Series & Forecasting | Time Series & Forecasting | [2011](https://doi.org/10.64628/aa.ewvjujp96) (source only) |
 | AIH-01239 | Exogenous Variable | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-01277 | Expanding Window Validation | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-01315 | Exponential Smoothing | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-01315 | Exponential Smoothing | Time Series & Forecasting | Time Series & Forecasting | [1966](https://doi.org/10.21236/ad0645144) (source only) |
 | AIH-01353 | Forecast Bias | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-01391 | Forecast Combination | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-01429 | Forecast Horizon | Time Series & Forecasting | Time Series & Forecasting | — |
-| AIH-01467 | Forecast Origin | Time Series & Forecasting | Time Series & Forecasting | — |
+| AIH-01429 | Forecast Horizon | Time Series & Forecasting | Time Series & Forecasting | [1988](https://doi.org/10.1016/0167-6377(88)90040-5) (source only) |
+| AIH-01467 | Forecast Origin | Time Series & Forecasting | Time Series & Forecasting | [2016](https://doi.org/10.1016/j.jeca.2016.07.006) (source only) |
 | AIH-01505 | Forecast Override | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-01543 | Forecast Reconciliation | Time Series & Forecasting | Time Series & Forecasting | — |
 | AIH-01581 | Forecast Revision | Time Series & Forecasting | Time Series & Forecasting | — |
@@ -379,32 +379,32 @@
 | AIH-00404 | Apache Flink | Tools & Frameworks | Tools & Frameworks | [2016](https://doi.org/10.1515/itit-2016-0005) (source only) |
 | AIH-00442 | Apache Hudi | Tools & Frameworks | Tools & Frameworks | [2026](https://doi.org/10.1145/3802514.3809177) (source only) |
 | AIH-00480 | Apache Iceberg | Tools & Frameworks | Tools & Frameworks | [2022](https://doi.org/10.63282/3050-9416.ijaibdcms-v3i4p105) (source only) |
-| AIH-00518 | Apache Kafka | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-00556 | Apache Solr | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-00594 | Apache Spark | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-00632 | Ax | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-00670 | Axolotl | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-00518 | Apache Kafka | Tools & Frameworks | Tools & Frameworks | [2013](https://openalex.org/W2626975733) (source only) |
+| AIH-00556 | Apache Solr | Tools & Frameworks | Tools & Frameworks | [2009](https://openalex.org/W2559940714) (source only) |
+| AIH-00594 | Apache Spark | Tools & Frameworks | Tools & Frameworks | [2014](https://doi.org/10.1002/9781119183464.ch11) (source only) |
+| AIH-00632 | Ax | Tools & Frameworks | Tools & Frameworks | [2006](https://doi.org/10.1037/e527352012-492) (source only) |
+| AIH-00670 | Axolotl | Tools & Frameworks | Tools & Frameworks | [1976](https://doi.org/10.1002/jmor.1051500106) (source only) |
 | AIH-00708 | Azure Machine Learning | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-00746 | Baseten | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-00784 | BigQuery | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-00822 | bitsandbytes | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-00860 | Bokeh | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-00898 | BoTorch | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-00898 | BoTorch | Tools & Frameworks | Tools & Frameworks | [2023](https://doi.org/10.1007/978-1-4842-9063-7_7) (source only) |
 | AIH-00936 | Captum | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-00974 | Chroma | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-01012 | CleanRL | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-01050 | CleverHans | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-01088 | ClickHouse | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-01088 | ClickHouse | Tools & Frameworks | Tools & Frameworks | [2017](https://doi.org/10.32614/cran.package.rclickhouse) (source only) |
 | AIH-01126 | ColossalAI | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-01164 | Core ML | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-01202 | CrewAI | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-01240 | cuBLAS | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-01278 | cuDNN | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-01202 | CrewAI | Tools & Frameworks | Tools & Frameworks | [2024](https://doi.org/10.36548/jtcsst.2024.4.002) (source only) |
+| AIH-01240 | cuBLAS | Tools & Frameworks | Tools & Frameworks | [2008](https://doi.org/10.1109/ipdps.2008.4536485) (source only) |
+| AIH-01278 | cuDNN | Tools & Frameworks | Tools & Frameworks | [2019](https://doi.org/10.1109/access.2019.2918851) (source only) |
 | AIH-01316 | CUTLASS | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-01354 | D3 | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-01392 | Dagster | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-01430 | Darts | Tools & Frameworks | Tools & Frameworks | — |
-| AIH-01468 | Dash | Tools & Frameworks | Tools & Frameworks | — |
+| AIH-01392 | Dagster | Tools & Frameworks | Tools & Frameworks | [2026](https://doi.org/10.21105/joss.07695) (source only) |
+| AIH-01430 | Darts | Tools & Frameworks | Tools & Frameworks | [1983](https://doi.org/10.2514/6.1983-324) (source only) |
+| AIH-01468 | Dash | Tools & Frameworks | Tools & Frameworks | [2020](https://doi.org/10.7490/f1000research.1118085.1) (source only) |
 | AIH-01506 | Dask | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-01544 | Databricks | Tools & Frameworks | Tools & Frameworks | — |
 | AIH-01582 | Deep Graph Library (DGL) | Tools & Frameworks | Tools & Frameworks | — |

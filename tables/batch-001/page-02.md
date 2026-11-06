@@ -81,77 +81,77 @@
 | AIH-00347 | Alert Threshold | AI Infrastructure | MLOps & Engineering | [2004](https://doi.org/10.3201/eid1007.030722) (source only) |
 | AIH-00385 | Alert Tuning | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00384 | Algorithmic Efficiency Improvement | AI Infrastructure | Hardware & Compute | — |
-| AIH-00535 | All-Gather | AI Infrastructure | AI Infrastructure | — |
-| AIH-00573 | All-Reduce | AI Infrastructure | AI Infrastructure | — |
-| AIH-00611 | Analog Computing for AI | AI Infrastructure | AI Infrastructure | — |
+| AIH-00535 | All-Gather | AI Infrastructure | AI Infrastructure | [2007](https://doi.org/10.1109/hpcs.2007.19) (source only) |
+| AIH-00573 | All-Reduce | AI Infrastructure | AI Infrastructure | [2005](https://doi.org/10.1007/11428831_52) (source only) |
+| AIH-00611 | Analog Computing for AI | AI Infrastructure | AI Infrastructure | [2026](https://doi.org/10.1117/12.3091161) (source only) |
 | AIH-00423 | Anomaly Alerting | AI Infrastructure | MLOps & Engineering | — |
-| AIH-00649 | Apache Arrow | AI Infrastructure | AI Infrastructure | — |
-| AIH-00687 | API (Application Programming Interface) | AI Infrastructure | AI Infrastructure | — |
-| AIH-00725 | API Gateway | AI Infrastructure | AI Infrastructure | — |
+| AIH-00649 | Apache Arrow | AI Infrastructure | AI Infrastructure | [2019](https://doi.org/10.32614/cran.package.arrow) (source only) |
+| AIH-00687 | API (Application Programming Interface) | AI Infrastructure | AI Infrastructure | [2023](https://doi.org/10.4000/11tub) (source only) |
+| AIH-00725 | API Gateway | AI Infrastructure | AI Infrastructure | [2013](https://doi.org/10.1109/mec.2013.6885428) (source only) |
 | AIH-00763 | Application-Specific Integrated Circuit (ASIC) | AI Infrastructure | AI Infrastructure | — |
 | AIH-00461 | Approval Workflow | AI Infrastructure | MLOps & Engineering | [2010](https://doi.org/10.1057/dam.2010.46) (source only) |
 | AIH-00499 | Architecture Decision Record (ADR) | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00422 | ARM Architecture | AI Infrastructure | Hardware & Compute | — |
 | AIH-00801 | Artifact Caching | AI Infrastructure | AI Infrastructure | — |
 | AIH-00839 | Artifact Store | AI Infrastructure | AI Infrastructure | — |
-| AIH-00537 | Artifact Versioning | AI Infrastructure | MLOps & Engineering | — |
+| AIH-00537 | Artifact Versioning | AI Infrastructure | MLOps & Engineering | [2012](https://doi.org/10.21236/ada585496) (source only) |
 | AIH-00877 | Async Job Submission | AI Infrastructure | AI Infrastructure | — |
 | AIH-00915 | Asynchronous Checkpointing | AI Infrastructure | AI Infrastructure | — |
 | AIH-00460 | Asynchronous Copy | AI Infrastructure | Hardware & Compute | [2003](https://doi.org/10.1016/s0141-9331(03)00101-7) (source only) |
 | AIH-00953 | Asynchronous Execution | AI Infrastructure | AI Infrastructure | — |
-| AIH-00575 | At-Least-Once Delivery | AI Infrastructure | MLOps & Engineering | — |
+| AIH-00575 | At-Least-Once Delivery | AI Infrastructure | MLOps & Engineering | [2026](https://doi.org/10.5281/zenodo.22001698) (source only) |
 | AIH-00613 | Audit Trail for Predictions | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00991 | Automatic Rollback | AI Infrastructure | AI Infrastructure | — |
-| AIH-00651 | Automation Payback | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01029 | Autoscaling | AI Infrastructure | AI Infrastructure | — |
-| AIH-01067 | Availability Zone | AI Infrastructure | AI Infrastructure | — |
+| AIH-00651 | Automation Payback | AI Infrastructure | MLOps & Engineering | [2026](https://doi.org/10.5281/zenodo.23665645) (source only) |
+| AIH-01029 | Autoscaling | AI Infrastructure | AI Infrastructure | [2013](https://doi.org/10.1109/meco.2013.6601329) (source only) |
+| AIH-01067 | Availability Zone | AI Infrastructure | AI Infrastructure | [2021](https://doi.org/10.1109/vppc53923.2021.9699140) (source only) |
 | AIH-00689 | Backfill | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00727 | Backfill Correctness | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00765 | Backfill Run | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00498 | Backfill Scheduling | AI Infrastructure | Hardware & Compute | [2008](https://doi.org/10.1109/pdp.2008.53) (source only) |
 | AIH-01105 | Backpressure | AI Infrastructure | AI Infrastructure | — |
 | AIH-00803 | Backpressure Handling | AI Infrastructure | MLOps & Engineering | — |
-| AIH-00536 | Bank Conflict | AI Infrastructure | Hardware & Compute | — |
+| AIH-00536 | Bank Conflict | AI Infrastructure | Hardware & Compute | [1971](https://openalex.org/W267683740) (source only) |
 | AIH-00574 | Bare Metal Instance | AI Infrastructure | Hardware & Compute | — |
-| AIH-00841 | Baseline Model | AI Infrastructure | MLOps & Engineering | — |
+| AIH-00841 | Baseline Model | AI Infrastructure | MLOps & Engineering | [2011](https://doi.org/10.1515/9781400840328-007) (source only) |
 | AIH-00879 | Baseline Window | AI Infrastructure | MLOps & Engineering | — |
 | AIH-01143 | Batch API | AI Infrastructure | AI Infrastructure | — |
 | AIH-00917 | Batch Job | AI Infrastructure | MLOps & Engineering | — |
 | AIH-01181 | Batch Size Scaling in Serving | AI Infrastructure | AI Infrastructure | — |
 | AIH-00955 | Batch vs Real-Time Tradeoff | AI Infrastructure | MLOps & Engineering | — |
-| AIH-00612 | Battery Life Impact | AI Infrastructure | Hardware & Compute | — |
+| AIH-00612 | Battery Life Impact | AI Infrastructure | Hardware & Compute | [2013](https://doi.org/10.1016/j.ajic.2013.03.144) (source only) |
 | AIH-00993 | Behavioural Regression Suite | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01031 | Behavioural Testing | AI Infrastructure | MLOps & Engineering | — |
-| AIH-00650 | Benchmark Suite for Hardware | AI Infrastructure | Hardware & Compute | — |
+| AIH-01031 | Behavioural Testing | AI Infrastructure | MLOps & Engineering | [2001](https://doi.org/10.1016/s0166-4328(01)00283-2) (source only) |
+| AIH-00650 | Benchmark Suite for Hardware | AI Infrastructure | Hardware & Compute | [2023](https://doi.org/10.1109/iiswc59245.2023.00011) (source only) |
 | AIH-00688 | Bisection Bandwidth | AI Infrastructure | Hardware & Compute | — |
 | AIH-01069 | Blameless Postmortem | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01219 | Block Storage | AI Infrastructure | AI Infrastructure | — |
-| AIH-00726 | Branch Prediction | AI Infrastructure | Hardware & Compute | — |
+| AIH-01219 | Block Storage | AI Infrastructure | AI Infrastructure | [2004](https://doi.org/10.17487/rfc3723) (source only) |
+| AIH-00726 | Branch Prediction | AI Infrastructure | Hardware & Compute | [1983](https://doi.org/10.1016/0166-5316(83)90042-1) (source only) |
 | AIH-01107 | Broadcast Join | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01145 | Bucketing | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01183 | Build Reproducibility | AI Infrastructure | MLOps & Engineering | — |
+| AIH-01145 | Bucketing | AI Infrastructure | MLOps & Engineering | [1938](https://doi.org/10.2307/1281690) (source only) |
+| AIH-01183 | Build Reproducibility | AI Infrastructure | MLOps & Engineering | [2021](https://doi.org/10.1145/3460319.3464797) (source only) |
 | AIH-01257 | Bulkhead Pattern | AI Infrastructure | AI Infrastructure | — |
-| AIH-00764 | Burst Capacity | AI Infrastructure | Hardware & Compute | — |
+| AIH-00764 | Burst Capacity | AI Infrastructure | Hardware & Compute | [1990](https://doi.org/10.1007/978-94-009-1848-1_217) (source only) |
 | AIH-01221 | Business Rule Override | AI Infrastructure | MLOps & Engineering | — |
 | AIH-00802 | Cache Coherence | AI Infrastructure | Hardware & Compute | — |
-| AIH-00840 | Cache Hierarchy | AI Infrastructure | Hardware & Compute | — |
-| AIH-01295 | Cache Hit Rate | AI Infrastructure | AI Infrastructure | — |
+| AIH-00840 | Cache Hierarchy | AI Infrastructure | Hardware & Compute | [2002](https://doi.org/10.1109/icapp.2002.1173575) (source only) |
+| AIH-01295 | Cache Hit Rate | AI Infrastructure | AI Infrastructure | [2002](https://doi.org/10.1541/ieejeiss1987.122.7_1137) (source only) |
 | AIH-01259 | Cache Invalidation | AI Infrastructure | MLOps & Engineering | — |
 | AIH-01333 | Cache-Aware Routing | AI Infrastructure | AI Infrastructure | — |
 | AIH-01371 | Cached Token Pricing | AI Infrastructure | AI Infrastructure | — |
 | AIH-01409 | Caching Allocator | AI Infrastructure | AI Infrastructure | — |
-| AIH-01297 | Caching Strategy | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01335 | Canary Analysis | AI Infrastructure | MLOps & Engineering | — |
+| AIH-01297 | Caching Strategy | AI Infrastructure | MLOps & Engineering | [2003](https://doi.org/10.3745/kipsta.2003.10a.3.261) (source only) |
+| AIH-01335 | Canary Analysis | AI Infrastructure | MLOps & Engineering | [2018](https://doi.org/10.1145/3190566) (source only) |
 | AIH-01447 | Canary Cohort | AI Infrastructure | AI Infrastructure | — |
 | AIH-01373 | Canary Metric | AI Infrastructure | MLOps & Engineering | — |
 | AIH-01411 | Capability Regression | AI Infrastructure | MLOps & Engineering | — |
 | AIH-01449 | Capacity Alert | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01487 | Capacity Headroom | AI Infrastructure | MLOps & Engineering | — |
+| AIH-01487 | Capacity Headroom | AI Infrastructure | MLOps & Engineering | [2018](https://doi.org/10.1109/icdcs.2018.00069) (source only) |
 | AIH-01485 | Capacity Planning | AI Infrastructure | AI Infrastructure | — |
 | AIH-01523 | Capacity Reservation for Spikes | AI Infrastructure | AI Infrastructure | — |
 | AIH-01525 | Catchup | AI Infrastructure | MLOps & Engineering | — |
 | AIH-01563 | Categorical Drift Measure | AI Infrastructure | MLOps & Engineering | — |
-| AIH-00878 | Central Processing Unit (CPU) | AI Infrastructure | Hardware & Compute | — |
+| AIH-00878 | Central Processing Unit (CPU) | AI Infrastructure | Hardware & Compute | [1998](https://doi.org/10.1021/bi981964u) (source only) |
 | AIH-01601 | Champion-Challenger | AI Infrastructure | MLOps & Engineering | — |
 | AIH-01639 | Change Advisory | AI Infrastructure | MLOps & Engineering | — |
 | AIH-01677 | Change Data Capture (CDC) | AI Infrastructure | MLOps & Engineering | — |
@@ -163,10 +163,10 @@
 | AIH-00916 | Checkpoint and Resume | AI Infrastructure | Hardware & Compute | — |
 | AIH-01675 | Checkpoint Format | AI Infrastructure | AI Infrastructure | — |
 | AIH-01713 | Checkpoint Resharding | AI Infrastructure | AI Infrastructure | — |
-| AIH-00954 | Chiplet | AI Infrastructure | Hardware & Compute | — |
+| AIH-00954 | Chiplet | AI Infrastructure | Hardware & Compute | [2020](https://doi.org/10.1109/vlsi-soc46417.2020.9344081) (source only) |
 | AIH-01751 | Chunked Prefill | AI Infrastructure | AI Infrastructure | — |
 | AIH-01791 | Class Index Mismatch | AI Infrastructure | MLOps & Engineering | — |
-| AIH-00992 | Clock Speed | AI Infrastructure | Hardware & Compute | — |
+| AIH-00992 | Clock Speed | AI Infrastructure | Hardware & Compute | [1998](https://doi.org/10.1109/mspec.1998.694343) (source only) |
 | AIH-01030 | Cluster Utilization | AI Infrastructure | Hardware & Compute | — |
 | AIH-01068 | Coalesced Memory Access | AI Infrastructure | Hardware & Compute | — |
 | AIH-01789 | Cold Start Latency | AI Infrastructure | AI Infrastructure | — |
@@ -182,7 +182,7 @@
 | AIH-02019 | Completeness Check | AI Infrastructure | MLOps & Engineering | — |
 | AIH-01903 | Completion Endpoint | AI Infrastructure | AI Infrastructure | — |
 | AIH-01941 | Completion Token | AI Infrastructure | AI Infrastructure | — |
-| AIH-01182 | Compute Capability | AI Infrastructure | Hardware & Compute | — |
+| AIH-01182 | Compute Capability | AI Infrastructure | Hardware & Compute | [2022](https://doi.org/10.1109/iscas48785.2022.9937848) (source only) |
 | AIH-01979 | Compute Efficiency | AI Infrastructure | AI Infrastructure | — |
 | AIH-01220 | Compute Efficiency Frontier | AI Infrastructure | Hardware & Compute | — |
 | AIH-01258 | Compute Scarcity | AI Infrastructure | Hardware & Compute | — |
@@ -196,7 +196,7 @@
 | AIH-02131 | Container | AI Infrastructure | AI Infrastructure | — |
 | AIH-02169 | Container Image | AI Infrastructure | AI Infrastructure | — |
 | AIH-02207 | Container Registry | AI Infrastructure | AI Infrastructure | — |
-| AIH-01334 | Container Runtime | AI Infrastructure | Hardware & Compute | — |
+| AIH-01334 | Container Runtime | AI Infrastructure | Hardware & Compute | [2017](https://doi.org/10.1109/cscloud.2017.68) (source only) |
 | AIH-02245 | Containerization | AI Infrastructure | AI Infrastructure | — |
 | AIH-02283 | Content Delivery Network (CDN) | AI Infrastructure | AI Infrastructure | — |
 | AIH-02321 | Context Cache Lifetime | AI Infrastructure | AI Infrastructure | — |
@@ -205,7 +205,7 @@
 | AIH-02171 | Continuous Drift Measure | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02209 | Continuous Training (CT) | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02247 | Control Gap | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01372 | Core Count | AI Infrastructure | Hardware & Compute | — |
+| AIH-01372 | Core Count | AI Infrastructure | Hardware & Compute | [2016](https://doi.org/10.1109/phosst.2016.7548812) (source only) |
 | AIH-02285 | Corrective Control | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02323 | Correlation ID | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02435 | Cost Anomaly Detection | AI Infrastructure | AI Infrastructure | — |
@@ -220,7 +220,7 @@
 | AIH-02475 | Customer Impact Assessment | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02513 | DAG Definition | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02551 | Dark Launch | AI Infrastructure | MLOps & Engineering | — |
-| AIH-01410 | Dark Silicon | AI Infrastructure | Hardware & Compute | — |
+| AIH-01410 | Dark Silicon | AI Infrastructure | Hardware & Compute | [2011](https://doi.org/10.1109/mm.2011.77) (source only) |
 | AIH-02589 | Dashboard | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02627 | Data Contract | AI Infrastructure | MLOps & Engineering | — |
 | AIH-02665 | Data Deletion Propagation | AI Infrastructure | MLOps & Engineering | — |
@@ -251,7 +251,7 @@
 | AIH-03230 | Degenerate Feedback Loop | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03267 | Delayed Label Pipeline | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03005 | Demand Forecasting for Serving | AI Infrastructure | AI Infrastructure | — |
-| AIH-01486 | Dennard Scaling | AI Infrastructure | Hardware & Compute | — |
+| AIH-01486 | Dennard Scaling | AI Infrastructure | Hardware & Compute | [2016](https://doi.org/10.1088/1742-6596/762/1/012022) (source only) |
 | AIH-03304 | Dependency Lockfile | AI Infrastructure | MLOps & Engineering | — |
 | AIH-03043 | Deployment Freeze | AI Infrastructure | AI Infrastructure | — |
 | AIH-03341 | Deployment Gate | AI Infrastructure | MLOps & Engineering | — |
@@ -481,30 +481,30 @@
 | AIH-00453 | AI Risk Assessment | AI Safety | AI Ethics & Safety | [2023](https://doi.org/10.2139/ssrn.4464783) (source only) |
 | AIH-00491 | AI Safety | AI Safety | AI Ethics & Safety | [2018](https://doi.org/10.1201/9781351251389-13) (source only) |
 | AIH-00264 | AI Safety Institute (AISI) | AI Safety | AI Policy & Governance | — |
-| AIH-00529 | AI Watermarking | AI Safety | AI Ethics & Safety | — |
+| AIH-00529 | AI Watermarking | AI Safety | AI Ethics & Safety | [2024](https://doi.org/10.1038/d41586-024-03418-x) (source only) |
 | AIH-00302 | Algorithmic Auditing | AI Safety | AI Policy & Governance | [2021](https://doi.org/10.1145/3465416.3483294) (source only) |
 | AIH-00340 | Algorithmic Impact Assessment (AIA) | AI Safety | AI Policy & Governance | [2025](https://doi.org/10.70183/lijdlr.2025.v03.185) (source only) |
 | AIH-00378 | Algorithmic Management | AI Safety | AI Policy & Governance | — |
-| AIH-00567 | Alignment Faking | AI Safety | AI Ethics & Safety | — |
-| AIH-00605 | Alignment Objective | AI Safety | AI Ethics & Safety | — |
+| AIH-00567 | Alignment Faking | AI Safety | AI Ethics & Safety | [2025](https://doi.org/10.1609/aaaiss.v7i1.36887) (source only) |
+| AIH-00605 | Alignment Objective | AI Safety | AI Ethics & Safety | [2021](https://doi.org/10.18653/v1/2021.findings-emnlp.329) (source only) |
 | AIH-00416 | Allocative Harm | AI Safety | AI Policy & Governance | [2021](https://doi.org/10.5210/fm.v26i8.11717) (source only) |
 | AIH-00454 | Annotator Wellbeing | AI Safety | AI Policy & Governance | — |
-| AIH-00643 | Anomalous Action Detection | AI Safety | AI Ethics & Safety | — |
-| AIH-00681 | Anthropomorphism | AI Safety | AI Ethics & Safety | — |
+| AIH-00643 | Anomalous Action Detection | AI Safety | AI Ethics & Safety | [2021](https://doi.org/10.1007/s40747-021-00319-8) (source only) |
+| AIH-00681 | Anthropomorphism | AI Safety | AI Ethics & Safety | [1991](https://doi.org/10.1515/9781474473453-014) (source only) |
 | AIH-00492 | Appeal Process | AI Safety | AI Policy & Governance | [1948](https://doi.org/10.2307/1283867) (source only) |
-| AIH-00719 | Ask for Clarification | AI Safety | AI Ethics & Safety | — |
+| AIH-00719 | Ask for Clarification | AI Safety | AI Ethics & Safety | [2003](https://doi.org/10.1038/laban0403-19b) (source only) |
 | AIH-00757 | Assistance Game | AI Safety | AI Ethics & Safety | — |
-| AIH-00530 | Attribution Requirement | AI Safety | AI Policy & Governance | — |
-| AIH-00568 | Audit Access | AI Safety | AI Policy & Governance | — |
-| AIH-00606 | Automated Decision-Making (ADM) | AI Safety | AI Policy & Governance | — |
+| AIH-00530 | Attribution Requirement | AI Safety | AI Policy & Governance | [2009](https://openalex.org/W1912622569) (source only) |
+| AIH-00568 | Audit Access | AI Safety | AI Policy & Governance | [2016](https://doi.org/10.12968/bjca.2016.11.12.578) (source only) |
+| AIH-00606 | Automated Decision-Making (ADM) | AI Safety | AI Policy & Governance | [2019](https://doi.org/10.5167/uzh-183655) (source only) |
 | AIH-00795 | Automated Jailbreak Search | AI Safety | AI Ethics & Safety | — |
-| AIH-00644 | Automation Complacency | AI Safety | AI Policy & Governance | — |
+| AIH-00644 | Automation Complacency | AI Safety | AI Policy & Governance | [2010](https://doi.org/10.22488/okstate.18.100398) (source only) |
 | AIH-00682 | Autonomous Replication Evaluation | AI Safety | AI Policy & Governance | — |
 | AIH-00833 | Autonomous Weapons | AI Safety | AI Ethics & Safety | — |
-| AIH-00871 | Behavioural Consistency | AI Safety | AI Ethics & Safety | — |
+| AIH-00871 | Behavioural Consistency | AI Safety | AI Ethics & Safety | [1983](https://doi.org/10.1016/0260-4779(83)90025-0) (source only) |
 | AIH-00909 | Behavioural Tripwire | AI Safety | AI Ethics & Safety | — |
 | AIH-00947 | Benefit Sharing | AI Safety | AI Ethics & Safety | — |
-| AIH-00720 | Bias Audit | AI Safety | AI Policy & Governance | — |
+| AIH-00720 | Bias Audit | AI Safety | AI Policy & Governance | [2024](https://doi.org/10.1080/13600869.2024.2403053) (source only) |
 | AIH-00758 | Biometric Privacy Law | AI Safety | AI Policy & Governance | — |
 
 — means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.

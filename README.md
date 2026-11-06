@@ -10,6 +10,10 @@
 
 **[Date research quality report](data/DATE_RESEARCH_001_REPORT.json)** — attached date count and outstanding investigations. Publication dates are not proven original coinage dates.
 
+**[Next 1,000 term-date research (IDs AIH-00501 to AIH-01500)](batches/DATE_RESEARCH_002_NEXT_1000.md)** — two full 500-row tables, linked source-documented dates, and unresolved statuses.
+
+**[Research batch 002 JSON report](data/DATE_RESEARCH_002_REPORT.json)** — dated and unresolved totals.
+
 ## Browse complete keyword tables
 
 | Inventory set | Added keywords | Full tables | ID range |

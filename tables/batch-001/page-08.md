@@ -114,33 +114,33 @@
 | AIH-00396 | Anti-Pattern | Programming & Software | Programming & Software | [2006](https://doi.org/10.59347/kadkc-hnr30) (source only) |
 | AIH-00434 | API Versioning | Programming & Software | Programming & Software | [2022](https://doi.org/10.1007/978-1-4842-8008-9_6) (source only) |
 | AIH-00472 | Array | Programming & Software | Programming & Software | [2000](https://doi.org/10.1201/9781420040630.ch2) (source only) |
-| AIH-00510 | Assertion | Programming & Software | Programming & Software | — |
-| AIH-00548 | Async/Await | Programming & Software | Programming & Software | — |
-| AIH-00586 | Atomic Operation | Programming & Software | Programming & Software | — |
+| AIH-00510 | Assertion | Programming & Software | Programming & Software | [1985](https://doi.org/10.1017/cbo9780511895975.008) (source only) |
+| AIH-00548 | Async/Await | Programming & Software | Programming & Software | [2019](https://doi.org/10.1007/978-1-4842-4401-2_3) (source only) |
+| AIH-00586 | Atomic Operation | Programming & Software | Programming & Software | [1954](https://openalex.org/W175196363) (source only) |
 | AIH-00624 | Autofix Application | Programming & Software | Programming & Software | — |
 | AIH-00662 | Automated Fix Suggestion | Programming & Software | Programming & Software | — |
-| AIH-00700 | Backward Compatibility | Programming & Software | Programming & Software | — |
+| AIH-00700 | Backward Compatibility | Programming & Software | Programming & Software | [1994](https://doi.org/10.1016/0165-1765(94)90042-6) (source only) |
 | AIH-00738 | Backward Pass Debugging | Programming & Software | Programming & Software | — |
 | AIH-00776 | Big-O in Practice | Programming & Software | Programming & Software | — |
 | AIH-00814 | Binary Search Debugging | Programming & Software | Programming & Software | — |
-| AIH-00852 | Bisect | Programming & Software | Programming & Software | — |
+| AIH-00852 | Bisect | Programming & Software | Programming & Software | [2011](https://doi.org/10.1109/bcgin.2011.62) (source only) |
 | AIH-00890 | Blame | Programming & Software | Programming & Software | — |
 | AIH-00928 | Blast Radius of a Change | Programming & Software | Programming & Software | — |
 | AIH-00966 | Borrow Checker | Programming & Software | Programming & Software | — |
-| AIH-01004 | Bounded Context | Programming & Software | Programming & Software | — |
-| AIH-01042 | Branch | Programming & Software | Programming & Software | — |
+| AIH-01004 | Bounded Context | Programming & Software | Programming & Software | [1964](https://doi.org/10.1145/1464122.1464125) (source only) |
+| AIH-01042 | Branch | Programming & Software | Programming & Software | [1979](https://doi.org/10.1093/forestscience/25.2.303) (source only) |
 | AIH-01080 | Branch Coverage | Programming & Software | Programming & Software | — |
-| AIH-01118 | Branch Protection | Programming & Software | Programming & Software | — |
+| AIH-01118 | Branch Protection | Programming & Software | Programming & Software | [2011](https://doi.org/10.1111/j.1744-1633.2011.00567.x) (source only) |
 | AIH-01156 | Breaking Change | Programming & Software | Programming & Software | — |
 | AIH-01194 | Breaking Change Notice | Programming & Software | Programming & Software | — |
-| AIH-01232 | Buffer Overflow | Programming & Software | Programming & Software | — |
-| AIH-01270 | Bug Reproduction | Programming & Software | Programming & Software | — |
+| AIH-01232 | Buffer Overflow | Programming & Software | Programming & Software | [1996](https://doi.org/10.1017/s0021900200100282) (source only) |
+| AIH-01270 | Bug Reproduction | Programming & Software | Programming & Software | [2010](https://doi.org/10.1145/1735971.1736039) (source only) |
 | AIH-01308 | Build Cache | Programming & Software | Programming & Software | — |
 | AIH-01346 | Build Graph | Programming & Software | Programming & Software | — |
-| AIH-01384 | Build Pipeline | Programming & Software | Programming & Software | — |
-| AIH-01422 | Bytecode | Programming & Software | Programming & Software | — |
-| AIH-01460 | Cache Locality | Programming & Software | Programming & Software | — |
-| AIH-01498 | Call Graph | Programming & Software | Programming & Software | — |
+| AIH-01384 | Build Pipeline | Programming & Software | Programming & Software | [2004](https://doi.org/10.1061/40745(146)52) (source only) |
+| AIH-01422 | Bytecode | Programming & Software | Programming & Software | [1996](https://doi.org/10.1016/s1353-4858(96)90173-7) (source only) |
+| AIH-01460 | Cache Locality | Programming & Software | Programming & Software | [1993](https://doi.org/10.1145/173262.155107) (source only) |
+| AIH-01498 | Call Graph | Programming & Software | Programming & Software | [1995](https://doi.org/10.1007/978-1-4615-2215-7_11) (source only) |
 | AIH-01536 | Callback | Programming & Software | Programming & Software | — |
 | AIH-01574 | CAP Theorem | Programming & Software | Programming & Software | — |
 | AIH-01612 | Catastrophic Backtracking | Programming & Software | Programming & Software | — |
@@ -251,24 +251,24 @@
 | AIH-00397 | Bloch Sphere | Quantum & Emerging Compute | Quantum & Emerging Compute | [2003](https://doi.org/10.1109/qels.2003.238043) (source only) |
 | AIH-00435 | Circuit Depth | Quantum & Emerging Compute | Quantum & Emerging Compute | [1988](https://doi.org/10.7146/dpb.v17i239.7595) (source only) |
 | AIH-00473 | CNOT Gate | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00511 | Coherence Time | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00549 | Crossbar Array | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00587 | Cryogenic Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-00511 | Coherence Time | Quantum & Emerging Compute | Quantum & Emerging Compute | [1974](https://doi.org/10.1080/713818895) (source only) |
+| AIH-00549 | Crossbar Array | Quantum & Emerging Compute | Quantum & Emerging Compute | [2008](https://doi.org/10.1007/978-0-387-74747-7_5) (source only) |
+| AIH-00587 | Cryogenic Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | [2015](https://doi.org/10.1109/tasc.2015.2399866) (source only) |
 | AIH-00625 | Data Encoding in Quantum Circuits | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00663 | DNA Data Storage | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-00663 | DNA Data Storage | Quantum & Emerging Compute | Quantum & Emerging Compute | [2014](https://doi.org/10.5573/ieie.2014.51.10.118) (source only) |
 | AIH-00701 | Energy-Efficient Inference | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-00739 | Entanglement | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00777 | Error Mitigation | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-00777 | Error Mitigation | Quantum & Emerging Compute | Quantum & Emerging Compute | [2004](https://doi.org/10.2172/920113) (source only) |
 | AIH-00815 | Event Camera | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-00853 | Event-Driven Computation | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00891 | Fault-Tolerant Quantum Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00929 | Gate Fidelity | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-00967 | Grover's Algorithm | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-01005 | Hadamard Gate | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-00891 | Fault-Tolerant Quantum Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | [2008](https://doi.org/10.1201/b15868-6) (source only) |
+| AIH-00929 | Gate Fidelity | Quantum & Emerging Compute | Quantum & Emerging Compute | [2002](https://doi.org/10.1016/s0375-9601(02)01272-0) (source only) |
+| AIH-00967 | Grover's Algorithm | Quantum & Emerging Compute | Quantum & Emerging Compute | [2024](https://doi.org/10.17504/protocols.io.e6nvw1wj9lmk/v1) (source only) |
+| AIH-01005 | Hadamard Gate | Quantum & Emerging Compute | Quantum & Emerging Compute | [2005](https://doi.org/10.1016/j.physleta.2005.05.008) (source only) |
 | AIH-01043 | Harvest Now Decrypt Later (HNDL) | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-01081 | Hybrid Quantum-Classical Loop | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-01119 | Ising Model | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-01157 | Landauer Limit | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-01119 | Ising Model | Quantum & Emerging Compute | Quantum & Emerging Compute | [1973](https://doi.org/10.4159/harvard.9780674180758.c2) (source only) |
+| AIH-01157 | Landauer Limit | Quantum & Emerging Compute | Quantum & Emerging Compute | [2008](https://doi.org/10.1109/icmel.2008.4559226) (source only) |
 | AIH-01195 | Logical Qubit | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-01233 | Measurement in Quantum Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-01271 | Measurement Shot | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
@@ -276,8 +276,8 @@
 | AIH-01347 | NISQ Era | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-01385 | Optical Neural Network | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-01423 | Parameterized Quantum Circuit (PQC) | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-01461 | Photonic Quantum Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
-| AIH-01499 | Physical Reservoir | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
+| AIH-01461 | Photonic Quantum Computing | Quantum & Emerging Compute | Quantum & Emerging Compute | [1996](https://doi.org/10.1117/12.243112) (source only) |
+| AIH-01499 | Physical Reservoir | Quantum & Emerging Compute | Quantum & Emerging Compute | [2021](https://doi.org/10.1007/978-981-13-1687-6_8) (source only) |
 | AIH-01537 | Probabilistic Bit | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-01575 | Quantum Advantage | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
 | AIH-01613 | Quantum Annealing | Quantum & Emerging Compute | Quantum & Emerging Compute | — |
@@ -332,29 +332,29 @@
 | AIH-00550 | Clickbait Penalty | Recommender Systems | Recommender Systems | — |
 | AIH-00588 | Cold Start for Items | Recommender Systems | Recommender Systems | — |
 | AIH-00626 | Cold Start for Users | Recommender Systems | Recommender Systems | — |
-| AIH-00664 | Collaborative Filtering (CF) | Recommender Systems | Recommender Systems | — |
+| AIH-00664 | Collaborative Filtering (CF) | Recommender Systems | Recommender Systems | [2014](https://doi.org/10.13088/jiis.2014.20.2.137) (source only) |
 | AIH-00702 | Complementary Item | Recommender Systems | Recommender Systems | — |
 | AIH-00740 | Consumer-Side Fairness | Recommender Systems | Recommender Systems | — |
-| AIH-00778 | Content-Based Filtering | Recommender Systems | Recommender Systems | — |
+| AIH-00778 | Content-Based Filtering | Recommender Systems | Recommender Systems | [2004](https://doi.org/10.1145/1015330.1015394) (source only) |
 | AIH-00816 | Contextual Feature | Recommender Systems | Recommender Systems | — |
 | AIH-00854 | Conversational Recommendation | Recommender Systems | Recommender Systems | — |
 | AIH-00892 | Conversion Rate Prediction (CVR) | Recommender Systems | Recommender Systems | — |
-| AIH-00930 | Counterfactual Evaluation | Recommender Systems | Recommender Systems | — |
+| AIH-00930 | Counterfactual Evaluation | Recommender Systems | Recommender Systems | [2017](https://doi.org/10.2139/ssrn.3006737) (source only) |
 | AIH-00968 | Coverage | Recommender Systems | Recommender Systems | — |
 | AIH-01006 | Creator Cold Start | Recommender Systems | Recommender Systems | — |
-| AIH-01044 | Critiquing-Based Recommendation | Recommender Systems | Recommender Systems | — |
-| AIH-01082 | Cross-Domain Recommendation | Recommender Systems | Recommender Systems | — |
-| AIH-01120 | DeepFM | Recommender Systems | Recommender Systems | — |
+| AIH-01044 | Critiquing-Based Recommendation | Recommender Systems | Recommender Systems | [2022](https://doi.org/10.1109/thms.2021.3131674) (source only) |
+| AIH-01082 | Cross-Domain Recommendation | Recommender Systems | Recommender Systems | [2016](https://doi.org/10.1109/fuzz-ieee.2016.7737834) (source only) |
+| AIH-01120 | DeepFM | Recommender Systems | Recommender Systems | [2017](https://doi.org/10.24963/ijcai.2017/239) (source only) |
 | AIH-01158 | Diversity in Recommendations | Recommender Systems | Recommender Systems | — |
 | AIH-01196 | Dwell-Based Relevance | Recommender Systems | Recommender Systems | — |
-| AIH-01234 | Echo Chamber Effect | Recommender Systems | Recommender Systems | — |
+| AIH-01234 | Echo Chamber Effect | Recommender Systems | Recommender Systems | [2000](https://doi.org/10.1007/1-4020-0613-6_5786) (source only) |
 | AIH-01272 | Editorial Curation | Recommender Systems | Recommender Systems | — |
-| AIH-01310 | Email Recommendation | Recommender Systems | Recommender Systems | — |
+| AIH-01310 | Email Recommendation | Recommender Systems | Recommender Systems | [2025](https://doi.org/10.33021/itfs.v10i1.6278) (source only) |
 | AIH-01348 | Embedding Refresh Cadence | Recommender Systems | Recommender Systems | — |
 | AIH-01386 | Embedding Table | Recommender Systems | Recommender Systems | — |
 | AIH-01424 | Embedding Table Sharding | Recommender Systems | Recommender Systems | — |
-| AIH-01462 | Explicit Feedback | Recommender Systems | Recommender Systems | — |
-| AIH-01500 | Exploration in Recommendation | Recommender Systems | Recommender Systems | — |
+| AIH-01462 | Explicit Feedback | Recommender Systems | Recommender Systems | [2007](https://doi.org/10.1109/hpsr.2007.4281272) (source only) |
+| AIH-01500 | Exploration in Recommendation | Recommender Systems | Recommender Systems | [2025](https://doi.org/10.52783/jisem.v10i63s.13905) (source only) |
 | AIH-01538 | Exposure Bias in Recommendation | Recommender Systems | Recommender Systems | — |
 | AIH-01576 | Exposure Guarantee | Recommender Systems | Recommender Systems | — |
 | AIH-01614 | Factorization Machine (FM) | Recommender Systems | Recommender Systems | — |
@@ -433,19 +433,19 @@
 | AIH-00413 | AlphaZero | Reinforcement Learning | Reinforcement Learning | [2018](https://doi.org/10.1109/taai.2018.00034) (source only) |
 | AIH-00451 | Ape-X | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-00489 | Automatic Curriculum | Reinforcement Learning | Reinforcement Learning | [2016](https://doi.org/10.12792/icisip2016.045) (source only) |
-| AIH-00527 | Baseline Subtraction | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-00527 | Baseline Subtraction | Reinforcement Learning | Reinforcement Learning | [1983](https://doi.org/10.1148/radiology.146.3.6828697) (source only) |
 | AIH-00565 | Batch-Constrained RL | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-00603 | Behaviour Policy | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-00603 | Behaviour Policy | Reinforcement Learning | Reinforcement Learning | [1994](https://doi.org/10.1080/0266736940100303) (source only) |
 | AIH-00641 | Behaviour Regularization | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-00679 | Belief State | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-00679 | Belief State | Reinforcement Learning | Reinforcement Learning | [1986](https://doi.org/10.1111/j.1475-4975.1987.tb00546.x) (source only) |
 | AIH-00717 | Bellman Backup | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-00755 | Bellman Optimality Equation | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-00755 | Bellman Optimality Equation | Reinforcement Learning | Reinforcement Learning | [2013](https://doi.org/10.1007/978-1-4419-1153-7_200007) (source only) |
 | AIH-00793 | Benchmark Suite for RL | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-00831 | Bootstrapping in RL | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-00869 | C51 | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-00907 | Centralized Training Decentralized Execution (CTDE) | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-00945 | Clipping Range | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-00983 | Conditional Value at Risk (CVaR) | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-00945 | Clipping Range | Reinforcement Learning | Reinforcement Learning | [2021](https://doi.org/10.1109/saci51354.2021.9465602) (source only) |
+| AIH-00983 | Conditional Value at Risk (CVaR) | Reinforcement Learning | Reinforcement Learning | [2007](https://doi.org/10.1080/02331930701617080) (source only) |
 | AIH-01021 | Conservative Q-Learning (CQL) | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-01059 | Constrained MDP (CMDP) | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-01097 | Continuous Control | Reinforcement Learning | Reinforcement Learning | — |
@@ -454,7 +454,7 @@
 | AIH-01211 | Covariate Shift in Imitation | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-01249 | Credit Assignment in Multi-Agent RL | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-01287 | Critic | Reinforcement Learning | Reinforcement Learning | — |
-| AIH-01325 | Curiosity-Driven Exploration | Reinforcement Learning | Reinforcement Learning | — |
+| AIH-01325 | Curiosity-Driven Exploration | Reinforcement Learning | Reinforcement Learning | [2014](https://doi.org/10.1109/elektro.2014.6848933) (source only) |
 | AIH-01363 | Curriculum Generation | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-01401 | DAgger | Reinforcement Learning | Reinforcement Learning | — |
 | AIH-01439 | DDPG | Reinforcement Learning | Reinforcement Learning | — |
