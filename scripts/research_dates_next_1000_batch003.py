@@ -15,7 +15,7 @@ from research_dates_openalex_fallback import look as openalex_lookup
 ROOT=Path(__file__).resolve().parents[1]
 FILE=ROOT/"data/KEYWORD_INVENTORY.csv"
 INDEX=ROOT/"batches/DATE_RESEARCH_003_NEXT_1000.md"
-PAGES=ROOT/"batches/date-research-002"
+PAGES=ROOT/"batches/date-research-003"
 REPORT=ROOT/"data/DATE_RESEARCH_003_REPORT.json"
 
 def safe(value):
