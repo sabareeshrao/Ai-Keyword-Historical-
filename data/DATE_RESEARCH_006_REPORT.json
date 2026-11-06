@@ -14,5 +14,17 @@
   "stable_ids_preserved": true,
   "inventory_total": 20100,
   "estimated_display_rule": "★ immediately after year; low-confidence supporting source and reasoning mandatory.",
-  "note": "Neither linked publication dates nor estimated years prove historical first use."
+  "note": "Neither linked publication dates nor estimated years prove historical first use.",
+  "manual_semantic_source_corrections": 1,
+  "semantic_corrections": [
+    {
+      "id": "AIH-06007",
+      "keyword": "Reflexion",
+      "old_year": "1946",
+      "old_source": "https://doi.org/10.1038/158422a0",
+      "corrected_year": "2023",
+      "new_source": "https://arxiv.org/abs/2303.11366",
+      "reason": "1946 source used generic English word; 2023 primary source introduced named AI agent framework."
+    }
+  ]
 }

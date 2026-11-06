@@ -25,3 +25,7 @@ All first-use dates remain unverified. Existing 4,500 previously researched IDs 
 
 [Research report](../data/DATE_RESEARCH_006_REPORT.json) | [Master CSV](../data/KEYWORD_INVENTORY.csv)
 
+
+## Semantic source correction
+
+- **AIH-06007 Reflexion**: rejected a generic 1946 occurrence of the English word. The named language-agent framework was introduced by Shinn and colleagues in the [2023 original paper](https://arxiv.org/abs/2303.11366). This is a documented method-introduction year, not a claim about the English word's first use.

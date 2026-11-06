@@ -37,7 +37,7 @@
 | AIH-05932 | Reactive Planning | Agentic AI | AI Agents | [1990](https://doi.org/10.21236/ada454844) (source only) |
 | AIH-05957 | Read-Only Tool | Agentic AI | AI Agents | — |
 | AIH-05982 | Red Team Prompt | Agentic AI | AI Agents | [2026](https://doi.org/10.1109/ccge67142.2026.11581521) (source only) |
-| AIH-06007 | Reflexion | Agentic AI | AI Agents | [1946](https://doi.org/10.1038/158422a0) (source only) |
+| AIH-06007 | Reflexion | Agentic AI | AI Agents | [2023](https://arxiv.org/abs/2303.11366) (source only) |
 | AIH-06032 | Refusal | Agentic AI | AI Agents | — |
 | AIH-06057 | Refusal Calibration | Agentic AI | AI Agents | — |
 | AIH-06082 | Relevance Filtering | Agentic AI | AI Agents | [2002](https://doi.org/10.1145/566500.566502) (source only) |

@@ -14,7 +14,7 @@
 | AIH-06004 | FP8 Training | Deep Learning | — | Unresolved | — |
 | AIH-06005 | Layered Safety for Generation | Generative AI | — | Unresolved | — |
 | AIH-06006 | Language Detection | NLP and LLMs | — | Unresolved | — |
-| AIH-06007 | Reflexion | Agentic AI | 1946 | Dated publication mention | [Source](https://doi.org/10.1038/158422a0) |
+| AIH-06007 | Reflexion | Agentic AI | 2023 | Original agent-framework publication | [Source](https://arxiv.org/abs/2303.11366) |
 | AIH-06008 | Cognitive Map | AI Foundations | 1987 | Dated publication mention | [Source](https://doi.org/10.1007/978-94-009-3531-0_20) |
 | AIH-06009 | Tactic | AI Foundations | — | Unresolved | — |
 | AIH-06010 | System Identification for Transfer | Reinforcement Learning | — | Unresolved | — |
