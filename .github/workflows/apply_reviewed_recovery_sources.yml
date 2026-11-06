@@ -1,0 +1,31 @@
+name: Apply six reviewed recovery sources safely
+on:
+  push:
+    paths:
+      - ".github/workflows/apply_reviewed_recovery_sources.yml"
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Rebase on newest main before applying evidence
+        run: git pull --rebase origin main
+      - name: Apply reviewed sources and validate all 20,100 IDs
+        run: python scripts/apply_reviewed_recovery_sources.py
+      - name: Commit only verified changes without forcing branch
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/KEYWORD_INVENTORY.csv data/DATE_RESEARCH_004_REPORT.json README.md batches/DATE_RESEARCH_004_RECOVERY_FIRST_1000.md batches/date-research-004/page-01.md batches/date-research-004/page-02.md
+          if git diff --cached --quiet; then echo "No additional reviewed changes"; exit 0; fi
+          git commit -m "Add six researched historical dates to recovery 004 without overwriting newer batches"
+          git push origin HEAD:main

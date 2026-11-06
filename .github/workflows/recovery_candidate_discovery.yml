@@ -1,0 +1,28 @@
+name: Historical candidate discovery (manual)
+on:
+  workflow_dispatch:
+    inputs:
+      terms:
+        description: 'Number of currently pending recovery keywords to research (1-1000)'
+        required: true
+        default: '100'
+      workers:
+        description: 'Concurrent search workers (1-6)'
+        required: true
+        default: '3'
+permissions:
+  contents: read
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - name: Discover dated primary publication candidates
+        run: python3 scripts/recovery_evidence_discovery.py --limit ${{ inputs.terms }} --workers ${{ inputs.workers }}
+      - name: Upload full candidate research queue
+        uses: actions/upload-artifact@v4
+        with:
+          name: recovery-004-dated-publication-candidates
+          path: data/RECOVERY_004_CANDIDATES.csv
+          retention-days: 30
