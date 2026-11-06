@@ -11,7 +11,7 @@
 | AIH-11501 | stackelberg game | Reinforcement Learning | 1987 | Dated publication mention | [Source](https://doi.org/10.1016/s0165-1889(87)80004-0) |
 | AIH-11502 | stackelberg games | Reinforcement Learning | 2004 | Dated publication mention | [Source](https://doi.org/10.1016/j.geb.2003.07.003) |
 | AIH-11503 | chromosome translocation | Data Science | 1960 | Dated publication mention | [Source](https://doi.org/10.1016/s0140-6736(60)91749-9) |
-| AIH-11504 | temporal differences | Reinforcement Learning | 1981 | Dated publication mention | [Source](https://doi.org/10.1121/1.386775) |
+| AIH-11504 | temporal differences | Reinforcement Learning | 1988 | Early primary research (origin unverified) | [Source](https://doi.org/10.1007/BF00115009) |
 | AIH-11505 | utility function | Reinforcement Learning | 1934 | Dated publication mention | [Source](https://doi.org/10.2307/2967485) |
 | AIH-11506 | utility functions | Reinforcement Learning | 1976 | Dated publication mention | [Source](https://doi.org/10.21236/ada029655) |
 | AIH-11507 | chromosome translocation 11 | Data Science | — | Unresolved | — |

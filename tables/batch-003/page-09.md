@@ -334,7 +334,7 @@
 | AIH-11502 | stackelberg games | Reinforcement Learning | CSO: game theory | [2004](https://doi.org/10.1016/j.geb.2003.07.003) (source only) |
 | AIH-14687 | strategic game | Reinforcement Learning | CSO: game theory | — |
 | AIH-14688 | strategy proofs | Reinforcement Learning | CSO: game theory | — |
-| AIH-11504 | temporal differences | Reinforcement Learning | CSO: reinforcement learning | [1981](https://doi.org/10.1121/1.386775) (source only) |
+| AIH-11504 | temporal differences | Reinforcement Learning | CSO: reinforcement learning | [1988](https://doi.org/10.1007/BF00115009) (source only) |
 | AIH-14689 | truthful mechanisms | Reinforcement Learning | CSO: game theory | — |
 | AIH-11505 | utility function | Reinforcement Learning | CSO: game theory | [1934](https://doi.org/10.2307/2967485) (source only) |
 | AIH-11506 | utility functions | Reinforcement Learning | CSO: game theory | [1976](https://doi.org/10.21236/ada029655) (source only) |

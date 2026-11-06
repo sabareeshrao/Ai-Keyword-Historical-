@@ -28,16 +28,16 @@
 | AIH-13865 | item sets | Machine Learning | CSO: data mining | — |
 | AIH-13912 | iucn | Machine Learning | CSO: classification | — |
 | AIH-13925 | iucn red list | Machine Learning | CSO: classification | — |
-| AIH-11004 | k nearest neighbor algorithm | Machine Learning | CSO: pattern recognition | [2004](https://doi.org/10.1002/0471687545.ch5) (source only) |
-| AIH-11005 | k-means algorithm | Machine Learning | CSO: clustering | [2013](https://doi.org/10.3724/sp.j.1087.2012.03005) (source only) |
-| AIH-11006 | k-means algorithms | Machine Learning | CSO: clustering | [2004](https://doi.org/10.1002/0471667196.ess1351) (source only) |
-| AIH-11007 | k-means clustering | Machine Learning | CSO: clustering | — |
+| AIH-11004 | k nearest neighbor algorithm | Machine Learning | CSO: pattern recognition | [1967](https://doi.org/10.1109/TIT.1967.1053964) (source only) |
+| AIH-11005 | k-means algorithm | Machine Learning | CSO: clustering | [1966](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD632526.xhtml) (source only) |
+| AIH-11006 | k-means algorithms | Machine Learning | CSO: clustering | [1966](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD632526.xhtml) (source only) |
+| AIH-11007 | k-means clustering | Machine Learning | CSO: clustering | [1966](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD632526.xhtml) (source only) |
 | AIH-13866 | k-means clustering algorithm | Machine Learning | CSO: clustering | — |
 | AIH-13867 | k-means clustering method | Machine Learning | CSO: clustering | — |
 | AIH-13868 | k-means method | Machine Learning | CSO: clustering | — |
-| AIH-11009 | k-nearest neighbor | Machine Learning | CSO: clustering | — |
+| AIH-11009 | k-nearest neighbor | Machine Learning | CSO: clustering | [1967](https://doi.org/10.1109/TIT.1967.1053964) (source only) |
 | AIH-13869 | k-nearest neighbor classifier | Machine Learning | CSO: machine learning | — |
-| AIH-11011 | k-nn algorithm | Machine Learning | CSO: clustering | — |
+| AIH-11011 | k-nn algorithm | Machine Learning | CSO: clustering | [1967](https://doi.org/10.1109/TIT.1967.1053964) (source only) |
 | AIH-13870 | k-nn classifier | Machine Learning | CSO: machine learning | — |
 | AIH-13871 | k-nn query | Machine Learning | CSO: clustering | — |
 | AIH-11010 | kernel based methods | Machine Learning | CSO: machine learning | — |
@@ -69,7 +69,7 @@
 | AIH-13893 | membership degrees | Machine Learning | CSO: clustering | — |
 | AIH-13894 | memory-efficient fine-tuning | Machine Learning | CSO: machine learning | — |
 | AIH-13895 | microbial diversity | Machine Learning | CSO: classification | — |
-| AIH-11019 | microbispora | Machine Learning | CSO: classification | [1965](https://doi.org/10.1099/00207713-15-3-139) (source only) |
+| AIH-11019 | microbispora | Machine Learning | CSO: classification | — |
 | AIH-13896 | microsoft sql server | Machine Learning | CSO: data mining | — |
 | AIH-13897 | minimum support | Machine Learning | CSO: machine learning | — |
 | AIH-11020 | mining algorithms | Machine Learning | CSO: data mining | [2005](https://doi.org/10.4018/978-1-59140-557-3.ch037) (source only) |

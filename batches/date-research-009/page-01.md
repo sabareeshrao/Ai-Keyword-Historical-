@@ -24,7 +24,7 @@
 | AIH-10514 | peer-to-peer systems | AI Infrastructure | 2001 | Dated publication mention | [Source](https://openalex.org/W2100721895) |
 | AIH-10515 | peer-to-peer technologies | AI Infrastructure | 2004 | Dated publication mention | [Source](https://doi.org/10.1016/b978-155860933-4/50037-7) |
 | AIH-10516 | peer-to-peer | AI Infrastructure | 2001 | Dated publication mention | [Source](https://doi.org/10.1145/375348.377427) |
-| AIH-10517 | perceived risk | AI Infrastructure | 1964 | Dated publication mention | [Source](https://doi.org/10.1177/002224376400100405) |
+| AIH-10517 | perceived risk | AI Infrastructure | — | Unrelated source rejected | — |
 | AIH-10518 | perceived value | AI Infrastructure | 1987 | Dated publication mention | [Source](https://openalex.org/W650267594) |
 | AIH-10519 | probability--queueing theory | AI Infrastructure | 1978 ★ | Estimated ★ (low confidence) | [Source](https://doi.org/10.1016/c2013-0-10285-1) |
 | AIH-10520 | query languages | AI Infrastructure | 1978 | Dated publication mention | [Source](https://doi.org/10.1007/3-540-08921-7_60) |

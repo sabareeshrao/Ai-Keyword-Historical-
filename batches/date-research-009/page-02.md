@@ -11,14 +11,14 @@
 | AIH-11001 | hand posture recognition | Machine Learning | 1999 | Dated publication mention | [Source](https://doi.org/10.1145/632716.632901) |
 | AIH-11002 | high spatial frequency | Machine Learning | 1980 | Dated publication mention | [Source](https://doi.org/10.1016/0042-6989(80)90074-7) |
 | AIH-11003 | input features | Machine Learning | 1995 | Dated publication mention | [Source](https://doi.org/10.1016/0925-2312(94)e0053-t) |
-| AIH-11004 | k nearest neighbor algorithm | Machine Learning | 2004 | Dated publication mention | [Source](https://doi.org/10.1002/0471687545.ch5) |
-| AIH-11005 | k-means algorithm | Machine Learning | 2013 | Dated publication mention | [Source](https://doi.org/10.3724/sp.j.1087.2012.03005) |
-| AIH-11006 | k-means algorithms | Machine Learning | 2004 | Dated publication mention | [Source](https://doi.org/10.1002/0471667196.ess1351) |
-| AIH-11007 | k-means clustering | Machine Learning | — | Unresolved | — |
+| AIH-11004 | k nearest neighbor algorithm | Machine Learning | 1967 | Early primary research (origin unverified) | [Source](https://doi.org/10.1109/TIT.1967.1053964) |
+| AIH-11005 | k-means algorithm | Machine Learning | 1966 | Early primary research (origin unverified) | [Source](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD632526.xhtml) |
+| AIH-11006 | k-means algorithms | Machine Learning | 1966 | Early primary research (origin unverified) | [Source](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD632526.xhtml) |
+| AIH-11007 | k-means clustering | Machine Learning | 1966 | Early primary research (origin unverified) | [Source](https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD632526.xhtml) |
 | AIH-11008 | human facial expressions | Machine Learning | — | Unresolved | — |
-| AIH-11009 | k-nearest neighbor | Machine Learning | — | Unresolved | — |
+| AIH-11009 | k-nearest neighbor | Machine Learning | 1967 | Early primary research (origin unverified) | [Source](https://doi.org/10.1109/TIT.1967.1053964) |
 | AIH-11010 | kernel based methods | Machine Learning | — | Unresolved | — |
-| AIH-11011 | k-nn algorithm | Machine Learning | — | Unresolved | — |
+| AIH-11011 | k-nn algorithm | Machine Learning | 1967 | Early primary research (origin unverified) | [Source](https://doi.org/10.1109/TIT.1967.1053964) |
 | AIH-11012 | knowledge discovery | Machine Learning | — | Unresolved | — |
 | AIH-11013 | kernel matrices | Machine Learning | — | Unresolved | — |
 | AIH-11014 | learning vector quantization (lvq) | Machine Learning | — | Unresolved | — |
@@ -26,7 +26,7 @@
 | AIH-11016 | link analysis | Machine Learning | 2000 | Dated publication mention | [Source](https://doi.org/10.15760/etd.3136) |
 | AIH-11017 | license plate detection | Machine Learning | — | Unresolved | — |
 | AIH-11018 | local patterns | Machine Learning | 1992 | Dated publication mention | [Source](https://doi.org/10.1525/9780520915008-008) |
-| AIH-11019 | microbispora | Machine Learning | 1965 | Dated publication mention | [Source](https://doi.org/10.1099/00207713-15-3-139) |
+| AIH-11019 | microbispora | Machine Learning | — | Unrelated source rejected | — |
 | AIH-11020 | mining algorithms | Machine Learning | 2005 | Dated publication mention | [Source](https://doi.org/10.4018/978-1-59140-557-3.ch037) |
 | AIH-11021 | mining association rules | Machine Learning | 2007 | Dated publication mention | [Source](https://doi.org/10.1109/cidm.2007.368932) |
 | AIH-11022 | mining process | Machine Learning | — | Unresolved | — |

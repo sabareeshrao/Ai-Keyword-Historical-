@@ -5,14 +5,116 @@
     "AIH-12500"
   ],
   "examined": 2000,
-  "documented_source_dates": 1334,
-  "unresolved": 664,
+  "documented_source_dates": 1335,
+  "unresolved": 663,
   "estimated_star_dates": 2,
-  "dated_or_estimated": 1336,
+  "dated_or_estimated": 1337,
   "verified_original_first_use": 0,
   "existing_first_10500_unchanged": true,
   "stable_ids_preserved": true,
   "inventory_total": 20100,
   "estimated_display_rule": "★ immediately after year; low-confidence supporting source and reasoning mandatory.",
-  "note": "Neither linked publication dates nor estimated years prove historical first use."
+  "note": "Neither linked publication dates nor estimated years prove historical first use.",
+  "manual_primary_source_corrections": 7,
+  "withdrawn_cross_domain_sources": 2,
+  "semantic_source_audit": [
+    {
+      "id": "AIH-11004",
+      "keyword": "k nearest neighbor algorithm",
+      "old": {
+        "date": "2004",
+        "estimate": "",
+        "source": "https://doi.org/10.1002/0471687545.ch5"
+      },
+      "new_year": "1967",
+      "new_source": "https://doi.org/10.1109/TIT.1967.1053964",
+      "reason": "1967 IEEE paper analyzing nearest-neighbor classification, including k-nearest neighbors; earlier Fix–Hodges reports exist. This is not proof of the first-ever use of the exact phrase."
+    },
+    {
+      "id": "AIH-11005",
+      "keyword": "k-means algorithm",
+      "old": {
+        "date": "2013",
+        "estimate": "",
+        "source": "https://doi.org/10.3724/sp.j.1087.2012.03005"
+      },
+      "new_year": "1966",
+      "new_source": "https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD632526.xhtml",
+      "reason": "1966 U.S. NTIS indexed technical report explicitly describes and names k-means; the better-known Berkeley Symposium proceedings version appeared in 1967. Neither necessarily proves earliest algorithmic concept."
+    },
+    {
+      "id": "AIH-11006",
+      "keyword": "k-means algorithms",
+      "old": {
+        "date": "2004",
+        "estimate": "",
+        "source": "https://doi.org/10.1002/0471667196.ess1351"
+      },
+      "new_year": "1966",
+      "new_source": "https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD632526.xhtml",
+      "reason": "1966 NTIS technical report documents the named k-means procedure, prior to the 1967 proceedings; this is an early concept anchor and not first-ever plural phrasing."
+    },
+    {
+      "id": "AIH-11007",
+      "keyword": "k-means clustering",
+      "old": {
+        "date": "",
+        "estimate": "",
+        "source": ""
+      },
+      "new_year": "1966",
+      "new_source": "https://ntrl.ntis.gov/NTRL/dashboard/searchResults/titleDetail/AD632526.xhtml",
+      "reason": "1966 technical report describes k-means clustering. Its published 1967 proceedings version confirms the method, but the exact modern phrase 'k-means clustering' may postdate the original report."
+    },
+    {
+      "id": "AIH-11009",
+      "keyword": "k-nearest neighbor",
+      "old": {
+        "date": "",
+        "estimate": "",
+        "source": ""
+      },
+      "new_year": "1967",
+      "new_source": "https://doi.org/10.1109/TIT.1967.1053964",
+      "reason": "1967 foundational IEEE paper documenting k-nearest-neighbor decision rules. Fix and Hodges reported nonparametric nearest-neighbor classification earlier, in 1951; true first phrase use not independently established."
+    },
+    {
+      "id": "AIH-11011",
+      "keyword": "k-nn algorithm",
+      "old": {
+        "date": "",
+        "estimate": "",
+        "source": ""
+      },
+      "new_year": "1967",
+      "new_source": "https://doi.org/10.1109/TIT.1967.1053964",
+      "reason": "1967 paper analyzing nearest-neighbor rules; the abbreviation K-NN and exact modern term may have appeared later. The dated source documents the method rather than confirmed first abbreviation use."
+    },
+    {
+      "id": "AIH-11504",
+      "keyword": "temporal differences",
+      "old": {
+        "date": "1981",
+        "estimate": "",
+        "source": "https://doi.org/10.1121/1.386775"
+      },
+      "new_year": "1988",
+      "new_source": "https://doi.org/10.1007/BF00115009",
+      "reason": "1988 Machine Learning journal paper providing foundational temporal-difference learning methods. An unrelated 1981 acoustics title previously matched the generic words."
+    },
+    {
+      "id": "AIH-10517",
+      "keyword": "perceived risk",
+      "old_year": "1964",
+      "removed_source": "https://doi.org/10.1177/002224376400100405",
+      "reason": "1964 Journal of Marketing paper concerns consumer perception of risk; it does not document a concept introduced in AI infrastructure."
+    },
+    {
+      "id": "AIH-11019",
+      "keyword": "microbispora",
+      "old_year": "1965",
+      "removed_source": "https://doi.org/10.1099/00207713-15-3-139",
+      "reason": "1965 microbiology publication concerns a bacterial genus. The inventory category Machine Learning appears misclassified, so this must not be presented as an AI research term-origin date."
+    }
+  ]
 }

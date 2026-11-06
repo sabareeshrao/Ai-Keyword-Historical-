@@ -196,7 +196,7 @@
 | AIH-10514 | peer-to-peer systems | AI Infrastructure | CSO: computer networks | [2001](https://openalex.org/W2100721895) (source only) |
 | AIH-10515 | peer-to-peer technologies | AI Infrastructure | CSO: computer networks | [2004](https://doi.org/10.1016/b978-155860933-4/50037-7) (source only) |
 | AIH-12628 | peer-to-peer video streaming | AI Infrastructure | CSO: computer networks | — |
-| AIH-10517 | perceived risk | AI Infrastructure | CSO: information systems | [1964](https://doi.org/10.1177/002224376400100405) (source only) |
+| AIH-10517 | perceived risk | AI Infrastructure | CSO: information systems | — |
 | AIH-10518 | perceived value | AI Infrastructure | CSO: information systems | [1987](https://openalex.org/W650267594) (source only) |
 | AIH-10382 | periodic structure | AI Infrastructure | CSO: computer networks | — |
 | AIH-10396 | periodic structures | AI Infrastructure | CSO: computer networks | — |
