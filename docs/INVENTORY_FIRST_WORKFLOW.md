@@ -10,6 +10,8 @@
 
 ## Files
 
+- `batches/INVENTORY_001_5000.md`, `batches/INVENTORY_002_5000.md` — sourced inventory batches with summary statistics. The original 100 retain their permanent IDs.
+- `data/INVENTORY_IMPORT_REPORT.json` — validated import counts and source provenance.
 - `data/KEYWORD_INVENTORY.csv` — **canonical keyword inventory**. It contains stable ID, term, field, subfield, first-use date (empty until verified), evidence, research status, seed source, and reference to historical research.
 - `data/AI_KEYWORDS_MASTER.csv` — original Batch 001 historical **source-anchor leads**. These are useful starting sources, **not 100 independently verified first-ever term appearances**.
 - `batches/BATCH_001.md` — readable historical leads from the original approach. Retain for auditability.
@@ -44,4 +46,4 @@
 
 ## Honest progress accounting
 
-The inventory currently has only the **100 original records**. No one has yet imported and vetted the remaining ~20,900 candidate terms. Do not label the 21,000-target inventory as complete until the file truly contains 21,000 qualified unique entries and has passed name/category/provenance validation.
+The inventory now contains **10,100 records**: the original 100 plus two source-backed batches of 5,000 each (AIH-00101 through AIH-10100). These are machine-deduplicated **candidate terms**, not individually expert-reviewed origins. The original source has 10,200 entries, of which 118 were rejected during import as duplicates or aliases. The remaining 10,900 to the 21,000 planning target have not yet been populated. See data/INVENTORY_IMPORT_REPORT.json.
