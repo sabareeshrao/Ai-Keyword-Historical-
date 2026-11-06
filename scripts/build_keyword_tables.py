@@ -74,10 +74,14 @@ for number in ["001","002","003","004"]:
                 d=clean(r["historical_evidence_date"])
                 u=clean(r.get("historical_evidence_url"))
                 date=("["+d+"]("+u+")" if u else d)+" (source only)"
+            if not date and r.get("estimated_first_use_year"):
+                year=clean(r["estimated_first_use_year"])
+                url=clean(r.get("estimated_source_url"))
+                date=("["+year+"]("+url+")" if url else year)+" ★ (estimated)"
             date=date or "—"
             lines.append("| "+ " | ".join([clean(r["id"]),clean(r["keyword"]),clean(r["field"]),clean(r["subfield"]),date])+" |")
             category_pages[r["field"]].add(page)
-        lines += ["","— means no historical source date is attached; (source only) means a dated publication or milestone exists but the original first use is not verified.",
+        lines += ["","— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.",
                   "", "[Source master file](../../data/KEYWORD_INVENTORY.csv)"]
         (directory/("page-"+str(page).zfill(2)+".md")).write_text("\n".join(lines)+"\n",encoding="utf-8")
         first=clean(block[0]["keyword"])
