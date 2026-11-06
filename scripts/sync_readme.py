@@ -43,6 +43,10 @@ lines=[
 "",
 "**[Research batch 005 report](data/DATE_RESEARCH_005_REPORT.json)** — audit totals and provenance rules.",
 "",
+"**[Date research 006: Next 2,000 keywords (AIH-04501–AIH-06500)](batches/DATE_RESEARCH_006_NEXT_2000.md)** — four full 500-row tables with dated publications, estimated years ★, and unresolved records.",
+""
+"**[Research batch 006 QA report](data/DATE_RESEARCH_006_REPORT.json)** — actual counts, source status, and evidence limitations.",
+""
 "## Browse complete keyword tables",
 "",
 "| Inventory set | Added keywords | Full tables | ID range |",
