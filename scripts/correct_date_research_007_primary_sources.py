@@ -103,10 +103,11 @@ def main():
     index=re.sub(r"(\| Linked publication dates \| )\d+( \|)",rf"\g<1>{count_doc}\g<2>",index)
     index=re.sub(r"(\| Estimated years ★ \| )\d+( \|)",rf"\g<1>{count_est}\g<2>",index)
     index=re.sub(r"(\| Unresolved \| )\d+( \|)",rf"\g<1>{count_no}\g<2>",index)
-    index+="\n## Primary-source corrections\n\n"
-    index+=f"{len(CORRECTIONS)} manually researched corrections improve the original automatic source matches. All preserve IDs and source URLs. These are documented publications or early usage, not conclusive first-ever word coinage.\n\n"
-    for detail in old_states:
-        index+=f"- **{detail['id']} {detail['keyword']}** — **{detail['new_evidence_year']}**, [source]({detail['new_source']}). {detail['reason']}\n"
+    if "## Primary-source corrections" not in index:
+        index+="\n## Primary-source corrections\n\n"
+        index+=f"{len(CORRECTIONS)} manually researched corrections improve the original automatic source matches. All preserve IDs and source URLs. These are documented publications or early usage, not conclusive first-ever word coinage.\n\n"
+        for detail in old_states:
+            index+=f"- **{detail['id']} {detail['keyword']}** — **{detail['new_evidence_year']}**, [source]({detail['new_source']}). {detail['reason']}\n"
     BATCH.write_text(index,encoding="utf-8")
     print(json.dumps({"corrected":len(CORRECTIONS),"documented":count_doc,
                       "starred_estimates":count_est,"unresolved":count_no},indent=2))
