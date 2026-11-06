@@ -1,0 +1,39 @@
+name: Research dated sources for first 500 keywords
+
+on:
+  push:
+    paths:
+      - ".github/workflows/research_dates_001.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Research dates for first 500 permanent IDs
+        run: python scripts/research_dates_first_500.py
+      - name: Regenerate all complete tables showing linked source dates
+        run: python scripts/build_keyword_tables.py
+      - name: Regenerate README and reports
+        run: python scripts/sync_readme.py
+      - name: Publish audited research files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/KEYWORD_INVENTORY.csv data/DATE_RESEARCH_001_REPORT.json batches/DATE_RESEARCH_001_FIRST_500.md tables/ README.md
+          if git diff --cached --quiet; then
+            echo "Nothing changed"
+            exit 0
+          fi
+          git commit -m "Research source-documented historical dates for first 500 AI terms"
+          git push origin HEAD:main
