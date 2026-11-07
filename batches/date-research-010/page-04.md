@@ -507,7 +507,7 @@
 | AIH-14497 | microservices architecture | Programming & Software | 2017 | Dated publication mention | [Source](https://doi.org/10.18535/ijecs/v6i11.20) |
 | AIH-14498 | microservices | Programming & Software | 2015 | Dated publication mention | [Source](https://doi.org/10.1007/978-1-4842-1275-2_7) |
 | AIH-14499 | model driven architecture | Programming & Software | 2005 | Dated publication mention | [Source](https://doi.org/10.5220/0002545900180028) |
-| AIH-14500 | model view controller pattern | Programming & Software | 2004 | Dated publication mention | [Source](https://doi.org/10.1007/978-3-540-39866-0_15) |
+| AIH-14500 | model view controller pattern | Programming & Software | 1979 | Original/early method source (first term use unverified) | [Source](https://zenodo.org/records/3676092) |
 
 **Date caveat:** Dated sources establish documented use, not origin. Estimations are from related papers and are flagged ★.
 

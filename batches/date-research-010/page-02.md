@@ -108,7 +108,7 @@
 | AIH-13098 | ac coefficients | Computer Vision | 2003 | Dated publication mention | [Source](https://doi.org/10.1049/pbte049e_appendixb) |
 | AIH-13099 | active contour model | Computer Vision | 2003 | Dated publication mention | [Source](https://doi.org/10.1007/bf02480878) |
 | AIH-13100 | active contour | Computer Vision | 1992 | Dated publication mention | [Source](https://doi.org/10.1007/978-3-642-77225-2_31) |
-| AIH-13101 | active contours | Computer Vision | 1998 | Dated publication mention | [Source](https://doi.org/10.1007/978-1-4471-1555-7) |
+| AIH-13101 | active contours | Computer Vision | 1988 | Original/early method source (first term use unverified) | [Source](https://doi.org/10.1007/BF00133570) |
 | AIH-13102 | adaptive histogram equalization | Computer Vision | 1987 | Dated publication mention | [Source](https://doi.org/10.1016/s0734-189x(87)80156-1) |
 | AIH-13103 | adaptive median filter | Computer Vision | 2007 | Dated publication mention | [Source](https://doi.org/10.1109/chinacom.2007.4469475) |
 | AIH-13104 | anatomic landmark | Computer Vision | 1976 | Dated publication mention | [Source](https://doi.org/10.1016/0030-4220(76)90182-1) |

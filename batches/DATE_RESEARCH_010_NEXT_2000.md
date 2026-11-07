@@ -25,3 +25,12 @@ All first-use dates remain unverified. Existing 12,500 previously researched IDs
 
 [Research report](../data/DATE_RESEARCH_010_REPORT.json) | [Master CSV](../data/KEYWORD_INVENTORY.csv)
 
+
+## Manual primary-source checks
+
+Four technical method dates were checked against original/early papers, without claiming the first historical occurrence of the exact term.
+
+- **AIH-12518 mapreduce frameworks** — 2004, [source](https://www.usenix.org/conference/osdi-04/mapreduce-simplified-data-processing-large-clusters). Original 2004 OSDI publication describing the MapReduce computational model and runtime. The term 'MapReduce frameworks' as a plural label may have been adopted later.
+- **AIH-13101 active contours** — 1988, [source](https://doi.org/10.1007/BF00133570). 1988 International Journal of Computer Vision original snakes/active contour model publication. Earlier uses of 'contour' or other active methods do not equal this named method.
+- **AIH-13501 bp algorithm** — 1986, [source](https://doi.org/10.1038/323533a0). 1986 influential back-propagation paper in neural-network training. 'BP algorithm' is ambiguous and may refer to belief propagation; this is a category-grounded source anchor, NOT the first invented backpropagation or the first use of BP abbreviation.
+- **AIH-14500 model view controller pattern** — 1979, [source](https://zenodo.org/records/3676092). Original December 10, 1979 Xerox PARC MVC technical note, archived on Zenodo. MVC idea was conceived in 1978; 'pattern' as later terminology may postdate the note.

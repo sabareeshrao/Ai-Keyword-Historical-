@@ -14,5 +14,56 @@
   "stable_ids_preserved": true,
   "inventory_total": 20100,
   "estimated_display_rule": "★ immediately after year; low-confidence supporting source and reasoning mandatory.",
-  "note": "Neither linked publication dates nor estimated years prove historical first use."
+  "note": "Neither linked publication dates nor estimated years prove historical first use.",
+  "manual_original_source_corrections": 4,
+  "manual_source_audit": [
+    {
+      "id": "AIH-12518",
+      "keyword": "mapreduce frameworks",
+      "previous": {
+        "date": "2013",
+        "estimated": "",
+        "source": "https://doi.org/10.1109/ccgrid.2013.36"
+      },
+      "documented_source_year": "2004",
+      "source_url": "https://www.usenix.org/conference/osdi-04/mapreduce-simplified-data-processing-large-clusters",
+      "notes": "Original 2004 OSDI publication describing the MapReduce computational model and runtime. The term 'MapReduce frameworks' as a plural label may have been adopted later."
+    },
+    {
+      "id": "AIH-13101",
+      "keyword": "active contours",
+      "previous": {
+        "date": "1998",
+        "estimated": "",
+        "source": "https://doi.org/10.1007/978-1-4471-1555-7"
+      },
+      "documented_source_year": "1988",
+      "source_url": "https://doi.org/10.1007/BF00133570",
+      "notes": "1988 International Journal of Computer Vision original snakes/active contour model publication. Earlier uses of 'contour' or other active methods do not equal this named method."
+    },
+    {
+      "id": "AIH-13501",
+      "keyword": "bp algorithm",
+      "previous": {
+        "date": "1996",
+        "estimated": "",
+        "source": "https://doi.org/10.1049/cp:19960665"
+      },
+      "documented_source_year": "1986",
+      "source_url": "https://doi.org/10.1038/323533a0",
+      "notes": "1986 influential back-propagation paper in neural-network training. 'BP algorithm' is ambiguous and may refer to belief propagation; this is a category-grounded source anchor, NOT the first invented backpropagation or the first use of BP abbreviation."
+    },
+    {
+      "id": "AIH-14500",
+      "keyword": "model view controller pattern",
+      "previous": {
+        "date": "2004",
+        "estimated": "",
+        "source": "https://doi.org/10.1007/978-3-540-39866-0_15"
+      },
+      "documented_source_year": "1979",
+      "source_url": "https://zenodo.org/records/3676092",
+      "notes": "Original December 10, 1979 Xerox PARC MVC technical note, archived on Zenodo. MVC idea was conceived in 1978; 'pattern' as later terminology may postdate the note."
+    }
+  ]
 }

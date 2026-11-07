@@ -323,7 +323,7 @@
 | AIH-10199 | acoustic streaming | Computer Vision | CSO: image processing | [1969](https://doi.org/10.1016/0041-624x(69)90854-3) (source only) |
 | AIH-13100 | active contour | Computer Vision | CSO: image processing | [1992](https://doi.org/10.1007/978-3-642-77225-2_31) (source only) |
 | AIH-13099 | active contour model | Computer Vision | CSO: image processing | [2003](https://doi.org/10.1007/bf02480878) (source only) |
-| AIH-13101 | active contours | Computer Vision | CSO: image processing | [1998](https://doi.org/10.1007/978-1-4471-1555-7) (source only) |
+| AIH-13101 | active contours | Computer Vision | CSO: image processing | [1988](https://doi.org/10.1007/BF00133570) (source only) |
 | AIH-13102 | adaptive histogram equalization | Computer Vision | CSO: image processing | [1987](https://doi.org/10.1016/s0734-189x(87)80156-1) (source only) |
 | AIH-13103 | adaptive median filter | Computer Vision | CSO: image processing | [2007](https://doi.org/10.1109/chinacom.2007.4469475) (source only) |
 | AIH-10328 | adaptive rate control | Computer Vision | CSO: image processing | — |

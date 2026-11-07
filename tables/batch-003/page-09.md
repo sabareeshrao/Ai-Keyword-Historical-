@@ -62,7 +62,7 @@
 | AIH-14533 | model checkers | Programming & Software | CSO: software architecture | — |
 | AIH-14499 | model driven architecture | Programming & Software | CSO: software architecture | [2005](https://doi.org/10.5220/0002545900180028) (source only) |
 | AIH-14501 | model view controller | Programming & Software | CSO: software architecture | — |
-| AIH-14500 | model view controller pattern | Programming & Software | CSO: software architecture | [2004](https://doi.org/10.1007/978-3-540-39866-0_15) (source only) |
+| AIH-14500 | model view controller pattern | Programming & Software | CSO: software architecture | [1979](https://zenodo.org/records/3676092) (source only) |
 | AIH-14502 | model-driven architectures | Programming & Software | CSO: software architecture | — |
 | AIH-14503 | modulo scheduling | Programming & Software | CSO: software engineering | — |
 | AIH-14504 | multi-tier | Programming & Software | CSO: software architecture | — |

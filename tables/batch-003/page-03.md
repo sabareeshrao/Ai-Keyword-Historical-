@@ -60,7 +60,7 @@
 | AIH-10483 | manufacturing data processing | AI Infrastructure | CSO: database systems | — |
 | AIH-12516 | manufacturing resource planning | AI Infrastructure | CSO: information systems | [1980](https://doi.org/10.1177/003754978003500301) (source only) |
 | AIH-12517 | map task | AI Infrastructure | CSO: cloud computing | [1991](https://doi.org/10.1177/002383099103400404) (source only) |
-| AIH-12518 | mapreduce frameworks | AI Infrastructure | CSO: cloud computing | [2013](https://doi.org/10.1109/ccgrid.2013.36) (source only) |
+| AIH-12518 | mapreduce frameworks | AI Infrastructure | CSO: cloud computing | [2004](https://www.usenix.org/conference/osdi-04/mapreduce-simplified-data-processing-large-clusters) (source only) |
 | AIH-12519 | mediawiki | AI Infrastructure | CSO: information systems | [2005](https://doi.org/10.1007/3-540-29267-5_9) (source only) |
 | AIH-10485 | medical computing | AI Infrastructure | CSO: database systems | [1970](https://doi.org/10.1016/0020-7101(70)90033-4) (source only) |
 | AIH-12520 | medical database | AI Infrastructure | CSO: database systems | [1984](https://doi.org/10.1007/978-3-642-93264-9_35) (source only) |

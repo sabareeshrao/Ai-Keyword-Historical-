@@ -8,7 +8,7 @@
 
 | ID | Keyword | Category | Date | Classification | Source |
 |---|---|---|---|---|---|
-| AIH-13501 | bp algorithm | Deep Learning | 1996 | Dated publication mention | [Source](https://doi.org/10.1049/cp:19960665) |
+| AIH-13501 | bp algorithm | Deep Learning | 1986 | Original/early method source (first term use unverified) | [Source](https://doi.org/10.1038/323533a0) |
 | AIH-13502 | bp neural network model | Deep Learning | 2000 | Dated publication mention | [Source](https://openalex.org/W2357118065) |
 | AIH-13503 | bp neural network | Deep Learning | 2000 | Dated publication mention | [Source](https://doi.org/10.1016/s0924-0136(00)00498-2) |
 | AIH-13504 | bp neural networks | Deep Learning | 2002 | Dated publication mention | [Source](https://doi.org/10.1109/icosp.1998.770878) |

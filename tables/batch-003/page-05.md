@@ -426,7 +426,7 @@
 | AIH-13499 | backstepping design | Deep Learning | CSO: neural networks | [1993](https://doi.org/10.1016/b978-0-08-041901-5.50076-2) (source only) |
 | AIH-13500 | backstepping technique | Deep Learning | CSO: neural networks | [1996](https://doi.org/10.1016/s1474-6670(17)57975-6) (source only) |
 | AIH-10730 | bidirectional language model | Deep Learning | CSO: deep learning | [2020](https://doi.org/10.1109/bigcomp48618.2020.000-3) (source only) |
-| AIH-13501 | bp algorithm | Deep Learning | CSO: neural networks | [1996](https://doi.org/10.1049/cp:19960665) (source only) |
+| AIH-13501 | bp algorithm | Deep Learning | CSO: neural networks | [1986](https://doi.org/10.1038/323533a0) (source only) |
 | AIH-13503 | bp neural network | Deep Learning | CSO: neural networks | [2000](https://doi.org/10.1016/s0924-0136(00)00498-2) (source only) |
 | AIH-13502 | bp neural network model | Deep Learning | CSO: neural networks | [2000](https://openalex.org/W2357118065) (source only) |
 | AIH-13504 | bp neural networks | Deep Learning | CSO: neural networks | [2002](https://doi.org/10.1109/icosp.1998.770878) (source only) |

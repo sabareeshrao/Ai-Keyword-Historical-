@@ -25,7 +25,7 @@
 | AIH-12515 | management information base | AI Infrastructure | 1988 | Dated publication mention | [Source](https://doi.org/10.17487/rfc1066) |
 | AIH-12516 | manufacturing resource planning | AI Infrastructure | 1980 | Dated publication mention | [Source](https://doi.org/10.1177/003754978003500301) |
 | AIH-12517 | map task | AI Infrastructure | 1991 | Dated publication mention | [Source](https://doi.org/10.1177/002383099103400404) |
-| AIH-12518 | mapreduce frameworks | AI Infrastructure | 2013 | Dated publication mention | [Source](https://doi.org/10.1109/ccgrid.2013.36) |
+| AIH-12518 | mapreduce frameworks | AI Infrastructure | 2004 | Original/early method source (first term use unverified) | [Source](https://www.usenix.org/conference/osdi-04/mapreduce-simplified-data-processing-large-clusters) |
 | AIH-12519 | mediawiki | AI Infrastructure | 2005 | Dated publication mention | [Source](https://doi.org/10.1007/3-540-29267-5_9) |
 | AIH-12520 | medical database | AI Infrastructure | 1984 | Dated publication mention | [Source](https://doi.org/10.1007/978-3-642-93264-9_35) |
 | AIH-12521 | medical image compression | AI Infrastructure | 1991 | Dated publication mention | [Source](https://doi.org/10.1007/978-1-4757-2119-5_8) |
