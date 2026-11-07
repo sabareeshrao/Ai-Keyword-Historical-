@@ -1,0 +1,99 @@
+name: Publish completed batch 011 from saved research
+
+on:
+  push:
+    paths:
+      - ".github/workflows/publish_dates_011_saved.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: publish-audit-dates-011
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: actions/download-artifact@v4
+        with:
+          run-id: 42319792843
+          github-token: ${{ github.token }}
+          pattern: term-date-011-*
+          merge-multiple: true
+          path: data/date_staging
+      - name: Publish 2000 results and preserve any concurrent updates
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/merge_date_research_011_2000.py
+            python scripts/build_keyword_tables.py
+            python scripts/sync_readme.py
+            python - <<'PY'
+          import csv,json
+          from pathlib import Path
+          report=json.loads(Path("data/DATE_RESEARCH_011_REPORT.json").read_text(encoding="utf-8"))
+          assert report["examined"]==2000 and report["inventory_total"]==20100
+          assert sum(report[k] for k in ("documented_source_dates","estimated_star_dates","unresolved"))==2000
+          assert report["existing_first_14500_unchanged"] and report["stable_ids_preserved"]
+          with Path("data/KEYWORD_INVENTORY.csv").open(encoding="utf-8",newline="") as f:
+              rows=list(csv.DictReader(f))
+          assert len(rows)==20100 and len({r["id"] for r in rows})==20100
+          group=[r for r in rows if 14501<=int(r["id"].split("-")[-1])<=16500]
+          assert len(group)==2000
+          for r in group:
+              assert not r.get("first_use_date")
+              if r.get("date_status")=="estimated_star":
+                  assert r["display_date"].endswith(" ★") and r.get("estimated_reason") and r.get("estimated_source_url")
+                  assert not r.get("historical_evidence_date")
+              if r.get("date_status")=="documented_source_not_first_use":
+                  assert r["historical_evidence_url"] and not r.get("estimated_first_use_year")
+          for i in range(1,5):
+              path=Path(f"batches/date-research-011/page-{i:02d}.md")
+              assert sum(line.startswith("| AIH-") for line in path.read_text().splitlines())==500
+          for old in ("DATE_RESEARCH_004_RECOVERY_FIRST_1000.md",
+                      "DATE_RESEARCH_005_NEXT_2000.md",
+                      "DATE_RESEARCH_006_NEXT_2000.md",
+                      "DATE_RESEARCH_007_NEXT_2000.md",
+                      "DATE_RESEARCH_008_NEXT_2000.md",
+                      "DATE_RESEARCH_009_NEXT_2000.md",
+                      "DATE_RESEARCH_010_NEXT_2000.md"):
+              assert Path("batches",old).exists()
+          assert Path("batches/UNDATED_RECOVERY_DOUBLE_STAR.md").exists()
+          rec=json.loads(Path("data/UNDATED_RECOVERY_DOUBLE_STAR_REPORT.json").read_text())
+          assert rec["guessed_double_star_added"]>=5000
+          assert any("★★" in r.get("display_date","") for r in rows if int(r["id"].split("-")[-1])<=12500)
+          assert "Date research 011" in Path("README.md").read_text()
+          gail=next(r for r in rows if r["id"]=="AIH-02503")
+          reflexion=next(r for r in rows if r["id"]=="AIH-06007")
+          assert gail["historical_evidence_date"]=="2016"
+          assert reflexion["historical_evidence_date"]=="2023"
+          print("Validated Batch 011: 2000 rows, four tables, all prior keyword IDs preserved.")
+          PY
+            git add README.md data/KEYWORD_INVENTORY.csv data/DATE_RESEARCH_011_REPORT.json batches/DATE_RESEARCH_011_NEXT_2000.md batches/date-research-011/ tables/
+            if git diff --cached --quiet; then
+              echo "No additional changes required"
+              exit 0
+            fi
+            git commit -m "Research 2000 additional keyword dates in batch 011; preserve source links and ★ estimates"
+            if git push origin HEAD:main; then
+              echo "Batch 011 published successfully"
+              exit 0
+            fi
+            sleep 2
+          done
+          echo "Remote advanced repeatedly; no force push attempted"
+          exit 1
