@@ -1,0 +1,87 @@
+name: Publish complete 20100-term historical chronology
+
+on:
+  push:
+    paths:
+      - ".github/workflows/publish_final_chronology_20100.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: chronology-20100
+  cancel-in-progress: false
+
+jobs:
+  chronology:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Chronologically sort all 20100 records and publish without rewriting ID numbers
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/build_final_chronology.py
+            python scripts/build_keyword_tables.py
+            python scripts/sync_readme.py
+            python - <<'PY'
+          import csv,json
+          from pathlib import Path
+          f=Path("data/FINAL_COVERAGE_20100_REPORT.json")
+          report=json.loads(f.read_text(encoding="utf-8"))
+          assert report["inventory_total"]==20100
+          assert report["all_ids_unique_and_complete"]
+          assert report["consecutive_research_batch_coverage_complete"]
+          assert report["chronology_pages"]==41
+          assert report["chronology_page_sizes"]==[500]*40+[100]
+          expected=sum(report[x] for x in (
+              "source_dated_publication_attestations","estimated_years_star",
+              "speculative_years_double_star","entries_without_usable_year",
+              "first_use_field_populated_but_unverified"))
+          assert expected==20100
+          pages=sorted(Path("chronology/pages").glob("page-*.md"))
+          assert len(pages)==41
+          unique=[]
+          previous_year=-1
+          for i,page in enumerate(pages):
+              lines=[line for line in page.read_text().splitlines() if line.startswith("| AIH-")]
+              assert len(lines)==(500 if i<40 else 100)
+              for line in lines:
+                  bits=[x.strip() for x in line.split("|")[1:-1]]
+                  unique.append(bits[0])
+                  date=bits[3]
+                  import re
+                  match=re.search(r"(1[0-9]{3}|20[0-9]{2})",date)
+                  n=int(match.group(1)) if match else 99999
+                  assert n>=previous_year
+                  previous_year=n
+                  if "★★" in date: assert "Speculative" in bits[4]
+                  if "★" in date and "★★" not in date: assert "Estimated" in bits[4]
+          assert len(unique)==20100 and len(set(unique))==20100
+          assert "chronology/README.md" in Path("README.md").read_text()
+          assert Path("batches/DATE_RESEARCH_013_FINAL_1600.md").exists()
+          print("Chronological sort complete: 20,100 stable records across 41 pages.")
+          PY
+            git add README.md tables/README.md chronology/ data/FINAL_COVERAGE_20100_REPORT.json
+            if git diff --cached --quiet; then
+              echo "Already published"
+              exit 0
+            fi
+            git commit -m "Publish complete 20100-keyword historical chronology in 41 tables, preserving ★ and ★★"
+            if git push origin HEAD:main; then
+              echo "Chronology published"
+              exit 0
+            fi
+            sleep 3
+          done
+          exit 1
