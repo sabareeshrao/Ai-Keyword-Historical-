@@ -204,28 +204,28 @@
 | AIH-19018 | multi-beam | Speech & Audio | CSO: speech recognition | — |
 | AIH-19019 | multi-cell | Speech & Audio | CSO: signal processing | — |
 | AIH-15189 | multi-path fading channels | Speech & Audio | CSO: signal processing | — |
-| AIH-18106 | multi-path interference | Speech & Audio | CSO: signal processing | — |
+| AIH-18106 | multi-path interference | Speech & Audio | CSO: signal processing | [1992](https://doi.org/10.1109/isemc.2002.10792357) (source only) |
 | AIH-19020 | multi-temporal | Speech & Audio | CSO: signal processing | — |
-| AIH-18138 | multi-temporal image | Speech & Audio | CSO: signal processing | — |
-| AIH-18166 | multi-user detectors | Speech & Audio | CSO: signal processing | — |
+| AIH-18138 | multi-temporal image | Speech & Audio | CSO: signal processing | [2006](https://doi.org/10.1109/nssmic.2006.353692) (source only) |
+| AIH-18166 | multi-user detectors | Speech & Audio | CSO: signal processing | [1999](https://doi.org/10.1109/icassp.1999.761297) (source only) |
 | AIH-19021 | multi-user interference | Speech & Audio | CSO: signal processing | — |
 | AIH-18168 | multi-user mimo downlinks | Speech & Audio | CSO: signal processing | — |
-| AIH-18196 | multibeam antennas | Speech & Audio | CSO: speech recognition | — |
+| AIH-18196 | multibeam antennas | Speech & Audio | CSO: speech recognition | [1981](https://doi.org/10.1109/euma.1981.332985) (source only) |
 | AIH-18229 | multicell system | Speech & Audio | CSO: signal processing | — |
 | AIH-19022 | multimodal dialogue systems | Speech & Audio | CSO: speech recognition | — |
-| AIH-18315 | multipath environments | Speech & Audio | CSO: signal processing | — |
+| AIH-18315 | multipath environments | Speech & Audio | CSO: signal processing | [1971](https://doi.org/10.1109/oceans.1971.1161074) (source only) |
 | AIH-18316 | multipath error | Speech & Audio | CSO: signal processing | — |
 | AIH-19023 | multipath fading | Speech & Audio | CSO: signal processing | — |
 | AIH-19024 | multipath propagation | Speech & Audio | CSO: signal processing | — |
-| AIH-18318 | multiple access interference | Speech & Audio | CSO: signal processing | — |
+| AIH-18318 | multiple access interference | Speech & Audio | CSO: signal processing | [2000](https://doi.org/10.1049/cp:20000017) (source only) |
 | AIH-19025 | multiple antenna | Speech & Audio | CSO: signal processing | — |
 | AIH-19026 | multiple antennas | Speech & Audio | CSO: signal processing | — |
 | AIH-19027 | multiple hypothesis tracking | Speech & Audio | CSO: signal processing | — |
 | AIH-18342 | multiple input multiple output (mimo) radars | Speech & Audio | CSO: signal processing | — |
 | AIH-18346 | multiple input single outputs | Speech & Audio | CSO: signal processing | — |
-| AIH-18348 | multiple receive antennas | Speech & Audio | CSO: signal processing | — |
-| AIH-18376 | multiple-input multiple-output channels | Speech & Audio | CSO: signal processing | — |
-| AIH-18382 | multiple-input multiple-output radars | Speech & Audio | CSO: signal processing | — |
+| AIH-18348 | multiple receive antennas | Speech & Audio | CSO: signal processing | [2002](https://doi.org/10.1109/tcomm.2002.803983) (source only) |
+| AIH-18376 | multiple-input multiple-output channels | Speech & Audio | CSO: signal processing | [1992](https://doi.org/10.1109/49.127784) (source only) |
+| AIH-18382 | multiple-input multiple-output radars | Speech & Audio | CSO: signal processing | [2008](https://doi.org/10.1049/iet-map:20070197) (source only) |
 | AIH-19028 | multiple-input-multiple-output (mimo) systems | Speech & Audio | CSO: signal processing | — |
 | AIH-19029 | multiplex radio transmission | Speech & Audio | CSO: signal processing | — |
 | AIH-19030 | multiplication | Speech & Audio | CSO: signal processing | — |
