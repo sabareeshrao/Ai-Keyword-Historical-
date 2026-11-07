@@ -389,19 +389,19 @@
 | AIH-17234 | fusion strategies | AI Safety | CSO: computer security | — |
 | AIH-17236 | generic construction | AI Safety | CSO: cybersecurity | — |
 | AIH-15377 | hacking | AI Safety | CSO: computer security | — |
-| AIH-15385 | hand geometry | AI Safety | CSO: computer security | — |
+| AIH-15385 | hand geometry | AI Safety | CSO: computer security | [2000](https://doi.org/10.1016/s0969-4765(00)04005-4) (source only) |
 | AIH-17238 | hash algorithm | AI Safety | CSO: cybersecurity | — |
 | AIH-17239 | hash value | AI Safety | CSO: cybersecurity | — |
-| AIH-15428 | hidden messages | AI Safety | CSO: computer security | — |
-| AIH-15429 | higgs boson | AI Safety | CSO: cybersecurity | — |
+| AIH-15428 | hidden messages | AI Safety | CSO: computer security | [1976](https://doi.org/10.1007/bf02142214) (source only) |
+| AIH-15429 | higgs boson | AI Safety | CSO: cybersecurity | [1984](https://doi.org/10.1016/0550-3213(84)90165-2) (source only) |
 | AIH-17240 | human identification | AI Safety | CSO: computer security | — |
 | AIH-17241 | id-based | AI Safety | CSO: privacy | — |
-| AIH-15497 | id-based cryptography | AI Safety | CSO: privacy | — |
+| AIH-15497 | id-based cryptography | AI Safety | CSO: privacy | [2002](https://doi.org/10.1007/3-540-36178-2_34) (source only) |
 | AIH-17242 | identity authentication | AI Safety | CSO: computer security | — |
 | AIH-17243 | identity based signature | AI Safety | CSO: privacy | — |
 | AIH-17244 | identity theft | AI Safety | CSO: cybersecurity | — |
-| AIH-15576 | integer order | AI Safety | CSO: cybersecurity | — |
-| AIH-15596 | intelligent surveillance systems | AI Safety | CSO: computer security | — |
+| AIH-15576 | integer order | AI Safety | CSO: cybersecurity | [1952](https://openalex.org/W560272212) (source only) |
+| AIH-15596 | intelligent surveillance systems | AI Safety | CSO: computer security | [2011](https://doi.org/10.1007/978-94-007-1137-2) (source only) |
 | AIH-17130 | intrusion detection models | AI Safety | CSO: cybersecurity | — |
 | AIH-17247 | iris recognition | AI Safety | CSO: computer security | — |
 | AIH-17246 | iris recognition systems | AI Safety | CSO: computer security | — |

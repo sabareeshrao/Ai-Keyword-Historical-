@@ -92,37 +92,37 @@
 | AIH-17885 | gene frequency | Data Science | CSO: bioinformatics | — |
 | AIH-17886 | gene linkage disequilibrium | Data Science | CSO: bioinformatics | — |
 | AIH-17887 | genetic association studies | Data Science | CSO: bioinformatics | — |
-| AIH-15238 | genetic diversity | Data Science | CSO: bioinformatics | — |
+| AIH-15238 | genetic diversity | Data Science | CSO: bioinformatics | [1993](https://doi.org/10.1163/9789004684546_005) (source only) |
 | AIH-17888 | genetic drift | Data Science | CSO: bioinformatics | — |
-| AIH-15246 | genetic fitness | Data Science | CSO: bioinformatics | — |
+| AIH-15246 | genetic fitness | Data Science | CSO: bioinformatics | [2014](https://doi.org/10.4135/9781446247501.n1613) (source only) |
 | AIH-17889 | genetic marker | Data Science | CSO: bioinformatics | — |
 | AIH-17890 | genetic polymorphism | Data Science | CSO: bioinformatics | — |
 | AIH-17891 | genetic risk | Data Science | CSO: bioinformatics | — |
 | AIH-17892 | genetic screening | Data Science | CSO: bioinformatics | — |
-| AIH-15249 | genetic structure | Data Science | CSO: bioinformatics | — |
+| AIH-15249 | genetic structure | Data Science | CSO: bioinformatics | [1974](https://doi.org/10.1007/978-3-642-88415-3) (source only) |
 | AIH-17893 | genetic susceptibility | Data Science | CSO: bioinformatics | — |
 | AIH-17894 | genetic variation | Data Science | CSO: bioinformatics | — |
 | AIH-15263 | genetics, population | Data Science | CSO: bioinformatics | — |
 | AIH-17895 | genome, bacterial | Data Science | CSO: bioinformatics | — |
 | AIH-17896 | genome, viral | Data Science | CSO: bioinformatics | — |
 | AIH-17897 | genotype | Data Science | CSO: bioinformatics | — |
-| AIH-15287 | geography | Data Science | CSO: bioinformatics | — |
+| AIH-15287 | geography | Data Science | CSO: bioinformatics | [1954](https://doi.org/10.5962/bhl.title.39090) (source only) |
 | AIH-17898 | haplotype | Data Science | CSO: bioinformatics | — |
 | AIH-17899 | haplotypes | Data Science | CSO: bioinformatics | — |
 | AIH-17900 | heterochromatin | Data Science | CSO: bioinformatics | — |
-| AIH-15395 | heteroplasmy | Data Science | CSO: bioinformatics | — |
+| AIH-15395 | heteroplasmy | Data Science | CSO: bioinformatics | [1987](https://doi.org/10.1093/oxfordjournals.molbev.a040421) (source only) |
 | AIH-17901 | heterozygosity | Data Science | CSO: bioinformatics | — |
-| AIH-15416 | heterozygosity loss | Data Science | CSO: bioinformatics | — |
+| AIH-15416 | heterozygosity loss | Data Science | CSO: bioinformatics | [2005](https://doi.org/10.1002/0470011815.b2a05062) (source only) |
 | AIH-17902 | heterozygote | Data Science | CSO: bioinformatics | — |
 | AIH-15456 | hispanic | Data Science | CSO: bioinformatics | — |
 | AIH-15465 | hispanic americans | Data Science | CSO: bioinformatics | — |
 | AIH-17903 | homozygosity | Data Science | CSO: bioinformatics | — |
 | AIH-17904 | homozygote | Data Science | CSO: bioinformatics | — |
-| AIH-15489 | human chromosome | Data Science | CSO: bioinformatics | — |
+| AIH-15489 | human chromosome | Data Science | CSO: bioinformatics | [1965](https://doi.org/10.1016/c2013-0-12441-5) (source only) |
 | AIH-17905 | human genome | Data Science | CSO: bioinformatics | — |
 | AIH-17906 | hybrid cell | Data Science | CSO: bioinformatics | — |
 | AIH-17907 | hybrid cells | Data Science | CSO: bioinformatics | — |
-| AIH-15525 | in situ hybridization, fluorescence | Data Science | CSO: bioinformatics | — |
+| AIH-15525 | in situ hybridization, fluorescence | Data Science | CSO: bioinformatics | [2001](https://doi.org/10.1016/s0145-2126(00)00125-9) (source only) |
 | AIH-17910 | japanese | Data Science | CSO: bioinformatics | — |
 | AIH-17911 | karyotype | Data Science | CSO: bioinformatics | — |
 | AIH-17908 | karyotyping | Data Science | CSO: bioinformatics | — |

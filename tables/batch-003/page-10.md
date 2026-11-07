@@ -6,20 +6,20 @@
 
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
-| AIH-14793 | networked control system | Robotics | CSO: control systems | — |
-| AIH-14794 | networked control systems (ncss) | Robotics | CSO: control systems | — |
+| AIH-14793 | networked control system | Robotics | CSO: control systems | [2003](https://doi.org/10.23919/ecc.2003.7085034) (source only) |
+| AIH-14794 | networked control systems (ncss) | Robotics | CSO: control systems | [2005](https://doi.org/10.1631/jzus.2005.a0535) (source only) |
 | AIH-14796 | nonholonomic mobile robots | Robotics | CSO: robotics | — |
-| AIH-14797 | nonholonomic system | Robotics | CSO: robotics | — |
+| AIH-14797 | nonholonomic system | Robotics | CSO: robotics | [1966](https://doi.org/10.1016/0021-8928(66)90080-3) (source only) |
 | AIH-14798 | nonholonomic systems | Robotics | CSO: robotics | — |
-| AIH-14799 | nonholonomics | Robotics | CSO: motion planning | — |
-| AIH-14800 | nonlinear perturbations | Robotics | CSO: control systems | — |
-| AIH-14801 | nuclear plant | Robotics | CSO: robotics | — |
+| AIH-14799 | nonholonomics | Robotics | CSO: motion planning | [2023](https://doi.org/10.1109/med59994.2023.10185672) (source only) |
+| AIH-14800 | nonlinear perturbations | Robotics | CSO: control systems | [1976](https://doi.org/10.1016/b978-0-12-164902-9.50018-6) (source only) |
+| AIH-14801 | nuclear plant | Robotics | CSO: robotics | [1966](https://doi.org/10.1016/0029-5493(66)90010-0) (source only) |
 | AIH-14802 | nuclear reactor accidents | Robotics | CSO: robotics | — |
 | AIH-11544 | object pose | Robotics | CSO: robotics | [2019](https://doi.org/10.5220/0007933105410549) (source only) |
-| AIH-14804 | obstacle detection | Robotics | CSO: motion planning | — |
-| AIH-14805 | obstacle detectors | Robotics | CSO: motion planning | — |
-| AIH-14807 | omnidirectional mobile robot | Robotics | CSO: robotics | — |
-| AIH-14808 | optimal path planning | Robotics | CSO: motion planning | — |
+| AIH-14804 | obstacle detection | Robotics | CSO: motion planning | [1994](https://doi.org/10.55274/r0010134) (source only) |
+| AIH-14805 | obstacle detectors | Robotics | CSO: motion planning | [2014](https://doi.org/10.1109/optim.2014.6850903) (source only) |
+| AIH-14807 | omnidirectional mobile robot | Robotics | CSO: robotics | [1989](https://doi.org/10.1016/b978-0-08-035742-3.50053-8) (source only) |
+| AIH-14808 | optimal path planning | Robotics | CSO: motion planning | [1991](https://doi.org/10.23919/acc.1991.4791760) (source only) |
 | AIH-14809 | paper coating | Robotics | CSO: robotics | — |
 | AIH-11546 | parallel kinematic machines | Robotics | CSO: robotics | [1999](https://doi.org/10.1007/978-1-4471-0885-6) (source only) |
 | AIH-14810 | path planners | Robotics | CSO: motion planning | — |
@@ -27,88 +27,88 @@
 | AIH-11548 | path planning problems | Robotics | CSO: motion planning | [1992](https://doi.org/10.1016/0921-8890(92)90034-v) (source only) |
 | AIH-14811 | path-planning algorithm | Robotics | CSO: motion planning | — |
 | AIH-11550 | pneumatic artificial muscle | Robotics | CSO: robotics | [2004](https://doi.org/10.1109/icit.2003.1290746) (source only) |
-| AIH-14812 | pneumatic control | Robotics | CSO: robotics | — |
+| AIH-14812 | pneumatic control | Robotics | CSO: robotics | [1965](https://doi.org/10.1016/c2013-0-07981-9) (source only) |
 | AIH-11551 | pneumatic control equipment | Robotics | CSO: robotics | [1980](https://doi.org/10.1016/s0042-207x(80)80658-0) (source only) |
 | AIH-11552 | potential field | Robotics | CSO: motion planning | [1994](https://doi.org/10.1016/0926-9851(94)90022-1) (source only) |
-| AIH-14814 | potential field methods | Robotics | CSO: motion planning | — |
-| AIH-14815 | pressurized water reactors | Robotics | CSO: robotics | — |
-| AIH-14816 | programmable robots | Robotics | CSO: motion planning | — |
-| AIH-14817 | projective synchronization | Robotics | CSO: control systems | — |
-| AIH-14818 | quadruped robot | Robotics | CSO: motion planning | — |
-| AIH-14819 | quadruped robots | Robotics | CSO: motion planning | — |
-| AIH-14820 | rapidly-exploring random trees | Robotics | CSO: motion planning | — |
+| AIH-14814 | potential field methods | Robotics | CSO: motion planning | [1991](https://doi.org/10.1007/978-1-4615-4022-9_7) (source only) |
+| AIH-14815 | pressurized water reactors | Robotics | CSO: robotics | [1958](https://doi.org/10.2172/4295228) (source only) |
+| AIH-14816 | programmable robots | Robotics | CSO: motion planning | [1976](https://doi.org/10.6028/nbs.sp.459) (source only) |
+| AIH-14817 | projective synchronization | Robotics | CSO: control systems | [2001](https://doi.org/10.1103/physreve.63.027201) (source only) |
+| AIH-14818 | quadruped robot | Robotics | CSO: motion planning | [1998](https://doi.org/10.1007/978-1-4615-5735-7_2) (source only) |
+| AIH-14819 | quadruped robots | Robotics | CSO: motion planning | [2007](https://doi.org/10.5772/5080) (source only) |
+| AIH-14820 | rapidly-exploring random trees | Robotics | CSO: motion planning | [2001](https://doi.org/10.1201/9781439864135-43) (source only) |
 | AIH-14822 | remote control | Robotics | CSO: robotics | — |
 | AIH-14823 | robot applications | Robotics | CSO: robotics | — |
-| AIH-14824 | robot control | Robotics | CSO: robotics | — |
+| AIH-14824 | robot control | Robotics | CSO: robotics | [1989](https://doi.org/10.1016/b978-0-08-035742-3.50004-6) (source only) |
 | AIH-11554 | robot control systems | Robotics | CSO: control systems | [1979](https://doi.org/10.1109/jacc.1979.4170696) (source only) |
-| AIH-14825 | robot controls | Robotics | CSO: robotics | — |
-| AIH-14826 | robot interactions | Robotics | CSO: robotics | — |
-| AIH-14827 | robot motion planning | Robotics | CSO: motion planning | — |
+| AIH-14825 | robot controls | Robotics | CSO: robotics | [1976](https://doi.org/10.1080/01969727608927524) (source only) |
+| AIH-14826 | robot interactions | Robotics | CSO: robotics | [2002](https://doi.org/10.1007/978-94-017-2376-3_19) (source only) |
+| AIH-14827 | robot motion planning | Robotics | CSO: motion planning | [1989](https://doi.org/10.21236/ada209890) (source only) |
 | AIH-10172 | robot navigation | Robotics | CSO: robot navigation | 1994 ★★ (GUESS, no direct evidence) |
-| AIH-14828 | robot path-planning | Robotics | CSO: motion planning | — |
+| AIH-14828 | robot path-planning | Robotics | CSO: motion planning | [1993](https://doi.org/10.1142/9789814360135_0006) (source only) |
 | AIH-11555 | robot programming | Robotics | CSO: motion planning | [1981](https://doi.org/10.1109/tsmc.1981.4308674) (source only) |
 | AIH-14829 | robot system | Robotics | CSO: robotics | — |
 | AIH-14830 | robotic applications | Robotics | CSO: robotics | — |
 | AIH-11557 | robotic assembly | Robotics | CSO: motion planning | [1983](https://doi.org/10.1108/eb004607) (source only) |
-| AIH-14831 | robotic manipulator | Robotics | CSO: robotics | — |
-| AIH-14832 | robotic manipulators | Robotics | CSO: robotics | — |
-| AIH-14833 | robotic platforms | Robotics | CSO: robotics | — |
-| AIH-14834 | robotic systems | Robotics | CSO: robotics | — |
+| AIH-14831 | robotic manipulator | Robotics | CSO: robotics | [1991](https://doi.org/10.1002/rob.4620080305) (source only) |
+| AIH-14832 | robotic manipulators | Robotics | CSO: robotics | [1985](https://doi.org/10.1007/978-1-4615-9882-4_15) (source only) |
+| AIH-14833 | robotic platforms | Robotics | CSO: robotics | [2016](https://doi.org/10.1007/978-94-017-9780-1_102160) (source only) |
+| AIH-14834 | robotic systems | Robotics | CSO: robotics | [1988](https://doi.org/10.1002/rob.4620050608) (source only) |
 | AIH-11558 | robots | Robotics | CSO: robotics | 1985 ★★ (GUESS, no direct evidence) |
-| AIH-14835 | robust stability analysis | Robotics | CSO: control systems | — |
+| AIH-14835 | robust stability analysis | Robotics | CSO: control systems | [1988](https://doi.org/10.23919/acc.1988.4790056) (source only) |
 | AIH-14837 | servo control | Robotics | CSO: robotics | — |
 | AIH-14836 | servo control systems | Robotics | CSO: robotics | — |
-| AIH-14838 | servo-valve | Robotics | CSO: robotics | — |
-| AIH-14840 | simultaneous localization and mapping | Robotics | CSO: robotics | — |
+| AIH-14838 | servo-valve | Robotics | CSO: robotics | [1965](https://doi.org/10.4271/650334) (source only) |
+| AIH-14840 | simultaneous localization and mapping | Robotics | CSO: robotics | [2005](https://doi.org/10.15607/rss.2005.i.027) (source only) |
 | AIH-11559 | sma actuators | Robotics | CSO: robotics | [1993](https://doi.org/10.21236/ada260742) (source only) |
-| AIH-14841 | sonar sensor | Robotics | CSO: robotics | — |
+| AIH-14841 | sonar sensor | Robotics | CSO: robotics | [1992](https://doi.org/10.1007/978-1-4615-3652-9_2) (source only) |
 | AIH-11560 | speed control | Robotics | CSO: control systems | [1902](https://doi.org/10.1109/t-aiee.1902.4764254) (source only) |
-| AIH-14842 | speed regulators | Robotics | CSO: control systems | — |
-| AIH-14843 | stability and control | Robotics | CSO: control systems | — |
-| AIH-14844 | stability condition | Robotics | CSO: control systems | — |
+| AIH-14842 | speed regulators | Robotics | CSO: control systems | [1883](https://doi.org/10.1038/scientificamerican08041883-6312dsupp) (source only) |
+| AIH-14843 | stability and control | Robotics | CSO: control systems | [1959](https://doi.org/10.1016/c2013-0-07815-2) (source only) |
+| AIH-14844 | stability condition | Robotics | CSO: control systems | [1916](https://doi.org/10.21136/cpmf.1916.121026) (source only) |
 | AIH-11561 | stability criteria | Robotics | CSO: control systems | [1954](https://doi.org/10.1017/s0368393100099636) (source only) |
 | AIH-14845 | stability problem | Robotics | CSO: control systems | — |
 | AIH-11562 | state feedback controller | Robotics | CSO: control systems | [1971](https://doi.org/10.1049/el:19710085) (source only) |
 | AIH-11563 | state-feedback controllers | Robotics | CSO: control systems | [1982](https://doi.org/10.1016/b978-0-08-027618-2.50022-x) (source only) |
 | AIH-14846 | static environment | Robotics | CSO: motion planning | — |
-| AIH-14847 | step response | Robotics | CSO: control systems | — |
+| AIH-14847 | step response | Robotics | CSO: control systems | [1976](https://doi.org/10.4043/2467-ms) (source only) |
 | AIH-11564 | stereo camera | Robotics | CSO: robotics | [1955](https://openalex.org/W2408435831) (source only) |
 | AIH-11565 | stereo cameras | Robotics | CSO: robotics | [2000](https://openalex.org/W2157917609) (source only) |
 | AIH-11566 | stereo vision system | Robotics | CSO: robotics | [1977](https://openalex.org/W204039786) (source only) |
 | AIH-11567 | tactile feedback | Robotics | CSO: robotics | [1986](https://openalex.org/W312607850) (source only) |
-| AIH-14848 | tactile information | Robotics | CSO: robotics | — |
-| AIH-14849 | tactile sensation | Robotics | CSO: robotics | — |
+| AIH-14848 | tactile information | Robotics | CSO: robotics | [1986](https://doi.org/10.1007/978-3-642-82940-6_22) (source only) |
+| AIH-14849 | tactile sensation | Robotics | CSO: robotics | [1998](https://doi.org/10.1016/s0166-4115(98)x8029-5) (source only) |
 | AIH-11569 | tactile sensor | Robotics | CSO: robotics | [1983](https://doi.org/10.1108/eb007588) (source only) |
 | AIH-11570 | target position | Robotics | CSO: robotics | [1960](https://doi.org/10.1037/e409072004-001) (source only) |
 | AIH-11571 | technical conferences | Robotics | CSO: robotics | [1936](https://doi.org/10.1109/ee.1936.6539056) (source only) |
-| AIH-14850 | tele-robotics | Robotics | CSO: robotics | — |
+| AIH-14850 | tele-robotics | Robotics | CSO: robotics | [1996](https://doi.org/10.1007/978-1-4471-1021-7_21) (source only) |
 | AIH-14851 | telerobotic systems | Robotics | CSO: robotics | — |
 | AIH-14852 | three term control systems | Robotics | CSO: control systems | — |
-| AIH-14853 | tms320f2812 | Robotics | CSO: control systems | — |
+| AIH-14853 | tms320f2812 | Robotics | CSO: control systems | [2006](https://doi.org/10.1109/icarcv.2006.345133) (source only) |
 | AIH-14855 | trajectory planning | Robotics | CSO: motion planning | — |
 | AIH-14856 | trajectory tracking | Robotics | CSO: robotics | — |
-| AIH-14857 | ultrasonic sensor | Robotics | CSO: robotics | — |
-| AIH-14858 | ultrasonic sensors | Robotics | CSO: robotics | — |
+| AIH-14857 | ultrasonic sensor | Robotics | CSO: robotics | [1998](https://doi.org/10.1016/b978-008043339-4/50079-1) (source only) |
+| AIH-14858 | ultrasonic sensors | Robotics | CSO: robotics | [1983](https://doi.org/10.1016/b978-0-408-01160-0.50054-5) (source only) |
 | AIH-11572 | unknown environments | Robotics | CSO: motion planning | [2002](https://doi.org/10.1007/s00453-001-0067-x) (source only) |
-| AIH-14859 | unmanned helicopter | Robotics | CSO: control systems | — |
-| AIH-14861 | visual servo control | Robotics | CSO: robotics | — |
-| AIH-14862 | walking robot | Robotics | CSO: robotics | — |
+| AIH-14859 | unmanned helicopter | Robotics | CSO: control systems | [2002](https://doi.org/10.2514/6.2002-4439) (source only) |
+| AIH-14861 | visual servo control | Robotics | CSO: robotics | [1983](https://doi.org/10.1007/978-3-662-09771-7_7) (source only) |
+| AIH-14862 | walking robot | Robotics | CSO: robotics | [1999](https://doi.org/10.1163/156855399x01512) (source only) |
 | AIH-14863 | walking robots | Robotics | CSO: robotics | — |
 | AIH-14864 | welding robots | Robotics | CSO: robotics | — |
-| AIH-14865 | wheeled mobile robot | Robotics | CSO: robotics | — |
-| AIH-14866 | wheeled mobile robots | Robotics | CSO: robotics | — |
+| AIH-14865 | wheeled mobile robot | Robotics | CSO: robotics | [1990](https://doi.org/10.1007/978-1-4613-8997-2_2) (source only) |
+| AIH-14866 | wheeled mobile robots | Robotics | CSO: robotics | [2001](https://doi.org/10.1007/bfb0113116) (source only) |
 | AIH-11573 | acceleration signals | Speech & Audio | CSO: signal processing | [1994](https://doi.org/10.1109/iembs.1994.415438) (source only) |
 | AIH-10167 | achievability | Speech & Audio | CSO: signal processing | [1938](https://doi.org/10.1093/ia/17.2.264) (source only) |
 | AIH-10168 | achievable rate region | Speech & Audio | CSO: signal processing | [1975](https://doi.org/10.1109/tit.1975.1055418) (source only) |
 | AIH-10176 | achievable region | Speech & Audio | CSO: signal processing | [1998](https://doi.org/10.2139/ssrn.135288) (source only) |
 | AIH-11580 | acoustic | Speech & Audio | CSO: signal processing | 1972 ★★ (GUESS, no direct evidence) |
-| AIH-14867 | acoustic arrays | Speech & Audio | CSO: speech recognition | — |
-| AIH-14868 | acoustic devices | Speech & Audio | CSO: signal processing | — |
-| AIH-14869 | acoustic echo cancellation | Speech & Audio | CSO: speech recognition | — |
+| AIH-14867 | acoustic arrays | Speech & Audio | CSO: speech recognition | [1972](https://doi.org/10.1109/ultsym.1972.196123) (source only) |
+| AIH-14868 | acoustic devices | Speech & Audio | CSO: signal processing | [2011](https://doi.org/10.5772/24123) (source only) |
+| AIH-14869 | acoustic echo cancellation | Speech & Audio | CSO: speech recognition | [1992](https://doi.org/10.1016/b978-0-444-89587-5.50112-2) (source only) |
 | AIH-14870 | acoustic emission | Speech & Audio | CSO: signal processing | — |
-| AIH-14871 | acoustic emissions | Speech & Audio | CSO: signal processing | — |
-| AIH-14872 | acoustic environment | Speech & Audio | CSO: speech recognition | — |
-| AIH-14873 | acoustic generators | Speech & Audio | CSO: speech recognition | — |
+| AIH-14871 | acoustic emissions | Speech & Audio | CSO: signal processing | [1970](https://doi.org/10.2172/4082116) (source only) |
+| AIH-14872 | acoustic environment | Speech & Audio | CSO: speech recognition | [1983](https://doi.org/10.21236/adb955265) (source only) |
+| AIH-14873 | acoustic generators | Speech & Audio | CSO: speech recognition | [1989](https://doi.org/10.2514/6.1989-1005) (source only) |
 | AIH-11575 | acoustic modeling | Speech & Audio | CSO: speech recognition | [1987](https://doi.org/10.21236/ada188529) (source only) |
 | AIH-11576 | acoustic modelling | Speech & Audio | CSO: speech recognition | [1986](https://doi.org/10.1016/b978-0-408-00824-2.50054-8) (source only) |
 | AIH-11577 | acoustic models | Speech & Audio | CSO: speech recognition | [1951](https://doi.org/10.1109/t-aiee.1951.5060411) (source only) |
@@ -118,40 +118,40 @@
 | AIH-10189 | acoustic resonators | Speech & Audio | CSO: signal processing | [1976](https://doi.org/10.1109/ultsym.1976.196749) (source only) |
 | AIH-14875 | acoustic signal | Speech & Audio | CSO: speech recognition | — |
 | AIH-11579 | acoustic signal processing | Speech & Audio | CSO: speech recognition | [1961](https://doi.org/10.1121/1.1936746) (source only) |
-| AIH-14876 | acoustic signals | Speech & Audio | CSO: speech recognition | — |
+| AIH-14876 | acoustic signals | Speech & Audio | CSO: speech recognition | [1978](https://doi.org/10.21236/ada051954) (source only) |
 | AIH-10202 | acoustic surface wave filters | Speech & Audio | CSO: signal processing | 1972 ★★ (GUESS, no direct evidence) |
 | AIH-10203 | acoustic transducers | Speech & Audio | CSO: signal processing | 1972 ★★ (GUESS, no direct evidence) |
 | AIH-14877 | acoustic variables control | Speech & Audio | CSO: speech recognition | — |
 | AIH-10213 | acoustic wave scattering | Speech & Audio | CSO: signal processing | 1972 ★★ (GUESS, no direct evidence) |
-| AIH-14878 | acoustic wave transmission | Speech & Audio | CSO: signal processing | — |
-| AIH-14879 | acoustic waves | Speech & Audio | CSO: signal processing | — |
+| AIH-14878 | acoustic wave transmission | Speech & Audio | CSO: signal processing | [1986](https://doi.org/10.1109/ultsym.1986.198822) (source only) |
+| AIH-14879 | acoustic waves | Speech & Audio | CSO: signal processing | [1976](https://doi.org/10.1007/978-1-4757-0824-0_1) (source only) |
 | AIH-11581 | acoustics | Speech & Audio | CSO: signal processing | [1965](https://doi.org/10.1016/b978-1-4832-2858-7.50001-6) (source only) |
 | AIH-10220 | active rfid | Speech & Audio | CSO: signal processing | [2006](https://doi.org/10.1201/9781420012989.axb) (source only) |
 | AIH-10251 | adaptive beamforming algorithms | Speech & Audio | CSO: signal processing | [1992](https://doi.org/10.1117/12.130919) (source only) |
 | AIH-10318 | adaptive detectors | Speech & Audio | CSO: signal processing | [1963](https://doi.org/10.1109/sap.1963.267623) (source only) |
 | AIH-11582 | adaptive filtering | Speech & Audio | CSO: signal processing | [1989](https://doi.org/10.21236/ada219556) (source only) |
-| AIH-14881 | adaptive filters | Speech & Audio | CSO: signal processing | — |
+| AIH-14881 | adaptive filters | Speech & Audio | CSO: signal processing | [1979](https://doi.org/10.2172/6367477) (source only) |
 | AIH-14882 | adaptive kalman filter | Speech & Audio | CSO: signal processing | — |
-| AIH-14883 | adaptive kalman filtering | Speech & Audio | CSO: signal processing | — |
+| AIH-14883 | adaptive kalman filtering | Speech & Audio | CSO: signal processing | [1973](https://doi.org/10.1109/cdc.1973.269192) (source only) |
 | AIH-10321 | adaptive modulation and coding | Speech & Audio | CSO: signal processing | [2005](https://doi.org/10.1017/cbo9780511841224.010) (source only) |
 | AIH-10334 | advanced systems | Speech & Audio | CSO: signal processing | [1999](https://doi.org/10.1109/dasfaa.1999.765729) (source only) |
-| AIH-14884 | affect recognition | Speech & Audio | CSO: speech recognition | — |
+| AIH-14884 | affect recognition | Speech & Audio | CSO: speech recognition | [2005](https://doi.org/10.21437/interspeech.2005-319) (source only) |
 | AIH-10336 | affine projections | Speech & Audio | CSO: signal processing | [1999](https://doi.org/10.1109/iccv.1999.791232) (source only) |
-| AIH-14885 | all-optical signal processing | Speech & Audio | CSO: signal processing | — |
-| AIH-14886 | ambient noise | Speech & Audio | CSO: speech recognition | — |
+| AIH-14885 | all-optical signal processing | Speech & Audio | CSO: signal processing | [1994](https://doi.org/10.1109/35.312852) (source only) |
+| AIH-14886 | ambient noise | Speech & Audio | CSO: speech recognition | [1967](https://doi.org/10.21236/ad0394475) (source only) |
 | AIH-10742 | analog multipliers | Speech & Audio | CSO: signal processing | [1954](https://doi.org/10.1063/1.1770973) (source only) |
 | AIH-10744 | analog signals | Speech & Audio | CSO: signal processing | [1976](https://doi.org/10.1016/0026-2714(76)90099-8) (source only) |
 | AIH-10745 | angle estimation | Speech & Audio | CSO: signal processing | 1976 ★★ (GUESS, no direct evidence) |
-| AIH-14887 | anomaly-detection algorithms | Speech & Audio | CSO: signal processing | — |
-| AIH-14888 | antenna array | Speech & Audio | CSO: signal processing | — |
-| AIH-14889 | antenna arrays | Speech & Audio | CSO: signal processing | — |
+| AIH-14887 | anomaly-detection algorithms | Speech & Audio | CSO: signal processing | [2008](https://doi.org/10.5220/0001674700110018) (source only) |
+| AIH-14888 | antenna array | Speech & Audio | CSO: signal processing | [1986](https://doi.org/10.21236/ada174370) (source only) |
+| AIH-14889 | antenna arrays | Speech & Audio | CSO: signal processing | [1960](https://doi.org/10.21236/ad0244061) (source only) |
 | AIH-14890 | antenna radiation | Speech & Audio | CSO: signal processing | — |
 | AIH-10770 | antenna systems | Speech & Audio | CSO: signal processing | [1979](https://doi.org/10.21236/ada082999) (source only) |
-| AIH-14891 | apartment houses | Speech & Audio | CSO: speech recognition | — |
-| AIH-14892 | architectural acoustics | Speech & Audio | CSO: signal processing | — |
+| AIH-14891 | apartment houses | Speech & Audio | CSO: speech recognition | [1886](https://doi.org/10.2307/25584552) (source only) |
+| AIH-14892 | architectural acoustics | Speech & Audio | CSO: signal processing | [1968](https://doi.org/10.1016/0003-682x(68)90028-5) (source only) |
 | AIH-10779 | array multipliers | Speech & Audio | CSO: signal processing | [1979](https://doi.org/10.1109/tc.1979.1675350) (source only) |
 | AIH-10788 | asymptotic expressions | Speech & Audio | CSO: signal processing | [1913](https://doi.org/10.1090/s0002-9947-1913-1500940-6) (source only) |
-| AIH-14893 | audio acoustics | Speech & Audio | CSO: speech recognition | — |
+| AIH-14893 | audio acoustics | Speech & Audio | CSO: speech recognition | [2020](https://doi.org/10.4324/9780429292200-8) (source only) |
 | AIH-10790 | audio applications | Speech & Audio | CSO: speech recognition | [1957](https://doi.org/10.1109/tau.1957.1165989) (source only) |
 | AIH-10174 | audio processing | Speech & Audio | CSO: audio processing | 2017 ★★ (GUESS, no direct evidence) |
 | AIH-10792 | audio quality | Speech & Audio | CSO: speech recognition | 2004 ★★ (GUESS, no direct evidence) |
@@ -162,8 +162,8 @@
 | AIH-11585 | automatic speech recognition | Speech & Audio | CSO: speech recognition | [1985](https://doi.org/10.1109/proc.1985.13344) (source only) |
 | AIH-11584 | automatic speech recognition system | Speech & Audio | CSO: speech recognition | [1989](https://doi.org/10.21437/eurospeech.1989-19) (source only) |
 | AIH-11586 | automatic transcription | Speech & Audio | CSO: speech recognition | [1959](https://doi.org/10.1145/1460299.1460317) (source only) |
-| AIH-14896 | background noise | Speech & Audio | CSO: speech recognition | — |
-| AIH-14897 | band-stop filters | Speech & Audio | CSO: signal processing | — |
+| AIH-14896 | background noise | Speech & Audio | CSO: speech recognition | [1958](https://doi.org/10.1121/1.2369319) (source only) |
+| AIH-14897 | band-stop filters | Speech & Audio | CSO: signal processing | [1962](https://doi.org/10.1109/tmtt.1962.1125549) (source only) |
 | AIH-14898 | basic emotions | Speech & Audio | CSO: speech recognition | — |
 | AIH-14900 | basis pursuits | Speech & Audio | CSO: signal processing | — |
 | AIH-11587 | bayesian network structure | Speech & Audio | CSO: speech recognition | [2004](https://doi.org/10.1007/978-3-540-39879-0_12) (source only) |
@@ -172,66 +172,66 @@
 | AIH-10860 | block diagonalization | Speech & Audio | CSO: signal processing | [1973](https://doi.org/10.1016/0024-3795(73)90018-9) (source only) |
 | AIH-11264 | bpsk | Speech & Audio | CSO: signal processing | 2005 ★★ (GUESS, no direct evidence) |
 | AIH-11272 | bpsk modulation | Speech & Audio | CSO: signal processing | [2005](https://doi.org/10.1016/j.sigpro.2004.12.010) (source only) |
-| AIH-14902 | brain signals | Speech & Audio | CSO: signal processing | — |
-| AIH-14903 | brain wave | Speech & Audio | CSO: signal processing | — |
+| AIH-14902 | brain signals | Speech & Audio | CSO: signal processing | [2000](https://doi.org/10.1201/9781482284102-17) (source only) |
+| AIH-14903 | brain wave | Speech & Audio | CSO: signal processing | [1947](https://doi.org/10.1111/j.1440-1819.1947.tb02758.x) (source only) |
 | AIH-11278 | broadcast news | Speech & Audio | CSO: speech recognition | [2003](https://doi.org/10.4324/9780203400395-9) (source only) |
-| AIH-14906 | butterworth | Speech & Audio | CSO: signal processing | — |
-| AIH-14904 | butterworth filter | Speech & Audio | CSO: signal processing | — |
-| AIH-14905 | butterworth filters | Speech & Audio | CSO: signal processing | — |
-| AIH-14907 | cellular radio systems | Speech & Audio | CSO: signal processing | — |
+| AIH-14906 | butterworth | Speech & Audio | CSO: signal processing | [1971](https://doi.org/10.1097/00017285-197103000-00005) (source only) |
+| AIH-14904 | butterworth filter | Speech & Audio | CSO: signal processing | [1998](https://doi.org/10.1109/78.678493) (source only) |
+| AIH-14905 | butterworth filters | Speech & Audio | CSO: signal processing | [1965](https://doi.org/10.1109/tct.1965.1082501) (source only) |
+| AIH-14907 | cellular radio systems | Speech & Audio | CSO: signal processing | [1989](https://doi.org/10.1007/978-1-4684-1526-1_9) (source only) |
 | AIH-11312 | cepstral | Speech & Audio | CSO: speech recognition | [1994](https://doi.org/10.21437/icslp.1994-267) (source only) |
 | AIH-11315 | cepstral coefficients | Speech & Audio | CSO: speech recognition | [1982](https://doi.org/10.1016/0167-6393(82)90034-6) (source only) |
-| AIH-14908 | cfar | Speech & Audio | CSO: signal processing | — |
+| AIH-14908 | cfar | Speech & Audio | CSO: signal processing | [2019](https://doi.org/10.1109/vtcfall.2019.8891420) (source only) |
 | AIH-14909 | change detection | Speech & Audio | CSO: signal processing | — |
-| AIH-14911 | channel shortening | Speech & Audio | CSO: signal processing | — |
+| AIH-14911 | channel shortening | Speech & Audio | CSO: signal processing | [2001](https://doi.org/10.1109/26.905867) (source only) |
 | AIH-11588 | chaotic signal | Speech & Audio | CSO: signal processing | [1983](https://doi.org/10.1103/physreva.28.2591) (source only) |
 | AIH-11574 | circuit oscillations | Speech & Audio | CSO: signal processing | [1963](https://doi.org/10.1007/978-1-349-00447-8_18) (source only) |
 | AIH-11583 | circular antenna arrays | Speech & Audio | CSO: signal processing | [1961](https://doi.org/10.1109/tap.1961.1144996) (source only) |
 | AIH-11596 | class d amplifier | Speech & Audio | CSO: speech recognition | [1968](https://openalex.org/W2747495056) (source only) |
 | AIH-11598 | closed form solutions | Speech & Audio | CSO: signal processing | [1981](https://doi.org/10.1109/taes.1981.309128) (source only) |
-| AIH-14912 | code excited linear prediction | Speech & Audio | CSO: speech synthesis | — |
+| AIH-14912 | code excited linear prediction | Speech & Audio | CSO: speech synthesis | [1989](https://doi.org/10.1049/el:19890276) (source only) |
 | AIH-11602 | coercive force | Speech & Audio | CSO: signal processing | [1935](https://doi.org/10.1063/1.1745303) (source only) |
 | AIH-14913 | collision detection algorithm | Speech & Audio | CSO: signal processing | — |
-| AIH-14914 | comb filter | Speech & Audio | CSO: signal processing | — |
+| AIH-14914 | comb filter | Speech & Audio | CSO: signal processing | [1966](https://doi.org/10.1063/1.1720141) (source only) |
 | AIH-14915 | comb filters | Speech & Audio | CSO: signal processing | — |
 | AIH-11603 | combining techniques | Speech & Audio | CSO: signal processing | [1959](https://doi.org/10.1109/jrproc.1959.287136) (source only) |
-| AIH-14916 | common spatial patterns | Speech & Audio | CSO: signal processing | — |
+| AIH-14916 | common spatial patterns | Speech & Audio | CSO: signal processing | [2008](https://doi.org/10.1109/vr.2008.4480786) (source only) |
 | AIH-11608 | comp | Speech & Audio | CSO: signal processing | 1984 ★★ (GUESS, no direct evidence) |
 | AIH-11610 | composite right/left-handed | Speech & Audio | CSO: signal processing | [2004](https://doi.org/10.1109/mmw.2004.1337766) (source only) |
-| AIH-14917 | composite right/left-handed transmission lines | Speech & Audio | CSO: signal processing | — |
+| AIH-14917 | composite right/left-handed transmission lines | Speech & Audio | CSO: signal processing | [2004](https://doi.org/10.1109/lmwc.2003.822563) (source only) |
 | AIH-14918 | computational electromagnetics | Speech & Audio | CSO: signal processing | — |
 | AIH-11611 | concatenated codes | Speech & Audio | CSO: signal processing | [1965](https://openalex.org/W2749426592) (source only) |
 | AIH-11618 | control voltages | Speech & Audio | CSO: signal processing | [1977](https://doi.org/10.1109/t-pas.1977.32410) (source only) |
 | AIH-11620 | convolutional coding | Speech & Audio | CSO: signal processing | [1997](https://doi.org/10.1007/978-1-4613-0447-0_12) (source only) |
 | AIH-11647 | convolutional encoders | Speech & Audio | CSO: signal processing | [1974](https://doi.org/10.1109/tit.1974.1055294) (source only) |
-| AIH-14919 | convolutive mixture | Speech & Audio | CSO: signal processing | — |
-| AIH-14920 | convolutive mixtures | Speech & Audio | CSO: signal processing | — |
+| AIH-14919 | convolutive mixture | Speech & Audio | CSO: signal processing | [2000](https://doi.org/10.1109/78.823990) (source only) |
+| AIH-14920 | convolutive mixtures | Speech & Audio | CSO: signal processing | [1995](https://doi.org/10.1016/0165-1684(95)00052-f) (source only) |
 | AIH-11656 | coordinated multi points | Speech & Audio | CSO: signal processing | [2011](https://doi.org/10.1109/vetecs.2011.5956260) (source only) |
-| AIH-14921 | correlation theory | Speech & Audio | CSO: signal processing | — |
+| AIH-14921 | correlation theory | Speech & Audio | CSO: signal processing | [1977](https://doi.org/10.1007/978-1-349-09546-9_3) (source only) |
 | AIH-11658 | cross-coupled | Speech & Audio | CSO: signal processing | [1951](https://openalex.org/W2296605420) (source only) |
 | AIH-11667 | crystal oscillators | Speech & Audio | CSO: signal processing | [1954](https://doi.org/10.1063/1.1770889) (source only) |
 | AIH-12039 | cyclic code | Speech & Audio | CSO: signal processing | 1998 ★★ (GUESS, no direct evidence) |
 | AIH-12045 | cyclic codes | Speech & Audio | CSO: signal processing | 1998 ★★ (GUESS, no direct evidence) |
 | AIH-14922 | cyclostationarity | Speech & Audio | CSO: signal processing | — |
 | AIH-12068 | das | Speech & Audio | CSO: signal processing | 1984 ★★ (GUESS, no direct evidence) |
-| AIH-14924 | data association | Speech & Audio | CSO: signal processing | — |
-| AIH-14925 | data associations | Speech & Audio | CSO: signal processing | — |
-| AIH-14926 | data detection | Speech & Audio | CSO: signal processing | — |
-| AIH-14927 | data fusion algorithm | Speech & Audio | CSO: signal processing | — |
+| AIH-14924 | data association | Speech & Audio | CSO: signal processing | [2001](https://doi.org/10.1201/9781420038545-14) (source only) |
+| AIH-14925 | data associations | Speech & Audio | CSO: signal processing | [2017](https://doi.org/10.2307/jj.28833740.13) (source only) |
+| AIH-14926 | data detection | Speech & Audio | CSO: signal processing | [2019](https://doi.org/10.26524/cm53) (source only) |
+| AIH-14927 | data fusion algorithm | Speech & Audio | CSO: signal processing | [1992](https://doi.org/10.2514/6.1992-4339) (source only) |
 | AIH-13493 | deblocking | Speech & Audio | CSO: signal processing | [1961](https://doi.org/10.1524/stuf.1961.14.14.337) (source only) |
 | AIH-13494 | decoding complexity | Speech & Audio | CSO: signal processing | [1973](https://doi.org/10.1007/978-1-4757-0079-4_15) (source only) |
 | AIH-11589 | delay estimation | Speech & Audio | CSO: signal processing | [1976](https://doi.org/10.1007/978-94-009-5361-1_15) (source only) |
 | AIH-13510 | delta sigma modulator | Speech & Audio | CSO: signal processing | [1993](https://doi.org/10.1109/vlsic.1993.920570) (source only) |
 | AIH-13524 | delta-sigma | Speech & Audio | CSO: signal processing | [2004](https://doi.org/10.1007/b105873) (source only) |
 | AIH-14928 | dempster | Speech & Audio | CSO: signal processing | — |
-| AIH-14929 | detection algorithm | Speech & Audio | CSO: signal processing | — |
+| AIH-14929 | detection algorithm | Speech & Audio | CSO: signal processing | [2011](https://doi.org/10.7763/ijet.2011.v3.260) (source only) |
 | AIH-14930 | detection algorithms | Speech & Audio | CSO: signal processing | — |
 | AIH-14931 | detection performance | Speech & Audio | CSO: signal processing | — |
 | AIH-14932 | detection probabilities | Speech & Audio | CSO: signal processing | — |
-| AIH-14933 | detection probability | Speech & Audio | CSO: signal processing | — |
+| AIH-14933 | detection probability | Speech & Audio | CSO: signal processing | [1965](https://doi.org/10.21236/ad0625230) (source only) |
 | AIH-13546 | dfe | Speech & Audio | CSO: signal processing | — |
 | AIH-13551 | dielectric resonator antennas | Speech & Audio | CSO: signal processing | [1993](https://doi.org/10.1049/ip-h-2.1993.0052) (source only) |
-| AIH-14934 | differential power analysis | Speech & Audio | CSO: signal processing | — |
+| AIH-14934 | differential power analysis | Speech & Audio | CSO: signal processing | [2005](https://doi.org/10.1016/s0965-2590(05)00215-x) (source only) |
 | AIH-11590 | digital signal processing | Speech & Audio | CSO: signal processing | [1973](https://doi.org/10.1109/proc.1973.9150) (source only) |
 | AIH-14937 | digital signal processors | Speech & Audio | CSO: signal processing | — |
 | AIH-11591 | digital television | Speech & Audio | CSO: signal processing | [1980](https://doi.org/10.5594/m00430) (source only) |
@@ -246,7 +246,7 @@
 | AIH-13595 | distributed antennas | Speech & Audio | CSO: signal processing | [2007](https://doi.org/10.1201/9781420042894-8) (source only) |
 | AIH-13605 | diversity combining | Speech & Audio | CSO: signal processing | [1959](https://doi.org/10.1109/jrproc.1959.287136) (source only) |
 | AIH-14942 | doherty | Speech & Audio | CSO: signal processing | — |
-| AIH-14941 | doherty power amplifier | Speech & Audio | CSO: signal processing | — |
+| AIH-14941 | doherty power amplifier | Speech & Audio | CSO: signal processing | [2000](https://doi.org/10.15760/etd.1780) (source only) |
 | AIH-13610 | domestic appliances | Speech & Audio | CSO: signal processing | [1913](https://doi.org/10.1136/bmj.2.2754.945) (source only) |
 | AIH-13616 | doppler frequency shift | Speech & Audio | CSO: signal processing | [1961](https://doi.org/10.1126/science.134.3478.564) (source only) |
 | AIH-13994 | ds-cdma | Speech & Audio | CSO: signal processing | [1996](https://doi.org/10.5937/vojtehg9605599m) (source only) |
@@ -254,224 +254,224 @@
 | AIH-11593 | dynamic bayesian networks | Speech & Audio | CSO: speech recognition | [1998](https://doi.org/10.1007/bfb0053999) (source only) |
 | AIH-11594 | ecg compression | Speech & Audio | CSO: signal processing | [1973](https://doi.org/10.1016/s0022-0736(73)80013-5) (source only) |
 | AIH-13995 | echo canceller | Speech & Audio | CSO: signal processing | — |
-| AIH-14943 | echo sounder | Speech & Audio | CSO: signal processing | — |
+| AIH-14943 | echo sounder | Speech & Audio | CSO: signal processing | [1960](https://doi.org/10.54302/mausam.v11i2.4115) (source only) |
 | AIH-14944 | edge detection algorithms | Speech & Audio | CSO: signal processing | — |
-| AIH-14945 | edge detection methods | Speech & Audio | CSO: signal processing | — |
-| AIH-14946 | eeg analysis | Speech & Audio | CSO: signal processing | — |
+| AIH-14945 | edge detection methods | Speech & Audio | CSO: signal processing | [1997](https://doi.org/10.1117/12.275928) (source only) |
+| AIH-14946 | eeg analysis | Speech & Audio | CSO: signal processing | [1978](https://doi.org/10.1080/00029238.1978.11081144) (source only) |
 | AIH-14947 | eeg classification | Speech & Audio | CSO: signal processing | — |
-| AIH-14948 | eeg recording | Speech & Audio | CSO: signal processing | — |
+| AIH-14948 | eeg recording | Speech & Audio | CSO: signal processing | [1967](https://doi.org/10.1080/00029238.1967.11080689) (source only) |
 | AIH-11595 | eeg signals | Speech & Audio | CSO: signal processing | [2010](https://doi.org/10.1093/acprof:oso/9780195372731.003.0004) (source only) |
-| AIH-14949 | electric filters | Speech & Audio | CSO: signal processing | — |
+| AIH-14949 | electric filters | Speech & Audio | CSO: signal processing | [1925](https://doi.org/10.1038/scientificamerican0425-241) (source only) |
 | AIH-14950 | electroacoustic transducers | Speech & Audio | CSO: signal processing | — |
 | AIH-14951 | electroencephalogram signals | Speech & Audio | CSO: signal processing | — |
-| AIH-14952 | electroencephalographic signals | Speech & Audio | CSO: signal processing | — |
-| AIH-14953 | electromagnetic compatibility (emc) | Speech & Audio | CSO: signal processing | — |
-| AIH-14955 | electromagnetic coupling | Speech & Audio | CSO: signal processing | — |
+| AIH-14952 | electroencephalographic signals | Speech & Audio | CSO: signal processing | [1996](https://doi.org/10.1016/s0165-1684(96)00129-6) (source only) |
+| AIH-14953 | electromagnetic compatibility (emc) | Speech & Audio | CSO: signal processing | [1994](https://doi.org/10.23919/emc.1994.10777658) (source only) |
+| AIH-14955 | electromagnetic coupling | Speech & Audio | CSO: signal processing | [1961](https://doi.org/10.21236/ad0257304) (source only) |
 | AIH-14003 | electromagnetic environments | Speech & Audio | CSO: signal processing | [1975](https://doi.org/10.23919/emc.1975.10797974) (source only) |
 | AIH-14004 | electromagnetic shielding | Speech & Audio | CSO: signal processing | — |
-| AIH-14956 | electromagnetic wave absorption | Speech & Audio | CSO: signal processing | — |
+| AIH-14956 | electromagnetic wave absorption | Speech & Audio | CSO: signal processing | [2011](https://doi.org/10.5772/14253) (source only) |
 | AIH-14196 | electromagnetic wave interference | Speech & Audio | CSO: signal processing | [2024](https://doi.org/10.1039/d4tc02611j/v1/review2) (source only) |
 | AIH-14957 | emd method | Speech & Audio | CSO: signal processing | — |
 | AIH-14958 | emotion detection | Speech & Audio | CSO: speech recognition | — |
-| AIH-14959 | emotion models | Speech & Audio | CSO: speech recognition | — |
+| AIH-14959 | emotion models | Speech & Audio | CSO: speech recognition | [2023](https://doi.org/10.3390/s23052455) (source only) |
 | AIH-11597 | emotion recognition | Speech & Audio | CSO: speech recognition | [1986](https://doi.org/10.1037//0022-3514.51.4.690) (source only) |
-| AIH-14960 | emotional speech | Speech & Audio | CSO: speech recognition | — |
+| AIH-14960 | emotional speech | Speech & Audio | CSO: speech recognition | [1999](https://doi.org/10.21437/eurospeech.1999-33) (source only) |
 | AIH-11599 | empirical mode decomposition | Speech & Audio | CSO: signal processing | [1998](https://doi.org/10.1098/rspa.1998.0193) (source only) |
-| AIH-14961 | end effects | Speech & Audio | CSO: signal processing | — |
+| AIH-14961 | end effects | Speech & Audio | CSO: signal processing | [1972](https://doi.org/10.1109/ultsym.1972.196113) (source only) |
 | AIH-14962 | ensemble empirical mode decomposition | Speech & Audio | CSO: signal processing | — |
 | AIH-14255 | entropy rates | Speech & Audio | CSO: signal processing | [1990](https://doi.org/10.1007/978-1-4757-3982-4_7) (source only) |
-| AIH-14963 | epileptic patients | Speech & Audio | CSO: signal processing | — |
+| AIH-14963 | epileptic patients | Speech & Audio | CSO: signal processing | [1966](https://doi.org/10.1037/e430362004-001) (source only) |
 | AIH-11600 | equal error rate | Speech & Audio | CSO: speech recognition | [1995](https://doi.org/10.1016/0167-6393(95)00017-i) (source only) |
 | AIH-14273 | ergodic capacity | Speech & Audio | CSO: signal processing | [2001](https://doi.org/10.1109/18.915665) (source only) |
 | AIH-14321 | ergodics | Speech & Audio | CSO: signal processing | — |
 | AIH-11601 | expressive speech | Speech & Audio | CSO: speech synthesis | [1966](https://doi.org/10.1007/978-1-4684-7741-2_16) (source only) |
 | AIH-14350 | extrinsic information | Speech & Audio | CSO: signal processing | [1996](https://doi.org/10.1007/bf00413866) (source only) |
-| AIH-14964 | face detection algorithm | Speech & Audio | CSO: signal processing | — |
-| AIH-14966 | fading channel | Speech & Audio | CSO: signal processing | — |
-| AIH-14967 | fading channels | Speech & Audio | CSO: signal processing | — |
+| AIH-14964 | face detection algorithm | Speech & Audio | CSO: signal processing | [2009](https://doi.org/10.1109/icect.2009.41) (source only) |
+| AIH-14966 | fading channel | Speech & Audio | CSO: signal processing | [1994](https://doi.org/10.1007/978-1-4615-2728-2_1) (source only) |
+| AIH-14967 | fading channels | Speech & Audio | CSO: signal processing | [1994](https://doi.org/10.1007/978-1-4615-2728-2_2) (source only) |
 | AIH-14382 | fading parameters | Speech & Audio | CSO: signal processing | [1995](https://doi.org/10.1049/el:19951078) (source only) |
-| AIH-14968 | false detections | Speech & Audio | CSO: signal processing | — |
+| AIH-14968 | false detections | Speech & Audio | CSO: signal processing | [1999](https://doi.org/10.1007/978-3-642-60125-5_10) (source only) |
 | AIH-14969 | fast fourier transform algorithm | Speech & Audio | CSO: signal processing | — |
 | AIH-11604 | fast fourier transforms | Speech & Audio | CSO: signal processing | [1980](https://doi.org/10.21236/ada541510) (source only) |
 | AIH-14383 | fdtd simulations | Speech & Audio | CSO: signal processing | — |
-| AIH-14653 | feedback load | Speech & Audio | CSO: signal processing | — |
-| AIH-14671 | feedback overhead | Speech & Audio | CSO: signal processing | — |
+| AIH-14653 | feedback load | Speech & Audio | CSO: signal processing | [2005](https://openalex.org/W2149083073) (source only) |
+| AIH-14671 | feedback overhead | Speech & Audio | CSO: signal processing | [2006](https://doi.org/10.1109/glocom.2006.356) (source only) |
 | AIH-14970 | fft algorithm | Speech & Audio | CSO: signal processing | — |
-| AIH-14971 | fft processors | Speech & Audio | CSO: signal processing | — |
+| AIH-14971 | fft processors | Speech & Audio | CSO: signal processing | [1977](https://doi.org/10.1109/proc.1977.10446) (source only) |
 | AIH-14973 | filter banks | Speech & Audio | CSO: signal processing | — |
-| AIH-14974 | filter coefficients | Speech & Audio | CSO: signal processing | — |
-| AIH-14975 | finite difference method | Speech & Audio | CSO: signal processing | — |
-| AIH-14976 | finite difference methods | Speech & Audio | CSO: signal processing | — |
+| AIH-14974 | filter coefficients | Speech & Audio | CSO: signal processing | [1974](https://doi.org/10.1190/1.1440413) (source only) |
+| AIH-14975 | finite difference method | Speech & Audio | CSO: signal processing | [1977](https://doi.org/10.2172/7314389) (source only) |
+| AIH-14976 | finite difference methods | Speech & Audio | CSO: signal processing | [1984](https://doi.org/10.21236/ada216822) (source only) |
 | AIH-14977 | finite difference time domains | Speech & Audio | CSO: signal processing | — |
-| AIH-14979 | finite-difference time-domain (fdtd) | Speech & Audio | CSO: signal processing | — |
-| AIH-14978 | finite-difference time-domain (fdtd) methods | Speech & Audio | CSO: signal processing | — |
-| AIH-14980 | finite-difference time-domain method | Speech & Audio | CSO: signal processing | — |
+| AIH-14979 | finite-difference time-domain (fdtd) | Speech & Audio | CSO: signal processing | [1992](https://doi.org/10.1109/aps.1992.221489) (source only) |
+| AIH-14978 | finite-difference time-domain (fdtd) methods | Speech & Audio | CSO: signal processing | [2021](https://doi.org/10.1121/10.0004614) (source only) |
+| AIH-14980 | finite-difference time-domain method | Speech & Audio | CSO: signal processing | [1982](https://doi.org/10.21236/ada113598) (source only) |
 | AIH-14982 | fir digital filters | Speech & Audio | CSO: signal processing | — |
 | AIH-11605 | fir filter | Speech & Audio | CSO: signal processing | [1985](https://doi.org/10.1109/icassp.1985.1168507) (source only) |
-| AIH-14983 | fir filter design | Speech & Audio | CSO: signal processing | — |
+| AIH-14983 | fir filter design | Speech & Audio | CSO: signal processing | [1989](https://doi.org/10.1007/978-1-4615-3262-0_9) (source only) |
 | AIH-11606 | fir filters | Speech & Audio | CSO: signal processing | [1980](https://doi.org/10.1137/1.9781611970364.ch5) (source only) |
 | AIH-14676 | flicker noise | Speech & Audio | CSO: signal processing | — |
-| AIH-14985 | fmcw radar | Speech & Audio | CSO: signal processing | — |
+| AIH-14985 | fmcw radar | Speech & Audio | CSO: signal processing | [1992](https://doi.org/10.1049/ip-f-2.1992.0048) (source only) |
 | AIH-14989 | fourier | Speech & Audio | CSO: signal processing | — |
 | AIH-11607 | fourier analysis | Speech & Audio | CSO: signal processing | [1985](https://doi.org/10.1016/s0304-0208(08)70274-3) (source only) |
 | AIH-14986 | fourier descriptor | Speech & Audio | CSO: signal processing | — |
-| AIH-14987 | fourier descriptors | Speech & Audio | CSO: signal processing | — |
+| AIH-14987 | fourier descriptors | Speech & Audio | CSO: signal processing | [1982](https://doi.org/10.1016/0032-5910(82)89006-2) (source only) |
 | AIH-14988 | fourier transformations | Speech & Audio | CSO: signal processing | — |
 | AIH-11609 | fourier transforms | Speech & Audio | CSO: signal processing | [1950](https://doi.org/10.1515/9781400882243-006) (source only) |
 | AIH-14990 | fractional fourier domains | Speech & Audio | CSO: signal processing | — |
-| AIH-14991 | fractional fourier transform | Speech & Audio | CSO: signal processing | — |
-| AIH-14992 | fractional fourier transforms | Speech & Audio | CSO: signal processing | — |
-| AIH-14880 | frequency dividers | Speech & Audio | CSO: signal processing | — |
-| AIH-14993 | frequency domain analysis | Speech & Audio | CSO: signal processing | — |
+| AIH-14991 | fractional fourier transform | Speech & Audio | CSO: signal processing | [1993](https://doi.org/10.1364/optcomp.1993.otua.1) (source only) |
+| AIH-14992 | fractional fourier transforms | Speech & Audio | CSO: signal processing | [1993](https://doi.org/10.1364/oam.1993.wtt.9) (source only) |
+| AIH-14880 | frequency dividers | Speech & Audio | CSO: signal processing | [1949](https://doi.org/10.21236/ada457222) (source only) |
+| AIH-14993 | frequency domain analysis | Speech & Audio | CSO: signal processing | [1969](https://doi.org/10.21236/ad0710200) (source only) |
 | AIH-14899 | frequency hopping | Speech & Audio | CSO: signal processing | — |
 | AIH-14910 | frequency multiplier | Speech & Audio | CSO: signal processing | — |
-| AIH-14923 | frequency shift | Speech & Audio | CSO: signal processing | — |
-| AIH-14994 | fusion center | Speech & Audio | CSO: signal processing | — |
-| AIH-14995 | fusion reactions | Speech & Audio | CSO: signal processing | — |
-| AIH-14935 | gaussian broadcast channel | Speech & Audio | CSO: signal processing | — |
+| AIH-14923 | frequency shift | Speech & Audio | CSO: signal processing | [1962](https://doi.org/10.1109/freq.1962.199515) (source only) |
+| AIH-14994 | fusion center | Speech & Audio | CSO: signal processing | [1979](https://doi.org/10.2172/5723502) (source only) |
+| AIH-14995 | fusion reactions | Speech & Audio | CSO: signal processing | [1958](https://doi.org/10.1016/0160-9327(58)90079-6) (source only) |
+| AIH-14935 | gaussian broadcast channel | Speech & Audio | CSO: signal processing | [1987](https://doi.org/10.1109/tcom.1987.1096784) (source only) |
 | AIH-14996 | gaussian components | Speech & Audio | CSO: speech recognition | — |
-| AIH-14936 | gaussian interference channels | Speech & Audio | CSO: signal processing | — |
+| AIH-14936 | gaussian interference channels | Speech & Audio | CSO: signal processing | [2004](https://doi.org/10.1109/tit.2004.828156) (source only) |
 | AIH-14939 | gaussian mixture | Speech & Audio | CSO: signal processing | — |
 | AIH-11612 | gaussian mixture models | Speech & Audio | CSO: speech recognition | [2004](https://doi.org/10.21437/interspeech.2004-617) (source only) |
-| AIH-14954 | gaussian mixtures | Speech & Audio | CSO: signal processing | — |
-| AIH-14965 | gaussian multiple-access channels | Speech & Audio | CSO: signal processing | — |
+| AIH-14954 | gaussian mixtures | Speech & Audio | CSO: signal processing | [1981](https://doi.org/10.1007/978-94-009-8552-0_9) (source only) |
+| AIH-14965 | gaussian multiple-access channels | Speech & Audio | CSO: signal processing | [1986](https://doi.org/10.1109/tit.1986.1057121) (source only) |
 | AIH-14997 | gaussian noise (electronic) | Speech & Audio | CSO: signal processing | — |
-| AIH-14972 | gaussian process models | Speech & Audio | CSO: signal processing | — |
+| AIH-14972 | gaussian process models | Speech & Audio | CSO: signal processing | [2005](https://doi.org/10.32614/cran.package.tgp) (source only) |
 | AIH-14981 | gaussian processes | Speech & Audio | CSO: signal processing | — |
 | AIH-14984 | gaussians | Speech & Audio | CSO: signal processing | — |
-| AIH-14998 | generalized gaussian distribution | Speech & Audio | CSO: signal processing | — |
-| AIH-15000 | generalized gaussian distributions | Speech & Audio | CSO: signal processing | — |
-| AIH-14999 | generalized likelihood ratio test (glrt) | Speech & Audio | CSO: signal processing | — |
-| AIH-15001 | generalized likelihood-ratio tests | Speech & Audio | CSO: signal processing | — |
-| AIH-15002 | ghz frequencies | Speech & Audio | CSO: signal processing | — |
+| AIH-14998 | generalized gaussian distribution | Speech & Audio | CSO: signal processing | [2006](https://doi.org/10.1109/icosp.2006.345546) (source only) |
+| AIH-15000 | generalized gaussian distributions | Speech & Audio | CSO: signal processing | [2005](https://doi.org/10.1002/9781118445112.stat01224) (source only) |
+| AIH-14999 | generalized likelihood ratio test (glrt) | Speech & Audio | CSO: signal processing | [2024](https://doi.org/10.1109/tmtt.2023.3349154) (source only) |
+| AIH-15001 | generalized likelihood-ratio tests | Speech & Audio | CSO: signal processing | [1990](https://doi.org/10.1080/00031305.1990.10475708) (source only) |
+| AIH-15002 | ghz frequencies | Speech & Audio | CSO: signal processing | [2009](https://doi.org/10.1007/978-90-481-3083-2_12) (source only) |
 | AIH-15003 | global positioning system receivers | Speech & Audio | CSO: signal processing | — |
-| AIH-15010 | gps positioning | Speech & Audio | CSO: signal processing | — |
-| AIH-15017 | gps signals | Speech & Audio | CSO: signal processing | — |
+| AIH-15010 | gps positioning | Speech & Audio | CSO: signal processing | [1993](https://doi.org/10.4095/331440) (source only) |
+| AIH-15017 | gps signals | Speech & Audio | CSO: signal processing | [1998](https://doi.org/10.1007/978-3-642-72011-6_3) (source only) |
 | AIH-15004 | headphones | Speech & Audio | CSO: speech recognition | — |
 | AIH-15028 | heterodyning | Speech & Audio | CSO: signal processing | — |
-| AIH-15005 | high definition television | Speech & Audio | CSO: signal processing | — |
-| AIH-15006 | hilbert huang transforms | Speech & Audio | CSO: signal processing | — |
-| AIH-15007 | hilbert-huang transform | Speech & Audio | CSO: signal processing | — |
+| AIH-15005 | high definition television | Speech & Audio | CSO: signal processing | [1935](https://doi.org/10.1038/136579a0) (source only) |
+| AIH-15006 | hilbert huang transforms | Speech & Audio | CSO: signal processing | [2005](https://doi.org/10.1142/9789812703347_0006) (source only) |
+| AIH-15007 | hilbert-huang transform | Speech & Audio | CSO: signal processing | [2005](https://doi.org/10.1201/9781420027532) (source only) |
 | AIH-11613 | hmm-based speech synthesis | Speech & Audio | CSO: speech synthesis | [1997](https://doi.org/10.21437/eurospeech.1997-655) (source only) |
 | AIH-11614 | iir filter | Speech & Audio | CSO: signal processing | [1989](https://doi.org/10.1007/978-1-4615-3262-0_8) (source only) |
 | AIH-11615 | iir filters | Speech & Audio | CSO: signal processing | [1978](https://doi.org/10.1109/proc.1978.10962) (source only) |
-| AIH-15008 | image edge detection | Speech & Audio | CSO: signal processing | — |
+| AIH-15008 | image edge detection | Speech & Audio | CSO: signal processing | [2008](https://doi.org/10.3724/sp.j.1087.2008.01236) (source only) |
 | AIH-15009 | imf | Speech & Audio | CSO: signal processing | — |
-| AIH-15011 | instantaneous amplitude | Speech & Audio | CSO: signal processing | — |
-| AIH-15013 | integrated navigation | Speech & Audio | CSO: signal processing | — |
+| AIH-15011 | instantaneous amplitude | Speech & Audio | CSO: signal processing | [1962](https://doi.org/10.1121/1.1937095) (source only) |
+| AIH-15013 | integrated navigation | Speech & Audio | CSO: signal processing | [1963](https://doi.org/10.1017/s037346330001849x) (source only) |
 | AIH-15012 | integrated navigation systems | Speech & Audio | CSO: signal processing | — |
-| AIH-15029 | inter-cell interference | Speech & Audio | CSO: signal processing | — |
+| AIH-15029 | inter-cell interference | Speech & Audio | CSO: signal processing | [2001](https://doi.org/10.1142/9789812799562_0030) (source only) |
 | AIH-15014 | interactive television | Speech & Audio | CSO: signal processing | — |
 | AIH-15015 | interactive tv | Speech & Audio | CSO: signal processing | — |
-| AIH-15037 | interference suppression | Speech & Audio | CSO: signal processing | — |
-| AIH-15039 | interfering signals | Speech & Audio | CSO: signal processing | — |
-| AIH-15041 | intermodulation distortion | Speech & Audio | CSO: signal processing | — |
-| AIH-15042 | intermodulation measurement | Speech & Audio | CSO: signal processing | — |
-| AIH-15016 | intersymbol interference (isi) | Speech & Audio | CSO: signal processing | — |
+| AIH-15037 | interference suppression | Speech & Audio | CSO: signal processing | [1961](https://doi.org/10.21236/ad0265780) (source only) |
+| AIH-15039 | interfering signals | Speech & Audio | CSO: signal processing | [1965](https://doi.org/10.1109/tit.1965.1053716) (source only) |
+| AIH-15041 | intermodulation distortion | Speech & Audio | CSO: signal processing | [1953](https://doi.org/10.1049/jbire.1953.0004) (source only) |
+| AIH-15042 | intermodulation measurement | Speech & Audio | CSO: signal processing | [1981](https://doi.org/10.1109/tim.1981.6312404) (source only) |
+| AIH-15016 | intersymbol interference (isi) | Speech & Audio | CSO: signal processing | [1984](https://doi.org/10.2351/1.5057643) (source only) |
 | AIH-11616 | intrinsic mode function | Speech & Audio | CSO: signal processing | [2002](https://doi.org/10.1109/icr.2001.984882) (source only) |
 | AIH-11617 | intrinsic mode functions | Speech & Audio | CSO: signal processing | [2004](https://doi.org/10.21236/ada637116) (source only) |
 | AIH-15018 | inverse fast fourier transforms | Speech & Audio | CSO: signal processing | — |
-| AIH-15019 | inverse scattering problems | Speech & Audio | CSO: signal processing | — |
-| AIH-15020 | kalman filter algorithms | Speech & Audio | CSO: signal processing | — |
+| AIH-15019 | inverse scattering problems | Speech & Audio | CSO: signal processing | [1985](https://doi.org/10.1088/0266-5611/1/2/005) (source only) |
+| AIH-15020 | kalman filter algorithms | Speech & Audio | CSO: signal processing | [1977](https://doi.org/10.1016/0005-1098(77)90006-1) (source only) |
 | AIH-15021 | kalman filtering algorithms | Speech & Audio | CSO: signal processing | — |
 | AIH-11619 | kalman filters | Speech & Audio | CSO: signal processing | [1986](https://doi.org/10.1177/002029408601900204) (source only) |
-| AIH-15069 | lagrange multiplier method | Speech & Audio | CSO: signal processing | — |
+| AIH-15069 | lagrange multiplier method | Speech & Audio | CSO: signal processing | [1963](https://doi.org/10.1287/opre.11.3.399) (source only) |
 | AIH-15074 | land mobile radio cellular systems | Speech & Audio | CSO: signal processing | — |
 | AIH-15022 | landmine detection | Speech & Audio | CSO: signal processing | — |
 | AIH-11621 | language modelling | Speech & Audio | CSO: speech recognition | [1997](https://doi.org/10.1049/ic:19970761) (source only) |
 | AIH-11622 | language models | Speech & Audio | CSO: speech recognition | [1999](https://doi.org/10.1145/312624.312687) (source only) |
 | AIH-15023 | large vocabulary continuous speech recognition | Speech & Audio | CSO: speech recognition | — |
-| AIH-15024 | large vocabulary speech recognition | Speech & Audio | CSO: speech recognition | — |
-| AIH-15025 | laser ranging | Speech & Audio | CSO: signal processing | — |
+| AIH-15024 | large vocabulary speech recognition | Speech & Audio | CSO: speech recognition | [1989](https://doi.org/10.21437/eurospeech.1989-227) (source only) |
+| AIH-15025 | laser ranging | Speech & Audio | CSO: signal processing | [1967](https://doi.org/10.1109/jqe.1967.1074389) (source only) |
 | AIH-11623 | learning bayesian networks | Speech & Audio | CSO: speech recognition | [1998](https://doi.org/10.1007/978-94-011-5014-9_15) (source only) |
 | AIH-15026 | line spectral frequencies | Speech & Audio | CSO: speech synthesis | — |
-| AIH-15078 | linear antenna arrays | Speech & Audio | CSO: signal processing | — |
-| AIH-15081 | linear array | Speech & Audio | CSO: signal processing | — |
+| AIH-15078 | linear antenna arrays | Speech & Audio | CSO: signal processing | [1962](https://doi.org/10.7498/aps.18.449) (source only) |
+| AIH-15081 | linear array | Speech & Audio | CSO: signal processing | [1963](https://doi.org/10.7249/rm3530) (source only) |
 | AIH-15082 | linear arrays | Speech & Audio | CSO: signal processing | — |
-| AIH-15090 | linear code | Speech & Audio | CSO: signal processing | — |
+| AIH-15090 | linear code | Speech & Audio | CSO: signal processing | [2006](https://doi.org/10.1016/j.laa.2006.02.028) (source only) |
 | AIH-15100 | linear codes | Speech & Audio | CSO: signal processing | — |
 | AIH-15027 | linear mixtures | Speech & Audio | CSO: signal processing | — |
 | AIH-11624 | listening tests | Speech & Audio | CSO: speech synthesis | [1958](https://doi.org/10.1121/1.1909529) (source only) |
 | AIH-11625 | loudspeakers | Speech & Audio | CSO: speech recognition | [1976](https://doi.org/10.1080/09747338.1976.11450151) (source only) |
-| AIH-15030 | low signal-to-noise ratio | Speech & Audio | CSO: signal processing | — |
+| AIH-15030 | low signal-to-noise ratio | Speech & Audio | CSO: signal processing | [1984](https://doi.org/10.1109/tassp.1984.1164358) (source only) |
 | AIH-11626 | low-pass filtering | Speech & Audio | CSO: signal processing | [1948](https://doi.org/10.1121/1.1906369) (source only) |
 | AIH-15031 | magnetostriction | Speech & Audio | CSO: speech recognition | — |
 | AIH-11627 | magnetostrictive devices | Speech & Audio | CSO: speech recognition | [1980](https://doi.org/10.1021/ba-1970-0186.ch015) (source only) |
-| AIH-15032 | matching networks | Speech & Audio | CSO: signal processing | — |
-| AIH-15033 | matching pursuit algorithms | Speech & Audio | CSO: signal processing | — |
-| AIH-15034 | maximum likelihood detectors | Speech & Audio | CSO: signal processing | — |
-| AIH-15035 | maxwell equations | Speech & Audio | CSO: signal processing | — |
-| AIH-15036 | maxwells equations | Speech & Audio | CSO: signal processing | — |
-| AIH-15038 | mean square error | Speech & Audio | CSO: signal processing | — |
+| AIH-15032 | matching networks | Speech & Audio | CSO: signal processing | [1954](https://doi.org/10.21236/ad0031825) (source only) |
+| AIH-15033 | matching pursuit algorithms | Speech & Audio | CSO: signal processing | [2008](https://doi.org/10.1109/isit.2008.4595430) (source only) |
+| AIH-15034 | maximum likelihood detectors | Speech & Audio | CSO: signal processing | [1978](https://doi.org/10.1109/tit.1978.1055834) (source only) |
+| AIH-15035 | maxwell equations | Speech & Audio | CSO: signal processing | [1958](https://doi.org/10.1038/1821600b0) (source only) |
+| AIH-15036 | maxwells equations | Speech & Audio | CSO: signal processing | [2000](https://doi.org/10.21236/ada387163) (source only) |
+| AIH-15038 | mean square error | Speech & Audio | CSO: signal processing | [1979](https://doi.org/10.21136/am.1979.103818) (source only) |
 | AIH-15040 | mental tasks | Speech & Audio | CSO: signal processing | — |
 | AIH-11628 | microphone | Speech & Audio | CSO: speech recognition | [1878](https://doi.org/10.1038/018130a0) (source only) |
 | AIH-15043 | microphone arrays | Speech & Audio | CSO: speech recognition | — |
-| AIH-15044 | microphone signals | Speech & Audio | CSO: speech recognition | — |
+| AIH-15044 | microphone signals | Speech & Audio | CSO: speech recognition | [1975](https://doi.org/10.2514/6.1975-456) (source only) |
 | AIH-11629 | microphones | Speech & Audio | CSO: speech recognition | [1946](https://doi.org/10.1121/1.1916315) (source only) |
-| AIH-15046 | microstrip | Speech & Audio | CSO: signal processing | — |
-| AIH-15045 | microstrip lines | Speech & Audio | CSO: signal processing | — |
-| AIH-15047 | microstripes | Speech & Audio | CSO: signal processing | — |
-| AIH-15048 | microwave antennas | Speech & Audio | CSO: signal processing | — |
-| AIH-15049 | microwave links | Speech & Audio | CSO: signal processing | — |
-| AIH-15050 | microwave photonics | Speech & Audio | CSO: signal processing | — |
+| AIH-15046 | microstrip | Speech & Audio | CSO: signal processing | [1981](https://doi.org/10.1049/pbew012e_ch2) (source only) |
+| AIH-15045 | microstrip lines | Speech & Audio | CSO: signal processing | [1968](https://doi.org/10.1109/tmtt.1968.1126858) (source only) |
+| AIH-15047 | microstripes | Speech & Audio | CSO: signal processing | [1997](https://doi.org/10.1016/s0304-8853(97)80010-8) (source only) |
+| AIH-15048 | microwave antennas | Speech & Audio | CSO: signal processing | [1956](https://doi.org/10.1109/tap.1956.1144447) (source only) |
+| AIH-15049 | microwave links | Speech & Audio | CSO: signal processing | [1964](https://doi.org/10.6028/nbs.tn.219) (source only) |
+| AIH-15050 | microwave photonics | Speech & Audio | CSO: signal processing | [1997](https://doi.org/10.1109/mwp.1997.740212) (source only) |
 | AIH-11630 | microwaves | Speech & Audio | CSO: signal processing | [1945](https://doi.org/10.1093/ptj/25.5.263) (source only) |
 | AIH-15051 | mimo detection | Speech & Audio | CSO: signal processing | — |
-| AIH-15052 | mimo systems | Speech & Audio | CSO: signal processing | — |
+| AIH-15052 | mimo systems | Speech & Audio | CSO: signal processing | [2001](https://doi.org/10.1017/cbo9780511616815.021) (source only) |
 | AIH-11631 | morphological filter | Speech & Audio | CSO: signal processing | [1989](https://doi.org/10.1109/acssc.1989.1200768) (source only) |
 | AIH-15053 | morphological filtering | Speech & Audio | CSO: signal processing | — |
 | AIH-11632 | morphological filters | Speech & Audio | CSO: signal processing | [1990](https://doi.org/10.1117/12.23586) (source only) |
-| AIH-15054 | mp3 compression | Speech & Audio | CSO: signal processing | — |
+| AIH-15054 | mp3 compression | Speech & Audio | CSO: signal processing | [2007](https://doi.org/10.1360/aas-007-0248) (source only) |
 | AIH-15056 | multi-sensor data | Speech & Audio | CSO: signal processing | — |
 | AIH-15055 | multi-sensor data fusion | Speech & Audio | CSO: signal processing | — |
 | AIH-11633 | multimedia signal processing | Speech & Audio | CSO: signal processing | [1997](https://doi.org/10.1109/mmsp.1997.602603) (source only) |
 | AIH-10107 | multiple input multiple output mimo) | Speech & Audio | CSO: signal processing | [1999](https://doi.org/10.1016/b978-012443870-5/50005-8) (source only) |
-| AIH-15057 | multiplexing | Speech & Audio | CSO: signal processing | — |
+| AIH-15057 | multiplexing | Speech & Audio | CSO: signal processing | [1990](https://doi.org/10.4271/900703) (source only) |
 | AIH-15058 | multiplying circuits | Speech & Audio | CSO: signal processing | — |
 | AIH-11634 | name recognition | Speech & Audio | CSO: speech recognition | [1988](https://doi.org/10.2466/pms.1988.67.2.646) (source only) |
 | AIH-11635 | natural speech | Speech & Audio | CSO: speech synthesis | [1983](https://doi.org/10.1016/0167-6393(83)90025-0) (source only) |
 | AIH-11636 | noise abatement | Speech & Audio | CSO: speech recognition | [1935](https://doi.org/10.1016/s0033-3506(35)80819-6) (source only) |
-| AIH-15059 | noise cancellation | Speech & Audio | CSO: speech recognition | — |
+| AIH-15059 | noise cancellation | Speech & Audio | CSO: speech recognition | [1979](https://doi.org/10.21236/ada082801) (source only) |
 | AIH-15060 | noise conditions | Speech & Audio | CSO: speech recognition | — |
-| AIH-15061 | noise estimation | Speech & Audio | CSO: speech recognition | — |
+| AIH-15061 | noise estimation | Speech & Audio | CSO: speech recognition | [2002](https://doi.org/10.1109/dac.2002.1012707) (source only) |
 | AIH-11637 | noise reduction | Speech & Audio | CSO: signal processing | [1963](https://doi.org/10.1016/0002-9378(63)90104-2) (source only) |
-| AIH-15062 | noise reduction algorithms | Speech & Audio | CSO: speech recognition | — |
+| AIH-15062 | noise reduction algorithms | Speech & Audio | CSO: speech recognition | [1999](https://doi.org/10.1121/1.425695) (source only) |
 | AIH-15063 | noise reduction methods | Speech & Audio | CSO: speech recognition | — |
 | AIH-11638 | noise reductions | Speech & Audio | CSO: signal processing | [1966](https://doi.org/10.1121/1.1943029) (source only) |
 | AIH-15064 | noise robustness | Speech & Audio | CSO: speech recognition | — |
-| AIH-15065 | noise source | Speech & Audio | CSO: speech recognition | — |
+| AIH-15065 | noise source | Speech & Audio | CSO: speech recognition | [1970](https://doi.org/10.21236/ad0871999) (source only) |
 | AIH-11639 | noisy environment | Speech & Audio | CSO: speech recognition | [1956](https://doi.org/10.1037/e413832004-001) (source only) |
 | AIH-15066 | noisy speech | Speech & Audio | CSO: speech recognition | — |
-| AIH-15067 | nonstationary data | Speech & Audio | CSO: signal processing | — |
-| AIH-15068 | nonstationary noise | Speech & Audio | CSO: speech recognition | — |
-| AIH-15070 | notch filters | Speech & Audio | CSO: signal processing | — |
-| AIH-15071 | nuclear physics | Speech & Audio | CSO: signal processing | — |
+| AIH-15067 | nonstationary data | Speech & Audio | CSO: signal processing | [1962](https://doi.org/10.4271/620303) (source only) |
+| AIH-15068 | nonstationary noise | Speech & Audio | CSO: speech recognition | [1968](https://doi.org/10.1121/1.1911229) (source only) |
+| AIH-15070 | notch filters | Speech & Audio | CSO: signal processing | [1969](https://doi.org/10.1049/el:19690150) (source only) |
+| AIH-15071 | nuclear physics | Speech & Audio | CSO: signal processing | [1956](https://doi.org/10.1016/0029-5582(56)90099-2) (source only) |
 | AIH-11640 | observation model | Speech & Audio | CSO: signal processing | [1988](https://doi.org/10.1177/036215378801800312) (source only) |
 | AIH-11641 | optical signal processing | Speech & Audio | CSO: signal processing | [1967](https://openalex.org/W218188614) (source only) |
 | AIH-15072 | optical signal to noise ratio | Speech & Audio | CSO: signal processing | — |
-| AIH-15073 | particle filtering algorithms | Speech & Audio | CSO: speech recognition | — |
+| AIH-15073 | particle filtering algorithms | Speech & Audio | CSO: speech recognition | [2003](https://doi.org/10.1109/aspaa.2003.1285841) (source only) |
 | AIH-11642 | perfect reconstruction | Speech & Audio | CSO: signal processing | [1986](https://doi.org/10.1016/0165-1684(86)90101-5) (source only) |
-| AIH-15075 | phase detector | Speech & Audio | CSO: signal processing | — |
+| AIH-15075 | phase detector | Speech & Audio | CSO: signal processing | [1988](https://doi.org/10.2172/7029262) (source only) |
 | AIH-15076 | phase detectors | Speech & Audio | CSO: signal processing | — |
-| AIH-15077 | pin diode | Speech & Audio | CSO: signal processing | — |
+| AIH-15077 | pin diode | Speech & Audio | CSO: signal processing | [1956](https://doi.org/10.1002/j.1538-7305.1956.tb02396.x) (source only) |
 | AIH-11643 | pitch contours | Speech & Audio | CSO: speech synthesis | [1969](https://doi.org/10.1121/1.1971460) (source only) |
 | AIH-11644 | posterior probability | Speech & Audio | CSO: speech recognition | [1968](https://doi.org/10.3758/bf03330983) (source only) |
-| AIH-15079 | postfilters | Speech & Audio | CSO: speech recognition | — |
-| AIH-15080 | power control | Speech & Audio | CSO: signal processing | — |
+| AIH-15079 | postfilters | Speech & Audio | CSO: speech recognition | [1965](https://doi.org/10.1109/proc.1965.3937) (source only) |
+| AIH-15080 | power control | Speech & Audio | CSO: signal processing | [1987](https://doi.org/10.1016/b978-0-08-034077-7.50031-7) (source only) |
 | AIH-11645 | probabilistic graphical models | Speech & Audio | CSO: speech recognition | [2003](https://doi.org/10.1002/int.10081) (source only) |
 | AIH-11646 | pulse train | Speech & Audio | CSO: signal processing | [1961](https://openalex.org/W2951346147) (source only) |
-| AIH-15083 | quantization schemes | Speech & Audio | CSO: signal processing | — |
-| AIH-15084 | quantizer | Speech & Audio | CSO: signal processing | — |
+| AIH-15083 | quantization schemes | Speech & Audio | CSO: signal processing | [1975](https://doi.org/10.1002/j.1538-7305.1975.tb02053.x) (source only) |
+| AIH-15084 | quantizer | Speech & Audio | CSO: signal processing | [1949](https://doi.org/10.1109/ee.1949.6443222) (source only) |
 | AIH-15085 | quantizers | Speech & Audio | CSO: signal processing | — |
 | AIH-15086 | radar detection | Speech & Audio | CSO: signal processing | — |
-| AIH-15087 | radar target recognition | Speech & Audio | CSO: signal processing | — |
-| AIH-15088 | radio frequency identification (rfid) | Speech & Audio | CSO: signal processing | — |
-| AIH-15089 | radio frequency identification technology | Speech & Audio | CSO: signal processing | — |
+| AIH-15087 | radar target recognition | Speech & Audio | CSO: signal processing | [1999](https://doi.org/10.1002/047134608x.w1129) (source only) |
+| AIH-15088 | radio frequency identification (rfid) | Speech & Audio | CSO: signal processing | [2006](https://doi.org/10.1007/978-3-8349-9091-4_46) (source only) |
+| AIH-15089 | radio frequency identification technology | Speech & Audio | CSO: signal processing | [2014](https://doi.org/10.4135/9781452274102.n277) (source only) |
 | AIH-15091 | radio propagation | Speech & Audio | CSO: signal processing | — |
-| AIH-15092 | radio signals | Speech & Audio | CSO: signal processing | — |
+| AIH-15092 | radio signals | Speech & Audio | CSO: signal processing | [1941](https://doi.org/10.21236/ad0219603) (source only) |
 | AIH-11648 | radio waves | Speech & Audio | CSO: signal processing | [1960](https://doi.org/10.4159/harvard.9780674423916) (source only) |
-| AIH-15093 | radix 2 | Speech & Audio | CSO: signal processing | — |
+| AIH-15093 | radix 2 | Speech & Audio | CSO: signal processing | [2015](https://doi.org/10.15680/ijirset.2015.0407015) (source only) |
 | AIH-15094 | radix-4 | Speech & Audio | CSO: signal processing | — |
-| AIH-15095 | rain rates | Speech & Audio | CSO: signal processing | — |
+| AIH-15095 | rain rates | Speech & Audio | CSO: signal processing | [1976](https://doi.org/10.1175/1520-0450(1976)015<1160:tmomrr>2.0.co;2) (source only) |
 | AIH-11649 | range finding | Speech & Audio | CSO: signal processing | [1909](https://doi.org/10.1038/scientificamerican01231909-59bsupp) (source only) |
 | AIH-15098 | ranging | Speech & Audio | CSO: signal processing | — |
 | AIH-15096 | ranging errors | Speech & Audio | CSO: signal processing | — |

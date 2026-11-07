@@ -163,7 +163,7 @@
 | AIH-17508 | fusion algorithms | Computer Vision | CSO: image processing | — |
 | AIH-17509 | fusion methods | Computer Vision | CSO: image processing | — |
 | AIH-17510 | fusion process | Computer Vision | CSO: image processing | — |
-| AIH-15197 | fusion rule | Computer Vision | CSO: image processing | — |
+| AIH-15197 | fusion rule | Computer Vision | CSO: image processing | [1997](https://doi.org/10.1117/12.276123) (source only) |
 | AIH-15204 | fusion rules | Computer Vision | CSO: image processing | — |
 | AIH-17511 | fusion techniques | Computer Vision | CSO: image processing | — |
 | AIH-17512 | fvc2002 | Computer Vision | CSO: image processing | — |
@@ -182,15 +182,15 @@
 | AIH-17523 | gradient vector flow | Computer Vision | CSO: image processing | — |
 | AIH-17524 | granulometries | Computer Vision | CSO: image processing | — |
 | AIH-17525 | granulometry | Computer Vision | CSO: image processing | — |
-| AIH-15329 | grassmannian | Computer Vision | CSO: image processing | — |
+| AIH-15329 | grassmannian | Computer Vision | CSO: image processing | [1989](https://doi.org/10.1017/cbo9780511622779.003) (source only) |
 | AIH-17528 | h.264 | Computer Vision | CSO: image processing | — |
 | AIH-15333 | h.264 encoders | Computer Vision | CSO: image processing | — |
-| AIH-15336 | h.264 standards | Computer Vision | CSO: image processing | — |
+| AIH-15336 | h.264 standards | Computer Vision | CSO: image processing | [2003](https://doi.org/10.1002/0470869615.ch4) (source only) |
 | AIH-15340 | h.264 video | Computer Vision | CSO: image processing | — |
 | AIH-17526 | h.264 video coding | Computer Vision | CSO: image processing | — |
 | AIH-17527 | h.264/avc | Computer Vision | CSO: image processing | — |
-| AIH-15344 | h.264/avc standards | Computer Vision | CSO: image processing | — |
-| AIH-15360 | h.264/avc video | Computer Vision | CSO: image processing | — |
+| AIH-15344 | h.264/avc standards | Computer Vision | CSO: image processing | [2009](https://doi.org/10.1016/b978-0-12-374456-2.00015-3) (source only) |
+| AIH-15360 | h.264/avc video | Computer Vision | CSO: image processing | [2005](https://doi.org/10.1109/icip.2005.1529821) (source only) |
 | AIH-15371 | h.264/avc video coding | Computer Vision | CSO: image processing | — |
 | AIH-15375 | h.264/avc video coding standard | Computer Vision | CSO: image processing | — |
 | AIH-17529 | helical tomotherapy | Computer Vision | CSO: image processing | — |
@@ -198,10 +198,10 @@
 | AIH-17530 | hiding capacity | Computer Vision | CSO: image processing | — |
 | AIH-17531 | high resolution image | Computer Vision | CSO: image processing | — |
 | AIH-17532 | high spatial resolution | Computer Vision | CSO: image processing | — |
-| AIH-15455 | high spatial resolution images | Computer Vision | CSO: image processing | — |
-| AIH-15468 | holographic interferometry | Computer Vision | CSO: image processing | — |
+| AIH-15455 | high spatial resolution images | Computer Vision | CSO: image processing | [2006](https://doi.org/10.1109/igarss.2006.62) (source only) |
+| AIH-15468 | holographic interferometry | Computer Vision | CSO: image processing | [1974](https://doi.org/10.2172/12483065) (source only) |
 | AIH-17533 | host images | Computer Vision | CSO: image processing | — |
-| AIH-15471 | huffman code | Computer Vision | CSO: image processing | — |
+| AIH-15471 | huffman code | Computer Vision | CSO: image processing | [1971](https://doi.org/10.1109/tsmc.1971.4308326) (source only) |
 | AIH-15480 | huffman codes | Computer Vision | CSO: image processing | — |
 | AIH-17534 | human tracking | Computer Vision | CSO: computer vision | — |
 | AIH-15493 | hyperspectral unmixing | Computer Vision | CSO: image processing | — |
@@ -210,12 +210,12 @@
 | AIH-17537 | ill-posed inverse problem | Computer Vision | CSO: image processing | — |
 | AIH-17538 | image acquisition systems | Computer Vision | CSO: image processing | — |
 | AIH-17540 | image deblurring | Computer Vision | CSO: image processing | — |
-| AIH-15498 | image denoising algorithm | Computer Vision | CSO: image processing | — |
+| AIH-15498 | image denoising algorithm | Computer Vision | CSO: image processing | [2007](https://doi.org/10.1109/icip.2007.4378959) (source only) |
 | AIH-17541 | image edge | Computer Vision | CSO: image processing | — |
 | AIH-17542 | image forgery | Computer Vision | CSO: image processing | — |
 | AIH-17543 | image fusion algorithms | Computer Vision | CSO: image processing | — |
 | AIH-17544 | image fusion methods | Computer Vision | CSO: image processing | — |
-| AIH-15516 | image fusion techniques | Computer Vision | CSO: image processing | — |
+| AIH-15516 | image fusion techniques | Computer Vision | CSO: image processing | [1991](https://doi.org/10.1016/0924-2716(91)90003-e) (source only) |
 | AIH-17545 | image guided radiotherapy | Computer Vision | CSO: image processing | — |
 | AIH-17546 | image hashing | Computer Vision | CSO: image processing | — |
 | AIH-17547 | image quality metrics | Computer Vision | CSO: image processing | — |
@@ -228,16 +228,16 @@
 | AIH-17554 | image thresholding | Computer Vision | CSO: image processing | — |
 | AIH-17555 | image transmission | Computer Vision | CSO: image processing | — |
 | AIH-17556 | image watermarking | Computer Vision | CSO: image processing | — |
-| AIH-15517 | image watermarking algorithm | Computer Vision | CSO: image processing | — |
+| AIH-15517 | image watermarking algorithm | Computer Vision | CSO: image processing | [1999](https://openalex.org/W2350119867) (source only) |
 | AIH-17557 | image-guided radiation therapy | Computer Vision | CSO: image processing | — |
 | AIH-17558 | imaging techniques | Computer Vision | CSO: image processing | — |
-| AIH-15562 | infra-red cameras | Computer Vision | CSO: image processing | — |
-| AIH-15569 | infrared camera | Computer Vision | CSO: image processing | — |
-| AIH-15575 | infrared imagery | Computer Vision | CSO: image processing | — |
+| AIH-15562 | infra-red cameras | Computer Vision | CSO: image processing | [2000](https://doi.org/10.1108/sr.2000.08720dad.011) (source only) |
+| AIH-15569 | infrared camera | Computer Vision | CSO: image processing | [1968](https://doi.org/10.1016/0017-9310(68)90126-9) (source only) |
+| AIH-15575 | infrared imagery | Computer Vision | CSO: image processing | [1968](https://doi.org/10.3133/ofr68319) (source only) |
 | AIH-17559 | infrared imaging | Computer Vision | CSO: image processing | — |
 | AIH-17560 | initial contour | Computer Vision | CSO: image processing | — |
 | AIH-17561 | intensity inhomogeneity | Computer Vision | CSO: image processing | — |
-| AIH-15597 | inter prediction | Computer Vision | CSO: image processing | — |
+| AIH-15597 | inter prediction | Computer Vision | CSO: image processing | [2005](https://doi.org/10.1109/icme.2004.1394414) (source only) |
 | AIH-17361 | inter-layer prediction | Computer Vision | CSO: image processing | — |
 | AIH-17366 | intra mode decision | Computer Vision | CSO: image processing | — |
 | AIH-17399 | intra prediction | Computer Vision | CSO: image processing | — |

@@ -52,6 +52,10 @@
 
 **[Double-star recovery audit report](data/UNDATED_RECOVERY_DOUBLE_STAR_REPORT.json)** — exact current count and methodology breakdown.
 
+**[Date research 011: Next 2,000 keywords (AIH-14501–AIH-16500)](batches/DATE_RESEARCH_011_NEXT_2000.md)** — four complete 500-row tables with dated scholarly sources, ★ estimates, and unresolved entries.
+
+**[Date research 011 audit report](data/DATE_RESEARCH_011_REPORT.json)** — source-date totals and previous-ID preservation verification.
+
 ## Browse complete keyword tables
 
 | Inventory set | Added keywords | Full tables | ID range |

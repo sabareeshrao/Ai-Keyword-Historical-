@@ -6,14 +6,14 @@
 
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
-| AIH-16495 | opportunistic network | AI Infrastructure | CSO: computer networks | — |
+| AIH-16495 | opportunistic network | AI Infrastructure | CSO: computer networks | [2007](https://doi.org/10.1109/packet.2007.4397041) (source only) |
 | AIH-20036 | opportunistic networking | AI Infrastructure | CSO: computer networks | — |
-| AIH-16496 | opportunistic networks | AI Infrastructure | CSO: computer networks | — |
+| AIH-16496 | opportunistic networks | AI Infrastructure | CSO: computer networks | [2009](https://doi.org/10.3724/sp.j.1001.2009.00124) (source only) |
 | AIH-16497 | opportunistic routing | AI Infrastructure | CSO: computer networks | — |
-| AIH-16498 | opportunistic spectrum access | AI Infrastructure | CSO: computer networks | — |
+| AIH-16498 | opportunistic spectrum access | AI Infrastructure | CSO: computer networks | [2006](https://doi.org/10.1109/milcom.2006.302445) (source only) |
 | AIH-20037 | optical access | AI Infrastructure | CSO: computer networks | — |
-| AIH-16499 | optical access network | AI Infrastructure | CSO: computer networks | — |
-| AIH-16500 | optical access networks | AI Infrastructure | CSO: computer networks | — |
+| AIH-16499 | optical access network | AI Infrastructure | CSO: computer networks | [1998](https://doi.org/10.1364/ona.1998.sm2) (source only) |
+| AIH-16500 | optical access networks | AI Infrastructure | CSO: computer networks | [1996](https://doi.org/10.1109/ofc.1996.907711) (source only) |
 | AIH-20038 | optical amplifier | AI Infrastructure | CSO: computer networks | — |
 | AIH-20039 | optical amplifiers | AI Infrastructure | CSO: computer networks | — |
 | AIH-20040 | optical buffering | AI Infrastructure | CSO: computer networks | — |
@@ -237,12 +237,12 @@
 | AIH-16672 | radar cross section (rcs) | AI Infrastructure | CSO: computer networks | — |
 | AIH-16674 | radar interferometry | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16675 | radar measurement | AI Infrastructure | CSO: computer hardware | — |
-| AIH-15602 | radar polarimetry | AI Infrastructure | CSO: computer hardware | — |
-| AIH-15620 | radar reflection | AI Infrastructure | CSO: computer hardware | — |
+| AIH-15602 | radar polarimetry | AI Infrastructure | CSO: computer hardware | [1992](https://doi.org/10.1007/978-94-010-9243-2_8) (source only) |
+| AIH-15620 | radar reflection | AI Infrastructure | CSO: computer hardware | [1947](https://doi.org/10.1063/1.1697649) (source only) |
 | AIH-16676 | radar systems | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16677 | radar tracking | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16678 | radarsat | AI Infrastructure | CSO: computer hardware | — |
-| AIH-15627 | radial distribution systems | AI Infrastructure | CSO: computer networks | — |
+| AIH-15627 | radial distribution systems | AI Infrastructure | CSO: computer networks | [1988](https://doi.org/10.1109/59.43199) (source only) |
 | AIH-16679 | radiating elements | AI Infrastructure | CSO: computer networks | — |
 | AIH-16680 | radiation characteristics | AI Infrastructure | CSO: computer networks | — |
 | AIH-16681 | radiation hardening | AI Infrastructure | CSO: computer hardware | — |
@@ -256,40 +256,40 @@
 | AIH-16689 | radio resource allocation | AI Infrastructure | CSO: computer networks | — |
 | AIH-16690 | radio resource management | AI Infrastructure | CSO: computer networks | — |
 | AIH-16691 | radio resources | AI Infrastructure | CSO: computer networks | — |
-| AIH-15650 | radio stations | AI Infrastructure | CSO: computer networks | — |
-| AIH-15675 | radio systems, mobile | AI Infrastructure | CSO: computer networks | — |
-| AIH-15684 | radio telescopes | AI Infrastructure | CSO: computer networks | — |
+| AIH-15650 | radio stations | AI Infrastructure | CSO: computer networks | [1952](https://doi.org/10.7312/haml91176-008) (source only) |
+| AIH-15675 | radio systems, mobile | AI Infrastructure | CSO: computer networks | [1984](https://doi.org/10.1109/jsac.1984.1146084) ★ (estimated) |
+| AIH-15684 | radio telescopes | AI Infrastructure | CSO: computer networks | [1961](https://doi.org/10.4159/harvard.9780674421240.c8) (source only) |
 | AIH-16692 | radio transmission | AI Infrastructure | CSO: computer networks | — |
 | AIH-16693 | radio transmitters | AI Infrastructure | CSO: computer networks | — |
-| AIH-15690 | rain attenuation | AI Infrastructure | CSO: computer networks | — |
+| AIH-15690 | rain attenuation | AI Infrastructure | CSO: computer networks | [1966](https://doi.org/10.21236/ad0652498) (source only) |
 | AIH-15703 | rain gages | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16694 | random access memories | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16695 | random access memory | AI Infrastructure | CSO: computer hardware | — |
 | AIH-15707 | random access protocol | AI Infrastructure | CSO: computer networks | — |
 | AIH-15717 | random early detections | AI Infrastructure | CSO: computer networks | — |
 | AIH-15723 | random network coding | AI Infrastructure | CSO: computer networks | — |
-| AIH-15732 | random oracle | AI Infrastructure | CSO: computer networks | — |
+| AIH-15732 | random oracle | AI Infrastructure | CSO: computer networks | [1982](https://doi.org/10.1145/800070.802195) (source only) |
 | AIH-16696 | random oracle model | AI Infrastructure | CSO: computer networks | — |
 | AIH-16697 | random oracle models | AI Infrastructure | CSO: computer networks | — |
 | AIH-16698 | range measurements | AI Infrastructure | CSO: computer networks | — |
-| AIH-15734 | range resolution | AI Infrastructure | CSO: computer hardware | — |
+| AIH-15734 | range resolution | AI Infrastructure | CSO: computer hardware | [1964](https://doi.org/10.21236/ad0608038) (source only) |
 | AIH-16699 | range-based | AI Infrastructure | CSO: computer networks | — |
-| AIH-15742 | rare earth | AI Infrastructure | CSO: computer networks | — |
+| AIH-15742 | rare earth | AI Infrastructure | CSO: computer networks | [1978](https://doi.org/10.1016/b978-0-12-360450-7.50016-1) (source only) |
 | AIH-15766 | rare earths | AI Infrastructure | CSO: computer networks | — |
 | AIH-16700 | rate adaptation | AI Infrastructure | CSO: computer networks | — |
 | AIH-15791 | rate adaptation schemes | AI Infrastructure | CSO: computer networks | — |
 | AIH-16701 | ray tracing simulation | AI Infrastructure | CSO: computer networks | — |
-| AIH-15795 | ray-tracing technique | AI Infrastructure | CSO: computer networks | — |
+| AIH-15795 | ray-tracing technique | AI Infrastructure | CSO: computer networks | [1963](https://doi.org/10.21236/ad0425993) (source only) |
 | AIH-16703 | rayleigh backscattering | AI Infrastructure | CSO: computer hardware | — |
-| AIH-15797 | re-keying | AI Infrastructure | CSO: computer networks | — |
+| AIH-15797 | re-keying | AI Infrastructure | CSO: computer networks | [2000](https://doi.org/10.1145/352600.352637) (source only) |
 | AIH-15799 | reactive routing protocol | AI Infrastructure | CSO: computer networks | — |
-| AIH-15823 | read operation | AI Infrastructure | CSO: computer hardware | — |
+| AIH-15823 | read operation | AI Infrastructure | CSO: computer hardware | [1990](https://doi.org/10.1109/intmag.1990.734815) (source only) |
 | AIH-16704 | real time service | AI Infrastructure | CSO: computer networks | — |
 | AIH-16705 | real time streaming | AI Infrastructure | CSO: computer networks | — |
 | AIH-16706 | real traffic | AI Infrastructure | CSO: computer networks | — |
 | AIH-16707 | real-time scheduling algorithms | AI Infrastructure | CSO: computer hardware | — |
-| AIH-15858 | receive antenna | AI Infrastructure | CSO: computer networks | — |
-| AIH-15861 | receive antennas | AI Infrastructure | CSO: computer networks | — |
+| AIH-15858 | receive antenna | AI Infrastructure | CSO: computer networks | [1980](https://doi.org/10.1109/aps.1980.1148383) (source only) |
+| AIH-15861 | receive antennas | AI Infrastructure | CSO: computer networks | [2000](https://doi.org/10.1109/8.901270) (source only) |
 | AIH-15869 | receive diversity | AI Infrastructure | CSO: computer networks | — |
 | AIH-15910 | received signal strength indication | AI Infrastructure | CSO: computer networks | — |
 | AIH-16708 | received signal strength indicators | AI Infrastructure | CSO: computer networks | — |
@@ -307,31 +307,31 @@
 | AIH-16720 | recovery mechanisms | AI Infrastructure | CSO: computer networks | — |
 | AIH-16721 | recovery time | AI Infrastructure | CSO: computer networks | — |
 | AIH-16722 | rectangular patch | AI Infrastructure | CSO: computer networks | — |
-| AIH-15913 | rectangular patch antenna | AI Infrastructure | CSO: computer networks | — |
+| AIH-15913 | rectangular patch antenna | AI Infrastructure | CSO: computer networks | [1985](https://doi.org/10.1049/el:19850617) (source only) |
 | AIH-15914 | rectangular slots | AI Infrastructure | CSO: computer networks | — |
-| AIH-15919 | reduced instruction set computing | AI Infrastructure | CSO: computer hardware | — |
+| AIH-15919 | reduced instruction set computing | AI Infrastructure | CSO: computer hardware | [1987](https://doi.org/10.1119/1.2342250) (source only) |
 | AIH-16723 | reference clock | AI Infrastructure | CSO: computer networks | — |
 | AIH-16724 | reference nodes | AI Infrastructure | CSO: computer networks | — |
 | AIH-15921 | reflective semiconductor optical amplifier | AI Infrastructure | CSO: computer networks | — |
-| AIH-15944 | reflector antenna | AI Infrastructure | CSO: computer networks | — |
-| AIH-15954 | reflector antennas | AI Infrastructure | CSO: computer networks | — |
-| AIH-16006 | refractive index measurement | AI Infrastructure | CSO: computer hardware | — |
+| AIH-15944 | reflector antenna | AI Infrastructure | CSO: computer networks | [1965](https://doi.org/10.21236/ad0623074) (source only) |
+| AIH-15954 | reflector antennas | AI Infrastructure | CSO: computer networks | [1959](https://doi.org/10.1109/tap.1959.1144683) (source only) |
+| AIH-16006 | refractive index measurement | AI Infrastructure | CSO: computer hardware | [1961](https://doi.org/10.21236/ad0267808) (source only) |
 | AIH-16074 | refractive index sensor | AI Infrastructure | CSO: computer hardware | — |
-| AIH-16101 | refractometer | AI Infrastructure | CSO: computer hardware | — |
+| AIH-16101 | refractometer | AI Infrastructure | CSO: computer hardware | [1886](https://doi.org/10.1038/scientificamerican07031886-8749bsupp) (source only) |
 | AIH-16136 | refractometers | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16725 | register transfer level | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16187 | regular-expression matching | AI Infrastructure | CSO: computer networks | — |
 | AIH-16726 | relay channel | AI Infrastructure | CSO: computer networks | — |
 | AIH-16727 | relay channels | AI Infrastructure | CSO: computer networks | — |
 | AIH-16728 | relay node | AI Infrastructure | CSO: computer networks | — |
-| AIH-16191 | relay selection | AI Infrastructure | CSO: computer networks | — |
+| AIH-16191 | relay selection | AI Infrastructure | CSO: computer networks | [2007](https://doi.org/10.1109/spawc.2007.4401337) (source only) |
 | AIH-16729 | relay stations | AI Infrastructure | CSO: computer networks | — |
-| AIH-16193 | relay system | AI Infrastructure | CSO: computer networks | — |
-| AIH-16202 | relaying schemes | AI Infrastructure | CSO: computer networks | — |
+| AIH-16193 | relay system | AI Infrastructure | CSO: computer networks | [1975](https://doi.org/10.1016/s0006-291x(75)80013-1) (source only) |
+| AIH-16202 | relaying schemes | AI Infrastructure | CSO: computer networks | [2006](https://doi.org/10.1109/tpwrd.2006.876982) (source only) |
 | AIH-16216 | relaying strategy | AI Infrastructure | CSO: computer networks | — |
 | AIH-16730 | relaying systems | AI Infrastructure | CSO: computer networks | — |
 | AIH-16731 | reliable multicast | AI Infrastructure | CSO: computer networks | — |
-| AIH-16270 | remote node | AI Infrastructure | CSO: computer networks | — |
+| AIH-16270 | remote node | AI Infrastructure | CSO: computer networks | [1996](https://doi.org/10.1117/12.2299016) (source only) |
 | AIH-16732 | replacement policy | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16733 | replay attack | AI Infrastructure | CSO: computer networks | — |
 | AIH-16286 | residue arithmetic | AI Infrastructure | CSO: computer hardware | — |
@@ -341,11 +341,11 @@
 | AIH-16738 | responsivity | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16739 | retrieval algorithms | AI Infrastructure | CSO: database systems | — |
 | AIH-16740 | return loss | AI Infrastructure | CSO: computer networks | — |
-| AIH-16294 | reversible circuits | AI Infrastructure | CSO: computer hardware | — |
+| AIH-16294 | reversible circuits | AI Infrastructure | CSO: computer hardware | [2000](https://doi.org/10.15760/etd.2299) (source only) |
 | AIH-16741 | reversible logic | AI Infrastructure | CSO: computer hardware | — |
-| AIH-16319 | rf mems | AI Infrastructure | CSO: computer hardware | — |
+| AIH-16319 | rf mems | AI Infrastructure | CSO: computer hardware | [2002](https://doi.org/10.1002/0470856602.ch3) (source only) |
 | AIH-16335 | ring gages | AI Infrastructure | CSO: computer networks | — |
-| AIH-16391 | ring lasers | AI Infrastructure | CSO: computer networks | — |
+| AIH-16391 | ring lasers | AI Infrastructure | CSO: computer networks | [1987](https://doi.org/10.1364/assl.1987.tub4) (source only) |
 | AIH-16742 | ripple carry adders | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16434 | roadsides | AI Infrastructure | CSO: computer networks | — |
 | AIH-16564 | robust beamforming | AI Infrastructure | CSO: computer networks | — |

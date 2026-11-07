@@ -355,7 +355,7 @@
 | AIH-13478 | ethnic groups | Data Science | CSO: bioinformatics | — |
 | AIH-14338 | ethnicity | Data Science | CSO: bioinformatics | [1976](https://doi.org/10.1515/9783110803501.385) (source only) |
 | AIH-13452 | exon | Data Science | CSO: bioinformatics | — |
-| AIH-14692 | fluorescence in situ hybridization | Data Science | CSO: bioinformatics | — |
+| AIH-14692 | fluorescence in situ hybridization | Data Science | CSO: bioinformatics | [1993](https://doi.org/10.2172/6659571) (source only) |
 | AIH-13453 | gene expression profiling | Data Science | CSO: bioinformatics | [2001](https://doi.org/10.1017/cbo9780511545849.009) (source only) |
 | AIH-13454 | gene function | Data Science | CSO: bioinformatics | [1968](https://doi.org/10.1016/b978-1-4832-3185-3.50019-6) (source only) |
 | AIH-13455 | gene identification | Data Science | CSO: bioinformatics | — |
