@@ -8,7 +8,7 @@
 
 | ID | Keyword | Category | Date | Classification | Source |
 |---|---|---|---|---|---|
-| AIH-14501 | model view controller | Programming & Software | 1987 | Dated publication mention | [Source](https://doi.org/10.1007/978-1-349-09653-4_21) |
+| AIH-14501 | model view controller | Programming & Software | 1979 | Original/early method source (first exact use unverified) | [Source](https://zenodo.org/records/3676092) |
 | AIH-14502 | model-driven architectures | Programming & Software | 2005 | Dated publication mention | [Source](https://doi.org/10.1002/inst.20058113) |
 | AIH-14503 | modulo scheduling | Programming & Software | 1993 | Dated publication mention | [Source](https://doi.org/10.1145/173262.155115) |
 | AIH-14504 | multi-tier | Programming & Software | 2001 | Dated publication mention | [Source](https://doi.org/10.1596/17214) |

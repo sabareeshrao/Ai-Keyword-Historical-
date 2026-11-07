@@ -358,7 +358,7 @@
 | AIH-19307 | local search operators | AI Foundations | CSO: artificial intelligence | — |
 | AIH-19308 | local sensing | AI Foundations | CSO: artificial intelligence | — |
 | AIH-15479 | logic programs | AI Foundations | CSO: artificial intelligence | — |
-| AIH-15481 | mamdani | AI Foundations | CSO: artificial intelligence | — |
+| AIH-15481 | mamdani | AI Foundations | CSO: artificial intelligence | [1975](https://doi.org/10.1016/S0020-7373(75)80002-2) (source only) |
 | AIH-15482 | mass functions | AI Foundations | CSO: artificial intelligence | — |
 | AIH-19309 | memetic | AI Foundations | CSO: artificial intelligence | — |
 | AIH-15483 | memetic algorithm | AI Foundations | CSO: artificial intelligence | [2009](https://doi.org/10.1007/s12293-008-0006-3) (source only) |

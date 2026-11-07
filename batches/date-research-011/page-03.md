@@ -198,7 +198,7 @@
 | AIH-15688 | bolometer | AI Infrastructure | 1881 | Dated publication mention | [Source](https://doi.org/10.1038/025014a0) |
 | AIH-15689 | bolometers | AI Infrastructure | — | Unresolved | — |
 | AIH-15690 | rain attenuation | AI Infrastructure | 1966 | Dated publication mention | [Source](https://doi.org/10.21236/ad0652498) |
-| AIH-15691 | border gateway protocol | AI Infrastructure | 1989 | Dated publication mention | [Source](https://doi.org/10.17487/rfc1105) |
+| AIH-15691 | border gateway protocol | AI Infrastructure | 1989 | Original/early method source (first exact use unverified) | [Source](https://www.rfc-editor.org/info/rfc1105) |
 | AIH-15692 | botnet | AI Infrastructure | 2020 | Dated publication mention | [Source](https://doi.org/10.36872/lepi/v51i2/301100) |
 | AIH-15693 | botnets | AI Infrastructure | — | Unresolved | — |
 | AIH-15694 | bpmn | AI Infrastructure | — | Unresolved | — |

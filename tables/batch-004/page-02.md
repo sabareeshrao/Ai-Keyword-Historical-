@@ -184,7 +184,7 @@
 | AIH-19450 | bluetooth | AI Infrastructure | CSO: computer networks | — |
 | AIH-15688 | bolometer | AI Infrastructure | CSO: computer hardware | [1881](https://doi.org/10.1038/025014a0) (source only) |
 | AIH-15689 | bolometers | AI Infrastructure | CSO: computer hardware | — |
-| AIH-15691 | border gateway protocol | AI Infrastructure | CSO: computer networks | [1989](https://doi.org/10.17487/rfc1105) (source only) |
+| AIH-15691 | border gateway protocol | AI Infrastructure | CSO: computer networks | [1989](https://www.rfc-editor.org/info/rfc1105) (source only) |
 | AIH-15692 | botnet | AI Infrastructure | CSO: computer networks | [2020](https://doi.org/10.36872/lepi/v51i2/301100) (source only) |
 | AIH-15693 | botnets | AI Infrastructure | CSO: computer networks | — |
 | AIH-15694 | bpmn | AI Infrastructure | CSO: information systems | — |

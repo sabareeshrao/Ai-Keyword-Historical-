@@ -173,7 +173,7 @@
 | AIH-16007 | error vector magnitude | AI Infrastructure | CSO: computer networks | — |
 | AIH-16009 | esprit | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16008 | esprit algorithm | AI Infrastructure | CSO: computer hardware | [1991](https://doi.org/10.1109/icassp.1991.151086) (source only) |
-| AIH-16010 | ethereum | AI Infrastructure | CSO: computer networks | [2025](https://doi.org/10.2139/ssrn.5289331) (source only) |
+| AIH-16010 | ethereum | AI Infrastructure | CSO: computer networks | [2013](https://ethereum.org/ethereum-forks/) (source only) |
 | AIH-16011 | ethernet networks | AI Infrastructure | CSO: computer networks | [1998](https://doi.org/10.17487/rfc2464) (source only) |
 | AIH-16012 | ethernet passive optical networks | AI Infrastructure | CSO: computer networks | [2003](https://doi.org/10.1002/0471478342.ch8) (source only) |
 | AIH-16013 | ethernet switches | AI Infrastructure | CSO: computer networks | [2003](https://doi.org/10.1109/mcom.2003.1252802) (source only) |

@@ -488,7 +488,7 @@
 | AIH-15478 | local reasoning | AI Foundations | 2007 | Dated publication mention | [Source](https://doi.org/10.4135/9781412952613.n307) |
 | AIH-15479 | logic programs | AI Foundations | — | Unresolved | — |
 | AIH-15480 | huffman codes | Computer Vision | — | Unresolved | — |
-| AIH-15481 | mamdani | AI Foundations | — | Unresolved | — |
+| AIH-15481 | mamdani | AI Foundations | 1975 | Original/early method source (first exact use unverified) | [Source](https://doi.org/10.1016/S0020-7373(75)80002-2) |
 | AIH-15482 | mass functions | AI Foundations | — | Unresolved | — |
 | AIH-15483 | memetic algorithm | AI Foundations | 2009 | Dated publication mention | [Source](https://doi.org/10.1007/s12293-008-0006-3) |
 | AIH-15484 | memetic algorithms | AI Foundations | 2007 | Dated publication mention | [Source](https://doi.org/10.1201/9781420010749-34) |
