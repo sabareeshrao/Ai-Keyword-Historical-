@@ -1,0 +1,118 @@
+name: Final historical date research — remaining 1600 keywords
+
+on:
+  push:
+    paths:
+      - ".github/workflows/research_dates_013_final1600.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: keyword-history-final-013
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        start: [18501, 19501]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Research dated scholarly evidence for 1000 or 600 terms
+        run: python scripts/date_research_013_segment.py --start ${{ matrix.start }}
+      - name: Save all results including unresolved source attempts
+        uses: actions/upload-artifact@v4
+        with:
+          name: keyword-history-013-${{ matrix.start }}
+          path: data/segment_date_013_*.json
+          if-no-files-found: error
+          retention-days: 14
+
+  publish:
+    needs: research
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: keyword-history-013-*
+          merge-multiple: true
+          path: data/date_staging
+      - name: Merge, rebuild complete tables and publish with safe retries
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            echo "Publication attempt $attempt"
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/merge_date_research_013_final1600.py
+            python scripts/build_keyword_tables.py
+            python scripts/sync_readme.py
+            python - <<'PY'
+          import csv,json
+          from pathlib import Path
+          report=json.loads(Path("data/DATE_RESEARCH_013_REPORT.json").read_text())
+          assert report["examined"]==1600
+          assert report["range"]==["AIH-18501","AIH-20100"]
+          assert report["inventory_total"]==20100
+          assert report["stable_ids_preserved"] and report["existing_first_18500_unchanged"]
+          assert sum(report[k] for k in ("documented_source_dates","estimated_star_dates","unresolved"))==1600
+          with open("data/KEYWORD_INVENTORY.csv",newline="",encoding="utf-8") as f:
+              rows=list(csv.DictReader(f))
+          assert len(rows)==20100 and len({r["id"] for r in rows})==20100
+          assert {r["id"] for r in rows}=={f"AIH-{i:05d}" for i in range(1,20101)}
+          final=[r for r in rows if 18501<=int(r["id"].split("-")[-1])<=20100]
+          assert len(final)==1600
+          for r in final:
+              assert not r.get("first_use_date")
+              if r.get("date_status")=="documented_source_not_first_use":
+                  assert r.get("historical_evidence_url") and not r.get("estimated_first_use_year")
+              elif r.get("date_status")=="estimated_star":
+                  assert r.get("display_date","").endswith(" ★")
+                  assert r.get("estimated_reason") and r.get("estimated_source_url")
+              else:
+                  assert r.get("date_status")=="unresolved"
+          expected=[500,500,500,100]
+          for i,n in enumerate(expected,1):
+              lines=Path(f"batches/date-research-013/page-{i:02d}.md").read_text().splitlines()
+              assert sum(line.startswith("| AIH-") for line in lines)==n,(i,n)
+          assert Path("batches/DATE_RESEARCH_013_FINAL_1600.md").exists()
+          for n in range(5,13):
+              assert Path(f"batches/DATE_RESEARCH_{n:03d}_NEXT_2000.md").exists()
+          assert Path("batches/UNDATED_RECOVERY_DOUBLE_STAR.md").exists()
+          assert Path("data/UNDATED_RECOVERY_DOUBLE_STAR_REPORT.json").exists()
+          assert "Final date research 013" in Path("README.md").read_text()
+          assert next(r for r in rows if r["id"]=="AIH-02503")["historical_evidence_date"]=="2016"
+          assert next(r for r in rows if r["id"]=="AIH-06007")["historical_evidence_date"]=="2023"
+          print("Validated all 20,100 IDs, final 1,600 rows, star marks and older research.")
+          PY
+            git add README.md data/KEYWORD_INVENTORY.csv data/DATE_RESEARCH_013_REPORT.json batches/DATE_RESEARCH_013_FINAL_1600.md batches/date-research-013/ tables/
+            if git diff --cached --quiet; then
+              echo "Already published"
+              exit 0
+            fi
+            git commit -m "Finish all 20100 AI keyword source searches: final 1600 documented dates and ★ estimates"
+            if git push origin HEAD:main; then
+              echo "Final historical research batch 013 published"
+              exit 0
+            fi
+            sleep 3
+          done
+          echo "Publication prevented by concurrent changes, no force push attempted"
+          exit 1
