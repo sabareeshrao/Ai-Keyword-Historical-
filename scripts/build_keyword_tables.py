@@ -30,6 +30,7 @@ all_index=[
 "[**Date Research 008 — next 2,000 IDs (08501–10500), linked sources, and ★ estimates**](../batches/DATE_RESEARCH_008_NEXT_2000.md)",
 "[**Date Research 009 — next 2,000 IDs (10501–12500), linked sources, and ★ estimates**](../batches/DATE_RESEARCH_009_NEXT_2000.md)",
 "[**Date Research 010 — next 2,000 IDs (12501–14500), linked sources, and ★ estimates**](../batches/DATE_RESEARCH_010_NEXT_2000.md)",
+"[**Previously undated recovery — explicitly speculative ★★ years**](../batches/UNDATED_RECOVERY_DOUBLE_STAR.md)",
 "",
 "Every keyword is included, not a short preview. Four batches of 5,000; each divided into ten GitHub-friendly tables of 500 rows.",
 "",
@@ -86,10 +87,12 @@ for number in ["001","002","003","004"]:
                 year=clean(r["estimated_first_use_year"])
                 url=clean(r.get("estimated_source_url"))
                 date=("["+year+"]("+url+")" if url else year)+" ★ (estimated)"
+            if not date and r.get("guessed_first_use_year"):
+                date=clean(r["guessed_first_use_year"])+" ★★ (GUESS, no direct evidence)"
             date=date or "—"
             lines.append("| "+ " | ".join([clean(r["id"]),clean(r["keyword"]),clean(r["field"]),clean(r["subfield"]),date])+" |")
             category_pages[r["field"]].add(page)
-        lines += ["","— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.",
+        lines += ["","— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimate based on a related publication; ★★ is a speculative keyword-era guess based on OTHER terms, with no direct historical evidence. Neither may be presented as fact.",
                   "", "[Source master file](../../data/KEYWORD_INVENTORY.csv)"]
         (directory/("page-"+str(page).zfill(2)+".md")).write_text("\n".join(lines)+"\n",encoding="utf-8")
         first=clean(block[0]["keyword"])
