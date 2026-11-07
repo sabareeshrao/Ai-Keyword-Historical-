@@ -28,6 +28,11 @@ FIX=[
   "https://www.rfc-editor.org/info/rfc1105",
   "Kirk Lougheed; Yakov Rekhter",
   "June 1989 RFC 1105 original BGP protocol specification. This is an early primary-source occurrence, not independently certified first-ever naming."),
+ ("AIH-16010","ethereum","2013","official_original_project_whitepaper_milestone",
+  "Ethereum original whitepaper release milestone",
+  "https://ethereum.org/ethereum-forks/",
+  "Vitalik Buterin",
+  "Ethereum.org's official history records the introductory whitepaper on 27 November 2013. The maintained version of the whitepaper is labeled 2014, and the Ethereum network launched in 2015. This is a dated project-introduction milestone, not an AI research term."),
 ]
 def main():
     with MASTER.open(encoding="utf-8-sig",newline="") as f:
@@ -93,7 +98,7 @@ def main():
         text=re.sub(r"(\| "+re.escape(title)+r" \| )\d+( \|)",lambda m:m.group(1)+str(num)+m.group(2),text)
     if "## Manual early-source checks" not in text:
         text+="\n## Manual early-source checks\n\n"
-        text+="Three core historical method dates were replaced with earlier original documentation. These dates are not claims of verified first-ever exact wording.\n\n"
+        text+="Four historical technology dates were checked against earlier original or official documentation. These dates are not claims of verified first-ever exact wording.\n\n"
         for item in audit:
             text+=f"- **{item['id']} {item['keyword']}** — {item['source_year']}, [primary source]({item['source_url']}). {item['notes']}\n"
     INDEX.write_text(text,encoding="utf-8")
