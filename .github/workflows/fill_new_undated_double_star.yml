@@ -1,0 +1,95 @@
+name: Fill remaining newly researched undated terms with ★★ guesses
+
+on:
+  push:
+    paths:
+      - ".github/workflows/fill_new_undated_double_star.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: new-undated-double-star
+  cancel-in-progress: false
+
+jobs:
+  fill:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Recover all new unresolved terms with ★★ guesses and regenerate chronology
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4; do
+            git fetch origin main
+            git reset --hard origin/main
+            cp data/KEYWORD_INVENTORY.csv /tmp/old-keywords.csv
+            python scripts/fill_new_undated_double_star.py
+            python scripts/build_keyword_tables.py
+            python scripts/build_final_chronology.py
+            python scripts/sync_readme.py
+            python - <<'PY'
+          import csv,json
+          from pathlib import Path
+          with Path('/tmp/old-keywords.csv').open(newline='',encoding='utf-8-sig') as f:
+              old=list(csv.DictReader(f))
+          with Path('data/KEYWORD_INVENTORY.csv').open(newline='',encoding='utf-8-sig') as f:
+              new=list(csv.DictReader(f))
+          assert len(old)==len(new)==20100
+          assert [r['id'] for r in old]==[r['id'] for r in new]
+          origfields=set(old[0])
+          target={r['id'] for r in old if 12501<=int(r['id'][-5:])<=20100 and not any(
+              r.get(k) for k in ('first_use_date','historical_evidence_date','estimated_first_use_year','guessed_first_use_year')
+          )}
+          report=json.loads(Path('data/UNDATED_RECOVERY_NEW_2386_REPORT.json').read_text())
+          assert len(target)==report['guessed_double_star_added']==report['previously_missing_in_scope']
+          assert len(target)>0
+          assert report['left_without_any_date_in_scope']==0
+          assert report['verified_term_origin_added']==0 and report['previous_dates_overwritten']==0
+          assert report['confidence']=='very_low'
+          for before,after in zip(old,new):
+              if before['id'] in target:
+                  assert all(after.get(k,'')==before.get(k,'') for k in origfields if k not in ('date_status','display_date'))
+                  assert after['date_status']=='guessed_double_star'
+                  assert after['display_date']==after['guessed_first_use_year']+' ★★'
+                  assert after['guess_year_range'] and after['guess_reason']
+                  assert after['guess_confidence']=='very_low'
+              else:
+                  assert all(after.get(k,'')==before.get(k,'') for k in origfields),before['id']
+          pages=sorted(Path('batches/undated-recovery-new-double-star').glob('page-*.md'))
+          assert len(pages)==(len(target)+499)//500
+          assert sum(sum(s.startswith('| AIH-') for s in p.read_text().splitlines()) for p in pages)==len(target)
+          coverage=json.loads(Path('data/FINAL_COVERAGE_20100_REPORT.json').read_text())
+          assert coverage['inventory_total']==20100 and coverage['entries_without_usable_year']==0
+          assert coverage['source_dated_publication_attestations']==12414
+          assert coverage['estimated_years_star']==117
+          assert coverage['speculative_years_double_star']==5183+len(target)
+          assert coverage['all_ids_unique_and_complete']
+          assert sum(coverage['chronology_page_sizes'])==20100 and len(coverage['chronology_page_sizes'])==41
+          assert Path('batches/UNDATED_RECOVERY_DOUBLE_STAR.md').exists()
+          assert Path('batches/UNDATED_RECOVERY_NEW_DOUBLE_STAR.md').exists()
+          assert Path('README.md').read_text().find('UNDATED_RECOVERY_NEW_DOUBLE_STAR.md')>=0
+          print('PASS',len(target),'new ★★ guesses, zero remaining blanks, all prior data preserved.')
+          PY
+            git add README.md data/KEYWORD_INVENTORY.csv data/UNDATED_RECOVERY_NEW_2386_REPORT.json data/FINAL_COVERAGE_20100_REPORT.json batches/UNDATED_RECOVERY_NEW_DOUBLE_STAR.md batches/undated-recovery-new-double-star/ chronology/ tables/ batches/INVENTORY_*.md
+            if git diff --cached --quiet; then
+              echo "Already published"
+              exit 0
+            fi
+            git commit -m "Fill newly undated keywords with ★★ guesses; rebuild complete 20100-term chronology"
+            if git push origin HEAD:main; then
+              echo "Published updated double-star recovery and chronology"
+              exit 0
+            fi
+            sleep 3
+          done
+          echo "Concurrent changes prevented safe non-forced publication"
+          exit 1
