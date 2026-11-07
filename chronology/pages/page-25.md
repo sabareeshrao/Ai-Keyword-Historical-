@@ -1,6 +1,6 @@
 # Chronological Keywords — Page 25/41
 
-500 records from 2008 – 2009. Original IDs unchanged.
+500 records from 2004 – 2005. Original IDs unchanged.
 
 [Full chronology](../README.md) | [Master inventory](../../data/KEYWORD_INVENTORY.csv)
 
@@ -8,503 +8,503 @@ Unstarred source years are not verified first usages; ★ inferred; ★★ specu
 
 | ID | Keyword | Field | Year | Evidence | Reference |
 |---|---|---|---|---|---|
-| AIH-10664 | moving objects detection | Computer Vision | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ccpr.2008.47) |
-| AIH-17794 | mpeg-2 | Computer Vision | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-7506-8975-5.00007-8) |
-| AIH-12546 | multi path routing | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icc.2008.38) |
-| AIH-16385 | multi-bits | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1364/oe.16.009622) |
-| AIH-16390 | multi-hop wireless networks | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4108/icst.wicon2008.4806) |
-| AIH-04828 | Multi-Robot Path Planning | Robotics | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1613/jair.2408) |
-| AIH-15273 | multimodal system | AI Applications | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1452392.1452397) |
-| AIH-18382 | multiple-input multiple-output radars | Speech & Audio | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/iet-map:20070197) |
-| AIH-17638 | music algorithms | Computer Vision | 2008 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2373145701) |
-| AIH-19037 | musical noise | Speech & Audio | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/9780470727188.ch5) |
-| AIH-08649 | Naive Bayes | Machine Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511809071.014) |
-| AIH-06639 | Named Entity Substitution | NLP and LLMs | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3115/1599081.1599115) |
-| AIH-06536 | Null Pointer Dereference | Programming & Software | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-540-88479-8_18) |
-| AIH-13301 | object classification | Computer Vision | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-12-372578-3.00011-8) |
-| AIH-06814 | Object Removal in Video | Generative AI | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/istel.2008.4651368) |
-| AIH-20029 | on-chip interconnection network | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icess.2008.10) |
-| AIH-10819 | ontology building | Information Retrieval | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1087.2008.01183) |
-| AIH-10826 | ontology integration | Information Retrieval | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3233/978-1-58603-923-3-137) |
-| AIH-17960 | ontology-based data access | Information Retrieval | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/bibe.2008.4696774) |
-| AIH-16516 | optical switching | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511619731.003) |
-| AIH-03945 | Optimism in the Face of Uncertainty | Reinforcement Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/s11023-008-9115-5) |
-| AIH-14512 | optimized evolution | Programming & Software | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/bit.22045) |
-| AIH-08765 | Ordinal Feature | Machine Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/fuzzy.2008.4630451) |
-| AIH-12606 | original signers | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5220/0001919302450252) |
-| AIH-03826 | Overlapped Speech Detection | Speech & Audio | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icassp.2008.4518619) |
-| AIH-08797 | Page-Hinkley Test | Machine Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1504/ijcat.2008.020954) |
-| AIH-20087 | particle filter algorithms | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/mlsp.2008.4685497) |
-| AIH-16568 | path computation elements | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/honet.2008.4810226) |
-| AIH-12621 | pattern languages | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.7551/mitpress/7627.003.0007) |
-| AIH-07227 | Perceptual Hash | Computer Vision | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/iih-msp.2008.208) |
-| AIH-12632 | personal learning environment | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/10494820701772652) |
-| AIH-10532 | photonic integrations | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1364/ol.33.002104) |
-| AIH-16585 | physical layer security | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/iccs.2008.4737329) |
-| AIH-03526 | Place Cell | Cognitive Science | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/acprof:oso/9780195323245.003.0025) |
-| AIH-09609 | Post Hoc Test | Mathematics | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4020-5614-7_2707) |
-| AIH-09635 | Preregistration | Mathematics | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1021/cen-v086n015.p009a) |
-| AIH-03778 | Priming | Cognitive Science | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21437/interspeech.2008-530) |
-| AIH-13943 | privacy protection | Machine Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/acprof:oso/9780195367355.003.0004) |
-| AIH-18153 | privacy requirements | Machine Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/s00766-008-0067-3) |
-| AIH-18491 | publish-subscribe systems | Programming & Software | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1001.2008.02191) |
-| AIH-12814 | pump pulse | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1103/physrevlett.101.037402) |
-| AIH-01689 | Quantum Circuit | Quantum & Emerging Compute | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420012293.ch4) |
-| AIH-03927 | Query Suggestion | Information Retrieval | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1458082.1458145) |
-| AIH-08961 | Rare Category | Machine Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icdm.2008.122) |
-| AIH-06171 | Ratio Feature | Data Science | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/cw.2008.27) |
-| AIH-13601 | rdf graph | Information Retrieval | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ictta.2008.4530288) |
-| AIH-13602 | recommendation accuracy | Information Retrieval | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/fgcn.2008.152) |
-| AIH-13606 | recommendation techniques | Information Retrieval | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1454008.1454059) |
-| AIH-10842 | recommender systems | Information Retrieval | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1454008.1454066) |
-| AIH-11218 | regression models | Mathematics | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420060386-18) |
-| AIH-11492 | reinforcement learning approach | Reinforcement Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5772/5285) |
-| AIH-16733 | replay attack | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ccst.2008.4751309) |
-| AIH-07220 | Repository Pattern | Programming & Software | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icacte.2008.116) |
-| AIH-11411 | requirement engineering | Programming & Software | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icadiwt.2008.4664355) |
-| AIH-09752 | Reward Shaping | AI Foundations | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/is.2008.4670492) |
-| AIH-13962 | rhodobacteraceae | Machine Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1099/ijs.0.65612-0) |
-| AIH-09785 | Ridge Regularization | Mathematics | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1198/016214508000000021) |
-| AIH-12720 | sar adc | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.measurement.2006.10.004) |
-| AIH-05421 | SARSA | Reinforcement Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/sice.2008.4654998) |
-| AIH-07656 | Scene Transition | Generative AI | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/sice.2008.4655000) |
-| AIH-12723 | schema mapping | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-35973-1_1167) |
-| AIH-05505 | SciPy | Tools & Frameworks | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.25080/gvta4131) |
-| AIH-09853 | Score Test | Mathematics | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4020-6754-9_15161) |
-| AIH-16771 | secondary users | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icosp.2008.4697520) |
-| AIH-16781 | security frameworks | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420067101.ch20) |
-| AIH-18508 | self-adaptive system | Programming & Software | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/soccer.2008.1) |
-| AIH-12755 | sensitive attribute | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/chicc.2008.4605421) |
-| AIH-10599 | sensitive data | AI Safety | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-1-59749-239-3.x0001-6) |
-| AIH-16790 | sensor web enablement | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.54419/d16xdr) |
-| AIH-07712 | Sentence Simplification | NLP and LLMs | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3115/1596324.1596373) |
-| AIH-18177 | shape information | Machine Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1142/s0218654308001142) |
-| AIH-05622 | Single Sign-On (SSO) | Security & Privacy | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/cp:20080155) |
-| AIH-18184 | skin color models | Machine Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/iih-msp.2008.80) |
-| AIH-18185 | skin detection | Machine Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/itsim.2008.4631637) |
-| AIH-10134 | sliding mode variable structure control | Deep Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ccdc.2008.4598273) |
-| AIH-09925 | SMT Solver | Mathematics | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-540-78800-3_24) |
-| AIH-07532 | Snapshot Test | Programming & Software | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3182/20080706-5-kr-1001.01209) |
-| AIH-03890 | Social Graph | Graph & Network Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.59350/jgvp9-qsj67) |
-| AIH-10537 | social software | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/asew.2008.4686306) |
-| AIH-19137 | social tv | Speech & Audio | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1453805.1453823) |
-| AIH-10538 | software as a service (saas) | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-1-59749-256-0.00013-8) |
-| AIH-17975 | sparql queries | Information Retrieval | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5220/0001672200050014) |
-| AIH-07921 | Spatial Reasoning in Images | Computer Vision | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3233/978-1-58603-891-5-611) |
-| AIH-13378 | spatial resolution sr) | Computer Vision | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.794632) |
-| AIH-07931 | Spatiotemporal Feature | Computer Vision | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1167/8.8.7) |
-| AIH-12794 | spectrum holes | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/wcsn.2008.4772707) |
-| AIH-17743 | speeded up robust features | Computer Vision | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.cviu.2007.09.014) |
-| AIH-09967 | Stable Matching | Mathematics | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-30162-4_396) |
-| AIH-09906 | Standards Compliance | AI Foundations | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-1-59749-266-9.x0001-x) |
-| AIH-05553 | Stream Multiplexing | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/isita.2008.4895494) |
-| AIH-09997 | Streaming Algorithm | Mathematics | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5220/0001531101900196) |
-| AIH-06646 | Suction Gripper | Robotics | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.precisioneng.2007.05.003) |
-| AIH-11698 | switching topology | Agentic AI | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/chicc.2008.4605428) |
-| AIH-00036 | t-SNE | Machine Learning | 2008 | Dated publication (not proven term origin) | [Source](https://www.jmlr.org/papers/v9/vandermaaten08a.html) |
-| AIH-13623 | tag recommendation | Information Retrieval | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1390334.1390423) |
-| AIH-13624 | tag recommendations | Information Retrieval | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-540-78246-9_63) |
-| AIH-17761 | target registration errors | Computer Vision | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.ijrobp.2007.11.020) |
-| AIH-12839 | technology-enhanced learning | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4018/978-1-59904-600-6.ch001) |
-| AIH-04069 | Temporal Graph | Graph & Network Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4018/978-1-59904-387-6.ch011) |
-| AIH-11439 | test case selection | Programming & Software | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/9780470464076.ch2) |
-| AIH-18200 | text region | Machine Learning | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1087.2008.01904) |
-| AIH-12847 | through silicon vias | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.37665/ppziojj66286) |
-| AIH-05865 | Through-Silicon Via (TSV) | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/dtip.2008.4752962) |
-| AIH-08235 | Ticket Routing | AI Applications | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1401890.1401964) |
-| AIH-17779 | time-frequency resolution | Computer Vision | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/mwsym.2008.4632955) |
-| AIH-07584 | Token Counting | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/micro.2008.4771778) |
-| AIH-14623 | traceability management | Programming & Software | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/fosm.2008.4659245) |
-| AIH-17782 | tractography | Computer Vision | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.53347/rid-5293) |
-| AIH-13483 | treemap | Data Science | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/wiiat.2008.69) |
-| AIH-16998 | trust modeling | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4018/978-1-59904-804-8.ch013) |
-| AIH-04169 | Unmeasured Confounding | Causal Inference | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.1541-0420.2007.00957.x) |
-| AIH-07032 | Unscented Kalman Filter (UKF) | Robotics | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/9780470611104.app11) |
-| AIH-03894 | User-Based Collaborative Filtering | Recommender Systems | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/isbim.2008.191) |
-| AIH-17035 | vehicular network | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/vetecf.2008.464) |
-| AIH-05468 | Vendor Lock-In | People & Organizations | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4337/9781035305544.00020) |
-| AIH-10878 | video search | Information Retrieval | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-78414-4_248) |
-| AIH-08313 | Vignetting Correction | Computer Vision | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tpami.2007.70732) |
-| AIH-12897 | virtualized environment | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.diin.2008.05.009) |
-| AIH-12898 | virtualized resources | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/noms.2008.4575175) |
-| AIH-19368 | water distribution networks | AI Foundations | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1061/40941(247)38) |
-| AIH-06289 | Watermark Removal | Security & Privacy | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1411328.1411364) |
-| AIH-13434 | watershed transformations | Computer Vision | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/cimsa.2008.4595839) |
-| AIH-13631 | web search | Information Retrieval | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1341531.1341558) |
-| AIH-10555 | web-gis | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-35973-1_1481) |
-| AIH-07076 | Whitened Gradient | Mathematics | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.neunet.2007.12.016) |
-| AIH-17102 | wireless network coding | AI Infrastructure | 2008 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/netcod.2008.4476174) |
-| AIH-15645 | antenna grounds | AI Infrastructure | 2008 ★ | Estimated ★, related scholarly evidence | [Source](https://doi.org/10.1109/crmico.2008.4676433) |
-| AIH-02533 | Canary Insertion | Machine Learning | 2008 ★ | Estimated ★, related scholarly evidence | [Source](https://openalex.org/W2262054382) |
-| AIH-02538 | Debate Between Models | Agentic AI | 2008 ★ | Estimated ★, related scholarly evidence | [Source](https://openalex.org/W2398578724) |
-| AIH-02581 | Evaluation Before Deployment | AI Safety | 2008 ★ | Estimated ★, related scholarly evidence | [Source](https://doi.org/10.7551/mitpress/7482.003.0016) |
-| AIH-07579 | Safety Evaluation for Generators | Generative AI | 2008 ★ | Estimated ★, related scholarly evidence | [Source](https://doi.org/10.1007/s00701-008-0161-9) |
-| AIH-00174 | Accessibility in Speech Technology | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00813 | Annotation Vendor | People & Organizations | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00554 | Anti-Spoofing for Speech | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00689 | Backfill | AI Infrastructure | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00727 | Backfill Correctness | AI Infrastructure | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10905 | bacterial typing techniques | Machine Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00993 | Behavioural Regression Suite | AI Infrastructure | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01207 | Boilerplate Removal | NLP and LLMs | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02343 | Border Point | Machine Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02154 | Bottleneck Block | Deep Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01715 | Change Log for Models | AI Infrastructure | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01700 | Classifier-Free Guidance (CFG) | Generative AI | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00698 | Click Position Debiasing | Information Retrieval | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01220 | Compute Efficiency Frontier | AI Infrastructure | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06878 | Connectionist temporal classification (CTC) | AI Foundations | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01656 | Context Window in Speech | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02352 | Counterfactual Image | Computer Vision | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02390 | Counting in Images | Computer Vision | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01770 | Curriculum for Speech | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03461 | Dependency Suggestion Risk | Programming & Software | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02163 | Developer Instruction | AI Safety | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04928 | Digital Therapeutic | AI Applications | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07746 | Digital Twin | AI Foundations | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10401 | dijkstra | AI Infrastructure | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07030 | Dijkstra's Algorithm | Mathematics | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12292 | distance learning | AI Infrastructure | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10796 | domain ontologies | Information Retrieval | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10797 | domain ontology | Information Retrieval | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10798 | domain-specific ontologies | Information Retrieval | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02130 | Dynamic Window Approach (DWA) | Robotics | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04258 | Entity Linking (EL) | NLP and LLMs | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08192 | Escalation Authority | AI Foundations | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02160 | Evaluation Function | AI Foundations | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11276 | extracting information | NLP and LLMs | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02264 | Far-Field Speech | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01728 | Feature Freshness | Recommender Systems | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01800 | Freshness versus Authority | Information Retrieval | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10799 | fuzzy ontology | Information Retrieval | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04495 | Gait Recognition | Computer Vision | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07467 | Gaussian Mixture Clustering | Machine Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10989 | gaussian mixture of experts | Machine Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02520 | Golden Path Test | Evaluation & Metrics | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05008 | Guidance Scale | Generative AI | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05040 | Guidance Scale Tuning | Generative AI | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04726 | Handwriting Recognition (HTR) | Computer Vision | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02961 | Harm Reduction Approach | AI Safety | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08783 | Hybrid machine translation | AI Foundations | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05078 | Image Captioning Metric | Computer Vision | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05329 | Image Normalization Statistics | Computer Vision | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05360 | Image Preprocessing Chain | Computer Vision | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05453 | Image Recognition | Computer Vision | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07985 | Initialization Scale Sensitivity | Machine Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10812 | knowledge graphs management | Information Retrieval | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03183 | Lagrangian Safe RL | Reinforcement Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06136 | Lane Detection | Computer Vision | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06186 | Layer-Wise Feature Quality | Computer Vision | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12471 | learning experiences | AI Infrastructure | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05763 | License Compatibility of Suggestions | Programming & Software | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08976 | Limit | Mathematics | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08412 | Linear Probe | Machine Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06343 | Liveness Detection | Computer Vision | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09159 | Locally recoverable code | AI Foundations | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01195 | Logical Qubit | Quantum & Emerging Compute | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03172 | Low-Resource Speech | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07847 | Mean Field Limit | Deep Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03209 | Mean Opinion Score (MOS) | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06069 | Mean Time to Detection (MTTD) | AI Infrastructure | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04754 | Memory Provenance | Agentic AI | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06445 | Monitoring Coverage Gap | AI Infrastructure | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06463 | Multi-Armed Bandit Deployment | AI Infrastructure | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03466 | Multilingual Speech Model | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11300 | named entities | NLP and LLMs | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11302 | named entity | NLP and LLMs | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06767 | Next Sentence Prediction (NSP) | NLP and LLMs | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06939 | Object Permanence in Tracking | Computer Vision | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07244 | Obligation Tracking | AI Applications | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03754 | On-Device Speech Processing | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10820 | ontology concepts | Information Retrieval | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10823 | ontology design | Information Retrieval | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10824 | ontology development | Information Retrieval | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10829 | ontology modeling | Information Retrieval | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10830 | ontology technology | Information Retrieval | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08761 | Ordinal Encoding | Machine Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08777 | Overconfidence in Classifiers | Machine Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08341 | Parallel Sampling | Deep Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01423 | Parameterized Quantum Circuit (PQC) | Quantum & Emerging Compute | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04250 | Parity Bit | Signal & Information Theory | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03934 | Pathological Speech Analysis | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06839 | Pipeline Idempotency Check | AI Infrastructure | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11046 | privacy preservation | Machine Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11047 | privacy preserving | Machine Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09684 | Quantum Computing | AI Foundations | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02373 | Qubit | Quantum & Emerging Compute | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04208 | Ranked Probability Score (RPS) | Evaluation & Metrics | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09718 | Relation network (RN) | AI Foundations | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09750 | Reward Model (RM) | AI Foundations | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07814 | Risk Parity | AI Applications | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07093 | Sampling for Observability | AI Infrastructure | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10847 | scholarly ontologies | Information Retrieval | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09816 | Security by Default | AI Foundations | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04384 | Self-Supervised Speech Pretraining | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04417 | Semantic Speech Token | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11321 | sentence similarity | NLP and LLMs | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07723 | Sentence-BERT (SBERT) | NLP and LLMs | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10867 | service ontology | Information Retrieval | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06688 | Sliding Context Window | Agentic AI | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03935 | Sliding Window Validation | Time Series & Forecasting | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04341 | Social Learning | Cognitive Science | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11795 | social tagging | AI Applications | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04939 | Speech Language Model | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05003 | Speech Tokenization | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07697 | Tag | Programming & Software | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05060 | Task Decomposition in Evaluation | Evaluation & Metrics | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08080 | Temporal Fusion in Perception | Computer Vision | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07741 | Test Pass Rate | Programming & Software | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09277 | Test-Time Adaptation (TTA) | Machine Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05648 | Trie-Based Suggestion | Information Retrieval | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05380 | Turn Boundary Detection | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06037 | Uncertainty Communication | AI Safety | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09337 | Uncertainty Sampling | Machine Learning | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07885 | Upgrade Path | Programming & Software | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05373 | User Satisfaction Score | Evaluation & Metrics | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07749 | Weight Loading Time | AI Infrastructure | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05682 | Zero-Resource Speech Processing | Speech & Audio | 2008 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12963 | access rights | AI Safety | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/jama/9780195176339.021.74) |
-| AIH-00449 | Action Space | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-540-29678-2_6341) |
-| AIH-17991 | adaboost learning | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/itime.2009.5236340) |
-| AIH-00981 | Affordance | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1041.2009.00793) |
-| AIH-01095 | Agent mining | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4419-0522-2_1) |
-| AIH-00309 | Alert Fatigue | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2146/ajhp090181) |
-| AIH-17131 | anomaly intrusion detection | AI Safety | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1087.2009.02227) |
-| AIH-00556 | Apache Solr | Tools & Frameworks | 2009 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2559940714) |
-| AIH-15649 | application engineering | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5220/0001990201560161) |
-| AIH-11857 | approximate inference | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511811357.015) |
-| AIH-13649 | apriori algorithms | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/apscc.2009.5394128) |
-| AIH-00213 | ARIMAX | Time Series & Forecasting | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icmtma.2009.250) |
-| AIH-11859 | artificial bee colony | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1115/1.802953.paper32) |
-| AIH-13651 | association mining | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4018/978-1-60566-010-3.ch093) |
-| AIH-10899 | association rules mining | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1087.2008.02318) |
-| AIH-00530 | Attribution Requirement | AI Safety | 2009 | Dated publication (not proven term origin) | [Source](https://openalex.org/W1912622569) |
-| AIH-00275 | Augmented Reality (AR) | Computer Graphics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ismar-amh.2009.5336728) |
-| AIH-12120 | autonomic management | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-89828-5_14) |
-| AIH-11862 | avoiding obstacle | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icie.2009.71) |
-| AIH-17148 | background model | AI Safety | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21437/interspeech.2009-379) |
-| AIH-13657 | bacterial rna | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1261/rna.1926510) |
-| AIH-00751 | Bag of Words | NLP and LLMs | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/cisis.2009.11) |
-| AIH-02393 | Betweenness Centrality | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icpp.2009.53) |
-| AIH-11869 | binary decision diagram (bdd) | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icfcc.2009.31) |
-| AIH-17150 | binary fields | AI Safety | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.ffa.2009.05.007) |
-| AIH-00665 | Bioinformatics Pipeline | Science & Healthcare AI | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/bibm.2009.20) |
-| AIH-17154 | biometric data | AI Safety | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0969-4765(09)70199-7) |
-| AIH-11103 | black-box optimization | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/s11590-009-0120-2) |
-| AIH-03076 | Bloom Filter | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-39940-9_2127) |
-| AIH-01169 | BM25 | NLP and LLMs | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1645953.1646237) |
-| AIH-11712 | brain-computer interfaces | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-02091-9_2) |
-| AIH-18809 | capacity region | Speech & Audio | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/infcom.2009.5062109) |
-| AIH-01046 | CAPTCHA | Security & Privacy | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/cccm.2009.5270464) |
-| AIH-02799 | Categorical Feature | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/fuzzy.2009.5277209) |
-| AIH-18824 | channel matrices | Speech & Audio | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/twc.2008.080188) |
-| AIH-18005 | character images | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ccpr.2009.5343952) |
-| AIH-04953 | Coefficient of Variation (CV) | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-211-89836-9_235) |
-| AIH-13544 | collaborative filtering systems | Information Retrieval | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1639714.1639742) |
-| AIH-13545 | collaborative filtering techniques | Information Retrieval | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1155/2009/421425) |
-| AIH-03560 | Community Health Worker Support | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1186/1472-698x-9-13) |
-| AIH-13133 | computational photography | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/iccp15596.2009) |
-| AIH-01539 | Computer-Aided Diagnosis Systems | Science & Healthcare AI | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3390/a2030925) |
-| AIH-01854 | Consensus Among Agents | Agentic AI | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3182/20090921-3-tr-3005.00057) |
-| AIH-13720 | content-based retrieval | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4018/978-1-60566-174-2.ch014) |
-| AIH-15211 | context aware computing | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420093612.ch8) |
-| AIH-19221 | context information | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5220/0001952100690076) |
-| AIH-10569 | cyber defence | AI Safety | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-02767-3_20) |
-| AIH-10572 | cyber threat | AI Safety | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420091281-6) |
-| AIH-10574 | cyberattack | AI Safety | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/j.ctt5hh594.7) |
-| AIH-18023 | data manifolds | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icdm.2009.104) |
-| AIH-13742 | decision-tree algorithm | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icise.2009.440) |
-| AIH-19564 | decode-and-forward protocols | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://openalex.org/W241746822) |
-| AIH-03050 | Deduplication | Data Science | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-39940-9_2347) |
-| AIH-10736 | deep belief networks | Deep Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4249/scholarpedia.5947) |
-| AIH-04604 | Deforestation Monitoring | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/igarss.2009.5417928) |
-| AIH-14076 | degree centrality | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icbnmt.2009.5348474) |
-| AIH-15887 | delay tolerant networks | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420085891-17) |
-| AIH-04670 | Demand Response | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/972805) |
-| AIH-11397 | design concerns | Programming & Software | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420071894.ch4) |
-| AIH-06955 | Dictionary Learning | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada513255) |
-| AIH-18860 | differential detection | Speech & Audio | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/9780470546543.ch9) |
-| AIH-15394 | differential evolution algorithms | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/nabic.2009.5393646) |
-| AIH-06028 | Diffusion Map | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.32614/cran.package.diffusionmap) |
-| AIH-12992 | digital identity | AI Safety | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/9780773576742-005) |
-| AIH-13749 | dimensionality reduction method | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1001.2008.02833) |
-| AIH-13223 | distributed coding | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-12-374485-2.00009-3) |
-| AIH-15927 | distributed storage system | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/nas.2009.16) |
-| AIH-15928 | distributed storage systems | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-39940-9_2498) |
-| AIH-03595 | Documentation Requirement | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.jpubeco.2009.11.004) |
-| AIH-18887 | dvb-t2 | Speech & Audio | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/sarnof.2009.4850353) |
-| AIH-15946 | dynamic network topology | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/acc.2009.5160030) |
-| AIH-05184 | Dynamic Pricing | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4337/9781848447448.00026) |
-| AIH-07998 | Educational robotics | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-7908-2127-7_9) |
-| AIH-08104 | Emergent Coordination | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.neulet.2008.10.092) |
-| AIH-13004 | encryption algorithms | AI Safety | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-540-79698-5_2) |
-| AIH-13007 | encryption methods | AI Safety | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1364/aop.1.000589) |
-| AIH-04177 | Endianness | Programming & Software | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/idaacs.2009.5342909) |
-| AIH-13763 | ensemble classification | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1142/9789814271073_0003) |
-| AIH-13764 | ensemble classifier | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2139/ssrn.1326263) |
-| AIH-16001 | enterprise resources | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4018/978-1-59904-859-8.ch003) |
-| AIH-04188 | Entity Disambiguation | NLP and LLMs | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icdim.2009.5356769) |
-| AIH-04292 | Event Extraction | NLP and LLMs | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-39940-9_2579) |
-| AIH-02199 | Expected SARSA | Reinforcement Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/adprl.2009.4927542) |
-| AIH-02736 | Exploration Bonus | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.neuropsychologia.2009.01.015) |
-| AIH-07660 | External Memory Algorithm | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/etcs.2009.439) |
-| AIH-17496 | eye images | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1004.2009.01159) |
-| AIH-07693 | f-Divergence | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tit.2009.2030485) |
-| AIH-14964 | face detection algorithm | Speech & Audio | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icect.2009.41) |
-| AIH-13784 | feature function | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icnc.2009.324) |
-| AIH-10969 | feature selection problem | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.patrec.2008.11.012) |
-| AIH-07306 | Feature Vector | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-73003-5_559) |
-| AIH-18910 | femtocell networks | Speech & Audio | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/9780470748183.ch5) |
-| AIH-14116 | filtering error | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/9780470544198.ch68) |
-| AIH-16044 | forward security | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1038/news.2009.1065) |
-| AIH-07412 | FP-Growth | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1087.2008.02341) |
-| AIH-18602 | fractional order | Robotics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-90-481-3293-5_40) |
-| AIH-06045 | Frequency Capping | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1526709.1526900) |
-| AIH-17234 | fusion strategies | AI Safety | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5772/6575) |
-| AIH-04474 | Fuzzy Matching | Data Science | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-8348-9586-8_4) |
-| AIH-02794 | Garbled Circuit | Security & Privacy | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-10433-6_1) |
-| AIH-08186 | Generalized Additive Model (GAM) | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/icesjms/fsp105) |
-| AIH-08202 | Generalized Linear Model (GLM) | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/nabic.2009.5393419) |
-| AIH-07500 | Generative Classifier | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-73003-5_735) |
-| AIH-03153 | Geofencing | Robotics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/itst.2009.5399328) |
-| AIH-15002 | ghz frequencies | Speech & Audio | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-90-481-3083-2_12) |
-| AIH-07533 | Gini Importance | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1186/1471-2105-10-213) |
-| AIH-16072 | gnu radio | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/mape.2009.5355934) |
-| AIH-02806 | Goal Reasoning | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada553303) |
-| AIH-12381 | ground penetrating radar systems | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-444-53348-7.00003-x) |
-| AIH-15344 | h.264/avc standards | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-12-374456-2.00015-3) |
-| AIH-03626 | Hard Thresholding | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/ic.2009.0141) |
-| AIH-02946 | Hardware Security Module (HSM) | Security & Privacy | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/s11623-009-0145-9) |
-| AIH-04084 | Hierarchical Task Network (HTN) | Agentic AI | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icws.2009.77) |
-| AIH-13202 | high resolution remote sensing images | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/igarss.2009.5417482) |
-| AIH-14149 | histogram of oriented gradients (hog) | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/wacv.2009.5403043) |
-| AIH-19756 | honeynet | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/cccm.2009.5268138) |
-| AIH-08771 | Human-in-the-Loop (HITL) | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2514/6.2009-7066) |
-| AIH-05323 | Identity Preservation | Generative AI | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781439804872) |
-| AIH-13226 | image forensics | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.imavis.2009.02.001) |
-| AIH-00037 | ImageNet | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://www.image-net.org/static_files/papers/imagenet_cvpr09.pdf) |
-| AIH-03736 | IMU | Robotics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/952099) |
-| AIH-07916 | Incremental PCA | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/s11063-009-9117-1) |
-| AIH-13856 | individual classifiers | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/isda.2009.148) |
-| AIH-08843 | Inequality Effect | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2139/ssrn.1478907) |
-| AIH-04022 | Integer Programming (IP) | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/geoinformatics.2009.5293538) |
-| AIH-10648 | intelligent video surveillance | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781439813300) |
-| AIH-15257 | interactive surfaces | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1731903.1731933) |
-| AIH-01999 | Intermittent Demand | Time Series & Forecasting | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icicta.2009.249) |
-| AIH-11155 | interval time-varying delays | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icnc.2009.732) |
-| AIH-19828 | is success model | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icise.2009.182) |
-| AIH-03515 | Jailbreaking | AI Safety | 2009 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2440764164) |
-| AIH-03735 | Junction Tree Algorithm | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/cerma.2009.28) |
-| AIH-08999 | Kernel density estimation (KDE) | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.834890) |
-| AIH-16212 | key generation | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-73003-5_2053) |
-| AIH-06697 | Knowledge Tracing | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1595496.1562972) |
-| AIH-06761 | Lead Scoring | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-03095-6_71) |
-| AIH-03712 | Leslie Valiant | People & Organizations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1536414.1536415) |
-| AIH-17593 | liver segmentation | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/socpar.2009.85) |
-| AIH-14181 | logistic regression models | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420075779) |
-| AIH-18301 | logistics distribution | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1061/40996(330)110) |
-| AIH-03429 | Lossy Compression | Signal & Information Theory | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ita.2009.5044932) |
-| AIH-12507 | malicious attack | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-03095-6_24) |
-| AIH-16276 | malware analysis | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-1-59749-305-5.00006-2) |
-| AIH-16277 | malware attacks | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-1-59749-298-0.x0001-8) |
-| AIH-09212 | Markov Decision Process (MDP) | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1629335.1629338) |
-| AIH-05402 | Master Data | Data Science | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-12-374225-4.x0001-x) |
-| AIH-13266 | matching score | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-73003-5_1024) |
-| AIH-15483 | memetic algorithm | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/s12293-008-0006-3) |
-| AIH-16313 | metamaterial | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420054248.ch17) |
-| AIH-15265 | mobile augmented reality | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ismar.2009.5336472) |
-| AIH-16360 | mobile wireless sensor network | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-39940-9_3073) |
-| AIH-08601 | Model Evaluation | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511812156.019) |
-| AIH-09353 | Model Watermarking | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1087.2009.00952) |
-| AIH-18479 | model-based systems engineering | Programming & Software | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/mbse14977.2009) |
-| AIH-03859 | Molecular Dynamics Simulation (MD) | Science & Healthcare AI | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.cpc.2008.09.013) |
-| AIH-02645 | Motif Discovery in Time Series | Time Series & Forecasting | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/s00354-009-0068-x) |
-| AIH-16388 | multi-cores | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/iccp.2009.5284792) |
-| AIH-16394 | multi-processors | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4419-0965-7_6) |
-| AIH-10216 | multiagent architecture | Agentic AI | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/lindi.2009.5258568) |
-| AIH-16400 | multicast application | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1087.2008.03024) |
-| AIH-08633 | Multiclass Classification | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/9780470503065.ch11) |
-| AIH-18333 | multimodal problems | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4018/978-1-59904-849-9.ch098) |
-| AIH-16449 | near field communication | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-73003-5_650) |
-| AIH-11032 | network life-time | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icm2cs.2009.5397945) |
-| AIH-12567 | network-on-chip (noc) | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.vlsi.2009.01.002) |
-| AIH-16470 | node capture attack | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/giis.2009.5307034) |
-| AIH-14231 | nsga-ii | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1087.2009.238) |
-| AIH-09454 | Number form | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/s0031819109000382) |
-| AIH-13307 | object tracking algorithm | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icca.2009.5410310) |
-| AIH-05519 | Objective Landscape | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://openalex.org/W278055650) |
-| AIH-20021 | ofdm signal | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/cisp.2009.5302974) |
-| AIH-13585 | ontology pattern | Information Retrieval | 2009 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2743845484) |
-| AIH-16496 | opportunistic networks | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1001.2009.00124) |
-| AIH-14234 | opposition-based learning | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5772/6760) |
-| AIH-13313 | optical tomography | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/9780470611784.ch6) |
-| AIH-16520 | optimal power allocation | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.23919/oceans.2009.5422211) |
-| AIH-09499 | Orthogonal Matching Pursuit (OMP) | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15446/ing.investig.v29n2.15171) |
-| AIH-09521 | Overidentification Test | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2139/ssrn.1500013) |
-| AIH-16534 | p2p computing | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ap2ps.2009.30) |
-| AIH-09535 | Parameter Correlation | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511609725.010) |
-| AIH-14242 | particle swarm optimization technique | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5772/6747) |
-| AIH-06715 | Patch Release | Programming & Software | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/issre.2009.19) |
-| AIH-08474 | Pixel Shuffle | Deep Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.optcom.2009.02.044) |
-| AIH-12179 | planar antenna | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada510475) |
-| AIH-05571 | Planner Agent | Agentic AI | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/wism.2009.74) |
-| AIH-03350 | Positional Index | Information Retrieval | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1177/0022034509341243) |
-| AIH-03387 | Posting List | Information Retrieval | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1571941.1572104) |
-| AIH-08542 | Pre-training | Deep Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511811678.014) |
-| AIH-19078 | prediction modes | Speech & Audio | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/ic.2009.0172) |
-| AIH-18152 | privacy problems | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.46409/sr.jkvn1411) |
-| AIH-12650 | private cloud | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/esciw.2009.5408006) |
-| AIH-11071 | product feature | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icdm.2009.101) |
-| AIH-09676 | Psychology of reasoning | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/13546780903266188) |
-| AIH-13952 | query performance | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4302-1903-3_1) |
-| AIH-18162 | range expansion | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.1095-8312.2008.01199.x) |
-| AIH-04809 | Re-Identification | Security & Privacy | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-39940-9_3448) |
-| AIH-10676 | real scenes | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1087.2009.00732) |
-| AIH-05699 | Real-Time Operating System (RTOS) | Robotics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/isce.2009.5156833) |
-| AIH-12685 | reconfigurable architecture | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1155/2009/923415) |
-| AIH-13331 | reconstructed images | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tbme.2008.2012256) |
-| AIH-04821 | Recurrent Policy | Reinforcement Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/jigpal/jzp049) |
-| AIH-04853 | REINFORCE | Reinforcement Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1377/forefront.20090224.000508) |
-| AIH-06182 | Result Aggregation | Agentic AI | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-04235-5_35) |
-| AIH-04879 | Router Collapse | Deep Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/s00138-009-0221-z) |
-| AIH-08734 | Rubric-Based Evaluation | Deep Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/cseet.2009.54) |
-| AIH-17316 | s-boxes | AI Safety | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1115/1.802953.paper30) |
-| AIH-15548 | sat-solving | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3233/sat190071) |
-| AIH-10711 | scientific data | Data Science | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1137/1.9780898717693.ch13) |
-| AIH-07591 | Script Detection | NLP and LLMs | 2009 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2341709915) |
-| AIH-13612 | semantic web rule languages | Information Retrieval | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4018/978-1-60566-402-6.ch001) |
-| AIH-12753 | sensing schemes | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5772/7574) |
-| AIH-07690 | Sentence Pair Classification | NLP and LLMs | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3115/1699510.1699523) |
-| AIH-08002 | Serious Game | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/jcai.2009.205) |
-| AIH-13366 | shape context | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/el.2009.0972) |
-| AIH-19343 | sharing knowledge | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/shark.2009.5069111) |
-| AIH-09858 | Simplicity theory | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1142/9789814293020_0009) |
-| AIH-06514 | Simulation-Based Validation | Robotics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/wsc.2009.5429556) |
-| AIH-18183 | skin color model | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5392/jkca.2009.9.5.001) |
-| AIH-11794 | social computing | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420090437-6) |
-| AIH-19358 | social robotics | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/s12369-009-0014-6) |
-| AIH-15566 | social robots | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5220/0001830202630270) |
-| AIH-13978 | spatial datasets | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420073980-12) |
-| AIH-12061 | spectrum sensing | AI Foundations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/9780470742020.ch7) |
-| AIH-13953 | sphingobacteria | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1601/nm.8220) |
-| AIH-07554 | Stack Data Structure | Programming & Software | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/biyomut.2009.5130350) |
-| AIH-05158 | Stakeholder Mapping | People & Organizations | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3384/cu.2000.1525.09119305) |
-| AIH-09971 | Standard Deviation (SD) | Mathematics | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-211-89836-9_1318) |
-| AIH-12808 | stream processing systems | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ipdps.2009.5161015) |
-| AIH-16894 | surface plasmon polaritons | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511803796.014) |
-| AIH-08978 | Tanh | Deep Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icim.2009.22) |
-| AIH-05374 | Term Expansion Model | Information Retrieval | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ptc.2009.5282026) |
-| AIH-16943 | terrestrial laser scanning | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/9781444311952.ch13) |
-| AIH-18198 | text feature | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1087.2009.02348) |
-| AIH-08287 | Topic Drift | NLP and LLMs | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1075/cilt.309.09kni) |
-| AIH-08295 | Toxicity Classification | NLP and LLMs | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.toxlet.2009.02.003) |
-| AIH-12856 | traffic identification | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3724/sp.j.1087.2009.00662) |
-| AIH-08185 | Traffic Light Detection | Computer Vision | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/iccsit.2009.5234518) |
-| AIH-09331 | Trustworthiness Metric | Machine Learning | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icmss.2009.5303849) |
-| AIH-15303 | ubiquitous learning | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.18848/1835-9795/cgp/v01i01/40264) |
-| AIH-17010 | underwater wireless sensor networks | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/wd.2009.5449707) |
-| AIH-08415 | Update Summarization | NLP and LLMs | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1600193.1600239) |
-| AIH-11809 | user generated content | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.59350/jf22d-1fx39) |
-| AIH-10546 | value network | AI Infrastructure | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4135/9781412964289.n961) |
-| AIH-08366 | Video Restoration | Generative AI | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420046090-c15) |
-| AIH-08355 | Virtual Try-On | AI Applications | 2009 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1142/9789814289986_0049) |
+| AIH-01386 | Embedding Table | Recommender Systems | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-08052 | Embodied embedded cognition (EEC) | AI Foundations | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-14958 | emotion detection | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03106 | Emotion Prompting | Agentic AI | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02282 | End Effector (EE) | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02150 | Endpointing | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-10410 | enterprise 2.0 | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-12331 | enterprise system | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-01874 | Error Distribution | Evaluation & Metrics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04281 | Error Propagation | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-13478 | ethnic groups | Data Science | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02161 | Evaluation Protocol | Reinforcement Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02414 | Evasion Attack | Security & Privacy | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04167 | Event Time vs Processing Time | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-15417 | event-b | AI Foundations | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04202 | Exactly-Once Processing | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07038 | Expectation propagation (EP) | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02434 | Extrinsic Calibration | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02472 | Eye-in-Hand Configuration | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18038 | face alignment | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-13771 | face images | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-13773 | face models | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-10975 | facial expression analysis | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07155 | Fact Storage in Feedforward Layers | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16020 | failure detectors | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-08460 | Failure Imagination | AI Foundations | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02548 | Fallback Ready User | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-17226 | false acceptance rate | AI Safety | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02302 | Filterbank Energy | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02208 | Firmware | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04677 | Fixture | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07991 | Forest Plot | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02890 | Form Closure | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02322 | Foundry | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-12363 | fpga chips | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-12364 | fpga design | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-12367 | fpga implementations | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02966 | Frankenstein complex | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-11277 | free texts | NLP and LLMs | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18058 | frequent closed itemsets | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-13801 | frequent itemsets | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-13802 | fuzzy association rule | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-14939 | gaussian mixture | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-10992 | genome, mitochondrial | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-15305 | geometrical attacks | Computer Vision | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04871 | Git | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04025 | GPU Utilization | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04935 | Graceful Error Message | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-11734 | graphical user interfaces (gui) | AI Applications | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04999 | GraphQL | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02436 | Grid and Block Dimensions | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-12384 | group signature | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03412 | Hand-Eye Calibration | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03448 | Handover | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02492 | Head-Related Transfer Function (HRTF) | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07796 | Histogram-Based Splitting | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05221 | Hotfix | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-13209 | hsv color spaces | Computer Vision | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18089 | human face detection | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-11008 | human facial expressions | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05664 | Image-Text Retrieval | Computer Vision | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-08803 | Imitation Learning | AI Foundations | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-12413 | improved scheme | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03112 | In-Processing Mitigation | AI Safety | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03914 | Indicator Constraint | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03950 | Inequality Constraint | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03772 | Inflation Layer | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03133 | Injection Attack | Security & Privacy | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05407 | Inline Suggestion | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03044 | INT8 | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02682 | Intent Slot Model | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02720 | International Phonetic Alphabet (IPA) | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03155 | Interposer | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02758 | Interruption Handling | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02834 | Inverse Text Normalization (ITN) | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-13248 | iris images | Computer Vision | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03844 | ISO 10218 | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03880 | ISO 26262 | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05620 | Iterator | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16209 | key distribution | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03146 | KL Divergence Constraint | Reinforcement Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-11012 | knowledge discovery | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-09067 | Latent Diffusion (LDM) | AI Foundations | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-14487 | layered pattern | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16229 | learning object | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18109 | least square support vector machine | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-19854 | light detection and ranging | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-13881 | limited energy resource | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05791 | Linked List | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05818 | Linter | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-12487 | live streaming | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05870 | Livelock | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16249 | load-balanced | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02401 | Local Average Treatment Effect (LATE) | Causal Inference | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04336 | Local Planner | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05896 | Local-Remote Parity | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05922 | Lock-Free Algorithm | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05948 | Logging for Diagnosis | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16272 | mac layer | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-09140 | MapReduce | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-09203 | Market Impact | AI Foundations | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06044 | Materialized View | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-09240 | Measure | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06123 | Memory Barrier | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16297 | memory locations | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-09261 | Mesh-Free Method | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03738 | Message Passing Interface (MPI) | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06243 | Message Queue | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03320 | MIDI | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05050 | Minimax Optimization | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06373 | Mock | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06284 | Model Comparison Report | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03918 | Model Footprint | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18327 | model to model transformation | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-14214 | model-driven software development | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-11179 | models, economic | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06430 | Monorepo | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06448 | Monorepo Tooling | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03954 | Moore's Law | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03753 | Mu-Law Encoding | Signal & Information Theory | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16387 | multi-channel mac protocols | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03990 | Multi-Instance GPU (MIG) | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06466 | Multi-Line Completion | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-19973 | multi-user mimo systems | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-13290 | multi-view image | Computer Vision | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18190 | multi-view video | Computer Vision | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-14220 | multidisciplinary design optimization | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18286 | multilocus sequence typing | Data Science | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-15271 | multimodal interface | AI Applications | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06818 | Multispectral Fusion | Computer Vision | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05083 | Mutually Exclusive Events | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-08701 | Non-Parametric Knowledge | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-09419 | Nonnegative Matrix Factorization (NMF) | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06909 | Novel View Synthesis | Computer Vision | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04166 | NUMA | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-13054 | obfuscation | AI Safety | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06570 | Observability-Driven Development | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-10821 | ontology construction | Information Retrieval | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-10827 | ontology mapping | Information Retrieval | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-09477 | Operator Learning | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04338 | Operator Support Matrix | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-13924 | opinion mining | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18141 | orl face database | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-08773 | Outlier Detection | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06696 | Output Distribution Monitoring | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05170 | Output Truncation | Agentic AI | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05116 | Overshoot | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-10503 | p2p | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-10498 | p2p applications | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03673 | Paired Comparison Test | Evaluation & Metrics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03898 | Parallel Vocoder | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05725 | Parameter-Free Optimization | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-08809 | Parametric Knowledge | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-09543 | Partial Dependence Plot (PDP) | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-11190 | particle swarm algorithm | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-11191 | particle swarm optimisation | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-02061 | Particle System | Computer Graphics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06731 | Paxos | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-10517 | perceived risk | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-08464 | Perplexity Filtering | Deep Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04006 | Phoneme Dictionary | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05242 | Pick and Place | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04701 | Polling | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-17920 | polymorphism, restriction fragment length | Data Science | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06779 | Polyrepo | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03276 | Pooling for Evaluation | Information Retrieval | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06929 | Postmortem for Model Failure | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06811 | Precondition | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06974 | Prediction Drift Alert | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04840 | Predictive Model in Medicine | Science & Healthcare AI | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-08869 | Prior Knowledge Override | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06887 | Promise | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04481 | Prompt Extraction Attack | Security & Privacy | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06743 | Provisioned Throughput | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-11208 | pso algorithms | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06947 | Pull Request (PR) | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04146 | Punctuation Restoration | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-09673 | Q-Q Plot | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04862 | Quantized Inference on Edge | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07641 | Queue Management | AI Applications | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-15791 | rate adaptation schemes | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04181 | Real-Time Factor (RTF) | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07022 | Rebase | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05727 | Receding Horizon | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16711 | reconfigurable computer | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-12687 | reconfigurable computing | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-12688 | reconfigurable hardware | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-12689 | reconfigurable hardwares | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16716 | reconfigurable plat-forms | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16718 | reconfigurable systems | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-08969 | Reconstruction Error Anomaly Detection | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07082 | Reference Counting | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07097 | Referential Transparency | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07181 | Remote Build Execution | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04251 | Repetition and Skipping | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-12692 | replication strategies | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07269 | Required Status Check | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06157 | Resource | Agentic AI | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07762 | Resource Allocation | AI Applications | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07281 | REST | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-17928 | restriction fragment length polymorphism | Data Science | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07305 | Retry Semantics | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-15106 | reverberation | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-19113 | rfid tags | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07659 | RGB | Computer Vision | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05118 | ROCm | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06280 | Rolling Horizon Optimization | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07365 | Root Cause versus Symptom | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05150 | Rounding Mode | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07453 | Run Comparison Dashboard | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16757 | run-time reconfigurable | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-09835 | SAT Solver | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06282 | Scenario-Based Testing | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16768 | seamless handover | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07964 | Search and Rescue Support | AI Applications | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07422 | Semantic Diff | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-10862 | semantic social network analysis | Information Retrieval | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07811 | Sensor Failure Handling | Computer Vision | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05244 | Sequential Throughput | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16795 | service composition | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16801 | services composition | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-12775 | short message services | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-09113 | Shrinkage in Boosting | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-04450 | Silence Hallucination | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07499 | SIMD | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-11417 | software design patterns | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05368 | Solid State Drive (SSD) | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05061 | Spam in Search | Information Retrieval | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07788 | Spatial Relation Failure | Generative AI | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05492 | SR-IOV | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07951 | SSD Detector | Computer Vision | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07576 | Stacked Changes | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-14685 | stackelberg equilibrium | Reinforcement Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07598 | Stash | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07783 | Stateful Stream Processing | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-14050 | stress constraints | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-12813 | structured p2p | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16875 | structured peer-to-peer | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07653 | Stub | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-19159 | successive interference cancellation | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-19160 | successive interference cancellations | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07664 | Suggestion Latency | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18191 | support vectors | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-17334 | surveillance system | AI Safety | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05701 | SYCL | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07686 | Symbol Resolution | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06820 | Symmetry Breaking in Optimization | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-15298 | tangible interaction | AI Applications | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-11798 | tangible interfaces | AI Applications | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-11800 | tangible user interfaces | AI Applications | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06806 | Taurob tracker | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06034 | Taxonomy | AI Foundations | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07785 | Time to Restore Service | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06851 | Time-Limited Optimization | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05349 | Transcription Guidelines | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07825 | Tuple | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-08010 | Unit Economics | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06941 | Unrolled Optimization | Mathematics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-10246 | user interface | AI Applications | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-15308 | user research | AI Applications | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-10248 | user-computer interface | AI Applications | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-08046 | Utilization Target | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05473 | Utterance | Speech & Audio | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07062 | Vaimos | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-14010 | validity index | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07915 | Vendoring | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-17043 | vertical handovers | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-08297 | View Consistency | Computer Vision | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06043 | Virtual GPU (vGPU) | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07107 | Vision–language–action model (VLA) | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-11089 | visual data mining | Machine Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06093 | Wafer | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07149 | Watchdog Timer | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-17833 | watershed segmentation | Computer Vision | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06143 | WebAssembly (WASM) | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07177 | Wheel Slip | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06311 | White-Box Attack | Security & Privacy | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07190 | Whole-Body Control (WBC) | Robotics | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-05825 | Wide ResNet | Deep Learning | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-06193 | x86 | AI Infrastructure | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07965 | YAML | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-07975 | Zero-Copy | Programming & Software | 2004 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-17121 | 3d face recognition | AI Safety | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.patcog.2005.04.016) |
+| AIH-19207 | accessibility evaluation | AI Applications | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1061811.1061830) |
+| AIH-00258 | Action Module | Agentic AI | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4324/9780203995778-15) |
+| AIH-00253 | Adaptive Computation | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada435164) |
+| AIH-10321 | adaptive modulation and coding | Speech & Audio | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511841224.010) |
+| AIH-17360 | adaptive streaming | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/9780470022702.ch2) |
+| AIH-00192 | Admittance Control | Robotics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3182/20050703-6-cz-1902.01341) |
+| AIH-14884 | affect recognition | Speech & Audio | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21437/interspeech.2005-319) |
+| AIH-00595 | AIXI | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-26877-4_5) |
+| AIH-00633 | Algorithmic inference | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tnn.2005.853003) |
+| AIH-00573 | All-Reduce | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/11428831_52) |
+| AIH-00452 | Alpha Matting | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/11567646_16) |
+| AIH-00175 | Anomaly Detection in Time Series | Time Series & Forecasting | 2005 | Dated publication (not proven term origin) | [Source](https://openalex.org/W1598358187) |
+| AIH-11856 | anthropomorphic robots | AI Foundations | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/iros.2005.1545124) |
+| AIH-00344 | Antipodal Grasp | Robotics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tro.2005.844679) |
+| AIH-11367 | architecture concerns | Programming & Software | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1082983.1082956) |
+| AIH-13652 | associative classification | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icmlc.2005.1527272) |
+| AIH-19422 | ataxia-telangiectasia mutated | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1091/mbc.e04-10-0890) |
+| AIH-15662 | average bit-error rates | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1541/ieejeiss.125.274) |
+| AIH-13658 | bam neural network | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ijcnn.1993.714276) |
+| AIH-17997 | betaproteobacteria | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/0-387-29298-5_2) |
+| AIH-00984 | Bilateral Filter | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/iembs.2005.1617216) |
+| AIH-12972 | bilinear pairing | AI Safety | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1360/crad20050823) |
+| AIH-17152 | biometric authentication system | AI Safety | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/11527923_53) |
+| AIH-12136 | bittorrent | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-159749017-7/50016-1) |
+| AIH-10870 | block motion estimation | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icip.2005.1529940) |
+| AIH-11272 | bpsk modulation | Speech & Audio | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.sigpro.2004.12.010) |
+| AIH-19453 | broadcast algorithm | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tbc.2005.847624) |
+| AIH-19455 | broadcast encryption | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.631580) |
+| AIH-15715 | business process execution | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1571/bda9-8-05cc) |
+| AIH-12154 | business process execution language | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1571/bda9-8-05cc) |
+| AIH-18810 | capacity regions | Speech & Audio | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.endm.2005.07.051) |
+| AIH-11104 | capture-recapture | Mathematics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/0470011815.b2a10010) |
+| AIH-18812 | carrier frequency offset estimation | Speech & Audio | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tcomm.2005.860033) |
+| AIH-11106 | centrality measures | Mathematics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada456108) |
+| AIH-15760 | channel model | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-540-31956-6_28) |
+| AIH-15764 | channel state | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tcomm.2005.843408) |
+| AIH-11266 | chinese language | NLP and LLMs | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/9780824889685-020) |
+| AIH-13675 | class labels | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.patcog.2005.02.020) |
+| AIH-03268 | Clause Extraction | AI Applications | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/bioinformatics/bti1011) |
+| AIH-03286 | Cluster Stability | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420028799-14) |
+| AIH-12202 | cmos image sensors | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420026856.ch5) |
+| AIH-18444 | code fragments | Programming & Software | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/11532378_13) |
+| AIH-13698 | color feature | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icip.2005.1530597) |
+| AIH-01867 | Commitment Risk | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3386/w11588) |
+| AIH-13712 | complete mitochondrial genome | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1139/g04-090) |
+| AIH-14439 | component-and-connector | Programming & Software | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/apsec.2005.60) |
+| AIH-19519 | compress and forward | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://openalex.org/W7220775741) |
+| AIH-06543 | Computational neurogenetic modeling | AI Foundations | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/11550907_80) |
+| AIH-17419 | computer-aided diagnosis system | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada438612) |
+| AIH-10376 | computing resource | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/885501) |
+| AIH-03721 | Concept Drift | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4018/978-1-59140-557-3.ch039) |
+| AIH-15819 | congestion control algorithm | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/glocom.2005.1577631) |
+| AIH-15820 | congestion control mechanism | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/glocom.2005.1578011) |
+| AIH-12242 | content delivery networks | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420031164) |
+| AIH-17426 | contourlet transform | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icip.2005.1529727) |
+| AIH-15832 | cooperative communications | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada437086) |
+| AIH-15834 | cooperative relay | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/wcnc.2005.1424768) |
+| AIH-15835 | cooperative relaying | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/glocom.2005.1578318) |
+| AIH-19281 | covariance matrix adaptation | AI Foundations | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ijcnn.2005.1556235) |
+| AIH-13150 | ct images | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.53347/rid-50828) |
+| AIH-04340 | Curriculum Mapping | AI Applications | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4135/9781483329079.n5) |
+| AIH-02627 | Data Contract | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3133/fs20053010) |
+| AIH-13555 | data cube | Information Retrieval | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4018/978-1-59140-557-3.ch089) |
+| AIH-10945 | data mining methods | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4018/978-1-59140-557-3.ch085) |
+| AIH-10131 | data visualization | Data Science | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0169-7161(04)24017-2) |
+| AIH-18844 | deblocking filters | Speech & Audio | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icce.2005.1429832) |
+| AIH-07537 | Decision Documentation | AI Foundations | 2005 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2181691456) |
+| AIH-15888 | delay tolerant | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1080139.1080145) |
+| AIH-18024 | deltaproteobacteria | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-29298-4_3) |
+| AIH-17447 | demosaicking | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tencon.2005.301070) |
+| AIH-14934 | differential power analysis | Speech & Audio | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0965-2590(05)00215-x) |
+| AIH-13183 | digital audio watermarking | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4018/978-1-59140-192-6.ch004) |
+| AIH-17206 | digital evidence | AI Safety | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.diin.2005.07.001) |
+| AIH-01655 | Directed Information | Signal & Information Theory | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/isit.2005.1523313) |
+| AIH-06128 | Discriminative Classifier | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.patrec.2005.03.005) |
+| AIH-01338 | Distributed Cognition Theory | Cognitive Science | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1360/jos161717) |
+| AIH-15920 | distributed hash table | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/pdcat.2005.196) |
+| AIH-15924 | distributed localization | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420038163-42) |
+| AIH-18460 | distributed software development | Programming & Software | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada437472) |
+| AIH-17474 | distributed source coding | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.631581) |
+| AIH-18880 | doa estimation method | Speech & Audio | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icif.2005.1592046) |
+| AIH-03184 | Document Layout Analysis | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icdar.2005.204) |
+| AIH-01223 | Doubly Robust Estimation | Causal Inference | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.1541-0420.2005.00377.x) |
+| AIH-02033 | Downscaling | Science & Healthcare AI | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/joc.1125) |
+| AIH-12305 | dynamic languages | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1146841) |
+| AIH-11930 | dynamic spectrum access | AI Foundations | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/dyspan.2005.1542688) |
+| AIH-17218 | elliptic curve discrete logarithm problems | AI Safety | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.amc.2004.09.035) |
+| AIH-12971 | embedded web servers | AI Safety | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420038163-51) |
+| AIH-19646 | enhanced distributed channel access | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-540-31957-3_122) |
+| AIH-02367 | Enron Email Dataset | Datasets & Benchmarks | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/s10588-005-5379-y) |
+| AIH-03629 | Environment Parity | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1186/1751-0147-46-203) |
+| AIH-18036 | etl process | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1504/ijwgs.2005.007547) |
+| AIH-03707 | Event Log | Data Science | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-193226652-8/50007-x) |
+| AIH-01451 | Exclusion Restriction | Causal Inference | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511614491.022) |
+| AIH-18262 | exit chart | Mathematics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/twc.2004.840260) |
+| AIH-18045 | face hallucination | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.patcog.2004.11.007) |
+| AIH-02623 | Factor Graph Representation | Mathematics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/spawc.2005.1506297) |
+| AIH-01527 | Faithfulness Assumption | Causal Inference | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/11518655_13) |
+| AIH-14653 | feedback load | Speech & Audio | 2005 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2149083073) |
+| AIH-13025 | fingerprint features | AI Safety | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/11599548_31) |
+| AIH-13186 | fingerprint segmentation | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ichis.2005.12) |
+| AIH-19290 | fixed priorities | AI Foundations | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/00207720412331330408) |
+| AIH-10272 | flexible job-shop scheduling | AI Foundations | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4018/978-1-59140-553-5.ch211) |
+| AIH-02307 | Flux | Deep Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420037265-14) |
+| AIH-13187 | foreground detection | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada523846) |
+| AIH-17499 | foreground regions | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/11565123_39) |
+| AIH-13796 | formal contexts | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1057/9780230514188_3) |
+| AIH-13797 | fp-growth algorithm | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1133905.1133907) |
+| AIH-12361 | fp-tree | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1360/jos160215) |
+| AIH-17503 | fragile watermark | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icmlc.2005.1527913) |
+| AIH-19688 | frequency-domain equalizers | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/glocom.2005.1578439) |
+| AIH-10429 | frequent pattern mining | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1133905) |
+| AIH-12373 | full adders | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tnano.2005.858609) |
+| AIH-11946 | fuzzy inference systems | AI Foundations | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5391/ijfis.2005.5.3.253) |
+| AIH-19294 | fuzzy rule-based classifier | AI Foundations | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/11539506_54) |
+| AIH-13064 | gait features | AI Safety | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icif.2005.1591995) |
+| AIH-14471 | game development | Programming & Software | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781439865644-17) |
+| AIH-11732 | gaming experiences | AI Applications | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.26503/dl.v2005i1.220) |
+| AIH-01301 | Gamma Space | Computer Graphics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/0471743984.vse3514) |
+| AIH-18064 | gaussian kernel | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada473041) |
+| AIH-14972 | gaussian process models | Speech & Audio | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.32614/cran.package.tgp) |
+| AIH-04849 | Gendered Language | NLP and LLMs | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4324/9780203014448-7) |
+| AIH-08635 | Generalized entropy index | AI Foundations | 2005 | Dated publication (not proven term origin) | [Source](https://openalex.org/W190388164) |
+| AIH-15000 | generalized gaussian distributions | Speech & Audio | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/9781118445112.stat01224) |
+| AIH-07621 | Graph-Based Semi-Supervised Learning | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2115498396) |
+| AIH-11957 | graphical model | AI Foundations | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada455686) |
+| AIH-13072 | graphical passwords | AI Safety | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/lcn.2005.16) |
+| AIH-19712 | greedy forwarding | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/lcomm.2005.11019) |
+| AIH-16081 | group communications | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/b100182) |
+| AIH-04693 | Guided Filter | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-7216-9426-9.50052-2) |
+| AIH-17527 | h.264/avc | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/cp:20050116) |
+| AIH-15360 | h.264/avc video | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icip.2005.1529821) |
+| AIH-01005 | Hadamard Gate | Quantum & Emerging Compute | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.physleta.2005.05.008) |
+| AIH-18078 | hand shape | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1197/j.jht.2004.10.007) |
+| AIH-19735 | handover delay | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/el:20057268) |
+| AIH-19736 | handover latency | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/wcnc.2005.1424719) |
+| AIH-11151 | hazard ratio | Mathematics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/0471667196.ess7176) |
+| AIH-19742 | health monitoring system | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/stc.79) |
+| AIH-16096 | health records | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/0-387-27375-1_4) |
+| AIH-05324 | Heaps' Law | NLP and LLMs | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.ins.2004.03.006) |
+| AIH-15416 | heterozygosity loss | Data Science | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/0470011815.b2a05062) |
+| AIH-14147 | high-quality solutions | Mathematics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/s10115-003-0141-6) |
+| AIH-15006 | hilbert huang transforms | Speech & Audio | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1142/9789812703347_0006) |
+| AIH-15007 | hilbert-huang transform | Speech & Audio | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420027532) |
+| AIH-03300 | Hoeffding Inequality | Mathematics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/0471667196.ess3388) |
+| AIH-02958 | Horizon Effect | AI Foundations | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2139/ssrn.798431) |
+| AIH-04854 | HSV Color Space | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4018/978-1-59140-553-5.ch235) |
+| AIH-16131 | http protocols | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4314/gjpas.v11i2.16498) |
+| AIH-14750 | human motion recognition | Robotics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.patrec.2004.09.019) |
+| AIH-18281 | hybrid evolutionary algorithm | Mathematics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1068009.1068118) |
+| AIH-14156 | hybrid metaheuristics | Mathematics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/0471739383.ch15) |
+| AIH-02032 | Hybrid Recommender | Recommender Systems | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ichis.2005.109) |
+| AIH-19762 | identity based cryptography | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1102486.1102488) |
+| AIH-05354 | Image Generation | Generative AI | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.31026/j.eng.2005.02.12) |
+| AIH-18284 | improved pso | Mathematics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.neucom.2004.07.002) |
+| AIH-19785 | impulse radios | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/glocom.2005.1578181) |
+| AIH-12428 | information sharing | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-26907-x_2) |
+| AIH-13033 | information-theoretic security | AI Safety | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/itwtpi.2005.1543941) |
+| AIH-02706 | Inhibitory Control | Cognitive Science | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4135/9781412952484.n350) |
+| AIH-02744 | Insight Problem Solving | Cognitive Science | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e633942013-973) |
+| AIH-15597 | inter prediction | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icme.2004.1394414) |
+| AIH-17361 | inter-layer prediction | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icip.2005.1530194) |
+| AIH-11755 | interaction designs | AI Applications | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/mprv.2005.91) |
+| AIH-16177 | interference management | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511807213.005) |
+| AIH-08752 | Interquartile Range (IQR) | Mathematics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4135/9781412983907.n972) |
+| AIH-13036 | intrusion detection method | AI Safety | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.603086) |
+| AIH-03281 | Intrusion Detection System (IDS) | Security & Privacy | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tencon.2005.301033) |
+| AIH-12446 | intrusion prevention systems | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1071916.1071927) |
+| AIH-05687 | Invisible Watermark | Generative AI | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/11403937_25) |
+| AIH-06585 | Item Response Theory (IRT) | AI Applications | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4135/9781412983907.n994) |
+| AIH-08092 | Jigsaw Puzzle Task | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.1365-2788.2005.00782.x) |
+| AIH-17580 | jpeg2000 compression | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/aero.2005.1559540) |
+| AIH-13871 | k-nn query | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/11590354_71) |
+| AIH-18107 | kernel parameter | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1142/s0219720005001491) |
+| AIH-19838 | key exposure | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/s00200-005-0183-y) |
+| AIH-12460 | key predistribution scheme | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/jsac.2004.842555) |
+| AIH-13568 | keyword queries | Information Retrieval | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1065385.1065407) |
+| AIH-13569 | keyword-based search | Information Retrieval | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1108/14684520510638098) |
+| AIH-15470 | knowledge exchange | AI Foundations | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.63485/aqt5d-9wg60) |
+| AIH-13468 | knowledge visualization | Data Science | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/11510154_6) |
+| AIH-13878 | large-scale wireless sensor networks | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420038163-46) |
+| AIH-14172 | ldpc codes | Mathematics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/lcomm.2005.1461686) |
+| AIH-17585 | ldpc coding | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tcsi.2005.844113) |
+| AIH-19857 | limited feedback | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada477700) |
+| AIH-02636 | Link Farm | Information Retrieval | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1062745.1062762) |
+| AIH-13256 | local invariant features | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1142/9789812775320_0005) |
+| AIH-13886 | locality preserving projections | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.neucom.2004.08.006) |
+| AIH-16252 | localization algorithms | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420038163-42) |
+| AIH-17999 | location fingerprinting | Robotics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.comnet.2004.09.004) |
+| AIH-12496 | lossless compressions | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.575437) |
+| AIH-09096 | Low-Rank Approximation | Mathematics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/acprof:oso/9780198566649.003.0008) |
+| AIH-17596 | lsb matching | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/lsp.2005.847889) |
+| AIH-03516 | Machine-Readable Marking | AI Safety | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2352/j.imagingsci.technol.2005.49.5.art00002) |
+| AIH-08503 | Market Basket Analysis | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/epia.2005.341294) |
+| AIH-02477 | Markov Equivalence Class | Causal Inference | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/11564089_9) |
+| AIH-14198 | markov logic networks | Mathematics | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1102351.1102407) |
+| AIH-03679 | Materials Informatics | Science & Healthcare AI | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s1369-7021(05)71123-8) |
+| AIH-03648 | Matplotlib | Tools & Frameworks | 2005 | Dated publication (not proven term origin) | [Source](https://openalex.org/W1630264553) |
+| AIH-19885 | mb-ofdm | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/cp:20050309) |
+| AIH-19884 | mb-ofdm uwb | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/cp:20050309) |
+| AIH-13271 | mean shift algorithm | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1360/jos160365) |
+| AIH-13273 | median value | Computer Vision | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/j.ins.2004.07.018) |
+| AIH-12519 | mediawiki | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-29267-5_9) |
+| AIH-07005 | Medication Reconciliation | AI Applications | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1097/00006247-200509000-00006) |
+| AIH-16302 | mems deformable mirror | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.669376) |
+| AIH-16308 | mesh networks | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/b138484) |
+| AIH-16315 | micro electro mechanical system | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420027754) |
+| AIH-19921 | mimo transmission | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/ic:20050400) |
+| AIH-11020 | mining algorithms | Machine Learning | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4018/978-1-59140-557-3.ch037) |
+| AIH-16332 | misbehaving nodes | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/piko.2005.38) |
+| AIH-11770 | mobile interaction | AI Applications | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1085777.1085872) |
+| AIH-19935 | mobile node | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.17487/rfc4283) |
+| AIH-12539 | mobile rfid | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icebe.2005.88) |
+| AIH-15490 | mobile service robots | AI Foundations | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15607/rss.2005.i.003) |
+| AIH-19941 | mobility model | AI Infrastructure | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/wcnc.2005.1424759) |
+| AIH-14489 | model based testing | Programming & Software | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/11498490_27) |
+| AIH-14499 | model driven architecture | Programming & Software | 2005 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5220/0002545900180028) |

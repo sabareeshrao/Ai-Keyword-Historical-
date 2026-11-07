@@ -13,6 +13,7 @@
 [**Date Research 013 — final 1,600 IDs (18501–20100), publication dates, ★ estimates and unresolved**](../batches/DATE_RESEARCH_013_FINAL_1600.md)
 [**Final chronology — ALL 20,100 terms sorted by year, keeping ★ / ★★ grades**](../chronology/README.md)
 [**Previously undated recovery — explicitly speculative ★★ years**](../batches/UNDATED_RECOVERY_DOUBLE_STAR.md)
+[**New undated recovery — additional speculative ★★ years (IDs 12501–20100)**](../batches/UNDATED_RECOVERY_NEW_DOUBLE_STAR.md)
 
 Every keyword is included, not a short preview. Four batches of 5,000; each divided into ten GitHub-friendly tables of 500 rows.
 

@@ -1,0 +1,18 @@
+{
+  "scope": "Additional undated entries with permanent IDs AIH-12501 through AIH-20100",
+  "inventory_total": 20100,
+  "previously_missing_in_scope": 2386,
+  "guessed_double_star_added": 2386,
+  "left_without_any_date_in_scope": 0,
+  "verified_term_origin_added": 0,
+  "previous_dates_overwritten": 0,
+  "guessed_years_are_facts": false,
+  "confidence": "very_low",
+  "method_counts": {
+    "lexically_related_term_source_years": 2053,
+    "same_subfield_source_year_median": 333
+  },
+  "table_pages": 5,
+  "historical_relevance_warning": "Every double-star year is a guessed sorting placeholder inferred from OTHER terms; no date source is cited as evidence for the keyword.",
+  "note": "This run assigns low-confidence ★★ proxy years to the remaining newly researched undated entries. No new first-use evidence is established."
+}

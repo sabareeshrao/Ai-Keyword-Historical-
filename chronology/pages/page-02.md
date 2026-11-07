@@ -1,6 +1,6 @@
 # Chronological Keywords — Page 02/41
 
-500 records from 1958 – 1966. Original IDs unchanged.
+500 records from 1957 – 1965. Original IDs unchanged.
 
 [Full chronology](../README.md) | [Master inventory](../../data/KEYWORD_INVENTORY.csv)
 
@@ -8,6 +8,16 @@ Unstarred source years are not verified first usages; ★ inferred; ★★ specu
 
 | ID | Keyword | Field | Year | Evidence | Reference |
 |---|---|---|---|---|---|
+| AIH-19009 | permittivity measurement | Speech & Audio | 1957 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/jiee-3.1957.0142) |
+| AIH-09569 | Perron-Frobenius Theorem | Mathematics | 1957 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1307/mmj/1028990177) |
+| AIH-17301 | random number generators | AI Safety | 1957 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/4314554) |
+| AIH-09831 | Sampling Without Replacement | Mathematics | 1957 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf03003974) |
+| AIH-16910 | sea clutter | AI Infrastructure | 1957 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/irenc.1957.199172) |
+| AIH-09885 | Sigma-Algebra | Mathematics | 1957 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21136/cmj.1957.100235) |
+| AIH-06704 | Spotlighting | Agentic AI | 1957 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1177/001440295702400306) |
+| AIH-00761 | Binomial Distribution | Mathematics | 1957 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-03388 | John McCarthy | People & Organizations | 1957 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-00607 | Almost Everywhere | Mathematics | 1958 | Dated publication (not proven term origin) | [Source](https://doi.org/10.29173/bluejay2834) |
 | AIH-17362 | analytic signals | Computer Vision | 1958 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tct.1958.1086433) |
 | AIH-11362 | architectural styles | Programming & Software | 1958 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1525/9780520345799-004) |
 | AIH-00534 | Automaton | Robotics | 1958 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1090/s0002-9939-1958-0135681-9) |
@@ -36,6 +46,10 @@ Unstarred source years are not verified first usages; ★ inferred; ★★ specu
 | AIH-11659 | speech analysis | Speech & Audio | 1958 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1177/002383095800100105) |
 | AIH-13638 | spur gears | Machine Learning | 1958 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1243/pime_proc_1958_172_017_02) |
 | AIH-11677 | vocal-tracts | Speech & Audio | 1958 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1121/1.1930011) |
+| AIH-18752 | active noise control | Speech & Audio | 1958 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-15060 | noise conditions | Speech & Audio | 1958 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-15064 | noise robustness | Speech & Audio | 1958 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-13770 | worm gears | Machine Learning | 1958 ★★ | Speculative ★★, no direct evidence | — |
 | AIH-00824 | Artificial Neuron | Deep Learning | 1959 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1126/science.129.3354.962) |
 | AIH-17936 | attitude stabilization | Deep Learning | 1959 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0038-092x(59)90167-7) |
 | AIH-11586 | automatic transcription | Speech & Audio | 1959 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1460299.1460317) |
@@ -129,6 +143,11 @@ Unstarred source years are not verified first usages; ★ inferred; ★★ specu
 | AIH-11447 | viewpoint | Programming & Software | 1960 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/apv.11002) |
 | AIH-09158 | Wide Network | Deep Learning | 1960 | Dated publication (not proven term origin) | [Source](https://doi.org/10.17226/21635) |
 | AIH-04288 | Convergence Speed | Machine Learning | 1960 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-15014 | interactive television | Speech & Audio | 1960 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18972 | internet protocol television | Speech & Audio | 1960 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-15136 | spacecraft instruments | Speech & Audio | 1960 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-19169 | television interference | Speech & Audio | 1960 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-19170 | television receivers | Speech & Audio | 1960 ★★ | Speculative ★★, no direct evidence | — |
 | AIH-11579 | acoustic signal processing | Speech & Audio | 1961 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1121/1.1936746) |
 | AIH-18762 | additive gaussian noise | Speech & Audio | 1961 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-662-01510-0_9) |
 | AIH-00267 | Ancillary Statistic | Mathematics | 1961 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1214/aoms/1177705071) |
@@ -184,8 +203,15 @@ Unstarred source years are not verified first usages; ★ inferred; ★★ specu
 | AIH-17028 | varactor diodes | AI Infrastructure | 1961 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0016-0032(61)90069-2) |
 | AIH-10687 | vision aids | Computer Vision | 1961 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1097/00006324-196107000-00007) |
 | AIH-17075 | weather satellites | AI Infrastructure | 1961 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1038/scientificamerican0761-80) |
+| AIH-18742 | acoustic echoes | Speech & Audio | 1961 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-14877 | acoustic variables control | Speech & Audio | 1961 ★★ | Speculative ★★, no direct evidence | — |
 | AIH-10998 | gear | Machine Learning | 1961 ★★ | Speculative ★★, no direct evidence | — |
 | AIH-08234 | Geometric Series | Mathematics | 1961 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-12678 | radio | AI Infrastructure | 1961 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16682 | radio access technologies | AI Infrastructure | 1961 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16687 | radio interface | AI Infrastructure | 1961 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-12677 | radio systems | AI Infrastructure | 1961 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-16693 | radio transmitters | AI Infrastructure | 1961 ★★ | Speculative ★★, no direct evidence | — |
 | AIH-00155 | Acceptance Rate | AI Infrastructure | 1962 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada079220) |
 | AIH-15618 | acquisition time | AI Infrastructure | 1962 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0042-6822(62)90134-4) |
 | AIH-12099 | administrative data processing | AI Infrastructure | 1962 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf02024780) |
@@ -245,7 +271,15 @@ Unstarred source years are not verified first usages; ★ inferred; ★★ specu
 | AIH-13725 | tooth profile | Machine Learning | 1962 | Dated publication (not proven term origin) | [Source](https://doi.org/10.13031/2013.40978) |
 | AIH-18386 | transition probability matrix | Mathematics | 1962 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1137/1107027) |
 | AIH-12866 | university libraries | AI Infrastructure | 1962 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5860/crl_23_06_509) |
+| AIH-18779 | array antenna | Speech & Audio | 1962 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18236 | call blocking probabilities | Mathematics | 1962 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18237 | call blocking probability | Mathematics | 1962 ★★ | Speculative ★★, no direct evidence | — |
 | AIH-12204 | cognitive radio (cr) | AI Infrastructure | 1962 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18260 | dropping probability | Mathematics | 1962 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-14899 | frequency hopping | Speech & Audio | 1962 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-19726 | guided waves | AI Infrastructure | 1962 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18899 | oscillation frequency | Speech & Audio | 1962 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18157 | pulse amplitude modulation | Machine Learning | 1962 ★★ | Speculative ★★, no direct evidence | — |
 | AIH-15616 | acquisition process | AI Infrastructure | 1963 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/3100935) |
 | AIH-10318 | adaptive detectors | Speech & Audio | 1963 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/sap.1963.267623) |
 | AIH-15628 | aerospace vehicles | AI Infrastructure | 1963 | Dated publication (not proven term origin) | [Source](https://openalex.org/W591750762) |
@@ -322,7 +356,20 @@ Unstarred source years are not verified first usages; ★ inferred; ★★ specu
 | AIH-16993 | trilateration | AI Infrastructure | 1963 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4095/g351326) |
 | AIH-11673 | ultrasonic signals | Speech & Audio | 1963 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1098/rspb.1963.0042) |
 | AIH-17800 | vibration data | Computer Vision | 1963 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/4147707) |
+| AIH-18862 | dipole antenna | Speech & Audio | 1963 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-14676 | flicker noise | Speech & Audio | 1963 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-14910 | frequency multiplier | Speech & Audio | 1963 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-15082 | linear arrays | Speech & Audio | 1963 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18996 | measurement noise | Speech & Audio | 1963 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18393 | multiplier | Speech & Audio | 1963 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-15063 | noise reduction methods | Speech & Audio | 1963 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18871 | noise shaping | Speech & Audio | 1963 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-19045 | noise subspace | Speech & Audio | 1963 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-20020 | oceanic current | AI Infrastructure | 1963 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18684 | position controller | Robotics | 1963 ★★ | Speculative ★★, no direct evidence | — |
 | AIH-09953 | Spectral Method | Mathematics | 1963 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-15155 | spurious signal noise | Speech & Audio | 1963 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-19195 | uniform linear arrays | Speech & Audio | 1963 ★★ | Speculative ★★, no direct evidence | — |
 | AIH-00352 | Aggregation | Data Science | 1964 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/9781400876662-002) |
 | AIH-14043 | best approximations | Mathematics | 1964 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s1385-7258(64)50018-9) |
 | AIH-13832 | binocular rivalry | Machine Learning | 1964 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e572342012-200) |
@@ -387,8 +434,15 @@ Unstarred source years are not verified first usages; ★ inferred; ★★ specu
 | AIH-10024 | Trajectory Optimization | AI Foundations | 1964 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-1-4831-9812-5.50007-2) |
 | AIH-08438 | Vocabulary Expansion | NLP and LLMs | 1964 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.2044-8279.1964.tb00643.x) |
 | AIH-17079 | wide bands | AI Infrastructure | 1964 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1039/tf9646000729) |
+| AIH-17373 | binocular | Computer Vision | 1964 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-14723 | control system stability | Robotics | 1964 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-15026 | line spectral frequencies | Speech & Audio | 1964 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-17297 | pseudo-random numbers | AI Safety | 1964 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-17300 | random number generator | AI Safety | 1964 ★★ | Speculative ★★, no direct evidence | — |
 | AIH-09957 | Spectral Normalization | Mathematics | 1964 ★★ | Speculative ★★, no direct evidence | — |
 | AIH-04996 | Systematic Generalization | Evaluation & Metrics | 1964 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-14852 | three term control systems | Robotics | 1964 ★★ | Speculative ★★, no direct evidence | — |
+| AIH-18210 | vision, binocular | Machine Learning | 1964 ★★ | Speculative ★★, no direct evidence | — |
 | AIH-13636 | accelerometer data | Machine Learning | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2514/6.1965-438) |
 | AIH-12089 | accelerometers | AI Infrastructure | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ad0627710) |
 | AIH-11581 | acoustics | Speech & Audio | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-1-4832-2858-7.50001-6) |
@@ -454,57 +508,3 @@ Unstarred source years are not verified first usages; ★ inferred; ★★ specu
 | AIH-15079 | postfilters | Speech & Audio | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/proc.1965.3937) |
 | AIH-12495 | power supplies | AI Infrastructure | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/4604503) |
 | AIH-09620 | Prior Distribution | AI Foundations | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1214/aoms/1177699988) |
-| AIH-14364 | pushdown automata | NLP and LLMs | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ad0638194) |
-| AIH-19082 | radar signals | Speech & Audio | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ad0617711) |
-| AIH-09692 | Random Variable | AI Foundations | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-08-010421-8.50010-2) |
-| AIH-19105 | reflectance measurements | Speech & Audio | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2514/6.1965-672) |
-| AIH-15944 | reflector antenna | AI Infrastructure | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ad0623074) |
-| AIH-09829 | Sampling With Replacement | Mathematics | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf02614181) |
-| AIH-14838 | servo-valve | Robotics | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4271/650334) |
-| AIH-09852 | Shutdown Problem | AI Foundations | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.13182/nse65-a20634) |
-| AIH-19126 | sidelobe levels | Speech & Audio | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ad0623072) |
-| AIH-09913 | Skew-Symmetric Matrix | Mathematics | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1307/mmj/1028999245) |
-| AIH-09896 | Spectral theory | AI Foundations | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/9781400875528-005) |
-| AIH-10177 | speech synthesis | Speech & Audio | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-662-00849-2_6) |
-| AIH-13392 | subtraction technique | Computer Vision | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2214/ajr.95.4.970) |
-| AIH-15159 | target detection | Speech & Audio | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e442712004-001) |
-| AIH-11671 | time domain analysis | Speech & Audio | 1965 | Dated publication (not proven term origin) | [Source](https://openalex.org/W620879451) |
-| AIH-16984 | transmitters | AI Infrastructure | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1038/2051043a0) |
-| AIH-17797 | variational approaches | Computer Vision | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1103/physrev.139.a1203) |
-| AIH-13991 | vergences | Machine Learning | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/0065955x.1965.11981482) |
-| AIH-11816 | vibrotactile | AI Applications | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e666632011-175) |
-| AIH-17063 | wavelength shift | AI Infrastructure | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1103/physrevlett.15.91) |
-| AIH-06773 | Weibull Distribution | Mathematics | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada954615) |
-| AIH-12914 | wide bandwidth | AI Infrastructure | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ad0619151) |
-| AIH-06789 | Wiener Process | Mathematics | 1965 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-662-00031-1_9) |
-| AIH-12088 | accelerometer | AI Infrastructure | 1965 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03897 | Noise Suppression | Signal & Information Theory | 1965 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04449 | Pink Noise | Signal & Information Theory | 1965 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12021 | posterior distributions | AI Foundations | 1965 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18740 | acoustic channels | Speech & Audio | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ad0631620) |
-| AIH-19409 | antenna feeds | AI Infrastructure | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ad0628500) |
-| AIH-18792 | audio systems | Speech & Audio | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tau.1966.1161831) |
-| AIH-03547 | Automation | AI Foundations | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2118/1377-ms) |
-| AIH-03583 | Automation Anxiety | AI Foundations | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/hrm.3930050107) |
-| AIH-10642 | bias field | Computer Vision | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tmag.1966.1065856) |
-| AIH-04597 | Chromatic Number | Mathematics | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf02020444) |
-| AIH-19498 | circular polarized | AI Infrastructure | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0031-9163(66)90476-8) |
-| AIH-04793 | Closed Set | Mathematics | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s1385-7258(66)50035-x) |
-| AIH-14914 | comb filter | Speech & Audio | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1063/1.1720141) |
-| AIH-15809 | computer arithmetic | AI Infrastructure | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/c2013-0-05428-x) |
-| AIH-12222 | computer assisted instruction | AI Infrastructure | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/comjnl/9.1.32) |
-| AIH-11115 | context sensitive grammars | Mathematics | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/9783112761175-006) |
-| AIH-01275 | Correlation Receiver | Signal & Information Theory | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/proc.1966.4822) |
-| AIH-00821 | Cyclic Pattern | Time Series & Forecasting | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1038/211512a0) |
-| AIH-19593 | dispersion compensation | AI Infrastructure | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1063/1.1754635) |
-| AIH-07313 | Durbin-Watson Statistic | Mathematics | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/1909870) |
-| AIH-19628 | electromagnetic wave transmission | AI Infrastructure | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ad0489919) |
-| AIH-00011 | ELIZA | NLP and LLMs | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/365153.365168) |
-| AIH-08061 | Embodiment Hypothesis | AI Foundations | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1086/259105) |
-| AIH-14963 | epileptic patients | Speech & Audio | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e430362004-001) |
-| AIH-01315 | Exponential Smoothing | Time Series & Forecasting | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ad0645144) |
-| AIH-11601 | expressive speech | Speech & Audio | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4684-7741-2_16) |
-| AIH-08481 | FDA Clearance | AI Foundations | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1021/cen-v044n045.p009) |
-| AIH-07781 | Fenchel Duality | Mathematics | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1215/s0012-7094-66-03312-6) |
-| AIH-12355 | floating-point arithmetic | AI Infrastructure | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-08-011463-7.50012-7) |
-| AIH-16052 | frequency offsets | AI Infrastructure | 1966 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/freq.1966.199640) |
