@@ -57,7 +57,7 @@ jobs:
           assert report['confidence']=='very_low'
           for before,after in zip(old,new):
               if before['id'] in target:
-                  assert all(after.get(k,'')==before.get(k,'') for k in origfields if k not in ('date_status','display_date'))
+                  assert all(after.get(k,'')==before.get(k,'') for k in origfields if k not in ('date_status','display_date','guessed_first_use_year','guess_method','guess_reason','guess_year_range','guess_reference_ids','guess_reference_urls','guess_confidence'))
                   assert after['date_status']=='guessed_double_star'
                   assert after['display_date']==after['guessed_first_use_year']+' ★★'
                   assert after['guess_year_range'] and after['guess_reason']
