@@ -6,7 +6,7 @@ from collections import Counter
 ROOT=Path(__file__).resolve().parents[1]
 MASTER=ROOT/"data/KEYWORD_INVENTORY.csv"
 REPORT=ROOT/"data/DATE_RESEARCH_013_REPORT.json"
-INDEX=ROOT/"batches/DATE_RESEARCH_013_NEXT_2000.md"
+INDEX=ROOT/"batches/DATE_RESEARCH_013_FINAL_1600.md"
 PAGES=ROOT/"batches/date-research-013"
 STAGING=ROOT/"data/date_staging"
 NEW_FIELDS=["historical_evidence_date","historical_evidence_type","historical_evidence_title",
@@ -89,7 +89,7 @@ def main():
         lines=[
           f"# Date Research 013 — Table {i+1}/4","",
           f"{len(block)} keywords: {block[0]['id']} through {block[-1]['id']}.","",
-          "[Back to index](../DATE_RESEARCH_013_NEXT_2000.md) | [Master database](../../data/KEYWORD_INVENTORY.csv)","",
+          "[Back to index](../DATE_RESEARCH_013_FINAL_1600.md) | [Master database](../../data/KEYWORD_INVENTORY.csv)","",
           "**★ means an estimated year, not the first verified historical use.**","",
           "| ID | Keyword | Category | Date | Classification | Source |",
           "|---|---|---|---|---|---|"]
