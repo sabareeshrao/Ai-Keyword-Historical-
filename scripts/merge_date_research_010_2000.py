@@ -118,7 +118,7 @@ def main():
             "[Research report](../data/DATE_RESEARCH_010_REPORT.json) | [Master CSV](../data/KEYWORD_INVENTORY.csv)",""]
     INDEX.write_text("\n".join(index)+"\n",encoding="utf-8")
     report={"batch":"DATE_RESEARCH_010","range":["AIH-12501","AIH-14500"],
-            "examined":2000,**dict(tally),
+            "examined":2000,**{k:tally[k] for k in ("documented_source_dates","estimated_star_dates","unresolved")},
             "dated_or_estimated":tally["documented_source_dates"]+tally["estimated_star_dates"],
             "verified_original_first_use":0,"existing_first_12500_unchanged":True,
             "stable_ids_preserved":True,"inventory_total":20100,
