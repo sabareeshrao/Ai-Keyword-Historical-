@@ -329,7 +329,7 @@
 | AIH-19506 | cmp | AI Infrastructure | CSO: computer hardware | — |
 | AIH-19507 | co-doped | AI Infrastructure | CSO: computer networks | [2000](https://doi.org/10.1016/s0925-3467(00)00029-x) (source only) |
 | AIH-15788 | co-operative diversity | AI Infrastructure | CSO: computer networks | — |
-| AIH-19508 | co-operative systems | AI Infrastructure | CSO: computer networks | [1943](https://doi.org/10.1038/151523a0) (source only) |
+| AIH-19508 | co-operative systems | AI Infrastructure | CSO: computer networks | — |
 | AIH-15789 | coarse grained reconfigurable architecture | AI Infrastructure | CSO: computer hardware | — |
 | AIH-19509 | cobit | AI Infrastructure | CSO: cloud computing | — |
 | AIH-15790 | cochannel interference (cci) | AI Infrastructure | CSO: computer networks | — |

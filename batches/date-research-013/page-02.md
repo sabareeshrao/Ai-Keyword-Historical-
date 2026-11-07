@@ -24,7 +24,7 @@
 | AIH-19014 | mobile radio channels | Speech & Audio | — | Unresolved | — |
 | AIH-19015 | mobile radio systems | Speech & Audio | — | Unresolved | — |
 | AIH-19016 | pim | Speech & Audio | — | Unresolved | — |
-| AIH-19017 | power outage | Speech & Audio | 1961 | Dated publication mention | [Source](https://doi.org/10.2172/4813372) |
+| AIH-19017 | power outage | Speech & Audio | — | Cross-domain source withdrawn | — |
 | AIH-19018 | multi-beam | Speech & Audio | — | Unresolved | — |
 | AIH-19019 | multi-cell | Speech & Audio | 2006 | Dated publication mention | [Source](https://doi.org/10.1007/1-4020-4437-2_13) |
 | AIH-19020 | multi-temporal | Speech & Audio | 1998 | Dated publication mention | [Source](https://doi.org/10.4018/jdm.1998010102) |

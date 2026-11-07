@@ -5,14 +5,87 @@
     "AIH-20100"
   ],
   "examined": 1600,
-  "documented_source_dates": 1069,
+  "documented_source_dates": 1067,
   "estimated_star_dates": 1,
-  "unresolved": 530,
-  "dated_or_estimated": 1070,
+  "unresolved": 532,
+  "dated_or_estimated": 1068,
   "verified_original_first_use": 0,
   "existing_first_18500_unchanged": true,
   "stable_ids_preserved": true,
   "inventory_total": 20100,
   "estimated_display_rule": "★ immediately after year; low-confidence supporting source and reasoning mandatory.",
-  "note": "Neither linked publication dates nor estimated years prove historical first use."
+  "note": "Neither linked publication dates nor estimated years prove historical first use.",
+  "manually_corrected_early_sources": 5,
+  "withdrawn_unrelated_sources": 2,
+  "audited_source_corrections": [
+    {
+      "id": "AIH-18510",
+      "term": "sequence diagram",
+      "old": {
+        "year": "1966",
+        "source": "https://doi.org/10.1109/tiga.1966.4180629"
+      },
+      "new_year": "1997",
+      "source": "https://www.omg.org/spec/UML/1.1/About-UML",
+      "explanation": "OMG adopted UML 1.1 in December 1997, documenting UML sequence diagrams. This replaces an unrelated 1966 source; other non-UML sequence-diagram terminology may predate UML."
+    },
+    {
+      "id": "AIH-18511",
+      "term": "sequence diagrams",
+      "old": {
+        "year": "1961",
+        "source": "https://doi.org/10.1177/001872086100300107"
+      },
+      "new_year": "1997",
+      "source": "https://www.omg.org/spec/UML/1.1/About-UML",
+      "explanation": "OMG UML 1.1 was adopted December 1997 and formally describes sequence diagrams. Replaces an unrelated human-factors 1961 title; NOT first-ever use of phrase."
+    },
+    {
+      "id": "AIH-18522",
+      "term": "software product quality",
+      "old": {
+        "year": "1899",
+        "source": "https://doi.org/10.1109/afips.1982.74"
+      },
+      "new_year": "1982",
+      "source": "https://doi.org/10.1109/AFIPS.1982.74",
+      "explanation": "AFIPS National Computer Conference paper (1982), pages 393–398; DOI itself contains 1982. The earlier imported 1899 year is a bibliographic metadata error. This is early technical evidence, not proven first use."
+    },
+    {
+      "id": "AIH-20004",
+      "term": "network codes",
+      "old": {
+        "year": "2008",
+        "source": "https://doi.org/10.1109/isit.2008.4595305"
+      },
+      "new_year": "2000",
+      "source": "https://doi.org/10.1109/18.850663",
+      "explanation": "July 2000 foundational network coding method paper, describing coding at network nodes. This is the method's introduction era; the plural phrase network codes may have earlier meanings."
+    },
+    {
+      "id": "AIH-20100",
+      "term": "perfect secrecy",
+      "old": {
+        "year": "1996",
+        "source": "https://doi.org/10.1007/bf00125078"
+      },
+      "new_year": "1949",
+      "source": "https://doi.org/10.1002/j.1538-7305.1949.tb00928.x",
+      "explanation": "Shannon's October 1949 published perfect-secrecy theory; paper notes a confidential predecessor dated September 1, 1945. This is a foundational publication rather than proof of first expression use."
+    },
+    {
+      "id": "AIH-19508",
+      "term": "co-operative systems",
+      "old_year": "1943",
+      "source_removed": "https://doi.org/10.1038/151523a0",
+      "explanation": "1943 generic co-operative systems paper lacks a specific AI-infrastructure or computing connection."
+    },
+    {
+      "id": "AIH-19017",
+      "term": "power outage",
+      "old_year": "1961",
+      "source_removed": "https://doi.org/10.2172/4813372",
+      "explanation": "1961 power-utility report does not establish the origin of a Speech & Audio technology term."
+    }
+  ]
 }

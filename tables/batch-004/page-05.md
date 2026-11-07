@@ -146,7 +146,7 @@
 | AIH-16573 | perceived video quality | AI Infrastructure | CSO: computer networks | [2007](https://doi.org/10.1117/12.707560) (source only) |
 | AIH-20099 | perfect channel state information | AI Infrastructure | CSO: computer networks | [2003](https://doi.org/10.1109/isit.2003.1228360) (source only) |
 | AIH-16574 | perfect forward secrecy | AI Infrastructure | CSO: computer networks | [2005](https://doi.org/10.1109/lcomm.2005.01004) (source only) |
-| AIH-20100 | perfect secrecy | AI Infrastructure | CSO: computer networks | [1996](https://doi.org/10.1007/bf00125078) (source only) |
+| AIH-20100 | perfect secrecy | AI Infrastructure | CSO: computer networks | [1949](https://doi.org/10.1002/j.1538-7305.1949.tb00928.x) (source only) |
 | AIH-16575 | permanent faults | AI Infrastructure | CSO: computer networks | [1979](https://doi.org/10.1109/tc.1979.1675397) (source only) |
 | AIH-16576 | pervasive computing | AI Infrastructure | CSO: computer networks | [1999](https://doi.org/10.1145/313300.313414) (source only) |
 | AIH-16577 | phase change memory | AI Infrastructure | CSO: computer hardware | [2004](https://doi.org/10.1109/iedm.2003.1269376) (source only) |

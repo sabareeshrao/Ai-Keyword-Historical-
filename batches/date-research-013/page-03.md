@@ -15,7 +15,7 @@
 | AIH-19505 | cmos-mems | AI Infrastructure | 2000 | Dated publication mention | [Source](https://doi.org/10.1016/s0026-2714(00)00110-4) |
 | AIH-19506 | cmp | AI Infrastructure | — | Unresolved | — |
 | AIH-19507 | co-doped | AI Infrastructure | 2000 | Dated publication mention | [Source](https://doi.org/10.1016/s0925-3467(00)00029-x) |
-| AIH-19508 | co-operative systems | AI Infrastructure | 1943 | Dated publication mention | [Source](https://doi.org/10.1038/151523a0) |
+| AIH-19508 | co-operative systems | AI Infrastructure | — | Cross-domain source withdrawn | — |
 | AIH-19509 | cobit | AI Infrastructure | — | Unresolved | — |
 | AIH-19510 | code division multiple access (cdma) systems | AI Infrastructure | 1998 | Dated publication mention | [Source](https://openalex.org/W1607563093) |
 | AIH-19511 | coded packet | AI Infrastructure | 1990 | Dated publication mention | [Source](https://openalex.org/W2298885150) |

@@ -17,8 +17,8 @@
 | AIH-18507 | self-adaptive software | Programming & Software | 1998 | Dated publication mention | [Source](https://doi.org/10.1145/274946.274958) |
 | AIH-18508 | self-adaptive system | Programming & Software | 2008 | Dated publication mention | [Source](https://doi.org/10.1109/soccer.2008.1) |
 | AIH-18509 | self-adaptive systems | Programming & Software | 2006 | Dated publication mention | [Source](https://doi.org/10.1007/11767886_2) |
-| AIH-18510 | sequence diagram | Programming & Software | 1966 | Dated publication mention | [Source](https://doi.org/10.1109/tiga.1966.4180629) |
-| AIH-18511 | sequence diagrams | Programming & Software | 1961 | Dated publication mention | [Source](https://doi.org/10.1177/001872086100300107) |
+| AIH-18510 | sequence diagram | Programming & Software | 1997 | Original/early technical source (first-use unverified) | [Source](https://www.omg.org/spec/UML/1.1/About-UML) |
+| AIH-18511 | sequence diagrams | Programming & Software | 1997 | Original/early technical source (first-use unverified) | [Source](https://www.omg.org/spec/UML/1.1/About-UML) |
 | AIH-18512 | service oriented systems | Programming & Software | 2005 | Dated publication mention | [Source](https://doi.org/10.4018/978-1-59140-426-2.ch009) |
 | AIH-18513 | software architecture analysis | Programming & Software | 1991 | Dated publication mention | [Source](https://doi.org/10.1145/111062.111064) |
 | AIH-18514 | software change | Programming & Software | 1997 | Dated publication mention | [Source](https://doi.org/10.1109/icsm.1997.624252) |
@@ -29,7 +29,7 @@
 | AIH-18519 | software process improvement | Programming & Software | 1991 | Dated publication mention | [Source](https://doi.org/10.1109/52.300031) |
 | AIH-18520 | software process improvements | Programming & Software | 1993 | Dated publication mention | [Source](https://doi.org/10.21236/ada266994) |
 | AIH-18521 | software process models | Programming & Software | 1988 | Dated publication mention | [Source](https://doi.org/10.1145/75110.75130) |
-| AIH-18522 | software product quality | Programming & Software | 1899 | Dated publication mention | [Source](https://doi.org/10.1109/afips.1982.74) |
+| AIH-18522 | software product quality | Programming & Software | 1982 | Original/early technical source (first-use unverified) | [Source](https://doi.org/10.1109/AFIPS.1982.74) |
 | AIH-18523 | software quality assurance | Programming & Software | 1978 | Dated publication mention | [Source](https://doi.org/10.1145/800283.811105) |
 | AIH-18524 | software quality control | Programming & Software | 1985 | Dated publication mention | [Source](https://doi.org/10.1109/tse.1985.232178) |
 | AIH-18525 | software quality criteria | Programming & Software | 1999 | Dated publication mention | [Source](https://doi.org/10.1145/384267.305945) |

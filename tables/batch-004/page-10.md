@@ -298,7 +298,7 @@
 | AIH-19074 | power control problem | Speech & Audio | CSO: signal processing | — |
 | AIH-19075 | power control schemes | Speech & Audio | CSO: signal processing | [2003](https://doi.org/10.1049/cp:20030282) (source only) |
 | AIH-19076 | power controlled | Speech & Audio | CSO: signal processing | [2010](https://doi.org/10.1109/speedam.2010.5544773) (source only) |
-| AIH-19017 | power outage | Speech & Audio | CSO: signal processing | [1961](https://doi.org/10.2172/4813372) (source only) |
+| AIH-19017 | power outage | Speech & Audio | CSO: signal processing | — |
 | AIH-19077 | pre-coding | Speech & Audio | CSO: signal processing | [2007](https://doi.org/10.1109/wcnc.2007.226) (source only) |
 | AIH-19032 | precoder design | Speech & Audio | CSO: signal processing | [2005](https://doi.org/10.1109/icc.2005.1494460) (source only) |
 | AIH-19065 | precoding matrix | Speech & Audio | CSO: signal processing | [2006](https://doi.org/10.1109/wcnc.2006.1696476) (source only) |

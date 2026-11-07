@@ -432,7 +432,7 @@
 | AIH-20002 | network analyzer | AI Infrastructure | CSO: computer networks | — |
 | AIH-20003 | network anomalies | AI Infrastructure | CSO: computer networks | [2014](https://doi.org/10.15622/sp.5.15) (source only) |
 | AIH-16452 | network anomaly detection | AI Infrastructure | CSO: computer networks | [2010](https://doi.org/10.7763/ijcee.2010.v2.277) (source only) |
-| AIH-20004 | network codes | AI Infrastructure | CSO: computer networks | [2008](https://doi.org/10.1109/isit.2008.4595305) (source only) |
+| AIH-20004 | network codes | AI Infrastructure | CSO: computer networks | [2000](https://doi.org/10.1109/18.850663) (source only) |
 | AIH-16453 | network coding | AI Infrastructure | CSO: computer networks | — |
 | AIH-16454 | network intrusion | AI Infrastructure | CSO: computer networks | [1994](https://doi.org/10.1109/65.283931) (source only) |
 | AIH-16455 | network latencies | AI Infrastructure | CSO: computer networks | — |

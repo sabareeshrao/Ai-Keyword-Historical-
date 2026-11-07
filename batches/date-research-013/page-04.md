@@ -11,7 +11,7 @@
 | AIH-20001 | network analysis | AI Infrastructure | 1970 | Dated publication mention | [Source](https://doi.org/10.1007/978-1-349-00594-9_14) |
 | AIH-20002 | network analyzer | AI Infrastructure | — | Unresolved | — |
 | AIH-20003 | network anomalies | AI Infrastructure | 2014 | Dated publication mention | [Source](https://doi.org/10.15622/sp.5.15) |
-| AIH-20004 | network codes | AI Infrastructure | 2008 | Dated publication mention | [Source](https://doi.org/10.1109/isit.2008.4595305) |
+| AIH-20004 | network codes | AI Infrastructure | 2000 | Original/early technical source (first-use unverified) | [Source](https://doi.org/10.1109/18.850663) |
 | AIH-20005 | network mobility | AI Infrastructure | 2006 | Dated publication mention | [Source](https://doi.org/10.1201/9781420013610-20) |
 | AIH-20006 | network selection | AI Infrastructure | — | Unresolved | — |
 | AIH-20007 | network strategy | AI Infrastructure | 2004 | Dated publication mention | [Source](https://doi.org/10.1109/netwks.2004.240673) |
@@ -107,7 +107,7 @@
 | AIH-20097 | peak-to-average power ratio (papr) | AI Infrastructure | 2002 | Dated publication mention | [Source](https://doi.org/10.1109/inmic.2002.1310167) |
 | AIH-20098 | peak-to-average power ratios | AI Infrastructure | 2000 | Dated publication mention | [Source](https://doi.org/10.1109/18.868473) |
 | AIH-20099 | perfect channel state information | AI Infrastructure | 2003 | Dated publication mention | [Source](https://doi.org/10.1109/isit.2003.1228360) |
-| AIH-20100 | perfect secrecy | AI Infrastructure | 1996 | Dated publication mention | [Source](https://doi.org/10.1007/bf00125078) |
+| AIH-20100 | perfect secrecy | AI Infrastructure | 1949 | Original/early technical source (first-use unverified) | [Source](https://doi.org/10.1002/j.1538-7305.1949.tb00928.x) |
 
 **Date caveat:** Dated sources establish documented use, not origin. Estimations are from related papers and are flagged ★.
 

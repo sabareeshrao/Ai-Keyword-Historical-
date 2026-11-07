@@ -188,8 +188,8 @@
 | AIH-18507 | self-adaptive software | Programming & Software | CSO: software engineering | [1998](https://doi.org/10.1145/274946.274958) (source only) |
 | AIH-18508 | self-adaptive system | Programming & Software | CSO: software architecture | [2008](https://doi.org/10.1109/soccer.2008.1) (source only) |
 | AIH-18509 | self-adaptive systems | Programming & Software | CSO: software architecture | [2006](https://doi.org/10.1007/11767886_2) (source only) |
-| AIH-18510 | sequence diagram | Programming & Software | CSO: software engineering | [1966](https://doi.org/10.1109/tiga.1966.4180629) (source only) |
-| AIH-18511 | sequence diagrams | Programming & Software | CSO: software engineering | [1961](https://doi.org/10.1177/001872086100300107) (source only) |
+| AIH-18510 | sequence diagram | Programming & Software | CSO: software engineering | [1997](https://www.omg.org/spec/UML/1.1/About-UML) (source only) |
+| AIH-18511 | sequence diagrams | Programming & Software | CSO: software engineering | [1997](https://www.omg.org/spec/UML/1.1/About-UML) (source only) |
 | AIH-18512 | service oriented systems | Programming & Software | CSO: software architecture | [2005](https://doi.org/10.4018/978-1-59140-426-2.ch009) (source only) |
 | AIH-18513 | software architecture analysis | Programming & Software | CSO: software architecture | [1991](https://doi.org/10.1145/111062.111064) (source only) |
 | AIH-18514 | software change | Programming & Software | CSO: software engineering | [1997](https://doi.org/10.1109/icsm.1997.624252) (source only) |
@@ -200,7 +200,7 @@
 | AIH-18519 | software process improvement | Programming & Software | CSO: software engineering | [1991](https://doi.org/10.1109/52.300031) (source only) |
 | AIH-18520 | software process improvements | Programming & Software | CSO: software engineering | [1993](https://doi.org/10.21236/ada266994) (source only) |
 | AIH-18521 | software process models | Programming & Software | CSO: software engineering | [1988](https://doi.org/10.1145/75110.75130) (source only) |
-| AIH-18522 | software product quality | Programming & Software | CSO: software engineering | [1899](https://doi.org/10.1109/afips.1982.74) (source only) |
+| AIH-18522 | software product quality | Programming & Software | CSO: software engineering | [1982](https://doi.org/10.1109/AFIPS.1982.74) (source only) |
 | AIH-18523 | software quality assurance | Programming & Software | CSO: software engineering | [1978](https://doi.org/10.1145/800283.811105) (source only) |
 | AIH-18524 | software quality control | Programming & Software | CSO: software engineering | [1985](https://doi.org/10.1109/tse.1985.232178) (source only) |
 | AIH-18525 | software quality criteria | Programming & Software | CSO: software engineering | [1999](https://doi.org/10.1145/384267.305945) (source only) |
