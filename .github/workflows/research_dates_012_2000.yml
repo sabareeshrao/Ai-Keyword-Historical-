@@ -1,0 +1,112 @@
+name: Research 2000 historical keyword dates — Batch 012
+
+on:
+  push:
+    paths:
+      - ".github/workflows/research_dates_012_2000.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: ai-historical-dates-012
+  cancel-in-progress: false
+
+jobs:
+  research:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    strategy:
+      fail-fast: false
+      matrix:
+        start: [16501, 17501]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Research 1000 terms using dated Crossref and OpenAlex publications
+        run: python scripts/date_research_012_segment.py --start ${{ matrix.start }}
+      - name: Store complete source lookup results
+        uses: actions/upload-artifact@v4
+        with:
+          name: term-date-012-${{ matrix.start }}
+          path: data/segment_date_012_*.json
+          if-no-files-found: error
+          retention-days: 14
+
+  publish:
+    needs: research
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: term-date-012-*
+          merge-multiple: true
+          path: data/date_staging
+      - name: Merge, verify and publish the 2000 records with safe concurrent-write retry
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/merge_date_research_012_2000.py
+            python scripts/build_keyword_tables.py
+            python scripts/sync_readme.py
+            python - <<'PY'
+          import csv,json
+          from pathlib import Path
+          report=json.loads(Path("data/DATE_RESEARCH_012_REPORT.json").read_text(encoding="utf-8"))
+          assert report["examined"]==2000
+          assert report["inventory_total"]==20100
+          assert sum(report[k] for k in ("documented_source_dates","estimated_star_dates","unresolved"))==2000
+          assert report["existing_first_16500_unchanged"] and report["stable_ids_preserved"]
+          with Path("data/KEYWORD_INVENTORY.csv").open(encoding="utf-8",newline="") as f:
+              rows=list(csv.DictReader(f))
+          assert len(rows)==20100 and len({r["id"] for r in rows})==20100
+          selected=[r for r in rows if 16501<=int(r["id"].split("-")[-1])<=18500]
+          assert len(selected)==2000
+          for r in selected:
+              assert not r.get("first_use_date")
+              if r.get("date_status")=="estimated_star":
+                  assert r["display_date"].endswith(" ★") and r.get("estimated_reason") and r.get("estimated_source_url")
+                  assert not r.get("historical_evidence_date")
+              elif r.get("date_status")=="documented_source_not_first_use":
+                  assert r["historical_evidence_url"] and not r.get("estimated_first_use_year")
+          for i in range(1,5):
+              lines=Path(f"batches/date-research-012/page-{i:02d}.md").read_text(encoding="utf-8").splitlines()
+              assert sum(s.startswith("| AIH-") for s in lines)==500
+          for n in range(5,12):
+              assert Path(f"batches/DATE_RESEARCH_{n:03d}_NEXT_2000.md").exists()
+          assert Path("batches/DATE_RESEARCH_004_RECOVERY_FIRST_1000.md").exists()
+          assert Path("batches/UNDATED_RECOVERY_DOUBLE_STAR.md").exists()
+          assert Path("data/UNDATED_RECOVERY_DOUBLE_STAR_REPORT.json").exists()
+          assert "Date research 012" in Path("README.md").read_text()
+          assert next(r for r in rows if r["id"]=="AIH-02503")["historical_evidence_date"]=="2016"
+          assert next(r for r in rows if r["id"]=="AIH-06007")["historical_evidence_date"]=="2023"
+          print("Verified 2000 rows, four tables, stable IDs, ★ estimates, and preserved ★★ recovery.")
+          PY
+            git add README.md data/KEYWORD_INVENTORY.csv data/DATE_RESEARCH_012_REPORT.json batches/DATE_RESEARCH_012_NEXT_2000.md batches/date-research-012/ tables/
+            if git diff --cached --quiet; then
+              echo "Already committed"
+              exit 0
+            fi
+            git commit -m "Date research 012: source dates and ★ estimates for AIH-16501–18500"
+            if git push origin HEAD:main; then
+              echo "Published Batch 012"
+              exit 0
+            fi
+            sleep 3
+          done
+          echo "Concurrent changes prevented a non-force push"
+          exit 1
