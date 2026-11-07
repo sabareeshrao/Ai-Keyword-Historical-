@@ -42,6 +42,10 @@
 
 **[Date research 009 QA report](data/DATE_RESEARCH_009_REPORT.json)** — source research totals and preserved-ID checks.
 
+**[Date research 010: Next 2,000 keywords (AIH-12501–AIH-14500)](batches/DATE_RESEARCH_010_NEXT_2000.md)** — four complete 500-row tables with sourced dates, estimated years ★, and unresolved terms.
+
+**[Date research 010 QA report](data/DATE_RESEARCH_010_REPORT.json)** — date-source counts, confidence flags, and ID-preservation checks.
+
 ## Browse complete keyword tables
 
 | Inventory set | Added keywords | Full tables | ID range |

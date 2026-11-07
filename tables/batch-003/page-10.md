@@ -218,11 +218,11 @@
 | AIH-14925 | data associations | Speech & Audio | CSO: signal processing | — |
 | AIH-14926 | data detection | Speech & Audio | CSO: signal processing | — |
 | AIH-14927 | data fusion algorithm | Speech & Audio | CSO: signal processing | — |
-| AIH-13493 | deblocking | Speech & Audio | CSO: signal processing | — |
-| AIH-13494 | decoding complexity | Speech & Audio | CSO: signal processing | — |
+| AIH-13493 | deblocking | Speech & Audio | CSO: signal processing | [1961](https://doi.org/10.1524/stuf.1961.14.14.337) (source only) |
+| AIH-13494 | decoding complexity | Speech & Audio | CSO: signal processing | [1973](https://doi.org/10.1007/978-1-4757-0079-4_15) (source only) |
 | AIH-11589 | delay estimation | Speech & Audio | CSO: signal processing | [1976](https://doi.org/10.1007/978-94-009-5361-1_15) (source only) |
-| AIH-13510 | delta sigma modulator | Speech & Audio | CSO: signal processing | — |
-| AIH-13524 | delta-sigma | Speech & Audio | CSO: signal processing | — |
+| AIH-13510 | delta sigma modulator | Speech & Audio | CSO: signal processing | [1993](https://doi.org/10.1109/vlsic.1993.920570) (source only) |
+| AIH-13524 | delta-sigma | Speech & Audio | CSO: signal processing | [2004](https://doi.org/10.1007/b105873) (source only) |
 | AIH-14928 | dempster | Speech & Audio | CSO: signal processing | — |
 | AIH-14929 | detection algorithm | Speech & Audio | CSO: signal processing | — |
 | AIH-14930 | detection algorithms | Speech & Audio | CSO: signal processing | — |
@@ -230,26 +230,26 @@
 | AIH-14932 | detection probabilities | Speech & Audio | CSO: signal processing | — |
 | AIH-14933 | detection probability | Speech & Audio | CSO: signal processing | — |
 | AIH-13546 | dfe | Speech & Audio | CSO: signal processing | — |
-| AIH-13551 | dielectric resonator antennas | Speech & Audio | CSO: signal processing | — |
+| AIH-13551 | dielectric resonator antennas | Speech & Audio | CSO: signal processing | [1993](https://doi.org/10.1049/ip-h-2.1993.0052) (source only) |
 | AIH-14934 | differential power analysis | Speech & Audio | CSO: signal processing | — |
 | AIH-11590 | digital signal processing | Speech & Audio | CSO: signal processing | [1973](https://doi.org/10.1109/proc.1973.9150) (source only) |
 | AIH-14937 | digital signal processors | Speech & Audio | CSO: signal processing | — |
 | AIH-11591 | digital television | Speech & Audio | CSO: signal processing | [1980](https://doi.org/10.5594/m00430) (source only) |
 | AIH-14938 | digital video broadcasting (dvb) | Speech & Audio | CSO: signal processing | — |
-| AIH-13559 | dipole arrays | Speech & Audio | CSO: signal processing | — |
-| AIH-13563 | direct sequence code division multiple access | Speech & Audio | CSO: signal processing | — |
+| AIH-13559 | dipole arrays | Speech & Audio | CSO: signal processing | [1958](https://doi.org/10.1049/jiee-3.1958.0304) (source only) |
+| AIH-13563 | direct sequence code division multiple access | Speech & Audio | CSO: signal processing | [1993](https://doi.org/10.1049/ip-i-2.1993.0058) (source only) |
 | AIH-13572 | direct sequence code division multiple access syst | Speech & Audio | CSO: signal processing | — |
-| AIH-13577 | direct sequence spread spectrum | Speech & Audio | CSO: signal processing | — |
+| AIH-13577 | direct sequence spread spectrum | Speech & Audio | CSO: signal processing | [1982](https://doi.org/10.1109/milcom.1982.4805974) (source only) |
 | AIH-14940 | direction of arrival estimation | Speech & Audio | CSO: signal processing | — |
-| AIH-13587 | discrete elements | Speech & Audio | CSO: signal processing | — |
-| AIH-13593 | distortion measures | Speech & Audio | CSO: signal processing | — |
-| AIH-13595 | distributed antennas | Speech & Audio | CSO: signal processing | — |
-| AIH-13605 | diversity combining | Speech & Audio | CSO: signal processing | — |
+| AIH-13587 | discrete elements | Speech & Audio | CSO: signal processing | [2001](https://doi.org/10.1006/rwvb.2001.0108) (source only) |
+| AIH-13593 | distortion measures | Speech & Audio | CSO: signal processing | [1986](https://doi.org/10.1109/tit.1986.1057167) (source only) |
+| AIH-13595 | distributed antennas | Speech & Audio | CSO: signal processing | [2007](https://doi.org/10.1201/9781420042894-8) (source only) |
+| AIH-13605 | diversity combining | Speech & Audio | CSO: signal processing | [1959](https://doi.org/10.1109/jrproc.1959.287136) (source only) |
 | AIH-14942 | doherty | Speech & Audio | CSO: signal processing | — |
 | AIH-14941 | doherty power amplifier | Speech & Audio | CSO: signal processing | — |
-| AIH-13610 | domestic appliances | Speech & Audio | CSO: signal processing | — |
-| AIH-13616 | doppler frequency shift | Speech & Audio | CSO: signal processing | — |
-| AIH-13994 | ds-cdma | Speech & Audio | CSO: signal processing | — |
+| AIH-13610 | domestic appliances | Speech & Audio | CSO: signal processing | [1913](https://doi.org/10.1136/bmj.2.2754.945) (source only) |
+| AIH-13616 | doppler frequency shift | Speech & Audio | CSO: signal processing | [1961](https://doi.org/10.1126/science.134.3478.564) (source only) |
+| AIH-13994 | ds-cdma | Speech & Audio | CSO: signal processing | [1996](https://doi.org/10.5937/vojtehg9605599m) (source only) |
 | AIH-11592 | dynamic bayesian network | Speech & Audio | CSO: speech recognition | [2006](https://doi.org/10.1109/ijcnn.2006.247336) (source only) |
 | AIH-11593 | dynamic bayesian networks | Speech & Audio | CSO: speech recognition | [1998](https://doi.org/10.1007/bfb0053999) (source only) |
 | AIH-11594 | ecg compression | Speech & Audio | CSO: signal processing | [1973](https://doi.org/10.1016/s0022-0736(73)80013-5) (source only) |
@@ -267,10 +267,10 @@
 | AIH-14952 | electroencephalographic signals | Speech & Audio | CSO: signal processing | — |
 | AIH-14953 | electromagnetic compatibility (emc) | Speech & Audio | CSO: signal processing | — |
 | AIH-14955 | electromagnetic coupling | Speech & Audio | CSO: signal processing | — |
-| AIH-14003 | electromagnetic environments | Speech & Audio | CSO: signal processing | — |
+| AIH-14003 | electromagnetic environments | Speech & Audio | CSO: signal processing | [1975](https://doi.org/10.23919/emc.1975.10797974) (source only) |
 | AIH-14004 | electromagnetic shielding | Speech & Audio | CSO: signal processing | — |
 | AIH-14956 | electromagnetic wave absorption | Speech & Audio | CSO: signal processing | — |
-| AIH-14196 | electromagnetic wave interference | Speech & Audio | CSO: signal processing | — |
+| AIH-14196 | electromagnetic wave interference | Speech & Audio | CSO: signal processing | [2024](https://doi.org/10.1039/d4tc02611j/v1/review2) (source only) |
 | AIH-14957 | emd method | Speech & Audio | CSO: signal processing | — |
 | AIH-14958 | emotion detection | Speech & Audio | CSO: speech recognition | — |
 | AIH-14959 | emotion models | Speech & Audio | CSO: speech recognition | — |
@@ -279,17 +279,17 @@
 | AIH-11599 | empirical mode decomposition | Speech & Audio | CSO: signal processing | [1998](https://doi.org/10.1098/rspa.1998.0193) (source only) |
 | AIH-14961 | end effects | Speech & Audio | CSO: signal processing | — |
 | AIH-14962 | ensemble empirical mode decomposition | Speech & Audio | CSO: signal processing | — |
-| AIH-14255 | entropy rates | Speech & Audio | CSO: signal processing | — |
+| AIH-14255 | entropy rates | Speech & Audio | CSO: signal processing | [1990](https://doi.org/10.1007/978-1-4757-3982-4_7) (source only) |
 | AIH-14963 | epileptic patients | Speech & Audio | CSO: signal processing | — |
 | AIH-11600 | equal error rate | Speech & Audio | CSO: speech recognition | [1995](https://doi.org/10.1016/0167-6393(95)00017-i) (source only) |
-| AIH-14273 | ergodic capacity | Speech & Audio | CSO: signal processing | — |
+| AIH-14273 | ergodic capacity | Speech & Audio | CSO: signal processing | [2001](https://doi.org/10.1109/18.915665) (source only) |
 | AIH-14321 | ergodics | Speech & Audio | CSO: signal processing | — |
 | AIH-11601 | expressive speech | Speech & Audio | CSO: speech synthesis | [1966](https://doi.org/10.1007/978-1-4684-7741-2_16) (source only) |
-| AIH-14350 | extrinsic information | Speech & Audio | CSO: signal processing | — |
+| AIH-14350 | extrinsic information | Speech & Audio | CSO: signal processing | [1996](https://doi.org/10.1007/bf00413866) (source only) |
 | AIH-14964 | face detection algorithm | Speech & Audio | CSO: signal processing | — |
 | AIH-14966 | fading channel | Speech & Audio | CSO: signal processing | — |
 | AIH-14967 | fading channels | Speech & Audio | CSO: signal processing | — |
-| AIH-14382 | fading parameters | Speech & Audio | CSO: signal processing | — |
+| AIH-14382 | fading parameters | Speech & Audio | CSO: signal processing | [1995](https://doi.org/10.1049/el:19951078) (source only) |
 | AIH-14968 | false detections | Speech & Audio | CSO: signal processing | — |
 | AIH-14969 | fast fourier transform algorithm | Speech & Audio | CSO: signal processing | — |
 | AIH-11604 | fast fourier transforms | Speech & Audio | CSO: signal processing | [1980](https://doi.org/10.21236/ada541510) (source only) |

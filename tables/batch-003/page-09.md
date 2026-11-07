@@ -6,63 +6,63 @@
 
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
-| AIH-14456 | development processes | Programming & Software | CSO: software engineering | — |
+| AIH-14456 | development processes | Programming & Software | CSO: software engineering | [1999](https://doi.org/10.5040/9798216188209.ch-001) (source only) |
 | AIH-14457 | devops | Programming & Software | CSO: software architecture | — |
 | AIH-11437 | distributed development | Programming & Software | CSO: software architecture | — |
-| AIH-14458 | dsdm | Programming & Software | CSO: software architecture | — |
-| AIH-14459 | dynamic software architecture | Programming & Software | CSO: software architecture | — |
+| AIH-14458 | dsdm | Programming & Software | CSO: software architecture | [2014](https://doi.org/10.1109/apwccse.2014.7053838) (source only) |
+| AIH-14459 | dynamic software architecture | Programming & Software | CSO: software architecture | [2006](https://doi.org/10.1360/jos171360) (source only) |
 | AIH-14460 | efficiency increasing | Programming & Software | CSO: software architecture | — |
 | AIH-11400 | engineering research | Programming & Software | CSO: software engineering | [1989](https://doi.org/10.1177/014362448901000107) (source only) |
 | AIH-14461 | execution trace | Programming & Software | CSO: software engineering | — |
-| AIH-14462 | execution traces | Programming & Software | CSO: software engineering | — |
+| AIH-14462 | execution traces | Programming & Software | CSO: software engineering | [1992](https://doi.org/10.1145/503746.503747) (source only) |
 | AIH-14463 | extreme programming | Programming & Software | CSO: software architecture | — |
-| AIH-14464 | failure data | Programming & Software | CSO: software engineering | — |
+| AIH-14464 | failure data | Programming & Software | CSO: software engineering | [1991](https://doi.org/10.2172/7022447) (source only) |
 | AIH-11443 | fault localization | Programming & Software | CSO: software engineering | [2011](https://doi.org/10.3724/sp.j.1016.2011.01411) (source only) |
 | AIH-14465 | flexibility increasing | Programming & Software | CSO: software architecture | — |
 | AIH-11402 | formal specifications | Programming & Software | CSO: software engineering | [1978](https://doi.org/10.21236/ada109317) (source only) |
-| AIH-14384 | fortran 90 | Programming & Software | CSO: programming languages | — |
-| AIH-14466 | function point | Programming & Software | CSO: software engineering | — |
-| AIH-14467 | function points | Programming & Software | CSO: software engineering | — |
-| AIH-14468 | functional requirement | Programming & Software | CSO: software engineering | — |
+| AIH-14384 | fortran 90 | Programming & Software | CSO: programming languages | [1990](https://doi.org/10.1145/101363.101365) (source only) |
+| AIH-14466 | function point | Programming & Software | CSO: software engineering | [1989](https://doi.org/10.1016/b978-1-4831-3553-3.50026-8) (source only) |
+| AIH-14467 | function points | Programming & Software | CSO: software engineering | [1995](https://doi.org/10.1109/2.471193) (source only) |
+| AIH-14468 | functional requirement | Programming & Software | CSO: software engineering | [1982](https://doi.org/10.21236/ada114318) (source only) |
 | AIH-14469 | functional requirements | Programming & Software | CSO: software engineering | — |
 | AIH-14470 | functional suitability | Programming & Software | CSO: software architecture | — |
-| AIH-14471 | game development | Programming & Software | CSO: software engineering | — |
+| AIH-14471 | game development | Programming & Software | CSO: software engineering | [2005](https://doi.org/10.1201/9781439865644-17) (source only) |
 | AIH-14472 | generative programming | Programming & Software | CSO: software engineering | — |
 | AIH-14473 | global software development | Programming & Software | CSO: software architecture | — |
-| AIH-14418 | global software engineering | Programming & Software | CSO: software architecture | — |
-| AIH-14474 | goal models | Programming & Software | CSO: software engineering | — |
-| AIH-14475 | goal-oriented requirements engineering | Programming & Software | CSO: software engineering | — |
+| AIH-14418 | global software engineering | Programming & Software | CSO: software architecture | [2006](https://doi.org/10.1109/icgse.2006.261213) (source only) |
+| AIH-14474 | goal models | Programming & Software | CSO: software engineering | [2006](https://doi.org/10.1109/re.2006.37) (source only) |
+| AIH-14475 | goal-oriented requirements engineering | Programming & Software | CSO: software engineering | [2002](https://doi.org/10.1007/978-1-4615-0167-1_4) (source only) |
 | AIH-14476 | heuristic evaluation | Programming & Software | CSO: software engineering | — |
 | AIH-14477 | high-quality software | Programming & Software | CSO: software architecture | — |
-| AIH-14479 | implementation concerns | Programming & Software | CSO: software architecture | — |
-| AIH-14480 | incremental development | Programming & Software | CSO: software architecture | — |
-| AIH-14425 | infinite state systems | Programming & Software | CSO: software architecture | — |
-| AIH-14481 | inter-procedural | Programming & Software | CSO: software engineering | — |
+| AIH-14479 | implementation concerns | Programming & Software | CSO: software architecture | [1994](https://doi.org/10.1007/978-1-4757-2246-8_15) (source only) |
+| AIH-14480 | incremental development | Programming & Software | CSO: software architecture | [1973](https://doi.org/10.7249/p5050) (source only) |
+| AIH-14425 | infinite state systems | Programming & Software | CSO: software architecture | [2001](https://doi.org/10.1007/3-540-48224-5_3) (source only) |
+| AIH-14481 | inter-procedural | Programming & Software | CSO: software engineering | [1981](https://doi.org/10.1145/567532.567556) (source only) |
 | AIH-14482 | internet of thing (iot) | Programming & Software | CSO: software architecture | — |
 | AIH-14484 | internet of things | Programming & Software | CSO: software architecture | — |
 | AIH-14451 | iso/iec 9126-i | Programming & Software | CSO: software engineering | — |
-| AIH-14486 | join point | Programming & Software | CSO: software architecture | — |
-| AIH-14452 | laser heating | Programming & Software | CSO: software architecture | — |
+| AIH-14486 | join point | Programming & Software | CSO: software architecture | [1989](https://doi.org/10.1007/978-3-662-02571-0_7) (source only) |
+| AIH-14452 | laser heating | Programming & Software | CSO: software architecture | [1983](https://doi.org/10.1007/978-1-4684-4322-6_3) (source only) |
 | AIH-14488 | layered | Programming & Software | CSO: software architecture | — |
-| AIH-14478 | layered manufacturing | Programming & Software | CSO: software architecture | — |
+| AIH-14478 | layered manufacturing | Programming & Software | CSO: software architecture | [1994](https://doi.org/10.1115/imece1994-1109) (source only) |
 | AIH-14487 | layered pattern | Programming & Software | CSO: software architecture | — |
 | AIH-14483 | liveness properties | Programming & Software | CSO: software architecture | — |
-| AIH-14485 | ltl model-checking | Programming & Software | CSO: software architecture | — |
-| AIH-14490 | maintenance activity | Programming & Software | CSO: software engineering | — |
+| AIH-14485 | ltl model-checking | Programming & Software | CSO: software architecture | [1993](https://doi.org/10.21236/ada277568) (source only) |
+| AIH-14490 | maintenance activity | Programming & Software | CSO: software engineering | [1944](https://doi.org/10.4271/440182) (source only) |
 | AIH-14491 | maintenance process | Programming & Software | CSO: software engineering | — |
-| AIH-14492 | meta programming | Programming & Software | CSO: software engineering | — |
-| AIH-14493 | micro and nano systems | Programming & Software | CSO: software engineering | — |
-| AIH-14494 | microkernel | Programming & Software | CSO: software architecture | — |
-| AIH-14495 | microservice architecture | Programming & Software | CSO: software architecture | — |
-| AIH-14496 | microservice-based architecture | Programming & Software | CSO: software architecture | — |
-| AIH-14498 | microservices | Programming & Software | CSO: software architecture | — |
-| AIH-14497 | microservices architecture | Programming & Software | CSO: software architecture | — |
-| AIH-14489 | model based testing | Programming & Software | CSO: software architecture | — |
+| AIH-14492 | meta programming | Programming & Software | CSO: software engineering | [1990](https://doi.org/10.3233/aic-1990-3206) (source only) |
+| AIH-14493 | micro and nano systems | Programming & Software | CSO: software engineering | [2011](https://doi.org/10.1115/imece2011-62916) (source only) |
+| AIH-14494 | microkernel | Programming & Software | CSO: software architecture | [1993](https://doi.org/10.1007/978-1-4615-3144-9_5) (source only) |
+| AIH-14495 | microservice architecture | Programming & Software | CSO: software architecture | [2015](https://doi.org/10.1007/978-1-4842-1275-2_3) (source only) |
+| AIH-14496 | microservice-based architecture | Programming & Software | CSO: software architecture | [2015](https://doi.org/10.1109/cnsm.2015.7367395) (source only) |
+| AIH-14498 | microservices | Programming & Software | CSO: software architecture | [2015](https://doi.org/10.1007/978-1-4842-1275-2_7) (source only) |
+| AIH-14497 | microservices architecture | Programming & Software | CSO: software architecture | [2017](https://doi.org/10.18535/ijecs/v6i11.20) (source only) |
+| AIH-14489 | model based testing | Programming & Software | CSO: software architecture | [2005](https://doi.org/10.1007/11498490_27) (source only) |
 | AIH-14525 | model checker | Programming & Software | CSO: software architecture | — |
 | AIH-14533 | model checkers | Programming & Software | CSO: software architecture | — |
-| AIH-14499 | model driven architecture | Programming & Software | CSO: software architecture | — |
+| AIH-14499 | model driven architecture | Programming & Software | CSO: software architecture | [2005](https://doi.org/10.5220/0002545900180028) (source only) |
 | AIH-14501 | model view controller | Programming & Software | CSO: software architecture | — |
-| AIH-14500 | model view controller pattern | Programming & Software | CSO: software architecture | — |
+| AIH-14500 | model view controller pattern | Programming & Software | CSO: software architecture | [2004](https://doi.org/10.1007/978-3-540-39866-0_15) (source only) |
 | AIH-14502 | model-driven architectures | Programming & Software | CSO: software architecture | — |
 | AIH-14503 | modulo scheduling | Programming & Software | CSO: software engineering | — |
 | AIH-14504 | multi-tier | Programming & Software | CSO: software architecture | — |
@@ -397,8 +397,8 @@
 | AIH-14725 | delay-dependent | Robotics | CSO: control systems | — |
 | AIH-11568 | delay-dependent robust stability | Robotics | CSO: control systems | [2001](https://doi.org/10.1049/el:20010632) (source only) |
 | AIH-14726 | design automation conference (dac) | Robotics | CSO: robotics | — |
-| AIH-13535 | dexterous hands | Robotics | CSO: robotics | — |
-| AIH-13541 | dexterous manipulation | Robotics | CSO: robotics | — |
+| AIH-13535 | dexterous hands | Robotics | CSO: robotics | [1986](https://doi.org/10.1109/robot.1986.1087491) (source only) |
+| AIH-13541 | dexterous manipulation | Robotics | CSO: robotics | [1990](https://doi.org/10.1177/027836499000900302) (source only) |
 | AIH-14727 | distributed delay | Robotics | CSO: control systems | — |
 | AIH-14728 | distributed delays | Robotics | CSO: control systems | — |
 | AIH-14729 | disturbance observer | Robotics | CSO: motion planning | — |
@@ -406,8 +406,8 @@
 | AIH-11521 | dynamic environments | Robotics | CSO: motion planning | [2002](https://doi.org/10.1007/978-1-4615-0911-0_2) (source only) |
 | AIH-14730 | dynamic inversion | Robotics | CSO: control systems | — |
 | AIH-13997 | electric frequency control | Robotics | CSO: control systems | — |
-| AIH-14195 | electromagnetic torques | Robotics | CSO: motion planning | — |
-| AIH-14271 | equivalent control | Robotics | CSO: robotics | — |
+| AIH-14195 | electromagnetic torques | Robotics | CSO: motion planning | [1963](https://doi.org/10.2514/3.1704) (source only) |
+| AIH-14271 | equivalent control | Robotics | CSO: robotics | [1991](https://doi.org/10.23919/acc.1991.4791697) (source only) |
 | AIH-14731 | exponential stability | Robotics | CSO: control systems | — |
 | AIH-14369 | facts devices | Robotics | CSO: control systems | — |
 | AIH-11522 | fault tolerant control | Robotics | CSO: control systems | [2003](https://doi.org/10.1007/978-3-662-05344-7_1) (source only) |
