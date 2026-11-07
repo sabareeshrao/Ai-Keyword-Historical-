@@ -64,6 +64,12 @@
 
 **[Final Batch 013 audit report](data/DATE_RESEARCH_013_REPORT.json)** — new sourced attestations, ★ estimates, unresolved findings, and ID checks.
 
+## Chronologically sorted full inventory
+
+**[Browse all 20,100 keywords sorted by available historical year](chronology/README.md)** — 41 full tables, oldest to newest. Every ID retained. Unstarred publication dates are not proven origins; ★ is an estimate; ★★ is speculative.
+
+**[Final evidence-grade and coverage report](data/FINAL_COVERAGE_20100_REPORT.json)** — actual source-dated, estimated, guessed and unresolved counts.
+
 ## Browse complete keyword tables
 
 | Inventory set | Added keywords | Full tables | ID range |
