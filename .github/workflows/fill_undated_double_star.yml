@@ -57,7 +57,7 @@ jobs:
           oldcols=set(old[0].keys())
           selected={r['id'] for r in targets}
           for before,after in zip(old,new):
-              assert all(after.get(k,'')==before.get(k,'') for k in oldcols), 'Existing column overwritten: '+before['id']
+              assert all(after.get(k,'')==before.get(k,'') for k in oldcols if before['id'] not in selected or k not in ('date_status','display_date')), 'Original evidence column overwritten: '+before['id']
               if before['id'] in selected:
                   assert after['date_status']=='guessed_double_star'
                   assert after['display_date']==after['guessed_first_use_year']+' ★★'
@@ -70,7 +70,7 @@ jobs:
           assert count==len(targets)
           assert len(pages)==0 or all(sum(line.startswith('| AIH-') for line in p.read_text().splitlines())==500 for p in pages[:-1])
           assert 'UNDATED_RECOVERY_DOUBLE_STAR.md' in Path('README.md').read_text()
-          assert '★★' in Path('tables/README.md').read_text()
+          assert sum(p.read_text().count('★★') for p in Path('tables').glob('batch-*/page-*.md'))>=len(targets)
           print('PASS: '+str(len(targets))+' low-confidence ★★ guesses, preserved all earlier dates and IDs.')
           PY
             git add README.md data/KEYWORD_INVENTORY.csv data/UNDATED_RECOVERY_DOUBLE_STAR_REPORT.json batches/UNDATED_RECOVERY_DOUBLE_STAR.md batches/undated-recovery-double-star/ tables/
