@@ -1,0 +1,81 @@
+name: Audit the final 1600 keyword date sources
+
+on:
+  push:
+    paths:
+      - ".github/workflows/audit_dates_013_sources.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: keyword-history-final-audit-013
+  cancel-in-progress: false
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Apply five source corrections and withdraw two cross-domain citations
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/audit_dates_013_primary_sources.py
+            python scripts/build_keyword_tables.py
+            python scripts/sync_readme.py
+            python - <<'PY'
+          import csv,json
+          from pathlib import Path
+          report=json.loads(Path("data/DATE_RESEARCH_013_REPORT.json").read_text())
+          assert report["examined"]==1600 and report["inventory_total"]==20100
+          assert report["manually_corrected_early_sources"]==5
+          assert report["withdrawn_unrelated_sources"]==2
+          assert sum(report[k] for k in ("documented_source_dates","estimated_star_dates","unresolved"))==1600
+          with Path("data/KEYWORD_INVENTORY.csv").open(encoding="utf-8",newline="") as f:
+              rows=list(csv.DictReader(f))
+          assert len(rows)==20100 and len({r["id"] for r in rows})==20100
+          assert {r["id"] for r in rows}=={f"AIH-{i:05d}" for i in range(1,20101)}
+          byid={r["id"]:r for r in rows}
+          correct={"AIH-18510":"1997","AIH-18511":"1997","AIH-18522":"1982",
+                   "AIH-20004":"2000","AIH-20100":"1949"}
+          for uid,year in correct.items():
+              r=byid[uid]
+              assert r["historical_evidence_date"]==year
+              assert r["historical_evidence_url"].startswith("https://")
+              assert r["date_status"]=="documented_source_not_first_use"
+              assert not r.get("first_use_date")
+          for uid in ("AIH-19017","AIH-19508"):
+              assert byid[uid]["date_status"]=="unresolved"
+              assert not byid[uid].get("historical_evidence_date")
+          for i,expected in enumerate((500,500,500,100),1):
+              p=Path(f"batches/date-research-013/page-{i:02d}.md")
+              assert sum(x.startswith("| AIH-") for x in p.read_text().splitlines())==expected
+          assert Path("batches/UNDATED_RECOVERY_DOUBLE_STAR.md").exists()
+          assert Path("batches/DATE_RESEARCH_013_FINAL_1600.md").exists()
+          assert "Final date research 013" in Path("README.md").read_text()
+          print("Complete 20,100-ID inventory searched and final 1,600 source audit passed.")
+          PY
+            git add README.md data/KEYWORD_INVENTORY.csv data/DATE_RESEARCH_013_REPORT.json batches/DATE_RESEARCH_013_FINAL_1600.md batches/date-research-013/ tables/
+            if git diff --cached --quiet; then
+              echo "Already audited"
+              exit 0
+            fi
+            git commit -m "Audit final 1600: original coding and secrecy dates, reject two unrelated hits"
+            if git push origin HEAD:main; then
+              echo "Final audit published"
+              exit 0
+            fi
+            sleep 2
+          done
+          exit 1
