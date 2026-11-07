@@ -79,7 +79,7 @@
 | AIH-12914 | wide bandwidth | AI Infrastructure | CSO: computer networks | [1965](https://doi.org/10.21236/ad0619151) (source only) |
 | AIH-12916 | wideband | AI Infrastructure | CSO: computer networks | — |
 | AIH-12915 | wideband speech | AI Infrastructure | CSO: computer networks | — |
-| AIH-10556 | wiki | AI Infrastructure | CSO: information systems | — |
+| AIH-10556 | wiki | AI Infrastructure | CSO: information systems | 2005 ★★ (GUESS, no direct evidence) |
 | AIH-12917 | wireless ad hoc network | AI Infrastructure | CSO: computer networks | [2005](https://doi.org/10.1201/9780203323687.ch19) (source only) |
 | AIH-12918 | wireless ad hoc networks | AI Infrastructure | CSO: computer networks | [2002](https://doi.org/10.1201/9781420040401.ch30) (source only) |
 | AIH-12919 | wireless atm | AI Infrastructure | CSO: computer networks | [1996](https://doi.org/10.1109/hfdc.1996.864093) (source only) |
@@ -118,7 +118,7 @@
 | AIH-12954 | xml technology | AI Infrastructure | CSO: database systems | [2004](https://doi.org/10.1524/itit.46.4.211.36079) (source only) |
 | AIH-12955 | xpath | AI Infrastructure | CSO: database systems | — |
 | AIH-12956 | xquery | AI Infrastructure | CSO: database systems | — |
-| AIH-10157 | 3d face reconstruction | AI Safety | CSO: computer security | — |
+| AIH-10157 | 3d face reconstruction | AI Safety | CSO: computer security | 2003 ★★ (GUESS, no direct evidence) |
 | AIH-10563 | access control | AI Safety | CSO: computer security | [1983](https://doi.org/10.1145/357369.357372) (source only) |
 | AIH-12958 | access control mechanism | AI Safety | CSO: computer security | [2000](https://doi.org/10.1007/1-4020-0613-6_118) (source only) |
 | AIH-12959 | access control models | AI Safety | CSO: computer security | [1997](https://doi.org/10.1145/266741.266769) (source only) |
@@ -127,7 +127,7 @@
 | AIH-12962 | access control schemes | AI Safety | CSO: computer security | [1980](https://doi.org/10.21236/ada082393) (source only) |
 | AIH-12963 | access rights | AI Safety | CSO: computer security | [2009](https://doi.org/10.1093/jama/9780195176339.021.74) (source only) |
 | AIH-10583 | algebraic immunity | AI Safety | CSO: computer security | [2004](https://doi.org/10.1007/978-3-540-30556-9_9) (source only) |
-| AIH-10749 | anomalous behavior | AI Safety | CSO: cybersecurity | — |
+| AIH-10749 | anomalous behavior | AI Safety | CSO: cybersecurity | 2004 ★★ (GUESS, no direct evidence) |
 | AIH-10758 | anomaly detection methods | AI Safety | CSO: cybersecurity | [2006](https://doi.org/10.2172/900157) (source only) |
 | AIH-10764 | anomaly detector | AI Safety | CSO: cybersecurity | [1999](https://doi.org/10.1016/s0020-0255(98)10064-6) (source only) |
 | AIH-10564 | anonymity | AI Safety | CSO: privacy | [1981](https://doi.org/10.1080/00224545.1981.9924347) (source only) |
@@ -141,23 +141,23 @@
 | AIH-12972 | bilinear pairing | AI Safety | CSO: privacy | [2005](https://doi.org/10.1360/crad20050823) (source only) |
 | AIH-12973 | bilinear pairings | AI Safety | CSO: privacy | — |
 | AIH-12974 | biometric | AI Safety | CSO: computer security | [2001](https://doi.org/10.1016/s0969-4765(01)00613-0) (source only) |
-| AIH-10832 | biometric features | AI Safety | CSO: computer security | — |
+| AIH-10832 | biometric features | AI Safety | CSO: computer security | 2005 ★★ (GUESS, no direct evidence) |
 | AIH-10834 | biometric recognition | AI Safety | CSO: computer security | [2010](https://doi.org/10.17226/12720) (source only) |
 | AIH-12975 | biometrics | AI Safety | CSO: computer security | [1945](https://doi.org/10.2307/3002013) (source only) |
 | AIH-12976 | block cipher | AI Safety | CSO: computer security | — |
 | AIH-12977 | block ciphers | AI Safety | CSO: computer security | — |
-| AIH-11316 | chaotic circuits | AI Safety | CSO: cybersecurity | — |
+| AIH-11316 | chaotic circuits | AI Safety | CSO: cybersecurity | 1993 ★★ (GUESS, no direct evidence) |
 | AIH-12978 | chaotic system | AI Safety | CSO: cybersecurity | [1999](https://doi.org/10.1037/e629292011-001) (source only) |
 | AIH-12979 | chaotic systems | AI Safety | CSO: cybersecurity | [1993](https://doi.org/10.1017/cbo9780511524585.004) (source only) |
-| AIH-11350 | chen system | AI Safety | CSO: cybersecurity | — |
+| AIH-11350 | chen system | AI Safety | CSO: cybersecurity | 2010 ★★ (GUESS, no direct evidence) |
 | AIH-11873 | collision resistance | AI Safety | CSO: cybersecurity | [1981](https://doi.org/10.4043/4135-ms) (source only) |
 | AIH-12980 | computer crime | AI Safety | CSO: computer security | [1978](https://doi.org/10.4135/cqresrre1978010600) (source only) |
 | AIH-12981 | computer forensics | AI Safety | CSO: cybersecurity | — |
 | AIH-10565 | computer privacy | AI Safety | CSO: privacy | [1899](https://doi.org/10.1109/afips.1975.134) (source only) |
-| AIH-10123 | computer security | AI Safety | CSO: computer security | — |
+| AIH-10123 | computer security | AI Safety | CSO: computer security | 1987 ★★ (GUESS, no direct evidence) |
 | AIH-12982 | computer virus | AI Safety | CSO: cybersecurity | — |
 | AIH-12983 | computer viruses | AI Safety | CSO: cybersecurity | [1988](https://doi.org/10.1109/acsac.1988.113403) (source only) |
-| AIH-11990 | cover-image | AI Safety | CSO: computer security | — |
+| AIH-11990 | cover-image | AI Safety | CSO: computer security | 2014 ★★ (GUESS, no direct evidence) |
 | AIH-11992 | credit card frauds | AI Safety | CSO: computer security | [2002](https://doi.org/10.1023/a:1020940830716) (source only) |
 | AIH-12984 | cryptanalysis | AI Safety | CSO: computer security | — |
 | AIH-10566 | cryptography | AI Safety | CSO: cybersecurity | [1929](https://doi.org/10.1080/00029890.1929.11986963) (source only) |
@@ -240,7 +240,7 @@
 | AIH-13030 | image encryptions | AI Safety | CSO: cybersecurity | [2014](https://doi.org/10.1142/9789814616881_0014) (source only) |
 | AIH-13031 | information flow control | AI Safety | CSO: computer security | [2000](https://doi.org/10.1007/1-4020-0613-6_8931) (source only) |
 | AIH-13032 | information loss | AI Safety | CSO: privacy | — |
-| AIH-10124 | information security | AI Safety | CSO: information security | — |
+| AIH-10124 | information security | AI Safety | CSO: information security | 2001 ★★ (GUESS, no direct evidence) |
 | AIH-13033 | information-theoretic security | AI Safety | CSO: computer security | [2005](https://doi.org/10.1109/itwtpi.2005.1543941) (source only) |
 | AIH-13034 | intranet | AI Safety | CSO: computer security | — |
 | AIH-13035 | intranets | AI Safety | CSO: computer security | [1997](https://doi.org/10.1049/ic:19971022) (source only) |
@@ -266,7 +266,7 @@
 | AIH-13056 | personal data | AI Safety | CSO: privacy | [1977](https://doi.org/10.7249/p6042) (source only) |
 | AIH-10591 | personal information | AI Safety | CSO: privacy | [1996](https://doi.org/10.1007/978-1-349-24869-8_2) (source only) |
 | AIH-13057 | phishing attacks | AI Safety | CSO: cybersecurity | [2006](https://doi.org/10.1002/9780470086100.ch6) (source only) |
-| AIH-10125 | privacy | AI Safety | CSO: privacy | — |
+| AIH-10125 | privacy | AI Safety | CSO: privacy | 2001 ★★ (GUESS, no direct evidence) |
 | AIH-10592 | privacy and security | AI Safety | CSO: privacy | [1972](https://doi.org/10.1145/1479992.1480052) (source only) |
 | AIH-13059 | privacy management | AI Safety | CSO: privacy | — |
 | AIH-10593 | privacy policies | AI Safety | CSO: privacy | [2002](https://doi.org/10.1145/644527.644538) (source only) |
@@ -289,7 +289,7 @@
 | AIH-13075 | security requirements | AI Safety | CSO: computer security | [1976](https://doi.org/10.21236/ada055165) (source only) |
 | AIH-13076 | security systems | AI Safety | CSO: computer security | — |
 | AIH-10599 | sensitive data | AI Safety | CSO: privacy | [2008](https://doi.org/10.1016/b978-1-59749-239-3.x0001-6) (source only) |
-| AIH-10600 | sensitive datas | AI Safety | CSO: privacy | — |
+| AIH-10600 | sensitive datas | AI Safety | CSO: privacy | 2012 ★★ (GUESS, no direct evidence) |
 | AIH-10601 | sensitive informations | AI Safety | CSO: privacy | [2012](https://openalex.org/W3200049281) (source only) |
 | AIH-13077 | servers | AI Safety | CSO: computer security | — |
 | AIH-13078 | shift registers | AI Safety | CSO: cybersecurity | [1970](https://doi.org/10.1109/iedm.1970.188211) (source only) |
@@ -312,13 +312,13 @@
 | AIH-13093 | user location | AI Safety | CSO: privacy | — |
 | AIH-13094 | virus | AI Safety | CSO: cybersecurity | — |
 | AIH-13095 | viruses | AI Safety | CSO: cybersecurity | — |
-| AIH-10139 | 2d video | Computer Vision | CSO: image processing | — |
+| AIH-10139 | 2d video | Computer Vision | CSO: image processing | 2017 ★★ (GUESS, no direct evidence) |
 | AIH-13096 | 3-d reconstruction | Computer Vision | CSO: image processing | — |
-| AIH-10156 | 3-d videos | Computer Vision | CSO: image processing | — |
+| AIH-10156 | 3-d videos | Computer Vision | CSO: image processing | 2017 ★★ (GUESS, no direct evidence) |
 | AIH-13097 | 3d imaging | Computer Vision | CSO: image analysis | [2012](https://doi.org/10.1007/978-1-4471-4063-4_2) (source only) |
 | AIH-10604 | 3d object recognition | Computer Vision | CSO: object recognition | [1988](https://doi.org/10.1016/b978-0-444-87137-4.50016-3) (source only) |
 | AIH-10160 | 3d video | Computer Vision | CSO: image processing | [2008](https://doi.org/10.1109/3dtv.2008.4547813) (source only) |
-| AIH-10161 | 3d video coding | Computer Vision | CSO: image processing | — |
+| AIH-10161 | 3d video coding | Computer Vision | CSO: image processing | 1986 ★★ (GUESS, no direct evidence) |
 | AIH-13098 | ac coefficients | Computer Vision | CSO: image processing | [2003](https://doi.org/10.1049/pbte049e_appendixb) (source only) |
 | AIH-10199 | acoustic streaming | Computer Vision | CSO: image processing | [1969](https://doi.org/10.1016/0041-624x(69)90854-3) (source only) |
 | AIH-13100 | active contour | Computer Vision | CSO: image processing | [1992](https://doi.org/10.1007/978-3-642-77225-2_31) (source only) |
@@ -326,8 +326,8 @@
 | AIH-13101 | active contours | Computer Vision | CSO: image processing | [1988](https://doi.org/10.1007/BF00133570) (source only) |
 | AIH-13102 | adaptive histogram equalization | Computer Vision | CSO: image processing | [1987](https://doi.org/10.1016/s0734-189x(87)80156-1) (source only) |
 | AIH-13103 | adaptive median filter | Computer Vision | CSO: image processing | [2007](https://doi.org/10.1109/chinacom.2007.4469475) (source only) |
-| AIH-10328 | adaptive rate control | Computer Vision | CSO: image processing | — |
-| AIH-10329 | adaptive regularization | Computer Vision | CSO: image processing | — |
+| AIH-10328 | adaptive rate control | Computer Vision | CSO: image processing | 1987 ★★ (GUESS, no direct evidence) |
+| AIH-10329 | adaptive regularization | Computer Vision | CSO: image processing | 2004 ★★ (GUESS, no direct evidence) |
 | AIH-10335 | advanced video coding | Computer Vision | CSO: image processing | [1999](https://doi.org/10.1016/s0928-1479(99)x8001-6) (source only) |
 | AIH-13104 | anatomic landmark | Computer Vision | CSO: image analysis | [1976](https://doi.org/10.1016/0030-4220(76)90182-1) (source only) |
 | AIH-13105 | anatomic landmarks | Computer Vision | CSO: image analysis | [1963](https://doi.org/10.1097/00004397-196303000-00009) (source only) |
@@ -342,7 +342,7 @@
 | AIH-13110 | automatic tracking | Computer Vision | CSO: computer vision | [1956](https://doi.org/10.21236/ada459647) (source only) |
 | AIH-13111 | autonomous driving | Computer Vision | CSO: computer vision | — |
 | AIH-10607 | autonomous vehicles | Computer Vision | CSO: computer vision | [1991](https://doi.org/10.1109/70.75906) (source only) |
-| AIH-10615 | avc | Computer Vision | CSO: image processing | — |
+| AIH-10615 | avc | Computer Vision | CSO: image processing | 1989 ★★ (GUESS, no direct evidence) |
 | AIH-13112 | background clutter | Computer Vision | CSO: object recognition | — |
 | AIH-13113 | background image | Computer Vision | CSO: computer vision | [2000](https://doi.org/10.1007/1-4020-0613-6_1245) (source only) |
 | AIH-13114 | background pixels | Computer Vision | CSO: object recognition | [2014](https://doi.org/10.1109/chicc.2014.6896705) (source only) |
@@ -358,44 +358,44 @@
 | AIH-10609 | biomedical imaging | Computer Vision | CSO: image processing | [1991](https://doi.org/10.1109/sditas.1991.664394) (source only) |
 | AIH-10669 | bistatic radar | Computer Vision | CSO: image processing | [1961](https://doi.org/10.1109/tane3.1961.4201772) (source only) |
 | AIH-10671 | bistatic radars | Computer Vision | CSO: image processing | [1993](https://doi.org/10.1049/pbra004e_ch11) (source only) |
-| AIH-10672 | bistatic sar | Computer Vision | CSO: image processing | — |
+| AIH-10672 | bistatic sar | Computer Vision | CSO: image processing | 1990 ★★ (GUESS, no direct evidence) |
 | AIH-10681 | bit-rate reduction | Computer Vision | CSO: image processing | [1978](https://doi.org/10.1002/j.1538-7305.1978.tb02074.x) (source only) |
-| AIH-10693 | bit-rate savings | Computer Vision | CSO: image processing | — |
+| AIH-10693 | bit-rate savings | Computer Vision | CSO: image processing | 1998 ★★ (GUESS, no direct evidence) |
 | AIH-13121 | blind deconvolution | Computer Vision | CSO: image processing | [1990](https://doi.org/10.21236/ada220853) (source only) |
 | AIH-10870 | block motion estimation | Computer Vision | CSO: image processing | [2005](https://doi.org/10.1109/icip.2005.1529940) (source only) |
 | AIH-10875 | block-based motion estimation | Computer Vision | CSO: image processing | [1997](https://doi.org/10.1049/el:19970941) (source only) |
 | AIH-10876 | blocking artifacts | Computer Vision | CSO: image processing | [1997](https://doi.org/10.1109/30.580384) (source only) |
 | AIH-10610 | bold signal | Computer Vision | CSO: image analysis | [1999](https://doi.org/10.1002/(sici)1522-2594(199911)42:5<919::aid-mrm12>3.0.co;2-8) (source only) |
 | AIH-10611 | brodatz | Computer Vision | CSO: image processing | [2025](https://doi.org/10.1109/incacct65424.2025.11011381) (source only) |
-| AIH-11301 | cabac | Computer Vision | CSO: image processing | — |
+| AIH-11301 | cabac | Computer Vision | CSO: image processing | 1989 ★★ (GUESS, no direct evidence) |
 | AIH-13123 | camshift | Computer Vision | CSO: object recognition | — |
-| AIH-11309 | canny edge detectors | Computer Vision | CSO: image processing | — |
+| AIH-11309 | canny edge detectors | Computer Vision | CSO: image processing | 2004 ★★ (GUESS, no direct evidence) |
 | AIH-13124 | cascade classifiers | Computer Vision | CSO: object recognition | — |
 | AIH-13126 | circle detection | Computer Vision | CSO: image processing | [1990](https://doi.org/10.1016/b978-0-12-206090-8.50018-9) (source only) |
-| AIH-11806 | clutches | Computer Vision | CSO: image processing | — |
+| AIH-11806 | clutches | Computer Vision | CSO: image processing | 1989 ★★ (GUESS, no direct evidence) |
 | AIH-10612 | clutter background | Computer Vision | CSO: object recognition | [1977](https://openalex.org/W2992460408) (source only) |
 | AIH-11853 | code vectors | Computer Vision | CSO: image processing | [1992](https://doi.org/10.1109/iccs.1992.255091) (source only) |
-| AIH-11868 | codebook design | Computer Vision | CSO: image processing | — |
-| AIH-11870 | codebook generation | Computer Vision | CSO: image processing | — |
+| AIH-11868 | codebook design | Computer Vision | CSO: image processing | 1989 ★★ (GUESS, no direct evidence) |
+| AIH-11870 | codebook generation | Computer Vision | CSO: image processing | 1989 ★★ (GUESS, no direct evidence) |
 | AIH-13127 | coding gain | Computer Vision | CSO: image processing | [1986](https://doi.org/10.1109/tcom.1986.1096559) (source only) |
 | AIH-13128 | coding gains | Computer Vision | CSO: image processing | [1998](https://doi.org/10.1007/s11767-998-0010-2) (source only) |
-| AIH-11871 | coding mode | Computer Vision | CSO: image processing | — |
+| AIH-11871 | coding mode | Computer Vision | CSO: image processing | 1999 ★★ (GUESS, no direct evidence) |
 | AIH-13129 | coding scheme | Computer Vision | CSO: image processing | [1970](https://doi.org/10.1037/t28187-000) (source only) |
 | AIH-13130 | coding schemes | Computer Vision | CSO: image processing | — |
 | AIH-11875 | color classification | Computer Vision | CSO: image processing | [1960](https://doi.org/10.1086/108056) (source only) |
 | AIH-13131 | color image processing | Computer Vision | CSO: image processing | — |
 | AIH-13132 | color imaging | Computer Vision | CSO: image processing | — |
 | AIH-11876 | color management | Computer Vision | CSO: image processing | [1997](https://doi.org/10.2352/cic.1997.5.1.art00015) (source only) |
-| AIH-11880 | color pattern | Computer Vision | CSO: image processing | — |
-| AIH-11881 | common signal processing | Computer Vision | CSO: image processing | — |
+| AIH-11880 | color pattern | Computer Vision | CSO: image processing | 1992 ★★ (GUESS, no direct evidence) |
+| AIH-11881 | common signal processing | Computer Vision | CSO: image processing | 1980 ★★ (GUESS, no direct evidence) |
 | AIH-11884 | compression algorithms | Computer Vision | CSO: image processing | [1979](https://doi.org/10.21236/ada209921) (source only) |
 | AIH-11885 | compression efficiency | Computer Vision | CSO: image processing | [1976](https://doi.org/10.2172/7268243) (source only) |
-| AIH-11896 | compression methods | Computer Vision | CSO: image processing | — |
-| AIH-11903 | compression rates | Computer Vision | CSO: image processing | — |
-| AIH-11916 | compression ratio | Computer Vision | CSO: image processing | — |
+| AIH-11896 | compression methods | Computer Vision | CSO: image processing | 1979 ★★ (GUESS, no direct evidence) |
+| AIH-11903 | compression rates | Computer Vision | CSO: image processing | 1979 ★★ (GUESS, no direct evidence) |
+| AIH-11916 | compression ratio | Computer Vision | CSO: image processing | 1979 ★★ (GUESS, no direct evidence) |
 | AIH-11919 | compression ratios | Computer Vision | CSO: image processing | [1931](https://doi.org/10.3998/mpub.12948021) (source only) |
 | AIH-11921 | compression scheme | Computer Vision | CSO: image processing | [1989](https://doi.org/10.1117/12.960461) (source only) |
-| AIH-11933 | compression techniques | Computer Vision | CSO: image processing | — |
+| AIH-11933 | compression techniques | Computer Vision | CSO: image processing | 1979 ★★ (GUESS, no direct evidence) |
 | AIH-13133 | computational photography | Computer Vision | CSO: image processing | [2009](https://doi.org/10.1109/iccp15596.2009) (source only) |
 | AIH-13134 | computer assisted diagnosis | Computer Vision | CSO: image processing | [1983](https://doi.org/10.21236/ada137232) (source only) |
 | AIH-13135 | computer assisted impedance tomography | Computer Vision | CSO: image processing | — |
@@ -411,9 +411,9 @@
 | AIH-13144 | control points | Computer Vision | CSO: image processing | [1946](https://doi.org/10.4095/330870) (source only) |
 | AIH-13145 | copyright protection | Computer Vision | CSO: image processing | — |
 | AIH-13146 | copyright protections | Computer Vision | CSO: image processing | [2013](https://doi.org/10.7776/ask.2013.32.1.064) (source only) |
-| AIH-11949 | corner detector | Computer Vision | CSO: image processing | — |
-| AIH-11953 | corner point | Computer Vision | CSO: image processing | — |
-| AIH-11973 | corona radiata (brain) | Computer Vision | CSO: image processing | — |
+| AIH-11949 | corner detector | Computer Vision | CSO: image processing | 2004 ★★ (GUESS, no direct evidence) |
+| AIH-11953 | corner point | Computer Vision | CSO: image processing | 2007 ★★ (GUESS, no direct evidence) |
+| AIH-11973 | corona radiata (brain) | Computer Vision | CSO: image processing | 1989 ★★ (GUESS, no direct evidence) |
 | AIH-13147 | corrupted images | Computer Vision | CSO: image processing | [1996](https://doi.org/10.1016/0031-3203(96)86888-9) (source only) |
 | AIH-13148 | cosine transforms | Computer Vision | CSO: image processing | [1955](https://doi.org/10.1307/mmj/1031710540) (source only) |
 | AIH-11983 | coupling efficiency | Computer Vision | CSO: image processing | [2000](https://doi.org/10.1007/1-4020-0613-6_3930) (source only) |
@@ -422,7 +422,7 @@
 | AIH-13150 | ct images | Computer Vision | CSO: image processing | [2005](https://doi.org/10.53347/rid-50828) (source only) |
 | AIH-12016 | curvelet coefficients | Computer Vision | CSO: image processing | [2006](https://doi.org/10.1109/icip.2006.312654) (source only) |
 | AIH-13151 | data embedding | Computer Vision | CSO: image processing | [2000](https://doi.org/10.21236/ada375890) (source only) |
-| AIH-12073 | data fusion methods | Computer Vision | CSO: image processing | — |
+| AIH-12073 | data fusion methods | Computer Vision | CSO: image processing | 2006 ★★ (GUESS, no direct evidence) |
 | AIH-13152 | dc coefficient | Computer Vision | CSO: image processing | [1987](https://doi.org/10.1049/el:19870257) (source only) |
 | AIH-12079 | dct coefficients | Computer Vision | CSO: image processing | [1984](https://doi.org/10.1117/12.944892) (source only) |
 | AIH-13118 | dct transform | Computer Vision | CSO: image processing | [2006](https://doi.org/10.1109/elmar.2006.329522) (source only) |
@@ -507,6 +507,6 @@
 | AIH-13413 | full search | Computer Vision | CSO: image processing | — |
 | AIH-13416 | full search algorithm | Computer Vision | CSO: image processing | — |
 
-— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
+— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimate based on a related publication; ★★ is a speculative keyword-era guess based on OTHER terms, with no direct historical evidence. Neither may be presented as fact.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

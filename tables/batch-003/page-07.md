@@ -6,7 +6,7 @@
 
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
-| AIH-11008 | human facial expressions | Machine Learning | CSO: pattern recognition | — |
+| AIH-11008 | human facial expressions | Machine Learning | CSO: pattern recognition | 2004 ★★ (GUESS, no direct evidence) |
 | AIH-13849 | human motion analysis | Machine Learning | CSO: pattern recognition | — |
 | AIH-13850 | human pose | Machine Learning | CSO: pattern recognition | [2010](https://doi.org/10.5244/c.24.12) (source only) |
 | AIH-13851 | identification key | Machine Learning | CSO: classification | [2020](https://doi.org/10.12987/9780300252651-008) (source only) |
@@ -40,18 +40,18 @@
 | AIH-11011 | k-nn algorithm | Machine Learning | CSO: clustering | [1967](https://doi.org/10.1109/TIT.1967.1053964) (source only) |
 | AIH-13870 | k-nn classifier | Machine Learning | CSO: machine learning | [1998](https://doi.org/10.5244/c.12.22) (source only) |
 | AIH-13871 | k-nn query | Machine Learning | CSO: clustering | [2005](https://doi.org/10.1007/11590354_71) (source only) |
-| AIH-11010 | kernel based methods | Machine Learning | CSO: machine learning | — |
+| AIH-11010 | kernel based methods | Machine Learning | CSO: machine learning | 2003 ★★ (GUESS, no direct evidence) |
 | AIH-13926 | kernel learning | Machine Learning | CSO: machine learning | — |
-| AIH-11013 | kernel matrices | Machine Learning | CSO: machine learning | — |
+| AIH-11013 | kernel matrices | Machine Learning | CSO: machine learning | 2003 ★★ (GUESS, no direct evidence) |
 | AIH-13873 | kinect | Machine Learning | CSO: pattern recognition | — |
-| AIH-11012 | knowledge discovery | Machine Learning | CSO: data mining | — |
+| AIH-11012 | knowledge discovery | Machine Learning | CSO: data mining | 2004 ★★ (GUESS, no direct evidence) |
 | AIH-13874 | knowledge discovery in database | Machine Learning | CSO: data mining | [2004](https://doi.org/10.1142/9789812702661_0036) (source only) |
 | AIH-13875 | knowledge discovery in databases | Machine Learning | CSO: data mining | [1994](https://doi.org/10.3233/aic-1994-7108) (source only) |
 | AIH-13876 | knowledge discovery process | Machine Learning | CSO: data mining | [1999](https://doi.org/10.1117/12.339970) (source only) |
 | AIH-13878 | large-scale wireless sensor networks | Machine Learning | CSO: clustering | [2005](https://doi.org/10.1201/9781420038163-46) (source only) |
-| AIH-11014 | learning vector quantization (lvq) | Machine Learning | CSO: pattern recognition | — |
+| AIH-11014 | learning vector quantization (lvq) | Machine Learning | CSO: pattern recognition | 1992 ★★ (GUESS, no direct evidence) |
 | AIH-11015 | leave-one-out | Machine Learning | CSO: machine learning | [2002](https://doi.org/10.2172/793409) (source only) |
-| AIH-11017 | license plate detection | Machine Learning | CSO: pattern recognition | — |
+| AIH-11017 | license plate detection | Machine Learning | CSO: pattern recognition | 2013 ★★ (GUESS, no direct evidence) |
 | AIH-13879 | lifetime maximization | Machine Learning | CSO: clustering | — |
 | AIH-13880 | lighting conditions | Machine Learning | CSO: pattern recognition | — |
 | AIH-13881 | limited energy resource | Machine Learning | CSO: clustering | — |
@@ -69,32 +69,32 @@
 | AIH-13893 | membership degrees | Machine Learning | CSO: clustering | [1998](https://doi.org/10.1080/014311698214271) (source only) |
 | AIH-13894 | memory-efficient fine-tuning | Machine Learning | CSO: machine learning | — |
 | AIH-13895 | microbial diversity | Machine Learning | CSO: classification | [2001](https://doi.org/10.1142/9789812811820_0003) (source only) |
-| AIH-11019 | microbispora | Machine Learning | CSO: classification | — |
+| AIH-11019 | microbispora | Machine Learning | CSO: classification | 2000 ★★ (GUESS, no direct evidence) |
 | AIH-13896 | microsoft sql server | Machine Learning | CSO: data mining | [2006](https://doi.org/10.3139/9783446408043) (source only) |
 | AIH-13897 | minimum support | Machine Learning | CSO: machine learning | — |
 | AIH-11020 | mining algorithms | Machine Learning | CSO: data mining | [2005](https://doi.org/10.4018/978-1-59140-557-3.ch037) (source only) |
 | AIH-11021 | mining association rules | Machine Learning | CSO: data mining | [2007](https://doi.org/10.1109/cidm.2007.368932) (source only) |
 | AIH-13898 | mining associations | Machine Learning | CSO: data mining | [2002](https://doi.org/10.1007/3-540-46502-2_5) (source only) |
 | AIH-13899 | mining frequent itemsets | Machine Learning | CSO: data mining | [2006](https://doi.org/10.1109/icdew.2006.90) (source only) |
-| AIH-11022 | mining process | Machine Learning | CSO: data mining | — |
+| AIH-11022 | mining process | Machine Learning | CSO: data mining | 2003 ★★ (GUESS, no direct evidence) |
 | AIH-13900 | mitogenome | Machine Learning | CSO: classification | [2021](https://doi.org/10.17504/protocols.io.4r3l24zq3g1y/v1) (source only) |
 | AIH-13901 | mlst | Machine Learning | CSO: classification | — |
 | AIH-13902 | mobile sink | Machine Learning | CSO: clustering | [2010](https://doi.org/10.1109/dbta.2010.5659065) (source only) |
 | AIH-13903 | mobile sinks | Machine Learning | CSO: clustering | [2006](https://doi.org/10.1109/wimesh.2006.288635) (source only) |
-| AIH-11023 | motion history images | Machine Learning | CSO: pattern recognition | — |
+| AIH-11023 | motion history images | Machine Learning | CSO: pattern recognition | 1993 ★★ (GUESS, no direct evidence) |
 | AIH-11029 | multi-class classifier | Machine Learning | CSO: machine learning | [1997](https://doi.org/10.1016/s0167-8655(97)00118-9) (source only) |
 | AIH-11034 | multi-class problems | Machine Learning | CSO: machine learning | [1995](https://doi.org/10.1007/978-1-4471-3087-1_43) (source only) |
 | AIH-13904 | multi-dimensional model | Machine Learning | CSO: data mining | [1982](https://doi.org/10.2172/5798687) (source only) |
 | AIH-13905 | multi-hop routing | Machine Learning | CSO: clustering | [2007](https://doi.org/10.1109/afrcon.2007.4401592) (source only) |
 | AIH-11024 | multi-label | Machine Learning | CSO: classification | [2005](https://doi.org/10.21236/ada440081) (source only) |
-| AIH-11025 | multi-objective learning | Machine Learning | CSO: machine learning | — |
+| AIH-11025 | multi-objective learning | Machine Learning | CSO: machine learning | 2006 ★★ (GUESS, no direct evidence) |
 | AIH-13906 | multi-view learning | Machine Learning | CSO: machine learning | [2013](https://doi.org/10.3724/sp.j.1087.2013.01955) (source only) |
 | AIH-11038 | multiclass classification problems | Machine Learning | CSO: machine learning | [2012](https://doi.org/10.7551/mitpress/8291.003.0016) (source only) |
 | AIH-11026 | multiple classifier system | Machine Learning | CSO: pattern recognition | [1996](https://doi.org/10.1007/bf00117809) (source only) |
 | AIH-11027 | multiple classifier systems | Machine Learning | CSO: pattern recognition | [2000](https://doi.org/10.1007/3-540-45014-9) (source only) |
 | AIH-11028 | multiple classifiers | Machine Learning | CSO: pattern recognition | [1998](https://doi.org/10.1049/ic:19980682) (source only) |
 | AIH-13907 | multiple data streams | Machine Learning | CSO: data mining | — |
-| AIH-11048 | multiple kernels | Machine Learning | CSO: machine learning | — |
+| AIH-11048 | multiple kernels | Machine Learning | CSO: machine learning | 2000 ★★ (GUESS, no direct evidence) |
 | AIH-13908 | naive bayes classifier | Machine Learning | CSO: machine learning | [2006](https://doi.org/10.1109/icpr.2006.749) (source only) |
 | AIH-13909 | naive bayes classifiers | Machine Learning | CSO: machine learning | [2001](https://doi.org/10.1007/3-540-44795-4_48) (source only) |
 | AIH-11030 | nearest neighbor | Machine Learning | CSO: clustering | [1980](https://doi.org/10.21236/ada088247) (source only) |
@@ -103,10 +103,10 @@
 | AIH-13913 | negative association rules | Machine Learning | CSO: machine learning | [2004](https://doi.org/10.1007/978-3-540-24768-5_58) (source only) |
 | AIH-11032 | network life-time | Machine Learning | CSO: clustering | [2009](https://doi.org/10.1109/icm2cs.2009.5397945) (source only) |
 | AIH-13914 | neural fine-tuning | Machine Learning | CSO: machine learning | [2003](https://doi.org/10.1016/s0042-6989(03)00041-5) (source only) |
-| AIH-11033 | neural network model | Machine Learning | CSO: machine learning | — |
+| AIH-11033 | neural network model | Machine Learning | CSO: machine learning | 2016 ★★ (GUESS, no direct evidence) |
 | AIH-13915 | neural radiance fields | Machine Learning | CSO: machine learning | [2021](https://doi.org/10.1109/3dv53792.2021.00103) (source only) |
 | AIH-13916 | next-hop | Machine Learning | CSO: clustering | [1997](https://doi.org/10.1038/scientificamerican1097-20) (source only) |
-| AIH-11049 | nitrospirae | Machine Learning | CSO: classification | — |
+| AIH-11049 | nitrospirae | Machine Learning | CSO: classification | 2000 ★★ (GUESS, no direct evidence) |
 | AIH-13917 | nomenclature | Machine Learning | CSO: classification | — |
 | AIH-13918 | non-negative matrix factorization algorithms | Machine Learning | CSO: pattern recognition | — |
 | AIH-13919 | normalized cuts | Machine Learning | CSO: clustering | [2000](https://doi.org/10.1109/34.868688) (source only) |
@@ -115,7 +115,7 @@
 | AIH-13921 | off-line handwritten | Machine Learning | CSO: pattern recognition | — |
 | AIH-13922 | olap | Machine Learning | CSO: data mining | [1998](https://doi.org/10.1007/978-0-387-35300-5_1) (source only) |
 | AIH-13923 | on-line analytical processing | Machine Learning | CSO: data mining | [1995](https://doi.org/10.15358/0935-0381-1995-2-98) (source only) |
-| AIH-11035 | one-shot learning | Machine Learning | CSO: machine learning | — |
+| AIH-11035 | one-shot learning | Machine Learning | CSO: machine learning | 2013 ★★ (GUESS, no direct evidence) |
 | AIH-11053 | online products | Machine Learning | CSO: data mining | [2011](https://doi.org/10.5260/chara.13.1.5) (source only) |
 | AIH-11036 | ood detection | Machine Learning | CSO: machine learning | [2021](https://doi.org/10.1109/ur52253.2021.9494630) (source only) |
 | AIH-11037 | ood generalization | Machine Learning | CSO: machine learning | [2022](https://doi.org/10.52202/068431-0801) (source only) |
@@ -126,17 +126,17 @@
 | AIH-11041 | pattern classification | Machine Learning | CSO: pattern recognition | [1969](https://doi.org/10.21236/ad0694974) (source only) |
 | AIH-13928 | pattern classification problems | Machine Learning | CSO: pattern recognition | [1970](https://doi.org/10.5109/13043) (source only) |
 | AIH-10149 | pattern recognition | Machine Learning | CSO: pattern recognition | [1968](https://doi.org/10.1016/0031-3203(68)90014-9) (source only) |
-| AIH-11042 | pattern recognition systems | Machine Learning | CSO: pattern recognition | — |
-| AIH-11043 | pattern recognition, visual | Machine Learning | CSO: pattern recognition | — |
+| AIH-11042 | pattern recognition systems | Machine Learning | CSO: pattern recognition | 1969 ★★ (GUESS, no direct evidence) |
+| AIH-11043 | pattern recognition, visual | Machine Learning | CSO: pattern recognition | 1969 ★★ (GUESS, no direct evidence) |
 | AIH-13929 | pca method | Machine Learning | CSO: pattern recognition | [1995](https://doi.org/10.1016/0143-7208(94)00039-5) (source only) |
 | AIH-11056 | person-independent | Machine Learning | CSO: pattern recognition | [2007](https://doi.org/10.5220/0002057100760082) (source only) |
-| AIH-11061 | photographic accessories | Machine Learning | CSO: pattern recognition | — |
+| AIH-11061 | photographic accessories | Machine Learning | CSO: pattern recognition | 1992 ★★ (GUESS, no direct evidence) |
 | AIH-11044 | phylogeography | Machine Learning | CSO: classification | [2000](https://doi.org/10.2307/j.ctv1nzfgj7.4) (source only) |
 | AIH-11063 | planctomycetales | Machine Learning | CSO: classification | [1986](https://doi.org/10.1016/0378-1097(86)90421-0) (source only) |
 | AIH-11064 | planetary gears | Machine Learning | CSO: pattern recognition | [1951](https://doi.org/10.4271/510020) (source only) |
 | AIH-13932 | pneumatic cylinders | Machine Learning | CSO: machine learning | [1978](https://doi.org/10.1049/tpe.1978.0012) (source only) |
 | AIH-11069 | pneumatic drives | Machine Learning | CSO: machine learning | [1971](https://doi.org/10.1007/978-1-349-01197-1_8) (source only) |
-| AIH-11045 | positive-unlabeled learning | Machine Learning | CSO: machine learning | — |
+| AIH-11045 | positive-unlabeled learning | Machine Learning | CSO: machine learning | 1994 ★★ (GUESS, no direct evidence) |
 | AIH-13931 | possibilistic c-means | Machine Learning | CSO: clustering | [1996](https://doi.org/10.1109/91.531779) (source only) |
 | AIH-13934 | principal component | Machine Learning | CSO: pattern recognition | [1967](https://doi.org/10.21236/ad0814688) (source only) |
 | AIH-13937 | principal components | Machine Learning | CSO: pattern recognition | [1989](https://doi.org/10.4135/9781412985475) (source only) |
@@ -145,8 +145,8 @@
 | AIH-13939 | principle component analysis | Machine Learning | CSO: pattern recognition | [2002](https://doi.org/10.1057/9780230502109_32) (source only) |
 | AIH-13941 | privacy concerns | Machine Learning | CSO: data mining | [2003](https://doi.org/10.1109/msecp.2003.1193206) (source only) |
 | AIH-13942 | privacy issue | Machine Learning | CSO: data mining | — |
-| AIH-11046 | privacy preservation | Machine Learning | CSO: data mining | — |
-| AIH-11047 | privacy preserving | Machine Learning | CSO: data mining | — |
+| AIH-11046 | privacy preservation | Machine Learning | CSO: data mining | 2008 ★★ (GUESS, no direct evidence) |
+| AIH-11047 | privacy preserving | Machine Learning | CSO: data mining | 2008 ★★ (GUESS, no direct evidence) |
 | AIH-13943 | privacy protection | Machine Learning | CSO: data mining | [2008](https://doi.org/10.1093/acprof:oso/9780195367355.003.0004) (source only) |
 | AIH-13944 | privacy-preserving data mining | Machine Learning | CSO: data mining | [2005](https://doi.org/10.4018/978-1-59140-557-3.ch189) (source only) |
 | AIH-13945 | privacy-preserving protocols | Machine Learning | CSO: data mining | — |
@@ -157,14 +157,14 @@
 | AIH-11071 | product feature | Machine Learning | CSO: data mining | [2009](https://doi.org/10.1109/icdm.2009.101) (source only) |
 | AIH-13950 | proteobacteria | Machine Learning | CSO: classification | [2002](https://doi.org/10.1128/aem.68.7.3190-3197.2002) (source only) |
 | AIH-13951 | quantized llm fine-tuning | Machine Learning | CSO: machine learning | — |
-| AIH-11074 | query images | Machine Learning | CSO: pattern recognition | — |
+| AIH-11074 | query images | Machine Learning | CSO: pattern recognition | 1993 ★★ (GUESS, no direct evidence) |
 | AIH-13952 | query performance | Machine Learning | CSO: data mining | [2009](https://doi.org/10.1007/978-1-4302-1903-3_1) (source only) |
-| AIH-11050 | radial based function | Machine Learning | CSO: classification | — |
+| AIH-11050 | radial based function | Machine Learning | CSO: classification | 1992 ★★ (GUESS, no direct evidence) |
 | AIH-13956 | random projections | Machine Learning | CSO: pattern recognition | — |
 | AIH-13957 | random subspaces | Machine Learning | CSO: machine learning | [1986](https://doi.org/10.1007/bf01077309) (source only) |
-| AIH-11051 | real data sets | Machine Learning | CSO: clustering | — |
-| AIH-11052 | recognition algorithm | Machine Learning | CSO: pattern recognition | — |
-| AIH-11075 | red list | Machine Learning | CSO: classification | — |
+| AIH-11051 | real data sets | Machine Learning | CSO: clustering | 1979 ★★ (GUESS, no direct evidence) |
+| AIH-11052 | recognition algorithm | Machine Learning | CSO: pattern recognition | 1998 ★★ (GUESS, no direct evidence) |
+| AIH-11075 | red list | Machine Learning | CSO: classification | 2009 ★★ (GUESS, no direct evidence) |
 | AIH-13958 | refugium | Machine Learning | CSO: classification | — |
 | AIH-11054 | relational learning | Machine Learning | CSO: data mining | [1991](https://doi.org/10.1016/b978-1-55860-200-7.50044-1) (source only) |
 | AIH-11055 | relieff | Machine Learning | CSO: feature selection | [2024](https://doi.org/10.1109/iciics63763.2024.10860188) (source only) |
@@ -174,17 +174,17 @@
 | AIH-13961 | rgb space | Machine Learning | CSO: pattern recognition | — |
 | AIH-13962 | rhodobacteraceae | Machine Learning | CSO: classification | [2008](https://doi.org/10.1099/ijs.0.65612-0) (source only) |
 | AIH-11078 | rhodococcus equi | Machine Learning | CSO: classification | [1984](https://doi.org/10.1016/0378-1135(84)90079-8) (source only) |
-| AIH-11057 | ribosome dna | Machine Learning | CSO: classification | — |
-| AIH-11058 | rna 16s | Machine Learning | CSO: classification | — |
+| AIH-11057 | ribosome dna | Machine Learning | CSO: classification | 1996 ★★ (GUESS, no direct evidence) |
+| AIH-11058 | rna 16s | Machine Learning | CSO: classification | 2009 ★★ (GUESS, no direct evidence) |
 | AIH-13963 | rna 18s | Machine Learning | CSO: classification | — |
 | AIH-13964 | rna gene | Machine Learning | CSO: classification | [2001](https://doi.org/10.1016/s0378-1097(01)00405-0) (source only) |
 | AIH-11059 | rule induction | Machine Learning | CSO: data mining | [1990](https://doi.org/10.1007/978-94-009-0643-3_82) (source only) |
 | AIH-13966 | rule mining | Machine Learning | CSO: data mining | [2001](https://doi.org/10.1007/978-1-4613-0085-4_5) (source only) |
 | AIH-13965 | rule mining algorithms | Machine Learning | CSO: data mining | — |
 | AIH-11060 | rule-based machine learning | Machine Learning | CSO: machine learning | [2017](https://doi.org/10.1145/3067695.3067719) (source only) |
-| AIH-11081 | scatter matrix | Machine Learning | CSO: pattern recognition | — |
+| AIH-11081 | scatter matrix | Machine Learning | CSO: pattern recognition | 1979 ★★ (GUESS, no direct evidence) |
 | AIH-13967 | secure multi-party computation | Machine Learning | CSO: data mining | [2003](https://doi.org/10.1145/1005140.1005149) (source only) |
-| AIH-11087 | semantic concept | Machine Learning | CSO: pattern recognition | — |
+| AIH-11087 | semantic concept | Machine Learning | CSO: pattern recognition | 1988 ★★ (GUESS, no direct evidence) |
 | AIH-11088 | semantic gap | Machine Learning | CSO: pattern recognition | [1988](https://doi.org/10.1016/0165-6074(88)90146-9) (source only) |
 | AIH-13935 | semantic images | Machine Learning | CSO: pattern recognition | — |
 | AIH-11062 | semi-supervised clustering | Machine Learning | CSO: clustering | [2006](https://doi.org/10.7551/mitpress/6173.003.0008) (source only) |
@@ -193,14 +193,14 @@
 | AIH-13938 | single kernel | Machine Learning | CSO: machine learning | [2006](https://doi.org/10.13031/2013.22241) (source only) |
 | AIH-13971 | single-link clustering | Machine Learning | CSO: clustering | [1982](https://doi.org/10.1016/s0169-7161(82)02015-x) (source only) |
 | AIH-11065 | sketch recognition | Machine Learning | CSO: pattern recognition | [2005](https://doi.org/10.1109/cit.2005.190) (source only) |
-| AIH-11093 | skin-color detection | Machine Learning | CSO: pattern recognition | — |
+| AIH-11093 | skin-color detection | Machine Learning | CSO: pattern recognition | 1993 ★★ (GUESS, no direct evidence) |
 | AIH-13972 | sleep scheduling | Machine Learning | CSO: clustering | [2005](https://doi.org/10.1017/cbo9780511541025.007) (source only) |
 | AIH-13973 | sliding windows | Machine Learning | CSO: data mining | [1984](https://doi.org/10.1080/00036848400000005) (source only) |
 | AIH-13976 | small sample size | Machine Learning | CSO: pattern recognition | — |
 | AIH-13974 | small sample size problem | Machine Learning | CSO: pattern recognition | — |
 | AIH-13975 | small sample size problems | Machine Learning | CSO: pattern recognition | [1991](https://doi.org/10.1016/b978-0-444-88740-5.50008-6) (source only) |
 | AIH-11066 | som algorithms | Machine Learning | CSO: clustering | [2010](https://doi.org/10.1016/j.neucom.2010.03.005) (source only) |
-| AIH-11067 | spatial clustering | Machine Learning | CSO: clustering | — |
+| AIH-11067 | spatial clustering | Machine Learning | CSO: clustering | 1984 ★★ (GUESS, no direct evidence) |
 | AIH-11068 | spatial data mining | Machine Learning | CSO: data mining | [2001](https://doi.org/10.1201/b12382-17) (source only) |
 | AIH-13977 | spatial data warehouse | Machine Learning | CSO: data mining | — |
 | AIH-13978 | spatial datasets | Machine Learning | CSO: data mining | [2009](https://doi.org/10.1201/9781420073980-12) (source only) |
@@ -229,7 +229,7 @@
 | AIH-11073 | syntactic pattern recognition | Machine Learning | CSO: pattern recognition | [1971](https://doi.org/10.1016/0031-3203(71)90026-4) (source only) |
 | AIH-13715 | temporal frequency | Machine Learning | CSO: pattern recognition | [1985](https://doi.org/10.1016/0042-6989(85)90227-5) (source only) |
 | AIH-11076 | test sample | Machine Learning | CSO: machine learning | [2002](https://doi.org/10.1002/047126363x.agr579) (source only) |
-| AIH-11077 | test samples | Machine Learning | CSO: machine learning | — |
+| AIH-11077 | test samples | Machine Learning | CSO: machine learning | 1991 ★★ (GUESS, no direct evidence) |
 | AIH-13996 | text categorization | Machine Learning | CSO: data mining | [1995](https://doi.org/10.1016/b978-1-55860-377-6.50024-4) (source only) |
 | AIH-13998 | text classifiers | Machine Learning | CSO: machine learning | [1994](https://doi.org/10.1007/978-1-4471-2099-5_1) (source only) |
 | AIH-11079 | text clustering | Machine Learning | CSO: clustering | [2004](https://doi.org/10.21236/ada599196) (source only) |
@@ -245,9 +245,9 @@
 | AIH-14005 | traditional clustering | Machine Learning | CSO: machine learning | — |
 | AIH-11082 | training sample | Machine Learning | CSO: machine learning | [2013](https://doi.org/10.1109/icaci.2013.6748524) (source only) |
 | AIH-11083 | training samples | Machine Learning | CSO: machine learning | [1972](https://doi.org/10.1016/b978-0-12-737140-5.50024-5) (source only) |
-| AIH-11084 | training set | Machine Learning | CSO: machine learning | — |
-| AIH-11085 | trajectory clustering | Machine Learning | CSO: clustering | — |
-| AIH-11086 | trajectory data | Machine Learning | CSO: data mining | — |
+| AIH-11084 | training set | Machine Learning | CSO: machine learning | 2002 ★★ (GUESS, no direct evidence) |
+| AIH-11085 | trajectory clustering | Machine Learning | CSO: clustering | 1984 ★★ (GUESS, no direct evidence) |
+| AIH-11086 | trajectory data | Machine Learning | CSO: data mining | 2014 ★★ (GUESS, no direct evidence) |
 | AIH-14006 | transaction database | Machine Learning | CSO: machine learning | — |
 | AIH-14007 | triaxial accelerometer | Machine Learning | CSO: pattern recognition | [1973](https://doi.org/10.1029/rs008i004p00297) (source only) |
 | AIH-14008 | unsupervised learning method | Machine Learning | CSO: machine learning | — |
@@ -261,7 +261,7 @@
 | AIH-14012 | video retrieval | Machine Learning | CSO: pattern recognition | [1997](https://doi.org/10.1117/12.263444) (source only) |
 | AIH-14013 | video shots | Machine Learning | CSO: pattern recognition | [1998](https://doi.org/10.1097/00063110-199803000-00046) (source only) |
 | AIH-13744 | vision disparity | Machine Learning | CSO: pattern recognition | — |
-| AIH-11089 | visual data mining | Machine Learning | CSO: data mining | — |
+| AIH-11089 | visual data mining | Machine Learning | CSO: data mining | 2004 ★★ (GUESS, no direct evidence) |
 | AIH-14014 | visual feature | Machine Learning | CSO: pattern recognition | [1998](https://doi.org/10.1080/713756794) (source only) |
 | AIH-14015 | visual features | Machine Learning | CSO: pattern recognition | [1997](https://doi.org/10.1080/135062897395606) (source only) |
 | AIH-14016 | visual orientation | Machine Learning | CSO: pattern recognition | [1972](https://doi.org/10.1007/978-3-642-65477-0_39) (source only) |
@@ -286,7 +286,7 @@
 | AIH-14028 | adjacent vertices | Mathematics | CSO: graph theory | — |
 | AIH-10739 | algebraic riccati equations | Mathematics | CSO: optimization | [1987](https://doi.org/10.1109/cdc.1987.272505) (source only) |
 | AIH-10151 | applied mathematics | Mathematics | CSO: applied mathematics | [1947](https://doi.org/10.6028/nbs.rpt.1946-1947) (source only) |
-| AIH-11096 | approximation algorithms | Mathematics | CSO: graph theory | — |
+| AIH-11096 | approximation algorithms | Mathematics | CSO: graph theory | 1997 ★★ (GUESS, no direct evidence) |
 | AIH-14029 | approximation bounds | Mathematics | CSO: graph theory | — |
 | AIH-14030 | approximation factor | Mathematics | CSO: graph theory | [2003](https://doi.org/10.1016/s0167-6423(03)00011-x) (source only) |
 | AIH-14032 | approximation ratios | Mathematics | CSO: graph theory | [1997](https://doi.org/10.1016/s0377-2217(96)00271-8) (source only) |
@@ -318,16 +318,16 @@
 | AIH-11094 | call dropping probability | Mathematics | CSO: statistics | [2010](https://doi.org/10.1109/icfn.2010.55) (source only) |
 | AIH-14054 | candidate solution | Mathematics | CSO: statistics | [2014](https://doi.org/10.1007/978-3-319-12643-2_38) (source only) |
 | AIH-11104 | capture-recapture | Mathematics | CSO: statistics | [2005](https://doi.org/10.1002/0470011815.b2a10010) (source only) |
-| AIH-11095 | cell formation | Mathematics | CSO: graph theory | — |
+| AIH-11095 | cell formation | Mathematics | CSO: graph theory | 1985 ★★ (GUESS, no direct evidence) |
 | AIH-14173 | cellular manufacturing systems | Mathematics | CSO: graph theory | [1988](https://doi.org/10.1016/0278-6125(88)90016-7) (source only) |
 | AIH-11105 | centrality measure | Mathematics | CSO: graph theory | [2004](https://doi.org/10.1037/t17374-000) (source only) |
 | AIH-11106 | centrality measures | Mathematics | CSO: graph theory | [2005](https://doi.org/10.21236/ada456108) (source only) |
-| AIH-11107 | centrality metric | Mathematics | CSO: graph theory | — |
+| AIH-11107 | centrality metric | Mathematics | CSO: graph theory | 2005 ★★ (GUESS, no direct evidence) |
 | AIH-14055 | chance-constrained | Mathematics | CSO: stochastic processes | [1965](https://doi.org/10.21236/ad0632107) (source only) |
 | AIH-11108 | coefficient of determination | Mathematics | CSO: statistics | [2004](https://doi.org/10.4135/9780857020123.n80) (source only) |
 | AIH-14056 | colored petri net | Mathematics | CSO: graph theory | — |
 | AIH-14057 | colored petri nets | Mathematics | CSO: graph theory | [1980](https://doi.org/10.1016/0020-0190(80)90032-0) (source only) |
-| AIH-11109 | coloring | Mathematics | CSO: graph theory | — |
+| AIH-11109 | coloring | Mathematics | CSO: graph theory | 1989 ★★ (GUESS, no direct evidence) |
 | AIH-14058 | coloring algorithms | Mathematics | CSO: graph theory | [1984](https://doi.org/10.1016/0196-6774(84)90003-8) (source only) |
 | AIH-14059 | coloring problems | Mathematics | CSO: graph theory | — |
 | AIH-14060 | coloured petri nets | Mathematics | CSO: graph theory | [1987](https://doi.org/10.1007/978-3-540-47919-2_10) (source only) |
@@ -336,9 +336,9 @@
 | AIH-14063 | combinatorial auction | Mathematics | CSO: graph theory | — |
 | AIH-14064 | combinatorial auctions | Mathematics | CSO: graph theory | [2003](https://doi.org/10.2139/ssrn.352260) (source only) |
 | AIH-11110 | combinatorial mathematics | Mathematics | CSO: graph theory | [1963](https://doi.org/10.5948/upo9781614440147.003) (source only) |
-| AIH-11111 | combinatorial optimisation | Mathematics | CSO: optimization | — |
+| AIH-11111 | combinatorial optimisation | Mathematics | CSO: optimization | 1978 ★★ (GUESS, no direct evidence) |
 | AIH-11113 | combinatorial optimization | Mathematics | CSO: optimization | [1984](https://doi.org/10.1016/b978-0-12-566780-7.50016-7) (source only) |
-| AIH-11112 | combinatorial optimization problems | Mathematics | CSO: optimization | — |
+| AIH-11112 | combinatorial optimization problems | Mathematics | CSO: optimization | 1984 ★★ (GUESS, no direct evidence) |
 | AIH-14065 | combinatorial problem | Mathematics | CSO: graph theory | [1971](https://doi.org/10.1016/0097-3165(71)90036-7) (source only) |
 | AIH-14066 | combinatorial problems | Mathematics | CSO: graph theory | [1993](https://doi.org/10.1016/c2009-0-09109-0) (source only) |
 | AIH-14067 | complexity class | Mathematics | CSO: graph theory | — |
@@ -354,20 +354,20 @@
 | AIH-11101 | continuum structures | Mathematics | CSO: statistics | [1984](https://doi.org/10.21236/ada148620) (source only) |
 | AIH-14191 | core nodes | Mathematics | CSO: statistics | — |
 | AIH-11117 | correlation coefficient | Mathematics | CSO: statistics | [1977](https://doi.org/10.1016/0047-259x(77)90033-1) (source only) |
-| AIH-11118 | correlation coefficients | Mathematics | CSO: statistics | — |
+| AIH-11118 | correlation coefficients | Mathematics | CSO: statistics | 1982 ★★ (GUESS, no direct evidence) |
 | AIH-14074 | cost-utility | Mathematics | CSO: statistics | — |
 | AIH-14075 | cpn | Mathematics | CSO: graph theory | [2026](https://doi.org/10.59668/2869.30080) (source only) |
-| AIH-11119 | data flow graph | Mathematics | CSO: graph theory | — |
+| AIH-11119 | data flow graph | Mathematics | CSO: graph theory | 1982 ★★ (GUESS, no direct evidence) |
 | AIH-11120 | data flow graphs | Mathematics | CSO: graph theory | [1983](https://doi.org/10.1007/bf03023506) (source only) |
-| AIH-11121 | data interpretation, statistical | Mathematics | CSO: statistics | — |
+| AIH-11121 | data interpretation, statistical | Mathematics | CSO: statistics | 1984 ★★ (GUESS, no direct evidence) |
 | AIH-14076 | degree centrality | Mathematics | CSO: graph theory | [2009](https://doi.org/10.1109/icbnmt.2009.5348474) (source only) |
 | AIH-11123 | degree distributions | Mathematics | CSO: graph theory | [1993](https://doi.org/10.1021/ci00015a006) (source only) |
 | AIH-14077 | derandomization | Mathematics | CSO: graph theory | [1993](https://doi.org/10.1214/ss/1177011087) (source only) |
 | AIH-11122 | design domains | Mathematics | CSO: statistics | [1991](https://doi.org/10.1016/0142-694x(91)90023-p) (source only) |
-| AIH-11124 | determination coefficients | Mathematics | CSO: statistics | — |
+| AIH-11124 | determination coefficients | Mathematics | CSO: statistics | 1977 ★★ (GUESS, no direct evidence) |
 | AIH-14078 | deterministic | Mathematics | CSO: stochastic processes | [1950](https://doi.org/10.1007/bf02590625) (source only) |
-| AIH-11125 | deterministic model | Mathematics | CSO: stochastic processes | — |
-| AIH-11126 | deterministic models | Mathematics | CSO: stochastic processes | — |
+| AIH-11125 | deterministic model | Mathematics | CSO: stochastic processes | 1984 ★★ (GUESS, no direct evidence) |
+| AIH-11126 | deterministic models | Mathematics | CSO: stochastic processes | 1984 ★★ (GUESS, no direct evidence) |
 | AIH-14079 | diagnosability | Mathematics | CSO: graph theory | — |
 | AIH-14080 | dichotomy theorem | Mathematics | CSO: graph theory | [1971](https://doi.org/10.1007/bf00534903) (source only) |
 | AIH-14081 | digraph | Mathematics | CSO: graph theory | — |
@@ -375,7 +375,7 @@
 | AIH-14083 | dijkstra algorithm | Mathematics | CSO: graph theory | [2008](https://doi.org/10.1109/paciia.2008.376) (source only) |
 | AIH-14084 | dijkstra algorithms | Mathematics | CSO: graph theory | [2013](https://doi.org/10.1109/vtcfall.2013.6692448) (source only) |
 | AIH-14086 | dijkstras algorithms | Mathematics | CSO: graph theory | — |
-| AIH-11129 | directed acyclic graphs | Mathematics | CSO: graph theory | — |
+| AIH-11129 | directed acyclic graphs | Mathematics | CSO: graph theory | 1979 ★★ (GUESS, no direct evidence) |
 | AIH-11131 | directed graphs | Mathematics | CSO: graph theory | [1962](https://doi.org/10.1090/coll/038/08) (source only) |
 | AIH-14087 | directed multigraph | Mathematics | CSO: graph theory | — |
 | AIH-14088 | discrete event system | Mathematics | CSO: graph theory | — |
@@ -386,13 +386,13 @@
 | AIH-11132 | disjoint paths | Mathematics | CSO: graph theory | [1974](https://doi.org/10.1002/net.3230040204) (source only) |
 | AIH-14093 | distribution centers | Mathematics | CSO: statistics | [1961](https://doi.org/10.1021/cen-v039n027.p034) (source only) |
 | AIH-11133 | drawing (graphics) | Mathematics | CSO: graph theory | [2003](https://doi.org/10.1007/978-1-4302-0802-0_8) (source only) |
-| AIH-11134 | drawings | Mathematics | CSO: graph theory | — |
+| AIH-11134 | drawings | Mathematics | CSO: graph theory | 1993 ★★ (GUESS, no direct evidence) |
 | AIH-14094 | dynamic optimization problem (dop) | Mathematics | CSO: optimization | — |
 | AIH-14095 | dynamic optimization problems | Mathematics | CSO: optimization | [1975](https://doi.org/10.1007/978-3-662-38527-2_3) (source only) |
 | AIH-14096 | edge coloring | Mathematics | CSO: graph theory | — |
 | AIH-14097 | edge connectivity | Mathematics | CSO: graph theory | [1976](https://doi.org/10.21136/cpm.1976.117895) (source only) |
 | AIH-14098 | edge crossing | Mathematics | CSO: graph theory | [1997](https://doi.org/10.1049/el:19971060) (source only) |
-| AIH-11127 | edge nodes | Mathematics | CSO: statistics | — |
+| AIH-11127 | edge nodes | Mathematics | CSO: statistics | 1980 ★★ (GUESS, no direct evidence) |
 | AIH-14099 | edge weights | Mathematics | CSO: graph theory | [1981](https://doi.org/10.1137/0210024) (source only) |
 | AIH-11128 | edge-sets | Mathematics | CSO: graph theory | [1999](https://doi.org/10.1016/s0012-365x(98)00220-9) (source only) |
 | AIH-14100 | engineering design problems | Mathematics | CSO: optimization | [1991](https://doi.org/10.21236/ada247496) (source only) |
@@ -408,7 +408,7 @@
 | AIH-14109 | exact algorithm | Mathematics | CSO: graph theory | [1989](https://doi.org/10.21236/ada208725) (source only) |
 | AIH-14110 | exact algorithms | Mathematics | CSO: graph theory | — |
 | AIH-14111 | exploration and exploitation | Mathematics | CSO: optimization | — |
-| AIH-11137 | exponentially stable | Mathematics | CSO: stochastic processes | — |
+| AIH-11137 | exponentially stable | Mathematics | CSO: stochastic processes | 2024 ★★ (GUESS, no direct evidence) |
 | AIH-14112 | extended petri nets | Mathematics | CSO: graph theory | [1992](https://doi.org/10.1007/3-540-55676-1_26) (source only) |
 | AIH-14114 | factor graphs | Mathematics | CSO: graph theory | [2004](https://doi.org/10.1002/0471667846.ch8) (source only) |
 | AIH-14192 | fastica algorithms | Mathematics | CSO: statistics | [2001](https://doi.org/10.32614/cran.package.fastica) (source only) |
@@ -416,7 +416,7 @@
 | AIH-11130 | fiber delay lines | Mathematics | CSO: statistics | [1977](https://doi.org/10.1109/t-su.1977.30939) (source only) |
 | AIH-14116 | filtering error | Mathematics | CSO: stochastic processes | [2009](https://doi.org/10.1109/9780470544198.ch68) (source only) |
 | AIH-11138 | filtering problems | Mathematics | CSO: stochastic processes | [1981](https://doi.org/10.1007/978-94-009-8546-9_16) (source only) |
-| AIH-11139 | first-order statistics | Mathematics | CSO: statistics | — |
+| AIH-11139 | first-order statistics | Mathematics | CSO: statistics | 1998 ★★ (GUESS, no direct evidence) |
 | AIH-14117 | flexible manufacturing system | Mathematics | CSO: graph theory | [1983](https://doi.org/10.1016/b978-0-08-029946-4.50028-5) (source only) |
 | AIH-14118 | flexible manufacturing systems | Mathematics | CSO: graph theory | — |
 | AIH-14119 | formal model | Mathematics | CSO: graph theory | — |
@@ -440,7 +440,7 @@
 | AIH-14130 | graph grammar | Mathematics | CSO: graph theory | [1983](https://doi.org/10.1016/0167-7136(83)90277-9) (source only) |
 | AIH-14131 | graph grammars | Mathematics | CSO: graph theory | — |
 | AIH-14132 | graph layout | Mathematics | CSO: graph theory | [1995](https://doi.org/10.21236/ada296735) (source only) |
-| AIH-11149 | graph property prediction | Mathematics | CSO: graph theory | — |
+| AIH-11149 | graph property prediction | Mathematics | CSO: graph theory | 1982 ★★ (GUESS, no direct evidence) |
 | AIH-14133 | graph structures | Mathematics | CSO: graph theory | [2013](https://doi.org/10.18653/v1/w13-5008) (source only) |
 | AIH-10152 | graph theory | Mathematics | CSO: graph theory | [1977](https://doi.org/10.1002/jgt.3190010206) (source only) |
 | AIH-14134 | graph transformation | Mathematics | CSO: graph theory | [1997](https://doi.org/10.1142/3303) (source only) |
@@ -464,10 +464,10 @@
 | AIH-14156 | hybrid metaheuristics | Mathematics | CSO: optimization | [2005](https://doi.org/10.1002/0471739383.ch15) (source only) |
 | AIH-14158 | hybrid particle swarm optimization | Mathematics | CSO: optimization | [2008](https://doi.org/10.5772/6134) (source only) |
 | AIH-14157 | hybrid particle swarm optimization algorithm | Mathematics | CSO: optimization | [2008](https://doi.org/10.3724/sp.j.1087.2008.01546) (source only) |
-| AIH-11152 | hyper-cubes | Mathematics | CSO: graph theory | — |
-| AIH-11153 | hypercube | Mathematics | CSO: graph theory | — |
+| AIH-11152 | hyper-cubes | Mathematics | CSO: graph theory | 1980 ★★ (GUESS, no direct evidence) |
+| AIH-11153 | hypercube | Mathematics | CSO: graph theory | 1987 ★★ (GUESS, no direct evidence) |
 | AIH-14159 | hypercube networks | Mathematics | CSO: graph theory | — |
-| AIH-11143 | idma | Mathematics | CSO: graph theory | — |
+| AIH-11143 | idma | Mathematics | CSO: graph theory | 1980 ★★ (GUESS, no direct evidence) |
 | AIH-14161 | improved particle swarm optimization | Mathematics | CSO: optimization | [2008](https://doi.org/10.1109/cis.2008.39) (source only) |
 | AIH-14160 | improved particle swarm optimization algorithms | Mathematics | CSO: optimization | [2014](https://doi.org/10.1109/poweri.2014.7117665) (source only) |
 | AIH-11144 | independent components | Mathematics | CSO: statistics | [1987](https://doi.org/10.1007/bf02646167) (source only) |
@@ -486,7 +486,7 @@
 | AIH-11157 | latent variables | Mathematics | CSO: statistics | [1985](https://doi.org/10.2307/270851) (source only) |
 | AIH-14171 | ldpc code | Mathematics | CSO: graph theory | [2006](https://doi.org/10.1109/isit.2006.261726) (source only) |
 | AIH-14172 | ldpc codes | Mathematics | CSO: graph theory | [2005](https://doi.org/10.1109/lcomm.2005.1461686) (source only) |
-| AIH-11158 | least-squares analysis | Mathematics | CSO: statistics | — |
+| AIH-11158 | least-squares analysis | Mathematics | CSO: statistics | 1996 ★★ (GUESS, no direct evidence) |
 | AIH-11159 | likelihood functions | Mathematics | CSO: statistics | [1968](https://doi.org/10.1016/s0019-9958(68)90795-x) (source only) |
 | AIH-14174 | likelihood ratios | Mathematics | CSO: statistics | — |
 | AIH-14175 | line drawing | Mathematics | CSO: graph theory | [1950](https://doi.org/10.1525/9780520348202-006) (source only) |
@@ -496,8 +496,8 @@
 | AIH-14177 | linear programming relaxation | Mathematics | CSO: graph theory | [1984](https://doi.org/10.1007/978-3-642-69546-9_65) (source only) |
 | AIH-14178 | local convergence | Mathematics | CSO: optimization | — |
 | AIH-14179 | local optimal solution | Mathematics | CSO: optimization | — |
-| AIH-11164 | logistic | Mathematics | CSO: statistics | — |
-| AIH-11162 | logistic regression | Mathematics | CSO: statistics | — |
+| AIH-11164 | logistic | Mathematics | CSO: statistics | 1992 ★★ (GUESS, no direct evidence) |
+| AIH-11162 | logistic regression | Mathematics | CSO: statistics | 1992 ★★ (GUESS, no direct evidence) |
 | AIH-14180 | logistic regression model | Mathematics | CSO: statistics | [2000](https://doi.org/10.1002/0471722146.ch1) (source only) |
 | AIH-14181 | logistic regression models | Mathematics | CSO: statistics | [2009](https://doi.org/10.1201/9781420075779) (source only) |
 | AIH-11163 | logistic regressions | Mathematics | CSO: statistics | [1978](https://doi.org/10.2307/2529594) (source only) |
@@ -507,6 +507,6 @@
 | AIH-14184 | logistics industry | Mathematics | CSO: statistics | [1992](https://doi.org/10.1108/09576059210016243) (source only) |
 | AIH-14185 | logistics management | Mathematics | CSO: statistics | [1990](https://doi.org/10.1108/eb007516) (source only) |
 
-— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
+— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimate based on a related publication; ★★ is a speculative keyword-era guess based on OTHER terms, with no direct historical evidence. Neither may be presented as fact.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

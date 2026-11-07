@@ -507,6 +507,6 @@
 | AIH-17339 | system calls | AI Safety | CSO: cybersecurity | — |
 | AIH-17340 | tag identification | AI Safety | CSO: cybersecurity | — |
 
-— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
+— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimate based on a related publication; ★★ is a speculative keyword-era guess based on OTHER terms, with no direct historical evidence. Neither may be presented as fact.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

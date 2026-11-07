@@ -8,7 +8,7 @@
 |---|---|---|---|---|
 | AIH-14456 | development processes | Programming & Software | CSO: software engineering | [1999](https://doi.org/10.5040/9798216188209.ch-001) (source only) |
 | AIH-14457 | devops | Programming & Software | CSO: software architecture | — |
-| AIH-11437 | distributed development | Programming & Software | CSO: software architecture | — |
+| AIH-11437 | distributed development | Programming & Software | CSO: software architecture | 1985 ★★ (GUESS, no direct evidence) |
 | AIH-14458 | dsdm | Programming & Software | CSO: software architecture | [2014](https://doi.org/10.1109/apwccse.2014.7053838) (source only) |
 | AIH-14459 | dynamic software architecture | Programming & Software | CSO: software architecture | [2006](https://doi.org/10.1360/jos171360) (source only) |
 | AIH-14460 | efficiency increasing | Programming & Software | CSO: software architecture | — |
@@ -68,7 +68,7 @@
 | AIH-14504 | multi-tier | Programming & Software | CSO: software architecture | — |
 | AIH-14505 | non-homogeneous poisson process | Programming & Software | CSO: software engineering | — |
 | AIH-11403 | object oriented design | Programming & Software | CSO: software engineering | [1987](https://doi.org/10.1145/38765.38813) (source only) |
-| AIH-11404 | object-oriented system | Programming & Software | CSO: software engineering | — |
+| AIH-11404 | object-oriented system | Programming & Software | CSO: software engineering | 1987 ★★ (GUESS, no direct evidence) |
 | AIH-14506 | ocl | Programming & Software | CSO: software engineering | — |
 | AIH-14507 | open source projects | Programming & Software | CSO: software engineering | — |
 | AIH-14508 | open source software development | Programming & Software | CSO: software engineering | — |
@@ -86,7 +86,7 @@
 | AIH-14518 | process planning | Programming & Software | CSO: software engineering | — |
 | AIH-14519 | product line architecture | Programming & Software | CSO: software architecture | — |
 | AIH-14520 | productivity increasing | Programming & Software | CSO: software architecture | — |
-| AIH-10163 | program analysis | Programming & Software | CSO: program analysis | — |
+| AIH-10163 | program analysis | Programming & Software | CSO: program analysis | 1987 ★★ (GUESS, no direct evidence) |
 | AIH-14521 | program comprehension | Programming & Software | CSO: software engineering | — |
 | AIH-11406 | program diagnostics | Programming & Software | CSO: software engineering | [1999](https://doi.org/10.1002/047134608x.w6933) (source only) |
 | AIH-11407 | program documentation | Programming & Software | CSO: software engineering | [1966](https://doi.org/10.2172/4544877) (source only) |
@@ -97,11 +97,11 @@
 | AIH-14564 | prototyping process | Programming & Software | CSO: software architecture | — |
 | AIH-14571 | pushdown systems | Programming & Software | CSO: software architecture | — |
 | AIH-11408 | quality attributes | Programming & Software | CSO: software architecture | [1989](https://doi.org/10.1071/9780643101456.ch03) (source only) |
-| AIH-11409 | quality characteristic | Programming & Software | CSO: software architecture | — |
+| AIH-11409 | quality characteristic | Programming & Software | CSO: software architecture | 2017 ★★ (GUESS, no direct evidence) |
 | AIH-14526 | quality concerns | Programming & Software | CSO: software architecture | — |
 | AIH-14527 | quality increasing | Programming & Software | CSO: software architecture | — |
 | AIH-14528 | quality of softwares | Programming & Software | CSO: software engineering | — |
-| AIH-11410 | quality properties | Programming & Software | CSO: software architecture | — |
+| AIH-11410 | quality properties | Programming & Software | CSO: software architecture | 2006 ★★ (GUESS, no direct evidence) |
 | AIH-14529 | quality requirements | Programming & Software | CSO: software engineering | — |
 | AIH-14530 | rad | Programming & Software | CSO: software architecture | — |
 | AIH-14531 | rational unified process | Programming & Software | CSO: software architecture | — |
@@ -145,7 +145,7 @@
 | AIH-14568 | simulation speed | Programming & Software | CSO: software engineering | — |
 | AIH-14569 | smart systems | Programming & Software | CSO: software architecture | — |
 | AIH-14570 | soa system | Programming & Software | CSO: software architecture | — |
-| AIH-10165 | software architecture | Programming & Software | CSO: software architecture | — |
+| AIH-10165 | software architecture | Programming & Software | CSO: software architecture | 2006 ★★ (GUESS, no direct evidence) |
 | AIH-14572 | software architecture assessment | Programming & Software | CSO: software architecture | — |
 | AIH-14573 | software architecture decay | Programming & Software | CSO: software architecture | — |
 | AIH-11415 | software architecture design | Programming & Software | CSO: software architecture | [1996](https://doi.org/10.1145/243327.243616) (source only) |
@@ -158,12 +158,12 @@
 | AIH-14579 | software complexity | Programming & Software | CSO: software engineering | — |
 | AIH-14580 | software cost estimation | Programming & Software | CSO: software engineering | — |
 | AIH-14581 | software cost estimations | Programming & Software | CSO: software engineering | — |
-| AIH-11418 | software design | Programming & Software | CSO: software engineering | — |
-| AIH-11417 | software design patterns | Programming & Software | CSO: software architecture | — |
-| AIH-11419 | software developer | Programming & Software | CSO: software architecture | — |
-| AIH-11420 | software developers | Programming & Software | CSO: software architecture | — |
+| AIH-11418 | software design | Programming & Software | CSO: software engineering | 1996 ★★ (GUESS, no direct evidence) |
+| AIH-11417 | software design patterns | Programming & Software | CSO: software architecture | 2004 ★★ (GUESS, no direct evidence) |
+| AIH-11419 | software developer | Programming & Software | CSO: software architecture | 2007 ★★ (GUESS, no direct evidence) |
+| AIH-11420 | software developers | Programming & Software | CSO: software architecture | 2007 ★★ (GUESS, no direct evidence) |
 | AIH-11424 | software development | Programming & Software | CSO: software architecture | [1985](https://doi.org/10.1017/cbo9780511624223.004) (source only) |
-| AIH-11421 | software development life cycle | Programming & Software | CSO: software architecture | — |
+| AIH-11421 | software development life cycle | Programming & Software | CSO: software architecture | 2003 ★★ (GUESS, no direct evidence) |
 | AIH-14582 | software development methodologies | Programming & Software | CSO: software architecture | — |
 | AIH-14583 | software development methods | Programming & Software | CSO: software architecture | — |
 | AIH-14584 | software development organizations | Programming & Software | CSO: software architecture | — |
@@ -187,7 +187,7 @@
 | AIH-14599 | software project | Programming & Software | CSO: software engineering | — |
 | AIH-14600 | software projects | Programming & Software | CSO: software engineering | — |
 | AIH-14601 | software quality | Programming & Software | CSO: software engineering | — |
-| AIH-11426 | software reliability | Programming & Software | CSO: software engineering | — |
+| AIH-11426 | software reliability | Programming & Software | CSO: software engineering | 1996 ★★ (GUESS, no direct evidence) |
 | AIH-14602 | software reliability growth models | Programming & Software | CSO: software engineering | — |
 | AIH-14603 | software reliability models | Programming & Software | CSO: software engineering | — |
 | AIH-14604 | software requirements | Programming & Software | CSO: software engineering | — |
@@ -203,10 +203,10 @@
 | AIH-11432 | system architectures | Programming & Software | CSO: software engineering | [1980](https://doi.org/10.21236/ada082927) (source only) |
 | AIH-14611 | system requirements | Programming & Software | CSO: software engineering | — |
 | AIH-11433 | system testing | Programming & Software | CSO: software engineering | [1996](https://doi.org/10.1016/0960-1481(96)88359-5) (source only) |
-| AIH-11434 | system under test | Programming & Software | CSO: software engineering | — |
+| AIH-11434 | system under test | Programming & Software | CSO: software engineering | 1978 ★★ (GUESS, no direct evidence) |
 | AIH-14612 | system usability | Programming & Software | CSO: software engineering | — |
-| AIH-11435 | systems architecting | Programming & Software | CSO: software architecture | — |
-| AIH-11436 | tactics | Programming & Software | CSO: software architecture | — |
+| AIH-11435 | systems architecting | Programming & Software | CSO: software architecture | 1999 ★★ (GUESS, no direct evidence) |
+| AIH-11436 | tactics | Programming & Software | CSO: software architecture | 2011 ★★ (GUESS, no direct evidence) |
 | AIH-14613 | tactics for availability | Programming & Software | CSO: software architecture | — |
 | AIH-14614 | tactics for cyber foraging | Programming & Software | CSO: software architecture | — |
 | AIH-14615 | tactics for energy efficiency | Programming & Software | CSO: software architecture | — |
@@ -222,7 +222,7 @@
 | AIH-14622 | tool support | Programming & Software | CSO: software engineering | — |
 | AIH-14623 | traceability management | Programming & Software | CSO: software architecture | — |
 | AIH-11441 | transformation rules | Programming & Software | CSO: software engineering | [1972](https://doi.org/10.1515/9783111349695-005) (source only) |
-| AIH-11442 | uml | Programming & Software | CSO: software engineering | — |
+| AIH-11442 | uml | Programming & Software | CSO: software engineering | 1988 ★★ (GUESS, no direct evidence) |
 | AIH-14624 | uml 2.0 | Programming & Software | CSO: software engineering | — |
 | AIH-14625 | uml class diagrams | Programming & Software | CSO: software engineering | — |
 | AIH-14626 | uml model | Programming & Software | CSO: software engineering | — |
@@ -232,8 +232,8 @@
 | AIH-14630 | uml profiles | Programming & Software | CSO: software engineering | — |
 | AIH-14631 | uml sequence diagrams | Programming & Software | CSO: software engineering | — |
 | AIH-14632 | understandability | Programming & Software | CSO: software engineering | — |
-| AIH-11444 | unified modeling language | Programming & Software | CSO: software engineering | — |
-| AIH-11445 | unified modelling language | Programming & Software | CSO: software engineering | — |
+| AIH-11444 | unified modeling language | Programming & Software | CSO: software engineering | 1988 ★★ (GUESS, no direct evidence) |
+| AIH-11445 | unified modelling language | Programming & Software | CSO: software engineering | 1988 ★★ (GUESS, no direct evidence) |
 | AIH-14633 | usability assessment | Programming & Software | CSO: software engineering | — |
 | AIH-11446 | usability engineering | Programming & Software | CSO: software engineering | [1993](https://doi.org/10.1016/c2009-0-21512-1) (source only) |
 | AIH-14634 | usability methods | Programming & Software | CSO: software engineering | — |
@@ -262,14 +262,14 @@
 | AIH-11456 | computer games | Reinforcement Learning | CSO: game theory | [1998](https://doi.org/10.7551/mitpress/3125.003.0005) (source only) |
 | AIH-14649 | continuous state | Reinforcement Learning | CSO: reinforcement learning | — |
 | AIH-11457 | continuous state space | Reinforcement Learning | CSO: reinforcement learning | [1958](https://doi.org/10.21136/cmj.1958.100304) (source only) |
-| AIH-11458 | cooperative game theory | Reinforcement Learning | CSO: game theory | — |
-| AIH-11460 | cooperative games | Reinforcement Learning | CSO: game theory | — |
+| AIH-11458 | cooperative game theory | Reinforcement Learning | CSO: game theory | 1987 ★★ (GUESS, no direct evidence) |
+| AIH-11460 | cooperative games | Reinforcement Learning | CSO: game theory | 1998 ★★ (GUESS, no direct evidence) |
 | AIH-14650 | correlated equilibria | Reinforcement Learning | CSO: game theory | — |
 | AIH-14651 | digital games | Reinforcement Learning | CSO: game theory | — |
 | AIH-14652 | dominant strategy | Reinforcement Learning | CSO: game theory | — |
 | AIH-11461 | dynamic spectrum sharing | Reinforcement Learning | CSO: game theory | [2007](https://doi.org/10.1109/dyspan.2007.44) (source only) |
 | AIH-14654 | evolution of cooperation | Reinforcement Learning | CSO: game theory | — |
-| AIH-11462 | evolutionarily stable strategy | Reinforcement Learning | CSO: game theory | — |
+| AIH-11462 | evolutionarily stable strategy | Reinforcement Learning | CSO: game theory | 2024 ★★ (GUESS, no direct evidence) |
 | AIH-11464 | evolutionary game | Reinforcement Learning | CSO: game theory | [1990](https://doi.org/10.1016/b978-0-12-370182-4.50027-1) (source only) |
 | AIH-11463 | evolutionary game theory | Reinforcement Learning | CSO: game theory | [1990](https://doi.org/10.1016/b978-0-12-370182-4.50027-1) (source only) |
 | AIH-11465 | evolutionary games | Reinforcement Learning | CSO: game theory | [1995](https://doi.org/10.4324/9780203199275.ch7) (source only) |
@@ -280,31 +280,31 @@
 | AIH-14658 | function approximators | Reinforcement Learning | CSO: reinforcement learning | — |
 | AIH-14659 | game analysis | Reinforcement Learning | CSO: game theory | — |
 | AIH-14660 | game environment | Reinforcement Learning | CSO: game theory | — |
-| AIH-11467 | game models | Reinforcement Learning | CSO: game theory | — |
-| AIH-11468 | game-theoretic | Reinforcement Learning | CSO: game theory | — |
+| AIH-11467 | game models | Reinforcement Learning | CSO: game theory | 1990 ★★ (GUESS, no direct evidence) |
+| AIH-11468 | game-theoretic | Reinforcement Learning | CSO: game theory | 1990 ★★ (GUESS, no direct evidence) |
 | AIH-14661 | game-theoretic model | Reinforcement Learning | CSO: game theory | — |
-| AIH-11469 | goal-conditioned learning | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11469 | goal-conditioned learning | Reinforcement Learning | CSO: reinforcement learning | 2022 ★★ (GUESS, no direct evidence) |
 | AIH-11470 | goal-conditioned reinforcement learning | Reinforcement Learning | CSO: reinforcement learning | [2020](https://doi.org/10.1299/jsmermd.2020.2a1-l01) (source only) |
 | AIH-11471 | goal-conditioned rl | Reinforcement Learning | CSO: reinforcement learning | [2023](https://doi.org/10.52202/075280-1515) (source only) |
-| AIH-11473 | hierarchical rl | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11473 | hierarchical rl | Reinforcement Learning | CSO: reinforcement learning | 1987 ★★ (GUESS, no direct evidence) |
 | AIH-14662 | incentive compatibility | Reinforcement Learning | CSO: game theory | — |
 | AIH-14663 | incentive compatible | Reinforcement Learning | CSO: game theory | — |
-| AIH-11475 | incentive mechanism | Reinforcement Learning | CSO: game theory | — |
+| AIH-11475 | incentive mechanism | Reinforcement Learning | CSO: game theory | 1991 ★★ (GUESS, no direct evidence) |
 | AIH-11476 | incentive mechanisms | Reinforcement Learning | CSO: game theory | [1981](https://doi.org/10.1016/b978-0-08-025837-9.50009-6) (source only) |
 | AIH-14664 | incentive schemes | Reinforcement Learning | CSO: game theory | — |
 | AIH-14665 | iterated prisoners dilemma | Reinforcement Learning | CSO: game theory | — |
 | AIH-11477 | kernelized reinforcement learning | Reinforcement Learning | CSO: reinforcement learning | [2023](https://doi.org/10.52202/075280-0186) (source only) |
-| AIH-11478 | kernelized rl | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11478 | kernelized rl | Reinforcement Learning | CSO: reinforcement learning | 2023 ★★ (GUESS, no direct evidence) |
 | AIH-11479 | leader-follower | Reinforcement Learning | CSO: game theory | [2004](https://doi.org/10.4135/9781412952392.n192) (source only) |
 | AIH-14666 | mixed strategy | Reinforcement Learning | CSO: game theory | — |
-| AIH-11481 | model free | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11481 | model free | Reinforcement Learning | CSO: reinforcement learning | 2022 ★★ (GUESS, no direct evidence) |
 | AIH-14667 | nash bargaining solution | Reinforcement Learning | CSO: game theory | — |
 | AIH-11482 | nash equilibria | Reinforcement Learning | CSO: game theory | [1982](https://doi.org/10.21236/ada114693) (source only) |
 | AIH-14670 | non-cooperative | Reinforcement Learning | CSO: game theory | — |
 | AIH-14668 | non-cooperative game | Reinforcement Learning | CSO: game theory | — |
 | AIH-14669 | non-cooperative games | Reinforcement Learning | CSO: game theory | — |
 | AIH-14672 | optimal mechanism | Reinforcement Learning | CSO: game theory | — |
-| AIH-11484 | optimal strategies | Reinforcement Learning | CSO: game theory | — |
+| AIH-11484 | optimal strategies | Reinforcement Learning | CSO: game theory | 1976 ★★ (GUESS, no direct evidence) |
 | AIH-11485 | optimal strategy | Reinforcement Learning | CSO: game theory | [1959](https://doi.org/10.21136/cpm.1959.117317) (source only) |
 | AIH-11486 | partially observable markov decision process | Reinforcement Learning | CSO: reinforcement learning | [1996](https://doi.org/10.1287/opre.44.3.458) (source only) |
 | AIH-11487 | partially observable markov decision processes | Reinforcement Learning | CSO: reinforcement learning | [1976](https://doi.org/10.1037/e429542004-001) (source only) |
@@ -319,14 +319,14 @@
 | AIH-14681 | q-values | Reinforcement Learning | CSO: reinforcement learning | — |
 | AIH-11492 | reinforcement learning approach | Reinforcement Learning | CSO: reinforcement learning | [2008](https://doi.org/10.5772/5285) (source only) |
 | AIH-14682 | reinforcement learning method | Reinforcement Learning | CSO: reinforcement learning | — |
-| AIH-11493 | reinforcement learning techniques | Reinforcement Learning | CSO: reinforcement learning | — |
+| AIH-11493 | reinforcement learning techniques | Reinforcement Learning | CSO: reinforcement learning | 2020 ★★ (GUESS, no direct evidence) |
 | AIH-11494 | reinforcement learning with human feedback | Reinforcement Learning | CSO: reinforcement learning | [2024](https://doi.org/10.52783/jes.1363) (source only) |
 | AIH-11495 | repeated games | Reinforcement Learning | CSO: game theory | [1987](https://doi.org/10.21236/ada198447) (source only) |
 | AIH-14683 | replicator dynamics | Reinforcement Learning | CSO: game theory | — |
-| AIH-11496 | retail price | Reinforcement Learning | CSO: game theory | — |
+| AIH-11496 | retail price | Reinforcement Learning | CSO: game theory | 1990 ★★ (GUESS, no direct evidence) |
 | AIH-11499 | selfish node | Reinforcement Learning | CSO: game theory | [2007](https://doi.org/10.1049/cp:20070789) (source only) |
 | AIH-11500 | selfish nodes | Reinforcement Learning | CSO: game theory | [2006](https://doi.org/10.1002/wcm.440) (source only) |
-| AIH-10169 | sequential decision making | Reinforcement Learning | CSO: sequential decision making | — |
+| AIH-10169 | sequential decision making | Reinforcement Learning | CSO: sequential decision making | 1996 ★★ (GUESS, no direct evidence) |
 | AIH-14684 | shapley value | Reinforcement Learning | CSO: game theory | — |
 | AIH-14686 | stackelberg | Reinforcement Learning | CSO: game theory | — |
 | AIH-14685 | stackelberg equilibrium | Reinforcement Learning | CSO: game theory | — |
@@ -343,10 +343,10 @@
 | AIH-14691 | vcg mechanism | Reinforcement Learning | CSO: game theory | — |
 | AIH-14693 | absolute stability | Robotics | CSO: control systems | — |
 | AIH-14694 | active control | Robotics | CSO: control systems | — |
-| AIH-10173 | active disturbance rejection controls | Robotics | CSO: robotics | — |
+| AIH-10173 | active disturbance rejection controls | Robotics | CSO: robotics | 1980 ★★ (GUESS, no direct evidence) |
 | AIH-10224 | actuation redundancy | Robotics | CSO: robotics | [1990](https://doi.org/10.23919/acc.1990.4791139) (source only) |
 | AIH-14695 | actuator failures | Robotics | CSO: control systems | — |
-| AIH-10330 | adaptive sliding mode control | Robotics | CSO: robotics | — |
+| AIH-10330 | adaptive sliding mode control | Robotics | CSO: robotics | 1980 ★★ (GUESS, no direct evidence) |
 | AIH-10331 | adaptive sliding mode controller | Robotics | CSO: robotics | [1996](https://doi.org/10.1016/s1474-6670(17)58511-0) (source only) |
 | AIH-10733 | air traffic controller | Robotics | CSO: robotics | [1957](https://doi.org/10.1037/e422022004-001) (source only) |
 | AIH-14696 | aircraft control | Robotics | CSO: control systems | — |
@@ -492,7 +492,7 @@
 | AIH-11541 | motion control | Robotics | CSO: motion planning | [1969](https://openalex.org/W199867479) (source only) |
 | AIH-14780 | motion controller | Robotics | CSO: motion planning | — |
 | AIH-14781 | motion data | Robotics | CSO: robotics | — |
-| AIH-10171 | motion planning | Robotics | CSO: motion planning | — |
+| AIH-10171 | motion planning | Robotics | CSO: motion planning | 1988 ★★ (GUESS, no direct evidence) |
 | AIH-14782 | motion planning algorithms | Robotics | CSO: motion planning | — |
 | AIH-14783 | motion planning problems | Robotics | CSO: motion planning | — |
 | AIH-14784 | motion sequences | Robotics | CSO: robotics | — |
@@ -507,6 +507,6 @@
 | AIH-14791 | navigation systems | Robotics | CSO: robotics | — |
 | AIH-14792 | needle insertion | Robotics | CSO: robotics | — |
 
-— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
+— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimate based on a related publication; ★★ is a speculative keyword-era guess based on OTHER terms, with no direct historical evidence. Neither may be presented as fact.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)

@@ -1,0 +1,18 @@
+{
+  "scope": "Previously researched records with permanent IDs AIH-00001 through AIH-12500",
+  "inventory_total": 20100,
+  "previously_missing_in_scope": 5183,
+  "guessed_double_star_added": 5183,
+  "left_without_any_date_in_scope": 0,
+  "verified_term_origin_added": 0,
+  "previous_dates_overwritten": 0,
+  "guessed_years_are_facts": false,
+  "confidence": "very_low",
+  "method_counts": {
+    "lexically_related_term_source_years": 3732,
+    "same_subfield_source_year_median": 1451
+  },
+  "table_pages": 11,
+  "historical_relevance_warning": "Every double-star year is a guessed sorting placeholder inferred from OTHER terms; no date source is cited as evidence for the keyword.",
+  "note": "This run fills already-researched unresolved entries. It does NOT research the later untouched inventory or assert original exact-phrase first uses."
+}

@@ -507,6 +507,6 @@
 | AIH-17800 | vibration data | Computer Vision | CSO: image processing | — |
 | AIH-17801 | vibration monitoring | Computer Vision | CSO: image processing | — |
 
-— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimated date based on related scholarly research and must not be treated as fact.
+— means no date source or estimate; (source only) is a documented publication, not verified original use; ★ is an estimate based on a related publication; ★★ is a speculative keyword-era guess based on OTHER terms, with no direct historical evidence. Neither may be presented as fact.
 
 [Source master file](../../data/KEYWORD_INVENTORY.csv)
