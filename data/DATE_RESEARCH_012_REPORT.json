@@ -5,14 +5,140 @@
     "AIH-18500"
   ],
   "examined": 2000,
-  "documented_source_dates": 1365,
+  "documented_source_dates": 1362,
   "estimated_star_dates": 1,
-  "unresolved": 634,
-  "dated_or_estimated": 1366,
+  "unresolved": 637,
+  "dated_or_estimated": 1363,
   "verified_original_first_use": 0,
   "existing_first_16500_unchanged": true,
   "stable_ids_preserved": true,
   "inventory_total": 20100,
   "estimated_display_rule": "★ immediately after year; low-confidence supporting source and reasoning mandatory.",
-  "note": "Neither linked publication dates nor estimated years prove historical first use."
+  "note": "Neither linked publication dates nor estimated years prove historical first use.",
+  "manual_technical_source_checks": 6,
+  "cross_domain_sources_withdrawn": 5,
+  "manual_semantic_source_audit": [
+    {
+      "id": "AIH-16512",
+      "term": "optical packet switching",
+      "before": {
+        "document_year": "1970",
+        "estimated_year": "",
+        "source": "https://doi.org/10.3329/diujst.v6i2.9342"
+      },
+      "source_year": "1991",
+      "source_url": "https://doi.org/10.1364/AO.30.003721",
+      "note": "1991 peer-reviewed photonic packet switching architecture; an original 1990 Bell Labs manuscript predates publication. Earlier unrelated 1970 source withdrawn. Not proven first exact term use."
+    },
+    {
+      "id": "AIH-17002",
+      "term": "udp",
+      "before": {
+        "document_year": "",
+        "estimated_year": "",
+        "source": ""
+      },
+      "source_year": "1980",
+      "source_url": "https://www.rfc-editor.org/info/rfc768/",
+      "note": "RFC 768 introduced and defined UDP on 28 August 1980; first original protocol specification, not first possible acronym usage."
+    },
+    {
+      "id": "AIH-17015",
+      "term": "unscented transformations",
+      "before": {
+        "document_year": "2017",
+        "estimated_year": "",
+        "source": "https://doi.org/10.1109/naps.2017.8107354"
+      },
+      "source_year": "1997",
+      "source_url": "https://doi.org/10.1117/12.280797",
+      "note": "1997 original unscented Kalman filter family research documenting the approach, predating the 2017 later application. A 1995 precursor also exists; exact first plural wording unverified."
+    },
+    {
+      "id": "AIH-18001",
+      "term": "boosting algorithm",
+      "before": {
+        "document_year": "2008",
+        "estimated_year": "",
+        "source": "https://doi.org/10.1109/icmlc.2008.4620409"
+      },
+      "source_year": "1990",
+      "source_url": "https://doi.org/10.1007/BF00116037",
+      "note": "1990 foundational boosting method paper, before a 2008 application. Historical method anchor; not proof that the exact phrase 'boosting algorithm' first appeared in 1990."
+    },
+    {
+      "id": "AIH-18003",
+      "term": "c4.5 algorithm",
+      "before": {
+        "document_year": "",
+        "estimated_year": "",
+        "source": ""
+      },
+      "source_year": "1992",
+      "source_url": "https://shop.elsevier.com/books/c45/quinlan/978-0-08-050058-4",
+      "note": "Original publisher lists first edition 1 October 1992; some academic catalogs report 1993. The year is publisher-dated early C4.5 documentation, not verified first use of exact phrase."
+    },
+    {
+      "id": "AIH-18013",
+      "term": "connected component analysis",
+      "before": {
+        "document_year": "1996",
+        "estimated_year": "",
+        "source": "https://doi.org/10.1109/icpr.1996.547655"
+      },
+      "source_year": "1965",
+      "source_url": "https://ntrs.nasa.gov/citations/19650019588",
+      "note": "May 1965 NASA contractor report on sequential connected-component labeling in digital images, earlier than 1966 journal article and 1996 citation; first exact phrase unverified."
+    },
+    {
+      "id": "AIH-17505",
+      "term": "low resolution",
+      "before": {
+        "date": "1973",
+        "source": "https://doi.org/10.1016/0022-2836(73)90214-3"
+      },
+      "status": "withdrawn_cross_domain",
+      "reason": "1973 paper is molecular biology; it does not establish the history of low-resolution imagery or computer vision."
+    },
+    {
+      "id": "AIH-17509",
+      "term": "fusion methods",
+      "before": {
+        "date": "1949",
+        "source": "https://doi.org/10.1021/ac60028a004"
+      },
+      "status": "withdrawn_cross_domain",
+      "reason": "1949 analytical chemistry paper is not a historical anchor for image-fusion methods."
+    },
+    {
+      "id": "AIH-17510",
+      "term": "fusion process",
+      "before": {
+        "date": "1910",
+        "source": "https://doi.org/10.1038/scientificamerican01081910-23asupp"
+      },
+      "status": "withdrawn_cross_domain",
+      "reason": "1910 Scientific American discussion is an unrelated generic fusion process, not computer vision."
+    },
+    {
+      "id": "AIH-17516",
+      "term": "gear manufacture",
+      "before": {
+        "date": "1935",
+        "source": "https://doi.org/10.1049/jipe.1935.0064"
+      },
+      "status": "withdrawn_cross_domain",
+      "reason": "1935 manufacturing paper is outside the computer-vision sense; term requires scope review."
+    },
+    {
+      "id": "AIH-18014",
+      "term": "conservation status",
+      "before": {
+        "date": "1973",
+        "source": "https://doi.org/10.1016/0006-3207(73)90146-8"
+      },
+      "status": "withdrawn_cross_domain",
+      "reason": "1973 conservation biology usage does not establish machine-learning terminology; category requires review."
+    }
+  ]
 }

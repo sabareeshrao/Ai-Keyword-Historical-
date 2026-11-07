@@ -9,7 +9,7 @@
 | ID | Keyword | Category | Date | Classification | Source |
 |---|---|---|---|---|---|
 | AIH-17001 | two wavelength | AI Infrastructure | — | Unresolved | — |
-| AIH-17002 | udp | AI Infrastructure | — | Unresolved | — |
+| AIH-17002 | udp | AI Infrastructure | 1980 | Original or early technical source (term origin unverified) | [Source](https://www.rfc-editor.org/info/rfc768/) |
 | AIH-17003 | uhf rfid | AI Infrastructure | 2007 | Dated publication mention | [Source](https://doi.org/10.1007/978-0-387-44710-0) |
 | AIH-17004 | ultra-wideband (uwb) | AI Infrastructure | 1990 | Dated publication mention | [Source](https://doi.org/10.21236/ada233624) |
 | AIH-17005 | secure group communication | AI Infrastructure | — | Unresolved | — |
@@ -22,7 +22,7 @@
 | AIH-17012 | unicast | AI Infrastructure | — | Unresolved | — |
 | AIH-17013 | unified theory of acceptance and use of technology | AI Infrastructure | — | Unresolved | — |
 | AIH-17014 | uniform theory of diffraction | AI Infrastructure | 1984 | Dated publication mention | [Source](https://doi.org/10.1121/1.390856) |
-| AIH-17015 | unscented transformations | AI Infrastructure | 2017 | Dated publication mention | [Source](https://doi.org/10.1109/naps.2017.8107354) |
+| AIH-17015 | unscented transformations | AI Infrastructure | 1997 | Original or early technical source (term origin unverified) | [Source](https://doi.org/10.1117/12.280797) |
 | AIH-17016 | unstructured p2p | AI Infrastructure | — | Unresolved | — |
 | AIH-17017 | unstructured peer-to-peer | AI Infrastructure | 2005 | Dated publication mention | [Source](https://doi.org/10.1049/ip-com:20045221) |
 | AIH-17018 | up-link transmissions | AI Infrastructure | — | Unresolved | — |

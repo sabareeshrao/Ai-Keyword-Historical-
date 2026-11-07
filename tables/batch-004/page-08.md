@@ -216,8 +216,8 @@
 | AIH-17997 | betaproteobacteria | Machine Learning | CSO: classification | [2005](https://doi.org/10.1007/0-387-29298-5_2) (source only) |
 | AIH-17998 | bidirectional associative memory | Machine Learning | CSO: machine learning | — |
 | AIH-18000 | binary classifiers | Machine Learning | CSO: machine learning | — |
-| AIH-18001 | boosting algorithm | Machine Learning | CSO: machine learning | [2008](https://doi.org/10.1109/icmlc.2008.4620409) (source only) |
-| AIH-18003 | c4.5 algorithm | Machine Learning | CSO: data mining | — |
+| AIH-18001 | boosting algorithm | Machine Learning | CSO: machine learning | [1990](https://doi.org/10.1007/BF00116037) (source only) |
+| AIH-18003 | c4.5 algorithm | Machine Learning | CSO: data mining | [1992](https://shop.elsevier.com/books/c45/quinlan/978-0-08-050058-4) (source only) |
 | AIH-18005 | character images | Machine Learning | CSO: pattern recognition | [2009](https://doi.org/10.1109/ccpr.2009.5343952) (source only) |
 | AIH-18006 | character segmentation | Machine Learning | CSO: pattern recognition | [1986](https://doi.org/10.1117/12.976227) (source only) |
 | AIH-18007 | chinese character recognition | Machine Learning | CSO: pattern recognition | [1976](https://doi.org/10.1016/0031-3203(76)90037-6) (source only) |
@@ -225,8 +225,8 @@
 | AIH-18010 | closed itemsets | Machine Learning | CSO: data mining | [2003](https://doi.org/10.1145/952613.952615) (source only) |
 | AIH-18011 | cluster validity indices | Machine Learning | CSO: machine learning | [2004](https://doi.org/10.1007/978-3-540-30185-1_11) (source only) |
 | AIH-18012 | color interpolation | Machine Learning | CSO: pattern recognition | — |
-| AIH-18013 | connected component analysis | Machine Learning | CSO: pattern recognition | [1996](https://doi.org/10.1109/icpr.1996.547655) (source only) |
-| AIH-18014 | conservation status | Machine Learning | CSO: classification | [1973](https://doi.org/10.1016/0006-3207(73)90146-8) (source only) |
+| AIH-18013 | connected component analysis | Machine Learning | CSO: pattern recognition | [1965](https://ntrs.nasa.gov/citations/19650019588) (source only) |
+| AIH-18014 | conservation status | Machine Learning | CSO: classification | — |
 | AIH-18015 | content addressable memory | Machine Learning | CSO: machine learning | [1970](https://doi.org/10.1016/b978-0-12-564350-4.50025-7) (source only) |
 | AIH-18018 | content providers | Machine Learning | CSO: pattern recognition | [2004](https://doi.org/10.1007/1-4020-7907-9_3) (source only) |
 | AIH-18019 | content-based image retrievals | Machine Learning | CSO: pattern recognition | — |

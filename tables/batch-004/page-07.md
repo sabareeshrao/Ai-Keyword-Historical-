@@ -161,8 +161,8 @@
 | AIH-17506 | full band | Computer Vision | CSO: image processing | [1988](https://doi.org/10.1016/0038-1098(88)90460-7) (source only) |
 | AIH-17507 | fused images | Computer Vision | CSO: image processing | [2003](https://doi.org/10.1053/snuc.2003.127311) (source only) |
 | AIH-17508 | fusion algorithms | Computer Vision | CSO: image processing | [1993](https://doi.org/10.23919/acc.1993.4792985) (source only) |
-| AIH-17509 | fusion methods | Computer Vision | CSO: image processing | [1949](https://doi.org/10.1021/ac60028a004) (source only) |
-| AIH-17510 | fusion process | Computer Vision | CSO: image processing | [1910](https://doi.org/10.1038/scientificamerican01081910-23asupp) (source only) |
+| AIH-17509 | fusion methods | Computer Vision | CSO: image processing | — |
+| AIH-17510 | fusion process | Computer Vision | CSO: image processing | — |
 | AIH-15197 | fusion rule | Computer Vision | CSO: image processing | [1997](https://doi.org/10.1117/12.276123) (source only) |
 | AIH-15204 | fusion rules | Computer Vision | CSO: image processing | — |
 | AIH-17511 | fusion techniques | Computer Vision | CSO: image processing | [1990](https://doi.org/10.1007/978-1-4612-3272-8_13) (source only) |
@@ -171,7 +171,7 @@
 | AIH-15223 | gaussian filtering | Computer Vision | CSO: image processing | — |
 | AIH-17514 | gaussian filters | Computer Vision | CSO: image processing | [1959](https://doi.org/10.1109/tau.1959.1166198) (source only) |
 | AIH-17515 | gaussian sources | Computer Vision | CSO: image processing | [1970](https://doi.org/10.1109/tit.1970.1054563) (source only) |
-| AIH-17516 | gear manufacture | Computer Vision | CSO: image processing | [1935](https://doi.org/10.1049/jipe.1935.0064) (source only) |
+| AIH-17516 | gear manufacture | Computer Vision | CSO: image processing | — |
 | AIH-17517 | geodesic active contour | Computer Vision | CSO: image processing | [2006](https://doi.org/10.1109/cvpr.2006.28) (source only) |
 | AIH-17518 | geometric active contours | Computer Vision | CSO: image processing | [2002](https://doi.org/10.1109/vlsm.2001.938893) (source only) |
 | AIH-17519 | geometric attacks | Computer Vision | CSO: image processing | [2003](https://doi.org/10.1109/icip.2002.1039908) (source only) |
@@ -283,7 +283,7 @@
 | AIH-17595 | lossless image compression | Computer Vision | CSO: image processing | [1991](https://doi.org/10.1109/4.75001) (source only) |
 | AIH-17476 | lossy compressions | Computer Vision | CSO: image processing | [1999](https://doi.org/10.1117/12.352762) (source only) |
 | AIH-17492 | low bit rate | Computer Vision | CSO: image processing | [1985](https://doi.org/10.1109/milcom.1985.4794938) (source only) |
-| AIH-17505 | low resolution | Computer Vision | CSO: image processing | [1973](https://doi.org/10.1016/0022-2836(73)90214-3) (source only) |
+| AIH-17505 | low resolution | Computer Vision | CSO: image processing | — |
 | AIH-17539 | low resolution images | Computer Vision | CSO: image processing | [1994](https://doi.org/10.1117/12.186041) (source only) |
 | AIH-17596 | lsb matching | Computer Vision | CSO: image processing | [2005](https://doi.org/10.1109/lsp.2005.847889) (source only) |
 | AIH-17597 | macro block | Computer Vision | CSO: image processing | [1990](https://openalex.org/W144193218) (source only) |

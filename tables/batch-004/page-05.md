@@ -34,7 +34,7 @@
 | AIH-20045 | optical networking | AI Infrastructure | CSO: computer networks | — |
 | AIH-16511 | optical ofdm | AI Infrastructure | CSO: computer networks | [2006](https://doi.org/10.1049/el:20063636) (source only) |
 | AIH-20046 | optical packet switches | AI Infrastructure | CSO: computer networks | — |
-| AIH-16512 | optical packet switching | AI Infrastructure | CSO: computer networks | [1970](https://doi.org/10.3329/diujst.v6i2.9342) (source only) |
+| AIH-16512 | optical packet switching | AI Infrastructure | CSO: computer networks | [1991](https://doi.org/10.1364/AO.30.003721) (source only) |
 | AIH-16513 | optical packets | AI Infrastructure | CSO: computer networks | [2002](https://doi.org/10.1109/ofc.2002.1036364) (source only) |
 | AIH-20047 | optical parametric oscillator | AI Infrastructure | CSO: computer networks | — |
 | AIH-20048 | optical parametric oscillators | AI Infrastructure | CSO: computer networks | — |

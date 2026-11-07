@@ -8,9 +8,9 @@
 
 | ID | Keyword | Category | Date | Classification | Source |
 |---|---|---|---|---|---|
-| AIH-18001 | boosting algorithm | Machine Learning | 2008 | Dated publication mention | [Source](https://doi.org/10.1109/icmlc.2008.4620409) |
+| AIH-18001 | boosting algorithm | Machine Learning | 1990 | Original or early technical source (term origin unverified) | [Source](https://doi.org/10.1007/BF00116037) |
 | AIH-18002 | loss of heterozygosity | Data Science | 1998 | Dated publication mention | [Source](https://doi.org/10.1046/j.1365-2133.1998.02551.x) |
-| AIH-18003 | c4.5 algorithm | Machine Learning | — | Unresolved | — |
+| AIH-18003 | c4.5 algorithm | Machine Learning | 1992 | Original or early technical source (term origin unverified) | [Source](https://shop.elsevier.com/books/c45/quinlan/978-0-08-050058-4) |
 | AIH-18004 | mental retardation malformation syndrome | Data Science | — | Unresolved | — |
 | AIH-18005 | character images | Machine Learning | 2009 | Dated publication mention | [Source](https://doi.org/10.1109/ccpr.2009.5343952) |
 | AIH-18006 | character segmentation | Machine Learning | 1986 | Dated publication mention | [Source](https://doi.org/10.1117/12.976227) |
@@ -20,8 +20,8 @@
 | AIH-18010 | closed itemsets | Machine Learning | 2003 | Dated publication mention | [Source](https://doi.org/10.1145/952613.952615) |
 | AIH-18011 | cluster validity indices | Machine Learning | 2004 | Dated publication mention | [Source](https://doi.org/10.1007/978-3-540-30185-1_11) |
 | AIH-18012 | color interpolation | Machine Learning | — | Unresolved | — |
-| AIH-18013 | connected component analysis | Machine Learning | 1996 | Dated publication mention | [Source](https://doi.org/10.1109/icpr.1996.547655) |
-| AIH-18014 | conservation status | Machine Learning | 1973 | Dated publication mention | [Source](https://doi.org/10.1016/0006-3207(73)90146-8) |
+| AIH-18013 | connected component analysis | Machine Learning | 1965 | Original or early technical source (term origin unverified) | [Source](https://ntrs.nasa.gov/citations/19650019588) |
+| AIH-18014 | conservation status | Machine Learning | — | Unrelated source withdrawn | — |
 | AIH-18015 | content addressable memory | Machine Learning | 1970 | Dated publication mention | [Source](https://doi.org/10.1016/b978-0-12-564350-4.50025-7) |
 | AIH-18016 | microsatellite instability | Data Science | 1995 | Dated publication mention | [Source](https://doi.org/10.1016/0016-5085(95)26250-4) |
 | AIH-18017 | microsatellites | Data Science | — | Unresolved | — |

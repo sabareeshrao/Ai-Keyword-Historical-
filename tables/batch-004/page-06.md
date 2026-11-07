@@ -164,7 +164,7 @@
 | AIH-16998 | trust modeling | AI Infrastructure | CSO: computer networks | [2008](https://doi.org/10.4018/978-1-59904-804-8.ch013) (source only) |
 | AIH-16999 | trust relationship | AI Infrastructure | CSO: computer networks | [1952](https://doi.org/10.63140/d462iv5dl9) (source only) |
 | AIH-17001 | two wavelength | AI Infrastructure | CSO: computer networks | — |
-| AIH-17002 | udp | AI Infrastructure | CSO: computer networks | — |
+| AIH-17002 | udp | AI Infrastructure | CSO: computer networks | [1980](https://www.rfc-editor.org/info/rfc768/) (source only) |
 | AIH-17003 | uhf rfid | AI Infrastructure | CSO: computer networks | [2007](https://doi.org/10.1007/978-0-387-44710-0) (source only) |
 | AIH-17004 | ultra-wideband (uwb) | AI Infrastructure | CSO: computer networks | [1990](https://doi.org/10.21236/ada233624) (source only) |
 | AIH-17006 | ultrashort impulse signals | AI Infrastructure | CSO: computer networks | [2004](https://doi.org/10.1109/uwbus.2004.1388029) (source only) |
@@ -176,7 +176,7 @@
 | AIH-17011 | unicast routing | AI Infrastructure | CSO: computer networks | [2000](https://doi.org/10.1109/90.842145) (source only) |
 | AIH-17013 | unified theory of acceptance and use of technology | AI Infrastructure | CSO: information systems | — |
 | AIH-17014 | uniform theory of diffraction | AI Infrastructure | CSO: computer networks | [1984](https://doi.org/10.1121/1.390856) (source only) |
-| AIH-17015 | unscented transformations | AI Infrastructure | CSO: computer hardware | [2017](https://doi.org/10.1109/naps.2017.8107354) (source only) |
+| AIH-17015 | unscented transformations | AI Infrastructure | CSO: computer hardware | [1997](https://doi.org/10.1117/12.280797) (source only) |
 | AIH-17016 | unstructured p2p | AI Infrastructure | CSO: computer networks | — |
 | AIH-17017 | unstructured peer-to-peer | AI Infrastructure | CSO: computer networks | [2005](https://doi.org/10.1049/ip-com:20045221) (source only) |
 | AIH-17018 | up-link transmissions | AI Infrastructure | CSO: computer networks | — |

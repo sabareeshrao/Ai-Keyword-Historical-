@@ -12,18 +12,18 @@
 | AIH-17502 | fractional anisotropy | Computer Vision | 2001 | Dated publication mention | [Source](https://openalex.org/W1926586119) |
 | AIH-17503 | fragile watermark | Computer Vision | 2005 | Dated publication mention | [Source](https://doi.org/10.1109/icmlc.2005.1527913) |
 | AIH-17504 | fragile watermarking | Computer Vision | 2001 | Dated publication mention | [Source](https://doi.org/10.1117/12.435398) |
-| AIH-17505 | low resolution | Computer Vision | 1973 | Dated publication mention | [Source](https://doi.org/10.1016/0022-2836(73)90214-3) |
+| AIH-17505 | low resolution | Computer Vision | — | Unrelated source withdrawn | — |
 | AIH-17506 | full band | Computer Vision | 1988 | Dated publication mention | [Source](https://doi.org/10.1016/0038-1098(88)90460-7) |
 | AIH-17507 | fused images | Computer Vision | 2003 | Dated publication mention | [Source](https://doi.org/10.1053/snuc.2003.127311) |
 | AIH-17508 | fusion algorithms | Computer Vision | 1993 | Dated publication mention | [Source](https://doi.org/10.23919/acc.1993.4792985) |
-| AIH-17509 | fusion methods | Computer Vision | 1949 | Dated publication mention | [Source](https://doi.org/10.1021/ac60028a004) |
-| AIH-17510 | fusion process | Computer Vision | 1910 | Dated publication mention | [Source](https://doi.org/10.1038/scientificamerican01081910-23asupp) |
+| AIH-17509 | fusion methods | Computer Vision | — | Unrelated source withdrawn | — |
+| AIH-17510 | fusion process | Computer Vision | — | Unrelated source withdrawn | — |
 | AIH-17511 | fusion techniques | Computer Vision | 1990 | Dated publication mention | [Source](https://doi.org/10.1007/978-1-4612-3272-8_13) |
 | AIH-17512 | fvc2002 | Computer Vision | — | Unresolved | — |
 | AIH-17513 | gaussian filter | Computer Vision | 2008 | Dated publication mention | [Source](https://doi.org/10.1007/978-0-387-48998-8_618) |
 | AIH-17514 | gaussian filters | Computer Vision | 1959 | Dated publication mention | [Source](https://doi.org/10.1109/tau.1959.1166198) |
 | AIH-17515 | gaussian sources | Computer Vision | 1970 | Dated publication mention | [Source](https://doi.org/10.1109/tit.1970.1054563) |
-| AIH-17516 | gear manufacture | Computer Vision | 1935 | Dated publication mention | [Source](https://doi.org/10.1049/jipe.1935.0064) |
+| AIH-17516 | gear manufacture | Computer Vision | — | Unrelated source withdrawn | — |
 | AIH-17517 | geodesic active contour | Computer Vision | 2006 | Dated publication mention | [Source](https://doi.org/10.1109/cvpr.2006.28) |
 | AIH-17518 | geometric active contours | Computer Vision | 2002 | Dated publication mention | [Source](https://doi.org/10.1109/vlsm.2001.938893) |
 | AIH-17519 | geometric attacks | Computer Vision | 2003 | Dated publication mention | [Source](https://doi.org/10.1109/icip.2002.1039908) |

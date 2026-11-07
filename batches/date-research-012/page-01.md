@@ -19,7 +19,7 @@
 | AIH-16509 | optical modulation | AI Infrastructure | 1991 | Dated publication mention | [Source](https://doi.org/10.21236/ada247556) |
 | AIH-16510 | optical network units | AI Infrastructure | 1993 | Dated publication mention | [Source](https://doi.org/10.1109/ohan.1993.587727) |
 | AIH-16511 | optical ofdm | AI Infrastructure | 2006 | Dated publication mention | [Source](https://doi.org/10.1049/el:20063636) |
-| AIH-16512 | optical packet switching | AI Infrastructure | 1970 | Dated publication mention | [Source](https://doi.org/10.3329/diujst.v6i2.9342) |
+| AIH-16512 | optical packet switching | AI Infrastructure | 1991 | Original or early technical source (term origin unverified) | [Source](https://doi.org/10.1364/AO.30.003721) |
 | AIH-16513 | optical packets | AI Infrastructure | 2002 | Dated publication mention | [Source](https://doi.org/10.1109/ofc.2002.1036364) |
 | AIH-16514 | optical phase conjugation | AI Infrastructure | 1977 | Dated publication mention | [Source](https://doi.org/10.1063/1.89723) |
 | AIH-16515 | optical pumping | AI Infrastructure | 1957 | Dated publication mention | [Source](https://doi.org/10.1103/physrev.108.1453) |
