@@ -10,6 +10,7 @@
 [**Date Research 010 — next 2,000 IDs (12501–14500), linked sources, and ★ estimates**](../batches/DATE_RESEARCH_010_NEXT_2000.md)
 [**Date Research 011 — next 2,000 IDs (14501–16500), linked sources, and ★ estimates**](../batches/DATE_RESEARCH_011_NEXT_2000.md)
 [**Date Research 012 — next 2,000 IDs (16501–18500), linked sources, and ★ estimates**](../batches/DATE_RESEARCH_012_NEXT_2000.md)
+[**Date Research 013 — final 1,600 IDs (18501–20100), publication dates, ★ estimates and unresolved**](../batches/DATE_RESEARCH_013_FINAL_1600.md)
 [**Previously undated recovery — explicitly speculative ★★ years**](../batches/UNDATED_RECOVERY_DOUBLE_STAR.md)
 
 Every keyword is included, not a short preview. Four batches of 5,000; each divided into ten GitHub-friendly tables of 500 rows.

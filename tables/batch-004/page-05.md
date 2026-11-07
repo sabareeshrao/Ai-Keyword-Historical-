@@ -7,16 +7,16 @@
 | ID | Keyword | Field | Subfield | Source date (first use unverified) |
 |---|---|---|---|---|
 | AIH-16495 | opportunistic network | AI Infrastructure | CSO: computer networks | [2007](https://doi.org/10.1109/packet.2007.4397041) (source only) |
-| AIH-20036 | opportunistic networking | AI Infrastructure | CSO: computer networks | — |
+| AIH-20036 | opportunistic networking | AI Infrastructure | CSO: computer networks | [2007](https://doi.org/10.1145/1247694) (source only) |
 | AIH-16496 | opportunistic networks | AI Infrastructure | CSO: computer networks | [2009](https://doi.org/10.3724/sp.j.1001.2009.00124) (source only) |
 | AIH-16497 | opportunistic routing | AI Infrastructure | CSO: computer networks | — |
 | AIH-16498 | opportunistic spectrum access | AI Infrastructure | CSO: computer networks | [2006](https://doi.org/10.1109/milcom.2006.302445) (source only) |
-| AIH-20037 | optical access | AI Infrastructure | CSO: computer networks | — |
+| AIH-20037 | optical access | AI Infrastructure | CSO: computer networks | [1996](https://doi.org/10.1049/ic:19960319) (source only) |
 | AIH-16499 | optical access network | AI Infrastructure | CSO: computer networks | [1998](https://doi.org/10.1364/ona.1998.sm2) (source only) |
 | AIH-16500 | optical access networks | AI Infrastructure | CSO: computer networks | [1996](https://doi.org/10.1109/ofc.1996.907711) (source only) |
-| AIH-20038 | optical amplifier | AI Infrastructure | CSO: computer networks | — |
-| AIH-20039 | optical amplifiers | AI Infrastructure | CSO: computer networks | — |
-| AIH-20040 | optical buffering | AI Infrastructure | CSO: computer networks | — |
+| AIH-20038 | optical amplifier | AI Infrastructure | CSO: computer networks | [1960](https://doi.org/10.21236/ad0239378) (source only) |
+| AIH-20039 | optical amplifiers | AI Infrastructure | CSO: computer networks | [1990](https://doi.org/10.1364/oaa.1990.mc1) (source only) |
+| AIH-20040 | optical buffering | AI Infrastructure | CSO: computer networks | [1995](https://doi.org/10.1364/oaa.1995.sac5) (source only) |
 | AIH-16501 | optical computing | AI Infrastructure | CSO: computer hardware | [1972](https://doi.org/10.1109/mspec.1972.5218639) (source only) |
 | AIH-16502 | optical fiber communication | AI Infrastructure | CSO: computer hardware | [1981](https://doi.org/10.1364/ofc.1981.tub2) (source only) |
 | AIH-16503 | optical fiber coupling | AI Infrastructure | CSO: computer networks | [1975](https://openalex.org/W1483315533) (source only) |
@@ -31,27 +31,27 @@
 | AIH-16508 | optical materials | AI Infrastructure | CSO: computer hardware | [1993](https://doi.org/10.1016/0925-3467(93)90024-u) (source only) |
 | AIH-16509 | optical modulation | AI Infrastructure | CSO: computer networks | [1991](https://doi.org/10.21236/ada247556) (source only) |
 | AIH-16510 | optical network units | AI Infrastructure | CSO: computer networks | [1993](https://doi.org/10.1109/ohan.1993.587727) (source only) |
-| AIH-20045 | optical networking | AI Infrastructure | CSO: computer networks | — |
+| AIH-20045 | optical networking | AI Infrastructure | CSO: computer networks | [2005](https://doi.org/10.1016/j.osn.2005.06.002) (source only) |
 | AIH-16511 | optical ofdm | AI Infrastructure | CSO: computer networks | [2006](https://doi.org/10.1049/el:20063636) (source only) |
-| AIH-20046 | optical packet switches | AI Infrastructure | CSO: computer networks | — |
+| AIH-20046 | optical packet switches | AI Infrastructure | CSO: computer networks | [1998](https://doi.org/10.1109/50.736577) (source only) |
 | AIH-16512 | optical packet switching | AI Infrastructure | CSO: computer networks | [1991](https://doi.org/10.1364/AO.30.003721) (source only) |
 | AIH-16513 | optical packets | AI Infrastructure | CSO: computer networks | [2002](https://doi.org/10.1109/ofc.2002.1036364) (source only) |
-| AIH-20047 | optical parametric oscillator | AI Infrastructure | CSO: computer networks | — |
-| AIH-20048 | optical parametric oscillators | AI Infrastructure | CSO: computer networks | — |
+| AIH-20047 | optical parametric oscillator | AI Infrastructure | CSO: computer networks | [1987](https://doi.org/10.1364/assl.1987.wf1) (source only) |
+| AIH-20048 | optical parametric oscillators | AI Infrastructure | CSO: computer networks | [1976](https://doi.org/10.21236/ada036311) (source only) |
 | AIH-16514 | optical phase conjugation | AI Infrastructure | CSO: computer networks | [1977](https://doi.org/10.1063/1.89723) (source only) |
 | AIH-16515 | optical pumping | AI Infrastructure | CSO: computer networks | [1957](https://doi.org/10.1103/physrev.108.1453) (source only) |
 | AIH-20049 | optical resonators | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16516 | optical switching | AI Infrastructure | CSO: computer networks | [2008](https://doi.org/10.1017/cbo9780511619731.003) (source only) |
 | AIH-16517 | optical transceivers | AI Infrastructure | CSO: computer networks | [1986](https://doi.org/10.1016/b978-0-08-030577-6.50020-6) (source only) |
-| AIH-20051 | optical transmission | AI Infrastructure | CSO: computer hardware | — |
+| AIH-20051 | optical transmission | AI Infrastructure | CSO: computer hardware | [1978](https://doi.org/10.21236/ada056746) (source only) |
 | AIH-20050 | optical transmission systems | AI Infrastructure | CSO: computer hardware | — |
 | AIH-20052 | optical transmissions | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16518 | optical transport networks | AI Infrastructure | CSO: computer networks | [1993](https://doi.org/10.1109/5.247731) (source only) |
 | AIH-20053 | optical wireless | AI Infrastructure | CSO: computer networks | — |
 | AIH-20054 | optical- | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16519 | optical-fiber communications | AI Infrastructure | CSO: computer hardware | [1974](https://openalex.org/W3011081543) (source only) |
-| AIH-20055 | optically pumped lasers | AI Infrastructure | CSO: computer networks | — |
-| AIH-20056 | optimal beamforming | AI Infrastructure | CSO: computer networks | — |
+| AIH-20055 | optically pumped lasers | AI Infrastructure | CSO: computer networks | [1978](https://doi.org/10.2172/6895972) (source only) |
+| AIH-20056 | optimal beamforming | AI Infrastructure | CSO: computer networks | [2004](https://doi.org/10.3997/2214-4609-pdb.3.p174) (source only) |
 | AIH-16521 | optimal power | AI Infrastructure | CSO: computer networks | [1990](https://doi.org/10.1016/0378-7796(90)90013-s) (source only) |
 | AIH-16520 | optimal power allocation | AI Infrastructure | CSO: computer networks | [2009](https://doi.org/10.23919/oceans.2009.5422211) (source only) |
 | AIH-16522 | organic transistor | AI Infrastructure | CSO: computer hardware | [2000](https://doi.org/10.1002/(sici)1521-4095(200002)12:3<227::aid-adma227>3.0.co;2-u) (source only) |
@@ -75,50 +75,50 @@
 | AIH-16537 | p2p overlays | AI Infrastructure | CSO: computer networks | [2003](https://openalex.org/W1878029189) (source only) |
 | AIH-16538 | packet classification | AI Infrastructure | CSO: computer networks | [1999](https://doi.org/10.1145/316188.316217) (source only) |
 | AIH-16539 | packet delay | AI Infrastructure | CSO: computer networks | [1993](https://doi.org/10.1145/166237.166265) (source only) |
-| AIH-20063 | packet delivery | AI Infrastructure | CSO: computer networks | — |
-| AIH-20062 | packet delivery ratio | AI Infrastructure | CSO: computer networks | — |
+| AIH-20063 | packet delivery | AI Infrastructure | CSO: computer networks | [2003](https://doi.org/10.1109/hicss.2003.1174846) (source only) |
+| AIH-20062 | packet delivery ratio | AI Infrastructure | CSO: computer networks | [2003](https://doi.org/10.1109/hicss.2003.1174846) (source only) |
 | AIH-16540 | packet drops | AI Infrastructure | CSO: computer networks | [2005](https://doi.org/10.3182/20051114-2-mx-3901.00010) (source only) |
 | AIH-16541 | packet filtering | AI Infrastructure | CSO: computer networks | [2002](https://doi.org/10.7146/brics.v9i43.21758) (source only) |
 | AIH-16542 | packet filters | AI Infrastructure | CSO: computer networks | [2001](https://doi.org/10.1007/bf03008836) (source only) |
 | AIH-16545 | packet loss | AI Infrastructure | CSO: computer networks | [1991](https://doi.org/10.1109/49.76635) (source only) |
-| AIH-20064 | packet loss probability | AI Infrastructure | CSO: computer networks | — |
+| AIH-20064 | packet loss probability | AI Infrastructure | CSO: computer networks | [2002](https://doi.org/10.1109/tvt.2002.804843) (source only) |
 | AIH-16543 | packet loss rate | AI Infrastructure | CSO: computer networks | [2001](https://doi.org/10.1049/cp:20010057) (source only) |
 | AIH-16544 | packet loss rates | AI Infrastructure | CSO: computer networks | [1995](https://doi.org/10.1145/226275.226277) (source only) |
-| AIH-20065 | packet loss ratio | AI Infrastructure | CSO: computer networks | — |
+| AIH-20065 | packet loss ratio | AI Infrastructure | CSO: computer networks | [2005](https://doi.org/10.3745/kipstc.2005.12c.1.121) (source only) |
 | AIH-16546 | packet losses | AI Infrastructure | CSO: computer networks | [2003](https://doi.org/10.1145/940991.941015) (source only) |
 | AIH-16547 | packet marking | AI Infrastructure | CSO: computer networks | [2002](https://doi.org/10.1109/tac.2002.1008365) (source only) |
 | AIH-16548 | packet processing | AI Infrastructure | CSO: computer networks | [1995](https://doi.org/10.1145/217382.217427) (source only) |
-| AIH-20066 | packet scheduler | AI Infrastructure | CSO: computer networks | — |
+| AIH-20066 | packet scheduler | AI Infrastructure | CSO: computer networks | [2001](https://doi.org/10.1145/964723.383076) (source only) |
 | AIH-16549 | packet scheduling | AI Infrastructure | CSO: computer networks | [2001](https://doi.org/10.1002/0471224391.ch4) (source only) |
-| AIH-20067 | packet scheduling algorithm | AI Infrastructure | CSO: computer networks | — |
-| AIH-20068 | packet switches | AI Infrastructure | CSO: computer networks | — |
+| AIH-20067 | packet scheduling algorithm | AI Infrastructure | CSO: computer networks | [2004](https://doi.org/10.5220/0001390901270133) (source only) |
+| AIH-20068 | packet switches | AI Infrastructure | CSO: computer networks | [1985](https://doi.org/10.17487/rfc970) (source only) |
 | AIH-16550 | packet switching | AI Infrastructure | CSO: computer networks | [1980](https://doi.org/10.2172/5478058) (source only) |
 | AIH-16551 | packet transmissions | AI Infrastructure | CSO: computer networks | [2003](https://doi.org/10.1109/icassp.2003.1202585) (source only) |
-| AIH-20069 | pair-wise error probability | AI Infrastructure | CSO: computer networks | — |
+| AIH-20069 | pair-wise error probability | AI Infrastructure | CSO: computer networks | [2010](https://doi.org/10.1007/s11432-010-4020-y) (source only) |
 | AIH-20070 | pairwise key | AI Infrastructure | CSO: computer networks | — |
-| AIH-20071 | papr reduction | AI Infrastructure | CSO: computer networks | — |
+| AIH-20071 | papr reduction | AI Infrastructure | CSO: computer networks | [2006](https://doi.org/10.1109/icet.2006.336008) (source only) |
 | AIH-20072 | parabolic antennas | AI Infrastructure | CSO: computer networks | — |
 | AIH-20073 | parallel application | AI Infrastructure | CSO: computer hardware | — |
 | AIH-20074 | parallel applications | AI Infrastructure | CSO: computer hardware | — |
-| AIH-20075 | parallel code | AI Infrastructure | CSO: computer hardware | — |
-| AIH-20076 | parallel execution | AI Infrastructure | CSO: computer hardware | — |
-| AIH-20077 | parallel executions | AI Infrastructure | CSO: computer hardware | — |
+| AIH-20075 | parallel code | AI Infrastructure | CSO: computer hardware | [1988](https://doi.org/10.1145/55364.55421) (source only) |
+| AIH-20076 | parallel execution | AI Infrastructure | CSO: computer hardware | [1992](https://doi.org/10.1007/bfb0022706) (source only) |
+| AIH-20077 | parallel executions | AI Infrastructure | CSO: computer hardware | [1993](https://doi.org/10.1109/5.236189) (source only) |
 | AIH-16552 | parallel implementation | AI Infrastructure | CSO: computer hardware | [1986](https://doi.org/10.1007/978-1-4684-5218-1_12) (source only) |
 | AIH-16553 | parallel implementations | AI Infrastructure | CSO: computer hardware | [1986](https://doi.org/10.1016/0167-9260(86)90002-7) (source only) |
-| AIH-20078 | parallel languages | AI Infrastructure | CSO: computer hardware | — |
+| AIH-20078 | parallel languages | AI Infrastructure | CSO: computer hardware | [1984](https://doi.org/10.1007/978-3-662-11106-2_5) (source only) |
 | AIH-16554 | parallel plates | AI Infrastructure | CSO: computer networks | [1923](https://doi.org/10.1364/josa.7.001017) (source only) |
 | AIH-20079 | parallel program | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16555 | parallel programming | AI Infrastructure | CSO: computer hardware | [1986](https://doi.org/10.1007/bf01414557) (source only) |
-| AIH-20080 | parallel programs | AI Infrastructure | CSO: computer hardware | — |
-| AIH-20081 | parallel version | AI Infrastructure | CSO: computer hardware | — |
-| AIH-20083 | parallelizing | AI Infrastructure | CSO: computer hardware | — |
-| AIH-20084 | parametric amplifiers | AI Infrastructure | CSO: computer networks | — |
+| AIH-20080 | parallel programs | AI Infrastructure | CSO: computer hardware | [1985](https://doi.org/10.1007/3-540-15239-3_16) (source only) |
+| AIH-20081 | parallel version | AI Infrastructure | CSO: computer hardware | [1988](https://doi.org/10.21236/ada199804) (source only) |
+| AIH-20083 | parallelizing | AI Infrastructure | CSO: computer hardware | [1990](https://doi.org/10.7551/mitpress/5510.003.0008) (source only) |
+| AIH-20084 | parametric amplifiers | AI Infrastructure | CSO: computer networks | [1961](https://doi.org/10.1109/pgmtt.1961.1122362) (source only) |
 | AIH-16556 | parametric yield | AI Infrastructure | CSO: computer hardware | [1985](https://doi.org/10.1109/t-ed.1985.21965) (source only) |
 | AIH-20085 | partial channel state information | AI Infrastructure | CSO: computer networks | — |
 | AIH-20086 | partial order reductions | AI Infrastructure | CSO: database systems | — |
 | AIH-16557 | partial reconfiguration | AI Infrastructure | CSO: computer hardware | [2000](https://doi.org/10.1109/date.2000.840290) (source only) |
 | AIH-16558 | particle beam injection | AI Infrastructure | CSO: computer networks | [2022](https://doi.org/10.5772/intechopen.106037) (source only) |
-| AIH-20087 | particle filter algorithms | AI Infrastructure | CSO: computer hardware | — |
+| AIH-20087 | particle filter algorithms | AI Infrastructure | CSO: computer hardware | [2008](https://doi.org/10.1109/mlsp.2008.4685497) (source only) |
 | AIH-16559 | particle filtering | AI Infrastructure | CSO: computer hardware | [2002](https://doi.org/10.1109/ssp.2001.955314) (source only) |
 | AIH-20088 | particle optics | AI Infrastructure | CSO: computer networks | — |
 | AIH-20089 | parylene | AI Infrastructure | CSO: computer hardware | — |
@@ -128,25 +128,25 @@
 | AIH-16562 | passive mode locking | AI Infrastructure | CSO: database systems | [1968](https://doi.org/10.1063/1.1651984) (source only) |
 | AIH-16563 | passive optical network (pon) | AI Infrastructure | CSO: computer networks | [1995](https://doi.org/10.1117/12.201960) (source only) |
 | AIH-16565 | passive optical networks | AI Infrastructure | CSO: computer networks | [1995](https://doi.org/10.1109/50.387812) (source only) |
-| AIH-20091 | passive radar | AI Infrastructure | CSO: computer hardware | — |
+| AIH-20091 | passive radar | AI Infrastructure | CSO: computer hardware | [2006](https://doi.org/10.1049/ic:20060150) (source only) |
 | AIH-20092 | passive radars | AI Infrastructure | CSO: computer hardware | — |
-| AIH-20093 | passive uhf rfid | AI Infrastructure | CSO: computer networks | — |
+| AIH-20093 | passive uhf rfid | AI Infrastructure | CSO: computer networks | [2007](https://doi.org/10.1007/978-0-387-44710-0) (source only) |
 | AIH-20094 | password guessing attack | AI Infrastructure | CSO: computer networks | — |
 | AIH-16566 | patch antenna | AI Infrastructure | CSO: computer networks | [1995](https://doi.org/10.21236/ada299162) (source only) |
 | AIH-16567 | patch antennas | AI Infrastructure | CSO: computer networks | [1988](https://doi.org/10.1049/el:19880242) (source only) |
 | AIH-16568 | path computation elements | AI Infrastructure | CSO: computer networks | [2008](https://doi.org/10.1109/honet.2008.4810226) (source only) |
 | AIH-20095 | path protection | AI Infrastructure | CSO: computer networks | — |
 | AIH-16569 | patient data | AI Infrastructure | CSO: database systems | [1975](https://openalex.org/W2467175091) (source only) |
-| AIH-20096 | peak power | AI Infrastructure | CSO: computer networks | — |
-| AIH-20097 | peak-to-average power ratio (papr) | AI Infrastructure | CSO: computer networks | — |
-| AIH-20098 | peak-to-average power ratios | AI Infrastructure | CSO: computer networks | — |
+| AIH-20096 | peak power | AI Infrastructure | CSO: computer networks | [1979](https://doi.org/10.1049/ep.1979.0009) (source only) |
+| AIH-20097 | peak-to-average power ratio (papr) | AI Infrastructure | CSO: computer networks | [2002](https://doi.org/10.1109/inmic.2002.1310167) (source only) |
+| AIH-20098 | peak-to-average power ratios | AI Infrastructure | CSO: computer networks | [2000](https://doi.org/10.1109/18.868473) (source only) |
 | AIH-16570 | pedagogical issues | AI Infrastructure | CSO: information systems | [1983](https://doi.org/10.2307/1510525) (source only) |
 | AIH-16571 | peer-to-peer overlay networks | AI Infrastructure | CSO: computer networks | [2005](https://doi.org/10.1201/9781420035209-10) (source only) |
 | AIH-16572 | pentacenes | AI Infrastructure | CSO: computer hardware | [1978](https://doi.org/10.1002/jlcr.2580140313) (source only) |
 | AIH-16573 | perceived video quality | AI Infrastructure | CSO: computer networks | [2007](https://doi.org/10.1117/12.707560) (source only) |
-| AIH-20099 | perfect channel state information | AI Infrastructure | CSO: computer networks | — |
+| AIH-20099 | perfect channel state information | AI Infrastructure | CSO: computer networks | [2003](https://doi.org/10.1109/isit.2003.1228360) (source only) |
 | AIH-16574 | perfect forward secrecy | AI Infrastructure | CSO: computer networks | [2005](https://doi.org/10.1109/lcomm.2005.01004) (source only) |
-| AIH-20100 | perfect secrecy | AI Infrastructure | CSO: computer networks | — |
+| AIH-20100 | perfect secrecy | AI Infrastructure | CSO: computer networks | [1996](https://doi.org/10.1007/bf00125078) (source only) |
 | AIH-16575 | permanent faults | AI Infrastructure | CSO: computer networks | [1979](https://doi.org/10.1109/tc.1979.1675397) (source only) |
 | AIH-16576 | pervasive computing | AI Infrastructure | CSO: computer networks | [1999](https://doi.org/10.1145/313300.313414) (source only) |
 | AIH-16577 | phase change memory | AI Infrastructure | CSO: computer hardware | [2004](https://doi.org/10.1109/iedm.2003.1269376) (source only) |
@@ -422,8 +422,8 @@
 | AIH-17116 | semantic security | AI Infrastructure | CSO: computer networks | [2007](https://doi.org/10.1109/icdim.2007.369339) (source only) |
 | AIH-19377 | semiconducting indium gallium arsenide | AI Infrastructure | CSO: computer networks | — |
 | AIH-16787 | semiconducting indium phosphide | AI Infrastructure | CSO: computer networks | — |
-| AIH-19390 | semiconductor counters | AI Infrastructure | CSO: computer networks | — |
-| AIH-19419 | semiconductor optical amplifier | AI Infrastructure | CSO: computer networks | — |
+| AIH-19390 | semiconductor counters | AI Infrastructure | CSO: computer networks | [1962](https://doi.org/10.1088/0370-1328/80/1/331) (source only) |
+| AIH-19419 | semiconductor optical amplifier | AI Infrastructure | CSO: computer networks | [1990](https://doi.org/10.1364/oaa.1990.wc3) (source only) |
 | AIH-19427 | semiconductor optical amplifiers | AI Infrastructure | CSO: computer networks | — |
 | AIH-16788 | semiconductor quantum wires | AI Infrastructure | CSO: computer hardware | [1990](https://doi.org/10.1142/9789814503389_0019) (source only) |
 | AIH-16789 | sensor network applications | AI Infrastructure | CSO: computer networks | — |
@@ -431,29 +431,29 @@
 | AIH-16791 | sequential circuits | AI Infrastructure | CSO: computer hardware | [1969](https://doi.org/10.1016/b978-0-08-012982-2.50011-2) (source only) |
 | AIH-16792 | sequential consistency | AI Infrastructure | CSO: database systems | [1982](https://doi.org/10.1016/0001-6918(82)90060-9) (source only) |
 | AIH-19430 | sequential estimation | AI Infrastructure | CSO: computer hardware | — |
-| AIH-19461 | sequential implementation | AI Infrastructure | CSO: computer hardware | — |
-| AIH-19465 | sequential importance sampling | AI Infrastructure | CSO: computer hardware | — |
+| AIH-19461 | sequential implementation | AI Infrastructure | CSO: computer hardware | [2003](https://doi.org/10.1016/s0925-2312(03)00365-5) (source only) |
+| AIH-19465 | sequential importance sampling | AI Infrastructure | CSO: computer hardware | [1999](https://doi.org/10.1093/oso/9780198504856.003.0034) (source only) |
 | AIH-16793 | server loads | AI Infrastructure | CSO: computer networks | [2014](https://doi.org/10.1007/978-3-319-06740-7_39) (source only) |
 | AIH-16794 | service class | AI Infrastructure | CSO: computer networks | [2002](https://doi.org/10.4324/9780203202920-11) (source only) |
-| AIH-19524 | service components | AI Infrastructure | CSO: computer networks | — |
+| AIH-19524 | service components | AI Infrastructure | CSO: computer networks | [1973](https://openalex.org/W296806617) (source only) |
 | AIH-16795 | service composition | AI Infrastructure | CSO: computer networks | — |
 | AIH-16796 | service compositions | AI Infrastructure | CSO: computer networks | [2004](https://doi.org/10.1016/s0306-4379(03)00051-6) (source only) |
-| AIH-19526 | service delivery platform | AI Infrastructure | CSO: computer networks | — |
-| AIH-19532 | service discovery protocol | AI Infrastructure | CSO: computer networks | — |
-| AIH-19544 | service execution | AI Infrastructure | CSO: computer networks | — |
+| AIH-19526 | service delivery platform | AI Infrastructure | CSO: computer networks | [2005](https://doi.org/10.1145/1099423.1099433) (source only) |
+| AIH-19532 | service discovery protocol | AI Infrastructure | CSO: computer networks | [2002](https://doi.org/10.1007/3-540-47906-6_107) (source only) |
+| AIH-19544 | service execution | AI Infrastructure | CSO: computer networks | [1988](https://openalex.org/W3083452911) (source only) |
 | AIH-16797 | service management | AI Infrastructure | CSO: computer networks | [1989](https://doi.org/10.1007/978-3-663-14557-8_4) (source only) |
-| AIH-19545 | service orchestration | AI Infrastructure | CSO: computer networks | — |
+| AIH-19545 | service orchestration | AI Infrastructure | CSO: computer networks | [2004](https://doi.org/10.1109/hicss.2004.1265686) (source only) |
 | AIH-16798 | service overlay networks | AI Infrastructure | CSO: computer networks | [2004](https://doi.org/10.1109/icc.2004.1312746) (source only) |
 | AIH-16799 | service quality | AI Infrastructure | CSO: computer networks | [1994](https://doi.org/10.1108/eum0000000003941) (source only) |
 | AIH-16800 | service requirements | AI Infrastructure | CSO: computer networks | — |
-| AIH-19546 | service selection | AI Infrastructure | CSO: computer networks | — |
+| AIH-19546 | service selection | AI Infrastructure | CSO: computer networks | [2004](https://doi.org/10.1002/0470091509.ch20) (source only) |
 | AIH-16801 | services composition | AI Infrastructure | CSO: computer networks | — |
-| AIH-19552 | services selection | AI Infrastructure | CSO: computer networks | — |
-| AIH-19559 | session initiation protocol | AI Infrastructure | CSO: computer networks | — |
+| AIH-19552 | services selection | AI Infrastructure | CSO: computer networks | [2006](https://doi.org/10.1109/nwesp.2006.3) (source only) |
+| AIH-19559 | session initiation protocol | AI Infrastructure | CSO: computer networks | [1999](https://doi.org/10.17487/rfc2543) (source only) |
 | AIH-19654 | session initiation protocols | AI Infrastructure | CSO: computer networks | — |
 | AIH-16802 | session key | AI Infrastructure | CSO: computer networks | [1999](https://doi.org/10.17487/rfc2522) (source only) |
 | AIH-16803 | shack-hartmann | AI Infrastructure | CSO: computer hardware | — |
-| AIH-19672 | shape memory alloy actuators | AI Infrastructure | CSO: computer hardware | — |
+| AIH-19672 | shape memory alloy actuators | AI Infrastructure | CSO: computer hardware | [1994](https://doi.org/10.2514/6.1994-1757) (source only) |
 | AIH-16804 | shared cache | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16805 | shared memories | AI Infrastructure | CSO: computer hardware | [1989](https://doi.org/10.1109/sfcs.1989.63508) (source only) |
 | AIH-16810 | shared memory | AI Infrastructure | CSO: computer hardware | [1992](https://doi.org/10.21236/ada256222) (source only) |
@@ -461,37 +461,37 @@
 | AIH-16807 | shared memory multiprocessor | AI Infrastructure | CSO: computer networks | — |
 | AIH-16808 | shared memory multiprocessors | AI Infrastructure | CSO: computer networks | [1986](https://doi.org/10.1126/science.231.4741.963) (source only) |
 | AIH-16809 | shared memory system | AI Infrastructure | CSO: computer hardware | [1990](https://doi.org/10.1109/2.55505) (source only) |
-| AIH-19709 | shared path protection | AI Infrastructure | CSO: computer networks | — |
-| AIH-19738 | shared secrets | AI Infrastructure | CSO: computer networks | — |
+| AIH-19709 | shared path protection | AI Infrastructure | CSO: computer networks | [2002](https://doi.org/10.1109/ofc.2002.1036508) (source only) |
+| AIH-19738 | shared secrets | AI Infrastructure | CSO: computer networks | [1998](https://doi.org/10.1016/s0167-4048(98)80102-8) (source only) |
 | AIH-16811 | sharing information | AI Infrastructure | CSO: database systems | — |
-| AIH-19740 | sharing schemes | AI Infrastructure | CSO: computer networks | — |
-| AIH-19780 | sharp features | AI Infrastructure | CSO: computer hardware | — |
-| AIH-19783 | ship detection | AI Infrastructure | CSO: computer hardware | — |
+| AIH-19740 | sharing schemes | AI Infrastructure | CSO: computer networks | [1993](https://doi.org/10.1136/inpract.15.1.51) (source only) |
+| AIH-19780 | sharp features | AI Infrastructure | CSO: computer hardware | [1999](https://doi.org/10.1145/306363.306404) (source only) |
+| AIH-19783 | ship detection | AI Infrastructure | CSO: computer hardware | [1985](https://doi.org/10.4095/332004) (source only) |
 | AIH-16812 | short signatures | AI Infrastructure | CSO: computer networks | [2004](https://doi.org/10.1007/s00145-004-0314-9) (source only) |
 | AIH-19794 | shuttle radar topography mission | AI Infrastructure | CSO: computer hardware | — |
 | AIH-16813 | sige hbts | AI Infrastructure | CSO: computer hardware | [1995](https://doi.org/10.1016/0038-1101(95)00064-z) (source only) |
 | AIH-16814 | signal timing | AI Infrastructure | CSO: computer hardware | [1985](https://doi.org/10.1007/978-1-349-06978-1_4) (source only) |
 | AIH-19817 | signal to interference plus noise ratio | AI Infrastructure | CSO: computer networks | — |
-| AIH-19830 | signaling costs | AI Infrastructure | CSO: computer networks | — |
+| AIH-19830 | signaling costs | AI Infrastructure | CSO: computer networks | [1996](https://doi.org/10.1109/90.541319) (source only) |
 | AIH-16815 | signcryption | AI Infrastructure | CSO: computer networks | [2003](https://doi.org/10.1007/978-3-540-45203-4_31) (source only) |
 | AIH-16816 | silicon photonics | AI Infrastructure | CSO: computer networks | — |
 | AIH-19832 | silicon waveguide | AI Infrastructure | CSO: computer networks | — |
 | AIH-16817 | simple network management protocols | AI Infrastructure | CSO: computer networks | — |
-| AIH-19873 | simulation and measurement | AI Infrastructure | CSO: computer networks | — |
+| AIH-19873 | simulation and measurement | AI Infrastructure | CSO: computer networks | [2023](https://doi.org/10.25144/18317) (source only) |
 | AIH-16819 | single carrier | AI Infrastructure | CSO: computer networks | [1997](https://doi.org/10.1007/978-1-4615-6231-3_22) (source only) |
 | AIH-19878 | single carrier systems | AI Infrastructure | CSO: computer networks | — |
 | AIH-16820 | single event upsets | AI Infrastructure | CSO: computer hardware | [1981](https://doi.org/10.1109/tns.1981.4335654) (source only) |
 | AIH-16821 | single mode fibers | AI Infrastructure | CSO: computer hardware | [1978](https://doi.org/10.1364/ol.3.000060) (source only) |
 | AIH-16822 | single path | AI Infrastructure | CSO: computer networks | [1963](https://doi.org/10.1364/ao.2.000503) (source only) |
 | AIH-16823 | single precision | AI Infrastructure | CSO: computer hardware | [1976](https://doi.org/10.2514/6.1976-819) (source only) |
-| AIH-19923 | single sensor | AI Infrastructure | CSO: computer hardware | — |
+| AIH-19923 | single sensor | AI Infrastructure | CSO: computer hardware | [1991](https://doi.org/10.21236/ada241827) (source only) |
 | AIH-16824 | single-axis | AI Infrastructure | CSO: computer hardware | [1961](https://doi.org/10.1037/e400222004-001) (source only) |
-| AIH-19924 | single-carrier transmission | AI Infrastructure | CSO: computer networks | — |
+| AIH-19924 | single-carrier transmission | AI Infrastructure | CSO: computer networks | [1997](https://doi.org/10.1007/978-1-4615-6231-3_22) (source only) |
 | AIH-16825 | single-hop | AI Infrastructure | CSO: computer networks | — |
-| AIH-19948 | single-mode optical fiber | AI Infrastructure | CSO: computer hardware | — |
+| AIH-19948 | single-mode optical fiber | AI Infrastructure | CSO: computer hardware | [1981](https://doi.org/10.21236/ada111229) (source only) |
 | AIH-16826 | sink nodes | AI Infrastructure | CSO: computer networks | — |
 | AIH-19954 | sip | AI Infrastructure | CSO: computer networks | — |
-| AIH-19969 | situated learning | AI Infrastructure | CSO: information systems | — |
+| AIH-19969 | situated learning | AI Infrastructure | CSO: information systems | [1991](https://doi.org/10.1017/cbo9780511815355) (source only) |
 | AIH-16827 | situation assessment | AI Infrastructure | CSO: computer hardware | [1993](https://doi.org/10.21236/ada274685) (source only) |
 | AIH-16828 | skew angles | AI Infrastructure | CSO: database systems | — |
 | AIH-16829 | sleep mode | AI Infrastructure | CSO: computer networks | [1995](https://doi.org/10.1109/dac.1995.250060) (source only) |
@@ -501,7 +501,7 @@
 | AIH-20058 | slot arrays | AI Infrastructure | CSO: computer networks | — |
 | AIH-16833 | slot assignment | AI Infrastructure | CSO: computer networks | [1979](https://doi.org/10.1109/tcom.1979.1094297) (source only) |
 | AIH-16834 | slotted aloha | AI Infrastructure | CSO: computer networks | [1982](https://doi.org/10.21236/ada120267) (source only) |
-| AIH-20059 | slow light | AI Infrastructure | CSO: computer hardware | — |
+| AIH-20059 | slow light | AI Infrastructure | CSO: computer hardware | [2004](https://doi.org/10.1201/9781420034332.ch5) (source only) |
 | AIH-20082 | slow start | AI Infrastructure | CSO: computer networks | — |
 | AIH-16835 | small signal model | AI Infrastructure | CSO: computer hardware | [1966](https://doi.org/10.1016/0042-207x(66)92637-6) (source only) |
 | AIH-16836 | smart contracts | AI Infrastructure | CSO: computer networks | [2017](https://doi.org/10.64628/aa.gu5nnwr7e) (source only) |

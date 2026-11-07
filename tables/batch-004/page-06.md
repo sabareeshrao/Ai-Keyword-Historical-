@@ -438,11 +438,11 @@
 | AIH-17272 | multi-signature | AI Safety | CSO: cybersecurity | [2004](https://doi.org/10.1016/s0096-3003(02)00650-1) (source only) |
 | AIH-17273 | multimodal biometric systems | AI Safety | CSO: computer security | [2003](https://doi.org/10.1007/978-1-4615-0371-2_15) (source only) |
 | AIH-17274 | multisignature scheme | AI Safety | CSO: cybersecurity | [1988](https://doi.org/10.1145/48012.48246) (source only) |
-| AIH-19212 | negative selection algorithm | AI Safety | CSO: cybersecurity | — |
+| AIH-19212 | negative selection algorithm | AI Safety | CSO: cybersecurity | [2005](https://doi.org/10.1145/1068009.1068056) (source only) |
 | AIH-17275 | network intrusion detection | AI Safety | CSO: cybersecurity | — |
 | AIH-17276 | normal basis | AI Safety | CSO: cybersecurity | [1936](https://doi.org/10.2307/2370977) (source only) |
 | AIH-19268 | normal behavior | AI Safety | CSO: cybersecurity | — |
-| AIH-19301 | one-time passwords | AI Safety | CSO: computer security | — |
+| AIH-19301 | one-time passwords | AI Safety | CSO: computer security | [2003](https://doi.org/10.1007/978-3-540-39737-3_99) (source only) |
 | AIH-17277 | onion routing | AI Safety | CSO: privacy | [1998](https://doi.org/10.21236/ada465335) (source only) |
 | AIH-17279 | palmprint | AI Safety | CSO: computer security | [2004](https://doi.org/10.1007/b115779) (source only) |
 | AIH-17278 | palmprint recognition | AI Safety | CSO: computer security | [2003](https://doi.org/10.1016/s0167-8655(03)00141-7) (source only) |

@@ -351,11 +351,11 @@
 | AIH-17641 | noise signals | Computer Vision | CSO: image processing | [2023](https://doi.org/10.2139/ssrn.4673339) (source only) |
 | AIH-17642 | noisy image | Computer Vision | CSO: image processing | [1994](https://doi.org/10.1016/b978-0-444-81467-8.50015-6) (source only) |
 | AIH-17643 | noisy signals | Computer Vision | CSO: image processing | [1966](https://doi.org/10.1109/taes.1966.4501774) (source only) |
-| AIH-19247 | nonrigid image registration | Computer Vision | CSO: image processing | — |
+| AIH-19247 | nonrigid image registration | Computer Vision | CSO: image processing | [2001](https://doi.org/10.1016/s1077-3142(01)90929-4) (source only) |
 | AIH-17644 | nonrigid registration | Computer Vision | CSO: image processing | [1996](https://openalex.org/W2301873740) (source only) |
 | AIH-19248 | nonsubsampled contourlet transforms | Computer Vision | CSO: image processing | — |
 | AIH-17645 | normalized cross correlation | Computer Vision | CSO: image processing | [1995](https://doi.org/10.1117/12.210718) (source only) |
-| AIH-19273 | nuclear sciences | Computer Vision | CSO: image processing | — |
+| AIH-19273 | nuclear sciences | Computer Vision | CSO: image processing | [1978](https://doi.org/10.2172/6751528) (source only) |
 | AIH-19287 | offset printing | Computer Vision | CSO: image processing | — |
 | AIH-17648 | online conferencing | Computer Vision | CSO: image processing | [2002](https://doi.org/10.1037/e501802006-005) (source only) |
 | AIH-17649 | optical coherence tomography (oct) | Computer Vision | CSO: image processing | [2003](https://doi.org/10.1007/s00059-003-2485-9) (source only) |

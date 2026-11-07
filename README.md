@@ -60,6 +60,10 @@
 
 **[Batch 012 source-date audit](data/DATE_RESEARCH_012_REPORT.json)** — ID integrity and evidence/estimate totals.
 
+**[Final date research 013: Last 1,600 keywords (AIH-18501–AIH-20100)](batches/DATE_RESEARCH_013_FINAL_1600.md)** — final four pages (500 + 500 + 500 + 100). Every permanent keyword ID from AIH-00001 to AIH-20100 has now been processed for dated sources; this does NOT mean all dates are resolved or first-ever word usages verified.
+
+**[Final Batch 013 audit report](data/DATE_RESEARCH_013_REPORT.json)** — new sourced attestations, ★ estimates, unresolved findings, and ID checks.
+
 ## Browse complete keyword tables
 
 | Inventory set | Added keywords | Full tables | ID range |
