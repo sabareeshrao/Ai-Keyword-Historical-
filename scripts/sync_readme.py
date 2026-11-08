@@ -6,17 +6,19 @@ from collections import Counter
 root=Path(__file__).resolve().parents[1]
 with (root/"data/KEYWORD_INVENTORY.csv").open(encoding="utf-8-sig",newline="") as f:
     rows=list(csv.DictReader(f))
-if len(rows)!=20100:
-    raise ValueError("Cannot publish completion status before 20100 records exist.")
-assert len(set(r["id"] for r in rows))==20100
+if len(rows)<20100:
+    raise ValueError("Cannot publish completion status before the 20100 original records exist.")
+assert len(set(r["id"] for r in rows))==len(rows)
+additional=sum(r.get("inventory_batch")=="005" for r in rows)
+assert len(rows)==20100+additional
 counts=Counter(r.get("inventory_batch") for r in rows)
 assert [counts[str(i).zfill(3)] for i in range(1,5)]==[5000]*4
 report=json.loads((root/"data/INVENTORY_IMPORT_REPORT_003_004.json").read_text(encoding="utf-8"))
 assert report["added"]==10000 and report["inventory_total"]==20100
 lines=[
-"# AI Keyword Historical — Full, categorized source-backed inventory",
+f"# AI Keyword Historical — {len(rows):,} keyword inventory",
 "",
-"**Current inventory: 20,100 terms**, comprising 100 early records and four source-import batches of 5,000. Target is 21,000 (planning estimate, not a known census).",
+"**Current inventory: {len(rows):,} terms**, comprising 100 early seed records, four original 5,000-term imports, and {additional:,} researched historical/modern gap additions. Historical planning target was 21,000, not a verified census.",
 "",
 "> **Research status:** First-use historical dates remain unverified, and individual relevance of source-derived technical terms needs expert review. A source ontology topic is not proof that the term originated on any particular date.",
 "",
@@ -92,6 +94,12 @@ lines=[
 "",
 "**[New ★★ recovery audit](data/UNDATED_RECOVERY_NEW_2386_REPORT.json)** — updated counts and no-date coverage.",
 "",
+"## Historical and modern keyword gap audit",
+"",
+f"**[New historical and modern keyword additions](batches/HISTORICAL_GAP_ADDITIONS.md)** — {additional:,} duplicate-checked terms, spanning early computing, classical symbolic AI, neural networks, transformers and modern agentic protocols. Years are approximate research-source markers (★), not verified first use.",
+"",
+"**[Detailed gap audit report](data/HISTORICAL_GAP_AUDIT_REPORT.json)** — candidates examined, existing matches skipped, added IDs, categories and era breakdown.",
+"",
 "## Browse complete keyword tables",
 "",
 "| Inventory set | Added keywords | Full tables | ID range |",
@@ -103,9 +111,9 @@ for n in range(1,5):
     names=[r["id"] for r in rows if r.get("inventory_batch")==label]
     lines.append("| "+label+" | 5,000 | [Browse all 5,000](batches/INVENTORY_"+label+"_5000.md) | "+names[0]+"–"+names[-1]+" |")
 lines += [
-"| **Total** | **20,100** | **40 full 500-row tables + original 100** | |",
+f"| **Total** | **{len(rows):,}** | **40 base 500-row tables + original 100 + {additional:,} gap additions** | |",
 "",
-"**[Browse the 20,000 imported keywords in full GitHub tables](tables/README.md)**. Each of the 40 pages lists all 500 records as a table with permanent ID, term, category, subfield, and source-documented date where available; original first-use dates remain unverified.",
+**[Browse all base and gap-addition keyword tables](tables/README.md)**. Each of the 40 pages lists all 500 records as a table with permanent ID, term, category, subfield, and source-documented date where available; original first-use dates remain unverified.",
 "",
 "**[Master keyword CSV — all 20,100 records](data/KEYWORD_INVENTORY.csv)**",
 "",
