@@ -44,7 +44,7 @@ def main():
     assert page_count==(total+499)//500
     index=[
         f"# Complete Chronological Index — {total:,} AI/CS Keywords","",
-        "Browse each batch of 500 keywords using exactly four columns: **Year | Keyword | Field | Reference**. Sorted oldest to newest; the final batch contains the remaining 100 keywords. Permanent AIH IDs are preserved in the master CSV.",
+        f"Browse each batch of 500 keywords using exactly four columns: **Year | Keyword | Field | Reference**. Sorted oldest to newest; the final batch contains {total-500*(page_count-1)} keywords. Permanent AIH IDs are preserved in the master CSV.",
         "",
         "**Evidence:** Unstarred source years mean a dated publication or milestone, NOT proven first-ever term usage. "
         "**★** means an inferred low-confidence year with related source. "
