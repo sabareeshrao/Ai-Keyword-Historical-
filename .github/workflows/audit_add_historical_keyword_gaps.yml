@@ -1,0 +1,90 @@
+name: Audit and add historic-to-modern AI terminology gaps
+
+on:
+  push:
+    paths:
+      - ".github/workflows/audit_add_historical_keyword_gaps.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: historical-modern-keyword-gap-audit
+  cancel-in-progress: false
+
+jobs:
+  audit_append:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Deduplicate all historical and recent candidates, update master CSV and chronology
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            cp data/KEYWORD_INVENTORY.csv /tmp/master_before_gap_audit.csv
+            python scripts/add_historical_gap_terms.py
+            python scripts/build_keyword_tables.py
+            python scripts/build_final_chronology.py
+            python scripts/sync_readme.py
+            python - <<'PY'
+          import csv,json
+          from pathlib import Path
+          def csvrows(path):
+              with Path(path).open(newline="",encoding="utf-8-sig") as f:
+                  return list(csv.DictReader(f))
+          before=csvrows("/tmp/master_before_gap_audit.csv")
+          after=csvrows("data/KEYWORD_INVENTORY.csv")
+          report=json.loads(Path("data/HISTORICAL_GAP_AUDIT_REPORT.json").read_text(encoding="utf-8"))
+          assert len(before)>=20100
+          assert report["previous_inventory"]==len(before)
+          assert 0<report["new_keywords_added"]<=276
+          assert report["new_keywords_added"]+report["duplicates_skipped"]==report["candidate_terms_checked"]==276
+          assert len(after)==len(before)+report["new_keywords_added"]
+          assert after[:len(before)]==before,"Previous rows or dates changed"
+          assert len(set(r["id"] for r in after))==len(after)
+          assert [r["id"] for r in after]==[f"AIH-{i:05d}" for i in range(1,len(after)+1)]
+          additions=after[len(before):]
+          assert all(r["inventory_batch"]=="005" and r.get("estimated_first_use_year") and r.get("estimated_source_url") for r in additions)
+          assert all(r.get("display_date","").endswith(" ★") for r in additions)
+          assert all(not r.get("first_use_date") and not r.get("historical_evidence_date") for r in additions)
+          pages=sorted(Path("chronology/pages").glob("page-*.md"))
+          assert len(pages)==41
+          expected_sizes=[500]*40+[len(after)-20000]
+          assert [sum(line.startswith("| ") and not line.startswith("|---") for line in p.read_text().splitlines())-1 for p in pages]==expected_sizes
+          assert all("| Year | Keyword | Field | Reference |" in p.read_text() for p in pages)
+          assert sum(expected_sizes)==len(after)
+          coverage=json.loads(Path("data/FINAL_COVERAGE_20100_REPORT.json").read_text())
+          assert coverage["inventory_total"]==len(after)
+          assert coverage["historical_gap_additions"]==report["new_keywords_added"]
+          assert coverage["speculative_years_double_star"]==7569
+          assert coverage["source_dated_publication_attestations"]==12414
+          assert coverage["estimated_years_star"]==117+len(additions)
+          assert coverage["entries_without_usable_year"]==0
+          assert Path("batches/HISTORICAL_GAP_ADDITIONS.md").exists()
+          assert "HISTORICAL_GAP_ADDITIONS.md" in Path("README.md").read_text()
+          assert f"{len(after):,}" in Path("README.md").read_text()
+          print("AUDIT PASS: "+str(len(additions))+" genuinely missing historical/current keywords appended; every prior ID/date retained, all "+str(len(after))+" terms in 41 chronological tables.")
+          PY
+            git add README.md data/KEYWORD_INVENTORY.csv data/HISTORICAL_GAP_AUDIT_REPORT.json data/FINAL_COVERAGE_20100_REPORT.json batches/HISTORICAL_GAP_ADDITIONS.md chronology/ tables/ batches/INVENTORY_*.md
+            if git diff --cached --quiet; then
+              echo "Already current"
+              exit 0
+            fi
+            git commit -m "Audit 276 cross-era AI keyword candidates and append only missing terms"
+            if git push origin HEAD:main; then
+              echo "All missing keyword additions committed"
+              exit 0
+            fi
+            sleep 3
+          done
+          exit 1
