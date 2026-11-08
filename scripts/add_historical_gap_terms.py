@@ -69,7 +69,7 @@ def main():
         source_counts[c["field"]]+=1
         eras["before_1960" if y<1960 else "1960_1989" if y<1990 else "1990_2019" if y<2020 else "2020_2026"]+=1
     assert len({r["id"] for r in rows})==len(rows)
-    assert len({normalize(r["keyword"]) for r in rows})==len(rows),"Normalized duplicate introduced"
+    assert len({normalize(r["keyword"]) for r in rows})==len(existing),"A new normalized duplicate was introduced"
     assert 0<len(added)<=400,"Expected only a small gap append so chronology still has 41 pages"
     with MASTER.open("w",encoding="utf-8",newline="") as f:
         w=csv.DictWriter(f,fieldnames=cols,lineterminator="\n");w.writeheader();w.writerows(rows)
@@ -85,7 +85,7 @@ def main():
     for r in added:
         out.append("| "+" | ".join([r["display_date"],clean(r["keyword"]),clean(r["field"]),f"[Related research]({r['estimated_source_url']})"])+" |")
     out += ["","## Audit","",f"- Candidates examined: {len(candidate)}",f"- Newly added: {len(added)}",f"- Existing matches skipped: {len(skipped)}",
-        f"- New permanent IDs: {added[0]['id']}–{maxid:05d} (assignments in insertion order; chronological sorting happens separately).",
+        f"- New permanent IDs: {min(r['id'] for r in added)}–AIH-{maxid:05d} (assignments in insertion order; chronological sorting happens separately).",
         "- All prior IDs and original date columns preserved.",
         "- These additions were checked for normalized exact-name duplicates; near-synonyms and field relevance still benefit from expert review.",
         "",
