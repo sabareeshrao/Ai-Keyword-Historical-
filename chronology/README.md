@@ -1,6 +1,6 @@
 # Complete Chronological Index — 20,375 AI/CS Keywords
 
-Browse each batch of 500 keywords using exactly four columns: **Year | Keyword | Field | Reference**. Sorted oldest to newest; the final batch contains the remaining 100 keywords. Permanent AIH IDs are preserved in the master CSV.
+Browse each batch of 500 keywords using exactly four columns: **Year | Keyword | Field | Reference**. Sorted oldest to newest; the final batch contains the remaining 375 keywords. Permanent AIH IDs are preserved in the master CSV.
 
 **Evidence:** Unstarred source years mean a dated publication or milestone, NOT proven first-ever term usage. **★** means an inferred low-confidence year with related source. **★★** means a speculative historical-era guess without direct evidence. An em dash indicates no usable date.
 
