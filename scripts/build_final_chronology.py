@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Sort all 20,100 permanent IDs by available year while retaining evidence grades."""
+"""Sort all permanent keyword IDs by year, including audited later additions."""
 import csv,json,re
 from pathlib import Path
 from collections import Counter
@@ -108,7 +108,7 @@ def main():
     (DIR/"README.md").write_text("\n".join(index)+"\n",encoding="utf-8")
     result={
         "inventory_total":total,"all_ids_unique_and_complete":True,
-        "range":["AIH-00001","AIH-20100"],
+        "range":["AIH-00001",f"AIH-{total:05d}"],
         "consecutive_research_batch_coverage_complete":True,
         "base_inventory_preserved":True,
         "historical_gap_additions":total-20100,
