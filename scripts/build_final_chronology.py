@@ -35,7 +35,7 @@ def main():
     assert ids=={f"AIH-{n:05d}" for n in range(1,total+1)}
     rows=[(r,classify(r)) for r in records]
     counts=Counter(v["status"] for _,v in rows)
-    assert sum(counts.values())==20100
+    assert sum(counts.values())==total
     rows.sort(key=lambda pair:(
         pair[1]["year"] if pair[1]["year"] is not None else 99999,
         pair[1]["priority"],clean(pair[0]["keyword"]).casefold(),pair[0]["id"]))
