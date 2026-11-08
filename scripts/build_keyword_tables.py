@@ -6,9 +6,11 @@ from collections import Counter, defaultdict
 ROOT=Path(__file__).resolve().parents[1]
 with (ROOT/"data/KEYWORD_INVENTORY.csv").open(encoding="utf-8-sig",newline="") as f:
     rows=list(csv.DictReader(f))
-assert len(rows)==20100, len(rows)
-assert len({r["id"] for r in rows})==20100
-assert len({r["keyword"].casefold() for r in rows})==20100
+assert len(rows)>=20100, len(rows)
+gap_rows=[r for r in rows if r.get("inventory_batch")=="005"]
+assert len(rows)==20100+len(gap_rows)
+assert len({r["id"] for r in rows})==len(rows)
+assert len({r["keyword"].casefold() for r in rows})==len(rows)
 assert Counter(r.get("inventory_batch") for r in rows)["001"]==5000
 assert Counter(r.get("inventory_batch") for r in rows)["002"]==5000
 assert Counter(r.get("inventory_batch") for r in rows)["003"]==5000
@@ -21,7 +23,7 @@ table_dir=ROOT/"tables"
 table_dir.mkdir(exist_ok=True)
 total=Counter(r["field"] for r in rows if r.get("inventory_batch") in ("001","002","003","004"))
 all_index=[
-"# Complete AI keyword tables — 20,000 terms",
+f"# Complete AI keyword tables — {len(rows):,} terms (20,000 base imports + original seed + gap additions)",
 "","[**Recovery 004 — original 1,000 undated records (25 dated leads; recovery incomplete)**](../batches/DATE_RESEARCH_004_RECOVERY_FIRST_1000.md)",
 "",
 "[**Date Research 005 — next 2,000 IDs with ★ estimates and documentary sources**](../batches/DATE_RESEARCH_005_NEXT_2000.md)",
@@ -37,7 +39,7 @@ all_index=[
 "[**Previously undated recovery — explicitly speculative ★★ years**](../batches/UNDATED_RECOVERY_DOUBLE_STAR.md)",
 "[**New undated recovery — additional speculative ★★ years (IDs 12501–20100)**](../batches/UNDATED_RECOVERY_NEW_DOUBLE_STAR.md)",
 "",
-"Every keyword is included, not a short preview. Four batches of 5,000; each divided into ten GitHub-friendly tables of 500 rows.",
+"Every keyword is included. Four original imported batches of 5,000 each have ten tables of 500 rows; the permanent-ID seed and new historical gap additions are linked separately.",
 "",
 "**Organization:** field A-Z, keyword A-Z. Permanent IDs are unchanged. Historical first-use dates remain blank until verified; some rows display dated research-source attestations.",
 "",
@@ -116,8 +118,40 @@ for number in ["001","002","003","004"]:
     for i in range(1,11):
         all_index.append("| "+str(i).zfill(2)+" | 500 | [Read full table](batch-"+number+"/page-"+str(i).zfill(2)+".md) |")
     all_index.append("")
+if gap_rows:
+    by_year=lambda r:(int(r.get("estimated_first_use_year") or r.get("historical_evidence_date") or "9999"),r["keyword"].casefold(),r["id"])
+    group=sorted(gap_rows,key=by_year)
+    directory=table_dir/"batch-005"
+    directory.mkdir(parents=True,exist_ok=True)
+    all_index+=["## Historical and modern keyword gap additions","",
+       f"**{len(group)} new terms** with permanent IDs starting at AIH-20101. Original 20,100 records are retained.",
+       "",
+       "[Complete four-column additions table](../batches/HISTORICAL_GAP_ADDITIONS.md) | [Gap audit](../data/HISTORICAL_GAP_AUDIT_REPORT.json)",
+       "",
+       "| Page | Keywords | Link |","|---:|---:|---|"]
+    for start in range(0,len(group),500):
+        block=group[start:start+500]
+        n=start//500+1
+        filename=f"page-{n:02d}.md"
+        lines=[f"# Curated Historical Gap Additions — Page {n:02d}","",
+            f"{len(block)} deduplicated additions; source years are ★ estimates, not verified first mentions.","",
+            "[Full additions index](../../batches/HISTORICAL_GAP_ADDITIONS.md) | [Master CSV](../../data/KEYWORD_INVENTORY.csv)","",
+            "| Year | Keyword | Field | Reference |","|---|---|---|---|"]
+        for r in block:
+            value=clean(r.get("display_date") or (r.get("estimated_first_use_year","")+" ★"))
+            url=clean(r.get("estimated_source_url"))
+            ref=f"[Related publication]({url})" if url.startswith(("http://","https://")) else "—"
+            lines.append("| "+" | ".join([value,clean(r["keyword"]),clean(r["field"]),ref])+" |")
+        (directory/filename).write_text("\n".join(lines)+"\n",encoding="utf-8")
+        all_index.append(f"| {n:02d} | {len(block)} | [Open table](batch-005/{filename}) |")
+    all_index.append("")
 (table_dir/"README.md").write_text("\n".join(all_index)+"\n",encoding="utf-8")
 files=sorted(table_dir.glob("batch-*/page-*.md"))
-assert len(files)==40
-assert all(sum(line.startswith("| AIH-") for line in f.read_text(encoding="utf-8").splitlines())==500 for f in files)
-print("Verified 40 Markdown tables x 500 = 20,000 keyword rows; all IDs preserved.")
+base_pages=sorted(table_dir.glob("batch-00[1-4]/page-*.md"))
+assert len(base_pages)==40
+assert all(sum(line.startswith("| AIH-") for line in f.read_text(encoding="utf-8").splitlines())==500 for f in base_pages)
+extras=sorted(table_dir.glob("batch-005/page-*.md"))
+assert len(extras)==(len(gap_rows)+499)//500
+assert sum(sum(line.startswith("| ") and not line.startswith("|---") for line in f.read_text(encoding="utf-8").splitlines())-1 for f in extras)==len(gap_rows)
+assert len(files)==len(base_pages)+len(extras)
+print(f"Verified 40 original 500-row pages plus {len(gap_rows)} historical-gap keywords in {len(extras)} additional pages.")
