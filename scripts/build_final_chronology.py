@@ -29,9 +29,10 @@ def classify(r):
 def main():
     with (ROOT/"data/KEYWORD_INVENTORY.csv").open(newline="",encoding="utf-8-sig") as f:
         records=list(csv.DictReader(f))
-    assert len(records)==20100
+    total=len(records)
+    assert total>=20100
     ids={r["id"] for r in records}
-    assert ids=={f"AIH-{n:05d}" for n in range(1,20101)}
+    assert ids=={f"AIH-{n:05d}" for n in range(1,total+1)}
     rows=[(r,classify(r)) for r in records]
     counts=Counter(v["status"] for _,v in rows)
     assert sum(counts.values())==20100
@@ -40,9 +41,9 @@ def main():
         pair[1]["priority"],clean(pair[0]["keyword"]).casefold(),pair[0]["id"]))
     PAGES.mkdir(parents=True,exist_ok=True)
     page_count=(len(rows)+499)//500
-    assert page_count==41
+    assert page_count==(total+499)//500
     index=[
-        "# Complete Chronological Index — 20,100 AI/CS Keywords","",
+        f"# Complete Chronological Index — {total:,} AI/CS Keywords","",
         "Browse each batch of 500 keywords using exactly four columns: **Year | Keyword | Field | Reference**. Sorted oldest to newest; the final batch contains the remaining 100 keywords. Permanent AIH IDs are preserved in the master CSV.",
         "",
         "**Evidence:** Unstarred source years mean a dated publication or milestone, NOT proven first-ever term usage. "
@@ -57,7 +58,7 @@ def main():
         f"| Speculative placeholders ★★ | {counts['double_star_guess']:,} |",
         f"| No year | {counts['undated']:,} |",
         f"| Recorded first-use field, independent verification pending | {counts['first_use_field']:,} |",
-        "| **Total** | **20,100** |",
+        f"| **Total** | **{total:,}** |",
         "","## Chronological batches — 500 keywords per batch","","| Batch | Year range | Keywords | Open table |",
         "|---:|---|---:|---|"
     ]
@@ -73,7 +74,7 @@ def main():
         name=f"page-{i:02d}.md"
         index.append(f"| {i:02d} | {span} | {len(batch)} | [View 4-column table](pages/{name}) |")
         lines=[
-            f"# Batch {i:02d}/41 — Historical Keywords","",
+            f"# Batch {i:02d}/{page_count} — Historical Keywords","",
             f"**{len(batch)} keywords**, sorted chronologically ({span}). The master CSV retains the original permanent IDs.","",
             "[All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)","",
             "**Year key:** plain = documented source year (not proven original use); ★ = estimate; ★★ = highly speculative guess without direct keyword evidence.","",
@@ -99,17 +100,19 @@ def main():
             ])+" |")
         (PAGES/name).write_text("\n".join(lines)+"\n",encoding="utf-8")
         assert sum(l.startswith("| ") and not l.startswith("|---") for l in lines)==len(batch)+1
-    assert seen==ids and sizes==[500]*40+[100]
+    assert seen==ids and sizes==[500]*(page_count-1)+[total-500*(page_count-1)]
     index.extend(["","## Important limitations","",
                   "This index is a chronological research navigator, NOT a validated timeline of original word coinage. "
                   "Original first uses and AI-specific senses require separate examination of early primary sources. "
                   "The inventory also contains broader CS and potentially misclassified terminology.",""])
     (DIR/"README.md").write_text("\n".join(index)+"\n",encoding="utf-8")
     result={
-        "inventory_total":20100,"all_ids_unique_and_complete":True,
+        "inventory_total":total,"all_ids_unique_and_complete":True,
         "range":["AIH-00001","AIH-20100"],
         "consecutive_research_batch_coverage_complete":True,
-        "chronology_pages":41,"chronology_page_sizes":sizes,
+        "base_inventory_preserved":True,
+        "historical_gap_additions":total-20100,
+        "chronology_pages":page_count,"chronology_page_sizes":sizes,
         "source_dated_publication_attestations":counts["source_dated"],
         "estimated_years_star":counts["star_estimate"],
         "speculative_years_double_star":counts["double_star_guess"],
