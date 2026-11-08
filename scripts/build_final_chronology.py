@@ -43,7 +43,7 @@ def main():
     assert page_count==41
     index=[
         "# Complete Chronological Index — 20,100 AI/CS Keywords","",
-        "All permanent AIH identifiers retained. Entries sorted oldest to newest, with undated terms at the end.",
+        "Browse each batch of 500 keywords using exactly four columns: **Year | Keyword | Field | Reference**. Sorted oldest to newest; the final batch contains the remaining 100 keywords. Permanent AIH IDs are preserved in the master CSV.",
         "",
         "**Evidence:** Unstarred source years mean a dated publication or milestone, NOT proven first-ever term usage. "
         "**★** means an inferred low-confidence year with related source. "
@@ -58,7 +58,7 @@ def main():
         f"| No year | {counts['undated']:,} |",
         f"| Recorded first-use field, independent verification pending | {counts['first_use_field']:,} |",
         "| **Total** | **20,100** |",
-        "","## All chronological pages","","| Page | Year range | Records | Link |",
+        "","## Chronological batches — 500 keywords per batch","","| Batch | Year range | Keywords | Open table |",
         "|---:|---|---:|---|"
     ]
     seen=set()
@@ -71,24 +71,34 @@ def main():
         left,right=label(batch[0][1]),label(batch[-1][1])
         span=left if left==right else left+" – "+right
         name=f"page-{i:02d}.md"
-        index.append(f"| {i:02d} | {span} | {len(batch)} | [Open table](pages/{name}) |")
+        index.append(f"| {i:02d} | {span} | {len(batch)} | [View 4-column table](pages/{name}) |")
         lines=[
-            f"# Chronological Keywords — Page {i:02d}/41","",
-            f"{len(batch)} records from {span}. Original IDs unchanged.","",
-            "[Full chronology](../README.md) | [Master inventory](../../data/KEYWORD_INVENTORY.csv)","",
-            "Unstarred source years are not verified first usages; ★ inferred; ★★ speculative.","",
-            "| ID | Keyword | Field | Year | Evidence | Reference |",
-            "|---|---|---|---|---|---|"
+            f"# Batch {i:02d}/41 — Historical Keywords","",
+            f"**{len(batch)} keywords**, sorted chronologically ({span}). The master CSV retains the original permanent IDs.","",
+            "[All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)","",
+            "**Year key:** plain = documented source year (not proven original use); ★ = estimate; ★★ = highly speculative guess without direct keyword evidence.","",
+            "**Reference key:** Publication = dated source; Related source = indirect evidence for ★; Indirect context = source about OTHER terms for ★★, not proof of this keyword's date.","",
+            "| Year | Keyword | Field | Reference |",
+            "|---|---|---|---|"
         ]
         for r,meta in batch:
             assert r["id"] not in seen
             seen.add(r["id"])
-            link=f"[Source]({meta['url']})" if meta["url"].startswith(("https://","http://")) else "—"
+            url=meta["url"]
+            if meta["status"]=="double_star_guess":
+                indirect=clean(r.get("guess_reference_urls","")).split(";")[0].strip()
+                ref=(f"[Indirect context]({indirect}) — NOT keyword evidence"
+                     if indirect.startswith(("https://","http://")) else
+                     "No direct reference (★★ guess)")
+            elif url.startswith(("https://","http://")):
+                ref=f"[Related source]({url}) — indirect" if meta["status"]=="star_estimate" else f"[Publication]({url})"
+            else:
+                ref="No direct reference" if meta["status"]=="undated" else "Unverified source"
             lines.append("| "+" | ".join([
-                r["id"],clean(r["keyword"]),clean(r["field"]),
-                meta["display"],meta["label"],link])+" |")
+                meta["display"],clean(r["keyword"]),clean(r["field"]),ref
+            ])+" |")
         (PAGES/name).write_text("\n".join(lines)+"\n",encoding="utf-8")
-        assert sum(l.startswith("| AIH-") for l in lines)==len(batch)
+        assert sum(l.startswith("| ") and not l.startswith("|---") for l in lines)==len(batch)+1
     assert seen==ids and sizes==[500]*40+[100]
     index.extend(["","## Important limitations","",
                   "This index is a chronological research navigator, NOT a validated timeline of original word coinage. "
