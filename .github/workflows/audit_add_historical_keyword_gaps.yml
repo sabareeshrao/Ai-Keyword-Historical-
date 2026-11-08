@@ -32,6 +32,7 @@ jobs:
             git fetch origin main
             git reset --hard origin/main
             cp data/KEYWORD_INVENTORY.csv /tmp/master_before_gap_audit.csv
+            python -m py_compile scripts/add_historical_gap_terms.py scripts/build_final_chronology.py scripts/build_keyword_tables.py scripts/sync_readme.py
             python scripts/add_historical_gap_terms.py
             python scripts/build_keyword_tables.py
             python scripts/build_final_chronology.py
