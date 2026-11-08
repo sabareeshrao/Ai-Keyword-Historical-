@@ -1,0 +1,93 @@
+name: Publish 500-keyword four-column historical tables
+
+on:
+  push:
+    paths:
+      - ".github/workflows/publish_four_column_chronology.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: four-column-history-tables
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Rebuild chronology and validate all 4-column 500-row tables
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          for attempt in 1 2 3 4 5; do
+            git fetch origin main
+            git reset --hard origin/main
+            python scripts/build_final_chronology.py
+            python - <<'PY'
+          import csv,re,json,sys
+          from pathlib import Path
+          sys.path.insert(0,"scripts")
+          from build_final_chronology import classify,clean
+          with Path("data/KEYWORD_INVENTORY.csv").open(newline="",encoding="utf-8-sig") as f:
+              original=list(csv.DictReader(f))
+          assert len(original)==20100 and {r["id"] for r in original}=={f"AIH-{i:05d}" for i in range(1,20101)}
+          expected=sorted([(r,classify(r)) for r in original],
+              key=lambda x:(x[1]["year"] if x[1]["year"] is not None else 99999,
+              x[1]["priority"],clean(x[0]["keyword"]).casefold(),x[0]["id"]))
+          pages=sorted(Path("chronology/pages").glob("page-*.md"))
+          assert len(pages)==41
+          total=0
+          for i,page in enumerate(pages):
+              contents=page.read_text(encoding="utf-8")
+              assert "| Year | Keyword | Field | Reference |" in contents
+              assert "| ID | Keyword |" not in contents
+              lines=[s for s in contents.splitlines() if s.startswith("| ") and not s.startswith("|---")]
+              assert lines[0]=="| Year | Keyword | Field | Reference |"
+              lines=lines[1:]
+              n=500 if i<40 else 100
+              assert len(lines)==n,(page,len(lines),n)
+              for rownum,line in enumerate(lines):
+                  bits=[x.strip() for x in line.split("|")[1:-1]]
+                  assert len(bits)==4,(page,rownum,bits)
+                  r,meta=expected[total]
+                  assert bits[:3]==[meta["display"],clean(r["keyword"]),clean(r["field"])],(page,total,r["id"],bits[:3])
+                  if meta["status"]=="double_star_guess":
+                      assert "★★" in bits[0] and ("Indirect context" in bits[3] or "No direct reference" in bits[3])
+                      assert "NOT keyword evidence" in bits[3] or "No direct reference" in bits[3]
+                  elif meta["status"]=="star_estimate":
+                      assert "★" in bits[0] and "★★" not in bits[0]
+                      assert "Related source" in bits[3]
+                  elif meta["status"]=="source_dated":
+                      assert bits[3].startswith("[Publication](")
+                  total+=1
+          assert total==20100
+          report=json.loads(Path("data/FINAL_COVERAGE_20100_REPORT.json").read_text())
+          assert report["inventory_total"]==20100
+          assert report["chronology_page_sizes"]==[500]*40+[100]
+          assert sum(report[k] for k in ("source_dated_publication_attestations","estimated_years_star","speculative_years_double_star","entries_without_usable_year","first_use_field_populated_but_unverified"))==20100
+          assert "Chronological batches — 500 keywords per batch" in Path("chronology/README.md").read_text()
+          print("Verified exact four-column layout, chronological sorting, star labels and 20100 source-record matches across 41 pages.")
+          PY
+            git add chronology/ data/FINAL_COVERAGE_20100_REPORT.json
+            if git diff --cached --quiet; then
+              echo "All pages already up to date"
+              exit 0
+            fi
+            git commit -m "Publish 41 historical keyword tables using Year Keyword Field Reference columns"
+            if git push origin HEAD:main; then
+              echo "All 41 four-column tables published"
+              exit 0
+            fi
+            sleep 3
+          done
+          echo "Concurrent GitHub changes blocked publication"
+          exit 1
