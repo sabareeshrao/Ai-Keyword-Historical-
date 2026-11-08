@@ -1,510 +1,512 @@
-# Chronological Keywords — Page 05/41
+# Batch 05/41 — Historical Keywords
 
-500 records from 1974 – 1978. Original IDs unchanged.
+**500 keywords**, sorted chronologically (1974 – 1978). The master CSV retains the original permanent IDs.
 
-[Full chronology](../README.md) | [Master inventory](../../data/KEYWORD_INVENTORY.csv)
+[All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
-Unstarred source years are not verified first usages; ★ inferred; ★★ speculative.
+**Year key:** plain = documented source year (not proven original use); ★ = estimate; ★★ = highly speculative guess without direct keyword evidence.
 
-| ID | Keyword | Field | Year | Evidence | Reference |
-|---|---|---|---|---|---|
-| AIH-16962 | tracking accuracy | AI Infrastructure | 1974 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16965 | tracking performance | AI Infrastructure | 1974 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16968 | tracking system | AI Infrastructure | 1974 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16969 | tracking systems | AI Infrastructure | 1974 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05968 | Transistor Density | AI Infrastructure | 1974 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07046 | Weak Duality | Mathematics | 1974 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10345 | (min ,max ,+) functions | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.9746/sicetr1965.11.322) |
-| AIH-10168 | achievable rate region | Speech & Audio | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tit.1975.1055418) |
-| AIH-00212 | Acoustic Echo | Speech & Audio | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/jof/73.10.633) |
-| AIH-18219 | acoustic features | Mathematics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-12-478350-8.50008-8) |
-| AIH-17358 | acquisition device | Computer Vision | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/0013088) |
-| AIH-00412 | Alpha-Beta Pruning | AI Foundations | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0004-3702(75)90019-3) |
-| AIH-00516 | Ambisonics | Speech & Audio | 1975 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2338275273) |
-| AIH-15666 | backscattering coefficients | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0029-554x(75)90752-1) |
-| AIH-13665 | binary decision trees | Machine Learning | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/987686.987688) |
-| AIH-10700 | bioindicator | Data Science | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-94-010-1933-0_24) |
-| AIH-18807 | broadcast channels | Speech & Audio | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-12-010904-3.50011-7) |
-| AIH-12150 | business intelligence systems | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0007-6813(75)90036-1) |
-| AIH-00743 | Cepstrum | Signal & Information Theory | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada029560) |
-| AIH-04333 | Characteristic Polynomial | Mathematics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21136/am.1975.103567) |
-| AIH-00895 | Chirp Signal | Signal & Information Theory | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ultsym.1975.196535) |
-| AIH-12215 | communication protocols | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada025508) |
-| AIH-12236 | concurrent software | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tse.1975.6312823) |
-| AIH-07073 | Control Loop | AI Foundations | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2514/6.1975-1108) |
-| AIH-18837 | convolutional codes | Speech & Audio | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-7091-3008-7_1) |
-| AIH-11999 | cross-terms | Computer Vision | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4684-3150-6_4) |
-| AIH-02542 | Deblurring | Computer Vision | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1113/jphysiol.1975.sp011162) |
-| AIH-11905 | decision model | AI Foundations | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.1540-5915.1975.tb01045.x) |
-| AIH-19567 | delay spread | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tap.1975.1141042) |
-| AIH-10620 | digital image | Computer Vision | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/proc.1975.9801) |
-| AIH-15405 | dominance relation | AI Foundations | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1287/mnsc.21.10.1206) |
-| AIH-03376 | Draft Model | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1136/bmj.2.5961.49) |
-| AIH-07289 | Dummy Variable | Mathematics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/2525828) |
-| AIH-14095 | dynamic optimization problems | Mathematics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-662-38527-2_3) |
-| AIH-14003 | electromagnetic environments | Speech & Audio | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.23919/emc.1975.10797974) |
-| AIH-08016 | Elicitation technique | AI Foundations | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/9783112415405-021) |
-| AIH-02261 | Emulator | Science & Healthcare AI | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/c-m.1975.219049) |
-| AIH-07862 | Finite Population Correction | Mathematics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/01621459.1975.10480263) |
-| AIH-18597 | flexible joints | Robotics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2514/6.1975-1221) |
-| AIH-16042 | focal plane array | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/iedm.1975.188932) |
-| AIH-18921 | frequency domains | Speech & Audio | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-08-018773-0.50006-0) |
-| AIH-17885 | gene frequency | Data Science | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1073/pnas.72.4.1602) |
-| AIH-10704 | gene mapping | Data Science | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1159/isbn.978-3-8055-8939-0) |
-| AIH-19707 | graded index | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1364/ao.14.002427) |
-| AIH-08576 | Histogram | Mathematics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0146-664x(75)90009-x) |
-| AIH-14148 | histogram modification | Mathematics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0146-664x(75)90009-x) |
-| AIH-19235 | holographic displays | AI Applications | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.7971805) |
-| AIH-13242 | image subtraction | Computer Vision | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.7971809) |
-| AIH-08648 | Implicit Differentiation | Mathematics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tcs.1975.1084011) |
-| AIH-11531 | industrial robots | Robotics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-0348-5530-3_5) |
-| AIH-08692 | Inflection Point | Mathematics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/3959722) |
-| AIH-02180 | Information Need | Information Retrieval | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-94-011-7759-7_7) |
-| AIH-03072 | Intrinsic Motivation | Reinforcement Learning | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4613-4446-9) |
-| AIH-19846 | laser speckle | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bfb0111436) |
-| AIH-16226 | laser tuning | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1038/253236b0) |
-| AIH-10652 | local features | Computer Vision | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0146-664x(75)90022-2) |
-| AIH-10480 | lsi circuits | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0026-2714(75)90522-3) |
-| AIH-15481 | mamdani | AI Foundations | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/S0020-7373(75)80002-2) |
-| AIH-07857 | Memorization | Deep Learning | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e666602011-278) |
-| AIH-09266 | Mental rotation | AI Foundations | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e666602011-007) |
-| AIH-15044 | microphone signals | Speech & Audio | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2514/6.1975-456) |
-| AIH-10486 | microprocessor chips | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/mspec.1975.6368822) |
-| AIH-16325 | microwave amplifiers | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/euma.1975.332171) |
-| AIH-03846 | Migration | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/3002349) |
-| AIH-15144 | misadjustment | Speech & Audio | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1118/1.594170) |
-| AIH-18324 | mixing matrix | Mathematics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1103/physrevc.11.253) |
-| AIH-15148 | mobile radios | Speech & Audio | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/ep.1975.1227) |
-| AIH-12542 | mobile terminals | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada022556) |
-| AIH-19983 | multimode optical fibers | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/j.1538-7305.1975.tb00131.x) |
-| AIH-16442 | multiprocessor-system | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/j.1538-7305.1975.tb03300.x) |
-| AIH-19991 | multivalued logic | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf01068961) |
-| AIH-11774 | network interface | AI Applications | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.7249/p5445) |
-| AIH-02754 | Novelty | Recommender Systems | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-94-010-1666-7_4) |
-| AIH-09458 | Object Permanence | AI Foundations | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037//0033-2909.82.3.332) |
-| AIH-16503 | optical fiber coupling | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://openalex.org/W1483315533) |
-| AIH-16506 | optical frequency conversion | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2994288898) |
-| AIH-14235 | optimal control problem | Mathematics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4612-6380-7_2) |
-| AIH-09537 | Parametric Model | Mathematics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.7249/r1615) |
-| AIH-10293 | pareto efficiency | AI Foundations | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf01718419) |
-| AIH-09534 | Pareto Optimality | AI Foundations | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-7091-2438-3_4) |
-| AIH-16569 | patient data | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2467175091) |
-| AIH-09548 | Perception | AI Foundations | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1068/p040229) |
-| AIH-05610 | Permutation Test | Mathematics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1214/aos/1176343082) |
-| AIH-17665 | phase correlation | Computer Vision | 1975 | Dated publication (not proven term origin) | [Source](https://openalex.org/W1520822062) |
-| AIH-08484 | Policy Model | Deep Learning | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf00138034) |
-| AIH-09645 | Probit Regression | Mathematics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/1913419) |
-| AIH-14518 | process planning | Programming & Software | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-66262-1_7) |
-| AIH-10164 | programming languages | Programming & Software | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/512976.512991) |
-| AIH-12668 | provably secure | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://openalex.org/W1491597649) |
-| AIH-15083 | quantization schemes | Speech & Audio | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/j.1538-7305.1975.tb02053.x) |
-| AIH-15528 | real-time applications | AI Foundations | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1164870.1164871) |
-| AIH-13330 | reconstructed image | Computer Vision | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada018692) |
-| AIH-15533 | relational algebra | AI Foundations | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/361020.361025) |
-| AIH-15536 | relational data | AI Foundations | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/500080.500110) |
-| AIH-16193 | relay system | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0006-291x(75)80013-1) |
-| AIH-14543 | requirements analysis | Programming & Software | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1017566.1017567) |
-| AIH-16661 | safety messages | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e493062008-001) |
-| AIH-17720 | scaling functions | Computer Vision | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1063/1.30107) |
-| AIH-17971 | search tasks | Information Retrieval | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e666602011-164) |
-| AIH-06592 | Self-Evaluation | Agentic AI | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/t25226-000) |
-| AIH-07629 | Service Catalogue | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://openalex.org/W3154556001) |
-| AIH-05574 | Shielding | Reinforcement Learning | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-65001-7_2) |
-| AIH-07543 | Source Code | Programming & Software | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tse.1975.6312866) |
-| AIH-15150 | speech processing | Speech & Audio | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/msp.1975.237460) |
-| AIH-18722 | speed measurement | Robotics | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4613-3377-7_5) |
-| AIH-05112 | Standard Setting Body | AI Safety | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e388742004-003) |
-| AIH-10544 | stream processing | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1147/rd.191.0012) |
-| AIH-16895 | survivability | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada016929) |
-| AIH-10871 | test collections | Information Retrieval | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1108/eb026606) |
-| AIH-08137 | Thermal Imaging | Computer Vision | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4899-1182-7_8) |
-| AIH-19176 | time and frequency domains | Speech & Audio | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-08-018773-0.50006-0) |
-| AIH-12860 | transient faults | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0026-2714(75)90083-9) |
-| AIH-12873 | vehicle routing problems | AI Infrastructure | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada013639) |
-| AIH-15190 | wiener filtering | Speech & Audio | 1975 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-45450-9_8) |
-| AIH-00395 | AI Standards Body | People & Organizations | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18453 | computer aided process planning | Programming & Software | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19543 | cosmic microwave backgrounds | AI Infrastructure | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13995 | echo canceller | Speech & Audio | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19681 | frequency conversion | AI Infrastructure | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19682 | frequency conversions | AI Infrastructure | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03842 | Implicit Differentiation Layer | Mathematics | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05716 | Inflection | NLP and LLMs | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10802 | information dissemination | Information Retrieval | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19791 | infrared focal plane arrays | AI Infrastructure | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15100 | linear codes | Speech & Audio | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03876 | Notified Body | AI Safety | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09467 | Omitted Variable Bias | Mathematics | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-20057 | orthogonal polynomial | AI Infrastructure | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05418 | Perception Module | Agentic AI | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12928 | radar backscattering | AI Infrastructure | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16860 | speckle | AI Infrastructure | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16901 | synchronous circuits | AI Infrastructure | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16939 | telephone circuits | AI Infrastructure | 1975 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10189 | acoustic resonators | Speech & Audio | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ultsym.1976.196749) |
-| AIH-14879 | acoustic waves | Speech & Audio | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4757-0824-0_1) |
-| AIH-15624 | adaptive routing | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/359970.359987) |
-| AIH-10744 | analog signals | Speech & Audio | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0026-2714(76)90099-8) |
-| AIH-13104 | anatomic landmark | Computer Vision | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0030-4220(76)90182-1) |
-| AIH-14033 | approximation scheme | Mathematics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4757-0016-9_16) |
-| AIH-00670 | Axolotl | Tools & Frameworks | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/jmor.1051500106) |
-| AIH-01660 | Backbone | Deep Learning | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.1432-1033.1976.tb10212.x) |
-| AIH-00401 | Band-Pass Filter | Signal & Information Theory | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0026-2714(76)90726-5) |
-| AIH-04085 | Beam Search | AI Foundations | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada034670) |
-| AIH-10699 | biofeedback | Data Science | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf00998769) |
-| AIH-18803 | bit errors | Speech & Audio | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tcom.1976.1093183) |
-| AIH-12169 | cache memories | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/800110.803574) |
-| AIH-18007 | chinese character recognition | Machine Learning | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0031-3203(76)90037-6) |
-| AIH-01588 | Circuit Breaker | Agentic AI | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/7123313) |
-| AIH-12192 | clock synchronization | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.6028/nbs.tn.691) |
-| AIH-00730 | Cognition | Cognitive Science | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0010-0277(76)90019-6) |
-| AIH-18450 | component models | Programming & Software | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/02331937608842368) |
-| AIH-11885 | compression efficiency | Computer Vision | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/7268243) |
-| AIH-11455 | computer game | Reinforcement Learning | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0010-4485(76)90105-6) |
-| AIH-02245 | Containerization | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4271/760297) |
-| AIH-15382 | cr system | AI Foundations | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/pm-1976-130303) |
-| AIH-18397 | data abstraction | NLP and LLMs | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/800237.807119) |
-| AIH-11589 | delay estimation | Speech & Audio | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-94-009-5361-1_15) |
-| AIH-11923 | discrete dynamical systems | AI Foundations | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1137/1.9781611970432.ch4) |
-| AIH-14097 | edge connectivity | Mathematics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21136/cpm.1976.117895) |
-| AIH-14338 | ethnicity | Data Science | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/9783110803501.385) |
-| AIH-00013 | Expectation–maximization algorithm | Machine Learning | 1976 | Dated publication (not proven term origin) | [Source](https://dash.harvard.edu/entities/publication/73120378-8486-6bd4-e053-0100007fdf3b) |
-| AIH-02313 | Exploitability | Reinforcement Learning | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf01531454) |
-| AIH-11937 | fitness functions | AI Foundations | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1038/hdy.1976.27) |
-| AIH-13788 | forecasting error | Machine Learning | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1038/262441b0) |
-| AIH-16054 | frequency re-use | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/euma.1976.332265) |
-| AIH-17892 | genetic screening | Data Science | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1542/peds.58.5.757) |
-| AIH-17521 | geometric transformations | Computer Vision | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21136/am.1976.103644) |
-| AIH-15428 | hidden messages | AI Safety | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf02142214) |
-| AIH-02920 | Hoare Logic | AI Foundations | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/sfcs.1976.27) |
-| AIH-12394 | hospital data processing | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1001/jama.1976.03260320017009) |
-| AIH-17558 | imaging techniques | Computer Vision | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-12-525250-8.50007-4) |
-| AIH-08855 | Informatics | AI Foundations | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3109/14639237609016094) |
-| AIH-16178 | interference power | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.23919/emc.1976.10826484) |
-| AIH-19860 | linear polarization | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5006/c1976-76035) |
-| AIH-11625 | loudspeakers | Speech & Audio | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/09747338.1976.11450151) |
-| AIH-09183 | Lyapunov Stability | AI Foundations | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21136/cpm.1976.117900) |
-| AIH-04500 | Martingale | Mathematics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21136/cpm.1976.117920) |
-| AIH-09210 | Matrix Sign Function | Mathematics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0096-3003(76)90020-5) |
-| AIH-10108 | medical informatics | AI Applications | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3109/14639237609016094) |
-| AIH-19899 | mesoscale eddies | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1575/1912/1296) |
-| AIH-19912 | micromachining | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/5342127) |
-| AIH-08605 | Model Family | Machine Learning | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/1965826) |
-| AIH-04086 | Modus Ponens | AI Foundations | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.30920/letras.48.84-85.05) |
-| AIH-12015 | multi-criteria decision making | AI Foundations | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-87563-2_7) |
-| AIH-18660 | navigation algorithms | Robotics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/j.2161-4296.1976.tb01847.x) |
-| AIH-19995 | nd:yag laser | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/bmte.1976.21.9.275) |
-| AIH-14669 | non-cooperative games | Reinforcement Learning | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-349-15741-9_4) |
-| AIH-14800 | nonlinear perturbations | Robotics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-12-164902-9.50018-6) |
-| AIH-13309 | one dimensional | Computer Vision | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-08-020414-7.50011-3) |
-| AIH-20048 | optical parametric oscillators | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada036311) |
-| AIH-12600 | optical signals | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada040068) |
-| AIH-03909 | Optimal Value Function | Reinforcement Learning | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada026374) |
-| AIH-10505 | parallel computation | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21136/am.1976.103645) |
-| AIH-11487 | partially observable markov decision processes | Reinforcement Learning | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e429542004-001) |
-| AIH-09559 | Pearson Correlation | Mathematics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2466/pms.1976.43.3f.1319) |
-| AIH-17286 | personal computing | AI Safety | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/c-m.1976.218463) |
-| AIH-09579 | Placebo Effect | Mathematics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1097/00000542-197604000-00030) |
-| AIH-14248 | planarity | Mathematics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/7124328) |
-| AIH-17289 | point multiplication | AI Safety | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf01940776) |
-| AIH-18631 | positioning techniques | Robotics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4043/2460-ms) |
-| AIH-12026 | program verification | AI Foundations | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada027455) |
-| AIH-14816 | programmable robots | Robotics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.6028/nbs.sp.459) |
-| AIH-15522 | radio spectra | AI Foundations | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1086/182266) |
-| AIH-15095 | rain rates | Speech & Audio | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1175/1520-0450(1976)015<1160:tmomrr>2.0.co;2) |
-| AIH-16721 | recovery time | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-66356-7_6) |
-| AIH-04065 | Representativeness Heuristic | Cognitive Science | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2466/pr0.1976.39.3f.1323) |
-| AIH-14825 | robot controls | Robotics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/01969727608927524) |
-| AIH-07904 | Sales Forecasting | AI Applications | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1177/002224297604000204) |
-| AIH-16841 | scatterometer | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/oceans.1976.1154216) |
-| AIH-10132 | scientific computing | Data Science | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/c2013-0-11262-7) |
-| AIH-13075 | security requirements | AI Safety | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada055165) |
-| AIH-12749 | self-managing | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada036731) |
-| AIH-09877 | Shapiro-Wilk Test | Mathematics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-0348-5513-6_13) |
-| AIH-04275 | Short-Term Memory (STM) | Cognitive Science | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3758/bf03337107) |
-| AIH-15118 | signal detection theory | Speech & Audio | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e668292012-009) |
-| AIH-19129 | signal to interference ratio | Speech & Audio | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/isemc.1976.7568694) |
-| AIH-16823 | single precision | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2514/6.1976-819) |
-| AIH-14588 | software engineering education | Programming & Software | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4612-9898-4_19) |
-| AIH-14594 | software maintenance | Programming & Software | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-349-86129-3_11) |
-| AIH-14604 | software requirements | Programming & Software | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5555/800253.807650) |
-| AIH-05563 | Spread Spectrum | Signal & Information Theory | 1976 | Dated publication (not proven term origin) | [Source](https://openalex.org/W1569879151) |
-| AIH-14847 | step response | Robotics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4043/2467-ms) |
-| AIH-14308 | stochastic optimization problems | Mathematics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bfb0120750) |
-| AIH-10013 | Subgraph Isomorphism | Mathematics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/321921.321925) |
-| AIH-06862 | Supervisory Control | Agentic AI | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4684-2523-9_22) |
-| AIH-11665 | synthesized speech | Speech & Audio | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1121/1.2003523) |
-| AIH-11670 | time delay estimation | Speech & Audio | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-94-009-5361-1_15) |
-| AIH-16966 | tracking problem | AI Infrastructure | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/800191.805667) |
-| AIH-17784 | two dimensional electron gas | Computer Vision | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1103/physrevb.13.4192) |
-| AIH-05607 | Unacceptable Risk | AI Safety | 1976 | Dated publication (not proven term origin) | [Source](https://openalex.org/W638008962) |
-| AIH-11506 | utility functions | Reinforcement Learning | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada029655) |
-| AIH-14326 | valid inequalities | Mathematics | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1287/opre.24.2.367) |
-| AIH-10721 | variable structures | Deep Learning | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-12-339050-9.50014-6) |
-| AIH-15315 | virtual keyboards | AI Applications | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4684-2523-9_37) |
-| AIH-06151 | Window Function | Signal & Information Theory | 1976 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0771-050x(76)90003-6) |
-| AIH-10745 | angle estimation | Speech & Audio | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01774 | Backward Pass | Deep Learning | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18829 | chirp signals | Speech & Audio | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00654 | Chunking in Memory | Cognitive Science | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12190 | clock frequency | AI Infrastructure | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01293 | Conditional Expectation | Mathematics | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06279 | Correlation | Mathematics | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18853 | delay and sums | Speech & Audio | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08264 | Expectation | AI Foundations | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02022 | False Memory | Cognitive Science | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18081 | handwritten chinese character | Machine Learning | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08764 | Intraclass Correlation (ICC) | Mathematics | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10483 | manufacturing data processing | AI Infrastructure | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14670 | non-cooperative | Reinforcement Learning | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14668 | non-cooperative game | Reinforcement Learning | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15072 | optical signal to noise ratio | Speech & Audio | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11484 | optimal strategies | Reinforcement Learning | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12020 | penalty functions | AI Foundations | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09678 | Q-Function | AI Foundations | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12824 | qam signals | AI Infrastructure | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15910 | received signal strength indication | AI Infrastructure | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19130 | signal-to-interference and noise ratios | Speech & Audio | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07510 | Single Responsibility Principle (SRP) | Programming & Software | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09951 | Spearman Correlation | Mathematics | 1976 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15598 | 1064 nm | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1364/ao.16.001204) |
-| AIH-00987 | Anisotropy | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4684-0781-5_5) |
-| AIH-01621 | Base rate | Machine Learning | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada045772) |
-| AIH-02013 | Base Rate Fallacy | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada045772) |
-| AIH-12133 | bibliographic retrieval systems | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/1297679) |
-| AIH-12145 | buffer storage | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/800179.1125351) |
-| AIH-12168 | cable television systems | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tcatv.1977.285685) |
-| AIH-18815 | carry logic | Speech & Audio | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tc.1977.5009278) |
-| AIH-04056 | Censoring | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada040240) |
-| AIH-19275 | centralized scheduling | AI Foundations | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1097/00006216-197701040-00007) |
-| AIH-04498 | Chinese Remainder Theorem | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4064/fm-96-3-177-187) |
-| AIH-03323 | Clustering | Machine Learning | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-12-714250-0.50007-3) |
-| AIH-10612 | clutter background | Computer Vision | 1977 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2992460408) |
-| AIH-19504 | cmos analog integrated circuits | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/jssc.1977.1050882) |
-| AIH-11891 | cognitive models | AI Foundations | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0364-0213(77)80022-0) |
-| AIH-13711 | complete link clustering | Machine Learning | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0001-8791(77)90043-4) |
-| AIH-10118 | computer networks | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0376-5075(77)90003-4) |
-| AIH-12233 | concurrent program | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.7146/dpb.v6i78.7691) |
-| AIH-19535 | control overhead | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://openalex.org/W4301321916) |
-| AIH-11618 | control voltages | Speech & Audio | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/t-pas.1977.32410) |
-| AIH-18570 | controlled objects | Robotics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf01069545) |
-| AIH-11117 | correlation coefficient | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0047-259x(77)90033-1) |
-| AIH-14921 | correlation theory | Speech & Audio | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-349-09546-9_3) |
-| AIH-04439 | Damage Assessment | AI Applications | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada048002) |
-| AIH-11556 | dc servomotors | Robotics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tia.1977.4503398) |
-| AIH-07559 | Decision Quality | AI Foundations | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1177/002224377701400414) |
-| AIH-11909 | decision rule | AI Foundations | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.1540-5915.1977.tb01082.x) |
-| AIH-11914 | decision table | AI Foundations | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/c2013-0-07441-5) |
-| AIH-01494 | Deterministic Evaluation | Evaluation & Metrics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/isemc.1977.7567176) |
-| AIH-17212 | distinguishers | AI Safety | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1075/sl.1.2.09shi) |
-| AIH-17479 | dual-tree | Computer Vision | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/9783112519424-001) |
-| AIH-07950 | Dynamics Model | AI Foundations | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada045463) |
-| AIH-15961 | electric network synthesis | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0095-8956(77)90061-2) |
-| AIH-13251 | electrooptical devices | Computer Vision | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada054477) |
-| AIH-19650 | equal-gain combining | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/vtc.1977.1622442) |
-| AIH-07517 | Equivariance | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511600753.007) |
-| AIH-14656 | evolutionary stable strategy | Reinforcement Learning | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0022-5193(77)90189-8) |
-| AIH-14971 | fft processors | Speech & Audio | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/proc.1977.10446) |
-| AIH-11130 | fiber delay lines | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/t-su.1977.30939) |
-| AIH-14975 | finite difference method | Speech & Audio | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/7314389) |
-| AIH-17230 | finite field arithmetic | AI Safety | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tit.1977.1055697) |
-| AIH-14675 | finite time | Robotics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1103/physreva.15.2094) |
-| AIH-15225 | fluidized bed combustion | AI Applications | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/7309640) |
-| AIH-11525 | force control | Robotics | 1977 | Dated publication (not proven term origin) | [Source](https://openalex.org/W1554842388) |
-| AIH-02603 | Force Field | Science & Healthcare AI | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-93063-8_8) |
-| AIH-18600 | force sensing | Robotics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-08-022015-4.50020-6) |
-| AIH-08603 | Frontier Model | AI Foundations | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.1467-8489.1977.tb00204.x) |
-| AIH-15443 | functional dependency | AI Foundations | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/geronj/32.2.222) |
-| AIH-18938 | gaussian distribution | Speech & Audio | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-08-021797-0.50018-4) |
-| AIH-08362 | Graph Isomorphism | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/jgt.3190010410) |
-| AIH-10152 | graph theory | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/jgt.3190010206) |
-| AIH-08522 | Hellinger Distance | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1214/aos/1176343842) |
-| AIH-08600 | Horn Clause | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf01932293) |
-| AIH-13848 | human faces | Machine Learning | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-0348-5737-6_3) |
-| AIH-02681 | Impulse Response | Signal & Information Theory | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada048070) |
-| AIH-18544 | individual rationality | Reinforcement Learning | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1287/moor.2.1.64) |
-| AIH-02947 | Interleaving | Signal & Information Theory | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2514/6.1977-1534) |
-| AIH-08756 | Interval Arithmetic | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada040150) |
-| AIH-15020 | kalman filter algorithms | Speech & Audio | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0005-1098(77)90006-1) |
-| AIH-11993 | kripke semantics | AI Foundations | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/dema-1977-0111) |
-| AIH-05981 | Language Change | NLP and LLMs | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-12-107450-0.50019-x) |
-| AIH-19852 | least recently used | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/spe.4380070217) |
-| AIH-08952 | Legendre Transform | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/aic.690230515) |
-| AIH-17591 | linear inverse problems | Computer Vision | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.1365-246x.1977.tb03682.x) |
-| AIH-04762 | Loss Scaling | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/7112134) |
-| AIH-16268 | low profile | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada047629) |
-| AIH-09152 | Margin of Error | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0301-4215(77)90001-5) |
-| AIH-04233 | Marginal Likelihood | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/2529484) |
-| AIH-09339 | Monte Carlo Algorithm | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/7109385) |
-| AIH-16381 | multi processor systems | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0026-2714(77)90425-5) |
-| AIH-19984 | multiple frequency | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada039497) |
-| AIH-07180 | Name Matching | AI Applications | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.2044-8295.1977.tb01604.x) |
-| AIH-20013 | non-linear optical | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada037103) |
-| AIH-16514 | optical phase conjugation | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1063/1.89723) |
-| AIH-12614 | packet networks | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada039331) |
-| AIH-16561 | passive localization | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://openalex.org/W249998371) |
-| AIH-14561 | performance analysis | Programming & Software | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1177/002224297704100112) |
-| AIH-13056 | personal data | AI Safety | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.7249/p6042) |
-| AIH-04513 | Phase IV Study | Science & Healthcare AI | 1977 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2412754316) |
-| AIH-12641 | pipeline architecture | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/356683.356687) |
-| AIH-05541 | Plan Execution | Agentic AI | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0147-5967(77)90021-x) |
-| AIH-14674 | planning under uncertainty | Reinforcement Learning | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0024-6301(77)90113-3) |
-| AIH-16614 | power constraints | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tac.1977.1101425) |
-| AIH-09625 | Practical Identifiability | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/bit.260191208) |
-| AIH-14260 | process modeling | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-94-011-7583-8_30) |
-| AIH-04676 | Procurement Authority | People & Organizations | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0019-8501(77)90063-3) |
-| AIH-04830 | Programmability | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3233/fi-1977-1113) |
-| AIH-16650 | public-key cryptosystem | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/0161-117791833219) |
-| AIH-18494 | quality modeling | Programming & Software | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/7328127) |
-| AIH-16666 | quality of information | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s1474-6670(17)66555-8) |
-| AIH-11313 | question answering system | NLP and LLMs | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/5448408) |
-| AIH-03886 | Ratchet Effect | Cognitive Science | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.1467-999x.1977.tb00560.x) |
-| AIH-06868 | Reduce-Scatter | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2214/ajr.129.3.497) |
-| AIH-19106 | reflectarray | Speech & Audio | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada048480) |
-| AIH-09724 | Reproducibility | AI Foundations | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1520/stp27080s) |
-| AIH-15538 | robot hand | AI Foundations | 1977 | Dated publication (not proven term origin) | [Source](https://openalex.org/W1594182762) |
-| AIH-05561 | Satellite Imagery Analysis | Science & Healthcare AI | 1977 | Dated publication (not proven term origin) | [Source](https://openalex.org/W1557595273) |
-| AIH-06672 | Side Effect | Agentic AI | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf03285364) |
-| AIH-19131 | single-input single-output | Speech & Audio | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada040160) |
-| AIH-09907 | Singular Value | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada042789) |
-| AIH-09864 | Singularity | AI Foundations | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/jj.32416475.11) |
-| AIH-06546 | Slack Variable | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1287/mnsc.23.8.859) |
-| AIH-18517 | software metrics | Programming & Software | 1977 | Dated publication (not proven term origin) | [Source](https://openalex.org/W3044165892) |
-| AIH-10221 | solution concepts | Agentic AI | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.7249/p6027) |
-| AIH-12790 | spectral efficiencies | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0042-207x(77)80559-9) |
-| AIH-07829 | Speech Act | NLP and LLMs | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-94-010-1045-0_4) |
-| AIH-19151 | spread spectrum communication | Speech & Audio | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ultsym.1977.196891) |
-| AIH-09977 | Statistical Power | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/c2013-0-10517-x) |
-| AIH-06676 | Step Size | Mathematics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/5294527) |
-| AIH-11566 | stereo vision system | Robotics | 1977 | Dated publication (not proven term origin) | [Source](https://openalex.org/W204039786) |
-| AIH-12826 | synthetic aperture sonar | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/t-su.1977.30940) |
-| AIH-12840 | telecommunication equipment | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0308-5953(77)90076-9) |
-| AIH-05218 | Threshold Selection | Evaluation & Metrics | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada049592) |
-| AIH-12849 | time division multiple access (tdma) | AI Infrastructure | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tcom.1977.1093784) |
-| AIH-14381 | tree automata | NLP and LLMs | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-7204-0725-9.50038-1) |
-| AIH-09138 | Weight Symmetry | Deep Learning | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tit.1977.1055733) |
-| AIH-06047 | Weighted Average | Datasets & Benchmarks | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/3665253) |
-| AIH-06438 | World Model | Reinforcement Learning | 1977 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0305-750x(77)90093-6) |
-| AIH-07564 | Production system (computer science) | AI Applications | 1977 ★ | Estimated ★, related scholarly evidence | [Source](https://doi.org/10.1145/359605.359608) |
-| AIH-14339 | automata | NLP and LLMs | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17376 | bistatic | Computer Vision | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15811 | computer graphics equipment | AI Infrastructure | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15859 | damage identification | AI Infrastructure | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12266 | data communication equipment | AI Infrastructure | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01938 | Decision Variable | Mathematics | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11124 | determination coefficients | Mathematics | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18878 | dividing circuits (arithmetic) | Speech & Audio | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07215 | Dominated Convergence Theorem | Mathematics | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07301 | Dummy Variable Trap | Mathematics | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00735 | E(3)-Equivariance | Graph & Network Learning | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14970 | fft algorithm | Speech & Audio | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14352 | finite state automata | NLP and LLMs | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13018 | galois fields | AI Safety | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18399 | hybrid automata | NLP and LLMs | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14357 | learning automata | NLP and LLMs | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12477 | learning paths | AI Infrastructure | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08324 | Learning Rate (LR) | Machine Learning | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12001 | marginals | AI Foundations | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09333 | Monotone Convergence Theorem | Mathematics | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16439 | multiprocessing programs | AI Infrastructure | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18357 | plane graphs | Mathematics | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12406 | portable equipment | AI Infrastructure | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03994 | Receptive Field in Neuroscience | Cognitive Science | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18402 | regular tree languages | NLP and LLMs | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12701 | retrieval systems | AI Infrastructure | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16759 | satellite network | AI Infrastructure | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16912 | sea clutters | AI Infrastructure | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18713 | servomotors | Robotics | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11323 | speech transmission | NLP and LLMs | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16874 | structural damages | AI Infrastructure | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06709 | Variable Elimination | Mathematics | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14328 | variable neighborhood search | Mathematics | 1977 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00164 | Acceptance Criteria | Evaluation & Metrics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/5580038) |
-| AIH-18741 | acoustic communications | Speech & Audio | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/oceans.1978.1151150) |
-| AIH-14876 | acoustic signals | Speech & Audio | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada051954) |
-| AIH-00557 | Agglomerative Clustering | Machine Learning | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0031-3203(78)90018-3) |
-| AIH-00123 | Albedo | Computer Graphics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/6797122) |
-| AIH-01203 | Attribute | Machine Learning | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-94-009-9874-2_1) |
-| AIH-14037 | attribute grammars | Mathematics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.7146/dpb.v7i90.6505) |
-| AIH-00570 | Augmented Lagrangian | Mathematics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-12-468660-1.50006-2) |
-| AIH-00589 | Bibliometrics | Science & Healthcare AI | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1300/j105v02n03_01) |
-| AIH-00351 | Bidirectional Reflectance Distribution Function (BRDF) | Computer Graphics | 1978 | Dated publication (not proven term origin) | [Source](https://openalex.org/W3210832619) |
-| AIH-02545 | Bidirectional Search | Mathematics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/piee.1978.0118) |
-| AIH-11872 | binary decision diagrams | AI Foundations | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tc.1978.1675141) |
-| AIH-10681 | bit-rate reduction | Computer Vision | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/j.1538-7305.1978.tb02074.x) |
-| AIH-13447 | boolean network | Data Science | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tc.1978.1675058) |
-| AIH-13674 | class information | Machine Learning | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0022-0965(78)90004-8) |
-| AIH-06058 | Cognitive revolution | AI Foundations | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e579872009-004) |
-| AIH-06158 | Cognitivism (psychology) | AI Foundations | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/s0140525x0007429x) |
-| AIH-14062 | combinatorial algorithms | Mathematics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/c2013-0-11243-3) |
-| AIH-12980 | computer crime | AI Safety | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4135/cqresrre1978010600) |
-| AIH-01331 | Conditional Independence | Mathematics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4612-6335-7) |
-| AIH-03434 | Convolution | Deep Learning | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada074978) |
-| AIH-12064 | cytogenetic analysis | Data Science | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4615-8939-6_1) |
-| AIH-10119 | database systems | AI Infrastructure | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/320263.320279) |
-| AIH-15903 | digital communication systems | AI Infrastructure | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-94-011-7577-7_34) |
-| AIH-07713 | Digital image processing | AI Foundations | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0146-664x(78)80023-9) |
-| AIH-07800 | Discretion | AI Foundations | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3138/9781487596231-006) |
-| AIH-11926 | distributed parameter system | AI Foundations | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-08-022018-5.50047-1) |
-| AIH-13560 | distributed query processing | Information Retrieval | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/509252.509292) |
-| AIH-07265 | Dual Numbers | Mathematics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf00151527) |
-| AIH-19612 | dynamic traffic | AI Infrastructure | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1287/trsc.12.3.200) |
-| AIH-13174 | edge detection | Computer Vision | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada059124) |
-| AIH-14946 | eeg analysis | Speech & Audio | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/00029238.1978.11081144) |
-| AIH-19633 | electron mobility | AI Infrastructure | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/t-ed.1978.19201) |
-| AIH-17220 | embedding process | AI Safety | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-349-03568-7_3) |
-| AIH-02064 | Exact Match | Evaluation & Metrics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1137/0207043) |
-| AIH-18051 | facial action | Machine Learning | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/t27734-000) |
-| AIH-18050 | facial action coding system | Machine Learning | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/t27734-000) |
-| AIH-18054 | facial regions | Machine Learning | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-08-023049-8.50071-3) |
-| AIH-02354 | Fair Use | AI Safety | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4159/harvard.9780674433120.c3) |
-| AIH-08471 | False Negative (FN) | AI Foundations | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0002-9149(78)90285-0) |
-| AIH-10418 | fault tolerant computer systems | AI Infrastructure | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada059936) |
-| AIH-07932 | Fixed Effect | Mathematics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3386/w0280) |
-| AIH-13791 | forecasting problems | Machine Learning | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1108/eb056898) |
-| AIH-11402 | formal specifications | Programming & Software | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada109317) |
-| AIH-15442 | functional dependencies | AI Foundations | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/6401792) |
-| AIH-14659 | game analysis | Reinforcement Learning | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1177/036215377800800316) |
-| AIH-13208 | hough transformation | Computer Vision | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tc.1978.1675191) |
-| AIH-08636 | Identifiability Analysis | Mathematics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/00207177808922437) |
-| AIH-06329 | Identity Verification | AI Applications | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada056772) |
-| AIH-11615 | iir filters | Speech & Audio | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/proc.1978.10962) |
-| AIH-13230 | image matching algorithm | Computer Vision | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0031-3203(78)90046-8) |
-| AIH-05314 | Impact Analysis | Programming & Software | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-12-735350-0.50004-x) |
-| AIH-15461 | inference systems | AI Foundations | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/c2013-0-11671-6) |
-| AIH-08704 | Information-Theoretic Lower Bound | Mathematics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0020-0190(78)90037-6) |
-| AIH-03169 | Inverse Problem | Science & Healthcare AI | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-662-25771-5_4) |
-| AIH-05878 | Labelling Policy | Generative AI | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0306-9192(78)90021-0) |
-| AIH-19306 | laser annealing | AI Foundations | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada145857) |
-| AIH-09139 | Linear Algebra | AI Foundations | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0024-3795(78)90073-3) |
-| AIH-09020 | Lipschitz Continuity | Mathematics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-0348-7180-8_21) |
-| AIH-11163 | logistic regressions | Mathematics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/2529594) |
-| AIH-09072 | Logit Function | Mathematics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-08-023768-8.50424-2) |
-| AIH-14767 | lyapunov-krasovskii functionals | Robotics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf01130642) |
-| AIH-15034 | maximum likelihood detectors | Speech & Audio | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tit.1978.1055834) |
-| AIH-15124 | mean absolute error | Speech & Audio | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tcom.1978.1094055) |
-| AIH-03630 | Memory Capacity | AI Infrastructure | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3758/bf03197446) |
-| AIH-16300 | memory systems | AI Infrastructure | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-322-83629-8_20) |
-| AIH-18997 | microstrip filters | Speech & Audio | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1063/1.31342) |
-| AIH-09293 | Mode Collapse | AI Foundations | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1364/ao.17.002924) |
-| AIH-19273 | nuclear sciences | Computer Vision | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/6751528) |
-| AIH-10817 | online searching | Information Retrieval | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1108/eb023972) |
-| AIH-12598 | optical sensor | AI Infrastructure | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada058835) |
-| AIH-20051 | optical transmission | AI Infrastructure | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada056746) |
-| AIH-20055 | optically pumped lasers | AI Infrastructure | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/6895972) |
-| AIH-17280 | palmprints | AI Safety | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/9783110800005.215) |
-| AIH-05294 | Parameter Validation | Agentic AI | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/987515.987517) |
-| AIH-16572 | pentacenes | AI Infrastructure | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/jlcr.2580140313) |
-| AIH-04284 | Perceptual Coding | Signal & Information Theory | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/c2013-0-10468-0) |
-| AIH-03349 | Percolation Threshold | Graph & Network Learning | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1063/1.31180) |
-| AIH-04625 | Plan Recognition | AI Foundations | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0004-3702(78)90012-7) |
-| AIH-13932 | pneumatic cylinders | Machine Learning | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/tpe.1978.0012) |
-| AIH-16606 | polarimeters | AI Infrastructure | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1063/1.31290) |
-| AIH-12644 | polarization mode dispersion | AI Infrastructure | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1364/ol.3.000060) |
-| AIH-16608 | policy specification | AI Infrastructure | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0197-3975(78)90077-2) |
-| AIH-17291 | polynomial basis | AI Safety | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1063/1.523616) |
-| AIH-08519 | Positional Head | Deep Learning | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf00666366) |
-| AIH-09613 | Post-Stratification | Mathematics | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada053919) |
-| AIH-06599 | Prefetching | AI Infrastructure | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/320263.320276) |
-| AIH-05601 | Premature Termination | Agentic AI | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0022-2836(78)90308-x) |
-| AIH-15515 | program translators | AI Foundations | 1978 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2140/pjm.1978.76.485) |
+**Reference key:** Publication = dated source; Related source = indirect evidence for ★; Indirect context = source about OTHER terms for ★★, not proof of this keyword's date.
+
+| Year | Keyword | Field | Reference |
+|---|---|---|---|
+| 1974 ★★ | tracking accuracy | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ad0654272) — NOT keyword evidence |
+| 1974 ★★ | tracking performance | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ad0654272) — NOT keyword evidence |
+| 1974 ★★ | tracking system | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ad0654272) — NOT keyword evidence |
+| 1974 ★★ | tracking systems | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ad0654272) — NOT keyword evidence |
+| 1974 ★★ | Transistor Density | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-349-02053-9_4) — NOT keyword evidence |
+| 1974 ★★ | Weak Duality | Mathematics | [Indirect context](https://doi.org/10.1287/mnsc.12.1.122) — NOT keyword evidence |
+| 1975 | (min ,max ,+) functions | AI Infrastructure | [Publication](https://doi.org/10.9746/sicetr1965.11.322) |
+| 1975 | achievable rate region | Speech & Audio | [Publication](https://doi.org/10.1109/tit.1975.1055418) |
+| 1975 | Acoustic Echo | Speech & Audio | [Publication](https://doi.org/10.1093/jof/73.10.633) |
+| 1975 | acoustic features | Mathematics | [Publication](https://doi.org/10.1016/b978-0-12-478350-8.50008-8) |
+| 1975 | acquisition device | Computer Vision | [Publication](https://doi.org/10.1037/0013088) |
+| 1975 | Alpha-Beta Pruning | AI Foundations | [Publication](https://doi.org/10.1016/0004-3702(75)90019-3) |
+| 1975 | Ambisonics | Speech & Audio | [Publication](https://openalex.org/W2338275273) |
+| 1975 | backscattering coefficients | AI Infrastructure | [Publication](https://doi.org/10.1016/0029-554x(75)90752-1) |
+| 1975 | binary decision trees | Machine Learning | [Publication](https://doi.org/10.1145/987686.987688) |
+| 1975 | bioindicator | Data Science | [Publication](https://doi.org/10.1007/978-94-010-1933-0_24) |
+| 1975 | broadcast channels | Speech & Audio | [Publication](https://doi.org/10.1016/b978-0-12-010904-3.50011-7) |
+| 1975 | business intelligence systems | AI Infrastructure | [Publication](https://doi.org/10.1016/0007-6813(75)90036-1) |
+| 1975 | Cepstrum | Signal & Information Theory | [Publication](https://doi.org/10.21236/ada029560) |
+| 1975 | Characteristic Polynomial | Mathematics | [Publication](https://doi.org/10.21136/am.1975.103567) |
+| 1975 | Chirp Signal | Signal & Information Theory | [Publication](https://doi.org/10.1109/ultsym.1975.196535) |
+| 1975 | communication protocols | AI Infrastructure | [Publication](https://doi.org/10.21236/ada025508) |
+| 1975 | concurrent software | AI Infrastructure | [Publication](https://doi.org/10.1109/tse.1975.6312823) |
+| 1975 | Control Loop | AI Foundations | [Publication](https://doi.org/10.2514/6.1975-1108) |
+| 1975 | convolutional codes | Speech & Audio | [Publication](https://doi.org/10.1007/978-3-7091-3008-7_1) |
+| 1975 | cross-terms | Computer Vision | [Publication](https://doi.org/10.1007/978-1-4684-3150-6_4) |
+| 1975 | Deblurring | Computer Vision | [Publication](https://doi.org/10.1113/jphysiol.1975.sp011162) |
+| 1975 | decision model | AI Foundations | [Publication](https://doi.org/10.1111/j.1540-5915.1975.tb01045.x) |
+| 1975 | delay spread | AI Infrastructure | [Publication](https://doi.org/10.1109/tap.1975.1141042) |
+| 1975 | digital image | Computer Vision | [Publication](https://doi.org/10.1109/proc.1975.9801) |
+| 1975 | dominance relation | AI Foundations | [Publication](https://doi.org/10.1287/mnsc.21.10.1206) |
+| 1975 | Draft Model | AI Infrastructure | [Publication](https://doi.org/10.1136/bmj.2.5961.49) |
+| 1975 | Dummy Variable | Mathematics | [Publication](https://doi.org/10.2307/2525828) |
+| 1975 | dynamic optimization problems | Mathematics | [Publication](https://doi.org/10.1007/978-3-662-38527-2_3) |
+| 1975 | electromagnetic environments | Speech & Audio | [Publication](https://doi.org/10.23919/emc.1975.10797974) |
+| 1975 | Elicitation technique | AI Foundations | [Publication](https://doi.org/10.1515/9783112415405-021) |
+| 1975 | Emulator | Science & Healthcare AI | [Publication](https://doi.org/10.1109/c-m.1975.219049) |
+| 1975 | Finite Population Correction | Mathematics | [Publication](https://doi.org/10.1080/01621459.1975.10480263) |
+| 1975 | flexible joints | Robotics | [Publication](https://doi.org/10.2514/6.1975-1221) |
+| 1975 | focal plane array | AI Infrastructure | [Publication](https://doi.org/10.1109/iedm.1975.188932) |
+| 1975 | frequency domains | Speech & Audio | [Publication](https://doi.org/10.1016/b978-0-08-018773-0.50006-0) |
+| 1975 | gene frequency | Data Science | [Publication](https://doi.org/10.1073/pnas.72.4.1602) |
+| 1975 | gene mapping | Data Science | [Publication](https://doi.org/10.1159/isbn.978-3-8055-8939-0) |
+| 1975 | graded index | AI Infrastructure | [Publication](https://doi.org/10.1364/ao.14.002427) |
+| 1975 | Histogram | Mathematics | [Publication](https://doi.org/10.1016/0146-664x(75)90009-x) |
+| 1975 | histogram modification | Mathematics | [Publication](https://doi.org/10.1016/0146-664x(75)90009-x) |
+| 1975 | holographic displays | AI Applications | [Publication](https://doi.org/10.1117/12.7971805) |
+| 1975 | image subtraction | Computer Vision | [Publication](https://doi.org/10.1117/12.7971809) |
+| 1975 | Implicit Differentiation | Mathematics | [Publication](https://doi.org/10.1109/tcs.1975.1084011) |
+| 1975 | industrial robots | Robotics | [Publication](https://doi.org/10.1007/978-3-0348-5530-3_5) |
+| 1975 | Inflection Point | Mathematics | [Publication](https://doi.org/10.2307/3959722) |
+| 1975 | Information Need | Information Retrieval | [Publication](https://doi.org/10.1007/978-94-011-7759-7_7) |
+| 1975 | Intrinsic Motivation | Reinforcement Learning | [Publication](https://doi.org/10.1007/978-1-4613-4446-9) |
+| 1975 | laser speckle | AI Infrastructure | [Publication](https://doi.org/10.1007/bfb0111436) |
+| 1975 | laser tuning | AI Infrastructure | [Publication](https://doi.org/10.1038/253236b0) |
+| 1975 | local features | Computer Vision | [Publication](https://doi.org/10.1016/0146-664x(75)90022-2) |
+| 1975 | lsi circuits | AI Infrastructure | [Publication](https://doi.org/10.1016/0026-2714(75)90522-3) |
+| 1975 | mamdani | AI Foundations | [Publication](https://doi.org/10.1016/S0020-7373(75)80002-2) |
+| 1975 | Memorization | Deep Learning | [Publication](https://doi.org/10.1037/e666602011-278) |
+| 1975 | Mental rotation | AI Foundations | [Publication](https://doi.org/10.1037/e666602011-007) |
+| 1975 | microphone signals | Speech & Audio | [Publication](https://doi.org/10.2514/6.1975-456) |
+| 1975 | microprocessor chips | AI Infrastructure | [Publication](https://doi.org/10.1109/mspec.1975.6368822) |
+| 1975 | microwave amplifiers | AI Infrastructure | [Publication](https://doi.org/10.1109/euma.1975.332171) |
+| 1975 | Migration | AI Infrastructure | [Publication](https://doi.org/10.2307/3002349) |
+| 1975 | misadjustment | Speech & Audio | [Publication](https://doi.org/10.1118/1.594170) |
+| 1975 | mixing matrix | Mathematics | [Publication](https://doi.org/10.1103/physrevc.11.253) |
+| 1975 | mobile radios | Speech & Audio | [Publication](https://doi.org/10.1049/ep.1975.1227) |
+| 1975 | mobile terminals | AI Infrastructure | [Publication](https://doi.org/10.21236/ada022556) |
+| 1975 | multimode optical fibers | AI Infrastructure | [Publication](https://doi.org/10.1002/j.1538-7305.1975.tb00131.x) |
+| 1975 | multiprocessor-system | AI Infrastructure | [Publication](https://doi.org/10.1002/j.1538-7305.1975.tb03300.x) |
+| 1975 | multivalued logic | AI Infrastructure | [Publication](https://doi.org/10.1007/bf01068961) |
+| 1975 | network interface | AI Applications | [Publication](https://doi.org/10.7249/p5445) |
+| 1975 | Novelty | Recommender Systems | [Publication](https://doi.org/10.1007/978-94-010-1666-7_4) |
+| 1975 | Object Permanence | AI Foundations | [Publication](https://doi.org/10.1037//0033-2909.82.3.332) |
+| 1975 | optical fiber coupling | AI Infrastructure | [Publication](https://openalex.org/W1483315533) |
+| 1975 | optical frequency conversion | AI Infrastructure | [Publication](https://openalex.org/W2994288898) |
+| 1975 | optimal control problem | Mathematics | [Publication](https://doi.org/10.1007/978-1-4612-6380-7_2) |
+| 1975 | Parametric Model | Mathematics | [Publication](https://doi.org/10.7249/r1615) |
+| 1975 | pareto efficiency | AI Foundations | [Publication](https://doi.org/10.1007/bf01718419) |
+| 1975 | Pareto Optimality | AI Foundations | [Publication](https://doi.org/10.1007/978-3-7091-2438-3_4) |
+| 1975 | patient data | AI Infrastructure | [Publication](https://openalex.org/W2467175091) |
+| 1975 | Perception | AI Foundations | [Publication](https://doi.org/10.1068/p040229) |
+| 1975 | Permutation Test | Mathematics | [Publication](https://doi.org/10.1214/aos/1176343082) |
+| 1975 | phase correlation | Computer Vision | [Publication](https://openalex.org/W1520822062) |
+| 1975 | Policy Model | Deep Learning | [Publication](https://doi.org/10.1007/bf00138034) |
+| 1975 | Probit Regression | Mathematics | [Publication](https://doi.org/10.2307/1913419) |
+| 1975 | process planning | Programming & Software | [Publication](https://doi.org/10.1007/978-3-642-66262-1_7) |
+| 1975 | programming languages | Programming & Software | [Publication](https://doi.org/10.1145/512976.512991) |
+| 1975 | provably secure | AI Infrastructure | [Publication](https://openalex.org/W1491597649) |
+| 1975 | quantization schemes | Speech & Audio | [Publication](https://doi.org/10.1002/j.1538-7305.1975.tb02053.x) |
+| 1975 | real-time applications | AI Foundations | [Publication](https://doi.org/10.1145/1164870.1164871) |
+| 1975 | reconstructed image | Computer Vision | [Publication](https://doi.org/10.21236/ada018692) |
+| 1975 | relational algebra | AI Foundations | [Publication](https://doi.org/10.1145/361020.361025) |
+| 1975 | relational data | AI Foundations | [Publication](https://doi.org/10.1145/500080.500110) |
+| 1975 | relay system | AI Infrastructure | [Publication](https://doi.org/10.1016/s0006-291x(75)80013-1) |
+| 1975 | requirements analysis | Programming & Software | [Publication](https://doi.org/10.1145/1017566.1017567) |
+| 1975 | safety messages | AI Infrastructure | [Publication](https://doi.org/10.1037/e493062008-001) |
+| 1975 | scaling functions | Computer Vision | [Publication](https://doi.org/10.1063/1.30107) |
+| 1975 | search tasks | Information Retrieval | [Publication](https://doi.org/10.1037/e666602011-164) |
+| 1975 | Self-Evaluation | Agentic AI | [Publication](https://doi.org/10.1037/t25226-000) |
+| 1975 | Service Catalogue | AI Infrastructure | [Publication](https://openalex.org/W3154556001) |
+| 1975 | Shielding | Reinforcement Learning | [Publication](https://doi.org/10.1007/978-3-642-65001-7_2) |
+| 1975 | Source Code | Programming & Software | [Publication](https://doi.org/10.1109/tse.1975.6312866) |
+| 1975 | speech processing | Speech & Audio | [Publication](https://doi.org/10.1109/msp.1975.237460) |
+| 1975 | speed measurement | Robotics | [Publication](https://doi.org/10.1007/978-1-4613-3377-7_5) |
+| 1975 | Standard Setting Body | AI Safety | [Publication](https://doi.org/10.1037/e388742004-003) |
+| 1975 | stream processing | AI Infrastructure | [Publication](https://doi.org/10.1147/rd.191.0012) |
+| 1975 | survivability | AI Infrastructure | [Publication](https://doi.org/10.21236/ada016929) |
+| 1975 | test collections | Information Retrieval | [Publication](https://doi.org/10.1108/eb026606) |
+| 1975 | Thermal Imaging | Computer Vision | [Publication](https://doi.org/10.1007/978-1-4899-1182-7_8) |
+| 1975 | time and frequency domains | Speech & Audio | [Publication](https://doi.org/10.1016/b978-0-08-018773-0.50006-0) |
+| 1975 | transient faults | AI Infrastructure | [Publication](https://doi.org/10.1016/0026-2714(75)90083-9) |
+| 1975 | vehicle routing problems | AI Infrastructure | [Publication](https://doi.org/10.21236/ada013639) |
+| 1975 | wiener filtering | Speech & Audio | [Publication](https://doi.org/10.1007/978-3-642-45450-9_8) |
+| 1975 ★★ | AI Standards Body | People & Organizations | [Indirect context](https://doi.org/10.1037/e388742004-003) — NOT keyword evidence |
+| 1975 ★★ | computer aided process planning | Programming & Software | [Indirect context](https://doi.org/10.1007/978-3-642-66262-1_7) — NOT keyword evidence |
+| 1975 ★★ | cosmic microwave backgrounds | AI Infrastructure | [Indirect context](https://doi.org/10.1126/science.205.4409.866) — NOT keyword evidence |
+| 1975 ★★ | echo canceller | Speech & Audio | [Indirect context](https://doi.org/10.1109/tassp.1986.1164927) — NOT keyword evidence |
+| 1975 ★★ | frequency conversion | AI Infrastructure | [Indirect context](https://openalex.org/W2994288898) — NOT keyword evidence |
+| 1975 ★★ | frequency conversions | AI Infrastructure | [Indirect context](https://openalex.org/W2994288898) — NOT keyword evidence |
+| 1975 ★★ | Implicit Differentiation Layer | Mathematics | [Indirect context](https://doi.org/10.1109/tcs.1975.1084011) — NOT keyword evidence |
+| 1975 ★★ | Inflection | NLP and LLMs | [Indirect context](https://doi.org/10.2307/3959722) — NOT keyword evidence |
+| 1975 ★★ | information dissemination | Information Retrieval | [Indirect context](https://doi.org/10.1016/0020-0271(70)90058-6) — NOT keyword evidence |
+| 1975 ★★ | infrared focal plane arrays | AI Infrastructure | [Indirect context](https://doi.org/10.1109/iedm.1975.188932) — NOT keyword evidence |
+| 1975 ★★ | linear codes | Speech & Audio | [Indirect context](https://openalex.org/W2749426592) — NOT keyword evidence |
+| 1975 ★★ | Notified Body | AI Safety | [Indirect context](https://doi.org/10.1037/e388742004-003) — NOT keyword evidence |
+| 1975 ★★ | Omitted Variable Bias | Mathematics | [Indirect context](https://doi.org/10.1007/978-94-011-6089-6_2) — NOT keyword evidence |
+| 1975 ★★ | orthogonal polynomial | AI Infrastructure | [Indirect context](https://doi.org/10.1090/s0002-9947-1931-1501591-0) — NOT keyword evidence |
+| 1975 ★★ | Perception Module | Agentic AI | [Indirect context](https://doi.org/10.4324/9780203995778-15) — NOT keyword evidence |
+| 1975 ★★ | radar backscattering | AI Infrastructure | [Indirect context](https://doi.org/10.1017/s0022377800009946) — NOT keyword evidence |
+| 1975 ★★ | speckle | AI Infrastructure | [Indirect context](https://doi.org/10.1007/bfb0111436) — NOT keyword evidence |
+| 1975 ★★ | synchronous circuits | AI Infrastructure | [Indirect context](https://doi.org/10.1007/1-4020-0613-6_18822) — NOT keyword evidence |
+| 1975 ★★ | telephone circuits | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0011-684x(86)90279-0) — NOT keyword evidence |
+| 1976 | acoustic resonators | Speech & Audio | [Publication](https://doi.org/10.1109/ultsym.1976.196749) |
+| 1976 | acoustic waves | Speech & Audio | [Publication](https://doi.org/10.1007/978-1-4757-0824-0_1) |
+| 1976 | adaptive routing | AI Infrastructure | [Publication](https://doi.org/10.1145/359970.359987) |
+| 1976 | analog signals | Speech & Audio | [Publication](https://doi.org/10.1016/0026-2714(76)90099-8) |
+| 1976 | anatomic landmark | Computer Vision | [Publication](https://doi.org/10.1016/0030-4220(76)90182-1) |
+| 1976 | approximation scheme | Mathematics | [Publication](https://doi.org/10.1007/978-1-4757-0016-9_16) |
+| 1976 | Axolotl | Tools & Frameworks | [Publication](https://doi.org/10.1002/jmor.1051500106) |
+| 1976 | Backbone | Deep Learning | [Publication](https://doi.org/10.1111/j.1432-1033.1976.tb10212.x) |
+| 1976 | Band-Pass Filter | Signal & Information Theory | [Publication](https://doi.org/10.1016/0026-2714(76)90726-5) |
+| 1976 | Beam Search | AI Foundations | [Publication](https://doi.org/10.21236/ada034670) |
+| 1976 | biofeedback | Data Science | [Publication](https://doi.org/10.1007/bf00998769) |
+| 1976 | bit errors | Speech & Audio | [Publication](https://doi.org/10.1109/tcom.1976.1093183) |
+| 1976 | cache memories | AI Infrastructure | [Publication](https://doi.org/10.1145/800110.803574) |
+| 1976 | chinese character recognition | Machine Learning | [Publication](https://doi.org/10.1016/0031-3203(76)90037-6) |
+| 1976 | Circuit Breaker | Agentic AI | [Publication](https://doi.org/10.2172/7123313) |
+| 1976 | clock synchronization | AI Infrastructure | [Publication](https://doi.org/10.6028/nbs.tn.691) |
+| 1976 | Cognition | Cognitive Science | [Publication](https://doi.org/10.1016/0010-0277(76)90019-6) |
+| 1976 | component models | Programming & Software | [Publication](https://doi.org/10.1080/02331937608842368) |
+| 1976 | compression efficiency | Computer Vision | [Publication](https://doi.org/10.2172/7268243) |
+| 1976 | computer game | Reinforcement Learning | [Publication](https://doi.org/10.1016/0010-4485(76)90105-6) |
+| 1976 | Containerization | AI Infrastructure | [Publication](https://doi.org/10.4271/760297) |
+| 1976 | cr system | AI Foundations | [Publication](https://doi.org/10.1515/pm-1976-130303) |
+| 1976 | data abstraction | NLP and LLMs | [Publication](https://doi.org/10.1145/800237.807119) |
+| 1976 | delay estimation | Speech & Audio | [Publication](https://doi.org/10.1007/978-94-009-5361-1_15) |
+| 1976 | discrete dynamical systems | AI Foundations | [Publication](https://doi.org/10.1137/1.9781611970432.ch4) |
+| 1976 | edge connectivity | Mathematics | [Publication](https://doi.org/10.21136/cpm.1976.117895) |
+| 1976 | ethnicity | Data Science | [Publication](https://doi.org/10.1515/9783110803501.385) |
+| 1976 | Expectation–maximization algorithm | Machine Learning | [Publication](https://dash.harvard.edu/entities/publication/73120378-8486-6bd4-e053-0100007fdf3b) |
+| 1976 | Exploitability | Reinforcement Learning | [Publication](https://doi.org/10.1007/bf01531454) |
+| 1976 | fitness functions | AI Foundations | [Publication](https://doi.org/10.1038/hdy.1976.27) |
+| 1976 | forecasting error | Machine Learning | [Publication](https://doi.org/10.1038/262441b0) |
+| 1976 | frequency re-use | AI Infrastructure | [Publication](https://doi.org/10.1109/euma.1976.332265) |
+| 1976 | genetic screening | Data Science | [Publication](https://doi.org/10.1542/peds.58.5.757) |
+| 1976 | geometric transformations | Computer Vision | [Publication](https://doi.org/10.21136/am.1976.103644) |
+| 1976 | hidden messages | AI Safety | [Publication](https://doi.org/10.1007/bf02142214) |
+| 1976 | Hoare Logic | AI Foundations | [Publication](https://doi.org/10.1109/sfcs.1976.27) |
+| 1976 | hospital data processing | AI Infrastructure | [Publication](https://doi.org/10.1001/jama.1976.03260320017009) |
+| 1976 | imaging techniques | Computer Vision | [Publication](https://doi.org/10.1016/b978-0-12-525250-8.50007-4) |
+| 1976 | Informatics | AI Foundations | [Publication](https://doi.org/10.3109/14639237609016094) |
+| 1976 | interference power | AI Infrastructure | [Publication](https://doi.org/10.23919/emc.1976.10826484) |
+| 1976 | linear polarization | AI Infrastructure | [Publication](https://doi.org/10.5006/c1976-76035) |
+| 1976 | loudspeakers | Speech & Audio | [Publication](https://doi.org/10.1080/09747338.1976.11450151) |
+| 1976 | Lyapunov Stability | AI Foundations | [Publication](https://doi.org/10.21136/cpm.1976.117900) |
+| 1976 | Martingale | Mathematics | [Publication](https://doi.org/10.21136/cpm.1976.117920) |
+| 1976 | Matrix Sign Function | Mathematics | [Publication](https://doi.org/10.1016/0096-3003(76)90020-5) |
+| 1976 | medical informatics | AI Applications | [Publication](https://doi.org/10.3109/14639237609016094) |
+| 1976 | mesoscale eddies | AI Infrastructure | [Publication](https://doi.org/10.1575/1912/1296) |
+| 1976 | micromachining | AI Infrastructure | [Publication](https://doi.org/10.2172/5342127) |
+| 1976 | Model Family | Machine Learning | [Publication](https://doi.org/10.2307/1965826) |
+| 1976 | Modus Ponens | AI Foundations | [Publication](https://doi.org/10.30920/letras.48.84-85.05) |
+| 1976 | multi-criteria decision making | AI Foundations | [Publication](https://doi.org/10.1007/978-3-642-87563-2_7) |
+| 1976 | navigation algorithms | Robotics | [Publication](https://doi.org/10.1002/j.2161-4296.1976.tb01847.x) |
+| 1976 | nd:yag laser | AI Infrastructure | [Publication](https://doi.org/10.1515/bmte.1976.21.9.275) |
+| 1976 | non-cooperative games | Reinforcement Learning | [Publication](https://doi.org/10.1007/978-1-349-15741-9_4) |
+| 1976 | nonlinear perturbations | Robotics | [Publication](https://doi.org/10.1016/b978-0-12-164902-9.50018-6) |
+| 1976 | one dimensional | Computer Vision | [Publication](https://doi.org/10.1016/b978-0-08-020414-7.50011-3) |
+| 1976 | optical parametric oscillators | AI Infrastructure | [Publication](https://doi.org/10.21236/ada036311) |
+| 1976 | optical signals | AI Infrastructure | [Publication](https://doi.org/10.21236/ada040068) |
+| 1976 | Optimal Value Function | Reinforcement Learning | [Publication](https://doi.org/10.21236/ada026374) |
+| 1976 | parallel computation | AI Infrastructure | [Publication](https://doi.org/10.21136/am.1976.103645) |
+| 1976 | partially observable markov decision processes | Reinforcement Learning | [Publication](https://doi.org/10.1037/e429542004-001) |
+| 1976 | Pearson Correlation | Mathematics | [Publication](https://doi.org/10.2466/pms.1976.43.3f.1319) |
+| 1976 | personal computing | AI Safety | [Publication](https://doi.org/10.1109/c-m.1976.218463) |
+| 1976 | Placebo Effect | Mathematics | [Publication](https://doi.org/10.1097/00000542-197604000-00030) |
+| 1976 | planarity | Mathematics | [Publication](https://doi.org/10.2172/7124328) |
+| 1976 | point multiplication | AI Safety | [Publication](https://doi.org/10.1007/bf01940776) |
+| 1976 | positioning techniques | Robotics | [Publication](https://doi.org/10.4043/2460-ms) |
+| 1976 | program verification | AI Foundations | [Publication](https://doi.org/10.21236/ada027455) |
+| 1976 | programmable robots | Robotics | [Publication](https://doi.org/10.6028/nbs.sp.459) |
+| 1976 | radio spectra | AI Foundations | [Publication](https://doi.org/10.1086/182266) |
+| 1976 | rain rates | Speech & Audio | [Publication](https://doi.org/10.1175/1520-0450(1976)015<1160:tmomrr>2.0.co;2) |
+| 1976 | recovery time | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-642-66356-7_6) |
+| 1976 | Representativeness Heuristic | Cognitive Science | [Publication](https://doi.org/10.2466/pr0.1976.39.3f.1323) |
+| 1976 | robot controls | Robotics | [Publication](https://doi.org/10.1080/01969727608927524) |
+| 1976 | Sales Forecasting | AI Applications | [Publication](https://doi.org/10.1177/002224297604000204) |
+| 1976 | scatterometer | AI Infrastructure | [Publication](https://doi.org/10.1109/oceans.1976.1154216) |
+| 1976 | scientific computing | Data Science | [Publication](https://doi.org/10.1016/c2013-0-11262-7) |
+| 1976 | security requirements | AI Safety | [Publication](https://doi.org/10.21236/ada055165) |
+| 1976 | self-managing | AI Infrastructure | [Publication](https://doi.org/10.21236/ada036731) |
+| 1976 | Shapiro-Wilk Test | Mathematics | [Publication](https://doi.org/10.1007/978-3-0348-5513-6_13) |
+| 1976 | Short-Term Memory (STM) | Cognitive Science | [Publication](https://doi.org/10.3758/bf03337107) |
+| 1976 | signal detection theory | Speech & Audio | [Publication](https://doi.org/10.1037/e668292012-009) |
+| 1976 | signal to interference ratio | Speech & Audio | [Publication](https://doi.org/10.1109/isemc.1976.7568694) |
+| 1976 | single precision | AI Infrastructure | [Publication](https://doi.org/10.2514/6.1976-819) |
+| 1976 | software engineering education | Programming & Software | [Publication](https://doi.org/10.1007/978-1-4612-9898-4_19) |
+| 1976 | software maintenance | Programming & Software | [Publication](https://doi.org/10.1007/978-1-349-86129-3_11) |
+| 1976 | software requirements | Programming & Software | [Publication](https://doi.org/10.5555/800253.807650) |
+| 1976 | Spread Spectrum | Signal & Information Theory | [Publication](https://openalex.org/W1569879151) |
+| 1976 | step response | Robotics | [Publication](https://doi.org/10.4043/2467-ms) |
+| 1976 | stochastic optimization problems | Mathematics | [Publication](https://doi.org/10.1007/bfb0120750) |
+| 1976 | Subgraph Isomorphism | Mathematics | [Publication](https://doi.org/10.1145/321921.321925) |
+| 1976 | Supervisory Control | Agentic AI | [Publication](https://doi.org/10.1007/978-1-4684-2523-9_22) |
+| 1976 | synthesized speech | Speech & Audio | [Publication](https://doi.org/10.1121/1.2003523) |
+| 1976 | time delay estimation | Speech & Audio | [Publication](https://doi.org/10.1007/978-94-009-5361-1_15) |
+| 1976 | tracking problem | AI Infrastructure | [Publication](https://doi.org/10.1145/800191.805667) |
+| 1976 | two dimensional electron gas | Computer Vision | [Publication](https://doi.org/10.1103/physrevb.13.4192) |
+| 1976 | Unacceptable Risk | AI Safety | [Publication](https://openalex.org/W638008962) |
+| 1976 | utility functions | Reinforcement Learning | [Publication](https://doi.org/10.21236/ada029655) |
+| 1976 | valid inequalities | Mathematics | [Publication](https://doi.org/10.1287/opre.24.2.367) |
+| 1976 | variable structures | Deep Learning | [Publication](https://doi.org/10.1016/b978-0-12-339050-9.50014-6) |
+| 1976 | virtual keyboards | AI Applications | [Publication](https://doi.org/10.1007/978-1-4684-2523-9_37) |
+| 1976 | Window Function | Signal & Information Theory | [Publication](https://doi.org/10.1016/0771-050x(76)90003-6) |
+| 1976 ★★ | angle estimation | Speech & Audio | [Indirect context](https://doi.org/10.1007/978-94-009-5361-1_15) — NOT keyword evidence |
+| 1976 ★★ | Backward Pass | Deep Learning | [Indirect context](https://doi.org/10.1080/23267240.1937.10623592) — NOT keyword evidence |
+| 1976 ★★ | chirp signals | Speech & Audio | [Indirect context](https://doi.org/10.1109/ultsym.1975.196535) — NOT keyword evidence |
+| 1976 ★★ | Chunking in Memory | Cognitive Science | [Indirect context](https://doi.org/10.31274/rtd-180813-2579) — NOT keyword evidence |
+| 1976 ★★ | clock frequency | AI Infrastructure | [Indirect context](https://doi.org/10.1109/71.363408) — NOT keyword evidence |
+| 1976 ★★ | Conditional Expectation | Mathematics | [Indirect context](https://doi.org/10.1109/icif.2007.4407993) — NOT keyword evidence |
+| 1976 ★★ | Correlation | Mathematics | [Indirect context](https://doi.org/10.2172/5152227) — NOT keyword evidence |
+| 1976 ★★ | delay and sums | Speech & Audio | [Indirect context](https://doi.org/10.1007/978-94-009-5361-1_15) — NOT keyword evidence |
+| 1976 ★★ | Expectation | AI Foundations | [Indirect context](https://doi.org/10.1016/s0031-6997(25)06900-5) — NOT keyword evidence |
+| 1976 ★★ | False Memory | Cognitive Science | [Indirect context](https://doi.org/10.31274/rtd-180813-2579) — NOT keyword evidence |
+| 1976 ★★ | handwritten chinese character | Machine Learning | [Indirect context](https://doi.org/10.1525/9780520323896-013) — NOT keyword evidence |
+| 1976 ★★ | Intraclass Correlation (ICC) | Mathematics | [Indirect context](https://doi.org/10.2172/5152227) — NOT keyword evidence |
+| 1976 ★★ | manufacturing data processing | AI Infrastructure | [Indirect context](https://doi.org/10.1147/rd.191.0012) — NOT keyword evidence |
+| 1976 ★★ | non-cooperative | Reinforcement Learning | [Indirect context](https://doi.org/10.1007/978-1-349-15741-9_4) — NOT keyword evidence |
+| 1976 ★★ | non-cooperative game | Reinforcement Learning | [Indirect context](https://openalex.org/W618720018) — NOT keyword evidence |
+| 1976 ★★ | optical signal to noise ratio | Speech & Audio | [Indirect context](https://openalex.org/W1992688426) — NOT keyword evidence |
+| 1976 ★★ | optimal strategies | Reinforcement Learning | [Indirect context](https://doi.org/10.21136/cpm.1959.117317) — NOT keyword evidence |
+| 1976 ★★ | penalty functions | AI Foundations | [Indirect context](https://doi.org/10.2307/1267201) — NOT keyword evidence |
+| 1976 ★★ | Q-Function | AI Foundations | [Indirect context](https://doi.org/10.1111/j.1469-1809.1947.tb02394.x) — NOT keyword evidence |
+| 1976 ★★ | qam signals | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ada040068) — NOT keyword evidence |
+| 1976 ★★ | received signal strength indication | AI Infrastructure | [Indirect context](https://doi.org/10.3390/e18100366) — NOT keyword evidence |
+| 1976 ★★ | signal-to-interference and noise ratios | Speech & Audio | [Indirect context](https://doi.org/10.1109/isemc.1976.7568694) — NOT keyword evidence |
+| 1976 ★★ | Single Responsibility Principle (SRP) | Programming & Software | [Indirect context](https://doi.org/10.1080/00949658308810689) — NOT keyword evidence |
+| 1976 ★★ | Spearman Correlation | Mathematics | [Indirect context](https://doi.org/10.2172/5152227) — NOT keyword evidence |
+| 1977 | 1064 nm | AI Infrastructure | [Publication](https://doi.org/10.1364/ao.16.001204) |
+| 1977 | Anisotropy | Mathematics | [Publication](https://doi.org/10.1007/978-1-4684-0781-5_5) |
+| 1977 | Base rate | Machine Learning | [Publication](https://doi.org/10.21236/ada045772) |
+| 1977 | Base Rate Fallacy | Mathematics | [Publication](https://doi.org/10.21236/ada045772) |
+| 1977 | bibliographic retrieval systems | AI Infrastructure | [Publication](https://doi.org/10.2307/1297679) |
+| 1977 | buffer storage | AI Infrastructure | [Publication](https://doi.org/10.1145/800179.1125351) |
+| 1977 | cable television systems | AI Infrastructure | [Publication](https://doi.org/10.1109/tcatv.1977.285685) |
+| 1977 | carry logic | Speech & Audio | [Publication](https://doi.org/10.1109/tc.1977.5009278) |
+| 1977 | Censoring | Mathematics | [Publication](https://doi.org/10.21236/ada040240) |
+| 1977 | centralized scheduling | AI Foundations | [Publication](https://doi.org/10.1097/00006216-197701040-00007) |
+| 1977 | Chinese Remainder Theorem | Mathematics | [Publication](https://doi.org/10.4064/fm-96-3-177-187) |
+| 1977 | Clustering | Machine Learning | [Publication](https://doi.org/10.1016/b978-0-12-714250-0.50007-3) |
+| 1977 | clutter background | Computer Vision | [Publication](https://openalex.org/W2992460408) |
+| 1977 | cmos analog integrated circuits | AI Infrastructure | [Publication](https://doi.org/10.1109/jssc.1977.1050882) |
+| 1977 | cognitive models | AI Foundations | [Publication](https://doi.org/10.1016/s0364-0213(77)80022-0) |
+| 1977 | complete link clustering | Machine Learning | [Publication](https://doi.org/10.1016/0001-8791(77)90043-4) |
+| 1977 | computer networks | AI Infrastructure | [Publication](https://doi.org/10.1016/0376-5075(77)90003-4) |
+| 1977 | concurrent program | AI Infrastructure | [Publication](https://doi.org/10.7146/dpb.v6i78.7691) |
+| 1977 | control overhead | AI Infrastructure | [Publication](https://openalex.org/W4301321916) |
+| 1977 | control voltages | Speech & Audio | [Publication](https://doi.org/10.1109/t-pas.1977.32410) |
+| 1977 | controlled objects | Robotics | [Publication](https://doi.org/10.1007/bf01069545) |
+| 1977 | correlation coefficient | Mathematics | [Publication](https://doi.org/10.1016/0047-259x(77)90033-1) |
+| 1977 | correlation theory | Speech & Audio | [Publication](https://doi.org/10.1007/978-1-349-09546-9_3) |
+| 1977 | Damage Assessment | AI Applications | [Publication](https://doi.org/10.21236/ada048002) |
+| 1977 | dc servomotors | Robotics | [Publication](https://doi.org/10.1109/tia.1977.4503398) |
+| 1977 | Decision Quality | AI Foundations | [Publication](https://doi.org/10.1177/002224377701400414) |
+| 1977 | decision rule | AI Foundations | [Publication](https://doi.org/10.1111/j.1540-5915.1977.tb01082.x) |
+| 1977 | decision table | AI Foundations | [Publication](https://doi.org/10.1016/c2013-0-07441-5) |
+| 1977 | Deterministic Evaluation | Evaluation & Metrics | [Publication](https://doi.org/10.1109/isemc.1977.7567176) |
+| 1977 | distinguishers | AI Safety | [Publication](https://doi.org/10.1075/sl.1.2.09shi) |
+| 1977 | dual-tree | Computer Vision | [Publication](https://doi.org/10.1515/9783112519424-001) |
+| 1977 | Dynamics Model | AI Foundations | [Publication](https://doi.org/10.21236/ada045463) |
+| 1977 | electric network synthesis | AI Infrastructure | [Publication](https://doi.org/10.1016/0095-8956(77)90061-2) |
+| 1977 | electrooptical devices | Computer Vision | [Publication](https://doi.org/10.21236/ada054477) |
+| 1977 | equal-gain combining | AI Infrastructure | [Publication](https://doi.org/10.1109/vtc.1977.1622442) |
+| 1977 | Equivariance | Mathematics | [Publication](https://doi.org/10.1017/cbo9780511600753.007) |
+| 1977 | evolutionary stable strategy | Reinforcement Learning | [Publication](https://doi.org/10.1016/0022-5193(77)90189-8) |
+| 1977 | fft processors | Speech & Audio | [Publication](https://doi.org/10.1109/proc.1977.10446) |
+| 1977 | fiber delay lines | Mathematics | [Publication](https://doi.org/10.1109/t-su.1977.30939) |
+| 1977 | finite difference method | Speech & Audio | [Publication](https://doi.org/10.2172/7314389) |
+| 1977 | finite field arithmetic | AI Safety | [Publication](https://doi.org/10.1109/tit.1977.1055697) |
+| 1977 | finite time | Robotics | [Publication](https://doi.org/10.1103/physreva.15.2094) |
+| 1977 | fluidized bed combustion | AI Applications | [Publication](https://doi.org/10.2172/7309640) |
+| 1977 | force control | Robotics | [Publication](https://openalex.org/W1554842388) |
+| 1977 | Force Field | Science & Healthcare AI | [Publication](https://doi.org/10.1007/978-3-642-93063-8_8) |
+| 1977 | force sensing | Robotics | [Publication](https://doi.org/10.1016/b978-0-08-022015-4.50020-6) |
+| 1977 | Frontier Model | AI Foundations | [Publication](https://doi.org/10.1111/j.1467-8489.1977.tb00204.x) |
+| 1977 | functional dependency | AI Foundations | [Publication](https://doi.org/10.1093/geronj/32.2.222) |
+| 1977 | gaussian distribution | Speech & Audio | [Publication](https://doi.org/10.1016/b978-0-08-021797-0.50018-4) |
+| 1977 | Graph Isomorphism | Mathematics | [Publication](https://doi.org/10.1002/jgt.3190010410) |
+| 1977 | graph theory | Mathematics | [Publication](https://doi.org/10.1002/jgt.3190010206) |
+| 1977 | Hellinger Distance | Mathematics | [Publication](https://doi.org/10.1214/aos/1176343842) |
+| 1977 | Horn Clause | Mathematics | [Publication](https://doi.org/10.1007/bf01932293) |
+| 1977 | human faces | Machine Learning | [Publication](https://doi.org/10.1007/978-3-0348-5737-6_3) |
+| 1977 | Impulse Response | Signal & Information Theory | [Publication](https://doi.org/10.21236/ada048070) |
+| 1977 | individual rationality | Reinforcement Learning | [Publication](https://doi.org/10.1287/moor.2.1.64) |
+| 1977 | Interleaving | Signal & Information Theory | [Publication](https://doi.org/10.2514/6.1977-1534) |
+| 1977 | Interval Arithmetic | Mathematics | [Publication](https://doi.org/10.21236/ada040150) |
+| 1977 | kalman filter algorithms | Speech & Audio | [Publication](https://doi.org/10.1016/0005-1098(77)90006-1) |
+| 1977 | kripke semantics | AI Foundations | [Publication](https://doi.org/10.1515/dema-1977-0111) |
+| 1977 | Language Change | NLP and LLMs | [Publication](https://doi.org/10.1016/b978-0-12-107450-0.50019-x) |
+| 1977 | least recently used | AI Infrastructure | [Publication](https://doi.org/10.1002/spe.4380070217) |
+| 1977 | Legendre Transform | Mathematics | [Publication](https://doi.org/10.1002/aic.690230515) |
+| 1977 | linear inverse problems | Computer Vision | [Publication](https://doi.org/10.1111/j.1365-246x.1977.tb03682.x) |
+| 1977 | Loss Scaling | Mathematics | [Publication](https://doi.org/10.2172/7112134) |
+| 1977 | low profile | AI Infrastructure | [Publication](https://doi.org/10.21236/ada047629) |
+| 1977 | Margin of Error | Mathematics | [Publication](https://doi.org/10.1016/0301-4215(77)90001-5) |
+| 1977 | Marginal Likelihood | Mathematics | [Publication](https://doi.org/10.2307/2529484) |
+| 1977 | Monte Carlo Algorithm | Mathematics | [Publication](https://doi.org/10.2172/7109385) |
+| 1977 | multi processor systems | AI Infrastructure | [Publication](https://doi.org/10.1016/0026-2714(77)90425-5) |
+| 1977 | multiple frequency | AI Infrastructure | [Publication](https://doi.org/10.21236/ada039497) |
+| 1977 | Name Matching | AI Applications | [Publication](https://doi.org/10.1111/j.2044-8295.1977.tb01604.x) |
+| 1977 | non-linear optical | AI Infrastructure | [Publication](https://doi.org/10.21236/ada037103) |
+| 1977 | optical phase conjugation | AI Infrastructure | [Publication](https://doi.org/10.1063/1.89723) |
+| 1977 | packet networks | AI Infrastructure | [Publication](https://doi.org/10.21236/ada039331) |
+| 1977 | passive localization | AI Infrastructure | [Publication](https://openalex.org/W249998371) |
+| 1977 | performance analysis | Programming & Software | [Publication](https://doi.org/10.1177/002224297704100112) |
+| 1977 | personal data | AI Safety | [Publication](https://doi.org/10.7249/p6042) |
+| 1977 | Phase IV Study | Science & Healthcare AI | [Publication](https://openalex.org/W2412754316) |
+| 1977 | pipeline architecture | AI Infrastructure | [Publication](https://doi.org/10.1145/356683.356687) |
+| 1977 | Plan Execution | Agentic AI | [Publication](https://doi.org/10.1016/0147-5967(77)90021-x) |
+| 1977 | planning under uncertainty | Reinforcement Learning | [Publication](https://doi.org/10.1016/0024-6301(77)90113-3) |
+| 1977 | power constraints | AI Infrastructure | [Publication](https://doi.org/10.1109/tac.1977.1101425) |
+| 1977 | Practical Identifiability | Mathematics | [Publication](https://doi.org/10.1002/bit.260191208) |
+| 1977 | process modeling | Mathematics | [Publication](https://doi.org/10.1007/978-94-011-7583-8_30) |
+| 1977 | Procurement Authority | People & Organizations | [Publication](https://doi.org/10.1016/0019-8501(77)90063-3) |
+| 1977 | Programmability | AI Infrastructure | [Publication](https://doi.org/10.3233/fi-1977-1113) |
+| 1977 | public-key cryptosystem | AI Infrastructure | [Publication](https://doi.org/10.1080/0161-117791833219) |
+| 1977 | quality modeling | Programming & Software | [Publication](https://doi.org/10.2172/7328127) |
+| 1977 | quality of information | AI Infrastructure | [Publication](https://doi.org/10.1016/s1474-6670(17)66555-8) |
+| 1977 | question answering system | NLP and LLMs | [Publication](https://doi.org/10.2172/5448408) |
+| 1977 | Ratchet Effect | Cognitive Science | [Publication](https://doi.org/10.1111/j.1467-999x.1977.tb00560.x) |
+| 1977 | Reduce-Scatter | AI Infrastructure | [Publication](https://doi.org/10.2214/ajr.129.3.497) |
+| 1977 | reflectarray | Speech & Audio | [Publication](https://doi.org/10.21236/ada048480) |
+| 1977 | Reproducibility | AI Foundations | [Publication](https://doi.org/10.1520/stp27080s) |
+| 1977 | robot hand | AI Foundations | [Publication](https://openalex.org/W1594182762) |
+| 1977 | Satellite Imagery Analysis | Science & Healthcare AI | [Publication](https://openalex.org/W1557595273) |
+| 1977 | Side Effect | Agentic AI | [Publication](https://doi.org/10.1007/bf03285364) |
+| 1977 | single-input single-output | Speech & Audio | [Publication](https://doi.org/10.21236/ada040160) |
+| 1977 | Singular Value | Mathematics | [Publication](https://doi.org/10.21236/ada042789) |
+| 1977 | Singularity | AI Foundations | [Publication](https://doi.org/10.2307/jj.32416475.11) |
+| 1977 | Slack Variable | Mathematics | [Publication](https://doi.org/10.1287/mnsc.23.8.859) |
+| 1977 | software metrics | Programming & Software | [Publication](https://openalex.org/W3044165892) |
+| 1977 | solution concepts | Agentic AI | [Publication](https://doi.org/10.7249/p6027) |
+| 1977 | spectral efficiencies | AI Infrastructure | [Publication](https://doi.org/10.1016/s0042-207x(77)80559-9) |
+| 1977 | Speech Act | NLP and LLMs | [Publication](https://doi.org/10.1007/978-94-010-1045-0_4) |
+| 1977 | spread spectrum communication | Speech & Audio | [Publication](https://doi.org/10.1109/ultsym.1977.196891) |
+| 1977 | Statistical Power | Mathematics | [Publication](https://doi.org/10.1016/c2013-0-10517-x) |
+| 1977 | Step Size | Mathematics | [Publication](https://doi.org/10.2172/5294527) |
+| 1977 | stereo vision system | Robotics | [Publication](https://openalex.org/W204039786) |
+| 1977 | synthetic aperture sonar | AI Infrastructure | [Publication](https://doi.org/10.1109/t-su.1977.30940) |
+| 1977 | telecommunication equipment | AI Infrastructure | [Publication](https://doi.org/10.1016/0308-5953(77)90076-9) |
+| 1977 | Threshold Selection | Evaluation & Metrics | [Publication](https://doi.org/10.21236/ada049592) |
+| 1977 | time division multiple access (tdma) | AI Infrastructure | [Publication](https://doi.org/10.1109/tcom.1977.1093784) |
+| 1977 | tree automata | NLP and LLMs | [Publication](https://doi.org/10.1016/b978-0-7204-0725-9.50038-1) |
+| 1977 | Weight Symmetry | Deep Learning | [Publication](https://doi.org/10.1109/tit.1977.1055733) |
+| 1977 | Weighted Average | Datasets & Benchmarks | [Publication](https://doi.org/10.2307/3665253) |
+| 1977 | World Model | Reinforcement Learning | [Publication](https://doi.org/10.1016/0305-750x(77)90093-6) |
+| 1977 ★ | Production system (computer science) | AI Applications | [Related source](https://doi.org/10.1145/359605.359608) — indirect |
+| 1977 ★★ | automata | NLP and LLMs | [Indirect context](https://doi.org/10.1016/b978-0-08-013376-8.50007-1) — NOT keyword evidence |
+| 1977 ★★ | bistatic | Computer Vision | [Indirect context](https://doi.org/10.1109/tane3.1961.4201772) — NOT keyword evidence |
+| 1977 ★★ | computer graphics equipment | AI Infrastructure | [Indirect context](https://doi.org/10.2139/ssrn.1020207) — NOT keyword evidence |
+| 1977 ★★ | damage identification | AI Infrastructure | [Indirect context](https://doi.org/10.4028/www.scientific.net/kem.167-168.256) — NOT keyword evidence |
+| 1977 ★★ | data communication equipment | AI Infrastructure | [Indirect context](https://doi.org/10.37665/levrzzt95063) — NOT keyword evidence |
+| 1977 ★★ | Decision Variable | Mathematics | [Indirect context](https://doi.org/10.1287/mnsc.23.8.859) — NOT keyword evidence |
+| 1977 ★★ | determination coefficients | Mathematics | [Indirect context](https://doi.org/10.4135/9780857020123.n80) — NOT keyword evidence |
+| 1977 ★★ | dividing circuits (arithmetic) | Speech & Audio | [Indirect context](https://doi.org/10.1007/978-1-349-00447-8_18) — NOT keyword evidence |
+| 1977 ★★ | Dominated Convergence Theorem | Mathematics | [Indirect context](https://doi.org/10.1016/0040-1951(89)90171-6) — NOT keyword evidence |
+| 1977 ★★ | Dummy Variable Trap | Mathematics | [Indirect context](https://doi.org/10.2307/2525828) — NOT keyword evidence |
+| 1977 ★★ | E(3)-Equivariance | Graph & Network Learning | [Indirect context](https://doi.org/10.1017/cbo9780511600753.007) — NOT keyword evidence |
+| 1977 ★★ | fft algorithm | Speech & Audio | [Indirect context](https://doi.org/10.1109/proc.1977.10446) — NOT keyword evidence |
+| 1977 ★★ | finite state automata | NLP and LLMs | [Indirect context](https://doi.org/10.1016/0020-0190(81)90012-0) — NOT keyword evidence |
+| 1977 ★★ | galois fields | AI Safety | [Indirect context](https://doi.org/10.1006/jabr.1999.7861) — NOT keyword evidence |
+| 1977 ★★ | hybrid automata | NLP and LLMs | [Indirect context](https://doi.org/10.1016/b978-0-08-013376-8.50007-1) — NOT keyword evidence |
+| 1977 ★★ | learning automata | NLP and LLMs | [Indirect context](https://doi.org/10.1016/b978-0-08-013376-8.50007-1) — NOT keyword evidence |
+| 1977 ★★ | learning paths | AI Infrastructure | [Indirect context](https://doi.org/10.1086/448072) — NOT keyword evidence |
+| 1977 ★★ | Learning Rate (LR) | Machine Learning | [Indirect context](https://doi.org/10.21236/ada045772) — NOT keyword evidence |
+| 1977 ★★ | marginals | AI Foundations | [Indirect context](https://doi.org/10.2307/2529484) — NOT keyword evidence |
+| 1977 ★★ | Monotone Convergence Theorem | Mathematics | [Indirect context](https://doi.org/10.1016/0040-1951(89)90171-6) — NOT keyword evidence |
+| 1977 ★★ | multiprocessing programs | AI Infrastructure | [Indirect context](https://doi.org/10.1109/pgec.1967.264668) — NOT keyword evidence |
+| 1977 ★★ | plane graphs | Mathematics | [Indirect context](https://doi.org/10.21236/ad0694457) — NOT keyword evidence |
+| 1977 ★★ | portable equipment | AI Infrastructure | [Indirect context](https://doi.org/10.1109/ee.1950.6437085) — NOT keyword evidence |
+| 1977 ★★ | Receptive Field in Neuroscience | Cognitive Science | [Indirect context](https://doi.org/10.1037/e473742008-055) — NOT keyword evidence |
+| 1977 ★★ | regular tree languages | NLP and LLMs | [Indirect context](https://doi.org/10.1016/s0019-9958(71)90191-4) — NOT keyword evidence |
+| 1977 ★★ | retrieval systems | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0020-0271(66)90006-4) — NOT keyword evidence |
+| 1977 ★★ | satellite network | AI Infrastructure | [Indirect context](https://doi.org/10.2514/6.1980-539) — NOT keyword evidence |
+| 1977 ★★ | sea clutters | AI Infrastructure | [Indirect context](https://doi.org/10.1109/irenc.1957.199172) — NOT keyword evidence |
+| 1977 ★★ | servomotors | Robotics | [Indirect context](https://doi.org/10.1109/tia.1977.4503398) — NOT keyword evidence |
+| 1977 ★★ | speech transmission | NLP and LLMs | [Indirect context](https://doi.org/10.1177/002383097101400203) — NOT keyword evidence |
+| 1977 ★★ | structural damages | AI Infrastructure | [Indirect context](https://doi.org/10.4028/www.scientific.net/kem.167-168.256) — NOT keyword evidence |
+| 1977 ★★ | Variable Elimination | Mathematics | [Indirect context](https://doi.org/10.1119/1.14109) — NOT keyword evidence |
+| 1977 ★★ | variable neighborhood search | Mathematics | [Indirect context](https://doi.org/10.2166/wpt.2024.295) — NOT keyword evidence |
+| 1978 | Acceptance Criteria | Evaluation & Metrics | [Publication](https://doi.org/10.2172/5580038) |
+| 1978 | acoustic communications | Speech & Audio | [Publication](https://doi.org/10.1109/oceans.1978.1151150) |
+| 1978 | acoustic signals | Speech & Audio | [Publication](https://doi.org/10.21236/ada051954) |
+| 1978 | Agglomerative Clustering | Machine Learning | [Publication](https://doi.org/10.1016/0031-3203(78)90018-3) |
+| 1978 | Albedo | Computer Graphics | [Publication](https://doi.org/10.2172/6797122) |
+| 1978 | Attribute | Machine Learning | [Publication](https://doi.org/10.1007/978-94-009-9874-2_1) |
+| 1978 | attribute grammars | Mathematics | [Publication](https://doi.org/10.7146/dpb.v7i90.6505) |
+| 1978 | Augmented Lagrangian | Mathematics | [Publication](https://doi.org/10.1016/b978-0-12-468660-1.50006-2) |
+| 1978 | Bibliometrics | Science & Healthcare AI | [Publication](https://doi.org/10.1300/j105v02n03_01) |
+| 1978 | Bidirectional Reflectance Distribution Function (BRDF) | Computer Graphics | [Publication](https://openalex.org/W3210832619) |
+| 1978 | Bidirectional Search | Mathematics | [Publication](https://doi.org/10.1049/piee.1978.0118) |
+| 1978 | binary decision diagrams | AI Foundations | [Publication](https://doi.org/10.1109/tc.1978.1675141) |
+| 1978 | bit-rate reduction | Computer Vision | [Publication](https://doi.org/10.1002/j.1538-7305.1978.tb02074.x) |
+| 1978 | boolean network | Data Science | [Publication](https://doi.org/10.1109/tc.1978.1675058) |
+| 1978 | class information | Machine Learning | [Publication](https://doi.org/10.1016/0022-0965(78)90004-8) |
+| 1978 | Cognitive revolution | AI Foundations | [Publication](https://doi.org/10.1037/e579872009-004) |
+| 1978 | Cognitivism (psychology) | AI Foundations | [Publication](https://doi.org/10.1017/s0140525x0007429x) |
+| 1978 | combinatorial algorithms | Mathematics | [Publication](https://doi.org/10.1016/c2013-0-11243-3) |
+| 1978 | computer crime | AI Safety | [Publication](https://doi.org/10.4135/cqresrre1978010600) |
+| 1978 | Conditional Independence | Mathematics | [Publication](https://doi.org/10.1007/978-1-4612-6335-7) |
+| 1978 | Convolution | Deep Learning | [Publication](https://doi.org/10.21236/ada074978) |
+| 1978 | cytogenetic analysis | Data Science | [Publication](https://doi.org/10.1007/978-1-4615-8939-6_1) |
+| 1978 | database systems | AI Infrastructure | [Publication](https://doi.org/10.1145/320263.320279) |
+| 1978 | digital communication systems | AI Infrastructure | [Publication](https://doi.org/10.1007/978-94-011-7577-7_34) |
+| 1978 | Digital image processing | AI Foundations | [Publication](https://doi.org/10.1016/s0146-664x(78)80023-9) |
+| 1978 | Discretion | AI Foundations | [Publication](https://doi.org/10.3138/9781487596231-006) |
+| 1978 | distributed parameter system | AI Foundations | [Publication](https://doi.org/10.1016/b978-0-08-022018-5.50047-1) |
+| 1978 | distributed query processing | Information Retrieval | [Publication](https://doi.org/10.1145/509252.509292) |
+| 1978 | Dual Numbers | Mathematics | [Publication](https://doi.org/10.1007/bf00151527) |
+| 1978 | dynamic traffic | AI Infrastructure | [Publication](https://doi.org/10.1287/trsc.12.3.200) |
+| 1978 | edge detection | Computer Vision | [Publication](https://doi.org/10.21236/ada059124) |
+| 1978 | eeg analysis | Speech & Audio | [Publication](https://doi.org/10.1080/00029238.1978.11081144) |
+| 1978 | electron mobility | AI Infrastructure | [Publication](https://doi.org/10.1109/t-ed.1978.19201) |
+| 1978 | embedding process | AI Safety | [Publication](https://doi.org/10.1007/978-1-349-03568-7_3) |
+| 1978 | Exact Match | Evaluation & Metrics | [Publication](https://doi.org/10.1137/0207043) |
+| 1978 | facial action | Machine Learning | [Publication](https://doi.org/10.1037/t27734-000) |
+| 1978 | facial action coding system | Machine Learning | [Publication](https://doi.org/10.1037/t27734-000) |
+| 1978 | facial regions | Machine Learning | [Publication](https://doi.org/10.1016/b978-0-08-023049-8.50071-3) |
+| 1978 | Fair Use | AI Safety | [Publication](https://doi.org/10.4159/harvard.9780674433120.c3) |
+| 1978 | False Negative (FN) | AI Foundations | [Publication](https://doi.org/10.1016/0002-9149(78)90285-0) |
+| 1978 | fault tolerant computer systems | AI Infrastructure | [Publication](https://doi.org/10.21236/ada059936) |
+| 1978 | Fixed Effect | Mathematics | [Publication](https://doi.org/10.3386/w0280) |
+| 1978 | forecasting problems | Machine Learning | [Publication](https://doi.org/10.1108/eb056898) |
+| 1978 | formal specifications | Programming & Software | [Publication](https://doi.org/10.21236/ada109317) |
+| 1978 | functional dependencies | AI Foundations | [Publication](https://doi.org/10.2172/6401792) |
+| 1978 | game analysis | Reinforcement Learning | [Publication](https://doi.org/10.1177/036215377800800316) |
+| 1978 | hough transformation | Computer Vision | [Publication](https://doi.org/10.1109/tc.1978.1675191) |
+| 1978 | Identifiability Analysis | Mathematics | [Publication](https://doi.org/10.1080/00207177808922437) |
+| 1978 | Identity Verification | AI Applications | [Publication](https://doi.org/10.21236/ada056772) |
+| 1978 | iir filters | Speech & Audio | [Publication](https://doi.org/10.1109/proc.1978.10962) |
+| 1978 | image matching algorithm | Computer Vision | [Publication](https://doi.org/10.1016/0031-3203(78)90046-8) |
+| 1978 | Impact Analysis | Programming & Software | [Publication](https://doi.org/10.1016/b978-0-12-735350-0.50004-x) |
+| 1978 | inference systems | AI Foundations | [Publication](https://doi.org/10.1016/c2013-0-11671-6) |
+| 1978 | Information-Theoretic Lower Bound | Mathematics | [Publication](https://doi.org/10.1016/0020-0190(78)90037-6) |
+| 1978 | Inverse Problem | Science & Healthcare AI | [Publication](https://doi.org/10.1007/978-3-662-25771-5_4) |
+| 1978 | Labelling Policy | Generative AI | [Publication](https://doi.org/10.1016/0306-9192(78)90021-0) |
+| 1978 | laser annealing | AI Foundations | [Publication](https://doi.org/10.21236/ada145857) |
+| 1978 | Linear Algebra | AI Foundations | [Publication](https://doi.org/10.1016/0024-3795(78)90073-3) |
+| 1978 | Lipschitz Continuity | Mathematics | [Publication](https://doi.org/10.1007/978-3-0348-7180-8_21) |
+| 1978 | logistic regressions | Mathematics | [Publication](https://doi.org/10.2307/2529594) |
+| 1978 | Logit Function | Mathematics | [Publication](https://doi.org/10.1016/b978-0-08-023768-8.50424-2) |
+| 1978 | lyapunov-krasovskii functionals | Robotics | [Publication](https://doi.org/10.1007/bf01130642) |
+| 1978 | maximum likelihood detectors | Speech & Audio | [Publication](https://doi.org/10.1109/tit.1978.1055834) |
+| 1978 | mean absolute error | Speech & Audio | [Publication](https://doi.org/10.1109/tcom.1978.1094055) |
+| 1978 | Memory Capacity | AI Infrastructure | [Publication](https://doi.org/10.3758/bf03197446) |
+| 1978 | memory systems | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-322-83629-8_20) |
+| 1978 | microstrip filters | Speech & Audio | [Publication](https://doi.org/10.1063/1.31342) |
+| 1978 | Mode Collapse | AI Foundations | [Publication](https://doi.org/10.1364/ao.17.002924) |
+| 1978 | nuclear sciences | Computer Vision | [Publication](https://doi.org/10.2172/6751528) |
+| 1978 | online searching | Information Retrieval | [Publication](https://doi.org/10.1108/eb023972) |
+| 1978 | optical sensor | AI Infrastructure | [Publication](https://doi.org/10.21236/ada058835) |
+| 1978 | optical transmission | AI Infrastructure | [Publication](https://doi.org/10.21236/ada056746) |
+| 1978 | optically pumped lasers | AI Infrastructure | [Publication](https://doi.org/10.2172/6895972) |
+| 1978 | palmprints | AI Safety | [Publication](https://doi.org/10.1515/9783110800005.215) |
+| 1978 | Parameter Validation | Agentic AI | [Publication](https://doi.org/10.1145/987515.987517) |
+| 1978 | pentacenes | AI Infrastructure | [Publication](https://doi.org/10.1002/jlcr.2580140313) |
+| 1978 | Perceptual Coding | Signal & Information Theory | [Publication](https://doi.org/10.1016/c2013-0-10468-0) |
+| 1978 | Percolation Threshold | Graph & Network Learning | [Publication](https://doi.org/10.1063/1.31180) |
+| 1978 | Plan Recognition | AI Foundations | [Publication](https://doi.org/10.1016/0004-3702(78)90012-7) |
+| 1978 | pneumatic cylinders | Machine Learning | [Publication](https://doi.org/10.1049/tpe.1978.0012) |
+| 1978 | polarimeters | AI Infrastructure | [Publication](https://doi.org/10.1063/1.31290) |
+| 1978 | polarization mode dispersion | AI Infrastructure | [Publication](https://doi.org/10.1364/ol.3.000060) |
+| 1978 | policy specification | AI Infrastructure | [Publication](https://doi.org/10.1016/0197-3975(78)90077-2) |
+| 1978 | polynomial basis | AI Safety | [Publication](https://doi.org/10.1063/1.523616) |
+| 1978 | Positional Head | Deep Learning | [Publication](https://doi.org/10.1007/bf00666366) |
+| 1978 | Post-Stratification | Mathematics | [Publication](https://doi.org/10.21236/ada053919) |
+| 1978 | Prefetching | AI Infrastructure | [Publication](https://doi.org/10.1145/320263.320276) |
+| 1978 | Premature Termination | Agentic AI | [Publication](https://doi.org/10.1016/0022-2836(78)90308-x) |
+| 1978 | program translators | AI Foundations | [Publication](https://doi.org/10.2140/pjm.1978.76.485) |

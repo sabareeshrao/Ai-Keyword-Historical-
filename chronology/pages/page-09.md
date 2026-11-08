@@ -1,510 +1,512 @@
-# Chronological Keywords — Page 09/41
+# Batch 09/41 — Historical Keywords
 
-500 records from 1985 – 1987. Original IDs unchanged.
+**500 keywords**, sorted chronologically (1985 – 1987). The master CSV retains the original permanent IDs.
 
-[Full chronology](../README.md) | [Master inventory](../../data/KEYWORD_INVENTORY.csv)
+[All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
-Unstarred source years are not verified first usages; ★ inferred; ★★ speculative.
+**Year key:** plain = documented source year (not proven original use); ★ = estimate; ★★ = highly speculative guess without direct keyword evidence.
 
-| ID | Keyword | Field | Year | Evidence | Reference |
-|---|---|---|---|---|---|
-| AIH-06437 | Computational heuristic intelligence (CHI) | AI Foundations | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05834 | Conservative Field | Mathematics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15380 | controller area network | AI Foundations | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12247 | cooperative sensing | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07200 | Cost Attribution | AI Foundations | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12263 | cryptographic protocol | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18843 | deblocking filter | Speech & Audio | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14931 | detection performance | Speech & Audio | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17463 | digital radiography | Computer Vision | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07060 | Dimensional Analysis | Mathematics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18868 | directional filter banks | Speech & Audio | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11437 | distributed development | Programming & Software | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15922 | distributed hash tables | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14094 | dynamic optimization problem (dop) | Mathematics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05038 | Effective Context Utilization | Deep Learning | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02774 | Exponential Decay | Mathematics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16026 | fault-tolerance capability | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14973 | filter banks | Speech & Audio | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14982 | fir digital filters | Speech & Audio | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10978 | forecasting methods | Machine Learning | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10979 | forecasting models | Machine Learning | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13792 | forecasting system | Machine Learning | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15438 | formal framework | AI Foundations | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12371 | frequencies | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19683 | frequency division multiple access | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18934 | gabor filter banks | Speech & Audio | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16063 | gates (transistor) | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14473 | global software development | Programming & Software | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13846 | high-dimensional feature space | Machine Learning | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14477 | high-quality software | Programming & Software | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12404 | hypertext transfer protocol | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10804 | information integration | Information Retrieval | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08987 | K-line (artificial intelligence) | AI Foundations | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08892 | Lambda Calculus | Mathematics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03208 | Latency in Signal Processing | Signal & Information Theory | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10789 | latent variable generative models | Generative AI | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19858 | linear accelerations | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15477 | linear time temporal logic | AI Foundations | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04369 | Locomotion | Robotics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13262 | matching algorithm | Computer Vision | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13263 | matching methods | Computer Vision | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13264 | matching points | Computer Vision | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19916 | microstrip patch antennas | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14788 | multipurpose robots | Robotics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04061 | Network Congestion | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15066 | noisy speech | Speech & Audio | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09445 | Numerical Conditioning | Mathematics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09455 | Numerical Overflow | Mathematics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16523 | orthogonal frequency division multiple access syst | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16525 | orthogonal frequency-division multiple access (ofd | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18681 | planar robots | Robotics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14252 | polynomial-time algorithm | Mathematics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14253 | polynomial-time algorithms | Mathematics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02289 | Post-Processing | Computer Graphics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19079 | prototype filters | Speech & Audio | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14528 | quality of softwares | Programming & Software | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18691 | reconfigurable robot | Robotics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15914 | rectangular slots | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14823 | robot applications | Robotics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14829 | robot system | Robotics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11558 | robots | Robotics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16764 | scattering problems | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12752 | sensing performance | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17730 | shape description | Computer Vision | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07744 | Signal-to-Noise Ratio Schedule | Generative AI | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13373 | single images | Computer Vision | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15147 | speech distortion | Speech & Audio | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15151 | speech production measurement | Speech & Audio | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19150 | speech rates | Speech & Audio | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05959 | Symbol Grounding Problem | AI Foundations | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17766 | template-matching algorithms | Computer Vision | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03123 | Temporal Anti-Aliasing (TAA) | Computer Graphics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13399 | texture descriptors | Computer Vision | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10085 | Time Complexity | Mathematics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16951 | time division duplex | AI Infrastructure | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07212 | Trajectory Evaluation | Agentic AI | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10684 | two dimensional | Computer Vision | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10685 | two-dimensional (2d) | Computer Vision | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06896 | Two-Stage Stochastic Program | Mathematics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14864 | welding robots | Robotics | 1985 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11576 | acoustic modelling | Speech & Audio | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-408-00824-2.50054-8) |
-| AIH-14878 | acoustic wave transmission | Speech & Audio | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ultsym.1986.198822) |
-| AIH-13641 | activity models | Machine Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0142-694x(86)90054-2) |
-| AIH-15626 | address translation | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/17356.17398) |
-| AIH-00873 | Analysis of Variance (ANOVA) | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9781139165891.013) |
-| AIH-14888 | antenna array | Speech & Audio | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada174370) |
-| AIH-00287 | Anti-Aliasing Filter | Signal & Information Theory | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/jlt.1986.1074632) |
-| AIH-11356 | architectural knowledge | Programming & Software | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/10464883.1986.10758395) |
-| AIH-15198 | augmentative and alternative communication | AI Applications | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/07434618612331274000) |
-| AIH-11261 | automatic evaluation | NLP and LLMs | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.938297) |
-| AIH-03763 | Autonomy | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-349-18428-6_6) |
-| AIH-01508 | Autotuning | Deep Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.23919/acc.1986.4789280) |
-| AIH-01276 | Backchannel | Speech & Audio | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/18172.18194) |
-| AIH-01823 | Banach Fixed-Point Theorem | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4612-4838-5_2) |
-| AIH-01041 | Barbara Liskov | People & Organizations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/12923.1013575) |
-| AIH-19442 | beam forming networks | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2514/6.1986-665) |
-| AIH-00679 | Belief State | Reinforcement Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.1475-4975.1987.tb00546.x) |
-| AIH-00647 | Bernstein Inequality | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf01909364) |
-| AIH-14044 | bin packing | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf02240206) |
-| AIH-04624 | Blackboard System | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/comjnl/29.3.235) |
-| AIH-13501 | bp algorithm | Deep Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1038/323533a0) |
-| AIH-12149 | business goals | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5040/9798216982623.0004) |
-| AIH-01536 | Callback | Programming & Software | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0167-4048(86)90137-9) |
-| AIH-00019 | Canny edge detector | Computer Vision | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/TPAMI.1986.4767851) |
-| AIH-15743 | cell edges | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1242/jcs.82.1.235) |
-| AIH-15748 | cellular systems | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/vtc.1986.1623476) |
-| AIH-12178 | cellular telephones | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0011-684x(86)90279-0) |
-| AIH-04196 | Chain Rule of Differentiation | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf00574154) |
-| AIH-18006 | character segmentation | Machine Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.976227) |
-| AIH-19495 | chosen-plaintext attack | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0167-4048(86)90116-1) |
-| AIH-13676 | classification rules | Machine Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-08-034000-5.50015-0) |
-| AIH-15779 | clock distribution | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.7973964) |
-| AIH-01891 | Cloze Task | NLP and LLMs | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/t65067-000) |
-| AIH-13127 | coding gain | Computer Vision | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tcom.1986.1096559) |
-| AIH-18564 | communication constraints | Robotics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tit.1986.1057194) |
-| AIH-06526 | Computational linguistics | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511611797.002) |
-| AIH-18566 | computed torque control | Robotics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/cdc.1986.267156) |
-| AIH-06769 | Configuration Space | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2514/6.1986-2323) |
-| AIH-15826 | contention-based | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/vtc.1986.1623454) |
-| AIH-02537 | Contradiction Detection | NLP and LLMs | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1299/kikaic.52.1719) |
-| AIH-18571 | controller parameter | Robotics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.23919/acc.1986.4788911) |
-| AIH-17431 | coverage area | Computer Vision | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2514/6.1986-2067) |
-| AIH-01745 | Crisis Response | AI Safety | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e382472004-005) |
-| AIH-10387 | data-intensive applications | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icde.1986.7266267) |
-| AIH-10390 | database schema | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0306-4379(86)90022-0) |
-| AIH-11915 | decision tables | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1177/0272989x8600600306) |
-| AIH-15391 | dempster-shafer theory of evidence | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-444-70058-2.50013-9) |
-| AIH-01541 | Dereverberation | Signal & Information Theory | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3997/1365-2397.1986022) |
-| AIH-19578 | deterministic routing | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tcom.1986.1096552) |
-| AIH-13535 | dexterous hands | Robotics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/robot.1986.1087491) |
-| AIH-13167 | diamond search | Computer Vision | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1306/948865ce-1704-11d7-8645000102c1865d) |
-| AIH-06970 | Diffeomorphism | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0040-9383(86)90031-5) |
-| AIH-12284 | digital image processing technique | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0262-8856(86)90047-8) |
-| AIH-13593 | distortion measures | Speech & Audio | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tit.1986.1057167) |
-| AIH-15936 | document image processing | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0141-9382(86)90078-8) |
-| AIH-13756 | document representation | Machine Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511663130.010) |
-| AIH-19624 | electromagnetic emissions | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/isemc.1986.7568256) |
-| AIH-17489 | electron microscope tomography | Computer Vision | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0968-0004(86)90077-0) |
-| AIH-10409 | electronic services | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/c2013-0-01444-2) |
-| AIH-06732 | Elliptic Envelope | Machine Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1121/1.2023703) |
-| AIH-03703 | ELT | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/elt/40.3.191) |
-| AIH-11597 | emotion recognition | Speech & Audio | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037//0022-3514.51.4.690) |
-| AIH-07023 | Exemplar Selection | Machine Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/00336297.1986.10483845) |
-| AIH-13781 | facial feature | Machine Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1520/jfs11926j) |
-| AIH-07704 | Factorial Design | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf02482507) |
-| AIH-16034 | fiber optic sensor | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.949757) |
-| AIH-14734 | flexible manipulators | Robotics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada172287) |
-| AIH-16043 | focal plane arrays | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.936525) |
-| AIH-10977 | forecasting accuracy | Machine Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0169-2070(86)90038-5) |
-| AIH-01225 | Framebuffer | Computer Graphics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3758/bf03201433) |
-| AIH-10297 | fuzzy expert system | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0165-0114(86)80027-6) |
-| AIH-14965 | gaussian multiple-access channels | Speech & Audio | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tit.1986.1057121) |
-| AIH-13194 | generalized hough transform | Computer Vision | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4613-2239-9_18) |
-| AIH-18940 | generalized sidelobe canceller | Speech & Audio | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tassp.1986.1164927) |
-| AIH-08242 | Givens Rotation | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1364/ao.25.001608) |
-| AIH-03338 | Grasp Planning | Robotics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/robot.1986.1087523) |
-| AIH-16080 | group communication | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/10417948609372659) |
-| AIH-02339 | Group Delay | Signal & Information Theory | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.976219) |
-| AIH-12387 | handwritten texts | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/9783110867329.143) |
-| AIH-02516 | Hebbian Learning | Cognitive Science | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1063/1.36225) |
-| AIH-08548 | Heterogeneity | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4684-5041-5_16) |
-| AIH-16110 | high electron mobility transistors | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/iedm.1986.191249) |
-| AIH-12393 | high level synthesis | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada172975) |
-| AIH-16113 | high power lasers | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.938089) |
-| AIH-17531 | high resolution image | Computer Vision | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1177/34.1.3941268) |
-| AIH-18951 | high signal-to-noise ratio | Speech & Audio | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/oxfordjournals.rpd.a079651) |
-| AIH-03038 | Horizontal Regulation | AI Safety | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/screen/27.3-4.78) |
-| AIH-03698 | Hyperband | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tce.1986.290165) |
-| AIH-10633 | image coding | Computer Vision | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.952223) |
-| AIH-08839 | Inductive Bias | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4613-2283-2) |
-| AIH-02097 | Instrumental Variable Estimation | Causal Inference | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/1912840) |
-| AIH-18969 | interference channels | Speech & Audio | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4612-4904-7_11) |
-| AIH-19813 | internal tide | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada167722) |
-| AIH-05961 | Intrinsic Parameters | Computer Vision | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/s0074180900148594) |
-| AIH-08776 | Inverse Fourier Transform | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1021/ac00127a009) |
-| AIH-03532 | Judea Pearl | People & Organizations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/int.4550010107) |
-| AIH-11619 | kalman filters | Speech & Audio | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1177/002029408601900204) |
-| AIH-07367 | Knowledge Transfer | Deep Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1177/107554708600800206) |
-| AIH-08888 | Lagrangian Mechanics | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-12-206340-4.50014-4) |
-| AIH-09055 | Language/action perspective | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/637069.637096) |
-| AIH-08908 | Laplacian Matrix | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21136/cmj.1986.102059) |
-| AIH-18635 | largest lyapunov exponent | Robotics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf01033076) |
-| AIH-18981 | least mean squares | Speech & Audio | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4612-4978-8_5) |
-| AIH-19856 | light transport | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/5339609) |
-| AIH-04697 | Local Improvement Heuristic | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1287/trsc.20.4.246) |
-| AIH-03048 | Long-Term Potentiation (LTP) | Cognitive Science | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0166-4328(86)90182-8) |
-| AIH-11173 | markovian jumps | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/cdc.1986.267479) |
-| AIH-02749 | Message Passing | Graph & Network Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/5760616) |
-| AIH-17915 | mitochondrial gene | Data Science | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0378-1119(86)90392-6) |
-| AIH-11540 | mobile robots | Robotics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/jra.1986.1087051) |
-| AIH-17624 | motion vectors | Computer Vision | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.54302/mausam.v37i4.2575) |
-| AIH-16373 | moving target detection | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada172225) |
-| AIH-12550 | multicasting | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.17487/rfc988) |
-| AIH-18235 | multifingered hands | Robotics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1177/027836498600400401) |
-| AIH-00020 | Multilayer backpropagation | Neural Networks | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1038/323533a0) |
-| AIH-19318 | multiobjective models | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/02331938608843153) |
-| AIH-17918 | natural selection | Data Science | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1126/science.233.4770.1332) |
-| AIH-12578 | object-oriented database | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/323779.323777) |
-| AIH-12580 | object-oriented languages | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/323648.323749) |
-| AIH-20028 | omnidirectional radiation pattern | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tap.1986.1143743) |
-| AIH-12593 | optical interconnects | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.7973962) |
-| AIH-12596 | optical networks | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/jlt.1986.1074812) |
-| AIH-12599 | optical sensors | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1364/ofs.1986.p1) |
-| AIH-16517 | optical transceivers | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-08-030577-6.50020-6) |
-| AIH-10122 | parallel computing | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0167-8191(86)90016-5) |
-| AIH-10507 | parallel efficiency | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0167-8191(86)90025-6) |
-| AIH-16552 | parallel implementation | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4684-5218-1_12) |
-| AIH-16553 | parallel implementations | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0167-9260(86)90002-7) |
-| AIH-16555 | parallel programming | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf01414557) |
-| AIH-19322 | partial evaluation | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3386/w1906) |
-| AIH-11198 | particle swarms | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1063/1.451769) |
-| AIH-11642 | perfect reconstruction | Speech & Audio | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0165-1684(86)90101-5) |
-| AIH-11201 | petri net | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s1474-6670(17)64101-6) |
-| AIH-14244 | petri net models | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s1474-6670(17)64101-6) |
-| AIH-16578 | phase diversity | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1364/srs.1986.thb1) |
-| AIH-12633 | physical layer | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-96966-9_5) |
-| AIH-11063 | planctomycetales | Machine Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0378-1097(86)90421-0) |
-| AIH-04192 | Policy Evaluation | Reinforcement Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0886-1633(86)80041-1) |
-| AIH-03598 | Population Coding | Cognitive Science | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1126/science.3749885) |
-| AIH-09627 | Precision Matrix | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada177099) |
-| AIH-16637 | programmable logic device | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/isscc.1986.1156928) |
-| AIH-13590 | query answering | Information Retrieval | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1137/0215051) |
-| AIH-13957 | random subspaces | Machine Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf01077309) |
-| AIH-04712 | Randomized Response | Security & Privacy | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4135/9781412985581) |
-| AIH-18480 | rapid prototype | Programming & Software | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada167423) |
-| AIH-12035 | relational databases | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/c2013-0-03808-x) |
-| AIH-15537 | relational model | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0306-4379(86)90014-1) |
-| AIH-02517 | Rendering | Computer Graphics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/15886.15902) |
-| AIH-05015 | Residual Risk | AI Safety | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3386/w1908) |
-| AIH-10525 | routing algorithm | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.17487/rfc981) |
-| AIH-15550 | satisfiability problem | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada185544) |
-| AIH-12741 | security problems | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0142-0496(86)90091-3) |
-| AIH-07769 | Selective Search | Computer Vision | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3233/icg-1986-9203) |
-| AIH-07613 | Semantic Chunking | NLP and LLMs | 1986 | Dated publication (not proven term origin) | [Source](https://openalex.org/W640713197) |
-| AIH-10852 | semantic descriptions | Information Retrieval | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/spe.4380160104) |
-| AIH-11652 | sensor data fusion | Speech & Audio | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/robot.1986.1087441) |
-| AIH-16808 | shared memory multiprocessors | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1126/science.231.4741.963) |
-| AIH-14590 | software failure | Programming & Software | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-08-034091-3.50021-0) |
-| AIH-05337 | Software Pipelining | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/19551.19541) |
-| AIH-18188 | spatial query processing | Machine Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/16856.16886) |
-| AIH-16867 | static noise margin | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/esscirc.1986.5468249) |
-| AIH-11228 | stochastic analysis | Mathematics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/07362998608809079) |
-| AIH-13085 | stream cipher | AI Safety | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-82865-2_8) |
-| AIH-05908 | Structure Mapping Theory | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada177300) |
-| AIH-06710 | Swept Volume | Robotics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/mcg.1986.276586) |
-| AIH-19165 | symbol error rate | Speech & Audio | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/tit.1986.1057148) |
-| AIH-11567 | tactile feedback | Robotics | 1986 | Dated publication (not proven term origin) | [Source](https://openalex.org/W312607850) |
-| AIH-14848 | tactile information | Robotics | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-82940-6_22) |
-| AIH-15578 | temporal databases | AI Foundations | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/mc.1986.1663327) |
-| AIH-16948 | three dimensional integrated circuits | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.976270) |
-| AIH-07855 | Type Checker | Programming & Software | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0167-6423(86)90027-4) |
-| AIH-11508 | value functions | Reinforcement Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1142/9789814415477_0018) |
-| AIH-17045 | vhdl language | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/dac.1986.1586107) |
-| AIH-12876 | vibration measurement | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-94-017-3645-9_5) |
-| AIH-18207 | video representations | Machine Learning | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.7312/sava90374-017) |
-| AIH-06101 | White Noise | Signal & Information Theory | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-444-86992-0.50076-x) |
-| AIH-17078 | wide area networks | AI Infrastructure | 1986 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0167-7136(86)90101-0) |
-| AIH-10161 | 3d video coding | Computer Vision | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14874 | acoustic noise measurement | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18748 | acoustic sources | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11845 | action language | AI Foundations | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01399 | AI-complete | AI Foundations | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00199 | Ambient Occlusion (AO) | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12109 | anycast | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14393 | architectural analysis | Programming & Software | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14395 | architectural guideline | Programming & Software | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18421 | architectural knowledge exploiting | Programming & Software | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18423 | architectural knowledge reuse | Programming & Software | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14397 | architectural language | Programming & Software | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11357 | architectural model | Programming & Software | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11358 | architectural models | Programming & Software | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11359 | architectural pattern | Programming & Software | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11360 | architectural patterns | Programming & Software | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14400 | architectural synthesis | Programming & Software | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12123 | available bit rate (abr) | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01698 | Backpropagation (BP) | Deep Learning | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10728 | backpropagation algorithms | Deep Learning | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01861 | Banach Space | Mathematics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19441 | basis expansion models | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12131 | bgp | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12135 | bit torrents | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19447 | bitcoin | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00465 | Broad Phase | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10276 | cellular automata | AI Foundations | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11878 | cellular automata models | AI Foundations | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12174 | cellular network | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12175 | cellular networks | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19480 | certification authorities | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15786 | clock skews | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19508 | co-operative systems | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00541 | Collision Detection in Graphics | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14056 | colored petri net | Mathematics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19219 | communication aids for nonvocal persons | AI Applications | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01047 | Companding | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12982 | computer virus | AI Safety | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01255 | Concentration Inequality | Mathematics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01199 | Controllability | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06458 | Cramer's Rule | Mathematics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19561 | dba | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01465 | Decimation | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01503 | Deep Image Prior (DIP) | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00731 | Deep Learning Super Sampling (DLSS) | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00769 | Deferred Shading | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14928 | dempster | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12277 | dependability | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00807 | Depth Buffer | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19579 | dfa | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15896 | dht | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15905 | digital informations | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12289 | digital preservation | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15908 | dilatometers | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15909 | diplexers | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17466 | dirty-paper coding | Computer Vision | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00883 | Displacement Map | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17473 | distorted images | Computer Vision | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03265 | Distributed Data Parallel (DDP) | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01731 | Dithering | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12303 | dsrc | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19605 | dwdm | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19613 | edca | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03406 | Edge-Aware Filtering | Computer Vision | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18893 | electric distortion | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13176 | electron gas | Computer Vision | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10407 | electronic designs | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16002 | epon | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12336 | ethernet | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01756 | Exemplar Theory | Cognitive Science | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13783 | facial images | Machine Learning | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07737 | Fano's Inequality | Mathematics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10420 | fibre technology | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02073 | Filter Bank | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02149 | Fisher-Rao Metric | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02187 | Formant | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13413 | full search | Computer Vision | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13416 | full search algorithm | Computer Vision | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18933 | fusion systems | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18936 | gaussian channel | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01339 | Global Illumination (GI) | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12377 | gnutella | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10434 | graph-oriented databases | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02301 | Griffin-Lim Algorithm | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19717 | ground planes | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19719 | group communication systems | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19722 | group memberships | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19728 | h-planes | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02415 | Hamming Distance | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15004 | headphones | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01491 | High Dynamic Range (HDR) | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16111 | high performance computing systems | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18949 | high resolution radar | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16115 | high speed networks | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16120 | hmipv6 | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19752 | holmium | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16124 | honeypot | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16125 | honeypots | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14806 | human hands | Robotics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19760 | i/q imbalance | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19761 | ici cancellation | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16147 | ieee802.16 | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19773 | ieee802.21 | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01961 | Impulse Response Function | Time Series & Forecasting | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12415 | ims | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02757 | Infinite Impulse Response Filter (IIR) | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19792 | innovative technologies | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18968 | interference channel | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04092 | Interior Point Method | Mathematics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07209 | Inverted Residual | Deep Learning | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12449 | ip addresss | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19825 | ipv4 | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19831 | isdn | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08804 | Jensen's Inequality | Mathematics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03023 | Jensen-Shannon Divergence (JSD) | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12456 | jitter | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12458 | jxta | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19835 | kademlia | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15021 | kalman filtering algorithms | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12459 | kerberos | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06161 | Laplacian of Gaussian (LoG) | Computer Vision | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18980 | least mean square | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18979 | least mean square algorithms | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03245 | Least Mean Squares Filter (LMS) | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12482 | leo satellite networks | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18984 | linear minimum mean square errors | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14763 | load torques | Robotics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14178 | local convergence | Mathematics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05998 | Long-Term Support Release (LTS) | Programming & Software | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16269 | lr-wpans | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15031 | magnetostriction | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16278 | manet | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16279 | manets | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14771 | manipulators | Robotics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09234 | Mean Value Theorem | Mathematics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19902 | metal insulator boundaries | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01681 | Metalness | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19906 | mib | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19917 | mih | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19008 | minimum mean square error criterion | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19010 | minimum mean square errors | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01719 | Mipmap | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16331 | mipv6 | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16367 | modems | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16375 | mpsoc | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15055 | multi-sensor data fusion | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16414 | multicomputers | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19022 | multimodal dialogue systems | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16438 | multiplexer | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03789 | Multiresolution Analysis | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01909 | Narrow Phase | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03825 | Nat | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16468 | nfc | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01985 | Normal Map | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19047 | normalized least mean square | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04040 | Notch Filter | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09433 | NP-Complete | Mathematics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-20017 | ns2 | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-20027 | olsr | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18139 | online transaction processing | Machine Learning | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16527 | osgi | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16528 | ospf | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08293 | Packing | Deep Learning | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-20073 | parallel application | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-20074 | parallel applications | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06369 | Parallel File System | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-20079 | parallel program | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08801 | Parameter | Machine Learning | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-20088 | particle optics | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10382 | periodic structure | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10396 | periodic structures | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04350 | Permutation Invariant Training (PIT) | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12171 | pixel expansion | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16600 | pll | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04515 | Plug-and-Play Prior (PnP) | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16601 | pmd | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12280 | pmipv6 | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12403 | pon system | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12522 | ppm | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08861 | Predictor Variable | Machine Learning | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16644 | pts | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09709 | Random Fourier Features (RFF) | Mathematics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04906 | Recursive Least Squares (RLS) | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09712 | Reducing subspace | AI Foundations | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12033 | relational database systems | AI Foundations | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19334 | relational schemas | AI Foundations | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15105 | remelting | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09009 | Residual Quantization (RQ) | Machine Learning | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16434 | roadsides | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07854 | Root Cause Analysis in Production | AI Applications | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19120 | root mean square error | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17712 | rs image | Computer Vision | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09815 | Saddle Point Escape | Mathematics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16763 | sc-fde | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16767 | sctp | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17005 | secure group communication | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17026 | secure group communications | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19377 | semiconducting indium gallium arsenide | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16787 | semiconducting indium phosphide | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06387 | Sensor Fusion Filter | Robotics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18710 | serial manipulators | Robotics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19817 | signal to interference plus noise ratio | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02821 | Simulator Sickness | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02897 | Skinning | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16842 | snmp | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05317 | Soft Decision Decoding | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10682 | sonar image | Computer Vision | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19139 | space division multiple access | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02973 | Spatial Anchor | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03011 | Spatial Hashing | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16865 | spyware | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09975 | Stationary Point | Mathematics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11235 | stochastic dynamics | Mathematics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10021 | Subspace | Mathematics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13987 | subspace learning | Machine Learning | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03049 | Subsurface Scattering | Computer Graphics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05652 | Syndrome Decoding | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06742 | Tactile Sensing | Robotics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06790 | Task Space | Robotics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16934 | tdd | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05187 | Test-Retest Reliability | Evaluation & Metrics | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05738 | Timbre | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15173 | triphones | Speech & Audio | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17046 | vhdl | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13094 | virus | AI Safety | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12902 | vlsi | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06001 | Voice Activity Detection (VAD) | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04715 | Weighted Quantile Loss (WQL) | Time Series & Forecasting | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06076 | Welch's Method | Signal & Information Theory | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17084 | wifi | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17086 | wimax systems | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17087 | wimedia | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14023 | word processing | Machine Learning | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17120 | zig-bee | AI Infrastructure | 1986 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00146 | Abstract Interpretation | AI Foundations | 1987 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada179451) |
-| AIH-15606 | acceleration sensor | AI Infrastructure | 1987 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4271/870474) |
-| AIH-11575 | acoustic modeling | Speech & Audio | 1987 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada188529) |
-| AIH-00228 | Active Set Method | Mathematics | 1987 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf02591738) |
-| AIH-13102 | adaptive histogram equalization | Computer Vision | 1987 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0734-189x(87)80156-1) |
-| AIH-00300 | Adaptive Thresholding | Computer Vision | 1987 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4613-1971-9_12) |
-| AIH-00315 | AG News | Datasets & Benchmarks | 1987 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4148/1051-0834.1594) |
-| AIH-19394 | airborne sar | AI Infrastructure | 1987 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/0273-1177(87)90325-5) |
-| AIH-10739 | algebraic riccati equations | Mathematics | 1987 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/cdc.1987.272505) |
+**Reference key:** Publication = dated source; Related source = indirect evidence for ★; Indirect context = source about OTHER terms for ★★, not proof of this keyword's date.
+
+| Year | Keyword | Field | Reference |
+|---|---|---|---|
+| 1985 ★★ | Computational heuristic intelligence (CHI) | AI Foundations | [Indirect context](https://doi.org/10.1016/0304-3975(83)90050-6) — NOT keyword evidence |
+| 1985 ★★ | Conservative Field | Mathematics | [Indirect context](https://doi.org/10.1118/1.595732) — NOT keyword evidence |
+| 1985 ★★ | controller area network | AI Foundations | [Indirect context](https://doi.org/10.1016/0011-684x(85)90076-0) — NOT keyword evidence |
+| 1985 ★★ | cooperative sensing | AI Infrastructure | [Indirect context](https://doi.org/10.5772/7574) — NOT keyword evidence |
+| 1985 ★★ | Cost Attribution | AI Foundations | [Indirect context](https://doi.org/10.1109/iccv.2019.00196) — NOT keyword evidence |
+| 1985 ★★ | cryptographic protocol | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ada230779) — NOT keyword evidence |
+| 1985 ★★ | deblocking filter | Speech & Audio | [Indirect context](https://doi.org/10.1109/icce.2005.1429832) — NOT keyword evidence |
+| 1985 ★★ | detection performance | Speech & Audio | [Indirect context](https://doi.org/10.70220/4v6x7d9c) — NOT keyword evidence |
+| 1985 ★★ | digital radiography | Computer Vision | [Indirect context](https://doi.org/10.1007/978-94-009-4930-0) — NOT keyword evidence |
+| 1985 ★★ | Dimensional Analysis | Mathematics | [Indirect context](https://doi.org/10.4095/293565) — NOT keyword evidence |
+| 1985 ★★ | directional filter banks | Speech & Audio | [Indirect context](https://doi.org/10.1016/s0165-1684(99)00049-3) — NOT keyword evidence |
+| 1985 ★★ | distributed development | Programming & Software | [Indirect context](https://doi.org/10.1017/cbo9780511624223.004) — NOT keyword evidence |
+| 1985 ★★ | distributed hash tables | AI Infrastructure | [Indirect context](https://doi.org/10.1109/pdcat.2005.196) — NOT keyword evidence |
+| 1985 ★★ | dynamic optimization problem (dop) | Mathematics | [Indirect context](https://doi.org/10.1007/978-3-662-38527-2_3) — NOT keyword evidence |
+| 1985 ★★ | Effective Context Utilization | Deep Learning | [Indirect context](https://doi.org/10.21437/interspeech.2025-1932) — NOT keyword evidence |
+| 1985 ★★ | Exponential Decay | Mathematics | [Indirect context](https://doi.org/10.1017/cbo9780511804373.004) — NOT keyword evidence |
+| 1985 ★★ | fault-tolerance capability | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-3-7091-8990-0_3) — NOT keyword evidence |
+| 1985 ★★ | filter banks | Speech & Audio | [Indirect context](https://doi.org/10.1016/s0165-1684(99)00049-3) — NOT keyword evidence |
+| 1985 ★★ | fir digital filters | Speech & Audio | [Indirect context](https://doi.org/10.1109/icassp.1985.1168507) — NOT keyword evidence |
+| 1985 ★★ | forecasting methods | Machine Learning | [Indirect context](https://doi.org/10.1016/0169-2070(86)90038-5) — NOT keyword evidence |
+| 1985 ★★ | forecasting models | Machine Learning | [Indirect context](https://doi.org/10.1016/0169-2070(86)90038-5) — NOT keyword evidence |
+| 1985 ★★ | forecasting system | Machine Learning | [Indirect context](https://doi.org/10.1016/0169-2070(86)90038-5) — NOT keyword evidence |
+| 1985 ★★ | formal framework | AI Foundations | [Indirect context](https://doi.org/10.1017/cbo9780511984037.012) — NOT keyword evidence |
+| 1985 ★★ | frequencies | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tcom.1985.1096357) — NOT keyword evidence |
+| 1985 ★★ | frequency division multiple access | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-4615-6231-3_7) — NOT keyword evidence |
+| 1985 ★★ | gabor filter banks | Speech & Audio | [Indirect context](https://doi.org/10.1016/s0165-1684(99)00049-3) — NOT keyword evidence |
+| 1985 ★★ | gates (transistor) | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-349-86040-1_19) — NOT keyword evidence |
+| 1985 ★★ | global software development | Programming & Software | [Indirect context](https://doi.org/10.1109/icgse.2006.261213) — NOT keyword evidence |
+| 1985 ★★ | high-dimensional feature space | Machine Learning | [Indirect context](https://doi.org/10.1007/s002220050261) — NOT keyword evidence |
+| 1985 ★★ | high-quality software | Programming & Software | [Indirect context](https://doi.org/10.2172/5924229) — NOT keyword evidence |
+| 1985 ★★ | hypertext transfer protocol | AI Infrastructure | [Indirect context](https://doi.org/10.17487/rfc1866) — NOT keyword evidence |
+| 1985 ★★ | information integration | Information Retrieval | [Indirect context](https://doi.org/10.1016/0020-0271(70)90058-6) — NOT keyword evidence |
+| 1985 ★★ | K-line (artificial intelligence) | AI Foundations | [Indirect context](https://doi.org/10.1016/0012-8252(74)90048-8) — NOT keyword evidence |
+| 1985 ★★ | Lambda Calculus | Mathematics | [Indirect context](https://doi.org/10.5948/upo9781614440017.002) — NOT keyword evidence |
+| 1985 ★★ | Latency in Signal Processing | Signal & Information Theory | [Indirect context](https://doi.org/10.1109/tassp.1979.1163321) — NOT keyword evidence |
+| 1985 ★★ | latent variable generative models | Generative AI | [Indirect context](https://doi.org/10.1596/39959) — NOT keyword evidence |
+| 1985 ★★ | linear accelerations | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-349-86023-4_8) — NOT keyword evidence |
+| 1985 ★★ | linear time temporal logic | AI Foundations | [Indirect context](https://doi.org/10.1007/978-3-540-69407-6_4) — NOT keyword evidence |
+| 1985 ★★ | Locomotion | Robotics | [Indirect context](https://doi.org/10.1007/978-1-4684-6858-8_3) — NOT keyword evidence |
+| 1985 ★★ | matching algorithm | Computer Vision | [Indirect context](https://doi.org/10.1117/12.946403) — NOT keyword evidence |
+| 1985 ★★ | matching methods | Computer Vision | [Indirect context](https://doi.org/10.1117/12.946403) — NOT keyword evidence |
+| 1985 ★★ | matching points | Computer Vision | [Indirect context](https://doi.org/10.1117/12.946403) — NOT keyword evidence |
+| 1985 ★★ | microstrip patch antennas | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ada299162) — NOT keyword evidence |
+| 1985 ★★ | multipurpose robots | Robotics | [Indirect context](https://doi.org/10.1108/eb004449) — NOT keyword evidence |
+| 1985 ★★ | Network Congestion | AI Infrastructure | [Indirect context](https://doi.org/10.1109/mace.2012.236) — NOT keyword evidence |
+| 1985 ★★ | noisy speech | Speech & Audio | [Indirect context](https://doi.org/10.1037/e413832004-001) — NOT keyword evidence |
+| 1985 ★★ | Numerical Conditioning | Mathematics | [Indirect context](https://doi.org/10.1515/9781400875900-005) — NOT keyword evidence |
+| 1985 ★★ | Numerical Overflow | Mathematics | [Indirect context](https://doi.org/10.1515/9781400875900-005) — NOT keyword evidence |
+| 1985 ★★ | orthogonal frequency division multiple access syst | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-4615-6231-3_7) — NOT keyword evidence |
+| 1985 ★★ | orthogonal frequency-division multiple access (ofd | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-4615-6231-3_7) — NOT keyword evidence |
+| 1985 ★★ | planar robots | Robotics | [Indirect context](https://doi.org/10.1007/978-3-7091-2666-0_5) — NOT keyword evidence |
+| 1985 ★★ | polynomial-time algorithm | Mathematics | [Indirect context](https://doi.org/10.1016/s0020-0190(97)00164-6) — NOT keyword evidence |
+| 1985 ★★ | polynomial-time algorithms | Mathematics | [Indirect context](https://doi.org/10.1016/s0020-0190(97)00164-6) — NOT keyword evidence |
+| 1985 ★★ | Post-Processing | Computer Graphics | [Indirect context](https://doi.org/10.1109/tmag.2004.828987) — NOT keyword evidence |
+| 1985 ★★ | prototype filters | Speech & Audio | [Indirect context](https://doi.org/10.1109/icassp.1985.1168507) — NOT keyword evidence |
+| 1985 ★★ | quality of softwares | Programming & Software | [Indirect context](https://doi.org/10.2172/5924229) — NOT keyword evidence |
+| 1985 ★★ | reconfigurable robot | Robotics | [Indirect context](https://doi.org/10.1108/eb004449) — NOT keyword evidence |
+| 1985 ★★ | rectangular slots | AI Infrastructure | [Indirect context](https://doi.org/10.1109/electr.1991.718200) — NOT keyword evidence |
+| 1985 ★★ | robot applications | Robotics | [Indirect context](https://doi.org/10.1108/eb004449) — NOT keyword evidence |
+| 1985 ★★ | robot system | Robotics | [Indirect context](https://doi.org/10.1108/eb004449) — NOT keyword evidence |
+| 1985 ★★ | robots | Robotics | [Indirect context](https://doi.org/10.1108/eb004449) — NOT keyword evidence |
+| 1985 ★★ | scattering problems | AI Infrastructure | [Indirect context](https://doi.org/10.1088/0266-5611/1/2/005) — NOT keyword evidence |
+| 1985 ★★ | sensing performance | AI Infrastructure | [Indirect context](https://doi.org/10.5772/7574) — NOT keyword evidence |
+| 1985 ★★ | shape description | Computer Vision | [Indirect context](https://doi.org/10.21236/ada110033) — NOT keyword evidence |
+| 1985 ★★ | Signal-to-Noise Ratio Schedule | Generative AI | [Indirect context](https://doi.org/10.1117/12.950691) — NOT keyword evidence |
+| 1985 ★★ | single images | Computer Vision | [Indirect context](https://doi.org/10.1007/978-94-009-5022-1_14) — NOT keyword evidence |
+| 1985 ★★ | speech distortion | Speech & Audio | [Indirect context](https://doi.org/10.21437/eurospeech.1989-19) — NOT keyword evidence |
+| 1985 ★★ | speech production measurement | Speech & Audio | [Indirect context](https://doi.org/10.1063/1.127110) — NOT keyword evidence |
+| 1985 ★★ | speech rates | Speech & Audio | [Indirect context](https://doi.org/10.21437/eurospeech.1989-19) — NOT keyword evidence |
+| 1985 ★★ | Symbol Grounding Problem | AI Foundations | [Indirect context](https://doi.org/10.1145/382208.382515) — NOT keyword evidence |
+| 1985 ★★ | template-matching algorithms | Computer Vision | [Indirect context](https://doi.org/10.1007/bf00356035) — NOT keyword evidence |
+| 1985 ★★ | Temporal Anti-Aliasing (TAA) | Computer Graphics | [Indirect context](https://doi.org/10.1145/800064.801254) — NOT keyword evidence |
+| 1985 ★★ | texture descriptors | Computer Vision | [Indirect context](https://doi.org/10.1109/tc.1972.5008949) — NOT keyword evidence |
+| 1985 ★★ | Time Complexity | Mathematics | [Indirect context](https://doi.org/10.1007/s00233-018-9990-x) — NOT keyword evidence |
+| 1985 ★★ | time division duplex | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tcom.1977.1093784) — NOT keyword evidence |
+| 1985 ★★ | Trajectory Evaluation | Agentic AI | [Indirect context](https://doi.org/10.21236/ada094302) — NOT keyword evidence |
+| 1985 ★★ | two dimensional | Computer Vision | [Indirect context](https://doi.org/10.2172/5116020) — NOT keyword evidence |
+| 1985 ★★ | two-dimensional (2d) | Computer Vision | [Indirect context](https://doi.org/10.2172/5116020) — NOT keyword evidence |
+| 1985 ★★ | Two-Stage Stochastic Program | Mathematics | [Indirect context](https://doi.org/10.1214/aoms/1177729586) — NOT keyword evidence |
+| 1985 ★★ | welding robots | Robotics | [Indirect context](https://doi.org/10.1108/eb004449) — NOT keyword evidence |
+| 1986 | acoustic modelling | Speech & Audio | [Publication](https://doi.org/10.1016/b978-0-408-00824-2.50054-8) |
+| 1986 | acoustic wave transmission | Speech & Audio | [Publication](https://doi.org/10.1109/ultsym.1986.198822) |
+| 1986 | activity models | Machine Learning | [Publication](https://doi.org/10.1016/0142-694x(86)90054-2) |
+| 1986 | address translation | AI Infrastructure | [Publication](https://doi.org/10.1145/17356.17398) |
+| 1986 | Analysis of Variance (ANOVA) | Mathematics | [Publication](https://doi.org/10.1017/cbo9781139165891.013) |
+| 1986 | antenna array | Speech & Audio | [Publication](https://doi.org/10.21236/ada174370) |
+| 1986 | Anti-Aliasing Filter | Signal & Information Theory | [Publication](https://doi.org/10.1109/jlt.1986.1074632) |
+| 1986 | architectural knowledge | Programming & Software | [Publication](https://doi.org/10.1080/10464883.1986.10758395) |
+| 1986 | augmentative and alternative communication | AI Applications | [Publication](https://doi.org/10.1080/07434618612331274000) |
+| 1986 | automatic evaluation | NLP and LLMs | [Publication](https://doi.org/10.1117/12.938297) |
+| 1986 | Autonomy | AI Foundations | [Publication](https://doi.org/10.1007/978-1-349-18428-6_6) |
+| 1986 | Autotuning | Deep Learning | [Publication](https://doi.org/10.23919/acc.1986.4789280) |
+| 1986 | Backchannel | Speech & Audio | [Publication](https://doi.org/10.1145/18172.18194) |
+| 1986 | Banach Fixed-Point Theorem | Mathematics | [Publication](https://doi.org/10.1007/978-1-4612-4838-5_2) |
+| 1986 | Barbara Liskov | People & Organizations | [Publication](https://doi.org/10.1145/12923.1013575) |
+| 1986 | beam forming networks | AI Infrastructure | [Publication](https://doi.org/10.2514/6.1986-665) |
+| 1986 | Belief State | Reinforcement Learning | [Publication](https://doi.org/10.1111/j.1475-4975.1987.tb00546.x) |
+| 1986 | Bernstein Inequality | Mathematics | [Publication](https://doi.org/10.1007/bf01909364) |
+| 1986 | bin packing | Mathematics | [Publication](https://doi.org/10.1007/bf02240206) |
+| 1986 | Blackboard System | AI Foundations | [Publication](https://doi.org/10.1093/comjnl/29.3.235) |
+| 1986 | bp algorithm | Deep Learning | [Publication](https://doi.org/10.1038/323533a0) |
+| 1986 | business goals | AI Infrastructure | [Publication](https://doi.org/10.5040/9798216982623.0004) |
+| 1986 | Callback | Programming & Software | [Publication](https://doi.org/10.1016/0167-4048(86)90137-9) |
+| 1986 | Canny edge detector | Computer Vision | [Publication](https://doi.org/10.1109/TPAMI.1986.4767851) |
+| 1986 | cell edges | AI Infrastructure | [Publication](https://doi.org/10.1242/jcs.82.1.235) |
+| 1986 | cellular systems | AI Infrastructure | [Publication](https://doi.org/10.1109/vtc.1986.1623476) |
+| 1986 | cellular telephones | AI Infrastructure | [Publication](https://doi.org/10.1016/0011-684x(86)90279-0) |
+| 1986 | Chain Rule of Differentiation | Mathematics | [Publication](https://doi.org/10.1007/bf00574154) |
+| 1986 | character segmentation | Machine Learning | [Publication](https://doi.org/10.1117/12.976227) |
+| 1986 | chosen-plaintext attack | AI Infrastructure | [Publication](https://doi.org/10.1016/0167-4048(86)90116-1) |
+| 1986 | classification rules | Machine Learning | [Publication](https://doi.org/10.1016/b978-0-08-034000-5.50015-0) |
+| 1986 | clock distribution | AI Infrastructure | [Publication](https://doi.org/10.1117/12.7973964) |
+| 1986 | Cloze Task | NLP and LLMs | [Publication](https://doi.org/10.1037/t65067-000) |
+| 1986 | coding gain | Computer Vision | [Publication](https://doi.org/10.1109/tcom.1986.1096559) |
+| 1986 | communication constraints | Robotics | [Publication](https://doi.org/10.1109/tit.1986.1057194) |
+| 1986 | Computational linguistics | AI Foundations | [Publication](https://doi.org/10.1017/cbo9780511611797.002) |
+| 1986 | computed torque control | Robotics | [Publication](https://doi.org/10.1109/cdc.1986.267156) |
+| 1986 | Configuration Space | AI Foundations | [Publication](https://doi.org/10.2514/6.1986-2323) |
+| 1986 | contention-based | AI Infrastructure | [Publication](https://doi.org/10.1109/vtc.1986.1623454) |
+| 1986 | Contradiction Detection | NLP and LLMs | [Publication](https://doi.org/10.1299/kikaic.52.1719) |
+| 1986 | controller parameter | Robotics | [Publication](https://doi.org/10.23919/acc.1986.4788911) |
+| 1986 | coverage area | Computer Vision | [Publication](https://doi.org/10.2514/6.1986-2067) |
+| 1986 | Crisis Response | AI Safety | [Publication](https://doi.org/10.1037/e382472004-005) |
+| 1986 | data-intensive applications | AI Infrastructure | [Publication](https://doi.org/10.1109/icde.1986.7266267) |
+| 1986 | database schema | AI Infrastructure | [Publication](https://doi.org/10.1016/0306-4379(86)90022-0) |
+| 1986 | decision tables | AI Foundations | [Publication](https://doi.org/10.1177/0272989x8600600306) |
+| 1986 | dempster-shafer theory of evidence | AI Foundations | [Publication](https://doi.org/10.1016/b978-0-444-70058-2.50013-9) |
+| 1986 | Dereverberation | Signal & Information Theory | [Publication](https://doi.org/10.3997/1365-2397.1986022) |
+| 1986 | deterministic routing | AI Infrastructure | [Publication](https://doi.org/10.1109/tcom.1986.1096552) |
+| 1986 | dexterous hands | Robotics | [Publication](https://doi.org/10.1109/robot.1986.1087491) |
+| 1986 | diamond search | Computer Vision | [Publication](https://doi.org/10.1306/948865ce-1704-11d7-8645000102c1865d) |
+| 1986 | Diffeomorphism | Mathematics | [Publication](https://doi.org/10.1016/0040-9383(86)90031-5) |
+| 1986 | digital image processing technique | AI Infrastructure | [Publication](https://doi.org/10.1016/0262-8856(86)90047-8) |
+| 1986 | distortion measures | Speech & Audio | [Publication](https://doi.org/10.1109/tit.1986.1057167) |
+| 1986 | document image processing | AI Infrastructure | [Publication](https://doi.org/10.1016/0141-9382(86)90078-8) |
+| 1986 | document representation | Machine Learning | [Publication](https://doi.org/10.1017/cbo9780511663130.010) |
+| 1986 | electromagnetic emissions | AI Infrastructure | [Publication](https://doi.org/10.1109/isemc.1986.7568256) |
+| 1986 | electron microscope tomography | Computer Vision | [Publication](https://doi.org/10.1016/0968-0004(86)90077-0) |
+| 1986 | electronic services | AI Infrastructure | [Publication](https://doi.org/10.1016/c2013-0-01444-2) |
+| 1986 | Elliptic Envelope | Machine Learning | [Publication](https://doi.org/10.1121/1.2023703) |
+| 1986 | ELT | AI Infrastructure | [Publication](https://doi.org/10.1093/elt/40.3.191) |
+| 1986 | emotion recognition | Speech & Audio | [Publication](https://doi.org/10.1037//0022-3514.51.4.690) |
+| 1986 | Exemplar Selection | Machine Learning | [Publication](https://doi.org/10.1080/00336297.1986.10483845) |
+| 1986 | facial feature | Machine Learning | [Publication](https://doi.org/10.1520/jfs11926j) |
+| 1986 | Factorial Design | Mathematics | [Publication](https://doi.org/10.1007/bf02482507) |
+| 1986 | fiber optic sensor | AI Infrastructure | [Publication](https://doi.org/10.1117/12.949757) |
+| 1986 | flexible manipulators | Robotics | [Publication](https://doi.org/10.21236/ada172287) |
+| 1986 | focal plane arrays | AI Infrastructure | [Publication](https://doi.org/10.1117/12.936525) |
+| 1986 | forecasting accuracy | Machine Learning | [Publication](https://doi.org/10.1016/0169-2070(86)90038-5) |
+| 1986 | Framebuffer | Computer Graphics | [Publication](https://doi.org/10.3758/bf03201433) |
+| 1986 | fuzzy expert system | AI Foundations | [Publication](https://doi.org/10.1016/s0165-0114(86)80027-6) |
+| 1986 | gaussian multiple-access channels | Speech & Audio | [Publication](https://doi.org/10.1109/tit.1986.1057121) |
+| 1986 | generalized hough transform | Computer Vision | [Publication](https://doi.org/10.1007/978-1-4613-2239-9_18) |
+| 1986 | generalized sidelobe canceller | Speech & Audio | [Publication](https://doi.org/10.1109/tassp.1986.1164927) |
+| 1986 | Givens Rotation | Mathematics | [Publication](https://doi.org/10.1364/ao.25.001608) |
+| 1986 | Grasp Planning | Robotics | [Publication](https://doi.org/10.1109/robot.1986.1087523) |
+| 1986 | group communication | AI Infrastructure | [Publication](https://doi.org/10.1080/10417948609372659) |
+| 1986 | Group Delay | Signal & Information Theory | [Publication](https://doi.org/10.1117/12.976219) |
+| 1986 | handwritten texts | AI Infrastructure | [Publication](https://doi.org/10.1515/9783110867329.143) |
+| 1986 | Hebbian Learning | Cognitive Science | [Publication](https://doi.org/10.1063/1.36225) |
+| 1986 | Heterogeneity | Mathematics | [Publication](https://doi.org/10.1007/978-1-4684-5041-5_16) |
+| 1986 | high electron mobility transistors | AI Infrastructure | [Publication](https://doi.org/10.1109/iedm.1986.191249) |
+| 1986 | high level synthesis | AI Infrastructure | [Publication](https://doi.org/10.21236/ada172975) |
+| 1986 | high power lasers | AI Infrastructure | [Publication](https://doi.org/10.1117/12.938089) |
+| 1986 | high resolution image | Computer Vision | [Publication](https://doi.org/10.1177/34.1.3941268) |
+| 1986 | high signal-to-noise ratio | Speech & Audio | [Publication](https://doi.org/10.1093/oxfordjournals.rpd.a079651) |
+| 1986 | Horizontal Regulation | AI Safety | [Publication](https://doi.org/10.1093/screen/27.3-4.78) |
+| 1986 | Hyperband | Mathematics | [Publication](https://doi.org/10.1109/tce.1986.290165) |
+| 1986 | image coding | Computer Vision | [Publication](https://doi.org/10.1117/12.952223) |
+| 1986 | Inductive Bias | AI Foundations | [Publication](https://doi.org/10.1007/978-1-4613-2283-2) |
+| 1986 | Instrumental Variable Estimation | Causal Inference | [Publication](https://doi.org/10.2307/1912840) |
+| 1986 | interference channels | Speech & Audio | [Publication](https://doi.org/10.1007/978-1-4612-4904-7_11) |
+| 1986 | internal tide | AI Infrastructure | [Publication](https://doi.org/10.21236/ada167722) |
+| 1986 | Intrinsic Parameters | Computer Vision | [Publication](https://doi.org/10.1017/s0074180900148594) |
+| 1986 | Inverse Fourier Transform | Mathematics | [Publication](https://doi.org/10.1021/ac00127a009) |
+| 1986 | Judea Pearl | People & Organizations | [Publication](https://doi.org/10.1002/int.4550010107) |
+| 1986 | kalman filters | Speech & Audio | [Publication](https://doi.org/10.1177/002029408601900204) |
+| 1986 | Knowledge Transfer | Deep Learning | [Publication](https://doi.org/10.1177/107554708600800206) |
+| 1986 | Lagrangian Mechanics | Mathematics | [Publication](https://doi.org/10.1016/b978-0-12-206340-4.50014-4) |
+| 1986 | Language/action perspective | AI Foundations | [Publication](https://doi.org/10.1145/637069.637096) |
+| 1986 | Laplacian Matrix | Mathematics | [Publication](https://doi.org/10.21136/cmj.1986.102059) |
+| 1986 | largest lyapunov exponent | Robotics | [Publication](https://doi.org/10.1007/bf01033076) |
+| 1986 | least mean squares | Speech & Audio | [Publication](https://doi.org/10.1007/978-1-4612-4978-8_5) |
+| 1986 | light transport | AI Infrastructure | [Publication](https://doi.org/10.2172/5339609) |
+| 1986 | Local Improvement Heuristic | Mathematics | [Publication](https://doi.org/10.1287/trsc.20.4.246) |
+| 1986 | Long-Term Potentiation (LTP) | Cognitive Science | [Publication](https://doi.org/10.1016/0166-4328(86)90182-8) |
+| 1986 | markovian jumps | Mathematics | [Publication](https://doi.org/10.1109/cdc.1986.267479) |
+| 1986 | Message Passing | Graph & Network Learning | [Publication](https://doi.org/10.2172/5760616) |
+| 1986 | mitochondrial gene | Data Science | [Publication](https://doi.org/10.1016/0378-1119(86)90392-6) |
+| 1986 | mobile robots | Robotics | [Publication](https://doi.org/10.1109/jra.1986.1087051) |
+| 1986 | motion vectors | Computer Vision | [Publication](https://doi.org/10.54302/mausam.v37i4.2575) |
+| 1986 | moving target detection | AI Infrastructure | [Publication](https://doi.org/10.21236/ada172225) |
+| 1986 | multicasting | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc988) |
+| 1986 | multifingered hands | Robotics | [Publication](https://doi.org/10.1177/027836498600400401) |
+| 1986 | Multilayer backpropagation | Neural Networks | [Publication](https://doi.org/10.1038/323533a0) |
+| 1986 | multiobjective models | AI Foundations | [Publication](https://doi.org/10.1080/02331938608843153) |
+| 1986 | natural selection | Data Science | [Publication](https://doi.org/10.1126/science.233.4770.1332) |
+| 1986 | object-oriented database | AI Infrastructure | [Publication](https://doi.org/10.1145/323779.323777) |
+| 1986 | object-oriented languages | AI Infrastructure | [Publication](https://doi.org/10.1145/323648.323749) |
+| 1986 | omnidirectional radiation pattern | AI Infrastructure | [Publication](https://doi.org/10.1109/tap.1986.1143743) |
+| 1986 | optical interconnects | AI Infrastructure | [Publication](https://doi.org/10.1117/12.7973962) |
+| 1986 | optical networks | AI Infrastructure | [Publication](https://doi.org/10.1109/jlt.1986.1074812) |
+| 1986 | optical sensors | AI Infrastructure | [Publication](https://doi.org/10.1364/ofs.1986.p1) |
+| 1986 | optical transceivers | AI Infrastructure | [Publication](https://doi.org/10.1016/b978-0-08-030577-6.50020-6) |
+| 1986 | parallel computing | AI Infrastructure | [Publication](https://doi.org/10.1016/0167-8191(86)90016-5) |
+| 1986 | parallel efficiency | AI Infrastructure | [Publication](https://doi.org/10.1016/0167-8191(86)90025-6) |
+| 1986 | parallel implementation | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4684-5218-1_12) |
+| 1986 | parallel implementations | AI Infrastructure | [Publication](https://doi.org/10.1016/0167-9260(86)90002-7) |
+| 1986 | parallel programming | AI Infrastructure | [Publication](https://doi.org/10.1007/bf01414557) |
+| 1986 | partial evaluation | AI Foundations | [Publication](https://doi.org/10.3386/w1906) |
+| 1986 | particle swarms | Mathematics | [Publication](https://doi.org/10.1063/1.451769) |
+| 1986 | perfect reconstruction | Speech & Audio | [Publication](https://doi.org/10.1016/0165-1684(86)90101-5) |
+| 1986 | petri net | Mathematics | [Publication](https://doi.org/10.1016/s1474-6670(17)64101-6) |
+| 1986 | petri net models | Mathematics | [Publication](https://doi.org/10.1016/s1474-6670(17)64101-6) |
+| 1986 | phase diversity | AI Infrastructure | [Publication](https://doi.org/10.1364/srs.1986.thb1) |
+| 1986 | physical layer | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-642-96966-9_5) |
+| 1986 | planctomycetales | Machine Learning | [Publication](https://doi.org/10.1016/0378-1097(86)90421-0) |
+| 1986 | Policy Evaluation | Reinforcement Learning | [Publication](https://doi.org/10.1016/s0886-1633(86)80041-1) |
+| 1986 | Population Coding | Cognitive Science | [Publication](https://doi.org/10.1126/science.3749885) |
+| 1986 | Precision Matrix | Mathematics | [Publication](https://doi.org/10.21236/ada177099) |
+| 1986 | programmable logic device | AI Infrastructure | [Publication](https://doi.org/10.1109/isscc.1986.1156928) |
+| 1986 | query answering | Information Retrieval | [Publication](https://doi.org/10.1137/0215051) |
+| 1986 | random subspaces | Machine Learning | [Publication](https://doi.org/10.1007/bf01077309) |
+| 1986 | Randomized Response | Security & Privacy | [Publication](https://doi.org/10.4135/9781412985581) |
+| 1986 | rapid prototype | Programming & Software | [Publication](https://doi.org/10.21236/ada167423) |
+| 1986 | relational databases | AI Foundations | [Publication](https://doi.org/10.1016/c2013-0-03808-x) |
+| 1986 | relational model | AI Foundations | [Publication](https://doi.org/10.1016/0306-4379(86)90014-1) |
+| 1986 | Rendering | Computer Graphics | [Publication](https://doi.org/10.1145/15886.15902) |
+| 1986 | Residual Risk | AI Safety | [Publication](https://doi.org/10.3386/w1908) |
+| 1986 | routing algorithm | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc981) |
+| 1986 | satisfiability problem | AI Foundations | [Publication](https://doi.org/10.21236/ada185544) |
+| 1986 | security problems | AI Infrastructure | [Publication](https://doi.org/10.1016/0142-0496(86)90091-3) |
+| 1986 | Selective Search | Computer Vision | [Publication](https://doi.org/10.3233/icg-1986-9203) |
+| 1986 | Semantic Chunking | NLP and LLMs | [Publication](https://openalex.org/W640713197) |
+| 1986 | semantic descriptions | Information Retrieval | [Publication](https://doi.org/10.1002/spe.4380160104) |
+| 1986 | sensor data fusion | Speech & Audio | [Publication](https://doi.org/10.1109/robot.1986.1087441) |
+| 1986 | shared memory multiprocessors | AI Infrastructure | [Publication](https://doi.org/10.1126/science.231.4741.963) |
+| 1986 | software failure | Programming & Software | [Publication](https://doi.org/10.1016/b978-0-08-034091-3.50021-0) |
+| 1986 | Software Pipelining | AI Infrastructure | [Publication](https://doi.org/10.1145/19551.19541) |
+| 1986 | spatial query processing | Machine Learning | [Publication](https://doi.org/10.1145/16856.16886) |
+| 1986 | static noise margin | AI Infrastructure | [Publication](https://doi.org/10.1109/esscirc.1986.5468249) |
+| 1986 | stochastic analysis | Mathematics | [Publication](https://doi.org/10.1080/07362998608809079) |
+| 1986 | stream cipher | AI Safety | [Publication](https://doi.org/10.1007/978-3-642-82865-2_8) |
+| 1986 | Structure Mapping Theory | AI Foundations | [Publication](https://doi.org/10.21236/ada177300) |
+| 1986 | Swept Volume | Robotics | [Publication](https://doi.org/10.1109/mcg.1986.276586) |
+| 1986 | symbol error rate | Speech & Audio | [Publication](https://doi.org/10.1109/tit.1986.1057148) |
+| 1986 | tactile feedback | Robotics | [Publication](https://openalex.org/W312607850) |
+| 1986 | tactile information | Robotics | [Publication](https://doi.org/10.1007/978-3-642-82940-6_22) |
+| 1986 | temporal databases | AI Foundations | [Publication](https://doi.org/10.1109/mc.1986.1663327) |
+| 1986 | three dimensional integrated circuits | AI Infrastructure | [Publication](https://doi.org/10.1117/12.976270) |
+| 1986 | Type Checker | Programming & Software | [Publication](https://doi.org/10.1016/0167-6423(86)90027-4) |
+| 1986 | value functions | Reinforcement Learning | [Publication](https://doi.org/10.1142/9789814415477_0018) |
+| 1986 | vhdl language | AI Infrastructure | [Publication](https://doi.org/10.1109/dac.1986.1586107) |
+| 1986 | vibration measurement | AI Infrastructure | [Publication](https://doi.org/10.1007/978-94-017-3645-9_5) |
+| 1986 | video representations | Machine Learning | [Publication](https://doi.org/10.7312/sava90374-017) |
+| 1986 | White Noise | Signal & Information Theory | [Publication](https://doi.org/10.1016/b978-0-444-86992-0.50076-x) |
+| 1986 | wide area networks | AI Infrastructure | [Publication](https://doi.org/10.1016/0167-7136(86)90101-0) |
+| 1986 ★★ | 3d video coding | Computer Vision | [Indirect context](https://doi.org/10.1016/s0928-1479(99)x8001-6) — NOT keyword evidence |
+| 1986 ★★ | acoustic noise measurement | Speech & Audio | [Indirect context](https://doi.org/10.1063/1.127110) — NOT keyword evidence |
+| 1986 ★★ | acoustic sources | Speech & Audio | [Indirect context](https://doi.org/10.1109/icassp.2002.1005305) — NOT keyword evidence |
+| 1986 ★★ | action language | AI Foundations | [Indirect context](https://doi.org/10.1145/637069.637096) — NOT keyword evidence |
+| 1986 ★★ | AI-complete | AI Foundations | [Indirect context](https://doi.org/10.1126/science.36.934.719) — NOT keyword evidence |
+| 1986 ★★ | Ambient Occlusion (AO) | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | anycast | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | architectural analysis | Programming & Software | [Indirect context](https://doi.org/10.1080/10464883.1986.10758395) — NOT keyword evidence |
+| 1986 ★★ | architectural guideline | Programming & Software | [Indirect context](https://doi.org/10.1080/10464883.1986.10758395) — NOT keyword evidence |
+| 1986 ★★ | architectural knowledge exploiting | Programming & Software | [Indirect context](https://doi.org/10.1080/10464883.1986.10758395) — NOT keyword evidence |
+| 1986 ★★ | architectural knowledge reuse | Programming & Software | [Indirect context](https://doi.org/10.1080/10464883.1986.10758395) — NOT keyword evidence |
+| 1986 ★★ | architectural language | Programming & Software | [Indirect context](https://doi.org/10.1080/10464883.1986.10758395) — NOT keyword evidence |
+| 1986 ★★ | architectural model | Programming & Software | [Indirect context](https://doi.org/10.1080/10464883.1986.10758395) — NOT keyword evidence |
+| 1986 ★★ | architectural models | Programming & Software | [Indirect context](https://doi.org/10.1080/10464883.1986.10758395) — NOT keyword evidence |
+| 1986 ★★ | architectural pattern | Programming & Software | [Indirect context](https://doi.org/10.1080/10464883.1986.10758395) — NOT keyword evidence |
+| 1986 ★★ | architectural patterns | Programming & Software | [Indirect context](https://doi.org/10.1080/10464883.1986.10758395) — NOT keyword evidence |
+| 1986 ★★ | architectural synthesis | Programming & Software | [Indirect context](https://doi.org/10.1080/10464883.1986.10758395) — NOT keyword evidence |
+| 1986 ★★ | available bit rate (abr) | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Backpropagation (BP) | Deep Learning | [Indirect context](https://doi.org/10.1016/0161-7346(82)90017-7) — NOT keyword evidence |
+| 1986 ★★ | backpropagation algorithms | Deep Learning | [Indirect context](https://doi.org/10.1016/0161-7346(82)90017-7) — NOT keyword evidence |
+| 1986 ★★ | Banach Space | Mathematics | [Indirect context](https://doi.org/10.1007/978-1-4612-4838-5_2) — NOT keyword evidence |
+| 1986 ★★ | basis expansion models | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | bgp | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | bit torrents | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | bitcoin | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Broad Phase | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | cellular automata | AI Foundations | [Indirect context](https://doi.org/10.1007/bf01010423) — NOT keyword evidence |
+| 1986 ★★ | cellular automata models | AI Foundations | [Indirect context](https://doi.org/10.1007/bf01010423) — NOT keyword evidence |
+| 1986 ★★ | cellular network | AI Infrastructure | [Indirect context](https://doi.org/10.1109/cnna.1990.207500) — NOT keyword evidence |
+| 1986 ★★ | cellular networks | AI Infrastructure | [Indirect context](https://doi.org/10.1109/cnna.1990.207500) — NOT keyword evidence |
+| 1986 ★★ | certification authorities | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | clock skews | AI Infrastructure | [Indirect context](https://doi.org/10.1109/71.363408) — NOT keyword evidence |
+| 1986 ★★ | co-operative systems | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Collision Detection in Graphics | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | colored petri net | Mathematics | [Indirect context](https://doi.org/10.1016/0020-0190(80)90032-0) — NOT keyword evidence |
+| 1986 ★★ | communication aids for nonvocal persons | AI Applications | [Indirect context](https://doi.org/10.1037/e518952004-001) — NOT keyword evidence |
+| 1986 ★★ | Companding | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | computer virus | AI Safety | [Indirect context](https://doi.org/10.1016/b978-192899423-7/50009-4) — NOT keyword evidence |
+| 1986 ★★ | Concentration Inequality | Mathematics | [Indirect context](https://doi.org/10.1007/bf01909364) — NOT keyword evidence |
+| 1986 ★★ | Controllability | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | Cramer's Rule | Mathematics | [Indirect context](https://doi.org/10.1007/bf00574154) — NOT keyword evidence |
+| 1986 ★★ | dba | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Decimation | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | Deep Image Prior (DIP) | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | Deep Learning Super Sampling (DLSS) | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | Deferred Shading | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | dempster | Speech & Audio | [Indirect context](https://doi.org/10.1016/b978-0-444-70058-2.50013-9) — NOT keyword evidence |
+| 1986 ★★ | dependability | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Depth Buffer | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | dfa | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | dht | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | digital informations | AI Infrastructure | [Indirect context](https://doi.org/10.1049/sm.1983.0025) — NOT keyword evidence |
+| 1986 ★★ | digital preservation | AI Infrastructure | [Indirect context](https://doi.org/10.1049/sm.1983.0025) — NOT keyword evidence |
+| 1986 ★★ | dilatometers | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | diplexers | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | dirty-paper coding | Computer Vision | [Indirect context](https://doi.org/10.1016/s0928-1479(99)x8001-6) — NOT keyword evidence |
+| 1986 ★★ | Displacement Map | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | distorted images | Computer Vision | [Indirect context](https://doi.org/10.1109/proc.1975.9801) — NOT keyword evidence |
+| 1986 ★★ | Distributed Data Parallel (DDP) | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tc.1981.1675771) — NOT keyword evidence |
+| 1986 ★★ | Dithering | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | dsrc | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | dwdm | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | edca | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Edge-Aware Filtering | Computer Vision | [Indirect context](https://doi.org/10.1017/s0958344014000214) — NOT keyword evidence |
+| 1986 ★★ | electric distortion | Speech & Audio | [Indirect context](https://doi.org/10.1109/tit.1986.1057167) — NOT keyword evidence |
+| 1986 ★★ | electron gas | Computer Vision | [Indirect context](https://doi.org/10.1103/physrevb.13.4192) — NOT keyword evidence |
+| 1986 ★★ | electronic designs | AI Infrastructure | [Indirect context](https://doi.org/10.1016/c2013-0-01444-2) — NOT keyword evidence |
+| 1986 ★★ | epon | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | ethernet | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Exemplar Theory | Cognitive Science | [Indirect context](https://doi.org/10.1080/00336297.1986.10483845) — NOT keyword evidence |
+| 1986 ★★ | facial images | Machine Learning | [Indirect context](https://doi.org/10.1109/chicc.2006.280876) — NOT keyword evidence |
+| 1986 ★★ | Fano's Inequality | Mathematics | [Indirect context](https://doi.org/10.1007/bf01909364) — NOT keyword evidence |
+| 1986 ★★ | fibre technology | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Filter Bank | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | Fisher-Rao Metric | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | Formant | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | full search | Computer Vision | [Indirect context](https://doi.org/10.1016/0038-1098(88)90460-7) — NOT keyword evidence |
+| 1986 ★★ | full search algorithm | Computer Vision | [Indirect context](https://doi.org/10.1016/0038-1098(88)90460-7) — NOT keyword evidence |
+| 1986 ★★ | fusion systems | Speech & Audio | [Indirect context](https://doi.org/10.1109/robot.1986.1087441) — NOT keyword evidence |
+| 1986 ★★ | gaussian channel | Speech & Audio | [Indirect context](https://doi.org/10.1109/tcom.1987.1096784) — NOT keyword evidence |
+| 1986 ★★ | Global Illumination (GI) | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | gnutella | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | graph-oriented databases | AI Infrastructure | [Indirect context](https://doi.org/10.1145/323779.323777) — NOT keyword evidence |
+| 1986 ★★ | Griffin-Lim Algorithm | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | ground planes | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ad0298965) — NOT keyword evidence |
+| 1986 ★★ | group communication systems | AI Infrastructure | [Indirect context](https://doi.org/10.1080/10417948609372659) — NOT keyword evidence |
+| 1986 ★★ | group memberships | AI Infrastructure | [Indirect context](https://doi.org/10.7146/dpb.v13i481.6954) — NOT keyword evidence |
+| 1986 ★★ | h-planes | AI Infrastructure | [Indirect context](https://doi.org/10.1109/gmpls.2007.4362593) — NOT keyword evidence |
+| 1986 ★★ | Hamming Distance | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | headphones | Speech & Audio | [Indirect context](https://doi.org/10.1109/tau.1957.1165989) — NOT keyword evidence |
+| 1986 ★★ | High Dynamic Range (HDR) | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | high performance computing systems | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ada172975) — NOT keyword evidence |
+| 1986 ★★ | high resolution radar | Speech & Audio | [Indirect context](https://doi.org/10.1142/9789812797599_0010) — NOT keyword evidence |
+| 1986 ★★ | high speed networks | AI Infrastructure | [Indirect context](https://doi.org/10.1117/12.937589) — NOT keyword evidence |
+| 1986 ★★ | hmipv6 | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | holmium | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | honeypot | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | honeypots | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | human hands | Robotics | [Indirect context](https://doi.org/10.1109/robot.1986.1087491) — NOT keyword evidence |
+| 1986 ★★ | i/q imbalance | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | ici cancellation | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | ieee802.16 | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | ieee802.21 | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Impulse Response Function | Time Series & Forecasting | [Indirect context](https://doi.org/10.1016/s0963-8695(97)87313-6) — NOT keyword evidence |
+| 1986 ★★ | ims | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Infinite Impulse Response Filter (IIR) | Signal & Information Theory | [Indirect context](https://doi.org/10.1016/s0963-8695(97)87313-6) — NOT keyword evidence |
+| 1986 ★★ | innovative technologies | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | interference channel | Speech & Audio | [Indirect context](https://doi.org/10.1109/tit.2004.828156) — NOT keyword evidence |
+| 1986 ★★ | Interior Point Method | Mathematics | [Indirect context](https://doi.org/10.21236/ada231372) — NOT keyword evidence |
+| 1986 ★★ | Inverted Residual | Deep Learning | [Indirect context](https://doi.org/10.1213/01.ane.0000153954.29750.2b) — NOT keyword evidence |
+| 1986 ★★ | ip addresss | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | ipv4 | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | isdn | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Jensen's Inequality | Mathematics | [Indirect context](https://doi.org/10.1007/bf01909364) — NOT keyword evidence |
+| 1986 ★★ | Jensen-Shannon Divergence (JSD) | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | jitter | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | jxta | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | kademlia | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | kalman filtering algorithms | Speech & Audio | [Indirect context](https://doi.org/10.1109/cdc.1973.269192) — NOT keyword evidence |
+| 1986 ★★ | kerberos | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Laplacian of Gaussian (LoG) | Computer Vision | [Indirect context](https://doi.org/10.23919/oceans59106.2025.11245171) — NOT keyword evidence |
+| 1986 ★★ | least mean square | Speech & Audio | [Indirect context](https://doi.org/10.1007/978-1-4612-4978-8_5) — NOT keyword evidence |
+| 1986 ★★ | least mean square algorithms | Speech & Audio | [Indirect context](https://doi.org/10.1007/978-1-4612-4978-8_5) — NOT keyword evidence |
+| 1986 ★★ | Least Mean Squares Filter (LMS) | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | leo satellite networks | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | linear minimum mean square errors | Speech & Audio | [Indirect context](https://doi.org/10.1117/12.185941) — NOT keyword evidence |
+| 1986 ★★ | load torques | Robotics | [Indirect context](https://doi.org/10.1108/eb007537) — NOT keyword evidence |
+| 1986 ★★ | local convergence | Mathematics | [Indirect context](https://doi.org/10.1007/bf01181186) — NOT keyword evidence |
+| 1986 ★★ | Long-Term Support Release (LTS) | Programming & Software | [Indirect context](https://doi.org/10.1109/issre.2009.19) — NOT keyword evidence |
+| 1986 ★★ | lr-wpans | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | magnetostriction | Speech & Audio | [Indirect context](https://doi.org/10.1109/tau.1957.1165989) — NOT keyword evidence |
+| 1986 ★★ | manet | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | manets | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | manipulators | Robotics | [Indirect context](https://doi.org/10.2514/6.1987-2264) — NOT keyword evidence |
+| 1986 ★★ | Mean Value Theorem | Mathematics | [Indirect context](https://doi.org/10.1111/j.1949-8594.1961.tb08507.x) — NOT keyword evidence |
+| 1986 ★★ | metal insulator boundaries | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Metalness | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | mib | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | mih | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | minimum mean square error criterion | Speech & Audio | [Indirect context](https://doi.org/10.1117/12.185941) — NOT keyword evidence |
+| 1986 ★★ | minimum mean square errors | Speech & Audio | [Indirect context](https://doi.org/10.1117/12.185941) — NOT keyword evidence |
+| 1986 ★★ | Mipmap | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | mipv6 | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | modems | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | mpsoc | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | multi-sensor data fusion | Speech & Audio | [Indirect context](https://doi.org/10.1109/robot.1986.1087441) — NOT keyword evidence |
+| 1986 ★★ | multicomputers | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | multimodal dialogue systems | Speech & Audio | [Indirect context](https://doi.org/10.1109/tau.1957.1165989) — NOT keyword evidence |
+| 1986 ★★ | multiplexer | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Multiresolution Analysis | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | Narrow Phase | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | Nat | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | nfc | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Normal Map | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | normalized least mean square | Speech & Audio | [Indirect context](https://doi.org/10.1007/978-1-4612-4978-8_5) — NOT keyword evidence |
+| 1986 ★★ | Notch Filter | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | NP-Complete | Mathematics | [Indirect context](https://doi.org/10.1126/science.36.934.719) — NOT keyword evidence |
+| 1986 ★★ | ns2 | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | olsr | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | online transaction processing | Machine Learning | [Indirect context](https://doi.org/10.5260/chara.13.1.5) — NOT keyword evidence |
+| 1986 ★★ | osgi | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | ospf | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Packing | Deep Learning | [Indirect context](https://doi.org/10.1007/bf02240206) — NOT keyword evidence |
+| 1986 ★★ | parallel application | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-4684-5218-1_12) — NOT keyword evidence |
+| 1986 ★★ | parallel applications | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-4684-5218-1_12) — NOT keyword evidence |
+| 1986 ★★ | Parallel File System | AI Infrastructure | [Indirect context](https://doi.org/10.4135/9781412950657.n101) — NOT keyword evidence |
+| 1986 ★★ | parallel program | AI Infrastructure | [Indirect context](https://doi.org/10.1007/3-540-15239-3_16) — NOT keyword evidence |
+| 1986 ★★ | Parameter | Machine Learning | [Indirect context](https://doi.org/10.1142/9789814354240_0004) — NOT keyword evidence |
+| 1986 ★★ | particle optics | AI Infrastructure | [Indirect context](https://doi.org/10.5772/intechopen.106037) — NOT keyword evidence |
+| 1986 ★★ | periodic structure | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | periodic structures | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Permutation Invariant Training (PIT) | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | pixel expansion | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | pll | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Plug-and-Play Prior (PnP) | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | pmd | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | pmipv6 | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | pon system | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | ppm | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Predictor Variable | Machine Learning | [Indirect context](https://doi.org/10.1007/BF00058655) — NOT keyword evidence |
+| 1986 ★★ | pts | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Random Fourier Features (RFF) | Mathematics | [Indirect context](https://arxiv.org/abs/2010.08895) — NOT keyword evidence |
+| 1986 ★★ | Recursive Least Squares (RLS) | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | Reducing subspace | AI Foundations | [Indirect context](https://doi.org/10.1006/jmva.1997.1727) — NOT keyword evidence |
+| 1986 ★★ | relational database systems | AI Foundations | [Indirect context](https://doi.org/10.1007/978-3-642-68847-8_2) — NOT keyword evidence |
+| 1986 ★★ | relational schemas | AI Foundations | [Indirect context](https://doi.org/10.2139/ssrn.492725) — NOT keyword evidence |
+| 1986 ★★ | remelting | Speech & Audio | [Indirect context](https://doi.org/10.1109/tau.1957.1165989) — NOT keyword evidence |
+| 1986 ★★ | Residual Quantization (RQ) | Machine Learning | [Indirect context](https://doi.org/10.2172/6368884) — NOT keyword evidence |
+| 1986 ★★ | roadsides | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Root Cause Analysis in Production | AI Applications | [Indirect context](https://doi.org/10.1007/978-3-642-73318-5_17) — NOT keyword evidence |
+| 1986 ★★ | root mean square error | Speech & Audio | [Indirect context](https://doi.org/10.7763/ijapm.2012.v2.51) — NOT keyword evidence |
+| 1986 ★★ | rs image | Computer Vision | [Indirect context](https://doi.org/10.1109/proc.1975.9801) — NOT keyword evidence |
+| 1986 ★★ | Saddle Point Escape | Mathematics | [Indirect context](https://doi.org/10.1016/s0893-9659(00)00024-0) — NOT keyword evidence |
+| 1986 ★★ | sc-fde | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | sctp | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | secure group communication | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ada542654) — NOT keyword evidence |
+| 1986 ★★ | secure group communications | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ada542654) — NOT keyword evidence |
+| 1986 ★★ | semiconducting indium gallium arsenide | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | semiconducting indium phosphide | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Sensor Fusion Filter | Robotics | [Indirect context](https://doi.org/10.1117/12.946664) — NOT keyword evidence |
+| 1986 ★★ | serial manipulators | Robotics | [Indirect context](https://doi.org/10.2514/6.1987-2264) — NOT keyword evidence |
+| 1986 ★★ | signal to interference plus noise ratio | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Simulator Sickness | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | Skinning | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | snmp | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Soft Decision Decoding | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | sonar image | Computer Vision | [Indirect context](https://doi.org/10.1109/proc.1975.9801) — NOT keyword evidence |
+| 1986 ★★ | space division multiple access | Speech & Audio | [Indirect context](https://doi.org/10.1049/ip-i-2.1993.0058) — NOT keyword evidence |
+| 1986 ★★ | Spatial Anchor | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | Spatial Hashing | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | spyware | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Stationary Point | Mathematics | [Indirect context](https://doi.org/10.21236/ada234421) — NOT keyword evidence |
+| 1986 ★★ | stochastic dynamics | Mathematics | [Indirect context](https://doi.org/10.1109/icoiics67115.2025.11390664) — NOT keyword evidence |
+| 1986 ★★ | Subspace | Mathematics | [Indirect context](https://doi.org/10.2172/6560074) — NOT keyword evidence |
+| 1986 ★★ | subspace learning | Machine Learning | [Indirect context](https://doi.org/10.1137/1.9780898718348.ch15) — NOT keyword evidence |
+| 1986 ★★ | Subsurface Scattering | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
+| 1986 ★★ | Syndrome Decoding | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | Tactile Sensing | Robotics | [Indirect context](https://doi.org/10.1007/978-3-642-84051-7) — NOT keyword evidence |
+| 1986 ★★ | Task Space | Robotics | [Indirect context](https://doi.org/10.2307/352084) — NOT keyword evidence |
+| 1986 ★★ | tdd | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | Test-Retest Reliability | Evaluation & Metrics | [Indirect context](https://doi.org/10.15760/etd.567) — NOT keyword evidence |
+| 1986 ★★ | Timbre | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | triphones | Speech & Audio | [Indirect context](https://doi.org/10.1109/tau.1957.1165989) — NOT keyword evidence |
+| 1986 ★★ | vhdl | AI Infrastructure | [Indirect context](https://doi.org/10.1109/dac.1986.1586107) — NOT keyword evidence |
+| 1986 ★★ | virus | AI Safety | [Indirect context](https://doi.org/10.1016/b978-192899423-7/50009-4) — NOT keyword evidence |
+| 1986 ★★ | vlsi | AI Infrastructure | [Indirect context](https://doi.org/10.1109/vlsic.1988.1037395) — NOT keyword evidence |
+| 1986 ★★ | Voice Activity Detection (VAD) | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | Weighted Quantile Loss (WQL) | Time Series & Forecasting | [Indirect context](https://doi.org/10.1002/qj.2624) — NOT keyword evidence |
+| 1986 ★★ | Welch's Method | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
+| 1986 ★★ | wifi | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | wimax systems | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | wimedia | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1986 ★★ | word processing | Machine Learning | [Indirect context](https://doi.org/10.1002/j.1538-7305.1981.tb00243.x) — NOT keyword evidence |
+| 1986 ★★ | zig-bee | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1987 | Abstract Interpretation | AI Foundations | [Publication](https://doi.org/10.21236/ada179451) |
+| 1987 | acceleration sensor | AI Infrastructure | [Publication](https://doi.org/10.4271/870474) |
+| 1987 | acoustic modeling | Speech & Audio | [Publication](https://doi.org/10.21236/ada188529) |
+| 1987 | Active Set Method | Mathematics | [Publication](https://doi.org/10.1007/bf02591738) |
+| 1987 | adaptive histogram equalization | Computer Vision | [Publication](https://doi.org/10.1016/s0734-189x(87)80156-1) |
+| 1987 | Adaptive Thresholding | Computer Vision | [Publication](https://doi.org/10.1007/978-1-4613-1971-9_12) |
+| 1987 | AG News | Datasets & Benchmarks | [Publication](https://doi.org/10.4148/1051-0834.1594) |
+| 1987 | airborne sar | AI Infrastructure | [Publication](https://doi.org/10.1016/0273-1177(87)90325-5) |
+| 1987 | algebraic riccati equations | Mathematics | [Publication](https://doi.org/10.1109/cdc.1987.272505) |

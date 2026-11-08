@@ -1,510 +1,512 @@
-# Chronological Keywords — Page 20/41
+# Batch 20/41 — Historical Keywords
 
-500 records from 2000 – 2001. Original IDs unchanged.
+**500 keywords**, sorted chronologically (2000 – 2001). The master CSV retains the original permanent IDs.
 
-[Full chronology](../README.md) | [Master inventory](../../data/KEYWORD_INVENTORY.csv)
+[All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
-Unstarred source years are not verified first usages; ★ inferred; ★★ speculative.
+**Year key:** plain = documented source year (not proven original use); ★ = estimate; ★★ = highly speculative guess without direct keyword evidence.
 
-| ID | Keyword | Field | Year | Evidence | Reference |
-|---|---|---|---|---|---|
-| AIH-15385 | hand geometry | AI Safety | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0969-4765(00)04005-4) |
-| AIH-15235 | handheld devices | AI Applications | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-39959-3_14) |
-| AIH-08497 | Hash Function | Mathematics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/1-4020-0613-6_8252) |
-| AIH-18084 | head pose | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada434817) |
-| AIH-16100 | heterogeneous network environments | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/sc.2000.10013) |
-| AIH-07753 | Hierarchical Clustering | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781482273977-30) |
-| AIH-10450 | high availability | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9780203997611-16) |
-| AIH-19754 | home networking | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s1353-4858(00)10007-8) |
-| AIH-05190 | Hot Path | Programming & Software | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/356989.357008) |
-| AIH-11528 | human motion | Robotics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/humo.2000.897362) |
-| AIH-13565 | hybrid recommender systems | Information Retrieval | 2000 | Dated publication (not proven term origin) | [Source](https://openalex.org/W177624111) |
-| AIH-10632 | hyperspectral imagery | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/18.857796) |
-| AIH-17242 | identity authentication | AI Safety | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/1-4020-0613-6_8581) |
-| AIH-06964 | Identity Mapping | Deep Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1353/nlh.2000.0045) |
-| AIH-18095 | image binarization | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0031-3203(99)00055-2) |
-| AIH-12410 | image compression algorithms | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15760/etd.6697) |
-| AIH-10637 | image features | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420042382.ch10) |
-| AIH-17546 | image hashing | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://openalex.org/W3106475951) |
-| AIH-13228 | image hiding | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/ip-vis:20000104) |
-| AIH-19777 | impedance bandwidth | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/(sici)1098-2760(20000205)24:3<185::aid-mop12>3.0.co;2-8) |
-| AIH-07926 | Index Rebuild | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/335191.335462) |
-| AIH-14839 | indoor positioning systems | Robotics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15760/etd.6885) |
-| AIH-13031 | information flow control | AI Safety | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/1-4020-0613-6_8931) |
-| AIH-10464 | information privacy | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2139/ssrn.218274) |
-| AIH-15562 | infra-red cameras | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1108/sr.2000.08720dad.011) |
-| AIH-07099 | Input Layer | Deep Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.1469-7793.2000.00031.x) |
-| AIH-05400 | Integration Test | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.6028/nist.ir.6562) |
-| AIH-08939 | Intelligent decision support system (IDSS) | AI Foundations | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4271/2000-01-2106) |
-| AIH-17561 | intensity inhomogeneity | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-540-40899-4_38) |
-| AIH-03259 | Intent Inference | AI Safety | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2514/6.2000-4479) |
-| AIH-02862 | Inter-Rater Reliability | Evaluation & Metrics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15760/etd.567) |
-| AIH-05500 | Interpreter | Programming & Software | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/anb/9780198606697.article.2000294) |
-| AIH-18973 | ip packets | Speech & Audio | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s1389-1286(00)00121-3) |
-| AIH-18294 | iterative detection | Mathematics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4615-4565-1) |
-| AIH-12455 | java virtual machines | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/337449.337483) |
-| AIH-02896 | Joint Attention | Cognitive Science | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5630/jans1981.20.2_1) |
-| AIH-06681 | Knowledge Management | AI Applications | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1108/13673270010350002) |
-| AIH-09039 | Krichevsky–Trofimov estimator | AI Foundations | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/(sici)1520-6440(200011)83:11<56::aid-ecjc6>3.0.co;2-l) |
-| AIH-10158 | language modeling | NLP and LLMs | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1006/csla.2000.0147) |
-| AIH-12474 | learning organizations | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4757-3113-2_9) |
-| AIH-03676 | Leslie Lamport | People & Organizations | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/dmvm-2000-0020) |
-| AIH-04234 | Light Curtain | Robotics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1108/aa.2000.03320bad.004) |
-| AIH-18298 | lightpath | Mathematics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/65.885667) |
-| AIH-05247 | Likert Scale | Data Science | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/10520-022) |
-| AIH-17260 | linear complexity | AI Safety | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/18.825845) |
-| AIH-19859 | linear networks | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15760/etd.6528) |
-| AIH-11016 | link analysis | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15760/etd.3136) |
-| AIH-10651 | local feature | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1115/detc2000/cie-14644) |
-| AIH-14180 | logistic regression model | Mathematics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/0471722146.ch1) |
-| AIH-05309 | Long Format | Data Science | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/1-4020-0613-6_10624) |
-| AIH-07666 | Long-Range Dependency | Deep Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1063/1.59988) |
-| AIH-13044 | malicious codes | AI Safety | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s1353-4858(00)05001-7) |
-| AIH-09224 | Maximum Likelihood Estimation (MLE) | AI Foundations | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.396326) |
-| AIH-15036 | maxwells equations | Speech & Audio | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada387163) |
-| AIH-12004 | mcmc method | AI Foundations | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0031-3203(99)00178-8) |
-| AIH-18649 | mechatronic systems | Robotics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781482298123-8) |
-| AIH-19889 | memory address | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/1-4020-0613-6_11318) |
-| AIH-12527 | mergers and acquisitions | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s1479-361x(2000)1) |
-| AIH-09303 | Mixed Effects Model | Mathematics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4419-0318-1_5) |
-| AIH-10489 | mobile phones | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1787/9789264188235-en) |
-| AIH-16364 | mobility modeling | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15760/etd.6830) |
-| AIH-06370 | Model Lineage | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1641/0006-3568(2000)050[0883:nabpie]2.0.co;2) |
-| AIH-08621 | Monotonic Constraint | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1023/a:1008321216723) |
-| AIH-17622 | motion models | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/763805) |
-| AIH-16377 | multi carrier transmission | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1515/freq.2000.54.1-2.36) |
-| AIH-06524 | Multi-Document Summarization | NLP and LLMs | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3115/992730.992775) |
-| AIH-19243 | multi-user virtual environment | AI Applications | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/355354.355376) |
-| AIH-18318 | multiple access interference | Speech & Audio | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/cp:20000017) |
-| AIH-11027 | multiple classifier systems | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-45014-9) |
-| AIH-18771 | musical performance | Speech & Audio | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5040/9798216032571.ch-005) |
-| AIH-18828 | nakagami-m | Speech & Audio | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/el:20000728) |
-| AIH-10332 | natural language processing systems | AI Foundations | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3115/1117543) |
-| AIH-03646 | Near-Field Speech | Speech & Audio | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/milmed/165.3.168) |
-| AIH-20004 | network codes | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/18.850663) |
-| AIH-16463 | network services | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-1-928994-06-0.x5000-0) |
-| AIH-03270 | Neural Coding | Cognitive Science | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0303-2647(00)00113-1) |
-| AIH-12573 | next generation networks | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2185442344) |
-| AIH-13919 | normalized cuts | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/34.868688) |
-| AIH-09450 | Notice and Explanation | AI Foundations | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/oseo/instance.00237976) |
-| AIH-04143 | Numerical Weather Prediction (NWP) | Science & Healthcare AI | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/s007030070029) |
-| AIH-06924 | Object Detection | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4615-5273-4_2) |
-| AIH-13584 | ontology merging | Information Retrieval | 2000 | Dated publication (not proven term origin) | [Source](https://openalex.org/W32756236) |
-| AIH-20031 | open stubs | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/euma.2000.338629) |
-| AIH-14239 | ordered weighted averaging operator | Mathematics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/(sici)1098-111x(200004)15:4<317::aid-int4>3.0.co;2-j) |
-| AIH-16522 | organic transistor | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/(sici)1521-4095(200002)12:3<227::aid-adma227>3.0.co;2-u) |
-| AIH-08269 | Output Layer | Deep Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.1469-7793.2000.00031.x) |
-| AIH-12609 | overlay network | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5555/1251229.1251243) |
-| AIH-11306 | parallel text | NLP and LLMs | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-94-017-2535-4) |
-| AIH-16557 | partial reconfiguration | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/date.2000.840290) |
-| AIH-09557 | Pathwise Derivative | Mathematics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0167-6687(99)00022-0) |
-| AIH-20098 | peak-to-average power ratios | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/18.868473) |
-| AIH-12622 | peer selection | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e323452004-004) |
-| AIH-11044 | phylogeography | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/j.ctv1nzfgj7.4) |
-| AIH-09564 | PID Controller | AI Foundations | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-7908-1841-3_14) |
-| AIH-08833 | Pipeline Leakage | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781482278934-16) |
-| AIH-04329 | POMDP | Reinforcement Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada486565) |
-| AIH-07384 | Portrait Mode | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/1-4020-0613-6_14318) |
-| AIH-18401 | pos taggers | NLP and LLMs | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.63317/5ebc9zey95z6) |
-| AIH-07395 | Pose Estimation | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada434817) |
-| AIH-18588 | positioning methods | Robotics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/oso/9780195117820.003.0013) |
-| AIH-16612 | post-silicon | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15760/etd.2330) |
-| AIH-03121 | Potential Outcome | Causal Inference | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.31525/ct1-nct03845218) |
-| AIH-16613 | power allocation algorithms | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/26.818869) |
-| AIH-15506 | power distribution network | AI Foundations | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/43.848085) |
-| AIH-04744 | Precision Agriculture | Science & Healthcare AI | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1023/a:1011838806489) |
-| AIH-03057 | Preference Elicitation | Recommender Systems | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-662-06395-8_12) |
-| AIH-08881 | Probabilistic PCA | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5244/c.14.12) |
-| AIH-16629 | processor cores | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/337292.337527) |
-| AIH-08582 | Pruning | Deep Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.48550/arxiv.cs/0006025) |
-| AIH-06932 | Publish-Subscribe | Programming & Software | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada444645) |
-| AIH-04746 | Quadrature Amplitude Modulation (QAM) | Signal & Information Theory | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.382883) |
-| AIH-07630 | Quality-Adjusted Life Year (QALY) | AI Applications | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1097/00001648-200007000-00235) |
-| AIH-04035 | Query-Biased Summarization | Information Retrieval | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/0824-7935.00128) |
-| AIH-09695 | R-Squared | Mathematics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5951/mt.93.3.0230) |
-| AIH-18163 | range size | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/9780470999592.ch3) |
-| AIH-15797 | re-keying | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/352600.352637) |
-| AIH-15527 | real-time application | AI Foundations | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/350000/348564/a10-mantegazza.html) |
-| AIH-15861 | receive antennas | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/8.901270) |
-| AIH-13603 | recommendation algorithms | Information Retrieval | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/352871.352887) |
-| AIH-19103 | recursive least square algorithms | Speech & Audio | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/89.861382) |
-| AIH-07052 | Refactoring | Programming & Software | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15760/etd.2671) |
-| AIH-18497 | refactoring tools | Programming & Software | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15760/etd.2671) |
-| AIH-08634 | Reference Model | Deep Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420000078-5) |
-| AIH-09745 | Regression to the Mean | Mathematics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0899-9007(99)00218-x) |
-| AIH-07740 | Remote Patient Monitoring (RPM) | AI Applications | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15760/etd.7379) |
-| AIH-06958 | Reserved Capacity | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1239/aap/1013540245) |
-| AIH-14275 | resource augmentation | Mathematics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/1099-1425(200009/10)3:5<249::aid-jos46>3.0.co;2-9) |
-| AIH-16294 | reversible circuits | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15760/etd.2299) |
-| AIH-18699 | robot localization | Robotics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15760/etd.1528) |
-| AIH-11651 | robust watermarking scheme | Speech & Audio | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0167-8655(99)00141-5) |
-| AIH-12718 | routing table | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/1-4020-0613-6_16527) |
-| AIH-06324 | Saddle Point Problem | Mathematics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0893-9659(00)00024-0) |
-| AIH-16774 | secret key | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.17487/rfc2930) |
-| AIH-12733 | security architecture | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420031034.ch1) |
-| AIH-12736 | security management | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9780203325438.sec3) |
-| AIH-12744 | security protocols | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/10720107_17) |
-| AIH-17723 | segmentation evaluation | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada453815) |
-| AIH-13358 | segmentation methods | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4615-4651-1_3) |
-| AIH-17931 | selection, genetic | Data Science | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1046/j.1420-9101.2000.00218.x) |
-| AIH-05565 | Semantic Kernel | Tools & Frameworks | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ijcnn.2000.861458) |
-| AIH-06326 | Semantic Mapping | Robotics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15760/etd.6551) |
-| AIH-13525 | semi-global | Deep Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1142/9789812792082_0015) |
-| AIH-18176 | sentence extraction | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3115/1117575.1117580) |
-| AIH-07444 | Separation of Concerns | Programming & Software | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/369275.369281) |
-| AIH-13367 | shape contexts | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/ivl.2000.853834) |
-| AIH-08818 | Sigmoid Function | Deep Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2352/issn.2169-4451.2000.16.1.art00065_2) |
-| AIH-15119 | signal distortion | Speech & Audio | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/1-4020-0613-6_17354) |
-| AIH-08830 | Simplicity Bias | Deep Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-45164-1_23) |
-| AIH-19134 | smart antennas | Speech & Audio | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/74.848965) |
-| AIH-13079 | smart card | AI Safety | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-98052-7_1) |
-| AIH-12055 | smart environments | AI Foundations | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4471-0743-9_8) |
-| AIH-15564 | smart homes | AI Foundations | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1258/1357633001933871) |
-| AIH-09169 | Soft Margin | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.7551/mitpress/1113.003.0026) |
-| AIH-12060 | softcomputing techniques | AI Foundations | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1524/auto.2000.48.11.529) |
-| AIH-12785 | software product lines | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4615-4339-8) |
-| AIH-15131 | sound reproduction | Speech & Audio | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4419-8776-1_2) |
-| AIH-12793 | spectrum bands | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1126/science.288.5474.2107) |
-| AIH-15153 | speech recognition software | Speech & Audio | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2307/3587748) |
-| AIH-11329 | statistical language models | NLP and LLMs | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21437/icslp.2000-431) |
-| AIH-10150 | statistical learning | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4757-3264-1_8) |
-| AIH-18377 | statistical static timing analysis | Mathematics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/332357.332385) |
-| AIH-11565 | stereo cameras | Robotics | 2000 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2157917609) |
-| AIH-07889 | Stop Word | NLP and LLMs | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/pl00013551) |
-| AIH-12802 | storage management | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420031065-62) |
-| AIH-07899 | Straight-Through Processing | NLP and LLMs | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9780203997611-51) |
-| AIH-10005 | Strongly Connected Component | Mathematics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-40922-x_4) |
-| AIH-11072 | supervised machine learning | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.15760/etd.2097) |
-| AIH-05846 | Symbolic Execution | Security & Privacy | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/1-4020-0613-6_18741) |
-| AIH-16902 | synchronous system | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/1-4020-0613-6_18822) |
-| AIH-14611 | system requirements | Programming & Software | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/804765) |
-| AIH-16913 | system-on-chip | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/iwv.2000.844519) |
-| AIH-16929 | tcp protocol | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2514/6.2000-1169) |
-| AIH-16944 | terrestrial networks | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s1389-1286(00)00128-6) |
-| AIH-13717 | text localization | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-59802-9_21) |
-| AIH-05733 | The Stack | Datasets & Benchmarks | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.17487/rfc2767) |
-| AIH-07774 | Thread Pool | Programming & Software | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/346152.346320) |
-| AIH-09994 | Throughput | AI Foundations | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420025514.ch14) |
-| AIH-16989 | transport layer | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/b12387-14) |
-| AIH-15300 | ubiquitous computing environment | AI Applications | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-39959-3_16) |
-| AIH-14628 | uml models | Programming & Software | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-40011-7_19) |
-| AIH-14629 | uml profile | Programming & Software | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-40011-7_8) |
-| AIH-17007 | underwater acoustic networks | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada486412) |
-| AIH-17011 | unicast routing | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/90.842145) |
-| AIH-07650 | Unified Memory | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.17487/rfc3018) |
-| AIH-18206 | video collections | Machine Learning | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1108/lr.2000.49.1.40.7) |
-| AIH-17349 | video surveillance systems | AI Safety | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4615-4327-5_18) |
-| AIH-17820 | video watermarking | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0928-1479(00)80014-5) |
-| AIH-17822 | video-transcoding | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420037562.ch16) |
-| AIH-11818 | virtual communities | AI Applications | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.7551/mitpress/7105.003.0014) |
-| AIH-11822 | virtual human | AI Applications | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1108/k.2000.06729aae.007) |
-| AIH-15314 | virtual keyboard | AI Applications | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/354401.354424) |
-| AIH-11827 | virtual organizations | AI Applications | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1108/978-1-60752-881-420251015) |
-| AIH-06266 | Virtual Screening | Science & Healthcare AI | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/9783527613083.ch1) |
-| AIH-13485 | visual exploration | Data Science | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-35504-7_5) |
-| AIH-10692 | voxel based morphometry | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1006/nimg.2000.0582) |
-| AIH-08409 | Voxel Grid | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0730-725x(99)00108-3) |
-| AIH-08414 | Watermark Detection | Generative AI | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/10719724_8) |
-| AIH-13431 | watermarking schemes | Computer Vision | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/79.879339) |
-| AIH-12906 | wavelength | AI Infrastructure | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada379010) |
-| AIH-15324 | web accessibility | AI Applications | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781482287134-22) |
-| AIH-10884 | web information | Information Retrieval | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/wise.2000.882837) |
-| AIH-13632 | web searches | Information Retrieval | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/2.881694) |
-| AIH-18396 | winner determination | Mathematics | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0167-9236(99)00066-4) |
-| AIH-08435 | Workforce Planning | AI Applications | 2000 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1071/ah000008) |
-| AIH-04555 | Forward Diffusion Process | Generative AI | 2000 ★ | Estimated ★, related scholarly evidence | [Source](https://doi.org/10.5281/zenodo.37662) |
-| AIH-03525 | Sensitivity Analysis for Confounding | Causal Inference | 2000 ★ | Estimated ★, related scholarly evidence | [Source](https://doi.org/10.1007/978-1-4612-1284-3_1) |
-| AIH-00119 | A/B Test for Models | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19380 | access routers | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13492 | adaptive neural control | Deep Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00943 | Adverse Outcome Notification | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12965 | anonymous communication | AI Safety | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02273 | Applicability Boundary | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00712 | Attribute Leakage | Generative AI | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01944 | Autonomous Coding Agent | AI Applications | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13111 | autonomous driving | Computer Vision | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00724 | Autonomous Weapon System | Robotics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13116 | background subtraction method | Computer Vision | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03943 | Backward Compatibility Commitment | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01735 | Batch Size Frontier | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00798 | Batch Size Scaling Rule | Mathematics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11864 | bayesian classifiers | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00928 | Blast Radius of a Change | Programming & Software | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18230 | blind identification | Mathematics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18231 | blind identifications | Mathematics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03224 | Boundary | Mathematics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18437 | box and line | Programming & Software | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15735 | camera phone | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01428 | Cascaded Speech Translation | Speech & Audio | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01675 | Checkpoint Format | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03101 | Class-Incremental Learning | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10919 | clustering algorithms | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00844 | Cognitive Load | Cognitive Science | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00882 | Cognitive Offloading | Cognitive Science | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19217 | collaborative softwares | AI Applications | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14913 | collision detection algorithm | Speech & Audio | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05239 | Commitment Scheme | Mathematics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01981 | Compensating Control | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18014 | conservation status | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02714 | Consistency in Style | Programming & Software | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02271 | Constituency Parsing | NLP and LLMs | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07058 | Continuous Monitoring Requirement | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19228 | cooperative work | AI Applications | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02916 | Creative Labour Market | Generative AI | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05069 | Curse of Dimensionality in Search | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17434 | curve evolution | Computer Vision | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02252 | Data Leakage | Data Science | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07383 | Data Lineage | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13732 | data perturbation | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12272 | data security | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10951 | dehalococcoides | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12989 | denial of service (dos) | AI Safety | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18857 | dialogue | Speech & Audio | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17205 | diffie-hellman problem | AI Safety | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03487 | Directional Expectation Test | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14088 | discrete event system | Mathematics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17211 | discretionary access control | AI Safety | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15917 | distributed coordination functions | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15403 | distribution networks | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03905 | Document Classification Pipeline | NLP and LLMs | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15948 | dynamic security | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14944 | edge detection algorithms | Speech & Audio | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02112 | End-to-End Speech Translation | Speech & Audio | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18032 | endemic | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13759 | endemic species | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18033 | endemism | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10201 | epistemic logic | Agentic AI | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18035 | epsilonproteobacteria | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04212 | Error Budget for Changes | Programming & Software | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15415 | estimation of distribution algorithms | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15421 | evolutionary computations | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02316 | Export Control | AI Safety | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01908 | Extraneous Cognitive Load | Cognitive Science | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02178 | F-Beta Score | Evaluation & Metrics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08446 | F1 Score | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04405 | Fairness Regression Test | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13891 | farnoquinone | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02465 | Frame Stacking | Reinforcement Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10983 | fuzzy c-means clustering | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08170 | Gaussian Quadrature | Mathematics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18067 | gemmatimonadetes | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06336 | Global Batch Size | Deep Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15450 | graphical modeling | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11968 | group support systems | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02453 | Hann Window | Signal & Information Theory | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08492 | Hash Collision Resistance | Mathematics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07742 | Hierarchical Classification | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19750 | high mobility | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05355 | Historical Document Processing | NLP and LLMs | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14751 | human motion tracking | Robotics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13229 | image identification | Computer Vision | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14821 | indoor navigation system | Robotics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03185 | Input-Output Safeguard | AI Safety | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16173 | intellectual property cores | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08943 | Intelligent word recognition (IWR) | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05805 | Intent Prediction for Agents | Computer Vision | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08955 | Inter-Annotator Agreement | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02858 | Intrinsic Cognitive Load | Cognitive Science | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05554 | Invariant Test for Models | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13912 | iucn | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13925 | iucn red list | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17249 | java card | AI Safety | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04024 | Joint Space | Robotics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06649 | Knowledge Base Article | AI Applications | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09051 | Language Model (LM) | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12476 | learning outcomes | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18299 | lightpaths | Mathematics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16263 | look-up table | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17469 | lossless | Computer Vision | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13257 | low-level image features | Computer Vision | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09187 | Machiavellian intelligence hypothesis | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03803 | Manipulation | AI Safety | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09215 | Masked Language Model (MLM) | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03237 | Measurement Reliability | Evaluation & Metrics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18127 | menaquinone | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11019 | microbispora | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03810 | Microscaling Format (MX) | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06217 | Minimum Functionality Test | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06453 | Mixed-Initiative Dialogue | NLP and LLMs | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13901 | mlst | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16343 | mobile handsets | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10488 | mobile phone | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16348 | mobile phone applications | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04827 | Moment | Mathematics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14778 | motion capture data | Robotics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19957 | multi carrier | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13907 | multiple data streams | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11048 | multiple kernels | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19036 | musical instruments | Speech & Audio | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18131 | mycological typing techniques | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-20006 | network selection | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03307 | Neural Network Models of Cognition | Cognitive Science | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03344 | Neural Plasticity | Cognitive Science | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11049 | nitrospirae | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13917 | nomenclature | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05074 | Outcome Evaluation | Agentic AI | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06966 | Parent Document Retrieval | NLP and LLMs | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05753 | Pareto Front | Mathematics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09539 | Parsing | Mathematics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11308 | parsing algorithm | NLP and LLMs | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-20086 | partial order reductions | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08821 | Parzen Window | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-20094 | password guessing attack | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07292 | Patient-Reported Outcome (PRO) | AI Applications | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18686 | positioning systems | Robotics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18149 | postglacial | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03925 | Prevalence-Adjusted Metric | Evaluation & Metrics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07034 | Preventive Control | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13060 | pseudorandom sequences | AI Safety | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09679 | Quadrature | Mathematics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16692 | radio transmission | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04243 | Rater Pool Diversity | Evaluation & Metrics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04431 | Redress Mechanism | AI Safety | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13958 | refugium | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07194 | Remote Cache Hit Rate | Programming & Software | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04563 | Researcher Access Programme | AI Safety | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05863 | Revolute Joint | Robotics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16756 | run time reconfiguration | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07486 | Safety Regression Test | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16765 | schedulability test | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09808 | Score-Based Model | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06304 | Scout (autonomous boat) | Robotics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12732 | security analysis | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17049 | security notion | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12747 | security threats | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16784 | security vulnerabilities | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03462 | Selection Bias in Logs | Recommender Systems | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04205 | Semantic Priming | Cognitive Science | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07841 | Shape from Shading | Computer Vision | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05663 | Simulation Environment | Reinforcement Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19357 | smart-home system | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19135 | smart-phone applications | Speech & Audio | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18189 | species inventory | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07941 | Spurious Background Reliance | Computer Vision | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09908 | State Estimation | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11328 | statistical language modeling | NLP and LLMs | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07362 | Stream | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10001 | Strided Array | Mathematics | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07642 | Strong Consistency | Programming & Software | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05949 | Structure-Activity Relationship (SAR) | Science & Healthcare AI | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05207 | Structured Access | AI Safety | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17333 | surveillance cameras | AI Safety | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07763 | Thread | Programming & Software | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09996 | Throughput Ceiling | AI Foundations | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16977 | transmission capacities | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16978 | transmission capacity | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18201 | type strain | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17009 | underwater image | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12865 | underwater imaging | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17012 | unicast | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08019 | Unit Test for Data | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13412 | unmixing | Computer Vision | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09102 | Verbosity Bias | Deep Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07925 | Version Control (VCS) | Programming & Software | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14011 | vicariance | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12889 | virtual machine monitor | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12892 | virtual network | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13755 | vitamin k 2 | Machine Learning | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08401 | Voxel | Computer Vision | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17353 | web server | AI Safety | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12913 | web-based learning | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07727 | WebDataset Format | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12936 | wormhole attack | AI Infrastructure | 2000 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15601 | 3g networks | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/0470841729.ch7) |
-| AIH-12960 | access control policies | AI Safety | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/373256.373280) |
-| AIH-15621 | ad hoc routing protocol | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://openalex.org/W1769248355) |
-| AIH-10340 | african american | Data Science | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/acref/9780195301731.013.50970) |
-| AIH-10101 | agent-based systems | Agentic AI | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-45484-5_30) |
-| AIH-00214 | Airflow | Tools & Frameworks | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1034/j.1600-0668.2001.110407.x) |
-| AIH-12105 | alert correlation | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-45474-8_4) |
-| AIH-17363 | apparent diffusion coefficient | Computer Vision | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1097/0006123-200105000-00033) |
-| AIH-14410 | architecture reconstruction | Programming & Software | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada388707) |
-| AIH-14417 | aspect-orientation | Programming & Software | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/ip-sen:20010732) |
-| AIH-18785 | audio content | Speech & Audio | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/89.917689) |
-| AIH-18786 | audio data | Speech & Audio | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4757-3339-6_4) |
-| AIH-03366 | Augmentation | AI Foundations | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/gmo/9781561592630.article.01515) |
-| AIH-00684 | Barrier Function | Mathematics | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/b14036-5) |
-| AIH-18797 | base station antennas | Speech & Audio | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/cp:20010240) |
-| AIH-00439 | Basis Pursuit | Signal & Information Theory | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1137/s003614450037906x) |
-| AIH-00533 | Bayesian Network (BN) | Mathematics | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/mop.1212) |
-| AIH-01031 | Behavioural Testing | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0166-4328(01)00283-2) |
-| AIH-10816 | bilateral teleoperation | Robotics | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.23919/ecc.2001.7076076) |
-| AIH-12974 | biometric | AI Safety | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0969-4765(01)00613-0) |
-| AIH-17153 | biometric authentication | AI Safety | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0969-4765(01)02003-3) |
-| AIH-17160 | biometric technology | AI Safety | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0969-4765(01)00805-0) |
-| AIH-02267 | Blending | Machine Learning | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511551352.006) |
-| AIH-00667 | Blind Source Separation (BSS) | Signal & Information Theory | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.428151) |
-| AIH-19454 | broadcast encryption schemes | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s1571-0653(04)00155-6) |
-| AIH-10351 | business intelligence | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5040/9798400644160.0008) |
-| AIH-18814 | carrier frequency offsets | Speech & Audio | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/4234.922764) |
-| AIH-02837 | Category utility | Machine Learning | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1023/a:1010924920739) |
-| AIH-15745 | cell phone | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4135/cqresrre20010316) |
-| AIH-14911 | channel shortening | Speech & Audio | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/26.905867) |
-| AIH-17184 | chaotic synchronization | AI Safety | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1142/9789812811660_0015) |
-| AIH-11324 | chattering phenomenon | Robotics | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf03184373) |
-| AIH-19501 | clock offset | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.11728/cjss2001.01.20010106) |
-| AIH-00503 | Cloth Simulation | Computer Graphics | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0097-8493(01)00062-0) |
-| AIH-10277 | cognitive systems | AI Foundations | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s1389-0417(01)00019-5) |
-| AIH-13543 | collaborative filtering methods | Information Retrieval | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-45336-9_35) |
-| AIH-11897 | common sense knowledge | AI Foundations | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada397614) |
-| AIH-00767 | Common Support | Causal Inference | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2139/ssrn.259239) |
-| AIH-11898 | common-sense knowledge bases | AI Foundations | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada397614) |
-| AIH-10369 | communities of practice | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-663-19810-9_2) |
-| AIH-01256 | Compliance | Robotics | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420032406.ch2) |
-| AIH-19517 | composite services | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-44809-8_8) |
-| AIH-19518 | composition of services | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1023/a:1012711025262) |
-| AIH-13721 | continuous queries | Machine Learning | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/603867.603884) |
-| AIH-06063 | Convenience Sampling | Mathematics | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e413802005-074) |
-| AIH-02917 | Corpus Linguistics | NLP and LLMs | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1075/ijcl.6.3.11teu) |
-| AIH-14442 | costs saving | Programming & Software | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0921-8009(00)00228-7) |
-| AIH-02980 | Coupling | Programming & Software | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/gmo/9781561592630.article.15368) |
-| AIH-06494 | Cross Product | Mathematics | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511526022.009) |
-| AIH-00693 | Culling | Computer Graphics | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-7091-6215-6_10) |
-| AIH-01872 | Customer Lifetime Value (CLV) | Data Science | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-322-94626-3_11) |
-| AIH-14924 | data association | Speech & Audio | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420038545-14) |
-| AIH-10146 | data mining | Machine Learning | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420040616-11) |
-| AIH-13731 | data mining process | Machine Learning | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-155558242-5/50004-8) |
-| AIH-10952 | data warehouses | Machine Learning | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420040616-7) |
-| AIH-03315 | Defensive Programming | Programming & Software | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4302-0909-6_37) |
-| AIH-11568 | delay-dependent robust stability | Robotics | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/el:20010632) |
-| AIH-19570 | delivery delay | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://openalex.org/W1428479890) |
-| AIH-15899 | differentiated service | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-45512-4_3) |
-| AIH-17454 | digital cinema | Computer Vision | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5040/9781838710880.ch-025) |
-| AIH-17456 | digital content | Computer Vision | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4471-0293-9_1) |
-| AIH-13164 | digital rights management (drm) | Computer Vision | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1045/june2001-iannella) |
-| AIH-06053 | Dimensionality Reduction for Indexing | Machine Learning | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/376284.375680) |
-| AIH-13587 | discrete elements | Speech & Audio | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1006/rwvb.2001.0108) |
-| AIH-03147 | Disparity Map | Computer Vision | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/el:20010457) |
-| AIH-19595 | distributed generation system | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/pess.2001.970073) |
-| AIH-19596 | distributed generators | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/pess.2001.970196) |
-| AIH-03491 | Distribution Check | Data Science | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1163/9789004475465_022) |
-| AIH-18877 | diversity-multiplexing trade-off | Speech & Audio | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511616815.009) |
-| AIH-10404 | e-procurement | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1680/paps.30220.0013) |
-| AIH-19622 | electromagnetic band gaps | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/8.918607) |
-| AIH-15972 | electromechanical devices | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-012269951-1/50006-1) |
-| AIH-12324 | embedded processor | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420041545-25) |
-| AIH-15220 | embodied interaction | AI Applications | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.7551/mitpress/7221.003.0005) |
-| AIH-13760 | energy efficient routing | Machine Learning | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada441033) |
-| AIH-19643 | energy scavenging | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/40.928763) |
-| AIH-15996 | energy-constrained | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/petrology/42.5.999) |
-| AIH-14273 | ergodic capacity | Speech & Audio | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/18.915665) |
-| AIH-10960 | error correcting output code | Machine Learning | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-48219-9_15) |
-| AIH-15424 | evolutionary search | AI Foundations | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4471-0273-1_2) |
-| AIH-08352 | Explicit Knowledge | AI Foundations | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1108/13673270110384455) |
-| AIH-18049 | face tracking | Machine Learning | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icme.2001.1237699) |
-| AIH-19665 | fast handovers | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/1037107.1037113) |
-| AIH-14192 | fastica algorithms | Mathematics | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.32614/cran.package.fastica) |
-| AIH-15224 | fluid simulations | AI Applications | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-56535-9_2) |
-| AIH-19677 | forward-secure | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/501983.502015) |
-| AIH-17502 | fractional anisotropy | Computer Vision | 2001 | Dated publication (not proven term origin) | [Source](https://openalex.org/W1926586119) |
-| AIH-17504 | fragile watermarking | Computer Vision | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.435398) |
-| AIH-18923 | frequency offset estimation | Speech & Audio | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/4234.917102) |
-| AIH-16055 | frequency selective surface (fss) | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/cp:20010394) |
-| AIH-18932 | full-wave simulations | Speech & Audio | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1063/1.1424223) |
-| AIH-08611 | Fuzzy agent | AI Foundations | 2001 | Dated publication (not proven term origin) | [Source](https://openalex.org/W908825989) |
-| AIH-03079 | Gait | Robotics | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0966-6362(01)00170-9) |
-| AIH-02737 | Gaussian Copula | Mathematics | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2139/ssrn.291140) |
-| AIH-13453 | gene expression profiling | Data Science | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1017/cbo9780511545849.009) |
-| AIH-16066 | generalized multiprotocol label switching | AI Infrastructure | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/35.894389) |
-| AIH-14743 | global exponential stability | Robotics | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0893-6080(01)00059-4) |
-| AIH-02886 | Governance Committee | AI Safety | 2001 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e388192004-040) |
+**Reference key:** Publication = dated source; Related source = indirect evidence for ★; Indirect context = source about OTHER terms for ★★, not proof of this keyword's date.
+
+| Year | Keyword | Field | Reference |
+|---|---|---|---|
+| 2000 | hand geometry | AI Safety | [Publication](https://doi.org/10.1016/s0969-4765(00)04005-4) |
+| 2000 | handheld devices | AI Applications | [Publication](https://doi.org/10.1007/3-540-39959-3_14) |
+| 2000 | Hash Function | Mathematics | [Publication](https://doi.org/10.1007/1-4020-0613-6_8252) |
+| 2000 | head pose | Machine Learning | [Publication](https://doi.org/10.21236/ada434817) |
+| 2000 | heterogeneous network environments | AI Infrastructure | [Publication](https://doi.org/10.1109/sc.2000.10013) |
+| 2000 | Hierarchical Clustering | Machine Learning | [Publication](https://doi.org/10.1201/9781482273977-30) |
+| 2000 | high availability | AI Infrastructure | [Publication](https://doi.org/10.1201/9780203997611-16) |
+| 2000 | home networking | AI Infrastructure | [Publication](https://doi.org/10.1016/s1353-4858(00)10007-8) |
+| 2000 | Hot Path | Programming & Software | [Publication](https://doi.org/10.1145/356989.357008) |
+| 2000 | human motion | Robotics | [Publication](https://doi.org/10.1109/humo.2000.897362) |
+| 2000 | hybrid recommender systems | Information Retrieval | [Publication](https://openalex.org/W177624111) |
+| 2000 | hyperspectral imagery | Computer Vision | [Publication](https://doi.org/10.1109/18.857796) |
+| 2000 | identity authentication | AI Safety | [Publication](https://doi.org/10.1007/1-4020-0613-6_8581) |
+| 2000 | Identity Mapping | Deep Learning | [Publication](https://doi.org/10.1353/nlh.2000.0045) |
+| 2000 | image binarization | Machine Learning | [Publication](https://doi.org/10.1016/s0031-3203(99)00055-2) |
+| 2000 | image compression algorithms | AI Infrastructure | [Publication](https://doi.org/10.15760/etd.6697) |
+| 2000 | image features | Computer Vision | [Publication](https://doi.org/10.1201/9781420042382.ch10) |
+| 2000 | image hashing | Computer Vision | [Publication](https://openalex.org/W3106475951) |
+| 2000 | image hiding | Computer Vision | [Publication](https://doi.org/10.1049/ip-vis:20000104) |
+| 2000 | impedance bandwidth | AI Infrastructure | [Publication](https://doi.org/10.1002/(sici)1098-2760(20000205)24:3<185::aid-mop12>3.0.co;2-8) |
+| 2000 | Index Rebuild | Machine Learning | [Publication](https://doi.org/10.1145/335191.335462) |
+| 2000 | indoor positioning systems | Robotics | [Publication](https://doi.org/10.15760/etd.6885) |
+| 2000 | information flow control | AI Safety | [Publication](https://doi.org/10.1007/1-4020-0613-6_8931) |
+| 2000 | information privacy | AI Infrastructure | [Publication](https://doi.org/10.2139/ssrn.218274) |
+| 2000 | infra-red cameras | Computer Vision | [Publication](https://doi.org/10.1108/sr.2000.08720dad.011) |
+| 2000 | Input Layer | Deep Learning | [Publication](https://doi.org/10.1111/j.1469-7793.2000.00031.x) |
+| 2000 | Integration Test | AI Infrastructure | [Publication](https://doi.org/10.6028/nist.ir.6562) |
+| 2000 | Intelligent decision support system (IDSS) | AI Foundations | [Publication](https://doi.org/10.4271/2000-01-2106) |
+| 2000 | intensity inhomogeneity | Computer Vision | [Publication](https://doi.org/10.1007/978-3-540-40899-4_38) |
+| 2000 | Intent Inference | AI Safety | [Publication](https://doi.org/10.2514/6.2000-4479) |
+| 2000 | Inter-Rater Reliability | Evaluation & Metrics | [Publication](https://doi.org/10.15760/etd.567) |
+| 2000 | Interpreter | Programming & Software | [Publication](https://doi.org/10.1093/anb/9780198606697.article.2000294) |
+| 2000 | ip packets | Speech & Audio | [Publication](https://doi.org/10.1016/s1389-1286(00)00121-3) |
+| 2000 | iterative detection | Mathematics | [Publication](https://doi.org/10.1007/978-1-4615-4565-1) |
+| 2000 | java virtual machines | AI Infrastructure | [Publication](https://doi.org/10.1145/337449.337483) |
+| 2000 | Joint Attention | Cognitive Science | [Publication](https://doi.org/10.5630/jans1981.20.2_1) |
+| 2000 | Knowledge Management | AI Applications | [Publication](https://doi.org/10.1108/13673270010350002) |
+| 2000 | Krichevsky–Trofimov estimator | AI Foundations | [Publication](https://doi.org/10.1002/(sici)1520-6440(200011)83:11<56::aid-ecjc6>3.0.co;2-l) |
+| 2000 | language modeling | NLP and LLMs | [Publication](https://doi.org/10.1006/csla.2000.0147) |
+| 2000 | learning organizations | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4757-3113-2_9) |
+| 2000 | Leslie Lamport | People & Organizations | [Publication](https://doi.org/10.1515/dmvm-2000-0020) |
+| 2000 | Light Curtain | Robotics | [Publication](https://doi.org/10.1108/aa.2000.03320bad.004) |
+| 2000 | lightpath | Mathematics | [Publication](https://doi.org/10.1109/65.885667) |
+| 2000 | Likert Scale | Data Science | [Publication](https://doi.org/10.1037/10520-022) |
+| 2000 | linear complexity | AI Safety | [Publication](https://doi.org/10.1109/18.825845) |
+| 2000 | linear networks | AI Infrastructure | [Publication](https://doi.org/10.15760/etd.6528) |
+| 2000 | link analysis | Machine Learning | [Publication](https://doi.org/10.15760/etd.3136) |
+| 2000 | local feature | Computer Vision | [Publication](https://doi.org/10.1115/detc2000/cie-14644) |
+| 2000 | logistic regression model | Mathematics | [Publication](https://doi.org/10.1002/0471722146.ch1) |
+| 2000 | Long Format | Data Science | [Publication](https://doi.org/10.1007/1-4020-0613-6_10624) |
+| 2000 | Long-Range Dependency | Deep Learning | [Publication](https://doi.org/10.1063/1.59988) |
+| 2000 | malicious codes | AI Safety | [Publication](https://doi.org/10.1016/s1353-4858(00)05001-7) |
+| 2000 | Maximum Likelihood Estimation (MLE) | AI Foundations | [Publication](https://doi.org/10.1117/12.396326) |
+| 2000 | maxwells equations | Speech & Audio | [Publication](https://doi.org/10.21236/ada387163) |
+| 2000 | mcmc method | AI Foundations | [Publication](https://doi.org/10.1016/s0031-3203(99)00178-8) |
+| 2000 | mechatronic systems | Robotics | [Publication](https://doi.org/10.1201/9781482298123-8) |
+| 2000 | memory address | AI Infrastructure | [Publication](https://doi.org/10.1007/1-4020-0613-6_11318) |
+| 2000 | mergers and acquisitions | AI Infrastructure | [Publication](https://doi.org/10.1016/s1479-361x(2000)1) |
+| 2000 | Mixed Effects Model | Mathematics | [Publication](https://doi.org/10.1007/978-1-4419-0318-1_5) |
+| 2000 | mobile phones | AI Infrastructure | [Publication](https://doi.org/10.1787/9789264188235-en) |
+| 2000 | mobility modeling | AI Infrastructure | [Publication](https://doi.org/10.15760/etd.6830) |
+| 2000 | Model Lineage | AI Infrastructure | [Publication](https://doi.org/10.1641/0006-3568(2000)050[0883:nabpie]2.0.co;2) |
+| 2000 | Monotonic Constraint | Machine Learning | [Publication](https://doi.org/10.1023/a:1008321216723) |
+| 2000 | motion models | Computer Vision | [Publication](https://doi.org/10.2172/763805) |
+| 2000 | multi carrier transmission | AI Infrastructure | [Publication](https://doi.org/10.1515/freq.2000.54.1-2.36) |
+| 2000 | Multi-Document Summarization | NLP and LLMs | [Publication](https://doi.org/10.3115/992730.992775) |
+| 2000 | multi-user virtual environment | AI Applications | [Publication](https://doi.org/10.1145/355354.355376) |
+| 2000 | multiple access interference | Speech & Audio | [Publication](https://doi.org/10.1049/cp:20000017) |
+| 2000 | multiple classifier systems | Machine Learning | [Publication](https://doi.org/10.1007/3-540-45014-9) |
+| 2000 | musical performance | Speech & Audio | [Publication](https://doi.org/10.5040/9798216032571.ch-005) |
+| 2000 | nakagami-m | Speech & Audio | [Publication](https://doi.org/10.1049/el:20000728) |
+| 2000 | natural language processing systems | AI Foundations | [Publication](https://doi.org/10.3115/1117543) |
+| 2000 | Near-Field Speech | Speech & Audio | [Publication](https://doi.org/10.1093/milmed/165.3.168) |
+| 2000 | network codes | AI Infrastructure | [Publication](https://doi.org/10.1109/18.850663) |
+| 2000 | network services | AI Infrastructure | [Publication](https://doi.org/10.1016/b978-1-928994-06-0.x5000-0) |
+| 2000 | Neural Coding | Cognitive Science | [Publication](https://doi.org/10.1016/s0303-2647(00)00113-1) |
+| 2000 | next generation networks | AI Infrastructure | [Publication](https://openalex.org/W2185442344) |
+| 2000 | normalized cuts | Machine Learning | [Publication](https://doi.org/10.1109/34.868688) |
+| 2000 | Notice and Explanation | AI Foundations | [Publication](https://doi.org/10.1093/oseo/instance.00237976) |
+| 2000 | Numerical Weather Prediction (NWP) | Science & Healthcare AI | [Publication](https://doi.org/10.1007/s007030070029) |
+| 2000 | Object Detection | Computer Vision | [Publication](https://doi.org/10.1007/978-1-4615-5273-4_2) |
+| 2000 | ontology merging | Information Retrieval | [Publication](https://openalex.org/W32756236) |
+| 2000 | open stubs | AI Infrastructure | [Publication](https://doi.org/10.1109/euma.2000.338629) |
+| 2000 | ordered weighted averaging operator | Mathematics | [Publication](https://doi.org/10.1002/(sici)1098-111x(200004)15:4<317::aid-int4>3.0.co;2-j) |
+| 2000 | organic transistor | AI Infrastructure | [Publication](https://doi.org/10.1002/(sici)1521-4095(200002)12:3<227::aid-adma227>3.0.co;2-u) |
+| 2000 | Output Layer | Deep Learning | [Publication](https://doi.org/10.1111/j.1469-7793.2000.00031.x) |
+| 2000 | overlay network | AI Infrastructure | [Publication](https://doi.org/10.5555/1251229.1251243) |
+| 2000 | parallel text | NLP and LLMs | [Publication](https://doi.org/10.1007/978-94-017-2535-4) |
+| 2000 | partial reconfiguration | AI Infrastructure | [Publication](https://doi.org/10.1109/date.2000.840290) |
+| 2000 | Pathwise Derivative | Mathematics | [Publication](https://doi.org/10.1016/s0167-6687(99)00022-0) |
+| 2000 | peak-to-average power ratios | AI Infrastructure | [Publication](https://doi.org/10.1109/18.868473) |
+| 2000 | peer selection | AI Infrastructure | [Publication](https://doi.org/10.1037/e323452004-004) |
+| 2000 | phylogeography | Machine Learning | [Publication](https://doi.org/10.2307/j.ctv1nzfgj7.4) |
+| 2000 | PID Controller | AI Foundations | [Publication](https://doi.org/10.1007/978-3-7908-1841-3_14) |
+| 2000 | Pipeline Leakage | Machine Learning | [Publication](https://doi.org/10.1201/9781482278934-16) |
+| 2000 | POMDP | Reinforcement Learning | [Publication](https://doi.org/10.21236/ada486565) |
+| 2000 | Portrait Mode | Computer Vision | [Publication](https://doi.org/10.1007/1-4020-0613-6_14318) |
+| 2000 | pos taggers | NLP and LLMs | [Publication](https://doi.org/10.63317/5ebc9zey95z6) |
+| 2000 | Pose Estimation | Computer Vision | [Publication](https://doi.org/10.21236/ada434817) |
+| 2000 | positioning methods | Robotics | [Publication](https://doi.org/10.1093/oso/9780195117820.003.0013) |
+| 2000 | post-silicon | AI Infrastructure | [Publication](https://doi.org/10.15760/etd.2330) |
+| 2000 | Potential Outcome | Causal Inference | [Publication](https://doi.org/10.31525/ct1-nct03845218) |
+| 2000 | power allocation algorithms | AI Infrastructure | [Publication](https://doi.org/10.1109/26.818869) |
+| 2000 | power distribution network | AI Foundations | [Publication](https://doi.org/10.1109/43.848085) |
+| 2000 | Precision Agriculture | Science & Healthcare AI | [Publication](https://doi.org/10.1023/a:1011838806489) |
+| 2000 | Preference Elicitation | Recommender Systems | [Publication](https://doi.org/10.1007/978-3-662-06395-8_12) |
+| 2000 | Probabilistic PCA | Machine Learning | [Publication](https://doi.org/10.5244/c.14.12) |
+| 2000 | processor cores | AI Infrastructure | [Publication](https://doi.org/10.1145/337292.337527) |
+| 2000 | Pruning | Deep Learning | [Publication](https://doi.org/10.48550/arxiv.cs/0006025) |
+| 2000 | Publish-Subscribe | Programming & Software | [Publication](https://doi.org/10.21236/ada444645) |
+| 2000 | Quadrature Amplitude Modulation (QAM) | Signal & Information Theory | [Publication](https://doi.org/10.1117/12.382883) |
+| 2000 | Quality-Adjusted Life Year (QALY) | AI Applications | [Publication](https://doi.org/10.1097/00001648-200007000-00235) |
+| 2000 | Query-Biased Summarization | Information Retrieval | [Publication](https://doi.org/10.1111/0824-7935.00128) |
+| 2000 | R-Squared | Mathematics | [Publication](https://doi.org/10.5951/mt.93.3.0230) |
+| 2000 | range size | Machine Learning | [Publication](https://doi.org/10.1002/9780470999592.ch3) |
+| 2000 | re-keying | AI Infrastructure | [Publication](https://doi.org/10.1145/352600.352637) |
+| 2000 | real-time application | AI Foundations | [Publication](https://doi.org/10.1145/350000/348564/a10-mantegazza.html) |
+| 2000 | receive antennas | AI Infrastructure | [Publication](https://doi.org/10.1109/8.901270) |
+| 2000 | recommendation algorithms | Information Retrieval | [Publication](https://doi.org/10.1145/352871.352887) |
+| 2000 | recursive least square algorithms | Speech & Audio | [Publication](https://doi.org/10.1109/89.861382) |
+| 2000 | Refactoring | Programming & Software | [Publication](https://doi.org/10.15760/etd.2671) |
+| 2000 | refactoring tools | Programming & Software | [Publication](https://doi.org/10.15760/etd.2671) |
+| 2000 | Reference Model | Deep Learning | [Publication](https://doi.org/10.1201/9781420000078-5) |
+| 2000 | Regression to the Mean | Mathematics | [Publication](https://doi.org/10.1016/s0899-9007(99)00218-x) |
+| 2000 | Remote Patient Monitoring (RPM) | AI Applications | [Publication](https://doi.org/10.15760/etd.7379) |
+| 2000 | Reserved Capacity | AI Infrastructure | [Publication](https://doi.org/10.1239/aap/1013540245) |
+| 2000 | resource augmentation | Mathematics | [Publication](https://doi.org/10.1002/1099-1425(200009/10)3:5<249::aid-jos46>3.0.co;2-9) |
+| 2000 | reversible circuits | AI Infrastructure | [Publication](https://doi.org/10.15760/etd.2299) |
+| 2000 | robot localization | Robotics | [Publication](https://doi.org/10.15760/etd.1528) |
+| 2000 | robust watermarking scheme | Speech & Audio | [Publication](https://doi.org/10.1016/s0167-8655(99)00141-5) |
+| 2000 | routing table | AI Infrastructure | [Publication](https://doi.org/10.1007/1-4020-0613-6_16527) |
+| 2000 | Saddle Point Problem | Mathematics | [Publication](https://doi.org/10.1016/s0893-9659(00)00024-0) |
+| 2000 | secret key | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc2930) |
+| 2000 | security architecture | AI Infrastructure | [Publication](https://doi.org/10.1201/9781420031034.ch1) |
+| 2000 | security management | AI Infrastructure | [Publication](https://doi.org/10.1201/9780203325438.sec3) |
+| 2000 | security protocols | AI Infrastructure | [Publication](https://doi.org/10.1007/10720107_17) |
+| 2000 | segmentation evaluation | Computer Vision | [Publication](https://doi.org/10.21236/ada453815) |
+| 2000 | segmentation methods | Computer Vision | [Publication](https://doi.org/10.1007/978-1-4615-4651-1_3) |
+| 2000 | selection, genetic | Data Science | [Publication](https://doi.org/10.1046/j.1420-9101.2000.00218.x) |
+| 2000 | Semantic Kernel | Tools & Frameworks | [Publication](https://doi.org/10.1109/ijcnn.2000.861458) |
+| 2000 | Semantic Mapping | Robotics | [Publication](https://doi.org/10.15760/etd.6551) |
+| 2000 | semi-global | Deep Learning | [Publication](https://doi.org/10.1142/9789812792082_0015) |
+| 2000 | sentence extraction | Machine Learning | [Publication](https://doi.org/10.3115/1117575.1117580) |
+| 2000 | Separation of Concerns | Programming & Software | [Publication](https://doi.org/10.1145/369275.369281) |
+| 2000 | shape contexts | Computer Vision | [Publication](https://doi.org/10.1109/ivl.2000.853834) |
+| 2000 | Sigmoid Function | Deep Learning | [Publication](https://doi.org/10.2352/issn.2169-4451.2000.16.1.art00065_2) |
+| 2000 | signal distortion | Speech & Audio | [Publication](https://doi.org/10.1007/1-4020-0613-6_17354) |
+| 2000 | Simplicity Bias | Deep Learning | [Publication](https://doi.org/10.1007/3-540-45164-1_23) |
+| 2000 | smart antennas | Speech & Audio | [Publication](https://doi.org/10.1109/74.848965) |
+| 2000 | smart card | AI Safety | [Publication](https://doi.org/10.1007/978-3-642-98052-7_1) |
+| 2000 | smart environments | AI Foundations | [Publication](https://doi.org/10.1007/978-1-4471-0743-9_8) |
+| 2000 | smart homes | AI Foundations | [Publication](https://doi.org/10.1258/1357633001933871) |
+| 2000 | Soft Margin | Machine Learning | [Publication](https://doi.org/10.7551/mitpress/1113.003.0026) |
+| 2000 | softcomputing techniques | AI Foundations | [Publication](https://doi.org/10.1524/auto.2000.48.11.529) |
+| 2000 | software product lines | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4615-4339-8) |
+| 2000 | sound reproduction | Speech & Audio | [Publication](https://doi.org/10.1007/978-1-4419-8776-1_2) |
+| 2000 | spectrum bands | AI Infrastructure | [Publication](https://doi.org/10.1126/science.288.5474.2107) |
+| 2000 | speech recognition software | Speech & Audio | [Publication](https://doi.org/10.2307/3587748) |
+| 2000 | statistical language models | NLP and LLMs | [Publication](https://doi.org/10.21437/icslp.2000-431) |
+| 2000 | statistical learning | Machine Learning | [Publication](https://doi.org/10.1007/978-1-4757-3264-1_8) |
+| 2000 | statistical static timing analysis | Mathematics | [Publication](https://doi.org/10.1145/332357.332385) |
+| 2000 | stereo cameras | Robotics | [Publication](https://openalex.org/W2157917609) |
+| 2000 | Stop Word | NLP and LLMs | [Publication](https://doi.org/10.1007/pl00013551) |
+| 2000 | storage management | AI Infrastructure | [Publication](https://doi.org/10.1201/9781420031065-62) |
+| 2000 | Straight-Through Processing | NLP and LLMs | [Publication](https://doi.org/10.1201/9780203997611-51) |
+| 2000 | Strongly Connected Component | Mathematics | [Publication](https://doi.org/10.1007/3-540-40922-x_4) |
+| 2000 | supervised machine learning | Machine Learning | [Publication](https://doi.org/10.15760/etd.2097) |
+| 2000 | Symbolic Execution | Security & Privacy | [Publication](https://doi.org/10.1007/1-4020-0613-6_18741) |
+| 2000 | synchronous system | AI Infrastructure | [Publication](https://doi.org/10.1007/1-4020-0613-6_18822) |
+| 2000 | system requirements | Programming & Software | [Publication](https://doi.org/10.2172/804765) |
+| 2000 | system-on-chip | AI Infrastructure | [Publication](https://doi.org/10.1109/iwv.2000.844519) |
+| 2000 | tcp protocol | AI Infrastructure | [Publication](https://doi.org/10.2514/6.2000-1169) |
+| 2000 | terrestrial networks | AI Infrastructure | [Publication](https://doi.org/10.1016/s1389-1286(00)00128-6) |
+| 2000 | text localization | Machine Learning | [Publication](https://doi.org/10.1007/978-3-642-59802-9_21) |
+| 2000 | The Stack | Datasets & Benchmarks | [Publication](https://doi.org/10.17487/rfc2767) |
+| 2000 | Thread Pool | Programming & Software | [Publication](https://doi.org/10.1145/346152.346320) |
+| 2000 | Throughput | AI Foundations | [Publication](https://doi.org/10.1201/9781420025514.ch14) |
+| 2000 | transport layer | AI Infrastructure | [Publication](https://doi.org/10.1201/b12387-14) |
+| 2000 | ubiquitous computing environment | AI Applications | [Publication](https://doi.org/10.1007/3-540-39959-3_16) |
+| 2000 | uml models | Programming & Software | [Publication](https://doi.org/10.1007/3-540-40011-7_19) |
+| 2000 | uml profile | Programming & Software | [Publication](https://doi.org/10.1007/3-540-40011-7_8) |
+| 2000 | underwater acoustic networks | AI Infrastructure | [Publication](https://doi.org/10.21236/ada486412) |
+| 2000 | unicast routing | AI Infrastructure | [Publication](https://doi.org/10.1109/90.842145) |
+| 2000 | Unified Memory | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc3018) |
+| 2000 | video collections | Machine Learning | [Publication](https://doi.org/10.1108/lr.2000.49.1.40.7) |
+| 2000 | video surveillance systems | AI Safety | [Publication](https://doi.org/10.1007/978-1-4615-4327-5_18) |
+| 2000 | video watermarking | Computer Vision | [Publication](https://doi.org/10.1016/s0928-1479(00)80014-5) |
+| 2000 | video-transcoding | Computer Vision | [Publication](https://doi.org/10.1201/9781420037562.ch16) |
+| 2000 | virtual communities | AI Applications | [Publication](https://doi.org/10.7551/mitpress/7105.003.0014) |
+| 2000 | virtual human | AI Applications | [Publication](https://doi.org/10.1108/k.2000.06729aae.007) |
+| 2000 | virtual keyboard | AI Applications | [Publication](https://doi.org/10.1145/354401.354424) |
+| 2000 | virtual organizations | AI Applications | [Publication](https://doi.org/10.1108/978-1-60752-881-420251015) |
+| 2000 | Virtual Screening | Science & Healthcare AI | [Publication](https://doi.org/10.1002/9783527613083.ch1) |
+| 2000 | visual exploration | Data Science | [Publication](https://doi.org/10.1007/978-0-387-35504-7_5) |
+| 2000 | voxel based morphometry | Computer Vision | [Publication](https://doi.org/10.1006/nimg.2000.0582) |
+| 2000 | Voxel Grid | Computer Vision | [Publication](https://doi.org/10.1016/s0730-725x(99)00108-3) |
+| 2000 | Watermark Detection | Generative AI | [Publication](https://doi.org/10.1007/10719724_8) |
+| 2000 | watermarking schemes | Computer Vision | [Publication](https://doi.org/10.1109/79.879339) |
+| 2000 | wavelength | AI Infrastructure | [Publication](https://doi.org/10.21236/ada379010) |
+| 2000 | web accessibility | AI Applications | [Publication](https://doi.org/10.1201/9781482287134-22) |
+| 2000 | web information | Information Retrieval | [Publication](https://doi.org/10.1109/wise.2000.882837) |
+| 2000 | web searches | Information Retrieval | [Publication](https://doi.org/10.1109/2.881694) |
+| 2000 | winner determination | Mathematics | [Publication](https://doi.org/10.1016/s0167-9236(99)00066-4) |
+| 2000 | Workforce Planning | AI Applications | [Publication](https://doi.org/10.1071/ah000008) |
+| 2000 ★ | Forward Diffusion Process | Generative AI | [Related source](https://doi.org/10.5281/zenodo.37662) — indirect |
+| 2000 ★ | Sensitivity Analysis for Confounding | Causal Inference | [Related source](https://doi.org/10.1007/978-1-4612-1284-3_1) — indirect |
+| 2000 ★★ | A/B Test for Models | AI Infrastructure | [Indirect context](https://doi.org/10.2514/6.1994-3244) — NOT keyword evidence |
+| 2000 ★★ | access routers | AI Infrastructure | [Indirect context](https://doi.org/10.1145/232973.232998) — NOT keyword evidence |
+| 2000 ★★ | adaptive neural control | Deep Learning | [Indirect context](https://doi.org/10.1007/978-3-540-77807-3) — NOT keyword evidence |
+| 2000 ★★ | Adverse Outcome Notification | AI Foundations | [Indirect context](https://doi.org/10.1016/j.econlet.2011.03.004) — NOT keyword evidence |
+| 2000 ★★ | anonymous communication | AI Safety | [Indirect context](https://doi.org/10.1109/sp.2007.30) — NOT keyword evidence |
+| 2000 ★★ | Applicability Boundary | AI Foundations | [Indirect context](https://doi.org/10.1049/ic:20000101) — NOT keyword evidence |
+| 2000 ★★ | Attribute Leakage | Generative AI | [Indirect context](https://doi.org/10.1145/965161.806800) — NOT keyword evidence |
+| 2000 ★★ | Autonomous Coding Agent | AI Applications | [Indirect context](https://doi.org/10.1007/979-8-8688-0444-1_12) — NOT keyword evidence |
+| 2000 ★★ | autonomous driving | Computer Vision | [Indirect context](https://doi.org/10.1109/70.75906) — NOT keyword evidence |
+| 2000 ★★ | Autonomous Weapon System | Robotics | [Indirect context](https://openalex.org/W637287294) — NOT keyword evidence |
+| 2000 ★★ | background subtraction method | Computer Vision | [Indirect context](https://doi.org/10.1109/haptic.2004.1287175) — NOT keyword evidence |
+| 2000 ★★ | Backward Compatibility Commitment | AI Foundations | [Indirect context](https://doi.org/10.1016/0165-1765(94)90042-6) — NOT keyword evidence |
+| 2000 ★★ | Batch Size Frontier | Machine Learning | [Indirect context](https://doi.org/10.1007/1-4020-0612-8_84) — NOT keyword evidence |
+| 2000 ★★ | Batch Size Scaling Rule | Mathematics | [Indirect context](https://doi.org/10.52202/085713-3898) — NOT keyword evidence |
+| 2000 ★★ | bayesian classifiers | AI Foundations | [Indirect context](https://doi.org/10.1002/cem.797) — NOT keyword evidence |
+| 2000 ★★ | Blast Radius of a Change | Programming & Software | [Indirect context](https://doi.org/10.1515/9780773555457-047) — NOT keyword evidence |
+| 2000 ★★ | blind identification | Mathematics | [Indirect context](https://doi.org/10.1007/11679363_23) — NOT keyword evidence |
+| 2000 ★★ | blind identifications | Mathematics | [Indirect context](https://doi.org/10.1007/11679363_23) — NOT keyword evidence |
+| 2000 ★★ | Boundary | Mathematics | [Indirect context](https://doi.org/10.21136/cmj.1982.101837) — NOT keyword evidence |
+| 2000 ★★ | box and line | Programming & Software | [Indirect context](https://doi.org/10.1109/2.607064) — NOT keyword evidence |
+| 2000 ★★ | camera phone | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ada457868) — NOT keyword evidence |
+| 2000 ★★ | Cascaded Speech Translation | Speech & Audio | [Indirect context](https://doi.org/10.1007/978-1-4615-2732-9) — NOT keyword evidence |
+| 2000 ★★ | Checkpoint Format | AI Infrastructure | [Indirect context](https://doi.org/10.1145/322123.322131) — NOT keyword evidence |
+| 2000 ★★ | Class-Incremental Learning | Machine Learning | [Indirect context](https://doi.org/10.1007/s11063-009-9117-1) — NOT keyword evidence |
+| 2000 ★★ | clustering algorithms | Machine Learning | [Indirect context](https://doi.org/10.2172/839953) — NOT keyword evidence |
+| 2000 ★★ | Cognitive Load | Cognitive Science | [Indirect context](https://doi.org/10.1016/j.learninstruc.2006.02.004) — NOT keyword evidence |
+| 2000 ★★ | Cognitive Offloading | Cognitive Science | [Indirect context](https://doi.org/10.1037/t04389-000) — NOT keyword evidence |
+| 2000 ★★ | collaborative softwares | AI Applications | [Indirect context](https://doi.org/10.1017/cbo9780511489839.008) — NOT keyword evidence |
+| 2000 ★★ | collision detection algorithm | Speech & Audio | [Indirect context](https://doi.org/10.1063/1.1291298) — NOT keyword evidence |
+| 2000 ★★ | Commitment Scheme | Mathematics | [Indirect context](https://doi.org/10.1007/978-1-4757-0016-9_16) — NOT keyword evidence |
+| 2000 ★★ | Compensating Control | AI Infrastructure | [Indirect context](https://doi.org/10.1515/9781400828326-008) — NOT keyword evidence |
+| 2000 ★★ | conservation status | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | Consistency in Style | Programming & Software | [Indirect context](https://doi.org/10.1145/582128.582150) — NOT keyword evidence |
+| 2000 ★★ | Constituency Parsing | NLP and LLMs | [Indirect context](https://doi.org/10.3115/1613148.1613159) — NOT keyword evidence |
+| 2000 ★★ | Continuous Monitoring Requirement | AI Foundations | [Indirect context](https://doi.org/10.5117/mab.77.16289) — NOT keyword evidence |
+| 2000 ★★ | cooperative work | AI Applications | [Indirect context](https://doi.org/10.1017/cbo9780511489839.008) — NOT keyword evidence |
+| 2000 ★★ | Creative Labour Market | Generative AI | [Indirect context](https://doi.org/10.15216/978-5-4365-0319-6) — NOT keyword evidence |
+| 2000 ★★ | Curse of Dimensionality in Search | Machine Learning | [Indirect context](https://doi.org/10.1016/b978-0-08-051669-1.50013-7) — NOT keyword evidence |
+| 2000 ★★ | curve evolution | Computer Vision | [Indirect context](https://doi.org/10.1016/b978-0-12-438660-0.50046-7) — NOT keyword evidence |
+| 2000 ★★ | Data Leakage | Data Science | [Indirect context](https://doi.org/10.1007/979-8-8688-3252-9_6) — NOT keyword evidence |
+| 2000 ★★ | Data Lineage | AI Foundations | [Indirect context](https://doi.org/10.1641/0006-3568(2000)050[0883:nabpie]2.0.co) — NOT keyword evidence |
+| 2000 ★★ | data perturbation | Machine Learning | [Indirect context](https://doi.org/10.1109/iciscae48440.2019.221662) — NOT keyword evidence |
+| 2000 ★★ | data security | AI Infrastructure | [Indirect context](https://doi.org/10.1016/1353-4858(95)90168-x) — NOT keyword evidence |
+| 2000 ★★ | dehalococcoides | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | denial of service (dos) | AI Safety | [Indirect context](https://doi.org/10.1201/9781420048872.axa) — NOT keyword evidence |
+| 2000 ★★ | dialogue | Speech & Audio | [Indirect context](https://doi.org/10.3115/981658.981674) — NOT keyword evidence |
+| 2000 ★★ | diffie-hellman problem | AI Safety | [Indirect context](https://doi.org/10.1007/10718964_5) — NOT keyword evidence |
+| 2000 ★★ | Directional Expectation Test | AI Infrastructure | [Indirect context](https://doi.org/10.2514/6.1994-3244) — NOT keyword evidence |
+| 2000 ★★ | discrete event system | Mathematics | [Indirect context](https://doi.org/10.1007/bf01796825) — NOT keyword evidence |
+| 2000 ★★ | discretionary access control | AI Safety | [Indirect context](https://doi.org/10.1145/357369.357372) — NOT keyword evidence |
+| 2000 ★★ | distributed coordination functions | AI Infrastructure | [Indirect context](https://doi.org/10.1093/ietcom/e89-b.5.1605) — NOT keyword evidence |
+| 2000 ★★ | distribution networks | AI Foundations | [Indirect context](https://doi.org/10.1049/cp:20061777) — NOT keyword evidence |
+| 2000 ★★ | Document Classification Pipeline | NLP and LLMs | [Indirect context](https://doi.org/10.3386/w0000) — NOT keyword evidence |
+| 2000 ★★ | dynamic security | AI Infrastructure | [Indirect context](https://doi.org/10.1016/1353-4858(95)90168-x) — NOT keyword evidence |
+| 2000 ★★ | edge detection algorithms | Speech & Audio | [Indirect context](https://doi.org/10.1117/12.275928) — NOT keyword evidence |
+| 2000 ★★ | End-to-End Speech Translation | Speech & Audio | [Indirect context](https://doi.org/10.1007/978-1-4615-2732-9) — NOT keyword evidence |
+| 2000 ★★ | endemic | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | endemic species | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | endemism | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | epistemic logic | Agentic AI | [Indirect context](https://doi.org/10.1007/978-94-017-3546-9_16) — NOT keyword evidence |
+| 2000 ★★ | epsilonproteobacteria | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | Error Budget for Changes | Programming & Software | [Indirect context](https://doi.org/10.1364/ao.29.003590) — NOT keyword evidence |
+| 2000 ★★ | estimation of distribution algorithms | AI Foundations | [Indirect context](https://doi.org/10.1002/9780471650126.dob0892) — NOT keyword evidence |
+| 2000 ★★ | evolutionary computations | AI Foundations | [Indirect context](https://doi.org/10.1201/9781482273960-6) — NOT keyword evidence |
+| 2000 ★★ | Export Control | AI Safety | [Indirect context](https://doi.org/10.1002/9781119196815.ch8) — NOT keyword evidence |
+| 2000 ★★ | Extraneous Cognitive Load | Cognitive Science | [Indirect context](https://doi.org/10.1016/j.learninstruc.2006.02.004) — NOT keyword evidence |
+| 2000 ★★ | F-Beta Score | Evaluation & Metrics | [Indirect context](https://doi.org/10.1175/2007waf2006116.1) — NOT keyword evidence |
+| 2000 ★★ | F1 Score | AI Foundations | [Indirect context](https://doi.org/10.1080/00031305.1985.10479382) — NOT keyword evidence |
+| 2000 ★★ | Fairness Regression Test | AI Infrastructure | [Indirect context](https://doi.org/10.2514/6.1994-3244) — NOT keyword evidence |
+| 2000 ★★ | farnoquinone | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | Frame Stacking | Reinforcement Learning | [Indirect context](https://doi.org/10.1117/12.386547) — NOT keyword evidence |
+| 2000 ★★ | fuzzy c-means clustering | Machine Learning | [Indirect context](https://doi.org/10.1016/0898-1221(93)90181-t) — NOT keyword evidence |
+| 2000 ★★ | Gaussian Quadrature | Mathematics | [Indirect context](https://doi.org/10.2514/6.1966-530) — NOT keyword evidence |
+| 2000 ★★ | gemmatimonadetes | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | Global Batch Size | Deep Learning | [Indirect context](https://doi.org/10.1063/1.1139907) — NOT keyword evidence |
+| 2000 ★★ | graphical modeling | AI Foundations | [Indirect context](https://doi.org/10.21236/ada455686) — NOT keyword evidence |
+| 2000 ★★ | group support systems | AI Foundations | [Indirect context](https://doi.org/10.1017/cbo9781139173537.008) — NOT keyword evidence |
+| 2000 ★★ | Hann Window | Signal & Information Theory | [Indirect context](https://doi.org/10.1016/0771-050x(76)90003-6) — NOT keyword evidence |
+| 2000 ★★ | Hash Collision Resistance | Mathematics | [Indirect context](https://doi.org/10.1002/9780470612309.ch23) — NOT keyword evidence |
+| 2000 ★★ | Hierarchical Classification | Machine Learning | [Indirect context](https://doi.org/10.1201/9781482273977-30) — NOT keyword evidence |
+| 2000 ★★ | high mobility | AI Infrastructure | [Indirect context](https://doi.org/10.1109/iedm.1986.191249) — NOT keyword evidence |
+| 2000 ★★ | Historical Document Processing | NLP and LLMs | [Indirect context](https://doi.org/10.3386/w0000) — NOT keyword evidence |
+| 2000 ★★ | human motion tracking | Robotics | [Indirect context](https://doi.org/10.1109/humo.2000.897362) — NOT keyword evidence |
+| 2000 ★★ | image identification | Computer Vision | [Indirect context](https://doi.org/10.4324/9780203504604-12) — NOT keyword evidence |
+| 2000 ★★ | indoor navigation system | Robotics | [Indirect context](https://doi.org/10.1145/359784.359832) — NOT keyword evidence |
+| 2000 ★★ | Input-Output Safeguard | AI Safety | [Indirect context](https://doi.org/10.1016/b978-012443870-5/50005-8) — NOT keyword evidence |
+| 2000 ★★ | intellectual property cores | AI Infrastructure | [Indirect context](https://doi.org/10.1109/iccp.2009.5284792) — NOT keyword evidence |
+| 2000 ★★ | Intelligent word recognition (IWR) | AI Foundations | [Indirect context](https://doi.org/10.1142/9789812704313_0007) — NOT keyword evidence |
+| 2000 ★★ | Intent Prediction for Agents | Computer Vision | [Indirect context](https://doi.org/10.1109/ivs.2014.6856480) — NOT keyword evidence |
+| 2000 ★★ | Inter-Annotator Agreement | AI Foundations | [Indirect context](https://doi.org/10.63317/4igr34p4pqwq) — NOT keyword evidence |
+| 2000 ★★ | Intrinsic Cognitive Load | Cognitive Science | [Indirect context](https://doi.org/10.1016/j.learninstruc.2006.02.004) — NOT keyword evidence |
+| 2000 ★★ | Invariant Test for Models | AI Infrastructure | [Indirect context](https://doi.org/10.2514/6.1994-3244) — NOT keyword evidence |
+| 2000 ★★ | iucn | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | iucn red list | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | java card | AI Safety | [Indirect context](https://doi.org/10.1007/978-3-642-98052-7_1) — NOT keyword evidence |
+| 2000 ★★ | Joint Space | Robotics | [Indirect context](https://doi.org/10.1093/acprof:oso/9780199988341.003.0013) — NOT keyword evidence |
+| 2000 ★★ | Knowledge Base Article | AI Applications | [Indirect context](https://doi.org/10.25136/2409-7543.2024.3.71629) — NOT keyword evidence |
+| 2000 ★★ | Language Model (LM) | AI Foundations | [Indirect context](https://doi.org/10.1109/arso.2012.6213399) — NOT keyword evidence |
+| 2000 ★★ | learning outcomes | AI Infrastructure | [Indirect context](https://doi.org/10.4314/ifep.v9i2.23623) — NOT keyword evidence |
+| 2000 ★★ | lightpaths | Mathematics | [Indirect context](https://doi.org/10.1109/65.885667) — NOT keyword evidence |
+| 2000 ★★ | look-up table | AI Infrastructure | [Indirect context](https://doi.org/10.1364/optcomp.1987.pdp1) — NOT keyword evidence |
+| 2000 ★★ | lossless | Computer Vision | [Indirect context](https://doi.org/10.21236/ada304792) — NOT keyword evidence |
+| 2000 ★★ | low-level image features | Computer Vision | [Indirect context](https://openalex.org/W287913784) — NOT keyword evidence |
+| 2000 ★★ | Machiavellian intelligence hypothesis | AI Foundations | [Indirect context](https://doi.org/10.1007/bf02524599) — NOT keyword evidence |
+| 2000 ★★ | Manipulation | AI Safety | [Indirect context](https://doi.org/10.3410/f.1075781.528695) — NOT keyword evidence |
+| 2000 ★★ | Masked Language Model (MLM) | AI Foundations | [Indirect context](https://doi.org/10.1109/arso.2012.6213399) — NOT keyword evidence |
+| 2000 ★★ | Measurement Reliability | Evaluation & Metrics | [Indirect context](https://doi.org/10.15760/etd.567) — NOT keyword evidence |
+| 2000 ★★ | menaquinone | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | microbispora | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | Microscaling Format (MX) | AI Infrastructure | [Indirect context](https://doi.org/10.1145/641528.641530) — NOT keyword evidence |
+| 2000 ★★ | Minimum Functionality Test | AI Infrastructure | [Indirect context](https://doi.org/10.2514/6.1994-3244) — NOT keyword evidence |
+| 2000 ★★ | Mixed-Initiative Dialogue | NLP and LLMs | [Indirect context](https://doi.org/10.3115/981658.981674) — NOT keyword evidence |
+| 2000 ★★ | mlst | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | mobile handsets | AI Infrastructure | [Indirect context](https://doi.org/10.1787/9789264188235-en) — NOT keyword evidence |
+| 2000 ★★ | mobile phone | AI Infrastructure | [Indirect context](https://doi.org/10.1787/9789264188235-en) — NOT keyword evidence |
+| 2000 ★★ | mobile phone applications | AI Infrastructure | [Indirect context](https://doi.org/10.1117/12.643739) — NOT keyword evidence |
+| 2000 ★★ | Moment | Mathematics | [Indirect context](https://doi.org/10.1080/00029890.1923.11986258) — NOT keyword evidence |
+| 2000 ★★ | motion capture data | Robotics | [Indirect context](https://doi.org/10.1145/1280720.1280806) — NOT keyword evidence |
+| 2000 ★★ | multi carrier | AI Infrastructure | [Indirect context](https://doi.org/10.1515/freq.2000.54.1-2.36) — NOT keyword evidence |
+| 2000 ★★ | multiple data streams | Machine Learning | [Indirect context](https://doi.org/10.1002/9780471650126.dob1099) — NOT keyword evidence |
+| 2000 ★★ | multiple kernels | Machine Learning | [Indirect context](https://doi.org/10.13031/2013.22241) — NOT keyword evidence |
+| 2000 ★★ | musical instruments | Speech & Audio | [Indirect context](https://doi.org/10.5040/9798216032571.ch-005) — NOT keyword evidence |
+| 2000 ★★ | mycological typing techniques | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | network selection | AI Infrastructure | [Indirect context](https://doi.org/10.1037/e323452004-004) — NOT keyword evidence |
+| 2000 ★★ | Neural Network Models of Cognition | Cognitive Science | [Indirect context](https://doi.org/10.1016/0010-0277(76)90019-6) — NOT keyword evidence |
+| 2000 ★★ | Neural Plasticity | Cognitive Science | [Indirect context](https://doi.org/10.1109/tnn.2005.852238) — NOT keyword evidence |
+| 2000 ★★ | nitrospirae | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | nomenclature | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | Outcome Evaluation | Agentic AI | [Indirect context](https://doi.org/10.1007/978-1-4684-6590-7_5) — NOT keyword evidence |
+| 2000 ★★ | Parent Document Retrieval | NLP and LLMs | [Indirect context](https://doi.org/10.3386/w0000) — NOT keyword evidence |
+| 2000 ★★ | Pareto Front | Mathematics | [Indirect context](https://doi.org/10.1109/cec.2007.4424862) — NOT keyword evidence |
+| 2000 ★★ | Parsing | Mathematics | [Indirect context](https://doi.org/10.3115/1613148.1613159) — NOT keyword evidence |
+| 2000 ★★ | parsing algorithm | NLP and LLMs | [Indirect context](https://doi.org/10.1007/bf00058766) — NOT keyword evidence |
+| 2000 ★★ | partial order reductions | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0004-3702(94)90012-4) — NOT keyword evidence |
+| 2000 ★★ | Parzen Window | Machine Learning | [Indirect context](https://doi.org/10.1080/00036848400000005) — NOT keyword evidence |
+| 2000 ★★ | password guessing attack | AI Infrastructure | [Indirect context](https://openalex.org/W2563748949) — NOT keyword evidence |
+| 2000 ★★ | Patient-Reported Outcome (PRO) | AI Applications | [Indirect context](https://doi.org/10.15760/etd.7379) — NOT keyword evidence |
+| 2000 ★★ | positioning systems | Robotics | [Indirect context](https://doi.org/10.15760/etd.6885) — NOT keyword evidence |
+| 2000 ★★ | postglacial | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | Prevalence-Adjusted Metric | Evaluation & Metrics | [Indirect context](https://doi.org/10.1145/3786166.3788432) — NOT keyword evidence |
+| 2000 ★★ | Preventive Control | AI Infrastructure | [Indirect context](https://doi.org/10.1515/9781400828326-008) — NOT keyword evidence |
+| 2000 ★★ | pseudorandom sequences | AI Safety | [Indirect context](https://doi.org/10.1037/e626392011-001) — NOT keyword evidence |
+| 2000 ★★ | Quadrature | Mathematics | [Indirect context](https://doi.org/10.1117/12.382883) — NOT keyword evidence |
+| 2000 ★★ | radio transmission | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0016-0032(53)90340-8) — NOT keyword evidence |
+| 2000 ★★ | Rater Pool Diversity | Evaluation & Metrics | [Indirect context](https://doi.org/10.15760/etd.567) — NOT keyword evidence |
+| 2000 ★★ | Redress Mechanism | AI Safety | [Indirect context](https://doi.org/10.1007/1-4020-0613-6_118) — NOT keyword evidence |
+| 2000 ★★ | refugium | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | Remote Cache Hit Rate | Programming & Software | [Indirect context](https://doi.org/10.1541/ieejeiss1987.122.7_1137) — NOT keyword evidence |
+| 2000 ★★ | Researcher Access Programme | AI Safety | [Indirect context](https://doi.org/10.12968/bjca.2016.11.12.578) — NOT keyword evidence |
+| 2000 ★★ | Revolute Joint | Robotics | [Indirect context](https://doi.org/10.1093/acprof:oso/9780199988341.003.0013) — NOT keyword evidence |
+| 2000 ★★ | run time reconfiguration | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-3-540-30117-2_49) — NOT keyword evidence |
+| 2000 ★★ | Safety Regression Test | AI Infrastructure | [Indirect context](https://doi.org/10.2514/6.1994-3244) — NOT keyword evidence |
+| 2000 ★★ | schedulability test | AI Infrastructure | [Indirect context](https://doi.org/10.1145/307418.307507) — NOT keyword evidence |
+| 2000 ★★ | Score-Based Model | AI Foundations | [Indirect context](https://doi.org/10.1080/00031305.1985.10479382) — NOT keyword evidence |
+| 2000 ★★ | Scout (autonomous boat) | Robotics | [Indirect context](https://openalex.org/W637287294) — NOT keyword evidence |
+| 2000 ★★ | security analysis | AI Infrastructure | [Indirect context](https://doi.org/10.1016/1353-4858(95)90168-x) — NOT keyword evidence |
+| 2000 ★★ | security notion | AI Infrastructure | [Indirect context](https://doi.org/10.1016/1353-4858(95)90168-x) — NOT keyword evidence |
+| 2000 ★★ | security threats | AI Infrastructure | [Indirect context](https://doi.org/10.1016/1353-4858(95)90168-x) — NOT keyword evidence |
+| 2000 ★★ | security vulnerabilities | AI Infrastructure | [Indirect context](https://doi.org/10.1016/1353-4858(95)90168-x) — NOT keyword evidence |
+| 2000 ★★ | Selection Bias in Logs | Recommender Systems | [Indirect context](https://doi.org/10.48550/arxiv.2006.15772) — NOT keyword evidence |
+| 2000 ★★ | Semantic Priming | Cognitive Science | [Indirect context](https://doi.org/10.21437/interspeech.2008-530) — NOT keyword evidence |
+| 2000 ★★ | Shape from Shading | Computer Vision | [Indirect context](https://doi.org/10.1111/1467-8624.00528) — NOT keyword evidence |
+| 2000 ★★ | Simulation Environment | Reinforcement Learning | [Indirect context](https://doi.org/10.21236/ada158065) — NOT keyword evidence |
+| 2000 ★★ | smart-home system | AI Foundations | [Indirect context](https://doi.org/10.1089/15305620260507530) — NOT keyword evidence |
+| 2000 ★★ | smart-phone applications | Speech & Audio | [Indirect context](https://doi.org/10.1109/antem.1998.7861716) — NOT keyword evidence |
+| 2000 ★★ | species inventory | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | Spurious Background Reliance | Computer Vision | [Indirect context](https://doi.org/10.1093/genetics/108.1.181) — NOT keyword evidence |
+| 2000 ★★ | State Estimation | AI Foundations | [Indirect context](https://doi.org/10.1007/978-3-642-96985-0_5) — NOT keyword evidence |
+| 2000 ★★ | statistical language modeling | NLP and LLMs | [Indirect context](https://doi.org/10.21437/icslp.2000-431) — NOT keyword evidence |
+| 2000 ★★ | Stream | AI Infrastructure | [Indirect context](https://doi.org/10.1109/isita.2008.4895494) — NOT keyword evidence |
+| 2000 ★★ | Strided Array | Mathematics | [Indirect context](https://doi.org/10.1007/3-540-60044-2_43) — NOT keyword evidence |
+| 2000 ★★ | Strong Consistency | Programming & Software | [Indirect context](https://doi.org/10.1145/582128.582150) — NOT keyword evidence |
+| 2000 ★★ | Structure-Activity Relationship (SAR) | Science & Healthcare AI | [Indirect context](https://doi.org/10.1007/978-1-4684-6831-1_15) — NOT keyword evidence |
+| 2000 ★★ | Structured Access | AI Safety | [Indirect context](https://doi.org/10.12968/bjca.2016.11.12.578) — NOT keyword evidence |
+| 2000 ★★ | surveillance cameras | AI Safety | [Indirect context](https://doi.org/10.1007/978-94-007-1137-2) — NOT keyword evidence |
+| 2000 ★★ | Thread | Programming & Software | [Indirect context](https://doi.org/10.1145/346152.346320) — NOT keyword evidence |
+| 2000 ★★ | Throughput Ceiling | AI Foundations | [Indirect context](https://doi.org/10.1201/9781420025514.ch14) — NOT keyword evidence |
+| 2000 ★★ | transmission capacities | AI Infrastructure | [Indirect context](https://doi.org/10.1021/ed019p296.1) — NOT keyword evidence |
+| 2000 ★★ | transmission capacity | AI Infrastructure | [Indirect context](https://doi.org/10.1021/ed019p296.1) — NOT keyword evidence |
+| 2000 ★★ | type strain | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | underwater image | AI Infrastructure | [Indirect context](https://doi.org/10.2991/icst-18.2018.150) — NOT keyword evidence |
+| 2000 ★★ | underwater imaging | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-4615-3370-2_32) — NOT keyword evidence |
+| 2000 ★★ | unicast | AI Infrastructure | [Indirect context](https://doi.org/10.1109/90.842145) — NOT keyword evidence |
+| 2000 ★★ | Unit Test for Data | AI Infrastructure | [Indirect context](https://doi.org/10.2514/6.1994-3244) — NOT keyword evidence |
+| 2000 ★★ | unmixing | Computer Vision | [Indirect context](https://doi.org/10.21236/ada398413) — NOT keyword evidence |
+| 2000 ★★ | Verbosity Bias | Deep Learning | [Indirect context](https://doi.org/10.1116/1.591286) — NOT keyword evidence |
+| 2000 ★★ | Version Control (VCS) | Programming & Software | [Indirect context](https://doi.org/10.1007/978-1-4842-2475-5_3) — NOT keyword evidence |
+| 2000 ★★ | vicariance | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | virtual machine monitor | AI Infrastructure | [Indirect context](https://doi.org/10.1145/3245961) — NOT keyword evidence |
+| 2000 ★★ | virtual network | AI Infrastructure | [Indirect context](https://doi.org/10.1002/9781118576946.ch5) — NOT keyword evidence |
+| 2000 ★★ | vitamin k 2 | Machine Learning | [Indirect context](https://doi.org/10.1046/j.1365-2672.2000.00780.x) — NOT keyword evidence |
+| 2000 ★★ | Voxel | Computer Vision | [Indirect context](https://doi.org/10.1016/s0730-725x(99)00108-3) — NOT keyword evidence |
+| 2000 ★★ | web server | AI Safety | [Indirect context](https://doi.org/10.1201/9781420038163-51) — NOT keyword evidence |
+| 2000 ★★ | web-based learning | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-0-387-35973-1_1481) — NOT keyword evidence |
+| 2000 ★★ | WebDataset Format | AI Infrastructure | [Indirect context](https://doi.org/10.1145/641528.641530) — NOT keyword evidence |
+| 2000 ★★ | wormhole attack | AI Infrastructure | [Indirect context](https://doi.org/10.1515/9780773591158-009) — NOT keyword evidence |
+| 2001 | 3g networks | AI Infrastructure | [Publication](https://doi.org/10.1002/0470841729.ch7) |
+| 2001 | access control policies | AI Safety | [Publication](https://doi.org/10.1145/373256.373280) |
+| 2001 | ad hoc routing protocol | AI Infrastructure | [Publication](https://openalex.org/W1769248355) |
+| 2001 | african american | Data Science | [Publication](https://doi.org/10.1093/acref/9780195301731.013.50970) |
+| 2001 | agent-based systems | Agentic AI | [Publication](https://doi.org/10.1007/3-540-45484-5_30) |
+| 2001 | Airflow | Tools & Frameworks | [Publication](https://doi.org/10.1034/j.1600-0668.2001.110407.x) |
+| 2001 | alert correlation | AI Infrastructure | [Publication](https://doi.org/10.1007/3-540-45474-8_4) |
+| 2001 | apparent diffusion coefficient | Computer Vision | [Publication](https://doi.org/10.1097/0006123-200105000-00033) |
+| 2001 | architecture reconstruction | Programming & Software | [Publication](https://doi.org/10.21236/ada388707) |
+| 2001 | aspect-orientation | Programming & Software | [Publication](https://doi.org/10.1049/ip-sen:20010732) |
+| 2001 | audio content | Speech & Audio | [Publication](https://doi.org/10.1109/89.917689) |
+| 2001 | audio data | Speech & Audio | [Publication](https://doi.org/10.1007/978-1-4757-3339-6_4) |
+| 2001 | Augmentation | AI Foundations | [Publication](https://doi.org/10.1093/gmo/9781561592630.article.01515) |
+| 2001 | Barrier Function | Mathematics | [Publication](https://doi.org/10.1201/b14036-5) |
+| 2001 | base station antennas | Speech & Audio | [Publication](https://doi.org/10.1049/cp:20010240) |
+| 2001 | Basis Pursuit | Signal & Information Theory | [Publication](https://doi.org/10.1137/s003614450037906x) |
+| 2001 | Bayesian Network (BN) | Mathematics | [Publication](https://doi.org/10.1002/mop.1212) |
+| 2001 | Behavioural Testing | AI Infrastructure | [Publication](https://doi.org/10.1016/s0166-4328(01)00283-2) |
+| 2001 | bilateral teleoperation | Robotics | [Publication](https://doi.org/10.23919/ecc.2001.7076076) |
+| 2001 | biometric | AI Safety | [Publication](https://doi.org/10.1016/s0969-4765(01)00613-0) |
+| 2001 | biometric authentication | AI Safety | [Publication](https://doi.org/10.1016/s0969-4765(01)02003-3) |
+| 2001 | biometric technology | AI Safety | [Publication](https://doi.org/10.1016/s0969-4765(01)00805-0) |
+| 2001 | Blending | Machine Learning | [Publication](https://doi.org/10.1017/cbo9780511551352.006) |
+| 2001 | Blind Source Separation (BSS) | Signal & Information Theory | [Publication](https://doi.org/10.1117/12.428151) |
+| 2001 | broadcast encryption schemes | AI Infrastructure | [Publication](https://doi.org/10.1016/s1571-0653(04)00155-6) |
+| 2001 | business intelligence | AI Infrastructure | [Publication](https://doi.org/10.5040/9798400644160.0008) |
+| 2001 | carrier frequency offsets | Speech & Audio | [Publication](https://doi.org/10.1109/4234.922764) |
+| 2001 | Category utility | Machine Learning | [Publication](https://doi.org/10.1023/a:1010924920739) |
+| 2001 | cell phone | AI Infrastructure | [Publication](https://doi.org/10.4135/cqresrre20010316) |
+| 2001 | channel shortening | Speech & Audio | [Publication](https://doi.org/10.1109/26.905867) |
+| 2001 | chaotic synchronization | AI Safety | [Publication](https://doi.org/10.1142/9789812811660_0015) |
+| 2001 | chattering phenomenon | Robotics | [Publication](https://doi.org/10.1007/bf03184373) |
+| 2001 | clock offset | AI Infrastructure | [Publication](https://doi.org/10.11728/cjss2001.01.20010106) |
+| 2001 | Cloth Simulation | Computer Graphics | [Publication](https://doi.org/10.1016/s0097-8493(01)00062-0) |
+| 2001 | cognitive systems | AI Foundations | [Publication](https://doi.org/10.1016/s1389-0417(01)00019-5) |
+| 2001 | collaborative filtering methods | Information Retrieval | [Publication](https://doi.org/10.1007/3-540-45336-9_35) |
+| 2001 | common sense knowledge | AI Foundations | [Publication](https://doi.org/10.21236/ada397614) |
+| 2001 | Common Support | Causal Inference | [Publication](https://doi.org/10.2139/ssrn.259239) |
+| 2001 | common-sense knowledge bases | AI Foundations | [Publication](https://doi.org/10.21236/ada397614) |
+| 2001 | communities of practice | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-663-19810-9_2) |
+| 2001 | Compliance | Robotics | [Publication](https://doi.org/10.1201/9781420032406.ch2) |
+| 2001 | composite services | AI Infrastructure | [Publication](https://doi.org/10.1007/3-540-44809-8_8) |
+| 2001 | composition of services | AI Infrastructure | [Publication](https://doi.org/10.1023/a:1012711025262) |
+| 2001 | continuous queries | Machine Learning | [Publication](https://doi.org/10.1145/603867.603884) |
+| 2001 | Convenience Sampling | Mathematics | [Publication](https://doi.org/10.1037/e413802005-074) |
+| 2001 | Corpus Linguistics | NLP and LLMs | [Publication](https://doi.org/10.1075/ijcl.6.3.11teu) |
+| 2001 | costs saving | Programming & Software | [Publication](https://doi.org/10.1016/s0921-8009(00)00228-7) |
+| 2001 | Coupling | Programming & Software | [Publication](https://doi.org/10.1093/gmo/9781561592630.article.15368) |
+| 2001 | Cross Product | Mathematics | [Publication](https://doi.org/10.1017/cbo9780511526022.009) |
+| 2001 | Culling | Computer Graphics | [Publication](https://doi.org/10.1007/978-3-7091-6215-6_10) |
+| 2001 | Customer Lifetime Value (CLV) | Data Science | [Publication](https://doi.org/10.1007/978-3-322-94626-3_11) |
+| 2001 | data association | Speech & Audio | [Publication](https://doi.org/10.1201/9781420038545-14) |
+| 2001 | data mining | Machine Learning | [Publication](https://doi.org/10.1201/9781420040616-11) |
+| 2001 | data mining process | Machine Learning | [Publication](https://doi.org/10.1016/b978-155558242-5/50004-8) |
+| 2001 | data warehouses | Machine Learning | [Publication](https://doi.org/10.1201/9781420040616-7) |
+| 2001 | Defensive Programming | Programming & Software | [Publication](https://doi.org/10.1007/978-1-4302-0909-6_37) |
+| 2001 | delay-dependent robust stability | Robotics | [Publication](https://doi.org/10.1049/el:20010632) |
+| 2001 | delivery delay | AI Infrastructure | [Publication](https://openalex.org/W1428479890) |
+| 2001 | differentiated service | AI Infrastructure | [Publication](https://doi.org/10.1007/3-540-45512-4_3) |
+| 2001 | digital cinema | Computer Vision | [Publication](https://doi.org/10.5040/9781838710880.ch-025) |
+| 2001 | digital content | Computer Vision | [Publication](https://doi.org/10.1007/978-1-4471-0293-9_1) |
+| 2001 | digital rights management (drm) | Computer Vision | [Publication](https://doi.org/10.1045/june2001-iannella) |
+| 2001 | Dimensionality Reduction for Indexing | Machine Learning | [Publication](https://doi.org/10.1145/376284.375680) |
+| 2001 | discrete elements | Speech & Audio | [Publication](https://doi.org/10.1006/rwvb.2001.0108) |
+| 2001 | Disparity Map | Computer Vision | [Publication](https://doi.org/10.1049/el:20010457) |
+| 2001 | distributed generation system | AI Infrastructure | [Publication](https://doi.org/10.1109/pess.2001.970073) |
+| 2001 | distributed generators | AI Infrastructure | [Publication](https://doi.org/10.1109/pess.2001.970196) |
+| 2001 | Distribution Check | Data Science | [Publication](https://doi.org/10.1163/9789004475465_022) |
+| 2001 | diversity-multiplexing trade-off | Speech & Audio | [Publication](https://doi.org/10.1017/cbo9780511616815.009) |
+| 2001 | e-procurement | AI Infrastructure | [Publication](https://doi.org/10.1680/paps.30220.0013) |
+| 2001 | electromagnetic band gaps | AI Infrastructure | [Publication](https://doi.org/10.1109/8.918607) |
+| 2001 | electromechanical devices | AI Infrastructure | [Publication](https://doi.org/10.1016/b978-012269951-1/50006-1) |
+| 2001 | embedded processor | AI Infrastructure | [Publication](https://doi.org/10.1201/9781420041545-25) |
+| 2001 | embodied interaction | AI Applications | [Publication](https://doi.org/10.7551/mitpress/7221.003.0005) |
+| 2001 | energy efficient routing | Machine Learning | [Publication](https://doi.org/10.21236/ada441033) |
+| 2001 | energy scavenging | AI Infrastructure | [Publication](https://doi.org/10.1109/40.928763) |
+| 2001 | energy-constrained | AI Infrastructure | [Publication](https://doi.org/10.1093/petrology/42.5.999) |
+| 2001 | ergodic capacity | Speech & Audio | [Publication](https://doi.org/10.1109/18.915665) |
+| 2001 | error correcting output code | Machine Learning | [Publication](https://doi.org/10.1007/3-540-48219-9_15) |
+| 2001 | evolutionary search | AI Foundations | [Publication](https://doi.org/10.1007/978-1-4471-0273-1_2) |
+| 2001 | Explicit Knowledge | AI Foundations | [Publication](https://doi.org/10.1108/13673270110384455) |
+| 2001 | face tracking | Machine Learning | [Publication](https://doi.org/10.1109/icme.2001.1237699) |
+| 2001 | fast handovers | AI Infrastructure | [Publication](https://doi.org/10.1145/1037107.1037113) |
+| 2001 | fastica algorithms | Mathematics | [Publication](https://doi.org/10.32614/cran.package.fastica) |
+| 2001 | fluid simulations | AI Applications | [Publication](https://doi.org/10.1007/978-3-642-56535-9_2) |
+| 2001 | forward-secure | AI Infrastructure | [Publication](https://doi.org/10.1145/501983.502015) |
+| 2001 | fractional anisotropy | Computer Vision | [Publication](https://openalex.org/W1926586119) |
+| 2001 | fragile watermarking | Computer Vision | [Publication](https://doi.org/10.1117/12.435398) |
+| 2001 | frequency offset estimation | Speech & Audio | [Publication](https://doi.org/10.1109/4234.917102) |
+| 2001 | frequency selective surface (fss) | AI Infrastructure | [Publication](https://doi.org/10.1049/cp:20010394) |
+| 2001 | full-wave simulations | Speech & Audio | [Publication](https://doi.org/10.1063/1.1424223) |
+| 2001 | Fuzzy agent | AI Foundations | [Publication](https://openalex.org/W908825989) |
+| 2001 | Gait | Robotics | [Publication](https://doi.org/10.1016/s0966-6362(01)00170-9) |
+| 2001 | Gaussian Copula | Mathematics | [Publication](https://doi.org/10.2139/ssrn.291140) |
+| 2001 | gene expression profiling | Data Science | [Publication](https://doi.org/10.1017/cbo9780511545849.009) |
+| 2001 | generalized multiprotocol label switching | AI Infrastructure | [Publication](https://doi.org/10.1109/35.894389) |
+| 2001 | global exponential stability | Robotics | [Publication](https://doi.org/10.1016/s0893-6080(01)00059-4) |
+| 2001 | Governance Committee | AI Safety | [Publication](https://doi.org/10.1037/e388192004-040) |

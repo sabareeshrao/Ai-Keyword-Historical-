@@ -1,510 +1,512 @@
-# Chronological Keywords — Page 18/41
+# Batch 18/41 — Historical Keywords
 
-500 records from 1998 – 1999. Original IDs unchanged.
+**500 keywords**, sorted chronologically (1998 – 1999). The master CSV retains the original permanent IDs.
 
-[Full chronology](../README.md) | [Master inventory](../../data/KEYWORD_INVENTORY.csv)
+[All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
-Unstarred source years are not verified first usages; ★ inferred; ★★ speculative.
+**Year key:** plain = documented source year (not proven original use); ★ = estimate; ★★ = highly speculative guess without direct keyword evidence.
 
-| ID | Keyword | Field | Year | Evidence | Reference |
-|---|---|---|---|---|---|
-| AIH-05358 | Refinement Type | AI Foundations | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bfb0056613) |
-| AIH-18695 | remote monitoring | Robotics | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada434372) |
-| AIH-09765 | Reproducing Kernel Hilbert Space (RKHS) | Mathematics | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0009-2614(98)00341-8) |
-| AIH-14548 | requirements management | Programming & Software | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/bf02802921) |
-| AIH-18498 | requirements modeling | Programming & Software | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9780849331350.ch40) |
-| AIH-07327 | Resource Quota | AI Infrastructure | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1023/a:1004930631206) |
-| AIH-06330 | Response Rate | Data Science | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2466/pr0.83.7.1025-1026) |
-| AIH-09777 | Response Surface | Mathematics | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9780203508688-7) |
-| AIH-18502 | reverse engineers | Programming & Software | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0267-3649(97)88078-8) |
-| AIH-16741 | reversible logic | AI Infrastructure | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1142/9789812384775_0009) |
-| AIH-04575 | Sample Size Justification | Evaluation & Metrics | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1159/000026154) |
-| AIH-16673 | sar image | AI Infrastructure | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.331356) |
-| AIH-15552 | satisfying assignments | AI Foundations | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/276698.276869) |
-| AIH-05513 | Schema Matching | AI Foundations | 1998 | Dated publication (not proven term origin) | [Source](https://openalex.org/W2142104809) |
-| AIH-09057 | Score Matching | Machine Learning | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3386/w6829) |
-| AIH-05603 | Search Tree | AI Foundations | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/275295.275354) |
-| AIH-07974 | Second-Price Auction | AI Applications | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1086/250032) |
-| AIH-12745 | security services | AI Infrastructure | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0167-4048(98)80321-0) |
-| AIH-18507 | self-adaptive software | Programming & Software | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/274946.274958) |
-| AIH-14280 | semidefinite relaxation | Mathematics | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/10556789808805690) |
-| AIH-07668 | Sentence Alignment | NLP and LLMs | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1023/a:1008010319408) |
-| AIH-19738 | shared secrets | AI Infrastructure | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0167-4048(98)80102-8) |
-| AIH-17327 | signcryption schemes | AI Safety | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/ip-cdt:19981862) |
-| AIH-13614 | similarity query | Information Retrieval | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/276304.276325) |
-| AIH-19133 | smart antenna | Speech & Audio | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/antem.1998.7861716) |
-| AIH-10339 | soft computing | AI Foundations | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/s005000050025) |
-| AIH-04582 | Spatial Audio | Speech & Audio | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/ic:19980822) |
-| AIH-17977 | spatial objects | Information Retrieval | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/10095020.1998.10553282) |
-| AIH-10541 | spatio-temporal database | AI Infrastructure | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/330560.330675) |
-| AIH-10783 | spiking neural networks | Deep Learning | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.7551/mitpress/5704.003.0014) |
-| AIH-11249 | stochastic resonance | Mathematics | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada353456) |
-| AIH-05778 | Structural Risk | AI Safety | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/noe0849399831.ax11) |
-| AIH-12821 | surveillance applications | AI Infrastructure | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4615-5271-0_2) |
-| AIH-17335 | surveillance systems | AI Safety | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4615-5271-0_9) |
-| AIH-11333 | syntactic information | NLP and LLMs | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0306-4573(98)00026-0) |
-| AIH-12828 | system level design | AI Infrastructure | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/iwv.1998.667104) |
-| AIH-08062 | Table Structure Recognition | Computer Vision | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.304642) |
-| AIH-14849 | tactile sensation | Robotics | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0166-4115(98)x8029-5) |
-| AIH-15163 | television networks | Speech & Audio | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-58779-5_9) |
-| AIH-10162 | text mining | NLP and LLMs | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-0-387-35300-5_3) |
-| AIH-11342 | textual data | NLP and LLMs | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-94-017-1525-6_6) |
-| AIH-05282 | Tim Berners-Lee | People & Organizations | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1108/k.1998.06727hag.002) |
-| AIH-14380 | timed automata | NLP and LLMs | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada359891) |
-| AIH-06997 | Token Accounting | Agentic AI | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2308/0148-4184.25.1.1) |
-| AIH-19180 | transmit diversity | Speech & Audio | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/25.661038) |
-| AIH-05899 | Turbo Code | Signal & Information Theory | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/el:19980251) |
-| AIH-18387 | turbo equalization | Mathematics | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/4234.664220) |
-| AIH-14857 | ultrasonic sensor | Robotics | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-008043339-4/50079-1) |
-| AIH-11812 | user preferences | AI Applications | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/291080.291095) |
-| AIH-13626 | user profile | Information Retrieval | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1023/a:1006604214517) |
-| AIH-05951 | Variable Bitrate | Signal & Information Theory | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1121/1.422244) |
-| AIH-11817 | video browsing | AI Applications | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/324332.324336) |
-| AIH-17812 | video objects | Computer Vision | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/76.718504) |
-| AIH-14013 | video shots | Machine Learning | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1097/00063110-199803000-00046) |
-| AIH-08273 | Video Summarization | Computer Vision | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada459300) |
-| AIH-15312 | view-dependent | AI Applications | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/visual.1998.745300) |
-| AIH-11826 | virtual organization | AI Applications | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-60327-3_6) |
-| AIH-14014 | visual feature | Machine Learning | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1080/713756794) |
-| AIH-10691 | visual surveillance | Computer Vision | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/wvs.1998.646012) |
-| AIH-08379 | Voice of the Customer | AI Applications | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/b978-0-7506-3809-8.50007-9) |
-| AIH-17842 | wavelet threshold | Computer Vision | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1117/12.304907) |
-| AIH-17067 | wdm optical networks | AI Infrastructure | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1364/ona.1998.ov2) |
-| AIH-14641 | web application development | Programming & Software | 1998 | Dated publication (not proven term origin) | [Source](https://openalex.org/W640555736) |
-| AIH-17099 | wireless local area networks | AI Infrastructure | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1023/a:1019171015383) |
-| AIH-10561 | wireless telecommunication systems | AI Infrastructure | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/16.678548) |
-| AIH-11092 | wrapper approach | Machine Learning | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4615-5725-8_3) |
-| AIH-12947 | xml files | AI Infrastructure | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/combul/40.3.27) |
-| AIH-07229 | Zero Moment Point (ZMP) | Robotics | 1998 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1115/imece1998-0180) |
-| AIH-10138 | 28s rrna | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15193 | 3-d displays | AI Applications | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10695 | 3d data processing | Data Science | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17984 | 3d object retrieval | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00113 | A-Optimality | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11680 | aal | Agentic AI | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00202 | Acceptance Rate of Suggestions | Evaluation & Metrics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01285 | AI Treaty | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01323 | AI warfare | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01475 | Alexander Y. Tetelbaum | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02159 | Anthropic | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02235 | Appeal Timeline | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00447 | Argument Mining | NLP and LLMs | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02881 | ASR-complete | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02995 | Asymptotic equipartition property (AEP) | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19421 | at-speed | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13106 | audio coding | Computer Vision | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03292 | Audit Trail | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01481 | Augmented Dickey-Fuller Test (ADF) | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03403 | Autognostics | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13107 | automated pattern recognition | Computer Vision | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01671 | Backjumping | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10274 | bayesian | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11865 | bayesian estimation | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11866 | bayesian estimations | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10271 | bayesian models | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02172 | Behaviour Tree in Games | AI Applications | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04225 | Belief–desire–intention model (BDI) | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04426 | Benefits Realization | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02279 | Benjamini-Hochberg Procedure (BH) | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02317 | Berkson's Paradox | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02659 | Bijection | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10693 | bit-rate savings | Computer Vision | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02925 | Blinding | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03445 | BPP | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04851 | British Museum algorithm | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05171 | Capability Overhang | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05202 | Case Outcome Prediction | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03949 | Catastrophic Cancellation | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05388 | Caveat | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04091 | Central Difference | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05450 | Centre for Genomic Pathogen Surveillance | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19475 | certificate authority | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19478 | certificate-based | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05602 | Cherry-Picked Example | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05690 | CI/CD for ML | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01421 | Civil Society Organization | People & Organizations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12188 | clinical laboratory information systems | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04761 | Clique | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05829 | Cloem | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01030 | Cluster Utilization | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15788 | co-operative diversity | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05017 | Cohen's d | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01535 | Cohere Organization | People & Organizations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06206 | Collectively exhaustive events | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06229 | Commoditization | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02019 | Completeness Check | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06399 | Computational Chemistry | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06737 | Confidence Display | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05886 | Constraint Propagation | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06998 | Contestation Right | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07013 | Context Compression | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10794 | controlled vocabulary | Information Retrieval | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11460 | cooperative games | Reinforcement Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07174 | Correction Cascade | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06301 | Correlation Does Not Imply Causation | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01834 | Cost-Benefit Analysis | Data Science | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06403 | Covariate Balance | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15840 | cpw | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06545 | Cryptographically Secure Randomness | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06579 | CUPED | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07335 | Cutover | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03067 | Cycle Consistency Loss | Generative AI | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12039 | cyclic code | Speech & Audio | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12045 | cyclic codes | Speech & Audio | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06659 | D-Optimality | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17443 | decomposition level | Computer Vision | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06755 | Degree | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01894 | Dependent Type | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07647 | Deprecation Timeline | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12278 | design flow | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06910 | Deviance | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15897 | dielectric substrates | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06985 | Differentiability | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02181 | Digital Rights Organization | People & Organizations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07757 | Direct and indirect realism | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07768 | Direct sum of matrices | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07790 | Discoverability | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15217 | display system | AI Applications | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15218 | display technologies | AI Applications | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07810 | Dissociation (neuropsychology) | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18875 | diversity methods | Speech & Audio | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15933 | diversity order | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07202 | Divide and Conquer | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13751 | dna 23s | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17484 | edge information | Computer Vision | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17485 | edge map | Computer Vision | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07361 | Effective Degrees of Freedom | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02167 | Empirical Bayes | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08144 | Energy-Based Model (EBM) | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08152 | Entanglement in ML Systems | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07495 | Epigraph | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01921 | Erasure Code | Signal & Information Theory | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08224 | Eval Harness | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19288 | evolutionary approach | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15422 | evolutionary process | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15423 | evolutionary programming | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08280 | Experiment Tracking | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08336 | Explainable Interface | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02140 | Explained Variance Score | Evaluation & Metrics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08368 | Exploration-Exploitation Tradeoff | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08384 | Expressivity | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08432 | Eye movement in reading | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08439 | Eye tracking | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00959 | Eye Tracking in Displays | Computer Graphics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13777 | facial expression | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13778 | facial expressions | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10963 | fcm | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18055 | fcm algorithm | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07770 | Feature Interaction Strength | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08491 | Feature Store | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19675 | fiber to the home | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02700 | Finite State Machine for Robots | Robotics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11139 | first-order statistics | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08579 | Forethought Technologies | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04655 | Formality Control | NLP and LLMs | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01717 | G-Computation | Causal Inference | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08122 | Gale-Shapley Algorithm | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16064 | gateway nodes | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08178 | GEMM | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18069 | gender recognition | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13822 | genes, rrna | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10991 | genetic speciation | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08218 | Geodesic | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13195 | geometric distortion | Computer Vision | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13196 | geometric distortions | Computer Vision | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04912 | Global Consistency Check | Generative AI | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08266 | GMRES | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08274 | Goodness of Fit | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03989 | GPU (Graphics Processing Unit) | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04095 | Graceful Degradation of Models | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19710 | graphics processing unit | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08378 | Greatest Common Divisor | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19718 | ground point | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08687 | Guardrails | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08691 | Gödel machine | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02377 | Hamming Code | Signal & Information Theory | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13024 | hash | AI Safety | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04863 | Health Check Endpoint | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08512 | Heap | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02710 | Held-Out Split Integrity | Evaluation & Metrics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15248 | helmet mounted displays | AI Applications | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15465 | hispanic americans | Data Science | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08743 | Histogram of oriented displacements (HOD) | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16122 | home network | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01081 | Hybrid Quantum-Classical Loop | Quantum & Emerging Compute | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17241 | id-based | AI Safety | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05087 | Idle Resource | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08807 | Implicit Feedback Signal | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08680 | Individual Conditional Expectation (ICE) | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08688 | Infimum | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10460 | information assurance | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10121 | information systems | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08931 | Intelligent control | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16181 | intermediate node | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17949 | inverse kinematics problem | Robotics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08971 | IPO underpricing algorithm | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16199 | iptv services | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08975 | ISO/IEC 23894 | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10473 | it investment | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10474 | it investments | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08816 | K-FAC | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08991 | KAoS | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08995 | Karush–Kuhn–Tucker conditions (KKT) | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08832 | Kernel Smoothing | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09043 | Lagrange multiplier | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08900 | LAPACK | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11763 | large displays | AI Applications | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08928 | Lattice in Cryptography | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09079 | Learning | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09087 | Learning from Near Miss | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-03435 | LeNet | Deep Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08968 | Leverage | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09119 | Lifelong Learning (LLL) | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06105 | Lighting Description | Generative AI | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09127 | LIME | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01643 | Linear Colour Space | Computer Graphics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09143 | Linear Quadratic Regulator (LQR) | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09008 | Linearization | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09024 | Listwise Deletion | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10478 | logistics information | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09080 | Longitudinal Data | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09084 | Louvain Method | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13887 | low-energy adaptive clustering hierarchies | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09179 | Lulu smoothing | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09136 | MANOVA | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09239 | Means–ends analysis | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01233 | Measurement in Quantum Computing | Quantum & Emerging Compute | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14773 | mechatronics | Robotics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09269 | Mesa-Optimizer | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09278 | Metric Restatement | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09284 | Mindpixel | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09297 | Missing Completely at Random (MCAR) | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09300 | Missing Not at Random (MNAR) | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11691 | mobile agent security | Agentic AI | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11692 | mobile agent system | Agentic AI | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19929 | mobile communication | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19930 | mobile communications | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19938 | mobile users | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09296 | Model | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09320 | Model Moat | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09332 | Model Registry | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09338 | Model Retirement | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09315 | Model Theory | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09330 | Modulus | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19950 | molecular beams | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09365 | Momentum | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09348 | Moreau Envelope | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09398 | Narrative inquiry | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09401 | Narrow AI (ANI) | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09404 | Nash Equilibrium (NE) | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09393 | Nested Resampling | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06117 | Neural Processing Unit (NPU) | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09424 | Neurocomputing (journal) | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09428 | Neurorobotics | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09434 | NIST AI RMF | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16472 | node localization | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09436 | Noise Schedule | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09438 | Nolot | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09414 | Nonce | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06533 | Nondeterministic Data Order | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09452 | Nouvelle AI | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02023 | Occlusion Culling | Computer Graphics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09468 | Occupational Exposure | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09492 | Operation Serenata de Amor | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-14672 | optimal mechanism | Reinforcement Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06728 | Output Snapshot Testing | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09527 | PageRank | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09552 | Periodic Revalidation | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19012 | personal area networks | Speech & Audio | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06950 | Perspective Consistency | Generative AI | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09566 | PII | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09577 | Pivoting | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09578 | Plant | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09582 | Plotting algorithms for the Mandelbrot set | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09601 | Poset | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04647 | Prefix Code | Signal & Information Theory | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12023 | probabilistic inference | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09666 | Prosody | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10242 | protein database | AI Applications | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09674 | Provenance of Results | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09661 | PSPACE | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09667 | Pullback | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06962 | Pure Function | Programming & Software | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09680 | Qloo | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09681 | Quadtree | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-08933 | Quality-Cost Elasticity | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-04103 | Quality-Cost Frontier | Evaluation & Metrics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01803 | Quantum Error Correction (QEC) | Quantum & Emerging Compute | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-01955 | Quantum Internet | Quantum & Emerging Compute | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02107 | Quantum Sensing | Quantum & Emerging Compute | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02221 | Quantum Software Development Kit | Quantum & Emerging Compute | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02259 | Quantum Supremacy | Quantum & Emerging Compute | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02297 | Quantum Volume | Quantum & Emerging Compute | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09687 | Quartile | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07273 | Query Expansion | NLP and LLMs | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05880 | Quota | Agentic AI | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09690 | Radical constructivism | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09703 | Raking | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05226 | Ray | Tools & Frameworks | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16704 | real time service | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09737 | Realizable Setting | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10835 | reasoner | Information Retrieval | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15869 | receive diversity | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11052 | recognition algorithm | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07414 | Refinement Pass | Generative AI | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07425 | Reflection Consistency | Generative AI | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07685 | Refugee Services Planning | AI Applications | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16725 | register transfer level | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17690 | registration algorithms | Computer Vision | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17692 | registration techniques | Computer Vision | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09728 | Reproducible Demo | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09732 | Residual Connection | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17701 | restoration methods | Computer Vision | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09781 | Restricted Isometry Property (RIP) | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09748 | Reviewer Agreement with Model | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17705 | rigid registration | Computer Vision | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09778 | Runbook Coverage | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07612 | Sampler | Generative AI | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09837 | Satisfiability | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09800 | Scalar (mathematics) | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09810 | Scratchpad | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05573 | Search Heuristic for CSP | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09857 | Seed Reproducibility | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09836 | Sentencing Algorithm | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16800 | service requirements | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-02601 | Shot Noise in Quantum Computing | Quantum & Emerging Compute | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09854 | Sieve of Pritchard | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09887 | Sigmoid Saturation | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18180 | similarity retrieval | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09899 | Simpson's Reversal | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-06497 | Simulation Environment for Robots | Robotics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09862 | Singular Value Decomposition (SVD) | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09870 | Skill Erosion | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09915 | Skip List | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-18717 | sliding mode control | Robotics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13976 | small sample size | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-13974 | small sample size problem | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16850 | source address | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16852 | space diversity | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09894 | Specificity | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09904 | Stakeholder Sign-Off | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-15295 | stereoscopic displays | AI Applications | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09916 | Stochastic Parrot | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10011 | Subgradient | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10019 | Subset | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09928 | Sunsetting a System | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10029 | Supremum | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09934 | SUPS | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10035 | Surrogate Model Fidelity | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10039 | Survival Analysis | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10043 | SUTVA | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10045 | Switchback Experiment | Mathematics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09944 | Syman | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19253 | tactile display | AI Applications | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-05092 | Task Success Rate for Users | Evaluation & Metrics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09972 | Teacher forcing | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09974 | Technical Feasibility | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09988 | Tesla Dojo | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17343 | test pattern generator | AI Safety | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11339 | text document | NLP and LLMs | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-16946 | the standard model | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09992 | Thinkfree Office | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10000 | Tool Invocation | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10014 | Train/Validation/Test Split | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10030 | Transparency Obligation | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10038 | Tripwire | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10040 | Trough of Disillusionment | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-11804 | umls | AI Applications | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10052 | Undeclared Consumer | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10244 | unified medical language system | AI Applications | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10245 | unified medical language systems | AI Applications | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10056 | United States Tech Force | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10873 | user profiling | Information Retrieval | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09364 | Validation Curve | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10086 | Variance | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-12078 | variational bayesian | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10686 | vbm | Computer Vision | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-19259 | velocimetry | AI Applications | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10098 | Version Comparison for Users | AI Foundations | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-10249 | video game | AI Applications | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17050 | voice services | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17069 | wdm | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17089 | wireless body area network | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-17097 | wireless local area network (wlan) | AI Infrastructure | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-07203 | Workplace robotics safety | Robotics | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-09412 | Wrapper Method | Machine Learning | 1998 ★★ | Speculative ★★, no direct evidence | — |
-| AIH-00110 | 3D Convolution | Computer Vision | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/visual.1999.809934) |
-| AIH-00156 | 3D Stacking | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3997/2214-4609.201407764) |
-| AIH-13640 | active appearance models | Machine Learning | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/iccv.1999.791209) |
-| AIH-00639 | Actor-Critic | AI Foundations | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1137/s036301299731669x) |
-| AIH-19384 | ad hoc on demand distance vector | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/mcsa.1999.749281) |
-| AIH-00260 | Adaptation in Case-Based Reasoning | AI Foundations | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-48508-2_8) |
-| AIH-10253 | adaptive cruise control | AI Foundations | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-663-01406-5_27) |
-| AIH-15623 | adaptive hypermedia systems | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://openalex.org/W1596227404) |
-| AIH-00341 | Adjoint Sensitivity Method | Mathematics | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1061/(asce)0733-9429(1999)125:7(714)) |
-| AIH-00276 | Adjudication | Data Science | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/acprof:oso/9780198260257.003.0012) |
-| AIH-12101 | advanced encryption standard | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.6028/nist.ir.6390) |
-| AIH-10334 | advanced systems | Speech & Audio | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/dasfaa.1999.765729) |
-| AIH-10335 | advanced video coding | Computer Vision | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0928-1479(99)x8001-6) |
-| AIH-10336 | affine projections | Speech & Audio | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/iccv.1999.791232) |
-| AIH-10182 | agent oriented software engineering | Agentic AI | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-48437-x_1) |
-| AIH-00127 | Aggregation Function | Graph & Network Learning | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1111/j.1540-5915.1999.tb01616.x) |
-| AIH-18541 | algorithmic mechanism design | Reinforcement Learning | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/301250.301287) |
-| AIH-10764 | anomaly detector | AI Safety | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0020-0255(98)10064-6) |
-| AIH-11854 | answer set | AI Foundations | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.7551/mitpress/4304.003.0009) |
-| AIH-18776 | antenna accessories | Speech & Audio | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/047134608x.w1202) |
-| AIH-00975 | Apriori Algorithm | Machine Learning | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.6028/nist.sp.500-246.adhoc-kasetsart) |
-| AIH-11355 | architecting | Programming & Software | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/302405.302720) |
-| AIH-02539 | Artificial consciousness | AI Foundations | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1023/a:1008374714117) |
-| AIH-14415 | aspect oriented programming | Programming & Software | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/320384.320423) |
-| AIH-15199 | augmented reality applications | AI Applications | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781439863992-20) |
-| AIH-19425 | authenticated key agreement | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/el:19990724) |
-| AIH-03727 | Autonomous Agent | AI Foundations | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1023/a:1010087325358) |
-| AIH-14707 | autonomous robots | Robotics | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1023/a:1008913712526) |
-| AIH-10818 | binary classification problems | Machine Learning | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0167-8655(99)00046-x) |
-| AIH-18800 | binary phase shift keying | Speech & Audio | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1364/oaa.1999.thd4) |
-| AIH-14714 | biomimetic materials | Robotics | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781482298093-14) |
-| AIH-19449 | block transmissions | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/18.761338) |
-| AIH-10610 | bold signal | Computer Vision | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/(sici)1522-2594(199911)42:5<919::aid-mrm12>3.0.co;2-8) |
-| AIH-01008 | Business Continuity Plan | Security & Privacy | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.2172/798666) |
-| AIH-15714 | business process design | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4615-5071-6_2) |
-| AIH-12156 | business process management | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1108/14637159910249144) |
-| AIH-00349 | Causal Discovery | Causal Inference | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.7551/mitpress/2006.003.0007) |
-| AIH-19476 | certificate management | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.17487/rfc2510) |
-| AIH-01668 | Channel Order | Computer Vision | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/78.806077) |
-| AIH-15763 | channel spacings | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/68.769733) |
-| AIH-12978 | chaotic system | AI Safety | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1037/e629292011-001) |
-| AIH-01548 | Child Safety Measures | Generative AI | 1999 | Dated publication (not proven term origin) | [Source](https://openalex.org/W43656290) |
-| AIH-13678 | classifier ensembles | Machine Learning | 1999 | Dated publication (not proven term origin) | [Source](https://openalex.org/W872314213) |
-| AIH-15802 | collaborative learning environment | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3115/1150240.1150256) |
-| AIH-02157 | Compounding | NLP and LLMs | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s1464-391x(99)80131-7) |
-| AIH-06560 | Computational semiotics | AI Foundations | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/isic.1999.796629) |
-| AIH-13137 | computer-aided diagnosis | Computer Vision | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21236/ada391457) |
-| AIH-11269 | computing with words | NLP and LLMs | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-7908-1872-7_13) |
-| AIH-13716 | concept drifts | Machine Learning | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/312129.312267) |
-| AIH-01228 | Confidence Threshold | Evaluation & Metrics | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21437/eurospeech.1999-360) |
-| AIH-14072 | constant-factor approximation algorithms | Mathematics | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-46632-0_8) |
-| AIH-18568 | control lyapunov function | Robotics | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/acc.1999.786082) |
-| AIH-02841 | Coreference Resolution | NLP and LLMs | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3115/1608810.1608821) |
-| AIH-04585 | Cost-Complexity Pruning | Machine Learning | 1999 | Dated publication (not proven term origin) | [Source](https://openalex.org/W156266736) |
-| AIH-12259 | critical success factors | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.3320/1.2763297) |
-| AIH-17880 | crosses, genetic | Data Science | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1093/genetics/151.4.1493) |
-| AIH-12986 | cybercrimes | AI Safety | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-349-27641-7_5) |
-| AIH-01389 | Cyclic Redundancy Check (CRC) | Signal & Information Theory | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1016/s0920-5489(99)90902-9) |
-| AIH-19555 | damage location | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.4028/www.scientific.net/kem.167-168.256) |
-| AIH-13556 | data cubes | Information Retrieval | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icde.1999.754950) |
-| AIH-00859 | Data Vintage | Time Series & Forecasting | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.21799/frbp.wp.1999.15) |
-| AIH-10384 | data warehousing | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-3-642-97747-3_5) |
-| AIH-13153 | de-noising | Computer Vision | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/icassp.1999.758262) |
-| AIH-18578 | delay dependent stability criterion | Robotics | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/9.754838) |
-| AIH-12990 | denial of service attacks | AI Safety | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781420048872.axa) |
-| AIH-14346 | dependency trees | NLP and LLMs | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1023/a:1002019504946) |
-| AIH-19230 | design for all | AI Applications | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1201/9781498702096-21) |
-| AIH-14456 | development processes | Programming & Software | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.5040/9798216188209.ch-001) |
-| AIH-17204 | differential fault analysis | AI Safety | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/3-540-49162-7_19) |
-| AIH-12282 | digital cmos | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1007/978-1-4757-4926-7_2) |
-| AIH-10398 | digital libraries | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1145/313238.313433) |
-| AIH-13169 | discrete wavelet transformation | Computer Vision | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1002/9780470317020.ch4) |
-| AIH-15930 | distribution systems | AI Infrastructure | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1049/ic:19990437) |
-| AIH-13507 | dynamic surface control | Deep Learning | 1999 | Dated publication (not proven term origin) | [Source](https://doi.org/10.1109/acc.1999.782886) |
-| AIH-06538 | Eager learning | Machine Learning | 1999 | Dated publication (not proven term origin) | [Source](https://openalex.org/W1551085703) |
+**Reference key:** Publication = dated source; Related source = indirect evidence for ★; Indirect context = source about OTHER terms for ★★, not proof of this keyword's date.
+
+| Year | Keyword | Field | Reference |
+|---|---|---|---|
+| 1998 | Refinement Type | AI Foundations | [Publication](https://doi.org/10.1007/bfb0056613) |
+| 1998 | remote monitoring | Robotics | [Publication](https://doi.org/10.21236/ada434372) |
+| 1998 | Reproducing Kernel Hilbert Space (RKHS) | Mathematics | [Publication](https://doi.org/10.1016/s0009-2614(98)00341-8) |
+| 1998 | requirements management | Programming & Software | [Publication](https://doi.org/10.1007/bf02802921) |
+| 1998 | requirements modeling | Programming & Software | [Publication](https://doi.org/10.1201/9780849331350.ch40) |
+| 1998 | Resource Quota | AI Infrastructure | [Publication](https://doi.org/10.1023/a:1004930631206) |
+| 1998 | Response Rate | Data Science | [Publication](https://doi.org/10.2466/pr0.83.7.1025-1026) |
+| 1998 | Response Surface | Mathematics | [Publication](https://doi.org/10.1201/9780203508688-7) |
+| 1998 | reverse engineers | Programming & Software | [Publication](https://doi.org/10.1016/s0267-3649(97)88078-8) |
+| 1998 | reversible logic | AI Infrastructure | [Publication](https://doi.org/10.1142/9789812384775_0009) |
+| 1998 | Sample Size Justification | Evaluation & Metrics | [Publication](https://doi.org/10.1159/000026154) |
+| 1998 | sar image | AI Infrastructure | [Publication](https://doi.org/10.1117/12.331356) |
+| 1998 | satisfying assignments | AI Foundations | [Publication](https://doi.org/10.1145/276698.276869) |
+| 1998 | Schema Matching | AI Foundations | [Publication](https://openalex.org/W2142104809) |
+| 1998 | Score Matching | Machine Learning | [Publication](https://doi.org/10.3386/w6829) |
+| 1998 | Search Tree | AI Foundations | [Publication](https://doi.org/10.1145/275295.275354) |
+| 1998 | Second-Price Auction | AI Applications | [Publication](https://doi.org/10.1086/250032) |
+| 1998 | security services | AI Infrastructure | [Publication](https://doi.org/10.1016/s0167-4048(98)80321-0) |
+| 1998 | self-adaptive software | Programming & Software | [Publication](https://doi.org/10.1145/274946.274958) |
+| 1998 | semidefinite relaxation | Mathematics | [Publication](https://doi.org/10.1080/10556789808805690) |
+| 1998 | Sentence Alignment | NLP and LLMs | [Publication](https://doi.org/10.1023/a:1008010319408) |
+| 1998 | shared secrets | AI Infrastructure | [Publication](https://doi.org/10.1016/s0167-4048(98)80102-8) |
+| 1998 | signcryption schemes | AI Safety | [Publication](https://doi.org/10.1049/ip-cdt:19981862) |
+| 1998 | similarity query | Information Retrieval | [Publication](https://doi.org/10.1145/276304.276325) |
+| 1998 | smart antenna | Speech & Audio | [Publication](https://doi.org/10.1109/antem.1998.7861716) |
+| 1998 | soft computing | AI Foundations | [Publication](https://doi.org/10.1007/s005000050025) |
+| 1998 | Spatial Audio | Speech & Audio | [Publication](https://doi.org/10.1049/ic:19980822) |
+| 1998 | spatial objects | Information Retrieval | [Publication](https://doi.org/10.1080/10095020.1998.10553282) |
+| 1998 | spatio-temporal database | AI Infrastructure | [Publication](https://doi.org/10.1145/330560.330675) |
+| 1998 | spiking neural networks | Deep Learning | [Publication](https://doi.org/10.7551/mitpress/5704.003.0014) |
+| 1998 | stochastic resonance | Mathematics | [Publication](https://doi.org/10.21236/ada353456) |
+| 1998 | Structural Risk | AI Safety | [Publication](https://doi.org/10.1201/noe0849399831.ax11) |
+| 1998 | surveillance applications | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4615-5271-0_2) |
+| 1998 | surveillance systems | AI Safety | [Publication](https://doi.org/10.1007/978-1-4615-5271-0_9) |
+| 1998 | syntactic information | NLP and LLMs | [Publication](https://doi.org/10.1016/s0306-4573(98)00026-0) |
+| 1998 | system level design | AI Infrastructure | [Publication](https://doi.org/10.1109/iwv.1998.667104) |
+| 1998 | Table Structure Recognition | Computer Vision | [Publication](https://doi.org/10.1117/12.304642) |
+| 1998 | tactile sensation | Robotics | [Publication](https://doi.org/10.1016/s0166-4115(98)x8029-5) |
+| 1998 | television networks | Speech & Audio | [Publication](https://doi.org/10.1007/978-3-642-58779-5_9) |
+| 1998 | text mining | NLP and LLMs | [Publication](https://doi.org/10.1007/978-0-387-35300-5_3) |
+| 1998 | textual data | NLP and LLMs | [Publication](https://doi.org/10.1007/978-94-017-1525-6_6) |
+| 1998 | Tim Berners-Lee | People & Organizations | [Publication](https://doi.org/10.1108/k.1998.06727hag.002) |
+| 1998 | timed automata | NLP and LLMs | [Publication](https://doi.org/10.21236/ada359891) |
+| 1998 | Token Accounting | Agentic AI | [Publication](https://doi.org/10.2308/0148-4184.25.1.1) |
+| 1998 | transmit diversity | Speech & Audio | [Publication](https://doi.org/10.1109/25.661038) |
+| 1998 | Turbo Code | Signal & Information Theory | [Publication](https://doi.org/10.1049/el:19980251) |
+| 1998 | turbo equalization | Mathematics | [Publication](https://doi.org/10.1109/4234.664220) |
+| 1998 | ultrasonic sensor | Robotics | [Publication](https://doi.org/10.1016/b978-008043339-4/50079-1) |
+| 1998 | user preferences | AI Applications | [Publication](https://doi.org/10.1145/291080.291095) |
+| 1998 | user profile | Information Retrieval | [Publication](https://doi.org/10.1023/a:1006604214517) |
+| 1998 | Variable Bitrate | Signal & Information Theory | [Publication](https://doi.org/10.1121/1.422244) |
+| 1998 | video browsing | AI Applications | [Publication](https://doi.org/10.1145/324332.324336) |
+| 1998 | video objects | Computer Vision | [Publication](https://doi.org/10.1109/76.718504) |
+| 1998 | video shots | Machine Learning | [Publication](https://doi.org/10.1097/00063110-199803000-00046) |
+| 1998 | Video Summarization | Computer Vision | [Publication](https://doi.org/10.21236/ada459300) |
+| 1998 | view-dependent | AI Applications | [Publication](https://doi.org/10.1109/visual.1998.745300) |
+| 1998 | virtual organization | AI Applications | [Publication](https://doi.org/10.1007/978-3-642-60327-3_6) |
+| 1998 | visual feature | Machine Learning | [Publication](https://doi.org/10.1080/713756794) |
+| 1998 | visual surveillance | Computer Vision | [Publication](https://doi.org/10.1109/wvs.1998.646012) |
+| 1998 | Voice of the Customer | AI Applications | [Publication](https://doi.org/10.1016/b978-0-7506-3809-8.50007-9) |
+| 1998 | wavelet threshold | Computer Vision | [Publication](https://doi.org/10.1117/12.304907) |
+| 1998 | wdm optical networks | AI Infrastructure | [Publication](https://doi.org/10.1364/ona.1998.ov2) |
+| 1998 | web application development | Programming & Software | [Publication](https://openalex.org/W640555736) |
+| 1998 | wireless local area networks | AI Infrastructure | [Publication](https://doi.org/10.1023/a:1019171015383) |
+| 1998 | wireless telecommunication systems | AI Infrastructure | [Publication](https://doi.org/10.1109/16.678548) |
+| 1998 | wrapper approach | Machine Learning | [Publication](https://doi.org/10.1007/978-1-4615-5725-8_3) |
+| 1998 | xml files | AI Infrastructure | [Publication](https://doi.org/10.1093/combul/40.3.27) |
+| 1998 | Zero Moment Point (ZMP) | Robotics | [Publication](https://doi.org/10.1115/imece1998-0180) |
+| 1998 ★★ | 28s rrna | Machine Learning | [Indirect context](https://doi.org/10.17504/protocols.io.d7u9nv) — NOT keyword evidence |
+| 1998 ★★ | 3-d displays | AI Applications | [Indirect context](https://doi.org/10.1007/978-94-017-2813-3_16) — NOT keyword evidence |
+| 1998 ★★ | 3d data processing | Data Science | [Indirect context](https://doi.org/10.21236/ada238235) — NOT keyword evidence |
+| 1998 ★★ | 3d object retrieval | Machine Learning | [Indirect context](https://doi.org/10.4018/978-1-60566-174-2.ch014) — NOT keyword evidence |
+| 1998 ★★ | A-Optimality | Mathematics | [Indirect context](https://doi.org/10.1007/bf02680555) — NOT keyword evidence |
+| 1998 ★★ | aal | Agentic AI | [Indirect context](https://doi.org/10.1049/ic:19960651) — NOT keyword evidence |
+| 1998 ★★ | Acceptance Rate of Suggestions | Evaluation & Metrics | [Indirect context](https://doi.org/10.2172/5580038) — NOT keyword evidence |
+| 1998 ★★ | AI Treaty | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | AI warfare | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Alexander Y. Tetelbaum | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Anthropic | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Appeal Timeline | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Argument Mining | NLP and LLMs | [Indirect context](https://doi.org/10.3765/bls.v13i0.1825) — NOT keyword evidence |
+| 1998 ★★ | ASR-complete | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Asymptotic equipartition property (AEP) | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | at-speed | AI Infrastructure | [Indirect context](https://doi.org/10.1109/mspec.1998.694343) — NOT keyword evidence |
+| 1998 ★★ | audio coding | Computer Vision | [Indirect context](https://doi.org/10.4018/978-1-59140-192-6.ch004) — NOT keyword evidence |
+| 1998 ★★ | Audit Trail | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Augmented Dickey-Fuller Test (ADF) | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Autognostics | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | automated pattern recognition | Computer Vision | [Indirect context](https://doi.org/10.1016/s1361-8415(96)80007-7) — NOT keyword evidence |
+| 1998 ★★ | Backjumping | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | bayesian | AI Foundations | [Indirect context](https://doi.org/10.1201/9781420010701-8) — NOT keyword evidence |
+| 1998 ★★ | bayesian estimation | AI Foundations | [Indirect context](https://doi.org/10.1201/9781420010701-8) — NOT keyword evidence |
+| 1998 ★★ | bayesian estimations | AI Foundations | [Indirect context](https://doi.org/10.1201/9781420010701-8) — NOT keyword evidence |
+| 1998 ★★ | bayesian models | AI Foundations | [Indirect context](https://doi.org/10.1201/9781420010701-8) — NOT keyword evidence |
+| 1998 ★★ | Behaviour Tree in Games | AI Applications | [Indirect context](https://doi.org/10.32388/ecbzth) — NOT keyword evidence |
+| 1998 ★★ | Belief–desire–intention model (BDI) | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Benefits Realization | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Benjamini-Hochberg Procedure (BH) | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Berkson's Paradox | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Bijection | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | bit-rate savings | Computer Vision | [Indirect context](https://doi.org/10.1002/j.1538-7305.1978.tb02074.x) — NOT keyword evidence |
+| 1998 ★★ | Blinding | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | BPP | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | British Museum algorithm | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Capability Overhang | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Case Outcome Prediction | AI Foundations | [Indirect context](https://doi.org/10.1016/j.econlet.2011.03.004) — NOT keyword evidence |
+| 1998 ★★ | Catastrophic Cancellation | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Caveat | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Central Difference | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Centre for Genomic Pathogen Surveillance | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | certificate authority | AI Infrastructure | [Indirect context](https://doi.org/10.3233/jcs-1992-13-406) — NOT keyword evidence |
+| 1998 ★★ | certificate-based | AI Infrastructure | [Indirect context](https://doi.org/10.3233/jcs-1992-13-406) — NOT keyword evidence |
+| 1998 ★★ | Cherry-Picked Example | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | CI/CD for ML | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Civil Society Organization | People & Organizations | [Indirect context](https://doi.org/10.1177/109821408500600106) — NOT keyword evidence |
+| 1998 ★★ | clinical laboratory information systems | AI Infrastructure | [Indirect context](https://doi.org/10.1080/17517570601092127) — NOT keyword evidence |
+| 1998 ★★ | Clique | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Cloem | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Cluster Utilization | AI Infrastructure | [Indirect context](https://doi.org/10.1177/009155218501300101) — NOT keyword evidence |
+| 1998 ★★ | co-operative diversity | AI Infrastructure | [Indirect context](https://doi.org/10.1109/25.661038) — NOT keyword evidence |
+| 1998 ★★ | Cohen's d | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Cohere Organization | People & Organizations | [Indirect context](https://doi.org/10.1177/109821408500600106) — NOT keyword evidence |
+| 1998 ★★ | Collectively exhaustive events | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Commoditization | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Completeness Check | AI Infrastructure | [Indirect context](https://doi.org/10.3233/jcs-2007-0306) — NOT keyword evidence |
+| 1998 ★★ | Computational Chemistry | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Confidence Display | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Constraint Propagation | Mathematics | [Indirect context](https://doi.org/10.1007/bf03038310) — NOT keyword evidence |
+| 1998 ★★ | Contestation Right | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Context Compression | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | controlled vocabulary | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-3-662-04396-7_2) — NOT keyword evidence |
+| 1998 ★★ | cooperative games | Reinforcement Learning | [Indirect context](https://doi.org/10.7551/mitpress/3125.003.0005) — NOT keyword evidence |
+| 1998 ★★ | Correction Cascade | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Correlation Does Not Imply Causation | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Cost-Benefit Analysis | Data Science | [Indirect context](https://doi.org/10.1093/jof/64.5.326) — NOT keyword evidence |
+| 1998 ★★ | Covariate Balance | Mathematics | [Indirect context](https://doi.org/10.1103/physrev.84.1259) — NOT keyword evidence |
+| 1998 ★★ | cpw | AI Infrastructure | [Indirect context](https://doi.org/10.1002/(sici)1098-2760(199811)19:4<257::aid-mop4>3.0.co) — NOT keyword evidence |
+| 1998 ★★ | Cryptographically Secure Randomness | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | CUPED | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Cutover | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Cycle Consistency Loss | Generative AI | [Indirect context](https://doi.org/10.1515/9780773563117-007) — NOT keyword evidence |
+| 1998 ★★ | cyclic code | Speech & Audio | [Indirect context](https://doi.org/10.1049/ip-i-2.1993.0058) — NOT keyword evidence |
+| 1998 ★★ | cyclic codes | Speech & Audio | [Indirect context](https://openalex.org/W2749426592) — NOT keyword evidence |
+| 1998 ★★ | D-Optimality | Mathematics | [Indirect context](https://doi.org/10.1007/bf02680555) — NOT keyword evidence |
+| 1998 ★★ | decomposition level | Computer Vision | [Indirect context](https://doi.org/10.1016/b978-0-12-047140-9.50008-1) — NOT keyword evidence |
+| 1998 ★★ | Degree | Mathematics | [Indirect context](https://doi.org/10.1021/ci00015a006) — NOT keyword evidence |
+| 1998 ★★ | Dependent Type | AI Foundations | [Indirect context](https://doi.org/10.1007/bfb0056613) — NOT keyword evidence |
+| 1998 ★★ | Deprecation Timeline | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | design flow | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ada207317) — NOT keyword evidence |
+| 1998 ★★ | Deviance | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | dielectric substrates | AI Infrastructure | [Indirect context](https://doi.org/10.1049/ic:19980078) — NOT keyword evidence |
+| 1998 ★★ | Differentiability | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Digital Rights Organization | People & Organizations | [Indirect context](https://doi.org/10.1177/109821408500600106) — NOT keyword evidence |
+| 1998 ★★ | Direct and indirect realism | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Direct sum of matrices | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Discoverability | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | display system | AI Applications | [Indirect context](https://doi.org/10.1007/978-94-017-2813-3_16) — NOT keyword evidence |
+| 1998 ★★ | display technologies | AI Applications | [Indirect context](https://doi.org/10.1007/978-94-017-2813-3_16) — NOT keyword evidence |
+| 1998 ★★ | Dissociation (neuropsychology) | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | diversity methods | Speech & Audio | [Indirect context](https://doi.org/10.1109/jrproc.1959.287136) — NOT keyword evidence |
+| 1998 ★★ | diversity order | AI Infrastructure | [Indirect context](https://doi.org/10.1109/25.661038) — NOT keyword evidence |
+| 1998 ★★ | Divide and Conquer | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | dna 23s | Machine Learning | [Indirect context](https://doi.org/10.1016/0024-3205(70)90058-5) — NOT keyword evidence |
+| 1998 ★★ | edge information | Computer Vision | [Indirect context](https://doi.org/10.21236/ada059124) — NOT keyword evidence |
+| 1998 ★★ | edge map | Computer Vision | [Indirect context](https://doi.org/10.21236/ada059124) — NOT keyword evidence |
+| 1998 ★★ | Effective Degrees of Freedom | Mathematics | [Indirect context](https://doi.org/10.1016/0370-2693(87)90453-9) — NOT keyword evidence |
+| 1998 ★★ | Empirical Bayes | Mathematics | [Indirect context](https://doi.org/10.2307/2331920) — NOT keyword evidence |
+| 1998 ★★ | Energy-Based Model (EBM) | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Entanglement in ML Systems | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Epigraph | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Erasure Code | Signal & Information Theory | [Indirect context](https://doi.org/10.1049/el.2018.5867) — NOT keyword evidence |
+| 1998 ★★ | Eval Harness | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | evolutionary approach | AI Foundations | [Indirect context](https://doi.org/10.1007/978-3-642-61217-6_1) — NOT keyword evidence |
+| 1998 ★★ | evolutionary process | AI Foundations | [Indirect context](https://doi.org/10.1007/978-3-642-61217-6_1) — NOT keyword evidence |
+| 1998 ★★ | evolutionary programming | AI Foundations | [Indirect context](https://doi.org/10.1007/978-3-642-61217-6_1) — NOT keyword evidence |
+| 1998 ★★ | Experiment Tracking | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Explainable Interface | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Explained Variance Score | Evaluation & Metrics | [Indirect context](https://doi.org/10.1109/icassp.2017.7952147) — NOT keyword evidence |
+| 1998 ★★ | Exploration-Exploitation Tradeoff | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Expressivity | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Eye movement in reading | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Eye tracking | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Eye Tracking in Displays | Computer Graphics | [Indirect context](https://doi.org/10.1016/s0042-6989(97)00397-0) — NOT keyword evidence |
+| 1998 ★★ | facial expression | Machine Learning | [Indirect context](https://doi.org/10.1109/chicc.2006.280876) — NOT keyword evidence |
+| 1998 ★★ | facial expressions | Machine Learning | [Indirect context](https://doi.org/10.1109/chicc.2006.280876) — NOT keyword evidence |
+| 1998 ★★ | fcm | Machine Learning | [Indirect context](https://doi.org/10.1109/cicn.2011.62) — NOT keyword evidence |
+| 1998 ★★ | fcm algorithm | Machine Learning | [Indirect context](https://doi.org/10.1109/cicn.2011.62) — NOT keyword evidence |
+| 1998 ★★ | Feature Interaction Strength | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Feature Store | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | fiber to the home | AI Infrastructure | [Indirect context](https://doi.org/10.1109/30.713188) — NOT keyword evidence |
+| 1998 ★★ | Finite State Machine for Robots | Robotics | [Indirect context](https://doi.org/10.1109/tit.1970.1054474) — NOT keyword evidence |
+| 1998 ★★ | first-order statistics | Mathematics | [Indirect context](https://doi.org/10.1007/bf02680555) — NOT keyword evidence |
+| 1998 ★★ | Forethought Technologies | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Formality Control | NLP and LLMs | [Indirect context](https://doi.org/10.1016/0967-0661(93)91985-6) — NOT keyword evidence |
+| 1998 ★★ | G-Computation | Causal Inference | [Indirect context](https://doi.org/10.1016/s0038-1098(97)10001-1) — NOT keyword evidence |
+| 1998 ★★ | Gale-Shapley Algorithm | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | gateway nodes | AI Infrastructure | [Indirect context](https://www.rfc-editor.org/info/rfc1105) — NOT keyword evidence |
+| 1998 ★★ | GEMM | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | gender recognition | Machine Learning | [Indirect context](https://doi.org/10.1109/chicc.2006.280876) — NOT keyword evidence |
+| 1998 ★★ | genes, rrna | Machine Learning | [Indirect context](https://doi.org/10.17504/protocols.io.d7u9nv) — NOT keyword evidence |
+| 1998 ★★ | genetic speciation | Machine Learning | [Indirect context](https://doi.org/10.5957/pss-2000-16) — NOT keyword evidence |
+| 1998 ★★ | Geodesic | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | geometric distortion | Computer Vision | [Indirect context](https://doi.org/10.1109/vlsm.2001.938893) — NOT keyword evidence |
+| 1998 ★★ | geometric distortions | Computer Vision | [Indirect context](https://doi.org/10.1109/vlsm.2001.938893) — NOT keyword evidence |
+| 1998 ★★ | Global Consistency Check | Generative AI | [Indirect context](https://doi.org/10.1515/9780773563117-007) — NOT keyword evidence |
+| 1998 ★★ | GMRES | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Goodness of Fit | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | GPU (Graphics Processing Unit) | AI Infrastructure | [Indirect context](https://doi.org/10.1021/bi981964u) — NOT keyword evidence |
+| 1998 ★★ | Graceful Degradation of Models | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tnet.2006.876152) — NOT keyword evidence |
+| 1998 ★★ | graphics processing unit | AI Infrastructure | [Indirect context](https://doi.org/10.2139/ssrn.1020207) — NOT keyword evidence |
+| 1998 ★★ | Greatest Common Divisor | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | ground point | AI Infrastructure | [Indirect context](https://doi.org/10.1016/b978-0-444-53348-7.00003-x) — NOT keyword evidence |
+| 1998 ★★ | Guardrails | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Gödel machine | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Hamming Code | Signal & Information Theory | [Indirect context](https://doi.org/10.1049/el.2018.5867) — NOT keyword evidence |
+| 1998 ★★ | hash | AI Safety | [Indirect context](https://doi.org/10.1016/0167-4048(92)90007-e) — NOT keyword evidence |
+| 1998 ★★ | Health Check Endpoint | AI Infrastructure | [Indirect context](https://doi.org/10.3233/jcs-2007-0306) — NOT keyword evidence |
+| 1998 ★★ | Heap | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Held-Out Split Integrity | Evaluation & Metrics | [Indirect context](https://doi.org/10.24963/ijcai.2023/749) — NOT keyword evidence |
+| 1998 ★★ | helmet mounted displays | AI Applications | [Indirect context](https://doi.org/10.21236/ada250866) — NOT keyword evidence |
+| 1998 ★★ | hispanic americans | Data Science | [Indirect context](https://doi.org/10.1093/acref/9780195301731.013.50970) — NOT keyword evidence |
+| 1998 ★★ | Histogram of oriented displacements (HOD) | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | home network | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-4615-6341-9_19) — NOT keyword evidence |
+| 1998 ★★ | Hybrid Quantum-Classical Loop | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1016/s0038-1098(97)10001-1) — NOT keyword evidence |
+| 1998 ★★ | id-based | AI Safety | [Indirect context](https://doi.org/10.1080/00224545.1981.9924347) — NOT keyword evidence |
+| 1998 ★★ | Idle Resource | AI Infrastructure | [Indirect context](https://doi.org/10.1115/93-gt-175) — NOT keyword evidence |
+| 1998 ★★ | Implicit Feedback Signal | AI Foundations | [Indirect context](https://doi.org/10.3410/f.1006710.83755) — NOT keyword evidence |
+| 1998 ★★ | Individual Conditional Expectation (ICE) | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Infimum | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | information assurance | AI Infrastructure | [Indirect context](https://doi.org/10.1080/17517570601092127) — NOT keyword evidence |
+| 1998 ★★ | information systems | AI Infrastructure | [Indirect context](https://doi.org/10.1080/17517570601092127) — NOT keyword evidence |
+| 1998 ★★ | Intelligent control | AI Foundations | [Indirect context](https://doi.org/10.1142/9789812704313_0007) — NOT keyword evidence |
+| 1998 ★★ | intermediate node | AI Infrastructure | [Indirect context](https://doi.org/10.1117/12.2299016) — NOT keyword evidence |
+| 1998 ★★ | inverse kinematics problem | Robotics | [Indirect context](https://doi.org/10.1002/rob.4620070406) — NOT keyword evidence |
+| 1998 ★★ | IPO underpricing algorithm | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | iptv services | AI Infrastructure | [Indirect context](https://doi.org/10.1109/isbmsb.2008.4536620) — NOT keyword evidence |
+| 1998 ★★ | ISO/IEC 23894 | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | it investment | AI Infrastructure | [Indirect context](https://doi.org/10.1111/j.1365-2575.1992.tb00081.x) — NOT keyword evidence |
+| 1998 ★★ | it investments | AI Infrastructure | [Indirect context](https://doi.org/10.1111/j.1365-2575.1992.tb00081.x) — NOT keyword evidence |
+| 1998 ★★ | K-FAC | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | KAoS | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Karush–Kuhn–Tucker conditions (KKT) | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Kernel Smoothing | Mathematics | [Indirect context](https://doi.org/10.4095/128121) — NOT keyword evidence |
+| 1998 ★★ | Lagrange multiplier | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | LAPACK | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | large displays | AI Applications | [Indirect context](https://doi.org/10.1007/978-94-017-2813-3_16) — NOT keyword evidence |
+| 1998 ★★ | Lattice in Cryptography | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Learning | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Learning from Near Miss | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | LeNet | Deep Learning | [Indirect context](https://doi.org/10.1109/5.726791) — NOT keyword evidence |
+| 1998 ★★ | Leverage | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Lifelong Learning (LLL) | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Lighting Description | Generative AI | [Indirect context](https://doi.org/10.1177/096032719002200202) — NOT keyword evidence |
+| 1998 ★★ | LIME | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Linear Colour Space | Computer Graphics | [Indirect context](https://doi.org/10.1007/bf02544277) — NOT keyword evidence |
+| 1998 ★★ | Linear Quadratic Regulator (LQR) | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Linearization | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Listwise Deletion | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | logistics information | AI Infrastructure | [Indirect context](https://doi.org/10.1080/17517570601092127) — NOT keyword evidence |
+| 1998 ★★ | Longitudinal Data | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Louvain Method | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | low-energy adaptive clustering hierarchies | Machine Learning | [Indirect context](https://doi.org/10.1109/cicn.2011.62) — NOT keyword evidence |
+| 1998 ★★ | Lulu smoothing | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | MANOVA | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Means–ends analysis | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Measurement in Quantum Computing | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1201/b15868-6) — NOT keyword evidence |
+| 1998 ★★ | mechatronics | Robotics | [Indirect context](https://doi.org/10.1002/j.2168-9830.1997.tb00273.x) — NOT keyword evidence |
+| 1998 ★★ | Mesa-Optimizer | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Metric Restatement | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Mindpixel | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Missing Completely at Random (MCAR) | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Missing Not at Random (MNAR) | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | mobile agent security | Agentic AI | [Indirect context](https://doi.org/10.6028/nist.sp.800-19) — NOT keyword evidence |
+| 1998 ★★ | mobile agent system | Agentic AI | [Indirect context](https://doi.org/10.6028/nist.sp.800-19) — NOT keyword evidence |
+| 1998 ★★ | mobile communication | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-4615-6377-8_4) — NOT keyword evidence |
+| 1998 ★★ | mobile communications | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-4615-6377-8_4) — NOT keyword evidence |
+| 1998 ★★ | mobile users | AI Infrastructure | [Indirect context](https://doi.org/10.7748/ns.10.15.9.s18) — NOT keyword evidence |
+| 1998 ★★ | Model | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Model Moat | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Model Registry | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Model Retirement | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Model Theory | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Modulus | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | molecular beams | AI Infrastructure | [Indirect context](https://doi.org/10.1016/c2013-0-03214-8) — NOT keyword evidence |
+| 1998 ★★ | Momentum | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Moreau Envelope | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Narrative inquiry | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Narrow AI (ANI) | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Nash Equilibrium (NE) | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Nested Resampling | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Neural Processing Unit (NPU) | AI Infrastructure | [Indirect context](https://doi.org/10.1021/bi981964u) — NOT keyword evidence |
+| 1998 ★★ | Neurocomputing (journal) | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Neurorobotics | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | NIST AI RMF | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | node localization | AI Infrastructure | [Indirect context](https://doi.org/10.1117/12.2299016) — NOT keyword evidence |
+| 1998 ★★ | Noise Schedule | AI Foundations | [Indirect context](https://doi.org/10.1007/978-3-319-45817-5_36) — NOT keyword evidence |
+| 1998 ★★ | Nolot | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Nonce | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Nondeterministic Data Order | AI Infrastructure | [Indirect context](https://doi.org/10.1145/30350.30353) — NOT keyword evidence |
+| 1998 ★★ | Nouvelle AI | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Occlusion Culling | Computer Graphics | [Indirect context](https://doi.org/10.1007/978-3-7091-6215-6_10) — NOT keyword evidence |
+| 1998 ★★ | Occupational Exposure | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Operation Serenata de Amor | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | optimal mechanism | Reinforcement Learning | [Indirect context](https://doi.org/10.21136/cpm.1959.117317) — NOT keyword evidence |
+| 1998 ★★ | Output Snapshot Testing | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tmag.2004.828987) — NOT keyword evidence |
+| 1998 ★★ | PageRank | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Periodic Revalidation | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | personal area networks | Speech & Audio | [Indirect context](https://doi.org/10.2514/6.1992-1911) — NOT keyword evidence |
+| 1998 ★★ | Perspective Consistency | Generative AI | [Indirect context](https://doi.org/10.1515/9780773563117-007) — NOT keyword evidence |
+| 1998 ★★ | PII | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Pivoting | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Plant | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Plotting algorithms for the Mandelbrot set | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Poset | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Prefix Code | Signal & Information Theory | [Indirect context](https://doi.org/10.1049/el.2018.5867) — NOT keyword evidence |
+| 1998 ★★ | probabilistic inference | AI Foundations | [Indirect context](https://doi.org/10.1016/s0266-8920(97)00029-5) — NOT keyword evidence |
+| 1998 ★★ | Prosody | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | protein database | AI Applications | [Indirect context](https://doi.org/10.1126/science.279.5351.645c) — NOT keyword evidence |
+| 1998 ★★ | Provenance of Results | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | PSPACE | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Pullback | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Pure Function | Programming & Software | [Indirect context](https://doi.org/10.14236/ewic/nfm1998.7) — NOT keyword evidence |
+| 1998 ★★ | Qloo | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Quadtree | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Quality-Cost Elasticity | Machine Learning | [Indirect context](https://openalex.org/W156266736) — NOT keyword evidence |
+| 1998 ★★ | Quality-Cost Frontier | Evaluation & Metrics | [Indirect context](https://doi.org/10.1006/clad.1998.0066) — NOT keyword evidence |
+| 1998 ★★ | Quantum Error Correction (QEC) | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1016/s0038-1098(97)10001-1) — NOT keyword evidence |
+| 1998 ★★ | Quantum Internet | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1016/s0038-1098(97)10001-1) — NOT keyword evidence |
+| 1998 ★★ | Quantum Sensing | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1016/s0038-1098(97)10001-1) — NOT keyword evidence |
+| 1998 ★★ | Quantum Software Development Kit | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1016/s0038-1098(97)10001-1) — NOT keyword evidence |
+| 1998 ★★ | Quantum Supremacy | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1016/s0038-1098(97)10001-1) — NOT keyword evidence |
+| 1998 ★★ | Quantum Volume | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1016/s0038-1098(97)10001-1) — NOT keyword evidence |
+| 1998 ★★ | Quartile | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Query Expansion | NLP and LLMs | [Indirect context](https://doi.org/10.1111/j.2044-8279.1964.tb00643.x) — NOT keyword evidence |
+| 1998 ★★ | Quota | Agentic AI | [Indirect context](https://doi.org/10.1023/a:1004930631206) — NOT keyword evidence |
+| 1998 ★★ | Radical constructivism | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Raking | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Ray | Tools & Frameworks | [Indirect context](https://doi.org/10.4095/130830) — NOT keyword evidence |
+| 1998 ★★ | real time service | AI Infrastructure | [Indirect context](https://doi.org/10.17487/rfc2326) — NOT keyword evidence |
+| 1998 ★★ | Realizable Setting | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | reasoner | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-3-662-04396-7_2) — NOT keyword evidence |
+| 1998 ★★ | receive diversity | AI Infrastructure | [Indirect context](https://doi.org/10.1109/aps.1980.1148383) — NOT keyword evidence |
+| 1998 ★★ | recognition algorithm | Machine Learning | [Indirect context](https://doi.org/10.1109/chicc.2006.280876) — NOT keyword evidence |
+| 1998 ★★ | Refinement Pass | Generative AI | [Indirect context](https://doi.org/10.1101/2023.12.23.573201) — NOT keyword evidence |
+| 1998 ★★ | Reflection Consistency | Generative AI | [Indirect context](https://doi.org/10.1515/9780773563117-007) — NOT keyword evidence |
+| 1998 ★★ | Refugee Services Planning | AI Applications | [Indirect context](https://openalex.org/W3173050777) — NOT keyword evidence |
+| 1998 ★★ | register transfer level | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ada172975) — NOT keyword evidence |
+| 1998 ★★ | registration algorithms | Computer Vision | [Indirect context](https://doi.org/10.1016/s1361-8415(01)80026-8) — NOT keyword evidence |
+| 1998 ★★ | registration techniques | Computer Vision | [Indirect context](https://doi.org/10.1016/s1361-8415(01)80026-8) — NOT keyword evidence |
+| 1998 ★★ | Reproducible Demo | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Residual Connection | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | restoration methods | Computer Vision | [Indirect context](https://doi.org/10.1117/12.968933) — NOT keyword evidence |
+| 1998 ★★ | Restricted Isometry Property (RIP) | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Reviewer Agreement with Model | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | rigid registration | Computer Vision | [Indirect context](https://doi.org/10.1016/s1361-8415(01)80026-8) — NOT keyword evidence |
+| 1998 ★★ | Runbook Coverage | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Sampler | Generative AI | [Indirect context](https://doi.org/10.1039/b408637f) — NOT keyword evidence |
+| 1998 ★★ | Satisfiability | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Scalar (mathematics) | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Scratchpad | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Search Heuristic for CSP | AI Foundations | [Indirect context](https://doi.org/10.1080/095372899233334) — NOT keyword evidence |
+| 1998 ★★ | Seed Reproducibility | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Sentencing Algorithm | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | service requirements | AI Infrastructure | [Indirect context](https://doi.org/10.1007/bf00429748) — NOT keyword evidence |
+| 1998 ★★ | Shot Noise in Quantum Computing | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1201/b15868-6) — NOT keyword evidence |
+| 1998 ★★ | Sieve of Pritchard | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Sigmoid Saturation | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | similarity retrieval | Machine Learning | [Indirect context](https://doi.org/10.3758/bf03199712) — NOT keyword evidence |
+| 1998 ★★ | Simpson's Reversal | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Simulation Environment for Robots | Robotics | [Indirect context](https://doi.org/10.1177/003754976300100111) — NOT keyword evidence |
+| 1998 ★★ | Singular Value Decomposition (SVD) | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Skill Erosion | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Skip List | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | sliding mode control | Robotics | [Indirect context](https://doi.org/10.1109/91.705510) — NOT keyword evidence |
+| 1998 ★★ | small sample size | Machine Learning | [Indirect context](https://doi.org/10.1016/b978-0-444-88740-5.50008-6) — NOT keyword evidence |
+| 1998 ★★ | small sample size problem | Machine Learning | [Indirect context](https://doi.org/10.1016/b978-0-444-88740-5.50008-6) — NOT keyword evidence |
+| 1998 ★★ | source address | AI Infrastructure | [Indirect context](https://doi.org/10.17487/rfc1365) — NOT keyword evidence |
+| 1998 ★★ | space diversity | AI Infrastructure | [Indirect context](https://doi.org/10.1109/25.661038) — NOT keyword evidence |
+| 1998 ★★ | Specificity | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Stakeholder Sign-Off | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | stereoscopic displays | AI Applications | [Indirect context](https://doi.org/10.1117/12.19895) — NOT keyword evidence |
+| 1998 ★★ | Stochastic Parrot | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Subgradient | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Subset | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Sunsetting a System | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Supremum | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | SUPS | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Surrogate Model Fidelity | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Survival Analysis | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | SUTVA | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Switchback Experiment | Mathematics | [Indirect context](https://doi.org/10.1095/biolreprod56.2.328) — NOT keyword evidence |
+| 1998 ★★ | Syman | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | tactile display | AI Applications | [Indirect context](https://doi.org/10.1093/oso/9780195075557.003.0019) — NOT keyword evidence |
+| 1998 ★★ | Task Success Rate for Users | Evaluation & Metrics | [Indirect context](https://doi.org/10.4200/jjhg1948.50.507) — NOT keyword evidence |
+| 1998 ★★ | Teacher forcing | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Technical Feasibility | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Tesla Dojo | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | test pattern generator | AI Safety | [Indirect context](https://doi.org/10.1093/comjnl/10.1.74) — NOT keyword evidence |
+| 1998 ★★ | text document | NLP and LLMs | [Indirect context](https://doi.org/10.1007/978-0-387-35300-5_3) — NOT keyword evidence |
+| 1998 ★★ | the standard model | AI Infrastructure | [Indirect context](https://doi.org/10.6028/nist.ir.6390) — NOT keyword evidence |
+| 1998 ★★ | Thinkfree Office | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Tool Invocation | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Train/Validation/Test Split | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Transparency Obligation | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Tripwire | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | Trough of Disillusionment | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | umls | AI Applications | [Indirect context](https://doi.org/10.21236/ada301695) — NOT keyword evidence |
+| 1998 ★★ | Undeclared Consumer | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | unified medical language system | AI Applications | [Indirect context](https://doi.org/10.21236/ada301695) — NOT keyword evidence |
+| 1998 ★★ | unified medical language systems | AI Applications | [Indirect context](https://doi.org/10.21236/ada301695) — NOT keyword evidence |
+| 1998 ★★ | United States Tech Force | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | user profiling | Information Retrieval | [Indirect context](https://doi.org/10.2514/6.1974-649) — NOT keyword evidence |
+| 1998 ★★ | Validation Curve | Machine Learning | [Indirect context](https://doi.org/10.31219/osf.io/exw3j) — NOT keyword evidence |
+| 1998 ★★ | Variance | AI Foundations | [Indirect context](https://doi.org/10.2139/ssrn.705802) — NOT keyword evidence |
+| 1998 ★★ | variational bayesian | AI Foundations | [Indirect context](https://doi.org/10.1201/9781420010701-8) — NOT keyword evidence |
+| 1998 ★★ | vbm | Computer Vision | [Indirect context](https://doi.org/10.1016/s1361-8415(96)80007-7) — NOT keyword evidence |
+| 1998 ★★ | velocimetry | AI Applications | [Indirect context](https://doi.org/10.1007/978-3-662-03637-2) — NOT keyword evidence |
+| 1998 ★★ | Version Comparison for Users | AI Foundations | [Indirect context](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) — NOT keyword evidence |
+| 1998 ★★ | video game | AI Applications | [Indirect context](https://doi.org/10.1145/324332.324336) — NOT keyword evidence |
+| 1998 ★★ | voice services | AI Infrastructure | [Indirect context](https://doi.org/10.1007/bf00429748) — NOT keyword evidence |
+| 1998 ★★ | wdm | AI Infrastructure | [Indirect context](https://doi.org/10.1049/ic:19970228) — NOT keyword evidence |
+| 1998 ★★ | wireless body area network | AI Infrastructure | [Indirect context](https://doi.org/10.1201/b11522-18) — NOT keyword evidence |
+| 1998 ★★ | wireless local area network (wlan) | AI Infrastructure | [Indirect context](https://doi.org/10.1023/a:1019171015383) — NOT keyword evidence |
+| 1998 ★★ | Workplace robotics safety | Robotics | [Indirect context](https://doi.org/10.4043/13239-ms) — NOT keyword evidence |
+| 1998 ★★ | Wrapper Method | Machine Learning | [Indirect context](https://doi.org/10.1007/978-1-4615-5725-8_3) — NOT keyword evidence |
+| 1999 | 3D Convolution | Computer Vision | [Publication](https://doi.org/10.1109/visual.1999.809934) |
+| 1999 | 3D Stacking | AI Infrastructure | [Publication](https://doi.org/10.3997/2214-4609.201407764) |
+| 1999 | active appearance models | Machine Learning | [Publication](https://doi.org/10.1109/iccv.1999.791209) |
+| 1999 | Actor-Critic | AI Foundations | [Publication](https://doi.org/10.1137/s036301299731669x) |
+| 1999 | ad hoc on demand distance vector | AI Infrastructure | [Publication](https://doi.org/10.1109/mcsa.1999.749281) |
+| 1999 | Adaptation in Case-Based Reasoning | AI Foundations | [Publication](https://doi.org/10.1007/3-540-48508-2_8) |
+| 1999 | adaptive cruise control | AI Foundations | [Publication](https://doi.org/10.1007/978-3-663-01406-5_27) |
+| 1999 | adaptive hypermedia systems | AI Infrastructure | [Publication](https://openalex.org/W1596227404) |
+| 1999 | Adjoint Sensitivity Method | Mathematics | [Publication](https://doi.org/10.1061/(asce)0733-9429(1999)125:7(714)) |
+| 1999 | Adjudication | Data Science | [Publication](https://doi.org/10.1093/acprof:oso/9780198260257.003.0012) |
+| 1999 | advanced encryption standard | AI Infrastructure | [Publication](https://doi.org/10.6028/nist.ir.6390) |
+| 1999 | advanced systems | Speech & Audio | [Publication](https://doi.org/10.1109/dasfaa.1999.765729) |
+| 1999 | advanced video coding | Computer Vision | [Publication](https://doi.org/10.1016/s0928-1479(99)x8001-6) |
+| 1999 | affine projections | Speech & Audio | [Publication](https://doi.org/10.1109/iccv.1999.791232) |
+| 1999 | agent oriented software engineering | Agentic AI | [Publication](https://doi.org/10.1007/3-540-48437-x_1) |
+| 1999 | Aggregation Function | Graph & Network Learning | [Publication](https://doi.org/10.1111/j.1540-5915.1999.tb01616.x) |
+| 1999 | algorithmic mechanism design | Reinforcement Learning | [Publication](https://doi.org/10.1145/301250.301287) |
+| 1999 | anomaly detector | AI Safety | [Publication](https://doi.org/10.1016/s0020-0255(98)10064-6) |
+| 1999 | answer set | AI Foundations | [Publication](https://doi.org/10.7551/mitpress/4304.003.0009) |
+| 1999 | antenna accessories | Speech & Audio | [Publication](https://doi.org/10.1002/047134608x.w1202) |
+| 1999 | Apriori Algorithm | Machine Learning | [Publication](https://doi.org/10.6028/nist.sp.500-246.adhoc-kasetsart) |
+| 1999 | architecting | Programming & Software | [Publication](https://doi.org/10.1145/302405.302720) |
+| 1999 | Artificial consciousness | AI Foundations | [Publication](https://doi.org/10.1023/a:1008374714117) |
+| 1999 | aspect oriented programming | Programming & Software | [Publication](https://doi.org/10.1145/320384.320423) |
+| 1999 | augmented reality applications | AI Applications | [Publication](https://doi.org/10.1201/9781439863992-20) |
+| 1999 | authenticated key agreement | AI Infrastructure | [Publication](https://doi.org/10.1049/el:19990724) |
+| 1999 | Autonomous Agent | AI Foundations | [Publication](https://doi.org/10.1023/a:1010087325358) |
+| 1999 | autonomous robots | Robotics | [Publication](https://doi.org/10.1023/a:1008913712526) |
+| 1999 | binary classification problems | Machine Learning | [Publication](https://doi.org/10.1016/s0167-8655(99)00046-x) |
+| 1999 | binary phase shift keying | Speech & Audio | [Publication](https://doi.org/10.1364/oaa.1999.thd4) |
+| 1999 | biomimetic materials | Robotics | [Publication](https://doi.org/10.1201/9781482298093-14) |
+| 1999 | block transmissions | AI Infrastructure | [Publication](https://doi.org/10.1109/18.761338) |
+| 1999 | bold signal | Computer Vision | [Publication](https://doi.org/10.1002/(sici)1522-2594(199911)42:5<919::aid-mrm12>3.0.co;2-8) |
+| 1999 | Business Continuity Plan | Security & Privacy | [Publication](https://doi.org/10.2172/798666) |
+| 1999 | business process design | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4615-5071-6_2) |
+| 1999 | business process management | AI Infrastructure | [Publication](https://doi.org/10.1108/14637159910249144) |
+| 1999 | Causal Discovery | Causal Inference | [Publication](https://doi.org/10.7551/mitpress/2006.003.0007) |
+| 1999 | certificate management | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc2510) |
+| 1999 | Channel Order | Computer Vision | [Publication](https://doi.org/10.1109/78.806077) |
+| 1999 | channel spacings | AI Infrastructure | [Publication](https://doi.org/10.1109/68.769733) |
+| 1999 | chaotic system | AI Safety | [Publication](https://doi.org/10.1037/e629292011-001) |
+| 1999 | Child Safety Measures | Generative AI | [Publication](https://openalex.org/W43656290) |
+| 1999 | classifier ensembles | Machine Learning | [Publication](https://openalex.org/W872314213) |
+| 1999 | collaborative learning environment | AI Infrastructure | [Publication](https://doi.org/10.3115/1150240.1150256) |
+| 1999 | Compounding | NLP and LLMs | [Publication](https://doi.org/10.1016/s1464-391x(99)80131-7) |
+| 1999 | Computational semiotics | AI Foundations | [Publication](https://doi.org/10.1109/isic.1999.796629) |
+| 1999 | computer-aided diagnosis | Computer Vision | [Publication](https://doi.org/10.21236/ada391457) |
+| 1999 | computing with words | NLP and LLMs | [Publication](https://doi.org/10.1007/978-3-7908-1872-7_13) |
+| 1999 | concept drifts | Machine Learning | [Publication](https://doi.org/10.1145/312129.312267) |
+| 1999 | Confidence Threshold | Evaluation & Metrics | [Publication](https://doi.org/10.21437/eurospeech.1999-360) |
+| 1999 | constant-factor approximation algorithms | Mathematics | [Publication](https://doi.org/10.1007/3-540-46632-0_8) |
+| 1999 | control lyapunov function | Robotics | [Publication](https://doi.org/10.1109/acc.1999.786082) |
+| 1999 | Coreference Resolution | NLP and LLMs | [Publication](https://doi.org/10.3115/1608810.1608821) |
+| 1999 | Cost-Complexity Pruning | Machine Learning | [Publication](https://openalex.org/W156266736) |
+| 1999 | critical success factors | AI Infrastructure | [Publication](https://doi.org/10.3320/1.2763297) |
+| 1999 | crosses, genetic | Data Science | [Publication](https://doi.org/10.1093/genetics/151.4.1493) |
+| 1999 | cybercrimes | AI Safety | [Publication](https://doi.org/10.1007/978-1-349-27641-7_5) |
+| 1999 | Cyclic Redundancy Check (CRC) | Signal & Information Theory | [Publication](https://doi.org/10.1016/s0920-5489(99)90902-9) |
+| 1999 | damage location | AI Infrastructure | [Publication](https://doi.org/10.4028/www.scientific.net/kem.167-168.256) |
+| 1999 | data cubes | Information Retrieval | [Publication](https://doi.org/10.1109/icde.1999.754950) |
+| 1999 | Data Vintage | Time Series & Forecasting | [Publication](https://doi.org/10.21799/frbp.wp.1999.15) |
+| 1999 | data warehousing | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-642-97747-3_5) |
+| 1999 | de-noising | Computer Vision | [Publication](https://doi.org/10.1109/icassp.1999.758262) |
+| 1999 | delay dependent stability criterion | Robotics | [Publication](https://doi.org/10.1109/9.754838) |
+| 1999 | denial of service attacks | AI Safety | [Publication](https://doi.org/10.1201/9781420048872.axa) |
+| 1999 | dependency trees | NLP and LLMs | [Publication](https://doi.org/10.1023/a:1002019504946) |
+| 1999 | design for all | AI Applications | [Publication](https://doi.org/10.1201/9781498702096-21) |
+| 1999 | development processes | Programming & Software | [Publication](https://doi.org/10.5040/9798216188209.ch-001) |
+| 1999 | differential fault analysis | AI Safety | [Publication](https://doi.org/10.1007/3-540-49162-7_19) |
+| 1999 | digital cmos | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4757-4926-7_2) |
+| 1999 | digital libraries | AI Infrastructure | [Publication](https://doi.org/10.1145/313238.313433) |
+| 1999 | discrete wavelet transformation | Computer Vision | [Publication](https://doi.org/10.1002/9780470317020.ch4) |
+| 1999 | distribution systems | AI Infrastructure | [Publication](https://doi.org/10.1049/ic:19990437) |
+| 1999 | dynamic surface control | Deep Learning | [Publication](https://doi.org/10.1109/acc.1999.782886) |
+| 1999 | Eager learning | Machine Learning | [Publication](https://openalex.org/W1551085703) |
