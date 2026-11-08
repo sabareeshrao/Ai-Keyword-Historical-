@@ -1,6 +1,6 @@
 # Batch 22/41 — Historical Keywords
 
-**500 keywords**, sorted chronologically (2002 – 2003). The master CSV retains the original permanent IDs.
+**500 keywords**, sorted chronologically (2002). The master CSV retains the original permanent IDs.
 
 [All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
@@ -10,6 +10,81 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 2002 | cyclic prefix | AI Infrastructure | [Publication](https://doi.org/10.1109/icassp.2002.1005983) |
+| 2002 | Daphne Koller | People & Organizations | [Publication](https://doi.org/10.1109/5254.988441) |
+| 2002 | data warehouse systems | Machine Learning | [Publication](https://doi.org/10.1007/978-1-4419-8530-9_19) |
+| 2002 | Decision Intelligence | Data Science | [Publication](https://doi.org/10.1007/978-3-642-55950-1_1) |
+| 2002 | DeepSeek | Deep Learning | [Publication](https://doi.org/10.5281/zenodo.18753523) |
+| 2002 | delay-dependent criteria | Robotics | [Publication](https://openalex.org/W2305035905) |
+| 2002 | digital forensic | AI Safety | [Publication](https://openalex.org/W24678375) |
+| 2002 | digital watermarking | Computer Vision | [Publication](https://doi.org/10.1016/b978-1-55860-714-9.x5000-7) |
+| 2002 | discernibility matrix | AI Foundations | [Publication](https://doi.org/10.1007/3-540-45813-1_61) |
+| 2002 | distinguishing attacks | AI Safety | [Publication](https://doi.org/10.1007/3-540-45661-9_16) |
+| 2002 | distributed denial of service | AI Safety | [Publication](https://doi.org/10.1016/s1353-4858(02)05008-0) |
+| 2002 | distribution algorithms | AI Foundations | [Publication](https://doi.org/10.1007/978-1-4615-1539-5) |
+| 2002 | dna 18s | Machine Learning | [Publication](https://doi.org/10.1016/s1055-7903(02)00289-0) |
+| 2002 | document clustering | Machine Learning | [Publication](https://doi.org/10.21236/ada439503) |
+| 2002 | downlink systems | AI Infrastructure | [Publication](https://doi.org/10.1049/el:20020057) |
+| 2002 | Drill-Down | Data Science | [Publication](https://doi.org/10.1177/014556130208100608) |
+| 2002 | dvb-rcs | AI Infrastructure | [Publication](https://doi.org/10.2514/6.2002-1879) |
+| 2002 | dynamic environments | Robotics | [Publication](https://doi.org/10.1007/978-1-4615-0911-0_2) |
+| 2002 | Einstein Summation | Mathematics | [Publication](https://doi.org/10.1016/s0898-1221(02)00210-9) |
+| 2002 | elliptic curve cryptography (ecc) | AI Safety | [Publication](https://doi.org/10.17487/rfc3278) |
+| 2002 | enterprise resource planning (erp) | AI Infrastructure | [Publication](https://doi.org/10.4018/978-1-930708-36-5.ch007) |
+| 2002 | Eventual Consistency | Programming & Software | [Publication](https://doi.org/10.1145/582128.582150) |
+| 2002 | Evolution Strategy (ES) | Mathematics | [Publication](https://doi.org/10.1007/978-1-4615-1051-2_10) |
+| 2002 | execution environments | AI Infrastructure | [Publication](https://doi.org/10.21236/ada407300) |
+| 2002 | Exposure Guarantee | Recommender Systems | [Publication](https://doi.org/10.1097/00000542-200209000-00035) |
+| 2002 | face recognition performance | Machine Learning | [Publication](https://doi.org/10.21236/ada453159) |
+| 2002 | Face Verification | Computer Vision | [Publication](https://doi.org/10.1007/978-1-4615-1053-6_13) |
+| 2002 | failed nodes | AI Infrastructure | [Publication](https://doi.org/10.1145/570738.570756) |
+| 2002 | Far Transfer | Cognitive Science | [Publication](https://doi.org/10.1037/t16607-000) |
+| 2002 | fast handoff | AI Infrastructure | [Publication](https://doi.org/10.1109/35.1000224) |
+| 2002 | feature descriptors | Computer Vision | [Publication](https://doi.org/10.21236/ada461182) |
+| 2002 | feature vectors | Machine Learning | [Publication](https://doi.org/10.1109/icassp.2002.1004844) |
+| 2002 | Feedback Amplification | AI Foundations | [Publication](https://doi.org/10.3410/f.1006710.83755) |
+| 2002 | first person shooter | AI Applications | [Publication](https://doi.org/10.1037/e518952004-001) |
+| 2002 | Flow-Based Model | AI Foundations | [Publication](https://doi.org/10.1145/637201.637206) |
+| 2002 | formal modelling | Mathematics | [Publication](https://doi.org/10.1007/3-540-36103-0_37) |
+| 2002 | four dimensional computed tomography | Computer Vision | [Publication](https://doi.org/10.1088/0031-9155/48/1/304) |
+| 2002 | frequency-selective channels | Speech & Audio | [Publication](https://doi.org/10.1109/icassp.2002.1005179) |
+| 2002 | frequent items | Machine Learning | [Publication](https://doi.org/10.1007/3-540-45465-9_59) |
+| 2002 | gan hemt | AI Infrastructure | [Publication](https://doi.org/10.1201/9781482268980-27) |
+| 2002 | gan hemts | AI Infrastructure | [Publication](https://doi.org/10.1201/9781482268980-28) |
+| 2002 | Gate Fidelity | Quantum & Emerging Compute | [Publication](https://doi.org/10.1016/s0375-9601(02)01272-0) |
+| 2002 | gene expression programming | AI Foundations | [Publication](https://doi.org/10.1142/9789814447393_0013) |
+| 2002 | genetic association | Data Science | [Publication](https://doi.org/10.1002/gepi.0151) |
+| 2002 | genetic network programming | Machine Learning | [Publication](https://doi.org/10.1541/ieejeiss1987.122.12_2149) |
+| 2002 | geometric active contours | Computer Vision | [Publication](https://doi.org/10.1109/vlsm.2001.938893) |
+| 2002 | gesture recognition system | Machine Learning | [Publication](https://doi.org/10.1109/inmic.2002.1310162) |
+| 2002 | goal-oriented requirements engineering | Programming & Software | [Publication](https://doi.org/10.1007/978-1-4615-0167-1_4) |
+| 2002 | Grandmother cell | AI Foundations | [Publication](https://doi.org/10.1177/107385802237175) |
+| 2002 | graph visualization | Mathematics | [Publication](https://doi.org/10.1007/3-540-45875-1_26) |
+| 2002 | gui testing | AI Applications | [Publication](https://doi.org/10.1201/b16592-25) |
+| 2002 | Haptic Feedback | Robotics | [Publication](https://doi.org/10.1108/ir.2002.04929ead.009) |
+| 2002 | haptic interfaces | AI Applications | [Publication](https://doi.org/10.1109/haptic.2002.998933) |
+| 2002 | Health Disparity | Science & Healthcare AI | [Publication](https://doi.org/10.1016/s0033-3549(04)50182-6) |
+| 2002 | High-Throughput Screening (HTS) | Science & Healthcare AI | [Publication](https://doi.org/10.1016/s0959-8049(02)81094-2) |
+| 2002 | highly nonlinear fibers | AI Infrastructure | [Publication](https://doi.org/10.14209/its.2002.811) |
+| 2002 | homomorphic-encryptions | AI Safety | [Publication](https://doi.org/10.1007/3-540-36288-6_11) |
+| 2002 | host-based | AI Infrastructure | [Publication](https://doi.org/10.21236/ada402859) |
+| 2002 | human motion data | Robotics | [Publication](https://doi.org/10.1007/3-540-45884-0_24) |
+| 2002 | human visual system (hvs) | Computer Vision | [Publication](https://doi.org/10.1007/3-540-36181-2_34) |
+| 2002 | Hyper-encryption | AI Foundations | [Publication](https://doi.org/10.1007/3-540-45841-7_1) |
+| 2002 | hyperspectral image | Computer Vision | [Publication](https://doi.org/10.1109/79.974718) |
+| 2002 | Hyperspectral Imaging | Science & Healthcare AI | [Publication](https://doi.org/10.21236/ada399744) |
+| 2002 | id-based cryptography | AI Safety | [Publication](https://doi.org/10.1007/3-540-36178-2_34) |
+| 2002 | Illusion of Explanatory Depth | Cognitive Science | [Publication](https://doi.org/10.1016/s0364-0213(02)00078-2) |
+| 2002 | Image Denoising | Computer Vision | [Publication](https://doi.org/10.21236/ada460128) |
+| 2002 | imperfect channel state information | AI Infrastructure | [Publication](https://doi.org/10.1109/icassp.2002.1005113) |
+| 2002 | Importance Weight | Mathematics | [Publication](https://doi.org/10.1037/e617892011-160) |
+| 2002 | information acquisition | AI Infrastructure | [Publication](https://doi.org/10.1080/09540090210162065) |
+| 2002 | information exchanges | AI Infrastructure | [Publication](https://doi.org/10.1007/978-94-017-1769-4_14) |
+| 2002 | Interactive Segmentation | Computer Vision | [Publication](https://doi.org/10.1007/978-1-4615-1503-6_5) |
+| 2002 | intrinsic mode function | Speech & Audio | [Publication](https://doi.org/10.1109/icr.2001.984882) |
+| 2002 | IOPS | AI Infrastructure | [Publication](https://doi.org/10.5670/oceanog.2002.37) |
+| 2002 | ip multimedia subsystems | AI Infrastructure | [Publication](https://doi.org/10.1007/3-540-47906-6_75) |
+| 2002 | isabelle/hol | AI Foundations | [Publication](https://doi.org/10.1007/3-540-45949-9) |
 | 2002 | iterative decoder | Mathematics | [Publication](https://doi.org/10.1109/icassp.2002.1005339) |
 | 2002 | iterative receivers | Speech & Audio | [Publication](https://doi.org/10.1109/tcomm.2002.800825) |
 | 2002 | Jerk Limitation | Robotics | [Publication](https://doi.org/10.1541/ieejias.122.807) |
@@ -435,78 +510,3 @@
 | 2002 ★★ | word alignment | NLP and LLMs | [Indirect context](https://doi.org/10.21437/interspeech.2014-273) — NOT keyword evidence |
 | 2002 ★★ | X-Learner | Causal Inference | [Indirect context](https://doi.org/10.1007/3-540-48050-1_49) — NOT keyword evidence |
 | 2002 ★★ | xml data | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-3-642-95855-7_8) — NOT keyword evidence |
-| 2002 ★★ | xml queries | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-3-540-45194-5_14) — NOT keyword evidence |
-| 2003 | 3d display | AI Applications | [Publication](https://doi.org/10.1364/oc.2003.ofb1) |
-| 2003 | 4g mobile communication systems | AI Infrastructure | [Publication](https://doi.org/10.1109/mwc.2003.1224973) |
-| 2003 | ac coefficients | Computer Vision | [Publication](https://doi.org/10.1049/pbte049e_appendixb) |
-| 2003 | achievable rate | AI Infrastructure | [Publication](https://doi.org/10.1109/isit.2003.1228112) |
-| 2003 | active contour model | Computer Vision | [Publication](https://doi.org/10.1007/bf02480878) |
-| 2003 | ad hoc networks | AI Infrastructure | [Publication](https://doi.org/10.1016/s1570-8705(03)00005-2) |
-| 2003 | Adapter Pattern | Programming & Software | [Publication](https://doi.org/10.1007/978-1-4302-0776-4_4) |
-| 2003 | aes encryption | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc3565) |
-| 2003 | agile development | Programming & Software | [Publication](https://doi.org/10.1109/adc.2003.1231462) |
-| 2003 | Alert Triage | Security & Privacy | [Publication](https://doi.org/10.1007/978-3-540-45215-7_42) |
-| 2003 | algebraic attacks | AI Safety | [Publication](https://doi.org/10.1007/978-3-540-45146-4_10) |
-| 2003 | alternative splicing | Data Science | [Publication](https://doi.org/10.1007/978-3-662-09728-1_8) |
-| 2003 | am-oled | AI Applications | [Publication](https://doi.org/10.1117/12.502608) |
-| 2003 | ambient displays | AI Applications | [Publication](https://doi.org/10.1007/978-94-017-2813-3_16) |
-| 2003 | ambient intelligence | AI Foundations | [Publication](https://doi.org/10.1007/0-306-48706-3_3) |
-| 2003 | ambient vibrations | AI Infrastructure | [Publication](https://doi.org/10.1046/j.1365-246x.2003.01856.x) |
-| 2003 | Anchor Text | Information Retrieval | [Publication](https://doi.org/10.1145/860435.860550) |
-| 2003 | antenna selection | AI Infrastructure | [Publication](https://doi.org/10.1109/isit.2003.1228107) |
-| 2003 | anycast routing | AI Infrastructure | [Publication](https://doi.org/10.1016/s0140-3664(03)00132-4) |
-| 2003 | approximation factor | Mathematics | [Publication](https://doi.org/10.1016/s0167-6423(03)00011-x) |
-| 2003 | architectural tactics | Programming & Software | [Publication](https://doi.org/10.21236/ada413701) |
-| 2003 | Argmax | Mathematics | [Publication](https://doi.org/10.5860/choice.41-1656) |
-| 2003 | Ask for Clarification | AI Safety | [Publication](https://doi.org/10.1038/laban0403-19b) |
-| 2003 | associative classifiers | Machine Learning | [Publication](https://doi.org/10.1007/978-3-540-39666-6_5) |
-| 2003 | Asynchronous Copy | AI Infrastructure | [Publication](https://doi.org/10.1016/s0141-9331(03)00101-7) |
-| 2003 | authenticated key agreement protocols | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-540-40974-8_27) |
-| 2003 | authentication and authorization | AI Safety | [Publication](https://doi.org/10.1016/b978-155558298-2/50008-7) |
-| 2003 | autonomic computing | AI Infrastructure | [Publication](https://doi.org/10.1109/acw.2003) |
-| 2003 | Average Treatment Effect (ATE) | AI Foundations | [Publication](https://doi.org/10.1016/s1098-3015(10)64081-8) |
-| 2003 | base classifiers | Machine Learning | [Publication](https://doi.org/10.1007/978-3-540-45167-9_21) |
-| 2003 | bayesian classifier | AI Foundations | [Publication](https://doi.org/10.1002/cem.797) |
-| 2003 | belief propagation decoding | Mathematics | [Publication](https://doi.org/10.1109/isit.2003.1228190) |
-| 2003 | Bernoulli Distribution | Mathematics | [Publication](https://doi.org/10.1002/0471722227.ch4) |
-| 2003 | bicm-id | Mathematics | [Publication](https://doi.org/10.1109/lcomm.2003.817304) |
-| 2003 | bilinear map | AI Infrastructure | [Publication](https://doi.org/10.1145/947380.947389) |
-| 2003 | biometric identification | AI Safety | [Publication](https://doi.org/10.1108/sr.2003.08723dad.009) |
-| 2003 | black hole attack | AI Infrastructure | [Publication](https://doi.org/10.1049/cp:20030303) |
-| 2003 | Blend Shape | Computer Graphics | [Publication](https://doi.org/10.1145/965400.965571) |
-| 2003 | blind equalization algorithm | Speech & Audio | [Publication](https://doi.org/10.1142/9789812704313_0042) |
-| 2003 | Bloch Sphere | Quantum & Emerging Compute | [Publication](https://doi.org/10.1109/qels.2003.238043) |
-| 2003 | Bottom-Up Approach | Time Series & Forecasting | [Publication](https://doi.org/10.4324/9780203417850-17) |
-| 2003 | bounded model checking | Programming & Software | [Publication](https://doi.org/10.1016/s0065-2458(03)58003-2) |
-| 2003 | broadcast news | Speech & Audio | [Publication](https://doi.org/10.4324/9780203400395-9) |
-| 2003 | business process modeling | AI Infrastructure | [Publication](https://doi.org/10.1108/bpmj.2003.15709aaa.004) |
-| 2003 | business requirement | AI Infrastructure | [Publication](https://doi.org/10.1680/bscfctc.32071.0003) |
-| 2003 | Business rules engine | AI Applications | [Publication](https://openalex.org/W2992138372) |
-| 2003 | Caching Strategy | AI Infrastructure | [Publication](https://doi.org/10.3745/kipsta.2003.10a.3.261) |
-| 2003 | call admission control (cac) | AI Infrastructure | [Publication](https://doi.org/10.1023/a:1025361326776) |
-| 2003 | Case-Based Reasoning Cycle | AI Foundations | [Publication](https://doi.org/10.1002/int.10093) |
-| 2003 | Causal Mechanism | Causal Inference | [Publication](https://doi.org/10.1080/1356346032000078723) |
-| 2003 | cellular automaton | AI Foundations | [Publication](https://doi.org/10.1093/oso/9780195137170.003.0007) |
-| 2003 | certificateless public key cryptography | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-540-40061-5_29) |
-| 2003 | channel estimation error | AI Infrastructure | [Publication](https://doi.org/10.1049/cp:20030271) |
-| 2003 | channel estimation errors | AI Infrastructure | [Publication](https://doi.org/10.1049/cp:20030361) |
-| 2003 | checkpointing techniques | AI Infrastructure | [Publication](https://doi.org/10.1080/0232929031000075278) |
-| 2003 | chip multiprocessors | AI Infrastructure | [Publication](https://doi.org/10.1109/icpp.2003.1240577) |
-| 2003 | closed itemsets | Machine Learning | [Publication](https://doi.org/10.1145/952613.952615) |
-| 2003 | cluster architecture | AI Infrastructure | [Publication](https://doi.org/10.1109/clustr.2003.1253350) |
-| 2003 | collaborative activities | AI Infrastructure | [Publication](https://doi.org/10.1037/e321102004-003) |
-| 2003 | combinatorial auctions | Mathematics | [Publication](https://doi.org/10.2139/ssrn.352260) |
-| 2003 | Complementary Investment | AI Foundations | [Publication](https://doi.org/10.1023/a:1025609613076) |
-| 2003 | computer worms | AI Infrastructure | [Publication](https://doi.org/10.1038/425228b) |
-| 2003 | Conceptual metaphor | AI Foundations | [Publication](https://doi.org/10.1093/oso/9780195138993.003.0002) |
-| 2003 | Content-Based Image Retrieval (CBIR) | Computer Vision | [Publication](https://doi.org/10.1007/s00530-002-0073-0) |
-| 2003 | Contingent Planning | AI Foundations | [Publication](https://doi.org/10.1016/s0004-3702(02)00379-x) |
-| 2003 | Continuous Assurance | AI Foundations | [Publication](https://doi.org/10.5117/mab.77.16289) |
-| 2003 | Contract Programming | Programming & Software | [Publication](https://doi.org/10.1109/icse.2003.1201250) |
-| 2003 | cooperative wireless networks | AI Infrastructure | [Publication](https://openalex.org/W2580783335) |
-| 2003 | Credit Risk Model | AI Applications | [Publication](https://doi.org/10.2139/ssrn.392603) |
-| 2003 | crosscutting concern | Programming & Software | [Publication](https://doi.org/10.1093/comjnl/46.5.578) |
-| 2003 | cst microwave studio | AI Infrastructure | [Publication](https://doi.org/10.1109/ted.2003.816109) |
-| 2003 | Dashboard Design | Data Science | [Publication](https://doi.org/10.1037/e577042012-042) |
-| 2003 | data mining techniques | Machine Learning | [Publication](https://doi.org/10.1142/9789812791375_0001) |
-| 2003 | Data Profiling | Data Science | [Publication](https://doi.org/10.1016/b978-155860916-7/50009-9) |

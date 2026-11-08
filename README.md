@@ -1,6 +1,6 @@
-# AI Keyword Historical — Full, categorized source-backed inventory
+# AI Keyword Historical — 20,375 keyword inventory
 
-**Current inventory: 20,100 terms**, comprising 100 early records and four source-import batches of 5,000. Target is 21,000 (planning estimate, not a known census).
+**Current inventory: 20,375 terms**, comprising 100 early seed records, four original 5,000-term imports, and 275 researched historical/modern gap additions. Historical planning target was 21,000, not a verified census.
 
 > **Research status:** First-use historical dates remain unverified, and individual relevance of source-derived technical terms needs expert review. A source ontology topic is not proof that the term originated on any particular date.
 
@@ -76,6 +76,12 @@
 
 **[New ★★ recovery audit](data/UNDATED_RECOVERY_NEW_2386_REPORT.json)** — updated counts and no-date coverage.
 
+## Historical and modern keyword gap audit
+
+**[New historical and modern keyword additions](batches/HISTORICAL_GAP_ADDITIONS.md)** — 275 duplicate-checked terms, spanning early computing, classical symbolic AI, neural networks, transformers and modern agentic protocols. Years are approximate research-source markers (★), not verified first use.
+
+**[Detailed gap audit report](data/HISTORICAL_GAP_AUDIT_REPORT.json)** — candidates examined, existing matches skipped, added IDs, categories and era breakdown.
+
 ## Browse complete keyword tables
 
 | Inventory set | Added keywords | Full tables | ID range |
@@ -85,11 +91,11 @@
 | 002 | 5,000 | [Browse all 5,000](batches/INVENTORY_002_5000.md) | AIH-05101–AIH-10100 |
 | 003 | 5,000 | [Browse all 5,000](batches/INVENTORY_003_5000.md) | AIH-10101–AIH-15100 |
 | 004 | 5,000 | [Browse all 5,000](batches/INVENTORY_004_5000.md) | AIH-15101–AIH-20100 |
-| **Total** | **20,100** | **40 full 500-row tables + original 100** | |
+| **Total** | **20,375** | **40 base 500-row tables + original 100 + 275 gap additions** | |
 
-**[Browse the 20,000 imported keywords in full GitHub tables](tables/README.md)**. Each of the 40 pages lists all 500 records as a table with permanent ID, term, category, subfield, and source-documented date where available; original first-use dates remain unverified.
+**[Browse all base and gap-addition keyword tables](tables/README.md)**. The four original import sets remain in 40 complete 500-row tables; new cross-era gap terms are in a separate audited table. Publication dates are not verified first-use dates.
 
-**[Master keyword CSV — all 20,100 records](data/KEYWORD_INVENTORY.csv)**
+**[Master keyword CSV — all 20,375 records](data/KEYWORD_INVENTORY.csv)**
 
 ## Provenance and QA
 

@@ -1,6 +1,6 @@
 # Batch 34/41 — Historical Keywords
 
-**500 keywords**, sorted chronologically (2014 – 2016). The master CSV retains the original permanent IDs.
+**500 keywords**, sorted chronologically (2014 – 2015). The master CSV retains the original permanent IDs.
 
 [All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
@@ -10,6 +10,95 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 2014 ★★ | Infilling | NLP and LLMs | [Indirect context](https://openalex.org/W2292990913) — NOT keyword evidence |
+| 2014 ★★ | Influence Maximization | Graph & Network Learning | [Indirect context](https://doi.org/10.1111/j.1540-5915.1999.tb01616.x) — NOT keyword evidence |
+| 2014 ★★ | Information Cascades | AI Foundations | [Indirect context](https://doi.org/10.1214/aos/1176342822) — NOT keyword evidence |
+| 2014 ★★ | Interatomic Potential | Graph & Network Learning | [Indirect context](https://doi.org/10.1111/j.1540-5915.1999.tb01616.x) — NOT keyword evidence |
+| 2014 ★★ | Jargon Handling | NLP and LLMs | [Indirect context](https://openalex.org/W2292990913) — NOT keyword evidence |
+| 2014 ★★ | Judgmental Forecasting | Time Series & Forecasting | [Indirect context](https://doi.org/10.2139/ssrn.5474906) — NOT keyword evidence |
+| 2014 ★★ | Kernel Trick | Mathematics | [Indirect context](https://doi.org/10.18653/v1/2020.emnlp-main.101) — NOT keyword evidence |
+| 2014 ★★ | KL Penalty in RLHF | Deep Learning | [Indirect context](https://doi.org/10.1109/68.84481) — NOT keyword evidence |
+| 2014 ★★ | KPI | Data Science | [Indirect context](https://doi.org/10.5194/gi-2018-44-sc1) — NOT keyword evidence |
+| 2014 ★★ | Krippendorff's Alpha | Data Science | [Indirect context](https://doi.org/10.5194/gi-2018-44-sc1) — NOT keyword evidence |
+| 2014 ★★ | Label Guideline | Data Science | [Indirect context](https://doi.org/10.5194/gi-2018-44-sc1) — NOT keyword evidence |
+| 2014 ★★ | LAMB | Mathematics | [Indirect context](https://doi.org/10.1214/aoms/1177729586) — NOT keyword evidence |
+| 2014 ★★ | Land Cover Classification (LULC) | Science & Healthcare AI | [Indirect context](https://doi.org/10.1080/01621459.2022.2123335) — NOT keyword evidence |
+| 2014 ★★ | LARS | Mathematics | [Indirect context](https://doi.org/10.1214/aoms/1177729586) — NOT keyword evidence |
+| 2014 ★★ | LeCun Initialization | Deep Learning | [Indirect context](https://doi.org/10.3390/electronics15184325) — NOT keyword evidence |
+| 2014 ★★ | Little-o Notation | Mathematics | [Indirect context](https://doi.org/10.59350/1vddq-fmh35) — NOT keyword evidence |
+| 2014 ★★ | Locked Algorithm | Science & Healthcare AI | [Indirect context](https://doi.org/10.1080/01621459.2022.2123335) — NOT keyword evidence |
+| 2014 ★★ | Logic Programming Associates (LPA) | AI Applications | [Indirect context](https://doi.org/10.30574/ijsra.2026.19.2.1117) — NOT keyword evidence |
+| 2014 ★★ | Long Tail Memorization | Machine Learning | [Indirect context](https://doi.org/10.14778/2311906.2311916) — NOT keyword evidence |
+| 2014 ★★ | Long Tail of Driving | Robotics | [Indirect context](https://doi.org/10.14778/2311906.2311916) — NOT keyword evidence |
+| 2014 ★★ | Loss Prevention Analytics | AI Applications | [Indirect context](https://doi.org/10.18608/jla.2014.13.24) — NOT keyword evidence |
+| 2014 ★★ | Map-Reduce Prompting | NLP and LLMs | [Indirect context](https://openalex.org/W2292990913) — NOT keyword evidence |
+| 2014 ★★ | Market Making | AI Applications | [Indirect context](https://doi.org/10.30574/ijsra.2026.19.2.1117) — NOT keyword evidence |
+| 2014 ★★ | Mart | Data Science | [Indirect context](https://doi.org/10.5194/gi-2018-44-sc1) — NOT keyword evidence |
+| 2014 ★★ | Mean Absolute Percentage Error (MAPE) | Time Series & Forecasting | [Indirect context](https://doi.org/10.36418/syntax-literate.v10i6.60374) — NOT keyword evidence |
+| 2014 ★★ | Meronym | NLP and LLMs | [Indirect context](https://openalex.org/W2292990913) — NOT keyword evidence |
+| 2014 ★★ | Metadata | Data Science | [Indirect context](https://doi.org/10.5194/gi-2018-44-sc1) — NOT keyword evidence |
+| 2014 ★★ | METEOR | NLP and LLMs | [Indirect context](https://openalex.org/W2292990913) — NOT keyword evidence |
+| 2014 ★★ | Metric Definition Drift | Evaluation & Metrics | [Indirect context](https://doi.org/10.1145/3786166.3788432) — NOT keyword evidence |
+| 2014 ★★ | Model Change Notification | AI Infrastructure | [Indirect context](https://doi.org/10.1163/9789004730618_011) — NOT keyword evidence |
+| 2014 ★★ | Model Explainability Requirement | AI Applications | [Indirect context](https://doi.org/10.30574/ijsra.2026.19.2.1117) — NOT keyword evidence |
+| 2014 ★★ | Moderator Wellbeing | AI Applications | [Indirect context](https://doi.org/10.30574/ijsra.2026.19.2.1117) — NOT keyword evidence |
+| 2014 ★★ | Molecular Fingerprint | Graph & Network Learning | [Indirect context](https://doi.org/10.1111/j.1540-5915.1999.tb01616.x) — NOT keyword evidence |
+| 2014 ★★ | Morpheme | NLP and LLMs | [Indirect context](https://openalex.org/W2292990913) — NOT keyword evidence |
+| 2014 ★★ | Motif in Biology | Science & Healthcare AI | [Indirect context](https://doi.org/10.1080/01621459.2022.2123335) — NOT keyword evidence |
+| 2014 ★★ | multi core | AI Infrastructure | [Indirect context](https://doi.org/10.1145/1179622.1179763) — NOT keyword evidence |
+| 2014 ★★ | Natural Experiment | Causal Inference | [Indirect context](https://doi.org/10.1037/e542822011-068) — NOT keyword evidence |
+| 2014 ★★ | Nesterov Accelerated Gradient (NAG) | Mathematics | [Indirect context](https://doi.org/10.1214/aoms/1177729586) — NOT keyword evidence |
+| 2014 ★★ | Noise Function | Computer Graphics | [Indirect context](https://openalex.org/W3210832619) — NOT keyword evidence |
+| 2014 ★★ | Normalization in Databases | Data Science | [Indirect context](https://doi.org/10.5194/gi-2018-44-sc1) — NOT keyword evidence |
+| 2014 ★★ | Optimizer State | Mathematics | [Indirect context](https://arxiv.org/abs/1412.6980) — NOT keyword evidence |
+| 2014 ★★ | Over-Smoothing | Graph & Network Learning | [Indirect context](https://doi.org/10.1111/j.1540-5915.1999.tb01616.x) — NOT keyword evidence |
+| 2014 ★★ | Over-Squashing | Graph & Network Learning | [Indirect context](https://doi.org/10.1111/j.1540-5915.1999.tb01616.x) — NOT keyword evidence |
+| 2014 ★★ | Pair Plot | Data Science | [Indirect context](https://doi.org/10.5194/gi-2018-44-sc1) — NOT keyword evidence |
+| 2014 ★★ | Paraphrase Detection | NLP and LLMs | [Indirect context](https://doi.org/10.21437/interspeech.2010-84) — NOT keyword evidence |
+| 2014 ★★ | Patient Stratification | Science & Healthcare AI | [Indirect context](https://doi.org/10.1080/01621459.2022.2123335) — NOT keyword evidence |
+| 2014 ★★ | Payback Period | Data Science | [Indirect context](https://doi.org/10.5194/gi-2018-44-sc1) — NOT keyword evidence |
+| 2014 ★★ | Peak Memory During Inference | AI Infrastructure | [Indirect context](https://doi.org/10.1016/j.entcs.2014.01.021) — NOT keyword evidence |
+| 2014 ★★ | Peak Theoretical Throughput | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-3-540-24707-4_37) — NOT keyword evidence |
+| 2014 ★★ | Peer Review | Science & Healthcare AI | [Indirect context](https://doi.org/10.1080/01621459.2022.2123335) — NOT keyword evidence |
+| 2014 ★★ | Perceptually Uniform Colormap | Data Science | [Indirect context](https://doi.org/10.5194/gi-2018-44-sc1) — NOT keyword evidence |
+| 2014 ★★ | Pivot | Data Science | [Indirect context](https://doi.org/10.5194/gi-2018-44-sc1) — NOT keyword evidence |
+| 2014 ★★ | Plateau | Mathematics | [Indirect context](https://doi.org/10.1007/978-3-642-41714-6_20603) — NOT keyword evidence |
+| 2014 ★★ | Point Anomaly | Time Series & Forecasting | [Indirect context](https://openalex.org/W1598358187) — NOT keyword evidence |
+| 2014 ★★ | Policy Gradient Theorem | Reinforcement Learning | [Indirect context](https://doi.org/10.1080/0266736940100303) — NOT keyword evidence |
+| 2014 ★★ | Polygenic Risk Score (PRS) | Science & Healthcare AI | [Indirect context](https://doi.org/10.1080/01621459.2022.2123335) — NOT keyword evidence |
+| 2014 ★★ | Population-Based Training (PBT) | Mathematics | [Indirect context](https://doi.org/10.1214/aoms/1177729586) — NOT keyword evidence |
+| 2014 ★★ | Post-Editing | NLP and LLMs | [Indirect context](https://openalex.org/W2292990913) — NOT keyword evidence |
+| 2014 ★★ | Post-Editing Effort | NLP and LLMs | [Indirect context](https://openalex.org/W2292990913) — NOT keyword evidence |
+| 2014 ★★ | Predetermined Change Control Plan (PCCP) | Science & Healthcare AI | [Indirect context](https://doi.org/10.1080/01621459.2022.2123335) — NOT keyword evidence |
+| 2014 ★★ | Prediction Logging | AI Infrastructure | [Indirect context](https://doi.org/10.30632/spwla-2024-0100) — NOT keyword evidence |
+| 2014 ★★ | Preprint | Science & Healthcare AI | [Indirect context](https://doi.org/10.1080/01621459.2022.2123335) — NOT keyword evidence |
+| 2014 ★★ | Privilege Review | AI Applications | [Indirect context](https://doi.org/10.30574/ijsra.2026.19.2.1117) — NOT keyword evidence |
+| 2014 ★★ | PropBank | NLP and LLMs | [Indirect context](https://openalex.org/W2292990913) — NOT keyword evidence |
+| 2014 ★★ | Prospective Evaluation | Science & Healthcare AI | [Indirect context](https://doi.org/10.1080/01621459.2022.2123335) — NOT keyword evidence |
+| 2014 ★★ | Question Wording Bias | Data Science | [Indirect context](https://doi.org/10.5194/gi-2018-44-sc1) — NOT keyword evidence |
+| 2014 ★★ | Readmission Prediction | Science & Healthcare AI | [Indirect context](https://doi.org/10.1007/978-3-319-09976-7_12) — NOT keyword evidence |
+| 2014 ★★ | Reciprocal Rank Fusion (RRF) | NLP and LLMs | [Indirect context](https://openalex.org/W2292990913) — NOT keyword evidence |
+| 2014 ★★ | Recovery Policy | Reinforcement Learning | [Indirect context](https://doi.org/10.1080/0266736940100303) — NOT keyword evidence |
+| 2014 ★★ | Refine Pattern | NLP and LLMs | [Indirect context](https://openalex.org/W2292990913) — NOT keyword evidence |
+| 2014 ★★ | Regulatory Capital Model | AI Applications | [Indirect context](https://doi.org/10.1002/9781118386866.ch14) — NOT keyword evidence |
+| 2014 ★★ | Repetition Penalty | Deep Learning | [Indirect context](https://doi.org/10.1109/68.84481) — NOT keyword evidence |
+| 2014 ★★ | Reproduction Number (R0) | Science & Healthcare AI | [Indirect context](https://doi.org/10.1080/01621459.2022.2123335) — NOT keyword evidence |
+| 2014 ★★ | Research Paper Mill | Science & Healthcare AI | [Indirect context](https://doi.org/10.1080/01621459.2022.2123335) — NOT keyword evidence |
+| 2014 ★★ | Return | Reinforcement Learning | [Indirect context](https://doi.org/10.1109/icassp49357.2023.10095235) — NOT keyword evidence |
+| 2014 ★★ | RMSProp | Mathematics | [Indirect context](https://doi.org/10.1214/aoms/1177729586) — NOT keyword evidence |
+| 2014 ★★ | Rog-O-Matic | AI Applications | [Indirect context](https://doi.org/10.30574/ijsra.2026.19.2.1117) — NOT keyword evidence |
+| 2014 ★★ | Root Cause Analysis | Data Science | [Indirect context](https://doi.org/10.5194/gi-2018-44-sc1) — NOT keyword evidence |
+| 2014 ★★ | ROUGE | NLP and LLMs | [Indirect context](https://openalex.org/W2292990913) — NOT keyword evidence |
+| 2014 ★★ | Salience | NLP and LLMs | [Indirect context](https://openalex.org/W2292990913) — NOT keyword evidence |
+| 2014 ★★ | Satisfied Click | Information Retrieval | [Indirect context](https://doi.org/10.48550/arxiv.2111.11314) — NOT keyword evidence |
+| 2014 ★★ | Scaffold Split | Graph & Network Learning | [Indirect context](https://doi.org/10.1111/j.1540-5915.1999.tb01616.x) — NOT keyword evidence |
+| 2014 ★★ | Scalarization | Mathematics | [Indirect context](https://doi.org/10.1214/aoms/1177729586) — NOT keyword evidence |
+| 2014 ★★ | Self-Driving Laboratory (SDL) | Science & Healthcare AI | [Indirect context](https://doi.org/10.1080/01621459.2022.2123335) — NOT keyword evidence |
+| 2014 ★★ | Sepsis Prediction | Science & Healthcare AI | [Indirect context](https://doi.org/10.1007/978-3-319-09976-7_12) — NOT keyword evidence |
+| 2014 ★★ | Shift Fairness | AI Applications | [Indirect context](https://doi.org/10.30574/ijsra.2026.19.2.1117) — NOT keyword evidence |
+| 2014 ★★ | Signal Detection in Safety Data | AI Applications | [Indirect context](https://doi.org/10.14377/kja.2020.7.15.7) — NOT keyword evidence |
+| 2014 ★★ | Silhouette Score | Machine Learning | [Indirect context](https://doi.org/10.1007/s40278-014-8600-2) — NOT keyword evidence |
+| 2014 ★★ | Single-Source Publishing | AI Applications | [Indirect context](https://doi.org/10.30574/ijsra.2026.19.2.1117) — NOT keyword evidence |
 | 2014 ★★ | Slippage | AI Applications | [Indirect context](https://doi.org/10.30574/ijsra.2026.19.2.1117) — NOT keyword evidence |
 | 2014 ★★ | Slowly Changing Dimension Type Two (SCD2) | Data Science | [Indirect context](https://doi.org/10.5194/gi-2018-44-sc1) — NOT keyword evidence |
 | 2014 ★★ | SNOMED CT | Science & Healthcare AI | [Indirect context](https://doi.org/10.1080/01621459.2022.2123335) — NOT keyword evidence |
@@ -193,10 +282,16 @@
 | 2015 | Wireheading | Reinforcement Learning | [Publication](https://doi.org/10.1201/b18612-8) |
 | 2015 | Word Co-Occurrence Matrix | Machine Learning | [Publication](https://doi.org/10.1109/icdm.2015.80) |
 | 2015 | YOLO object detection | Computer Vision | [Publication](https://arxiv.org/abs/1506.02640) |
+| 2015 ★ | Biomedical U-Net segmentation | Computer Vision | [Related source](https://arxiv.org/abs/1505.04597) — indirect |
 | 2015 ★ | Domain Ownership of Data | Data Science | [Related source](https://doi.org/10.1016/j.aeue.2015.09.015) — indirect |
 | 2015 ★ | Mean Squared Error Decomposition | Mathematics | [Related source](https://doi.org/10.1109/telfor.2015.7377572) — indirect |
 | 2015 ★ | Observability of Failures | Programming & Software | [Related source](https://doi.org/10.1109/isgt-la.2015.7381148) — indirect |
 | 2015 ★ | Situational Awareness in Models | AI Safety | [Related source](https://openalex.org/W2368999711) — indirect |
+| 2015 ★ | U-Net contracting path | Computer Vision | [Related source](https://arxiv.org/abs/1505.04597) — indirect |
+| 2015 ★ | U-Net expansive path | Computer Vision | [Related source](https://arxiv.org/abs/1505.04597) — indirect |
+| 2015 ★ | U-Net overlap tile inference | Computer Vision | [Related source](https://arxiv.org/abs/1505.04597) — indirect |
+| 2015 ★ | U-Net skip concatenation | Computer Vision | [Related source](https://arxiv.org/abs/1505.04597) — indirect |
+| 2015 ★ | U-Net symmetric encoder decoder | Computer Vision | [Related source](https://arxiv.org/abs/1505.04597) — indirect |
 | 2015 ★★ | 8-Bit Optimizer | Mathematics | [Indirect context](https://arxiv.org/abs/1412.6980) — NOT keyword evidence |
 | 2015 ★★ | Accessibility of Generated Content | Generative AI | [Indirect context](https://doi.org/10.1109/mspec.2024.10380467) — NOT keyword evidence |
 | 2015 ★★ | AI Fairness 360 (AIF360) | Tools & Frameworks | [Indirect context](https://openalex.org/W3186336407) — NOT keyword evidence |
@@ -415,98 +510,3 @@
 | 2015 ★★ | UMAP Library | Tools & Frameworks | [Indirect context](https://openalex.org/W3186336407) — NOT keyword evidence |
 | 2015 ★★ | Unicode Normalization | NLP and LLMs | [Indirect context](https://doi.org/10.1109/icassp.2010.5495127) — NOT keyword evidence |
 | 2015 ★★ | Unsloth | Tools & Frameworks | [Indirect context](https://openalex.org/W3186336407) — NOT keyword evidence |
-| 2015 ★★ | Usage Analytics for Data | Data Science | [Indirect context](https://doi.org/10.62973/19-026) — NOT keyword evidence |
-| 2015 ★★ | Value | Deep Learning | [Indirect context](https://doi.org/10.6028/nist.sp.500-321.clinical-prna) — NOT keyword evidence |
-| 2015 ★★ | Vega-Lite | Tools & Frameworks | [Indirect context](https://openalex.org/W3186336407) — NOT keyword evidence |
-| 2015 ★★ | Vespa | Tools & Frameworks | [Indirect context](https://openalex.org/W3186336407) — NOT keyword evidence |
-| 2015 ★★ | Virtual Node | Graph & Network Learning | [Indirect context](https://doi.org/10.1109/icassp.2017.7952933) — NOT keyword evidence |
-| 2015 ★★ | Weather-Adjusted Forecast | Time Series & Forecasting | [Indirect context](https://doi.org/10.1016/0167-6377(88)90040-5) — NOT keyword evidence |
-| 2015 ★★ | Weaviate | Tools & Frameworks | [Indirect context](https://openalex.org/W3186336407) — NOT keyword evidence |
-| 2015 ★★ | WhyLogs | Tools & Frameworks | [Indirect context](https://openalex.org/W3186336407) — NOT keyword evidence |
-| 2016 | Abstractive Summarization | NLP and LLMs | [Publication](https://doi.org/10.18653/v1/p16-3015) |
-| 2016 | Algorithmic Bias | AI Foundations | [Publication](https://doi.org/10.1145/2939672.2945386) |
-| 2016 | Apache Flink | Tools & Frameworks | [Publication](https://doi.org/10.1515/itit-2016-0005) |
-| 2016 | Asynchronous advantage actor-critic (A3C) | Reinforcement Learning | [Publication](https://arxiv.org/abs/1602.01783) |
-| 2016 | Audit Access | AI Safety | [Publication](https://doi.org/10.12968/bjca.2016.11.12.578) |
-| 2016 | Autoformalization | AI Foundations | [Publication](https://doi.org/10.1016/j.procs.2016.07.437) |
-| 2016 | Automatic Curriculum | Reinforcement Learning | [Publication](https://doi.org/10.12792/icisip2016.045) |
-| 2016 | average link clustering | Machine Learning | [Publication](https://doi.org/10.5120/ijca2016911666) |
-| 2016 | Bag of Visual Words (BoVW) | Computer Vision | [Publication](https://doi.org/10.1145/2976796.2988178) |
-| 2016 | Bag-of-words model (BoW) | Machine Learning | [Publication](https://doi.org/10.2307/jj.15135955.93) |
-| 2016 | Bit | Signal & Information Theory | [Publication](https://doi.org/10.5194/gmd-2016-3-rc2) |
-| 2016 | business analysts | AI Infrastructure | [Publication](https://doi.org/10.1201/b12688) |
-| 2016 | cache access | AI Infrastructure | [Publication](https://doi.org/10.1109/pccc.2016.7820659) |
-| 2016 | Calinski-Harabasz Index | Machine Learning | [Publication](https://doi.org/10.1109/cec.2016.7744132) |
-| 2016 | Citeseer Dataset | Datasets & Benchmarks | [Publication](https://doi.org/10.1007/978-3-319-48740-3_3) |
-| 2016 | classification process | Machine Learning | [Publication](https://doi.org/10.17277/amt.2016.04.pp.046-052) |
-| 2016 | clustering accuracy | Machine Learning | [Publication](https://doi.org/10.5958/2249-7315.2016.00960.6) |
-| 2016 | cold start problems | Information Retrieval | [Publication](https://doi.org/10.1109/ijcnn.2016.7727600) |
-| 2016 | Compressed Sensing (CS) | Mathematics | [Publication](https://doi.org/10.1109/wispnet.2016.7566523) |
-| 2016 | Concrete problems in AI safety | AI Safety | [Publication](https://arxiv.org/abs/1606.06565) |
-| 2016 | Consent Management | Security & Privacy | [Publication](https://doi.org/10.5220/0005941301250132) |
-| 2016 | context reasoning | AI Applications | [Publication](https://doi.org/10.1201/9781315374017-4) |
-| 2016 | Context Window | NLP and LLMs | [Publication](https://doi.org/10.17454/ijcol02.06) |
-| 2016 | Convolutional Neural Network (CNN) | Deep Learning | [Publication](https://doi.org/10.12962/j23373539.v5i1.15696) |
-| 2016 | Cooperative Inverse Reinforcement Learning | AI Safety | [Publication](https://doi.org/10.48550/arxiv.1606.03137) |
-| 2016 | Core Count | AI Infrastructure | [Publication](https://doi.org/10.1109/phosst.2016.7548812) |
-| 2016 | Coreset | Machine Learning | [Publication](https://doi.org/10.1109/cits.2016.7546405) |
-| 2016 | CRISPR Guide Design | Science & Healthcare AI | [Publication](https://doi.org/10.1101/078253) |
-| 2016 | Cross-Domain Recommendation | Recommender Systems | [Publication](https://doi.org/10.1109/fuzz-ieee.2016.7737834) |
-| 2016 | cybersecurity risk | AI Safety | [Publication](https://doi.org/10.1002/9781119162315.part2) |
-| 2016 | cybersecurity threat | AI Safety | [Publication](https://doi.org/10.1109/isi.2016.7745435) |
-| 2016 | Dashboard | AI Infrastructure | [Publication](https://doi.org/10.21884/ijmter.2016.3075.ojzhi) |
-| 2016 | Data Colonialism | AI Safety | [Publication](https://doi.org/10.1177/0263775816633195) |
-| 2016 | data planes | AI Infrastructure | [Publication](https://doi.org/10.1109/netsoft.2016.7502472) |
-| 2016 | Deep Supervision | Deep Learning | [Publication](https://doi.org/10.1109/cvpr.2016.32) |
-| 2016 | Dennard Scaling | AI Infrastructure | [Publication](https://doi.org/10.1088/1742-6596/762/1/012022) |
-| 2016 | DenseNet | Deep Learning | [Publication](https://arxiv.org/abs/1608.06993) |
-| 2016 | Diagnostic Dataset | Evaluation & Metrics | [Publication](https://doi.org/10.48550/arxiv.1612.06890) |
-| 2016 | Digital Shadow | Robotics | [Publication](https://doi.org/10.3846/bm.2016.34) |
-| 2016 | distributed ledger | AI Safety | [Publication](https://doi.org/10.17016/feds.2016.095) |
-| 2016 | Draft and Revise | Generative AI | [Publication](https://doi.org/10.5040/9798216510581.ch-4) |
-| 2016 | Dreamer | Reinforcement Learning | [Publication](https://doi.org/10.2139/ssrn.2675450) |
-| 2016 | E-Waste | AI Applications | [Publication](https://doi.org/10.1016/j.wasman.2016.03.013) |
-| 2016 | Edge Dropout | Graph & Network Learning | [Publication](https://doi.org/10.15363/thinklab.d215) |
-| 2016 | efficient architecture | AI Infrastructure | [Publication](https://doi.org/10.21275/v5i2.nov161471) |
-| 2016 | Energy Grid Optimization | AI Applications | [Publication](https://doi.org/10.5220/0005743602630270) |
-| 2016 | Extreme Event Attribution | Science & Healthcare AI | [Publication](https://doi.org/10.1017/cbo9781107775541.004) |
-| 2016 | Factor Graph Optimization | Robotics | [Publication](https://doi.org/10.1109/etfa.2016.7733598) |
-| 2016 | Farthest Point Sampling | Computer Vision | [Publication](https://doi.org/10.1016/j.comgeo.2016.05.005) |
-| 2016 | Fast Takeoff | AI Foundations | [Publication](https://doi.org/10.1201/b19187-14) |
-| 2016 | Flame Graph | Programming & Software | [Publication](https://doi.org/10.1145/2909476) |
-| 2016 | Flatness Hypothesis | Mathematics | [Publication](https://doi.org/10.2140/apde.2016.9.1285) |
-| 2016 | Forecast Origin | Time Series & Forecasting | [Publication](https://doi.org/10.1016/j.jeca.2016.07.006) |
-| 2016 | Fully Connected Layer | Deep Learning | [Publication](https://doi.org/10.1109/icaci.2016.7449822) |
-| 2016 | GAIL | Reinforcement Learning | [Publication](https://arxiv.org/abs/1606.03476) |
-| 2016 | Generative Design | AI Applications | [Publication](https://doi.org/10.5040/9781472596161-bed-g018) |
-| 2016 | Generative Replay | Machine Learning | [Publication](https://doi.org/10.48550/arxiv.1610.05555) |
-| 2016 | GoogLeNet | Deep Learning | [Publication](https://doi.org/10.6109/jkiice.2016.20.9.1657) |
-| 2016 | gpgpu | AI Infrastructure | [Publication](https://doi.org/10.7471/ikeee.2016.20.3.303) |
-| 2016 | Graph Signal Processing | Graph & Network Learning | [Publication](https://doi.org/10.1201/b19513-13) |
-| 2016 | Hard Example Mining | Machine Learning | [Publication](https://doi.org/10.1109/cvpr.2016.89) |
-| 2016 | heterogeneous network (hetnet) | AI Infrastructure | [Publication](https://doi.org/10.14257/ijfgcn.2016.9.1.17) |
-| 2016 | higher education institutions | AI Infrastructure | [Publication](https://doi.org/10.1007/978-94-6300-660-6_6) |
-| 2016 | hyperledger | AI Infrastructure | [Publication](https://doi.org/10.1515/9783110488951-005) |
-| 2016 | image registration techniques | Computer Vision | [Publication](https://doi.org/10.1109/iwssip.2016.7502708) |
-| 2016 | Integral Windup | Robotics | [Publication](https://doi.org/10.1109/wcicss.2016.7882608) |
-| 2016 | International Coordination | AI Safety | [Publication](https://doi.org/10.3386/w21878) |
-| 2016 | Item Embedding | Recommender Systems | [Publication](https://doi.org/10.1145/2959100.2959182) |
-| 2016 | Key-Value Memory | Deep Learning | [Publication](https://doi.org/10.6028/nist.sp.500-321.clinical-prna) |
-| 2016 | Keyword Spotting (KWS) | Speech & Audio | [Publication](https://doi.org/10.1109/mlsp.2016.7738862) |
-| 2016 | Kruskal's Algorithm | Mathematics | [Publication](https://doi.org/10.5593/sgem2016/b22/s10.097) |
-| 2016 | Language Model Rescoring | Speech & Audio | [Publication](https://doi.org/10.18653/v1/w16-2336) |
-| 2016 | Layer normalization | Deep Learning | [Publication](https://arxiv.org/abs/1607.06450) |
-| 2016 | Learning Rate Schedule | AI Foundations | [Publication](https://doi.org/10.1007/978-3-319-45817-5_36) |
-| 2016 | light interference | AI Infrastructure | [Publication](https://doi.org/10.1201/b13855-14) |
-| 2016 | Listen Attend and Spell | Deep Learning | [Publication](https://doi.org/10.1109/icassp.2016.7472621) |
-| 2016 | Little's Law | Mathematics | [Publication](https://doi.org/10.7551/mitpress/9471.003.0018) |
-| 2016 | mean absolute differences | Computer Vision | [Publication](https://doi.org/10.1016/j.patrec.2016.01.018) |
-| 2016 | Migration Assistance | Programming & Software | [Publication](https://doi.org/10.1057/9781137539212_3) |
-| 2016 | Modality Dropout | Computer Vision | [Publication](https://doi.org/10.1007/978-3-319-55050-3_8) |
-| 2016 | Monocular Depth Estimation | Computer Vision | [Publication](https://doi.org/10.1109/cvpr.2016.594) |
-| 2016 | motion editing | Robotics | [Publication](https://doi.org/10.1145/2994258.2994276) |
-| 2016 | multi objective algorithm | Mathematics | [Publication](https://doi.org/10.1109/ccdc.2016.7531857) |
-| 2016 | NCCL | AI Infrastructure | [Publication](https://doi.org/10.1145/2966884.2966912) |
-| 2016 | Negative Sampling | Machine Learning | [Publication](https://doi.org/10.18653/v1/p16-2068) |
-| 2016 | Neural Turing Machine | Deep Learning | [Publication](https://doi.org/10.1109/ijcnn.2016.7727551) |
-| 2016 | Node-Level Task | Graph & Network Learning | [Publication](https://doi.org/10.1109/hpcsim.2016.7568402) |

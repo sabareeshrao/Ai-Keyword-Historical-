@@ -1,6 +1,6 @@
 # Batch 01/41 — Historical Keywords
 
-**500 keywords**, sorted chronologically (1848 – 1957). The master CSV retains the original permanent IDs.
+**500 keywords**, sorted chronologically (1848 – 1956). The master CSV retains the original permanent IDs.
 
 [All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
@@ -215,6 +215,18 @@
 | 1937 | ladder networks | AI Infrastructure | [Publication](https://doi.org/10.1109/ee.1937.6540095) |
 | 1937 | Transliteration | NLP and LLMs | [Publication](https://doi.org/10.4159/harvard.9780674600201.c2) |
 | 1937 | unobservable | Mathematics | [Publication](https://doi.org/10.1038/140963b0) |
+| 1937 ★ | A-machine | AI Foundations | [Related source](https://doi.org/10.1112/plms/s2-42.1.230) — indirect |
+| 1937 ★ | Choice machine | AI Foundations | [Related source](https://doi.org/10.1112/plms/s2-42.1.230) — indirect |
+| 1937 ★ | Circle-free number | AI Foundations | [Related source](https://doi.org/10.1112/plms/s2-42.1.230) — indirect |
+| 1937 ★ | Computable sequence enumeration | AI Foundations | [Related source](https://doi.org/10.1112/plms/s2-42.1.230) — indirect |
+| 1937 ★ | Turing machine configuration | AI Foundations | [Related source](https://doi.org/10.1112/plms/s2-42.1.230) — indirect |
+| 1937 ★ | Turing machine description number | AI Foundations | [Related source](https://doi.org/10.1112/plms/s2-42.1.230) — indirect |
+| 1937 ★ | Turing machine halting configuration | AI Foundations | [Related source](https://doi.org/10.1112/plms/s2-42.1.230) — indirect |
+| 1937 ★ | Turing machine m-configuration | AI Foundations | [Related source](https://doi.org/10.1112/plms/s2-42.1.230) — indirect |
+| 1937 ★ | Turing machine scanning symbol | AI Foundations | [Related source](https://doi.org/10.1112/plms/s2-42.1.230) — indirect |
+| 1937 ★ | Turing machine standard description | AI Foundations | [Related source](https://doi.org/10.1112/plms/s2-42.1.230) — indirect |
+| 1937 ★ | Turing's computable numbers | AI Foundations | [Related source](https://doi.org/10.1112/plms/s2-42.1.230) — indirect |
+| 1937 ★ | Universal computing machine | AI Foundations | [Related source](https://doi.org/10.1112/plms/s2-42.1.230) — indirect |
 | 1938 | achievability | Speech & Audio | [Publication](https://doi.org/10.1093/ia/17.2.264) |
 | 1938 | antenna design | AI Infrastructure | [Publication](https://doi.org/10.1109/jrproc.1938.228128) |
 | 1938 | bevel gears | Machine Learning | [Publication](https://doi.org/10.1115/1.4020842) |
@@ -260,6 +272,17 @@
 | 1943 | McCulloch–Pitts neuron | AI Foundations | [Publication](https://doi.org/10.1007/BF02478259) |
 | 1943 | servomechanisms | Robotics | [Publication](https://doi.org/10.7551/mitpress/1260.001.0001) |
 | 1943 | underwater structures | AI Foundations | [Publication](https://doi.org/10.21236/ad0142776) |
+| 1943 ★ | All-or-none artificial neuron | Deep Learning | [Related source](https://doi.org/10.1007/BF02478259) — indirect |
+| 1943 ★ | Excitatory neuron threshold | Deep Learning | [Related source](https://doi.org/10.1007/BF02478259) — indirect |
+| 1943 ★ | Inhibitory neuron input | Deep Learning | [Related source](https://doi.org/10.1007/BF02478259) — indirect |
+| 1943 ★ | Logical calculus of nervous activity | Deep Learning | [Related source](https://doi.org/10.1007/BF02478259) — indirect |
+| 1943 ★ | Logical neural circuitry | Deep Learning | [Related source](https://doi.org/10.1007/BF02478259) — indirect |
+| 1943 ★ | McCulloch-Pitts formal neuron | Deep Learning | [Related source](https://doi.org/10.1007/BF02478259) — indirect |
+| 1943 ★ | McCulloch-Pitts threshold logic | Deep Learning | [Related source](https://doi.org/10.1007/BF02478259) — indirect |
+| 1943 ★ | Nerve net computation | Deep Learning | [Related source](https://doi.org/10.1007/BF02478259) — indirect |
+| 1943 ★ | Neural circular net | Deep Learning | [Related source](https://doi.org/10.1007/BF02478259) — indirect |
+| 1943 ★ | Neural propositional calculus | Deep Learning | [Related source](https://doi.org/10.1007/BF02478259) — indirect |
+| 1943 ★ | Threshold-neuron logical network | Deep Learning | [Related source](https://doi.org/10.1007/BF02478259) — indirect |
 | 1944 | bipedal walking | AI Foundations | [Publication](https://doi.org/10.2307/1374722) |
 | 1944 | handicapped persons | AI Applications | [Publication](https://doi.org/10.1093/ptj/24.2.61) |
 | 1944 | maintenance activity | Programming & Software | [Publication](https://doi.org/10.4271/440182) |
@@ -339,6 +362,14 @@
 | 1950 | television equipment | Speech & Audio | [Publication](https://doi.org/10.2172/4337773) |
 | 1950 | Turing Test | AI Foundations | [Publication](https://doi.org/10.1037/t78475-000) |
 | 1950 | Value Specification | AI Safety | [Publication](https://doi.org/10.2307/2266970) |
+| 1950 ★ | Digital computer imitation game | AI Foundations | [Related source](https://doi.org/10.1093/mind/LIX.236.433) — indirect |
+| 1950 ★ | Imitation game criterion | AI Foundations | [Related source](https://doi.org/10.1093/mind/LIX.236.433) — indirect |
+| 1950 ★ | Lady Lovelace objection to AI | AI Foundations | [Related source](https://doi.org/10.1093/mind/LIX.236.433) — indirect |
+| 1950 ★ | Turing ESP objection | AI Foundations | [Related source](https://doi.org/10.1093/mind/LIX.236.433) — indirect |
+| 1950 ★ | Turing mathematical objection | AI Foundations | [Related source](https://doi.org/10.1093/mind/LIX.236.433) — indirect |
+| 1950 ★ | Turing theological objection | AI Foundations | [Related source](https://doi.org/10.1093/mind/LIX.236.433) — indirect |
+| 1950 ★ | Turing's child machine | AI Foundations | [Related source](https://doi.org/10.1093/mind/LIX.236.433) — indirect |
+| 1950 ★ | Turing's learning machine proposal | AI Foundations | [Related source](https://doi.org/10.1093/mind/LIX.236.433) — indirect |
 | 1951 | acoustic models | Speech & Audio | [Publication](https://doi.org/10.1109/t-aiee.1951.5060411) |
 | 1951 | circular polarization | AI Infrastructure | [Publication](https://doi.org/10.2172/4419778) |
 | 1951 | cross-coupled | Speech & Audio | [Publication](https://openalex.org/W2296605420) |
@@ -479,34 +510,3 @@
 | 1956 | finite difference technique | Speech & Audio | [Publication](https://doi.org/10.21236/ada284484) |
 | 1956 | granulometry | Computer Vision | [Publication](https://doi.org/10.1063/1.1722287) |
 | 1956 | lamb waves | AI Infrastructure | [Publication](https://doi.org/10.2172/4356069) |
-| 1956 | m-matrix | Robotics | [Publication](https://doi.org/10.1017/s0013091500021507) |
-| 1956 | microwave antennas | Speech & Audio | [Publication](https://doi.org/10.1109/tap.1956.1144447) |
-| 1956 | noisy environment | Speech & Audio | [Publication](https://doi.org/10.1037/e413832004-001) |
-| 1956 | nuclear physics | Speech & Audio | [Publication](https://doi.org/10.1016/0029-5582(56)90099-2) |
-| 1956 | Path Tracing | Computer Graphics | [Publication](https://doi.org/10.1049/jiee-3.1956.0044) |
-| 1956 | pin diode | Speech & Audio | [Publication](https://doi.org/10.1002/j.1538-7305.1956.tb02396.x) |
-| 1956 | programming model | AI Infrastructure | [Publication](https://doi.org/10.2307/1911630) |
-| 1956 | relay stations | AI Infrastructure | [Publication](https://doi.org/10.1111/j.0033-0124.1956.82_82_2.x) |
-| 1956 | Sample Space | Mathematics | [Publication](https://doi.org/10.1037/13191-001) |
-| 1956 | scattered field | Computer Vision | [Publication](https://doi.org/10.1109/iretap.1956.6366302) |
-| 1956 | signal theory | Speech & Audio | [Publication](https://doi.org/10.1109/tct.1956.1086321) |
-| 1956 | Surface Integral | Mathematics | [Publication](https://doi.org/10.21136/cmj.1956.100219) |
-| 1956 | Transfer Scaling | Machine Learning | [Publication](https://doi.org/10.6028/nbs.rpt.4854) |
-| 1956 | typification | Machine Learning | [Publication](https://doi.org/10.1002/j.1996-8175.1956.tb02668.x) |
-| 1957 | air traffic controller | Robotics | [Publication](https://doi.org/10.1037/e422022004-001) |
-| 1957 | analog differential analyzers | AI Foundations | [Publication](https://doi.org/10.1109/tec.1957.5221575) |
-| 1957 | audio applications | Speech & Audio | [Publication](https://doi.org/10.1109/tau.1957.1165989) |
-| 1957 | bandwidth compression | AI Infrastructure | [Publication](https://doi.org/10.1049/jiee-3.1957.0172) |
-| 1957 | Beam Width | Mathematics | [Publication](https://doi.org/10.1038/180496a0) |
-| 1957 | Binomial Coefficient | Mathematics | [Publication](https://doi.org/10.4153/cjm-1957-043-6) |
-| 1957 | character recognition system | Machine Learning | [Publication](https://doi.org/10.1109/tec.1957.5222035) |
-| 1957 | Cocktail Party Effect | Cognitive Science | [Publication](https://doi.org/10.1121/1.1919140) |
-| 1957 | Extraction Rate | Machine Learning | [Publication](https://doi.org/10.1252/kakoronbunshu1953.21.188) |
-| 1957 | flip flop circuits | AI Infrastructure | [Publication](https://doi.org/10.1109/isscc.1957.1183969) |
-| 1957 | freight transportation | Mathematics | [Publication](https://doi.org/10.4159/harvard.9780674499171.c12) |
-| 1957 | image transmission | Computer Vision | [Publication](https://doi.org/10.1364/josa.47.000499) |
-| 1957 | John von Neumann | People & Organizations | [Publication](https://doi.org/10.1080/00963402.1957.11457538) |
-| 1957 | Logistic Function | Mathematics | [Publication](https://doi.org/10.2307/3001900) |
-| 1957 | optical pumping | AI Infrastructure | [Publication](https://doi.org/10.1103/physrev.108.1453) |
-| 1957 | Orthonormal Basis | Mathematics | [Publication](https://doi.org/10.1109/tct.1957.1086391) |
-| 1957 | passive networks | AI Infrastructure | [Publication](https://openalex.org/W3006979016) |

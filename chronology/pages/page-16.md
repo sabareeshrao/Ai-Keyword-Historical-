@@ -10,6 +10,81 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 1995 ★★ | chuas circuit | AI Safety | [Indirect context](https://doi.org/10.1109/92.711314) — NOT keyword evidence |
+| 1995 ★★ | Circuit | Deep Learning | [Indirect context](https://doi.org/10.1007/s40883-022-00264-z) — NOT keyword evidence |
+| 1995 ★★ | clock gating | AI Infrastructure | [Indirect context](https://doi.org/10.1109/71.363408) — NOT keyword evidence |
+| 1995 ★★ | collaborative virtual environments | AI Applications | [Indirect context](https://doi.org/10.1007/978-3-7091-6785-4_10) — NOT keyword evidence |
+| 1995 ★★ | Compute-Bound Operation | Deep Learning | [Indirect context](https://doi.org/10.52202/079017-2427) — NOT keyword evidence |
+| 1995 ★★ | cryptographic algorithms | AI Infrastructure | [Indirect context](https://doi.org/10.15760/etd.2486) — NOT keyword evidence |
+| 1995 ★★ | decision tree classification | Machine Learning | [Indirect context](https://doi.org/10.1016/0888-613x(88)90129-6) — NOT keyword evidence |
+| 1995 ★★ | decision tree classifiers | Machine Learning | [Indirect context](https://doi.org/10.1016/0888-613x(88)90129-6) — NOT keyword evidence |
+| 1995 ★★ | Decision tree pruning | Machine Learning | [Indirect context](https://doi.org/10.5040/9781350393288.ch-012) — NOT keyword evidence |
+| 1995 ★★ | Depth Map | Computer Vision | [Indirect context](https://doi.org/10.1049/el:20010457) — NOT keyword evidence |
+| 1995 ★★ | disabilities | AI Applications | [Indirect context](https://doi.org/10.1044/policy.gl1992-00201) — NOT keyword evidence |
+| 1995 ★★ | distributed computing environment | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ada191239) — NOT keyword evidence |
+| 1995 ★★ | dna 16s | Machine Learning | [Indirect context](https://doi.org/10.17504/protocols.io.d7u9nv) — NOT keyword evidence |
+| 1995 ★★ | dna, ribosomal spacer | Machine Learning | [Indirect context](https://doi.org/10.1080/00275514.1993.12026293) — NOT keyword evidence |
+| 1995 ★★ | Domain Randomization (DR) | AI Foundations | [Indirect context](https://doi.org/10.5244/c.29.96) — NOT keyword evidence |
+| 1995 ★★ | encryption key | AI Safety | [Indirect context](https://doi.org/10.1109/tit.1980.1056264) — NOT keyword evidence |
+| 1995 ★★ | epipolar | Computer Vision | [Indirect context](https://doi.org/10.1017/cbo9780511526657.005) — NOT keyword evidence |
+| 1995 ★★ | EU AI Act | AI Foundations | [Indirect context](https://openalex.org/W1581404362) — NOT keyword evidence |
+| 1995 ★★ | Evolutionary Algorithm (EA) | Machine Learning | [Indirect context](https://doi.org/10.1007/3-540-64957-3_69) — NOT keyword evidence |
+| 1995 ★★ | Extrinsic Parameters | Computer Vision | [Indirect context](https://doi.org/10.1017/s0074180900148594) — NOT keyword evidence |
+| 1995 ★★ | fault prevention | Programming & Software | [Indirect context](https://doi.org/10.3724/sp.j.1016.2011.01411) — NOT keyword evidence |
+| 1995 ★★ | fiber amplifier | Computer Vision | [Indirect context](https://doi.org/10.1364/oaa.1990.wa1) — NOT keyword evidence |
+| 1995 ★★ | Flat Direction | Deep Learning | [Indirect context](https://doi.org/10.1117/12.2294281) — NOT keyword evidence |
+| 1995 ★★ | fuzzy extension | AI Foundations | [Indirect context](https://doi.org/10.1016/S0019-9958(65)90241-X) — NOT keyword evidence |
+| 1995 ★★ | gateways (computer networks) | AI Infrastructure | [Indirect context](https://doi.org/10.1109/mec.2013.6885428) — NOT keyword evidence |
+| 1995 ★★ | genetic fuzzy systems | AI Foundations | [Indirect context](https://doi.org/10.1016/b978-0-08-050684-5.50018-5) — NOT keyword evidence |
+| 1995 ★★ | genetic-fuzzy | AI Foundations | [Indirect context](https://doi.org/10.1016/b978-0-08-050684-5.50018-5) — NOT keyword evidence |
+| 1995 ★★ | Graded Relevance | Information Retrieval | [Indirect context](https://doi.org/10.1145/3331184.3331326) — NOT keyword evidence |
+| 1995 ★★ | groupware systems | AI Applications | [Indirect context](https://doi.org/10.1007/978-3-322-84932-8) — NOT keyword evidence |
+| 1995 ★★ | Higher-Order Function | Programming & Software | [Indirect context](https://doi.org/10.1021/ac00235a036) — NOT keyword evidence |
+| 1995 ★★ | histograms of oriented gradients | Mathematics | [Indirect context](https://doi.org/10.1109/wacv.2009.5403043) — NOT keyword evidence |
+| 1995 ★★ | homogeneous network | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1995 ★★ | hybrid genetic algorithm | AI Foundations | [Indirect context](https://doi.org/10.1016/b978-0-08-050684-5.50018-5) — NOT keyword evidence |
+| 1995 ★★ | hybrid genetic algorithms | AI Foundations | [Indirect context](https://doi.org/10.1016/b978-0-08-050684-5.50018-5) — NOT keyword evidence |
+| 1995 ★★ | hypermedia | AI Applications | [Indirect context](https://doi.org/10.1080/09558543.1991.12031195) — NOT keyword evidence |
+| 1995 ★★ | improved genetic algorithm | AI Foundations | [Indirect context](https://doi.org/10.1007/978-3-7091-7535-4_11) — NOT keyword evidence |
+| 1995 ★★ | Incidence Matrix | Mathematics | [Indirect context](https://doi.org/10.1016/b978-044488355-1/50005-0) — NOT keyword evidence |
+| 1995 ★★ | Inner Product | AI Foundations | [Indirect context](https://doi.org/10.1007/bf02029137) — NOT keyword evidence |
+| 1995 ★★ | insecure networks | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1995 ★★ | interaction design | AI Applications | [Indirect context](https://doi.org/10.1109/mprv.2005.91) — NOT keyword evidence |
+| 1995 ★★ | ip network | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
+| 1995 ★★ | Labour Organization in Tech | People & Organizations | [Indirect context](https://doi.org/10.1177/109821408500600106) — NOT keyword evidence |
+| 1995 ★★ | Law of Large Numbers (LLN) | AI Foundations | [Indirect context](https://doi.org/10.2307/1067070) — NOT keyword evidence |
+| 1995 ★★ | Linear Regression | Mathematics | [Indirect context](https://doi.org/10.1006/csla.1995.0010) — NOT keyword evidence |
+| 1995 ★★ | Maximal Marginal Relevance (MMR) | Information Retrieval | [Indirect context](https://doi.org/10.1145/3331184.3331326) — NOT keyword evidence |
+| 1995 ★★ | microsatellite dna | Data Science | [Indirect context](https://doi.org/10.1016/0888-7543(92)90178-u) — NOT keyword evidence |
+| 1995 ★★ | mpls network | AI Infrastructure | [Indirect context](https://doi.org/10.3745/kipstc.2002.9c.6.893) — NOT keyword evidence |
+| 1995 ★★ | neuro-fuzzy system | Deep Learning | [Indirect context](https://doi.org/10.1007/978-3-642-79386-8_47) — NOT keyword evidence |
+| 1995 ★★ | neuro-fuzzy systems | Deep Learning | [Indirect context](https://doi.org/10.1007/978-3-642-79386-8_47) — NOT keyword evidence |
+| 1995 ★★ | Oblique Decision Tree | Machine Learning | [Indirect context](https://doi.org/10.5040/9781350393288.ch-012) — NOT keyword evidence |
+| 1995 ★★ | optimal policies | Mathematics | [Indirect context](https://doi.org/10.1017/cbo9780511521973.004) — NOT keyword evidence |
+| 1995 ★★ | pareto-optimal front | Mathematics | [Indirect context](https://doi.org/10.1007/978-1-4615-2089-4_2) — NOT keyword evidence |
+| 1995 ★★ | Pinhole Camera Model | Computer Vision | [Indirect context](https://doi.org/10.1163/156855391x00232) — NOT keyword evidence |
+| 1995 ★★ | Pointer Network | NLP and LLMs | [Indirect context](https://doi.org/10.1088/1742-6596/887/1/012053) — NOT keyword evidence |
+| 1995 ★★ | random graphs | Mathematics | [Indirect context](https://doi.org/10.1016/j.aim.2003.10.007) — NOT keyword evidence |
+| 1995 ★★ | rayleigh fading | Speech & Audio | [Indirect context](https://doi.org/10.1109/26.380202) — NOT keyword evidence |
+| 1995 ★★ | rayleigh-fading channels | Speech & Audio | [Indirect context](https://doi.org/10.70220/6xgrs23w) — NOT keyword evidence |
+| 1995 ★★ | relevance models | NLP and LLMs | [Indirect context](https://doi.org/10.1145/3331184.3331326) — NOT keyword evidence |
+| 1995 ★★ | remote environment | AI Applications | [Indirect context](https://doi.org/10.1299/jsmemag.110.1069_908) — NOT keyword evidence |
+| 1995 ★★ | ribosomal spacer dna | Machine Learning | [Indirect context](https://doi.org/10.1080/00275514.1993.12026293) — NOT keyword evidence |
+| 1995 ★★ | routing and wavelength assignment (rwa) | AI Infrastructure | [Indirect context](https://doi.org/10.1109/90.392387) — NOT keyword evidence |
+| 1995 ★★ | Search Relevance Tuning | Information Retrieval | [Indirect context](https://doi.org/10.1145/3331184.3331326) — NOT keyword evidence |
+| 1995 ★★ | second order statistics | Mathematics | [Indirect context](https://doi.org/10.1109/proc.1973.9039) — NOT keyword evidence |
+| 1995 ★★ | secret sharing scheme | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0166-218x(94)00130-6) — NOT keyword evidence |
+| 1995 ★★ | Semantic Network | AI Foundations | [Indirect context](https://doi.org/10.1080/13554799508402380) — NOT keyword evidence |
+| 1995 ★★ | Set | Mathematics | [Indirect context](https://doi.org/10.1016/s1385-7258(66)50035-x) — NOT keyword evidence |
+| 1995 ★★ | share knowledge | AI Foundations | [Indirect context](https://doi.org/10.21236/ada397614) — NOT keyword evidence |
+| 1995 ★★ | simple genetic algorithm | AI Foundations | [Indirect context](https://doi.org/10.1016/b978-0-08-050684-5.50018-5) — NOT keyword evidence |
+| 1995 ★★ | Simultaneous Confidence Band | Mathematics | [Indirect context](https://doi.org/10.1080/03610929508831569) — NOT keyword evidence |
+| 1995 ★★ | spoken dialogue systems | NLP and LLMs | [Indirect context](https://doi.org/10.21437/icslp.1994-232) — NOT keyword evidence |
+| 1995 ★★ | Stochastic Differential Equation (SDE) | Mathematics | [Indirect context](https://doi.org/10.1007/978-3-642-88264-7_7) — NOT keyword evidence |
+| 1995 ★★ | stochastic neural network | Mathematics | [Indirect context](https://doi.org/10.1016/0893-6080(95)00131-x) — NOT keyword evidence |
+| 1995 ★★ | Systemic Risk Model | AI Safety | [Indirect context](https://doi.org/10.1093/0198233310.003.0006) — NOT keyword evidence |
+| 1995 ★★ | target classification | Computer Vision | [Indirect context](https://doi.org/10.21236/ada294854) — NOT keyword evidence |
+| 1995 ★★ | target drones | Computer Vision | [Indirect context](https://doi.org/10.1117/12.277140) — NOT keyword evidence |
 | 1995 ★★ | Task Completion in Dialogue | NLP and LLMs | [Indirect context](https://doi.org/10.21437/icslp.1994-233) — NOT keyword evidence |
 | 1995 ★★ | Technical Documentation Requirement | AI Safety | [Indirect context](https://openalex.org/W1912622569) — NOT keyword evidence |
 | 1995 ★★ | Tool Call Retry | Agentic AI | [Indirect context](https://doi.org/10.1029/ja089ia01p00217) — NOT keyword evidence |
@@ -435,78 +510,3 @@
 | 1997 | backstepping approach | Deep Learning | [Publication](https://doi.org/10.1541/ieejeiss1987.117.4_357) |
 | 1997 | bandwidth allocation | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc2125) |
 | 1997 | bandwidth efficiency | AI Infrastructure | [Publication](https://doi.org/10.1121/1.418894) |
-| 1997 | ber performance | AI Infrastructure | [Publication](https://doi.org/10.1049/el:19970508) |
-| 1997 | Bias-Corrected Bootstrap | Mathematics | [Publication](https://doi.org/10.1080/10485259708832716) |
-| 1997 | biomedical signals | Data Science | [Publication](https://doi.org/10.1049/ic:19970031) |
-| 1997 | biometric techniques | AI Safety | [Publication](https://doi.org/10.1007/978-1-4471-0997-6_13) |
-| 1997 | bitstreams | Computer Vision | [Publication](https://doi.org/10.1049/cp:19971332) |
-| 1997 | block-based motion estimation | Computer Vision | [Publication](https://doi.org/10.1049/el:19970941) |
-| 1997 | blocking artifacts | Computer Vision | [Publication](https://doi.org/10.1109/30.580384) |
-| 1997 | broad-band access networks | AI Infrastructure | [Publication](https://doi.org/10.1109/68.634730) |
-| 1997 | business partners | AI Infrastructure | [Publication](https://doi.org/10.1515/9780691231129-010) |
-| 1997 | business process analysis | AI Infrastructure | [Publication](https://doi.org/10.1108/14637159710173096) |
-| 1997 | business process models | AI Infrastructure | [Publication](https://doi.org/10.1108/14637159710161567) |
-| 1997 | business processes | AI Infrastructure | [Publication](https://doi.org/10.1201/9781420048117.ch4) |
-| 1997 | cache architecture | AI Infrastructure | [Publication](https://doi.org/10.2307/3514391) |
-| 1997 | cache size | AI Infrastructure | [Publication](https://doi.org/10.1007/3-540-63371-5_46) |
-| 1997 | cbr systems | AI Foundations | [Publication](https://doi.org/10.1007/978-1-4615-6233-7_17) |
-| 1997 | cdma system | AI Infrastructure | [Publication](https://doi.org/10.1049/ic:19970713) |
-| 1997 | Challenge Set | Evaluation & Metrics | [Publication](https://doi.org/10.1046/j.1365-2397.1997.d01-175.x) |
-| 1997 | chaos control | AI Safety | [Publication](https://doi.org/10.1016/s0960-0779(96)00155-5) |
-| 1997 | chaotic map | AI Safety | [Publication](https://doi.org/10.1016/b978-044482327-4/50078-4) |
-| 1997 | class diagrams | Programming & Software | [Publication](https://doi.org/10.1007/3-540-63938-1_86) |
-| 1997 | Classical Planning | AI Foundations | [Publication](https://doi.org/10.1016/s0004-3702(96)00031-8) |
-| 1997 | collaborative learning activities | AI Infrastructure | [Publication](https://doi.org/10.1046/j.1365-2729.1997.00002.x) |
-| 1997 | color management | Computer Vision | [Publication](https://doi.org/10.2352/cic.1997.5.1.art00015) |
-| 1997 | common criteria | AI Safety | [Publication](https://doi.org/10.1007/978-3-322-86842-8_17) |
-| 1997 | component composition | Programming & Software | [Publication](https://doi.org/10.1007/978-3-662-03345-6_7) |
-| 1997 | Consistency of Treatment | AI Foundations | [Publication](https://doi.org/10.1007/bf03271975) |
-| 1997 | conventional-pi controller | Robotics | [Publication](https://doi.org/10.1016/s1474-6670(17)41203-1) |
-| 1997 | convolutional coding | Speech & Audio | [Publication](https://doi.org/10.1007/978-1-4613-0447-0_12) |
-| 1997 | Counterfactual | AI Foundations | [Publication](https://doi.org/10.1515/9780691215075-013) |
-| 1997 | cross language information retrieval | NLP and LLMs | [Publication](https://doi.org/10.6028/nist.sp.500-240.clir-overview) |
-| 1997 | Crowding Problem | Machine Learning | [Publication](https://doi.org/10.1016/s0169-2046(97)80001-1) |
-| 1997 | Data Augmentation | Data Science | [Publication](https://doi.org/10.1201/9780367803025-3) |
-| 1997 | diffie-hellman | AI Infrastructure | [Publication](https://doi.org/10.1016/s1353-4858(97)90084-2) |
-| 1997 | digital imaging and communications in medicine | Computer Vision | [Publication](https://doi.org/10.1007/bf03168637) |
-| 1997 | digital photography | Computer Vision | [Publication](https://doi.org/10.2352/cic.1997.5.1.art00020) |
-| 1997 | digital signatures | AI Safety | [Publication](https://doi.org/10.17487/rfc2154) |
-| 1997 | discrete logarithm problems | AI Safety | [Publication](https://doi.org/10.1007/bfb0028485) |
-| 1997 | dsp processor | Speech & Audio | [Publication](https://doi.org/10.1109/9780470544433) |
-| 1997 | edge crossing | Mathematics | [Publication](https://doi.org/10.1049/el:19971060) |
-| 1997 | edge detection methods | Speech & Audio | [Publication](https://doi.org/10.1117/12.275928) |
-| 1997 | electrostatic actuators | AI Infrastructure | [Publication](https://doi.org/10.1016/s0924-4247(97)80429-3) |
-| 1997 | embedded processors | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4757-6422-2_2) |
-| 1997 | Embodied agent | AI Foundations | [Publication](https://doi.org/10.1177/0038038597031004006) |
-| 1997 | error concealment | Computer Vision | [Publication](https://doi.org/10.1109/icce.1997.625854) |
-| 1997 | error floor | Mathematics | [Publication](https://doi.org/10.1007/978-1-4615-6237-5_5) |
-| 1997 | Exit Strategy | AI Foundations | [Publication](https://doi.org/10.21236/ada328399) |
-| 1997 | Expert Demonstration | Reinforcement Learning | [Publication](https://doi.org/10.1080/07303084.1997.10604962) |
-| 1997 | Expert Determination | Science & Healthcare AI | [Publication](https://doi.org/10.1016/s0267-3649(97)86897-5) |
-| 1997 | extranets | AI Safety | [Publication](https://doi.org/10.1109/mc.1997.589906) |
-| 1997 | FAccT | People & Organizations | [Publication](https://doi.org/10.1001/jama.1997.03550190022011) |
-| 1997 | feature-oriented programming | AI Infrastructure | [Publication](https://doi.org/10.1007/bfb0053389) |
-| 1997 | fingerprint matching | Computer Vision | [Publication](https://doi.org/10.6028/nist.ir.5955) |
-| 1997 | Finite Impulse Response Filter (FIR) | Signal & Information Theory | [Publication](https://doi.org/10.1016/s0963-8695(97)87313-6) |
-| 1997 | force sensors | Robotics | [Publication](https://doi.org/10.1016/s0924-4247(97)01534-3) |
-| 1997 | Forward chaining | AI Applications | [Publication](https://doi.org/10.21236/ada344500) |
-| 1997 | Fourier Term | Time Series & Forecasting | [Publication](https://doi.org/10.1016/s0301-0104(97)00095-5) |
-| 1997 | frequency offset | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-642-60582-6_28) |
-| 1997 | function point analysis | Programming & Software | [Publication](https://doi.org/10.1007/978-3-322-99929-0_4) |
-| 1997 | fusion rule | Computer Vision | [Publication](https://doi.org/10.1117/12.276123) |
-| 1997 | fuzzy cognitive maps | AI Foundations | [Publication](https://doi.org/10.21236/ada381723) |
-| 1997 | gaussian mixture modeling | Computer Vision | [Publication](https://doi.org/10.21437/eurospeech.1997-602) |
-| 1997 | Gestalt Principles | Cognitive Science | [Publication](https://doi.org/10.18778/0208-6077.36.08) |
-| 1997 | Glasser's choice theory | AI Foundations | [Publication](https://doi.org/10.1177/152574019701800208) |
-| 1997 | global navigation satellite systems | Robotics | [Publication](https://doi.org/10.1049/ic:19970911) |
-| 1997 | graph transformation | Mathematics | [Publication](https://doi.org/10.1142/3303) |
-| 1997 | Ground Truth | Data Science | [Publication](https://doi.org/10.1111/j.1467-9671.1997.tb00002.x) |
-| 1997 | haptic sensation | AI Applications | [Publication](https://doi.org/10.1007/978-1-4615-6379-2_56) |
-| 1997 | hardware-accelerated | AI Infrastructure | [Publication](https://doi.org/10.1145/258694.258706) |
-| 1997 | hidden terminal problems | AI Infrastructure | [Publication](https://doi.org/10.1145/263109.263137) |
-| 1997 | hmm-based speech synthesis | Speech & Audio | [Publication](https://doi.org/10.21437/eurospeech.1997-655) |
-| 1997 | home networks | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4615-6341-9_19) |
-| 1997 | hyperchaotic | Robotics | [Publication](https://doi.org/10.1063/1.54207) |
-| 1997 | ilp formulation | AI Infrastructure | [Publication](https://doi.org/10.1109/edtc.1997.582434) |
-| 1997 | Image Compression Artifact | Computer Vision | [Publication](https://doi.org/10.1117/12.263302) |
-| 1997 | image understanding | Computer Vision | [Publication](https://doi.org/10.1006/cviu.1996.0520) |

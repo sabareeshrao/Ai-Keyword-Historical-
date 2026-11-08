@@ -1,6 +1,6 @@
 # Batch 06/41 — Historical Keywords
 
-**500 keywords**, sorted chronologically (1978 – 1981). The master CSV retains the original permanent IDs.
+**500 keywords**, sorted chronologically (1978 – 1980). The master CSV retains the original permanent IDs.
 
 [All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
@@ -10,6 +10,65 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 1978 | edge detection | Computer Vision | [Publication](https://doi.org/10.21236/ada059124) |
+| 1978 | eeg analysis | Speech & Audio | [Publication](https://doi.org/10.1080/00029238.1978.11081144) |
+| 1978 | electron mobility | AI Infrastructure | [Publication](https://doi.org/10.1109/t-ed.1978.19201) |
+| 1978 | embedding process | AI Safety | [Publication](https://doi.org/10.1007/978-1-349-03568-7_3) |
+| 1978 | Exact Match | Evaluation & Metrics | [Publication](https://doi.org/10.1137/0207043) |
+| 1978 | facial action | Machine Learning | [Publication](https://doi.org/10.1037/t27734-000) |
+| 1978 | facial action coding system | Machine Learning | [Publication](https://doi.org/10.1037/t27734-000) |
+| 1978 | facial regions | Machine Learning | [Publication](https://doi.org/10.1016/b978-0-08-023049-8.50071-3) |
+| 1978 | Fair Use | AI Safety | [Publication](https://doi.org/10.4159/harvard.9780674433120.c3) |
+| 1978 | False Negative (FN) | AI Foundations | [Publication](https://doi.org/10.1016/0002-9149(78)90285-0) |
+| 1978 | fault tolerant computer systems | AI Infrastructure | [Publication](https://doi.org/10.21236/ada059936) |
+| 1978 | Fixed Effect | Mathematics | [Publication](https://doi.org/10.3386/w0280) |
+| 1978 | forecasting problems | Machine Learning | [Publication](https://doi.org/10.1108/eb056898) |
+| 1978 | formal specifications | Programming & Software | [Publication](https://doi.org/10.21236/ada109317) |
+| 1978 | functional dependencies | AI Foundations | [Publication](https://doi.org/10.2172/6401792) |
+| 1978 | game analysis | Reinforcement Learning | [Publication](https://doi.org/10.1177/036215377800800316) |
+| 1978 | hough transformation | Computer Vision | [Publication](https://doi.org/10.1109/tc.1978.1675191) |
+| 1978 | Identifiability Analysis | Mathematics | [Publication](https://doi.org/10.1080/00207177808922437) |
+| 1978 | Identity Verification | AI Applications | [Publication](https://doi.org/10.21236/ada056772) |
+| 1978 | iir filters | Speech & Audio | [Publication](https://doi.org/10.1109/proc.1978.10962) |
+| 1978 | image matching algorithm | Computer Vision | [Publication](https://doi.org/10.1016/0031-3203(78)90046-8) |
+| 1978 | Impact Analysis | Programming & Software | [Publication](https://doi.org/10.1016/b978-0-12-735350-0.50004-x) |
+| 1978 | inference systems | AI Foundations | [Publication](https://doi.org/10.1016/c2013-0-11671-6) |
+| 1978 | Information-Theoretic Lower Bound | Mathematics | [Publication](https://doi.org/10.1016/0020-0190(78)90037-6) |
+| 1978 | Inverse Problem | Science & Healthcare AI | [Publication](https://doi.org/10.1007/978-3-662-25771-5_4) |
+| 1978 | Labelling Policy | Generative AI | [Publication](https://doi.org/10.1016/0306-9192(78)90021-0) |
+| 1978 | laser annealing | AI Foundations | [Publication](https://doi.org/10.21236/ada145857) |
+| 1978 | Linear Algebra | AI Foundations | [Publication](https://doi.org/10.1016/0024-3795(78)90073-3) |
+| 1978 | Lipschitz Continuity | Mathematics | [Publication](https://doi.org/10.1007/978-3-0348-7180-8_21) |
+| 1978 | logistic regressions | Mathematics | [Publication](https://doi.org/10.2307/2529594) |
+| 1978 | Logit Function | Mathematics | [Publication](https://doi.org/10.1016/b978-0-08-023768-8.50424-2) |
+| 1978 | lyapunov-krasovskii functionals | Robotics | [Publication](https://doi.org/10.1007/bf01130642) |
+| 1978 | maximum likelihood detectors | Speech & Audio | [Publication](https://doi.org/10.1109/tit.1978.1055834) |
+| 1978 | mean absolute error | Speech & Audio | [Publication](https://doi.org/10.1109/tcom.1978.1094055) |
+| 1978 | Memory Capacity | AI Infrastructure | [Publication](https://doi.org/10.3758/bf03197446) |
+| 1978 | memory systems | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-322-83629-8_20) |
+| 1978 | microstrip filters | Speech & Audio | [Publication](https://doi.org/10.1063/1.31342) |
+| 1978 | Mode Collapse | AI Foundations | [Publication](https://doi.org/10.1364/ao.17.002924) |
+| 1978 | nuclear sciences | Computer Vision | [Publication](https://doi.org/10.2172/6751528) |
+| 1978 | online searching | Information Retrieval | [Publication](https://doi.org/10.1108/eb023972) |
+| 1978 | optical sensor | AI Infrastructure | [Publication](https://doi.org/10.21236/ada058835) |
+| 1978 | optical transmission | AI Infrastructure | [Publication](https://doi.org/10.21236/ada056746) |
+| 1978 | optically pumped lasers | AI Infrastructure | [Publication](https://doi.org/10.2172/6895972) |
+| 1978 | palmprints | AI Safety | [Publication](https://doi.org/10.1515/9783110800005.215) |
+| 1978 | Parameter Validation | Agentic AI | [Publication](https://doi.org/10.1145/987515.987517) |
+| 1978 | pentacenes | AI Infrastructure | [Publication](https://doi.org/10.1002/jlcr.2580140313) |
+| 1978 | Perceptual Coding | Signal & Information Theory | [Publication](https://doi.org/10.1016/c2013-0-10468-0) |
+| 1978 | Percolation Threshold | Graph & Network Learning | [Publication](https://doi.org/10.1063/1.31180) |
+| 1978 | Plan Recognition | AI Foundations | [Publication](https://doi.org/10.1016/0004-3702(78)90012-7) |
+| 1978 | pneumatic cylinders | Machine Learning | [Publication](https://doi.org/10.1049/tpe.1978.0012) |
+| 1978 | polarimeters | AI Infrastructure | [Publication](https://doi.org/10.1063/1.31290) |
+| 1978 | polarization mode dispersion | AI Infrastructure | [Publication](https://doi.org/10.1364/ol.3.000060) |
+| 1978 | policy specification | AI Infrastructure | [Publication](https://doi.org/10.1016/0197-3975(78)90077-2) |
+| 1978 | polynomial basis | AI Safety | [Publication](https://doi.org/10.1063/1.523616) |
+| 1978 | Positional Head | Deep Learning | [Publication](https://doi.org/10.1007/bf00666366) |
+| 1978 | Post-Stratification | Mathematics | [Publication](https://doi.org/10.21236/ada053919) |
+| 1978 | Prefetching | AI Infrastructure | [Publication](https://doi.org/10.1145/320263.320276) |
+| 1978 | Premature Termination | Agentic AI | [Publication](https://doi.org/10.1016/0022-2836(78)90308-x) |
+| 1978 | program translators | AI Foundations | [Publication](https://doi.org/10.2140/pjm.1978.76.485) |
 | 1978 | public key | AI Infrastructure | [Publication](https://doi.org/10.1145/359340.359342) |
 | 1978 | public switched telephone network | AI Infrastructure | [Publication](https://doi.org/10.70220/c2skbx5n) |
 | 1978 | public-key cryptosystems | AI Infrastructure | [Publication](https://doi.org/10.21236/ada606588) |
@@ -451,62 +510,3 @@
 | 1980 ★★ | electronic product codes | Speech & Audio | [Indirect context](https://openalex.org/W2749426592) — NOT keyword evidence |
 | 1980 ★★ | Face Validity | Evaluation & Metrics | [Indirect context](https://doi.org/10.1007/978-981-99-1979-6_10) — NOT keyword evidence |
 | 1980 ★★ | fms | Mathematics | [Indirect context](https://doi.org/10.1002/jgt.3190010206) — NOT keyword evidence |
-| 1980 ★★ | girth | Mathematics | [Indirect context](https://doi.org/10.1002/jgt.3190010206) — NOT keyword evidence |
-| 1980 ★★ | Hierarchical control system (HCS) | AI Foundations | [Indirect context](https://doi.org/10.2514/6.1982-1440) — NOT keyword evidence |
-| 1980 ★★ | Historical Bias | AI Safety | [Indirect context](https://doi.org/10.1080/01621459.1962.10480664) — NOT keyword evidence |
-| 1980 ★★ | hyper-cubes | Mathematics | [Indirect context](https://doi.org/10.1002/jgt.3190010206) — NOT keyword evidence |
-| 1980 ★★ | idma | Mathematics | [Indirect context](https://doi.org/10.1002/jgt.3190010206) — NOT keyword evidence |
-| 1980 ★★ | in-network data aggregation | AI Infrastructure | [Indirect context](https://doi.org/10.1142/9789812777102_0049) — NOT keyword evidence |
-| 1980 ★★ | Indian Buffet Process | Mathematics | [Indirect context](https://doi.org/10.1093/bioinformatics/btl284) — NOT keyword evidence |
-| 1980 ★★ | interacting multiple model | AI Infrastructure | [Indirect context](https://doi.org/10.1002/j.2161-4296.1974.tb01229.x) — NOT keyword evidence |
-| 1980 ★★ | Laplace Redux | Mathematics | [Indirect context](https://doi.org/10.2172/5162720) — NOT keyword evidence |
-| 1980 ★★ | low jitters | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0140-3664(92)90011-3) — NOT keyword evidence |
-| 1980 ★★ | LU Decomposition | Mathematics | [Indirect context](https://doi.org/10.2307/1912094) — NOT keyword evidence |
-| 1980 ★★ | mde | Mathematics | [Indirect context](https://doi.org/10.1002/jgt.3190010206) — NOT keyword evidence |
-| 1980 ★★ | Model-Based Evaluation Bias | Evaluation & Metrics | [Indirect context](https://doi.org/10.1016/0191-765x(80)90026-9) — NOT keyword evidence |
-| 1980 ★★ | nearest neighbor queries | Machine Learning | [Indirect context](https://doi.org/10.1109/TIT.1967.1053964) — NOT keyword evidence |
-| 1980 ★★ | network analyzer | AI Infrastructure | [Indirect context](https://openalex.org/W2999477930) — NOT keyword evidence |
-| 1980 ★★ | Occam's Razor in Learning | Machine Learning | [Indirect context](https://doi.org/10.1097/00006199-198009000-00001) — NOT keyword evidence |
-| 1980 ★★ | Ornstein-Uhlenbeck Process | Mathematics | [Indirect context](https://doi.org/10.1093/bioinformatics/btl284) — NOT keyword evidence |
-| 1980 ★★ | Polars | Tools & Frameworks | [Indirect context](https://doi.org/10.48550/arxiv.1501.02473) — NOT keyword evidence |
-| 1980 ★★ | pure nash equilibrium | Mathematics | [Indirect context](https://doi.org/10.1002/jgt.3190010206) — NOT keyword evidence |
-| 1980 ★★ | QR Decomposition | Mathematics | [Indirect context](https://doi.org/10.2307/1912094) — NOT keyword evidence |
-| 1980 ★★ | Quadratic Discriminant Analysis (QDA) | Machine Learning | [Indirect context](https://doi.org/10.21437/icslp.1998-528) — NOT keyword evidence |
-| 1980 ★★ | qvt | Mathematics | [Indirect context](https://doi.org/10.1002/jgt.3190010206) — NOT keyword evidence |
-| 1980 ★★ | RAFT Optical Flow | Computer Vision | [Indirect context](https://doi.org/10.5244/c.21.81) — NOT keyword evidence |
-| 1980 ★★ | Regret Decomposition | Mathematics | [Indirect context](https://doi.org/10.2307/1912094) — NOT keyword evidence |
-| 1980 ★★ | remote control | Robotics | [Indirect context](https://doi.org/10.1177/002029408702000503) — NOT keyword evidence |
-| 1980 ★★ | Renewal Process | Mathematics | [Indirect context](https://doi.org/10.1093/bioinformatics/btl284) — NOT keyword evidence |
-| 1980 ★★ | Representation Bias | AI Safety | [Indirect context](https://doi.org/10.1080/01621459.1962.10480664) — NOT keyword evidence |
-| 1980 ★★ | residue arithmetic | AI Infrastructure | [Indirect context](https://doi.org/10.1364/optcomp.1987.pdp1) — NOT keyword evidence |
-| 1980 ★★ | Room Impulse Response (RIR) | Signal & Information Theory | [Indirect context](https://doi.org/10.1016/s0963-8695(97)87313-6) — NOT keyword evidence |
-| 1980 ★★ | satellite communication systems | AI Infrastructure | [Indirect context](https://doi.org/10.2514/6.1980-539) — NOT keyword evidence |
-| 1980 ★★ | Stick-Breaking Process | Mathematics | [Indirect context](https://doi.org/10.1093/bioinformatics/btl284) — NOT keyword evidence |
-| 1980 ★★ | strategy proofs | Reinforcement Learning | [Indirect context](https://doi.org/10.21136/cpm.1959.117317) — NOT keyword evidence |
-| 1980 ★★ | supervisory controllers | Mathematics | [Indirect context](https://doi.org/10.1002/jgt.3190010206) — NOT keyword evidence |
-| 1980 ★★ | telecontrol equipment | Robotics | [Indirect context](https://doi.org/10.1016/s0042-207x(80)80658-0) — NOT keyword evidence |
-| 1980 ★★ | trajectory tracking control | Robotics | [Indirect context](https://doi.org/10.1016/0022-0396(69)90019-9) — NOT keyword evidence |
-| 1980 ★★ | Treatment Assignment Mechanism | Causal Inference | [Indirect context](https://doi.org/10.1097/01.ede.0001281556.60346.3b) — NOT keyword evidence |
-| 1980 ★★ | Treatment Assignment Policy | Causal Inference | [Indirect context](https://doi.org/10.1097/01.ede.0001281556.60346.3b) — NOT keyword evidence |
-| 1980 ★★ | Varimax Rotation | Machine Learning | [Indirect context](https://doi.org/10.2478/v10018-010-0010-y) — NOT keyword evidence |
-| 1981 | Acceptance Testing | AI Foundations | [Publication](https://doi.org/10.37206/8) |
-| 1981 | actinomycetes and related organisms | Machine Learning | [Publication](https://doi.org/10.1007/bf01571146) |
-| 1981 | Aesthetic Control | Generative AI | [Publication](https://doi.org/10.1093/bjaesthetics/21.3.261) |
-| 1981 | aircraft systems | Robotics | [Publication](https://doi.org/10.2514/6.1981-1684) |
-| 1981 | Algorithmic probability | AI Foundations | [Publication](https://doi.org/10.1109/sfcs.1981.31) |
-| 1981 | Anaphora | NLP and LLMs | [Publication](https://doi.org/10.1007/3-540-10858-0_2) |
-| 1981 | Annealing Phase | Deep Learning | [Publication](https://doi.org/10.1557/proc-4-43) |
-| 1981 | anonymity | AI Safety | [Publication](https://doi.org/10.1080/00224545.1981.9924347) |
-| 1981 | Attribute Binding | Generative AI | [Publication](https://doi.org/10.1145/965161.806800) |
-| 1981 | background knowledge | AI Foundations | [Publication](https://doi.org/10.1037/e409542004-001) |
-| 1981 | beam propagation method | AI Infrastructure | [Publication](https://doi.org/10.1364/josa.71.000803) |
-| 1981 | Behavioural sciences | AI Foundations | [Publication](https://doi.org/10.1017/s0141347300008016) |
-| 1981 | Boundary Loss Term | Mathematics | [Publication](https://doi.org/10.1016/0022-3115(81)90201-4) |
-| 1981 | Breakdown Point | Mathematics | [Publication](https://doi.org/10.1007/bf02497983) |
-| 1981 | chaotic motions | AI Safety | [Publication](https://doi.org/10.1007/978-0-387-21830-4_9) |
-| 1981 | chromosome 1q | Data Science | [Publication](https://doi.org/10.1016/0165-4608(81)90066-2) |
-| 1981 | closed form solutions | Speech & Audio | [Publication](https://doi.org/10.1109/taes.1981.309128) |
-| 1981 | Code Interpreter | Agentic AI | [Publication](https://doi.org/10.1145/1014192.802434) |
-| 1981 | collision resistance | AI Safety | [Publication](https://doi.org/10.4043/4135-ms) |
-| 1981 | color computer graphics | AI Applications | [Publication](https://doi.org/10.1037/e488702008-002) |
-| 1981 | Combinatorial Explosion | AI Foundations | [Publication](https://doi.org/10.4324/9781315835839-10) |

@@ -1,6 +1,6 @@
 # Batch 38/41 — Historical Keywords
 
-**500 keywords**, sorted chronologically (2021 – 2023). The master CSV retains the original permanent IDs.
+**500 keywords**, sorted chronologically (2020 – 2022). The master CSV retains the original permanent IDs.
 
 [All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
@@ -10,6 +10,130 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 2020 ★★ | Faithful Reasoning | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Feature Map | Deep Learning | [Indirect context](https://doi.org/10.1007/s42484-024-00177-w) — NOT keyword evidence |
+| 2020 ★★ | Feature Reuse in Networks | Deep Learning | [Indirect context](https://doi.org/10.1063/5.0298853) — NOT keyword evidence |
+| 2020 ★★ | Fictitious Self-Play | Reinforcement Learning | [Indirect context](https://doi.org/10.1007/978-3-030-59238-7_7) — NOT keyword evidence |
+| 2020 ★★ | Generator | Generative AI | [Indirect context](https://doi.org/10.17487/rfc8682) — NOT keyword evidence |
+| 2020 ★★ | Goal Misgeneralization | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Gradient Accumulation | AI Infrastructure | [Indirect context](https://doi.org/10.1109/lcomm.2014.2346787) — NOT keyword evidence |
+| 2020 ★★ | gradient algorithm | Deep Learning | [Indirect context](https://doi.org/10.2514/6.1969-917) — NOT keyword evidence |
+| 2020 ★★ | Gradient Clipping | AI Foundations | [Indirect context](https://doi.org/10.1109/mlsp49062.2020.9231926) — NOT keyword evidence |
+| 2020 ★★ | gradient methods | Deep Learning | [Indirect context](https://doi.org/10.2514/6.1969-917) — NOT keyword evidence |
+| 2020 ★★ | Gradient Underflow | Mathematics | [Indirect context](https://doi.org/10.1109/nusod.2011.6041167) — NOT keyword evidence |
+| 2020 ★★ | Gradient Value Clipping | Mathematics | [Indirect context](https://doi.org/10.1109/mlsp49062.2020.9231926) — NOT keyword evidence |
+| 2020 ★★ | Hardware-Aware NAS | Deep Learning | [Indirect context](https://doi.org/10.1145/3776759.3776826) — NOT keyword evidence |
+| 2020 ★★ | Helpful Honest Harmless (HHH) | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Helpfulness-Harmlessness Tradeoff | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Hierarchical Feature Map | Deep Learning | [Indirect context](https://doi.org/10.1109/ijcnn48605.2020.9206626) — NOT keyword evidence |
+| 2020 ★★ | Hierarchical Reinforcement Learning | Reinforcement Learning | [Indirect context](https://doi.org/10.1109/ictc49870.2020.9289369) — NOT keyword evidence |
+| 2020 ★★ | Honesty | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Hugging Face Accelerate | Tools & Frameworks | [Indirect context](https://doi.org/10.2196/preprints.98257) — NOT keyword evidence |
+| 2020 ★★ | Hyperparameter | Machine Learning | [Indirect context](https://doi.org/10.1609/aaai.v39i19.34243) — NOT keyword evidence |
+| 2020 ★★ | If-Then Commitment | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Inductive Bias of Attention | Deep Learning | [Indirect context](https://doi.org/10.1109/csrswtc50769.2020.9372459) — NOT keyword evidence |
+| 2020 ★★ | Internal Red Line | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Introspection in Models | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | JSON | Programming & Software | [Indirect context](https://doi.org/10.17487/rfc7519) — NOT keyword evidence |
+| 2020 ★★ | Label Bias in Clinical Data | Science & Healthcare AI | [Indirect context](https://doi.org/10.4016/30387.01) — NOT keyword evidence |
+| 2020 ★★ | Le Cam's Method | Mathematics | [Indirect context](https://doi.org/10.53347/rid-72380) — NOT keyword evidence |
+| 2020 ★★ | Likelihood-Free Model | Generative AI | [Indirect context](https://doi.org/10.2307/2334723) — NOT keyword evidence |
+| 2020 ★★ | Long-Tailed Recognition | Computer Vision | [Indirect context](https://doi.org/10.1109/cvpr46437.2021.00192) — NOT keyword evidence |
+| 2020 ★★ | Long-Term Benefit Trust (LTBT) | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Market-Based Oversight | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Meta-Reinforcement Learning | Reinforcement Learning | [Indirect context](https://doi.org/10.1109/ictc49870.2020.9289369) — NOT keyword evidence |
+| 2020 ★★ | Misinformation Detection | AI Applications | [Indirect context](https://doi.org/10.31234/osf.io/6mrgv) — NOT keyword evidence |
+| 2020 ★★ | Model Context Protocol Server | Agentic AI | [Indirect context](https://doi.org/10.17487/rfc8895) — NOT keyword evidence |
+| 2020 ★★ | Model-Free RL | AI Foundations | [Indirect context](https://doi.org/10.21437/interspeech.2024-771) — NOT keyword evidence |
+| 2020 ★★ | multi-agent approach | Agentic AI | [Indirect context](https://doi.org/10.63282/3050-9262.ijaidsml-v3i3p115) — NOT keyword evidence |
+| 2020 ★★ | multi-agent learning | Agentic AI | [Indirect context](https://doi.org/10.63282/3050-9262.ijaidsml-v3i3p115) — NOT keyword evidence |
+| 2020 ★★ | multi-agent model | Agentic AI | [Indirect context](https://doi.org/10.1142/9789814354196_0002) — NOT keyword evidence |
+| 2020 ★★ | multi-agent technologies | Agentic AI | [Indirect context](https://doi.org/10.63282/3050-9262.ijaidsml-v3i3p115) — NOT keyword evidence |
+| 2020 ★★ | multi-agents | Agentic AI | [Indirect context](https://doi.org/10.1142/9789814354196_0002) — NOT keyword evidence |
+| 2020 ★★ | Multi-Crop Evaluation | Computer Vision | [Indirect context](https://openalex.org/W2962705451) — NOT keyword evidence |
+| 2020 ★★ | Multi-Head Attention (MHA) | AI Foundations | [Indirect context](https://doi.org/10.18653/v1/2023.findings-emnlp.695) — NOT keyword evidence |
+| 2020 ★★ | Multi-Query Attention (MQA) | Deep Learning | [Indirect context](https://doi.org/10.1109/csrswtc50769.2020.9372459) — NOT keyword evidence |
+| 2020 ★★ | No Free Lunch Theorem (NFL) | Machine Learning | [Indirect context](https://doi.org/10.48550/arxiv.2012.05578) — NOT keyword evidence |
+| 2020 ★★ | Non-Negotiable Constraint | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | NTK-Aware Scaling | Deep Learning | [Indirect context](https://doi.org/10.1145/3776759.3776826) — NOT keyword evidence |
+| 2020 ★★ | Obfuscated Gradients | Security & Privacy | [Indirect context](https://doi.org/10.1117/12.2623585) — NOT keyword evidence |
+| 2020 ★★ | Paged Attention | Deep Learning | [Indirect context](https://doi.org/10.1109/csrswtc50769.2020.9372459) — NOT keyword evidence |
+| 2020 ★★ | Parameterized Action | Reinforcement Learning | [Indirect context](https://doi.org/10.3138/9781442656963) — NOT keyword evidence |
+| 2020 ★★ | Pause Commitment | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Photometric Loss | Computer Vision | [Indirect context](https://doi.org/10.1007/978-3-642-81935-3_22) — NOT keyword evidence |
+| 2020 ★★ | Policy Question Answering | AI Applications | [Indirect context](https://doi.org/10.18653/v1/2022.naacl-main.328) — NOT keyword evidence |
+| 2020 ★★ | Popularity Bias | Recommender Systems | [Indirect context](https://doi.org/10.1145/3397271.3401233) — NOT keyword evidence |
+| 2020 ★★ | Prefrontal Cortex Function (PFC) | Cognitive Science | [Indirect context](https://doi.org/10.1101/2020.05.07.083329) — NOT keyword evidence |
+| 2020 ★★ | Privacy Accountant | Security & Privacy | [Indirect context](https://doi.org/10.1145/3357713.3384297) — NOT keyword evidence |
+| 2020 ★★ | Privacy Amplification by Subsampling | Security & Privacy | [Indirect context](https://doi.org/10.1145/3357713.3384297) — NOT keyword evidence |
+| 2020 ★★ | Public Compute Infrastructure | People & Organizations | [Indirect context](https://doi.org/10.48550/arxiv.2010.15581) — NOT keyword evidence |
+| 2020 ★★ | Race Dynamics | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Rate Limiting as Safeguard | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Re-Identification Risk in Text | NLP and LLMs | [Indirect context](https://doi.org/10.1201/9781420085938-35) — NOT keyword evidence |
+| 2020 ★★ | Reference Image Strength | Generative AI | [Indirect context](https://doi.org/10.1117/12.2612900) — NOT keyword evidence |
+| 2020 ★★ | Reference-Guided Generation | Generative AI | [Indirect context](https://doi.org/10.1037/e502412020-001) — NOT keyword evidence |
+| 2020 ★★ | reinforcement learning method | Reinforcement Learning | [Indirect context](https://doi.org/10.1299/jsmermd.2020.2a1-l01) — NOT keyword evidence |
+| 2020 ★★ | reinforcement learning techniques | Reinforcement Learning | [Indirect context](https://doi.org/10.1299/jsmermd.2020.2a1-l01) — NOT keyword evidence |
+| 2020 ★★ | Relation Extraction | NLP and LLMs | [Indirect context](https://doi.org/10.1007/978-0-387-39940-9_2579) — NOT keyword evidence |
+| 2020 ★★ | Replica Count | AI Infrastructure | [Indirect context](https://doi.org/10.1109/phosst.2016.7548812) — NOT keyword evidence |
+| 2020 ★★ | Retrieval Evaluation for RAG | Information Retrieval | [Indirect context](https://arxiv.org/abs/2005.11401) — NOT keyword evidence |
+| 2020 ★★ | Reversibility Consideration | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Role Prompting | AI Foundations | [Indirect context](https://doi.org/10.52202/068431-2202) — NOT keyword evidence |
+| 2020 ★★ | Role-Play Exploit | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Room Simulation Augmentation | Speech & Audio | [Indirect context](https://doi.org/10.1109/mmsp48831.2020.9287156) — NOT keyword evidence |
+| 2020 ★★ | Safety Escalation in Wellbeing Apps | AI Applications | [Indirect context](https://doi.org/10.26634/jfet.16.2.17576) — NOT keyword evidence |
+| 2020 ★★ | Scaled Dot-Product Attention | Deep Learning | [Indirect context](https://doi.org/10.1109/csrswtc50769.2020.9372459) — NOT keyword evidence |
+| 2020 ★★ | Silent Deployment in Clinical Settings | Science & Healthcare AI | [Indirect context](https://doi.org/10.4016/30387.01) — NOT keyword evidence |
+| 2020 ★★ | Slot Value Extraction | NLP and LLMs | [Indirect context](https://doi.org/10.1609/aaai.v37i11.26516) — NOT keyword evidence |
+| 2020 ★★ | Table Extraction from Text | NLP and LLMs | [Indirect context](https://doi.org/10.1007/978-0-387-39940-9_2579) — NOT keyword evidence |
+| 2020 ★★ | Tamper-Resistant Safeguards | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Task Fit Assessment | AI Foundations | [Indirect context](https://doi.org/10.1108/02651339510089792) — NOT keyword evidence |
+| 2020 ★★ | Template-Guided Generation | Generative AI | [Indirect context](https://doi.org/10.18653/v1/2020.semeval-1.42) — NOT keyword evidence |
+| 2020 ★★ | Text Anonymization | NLP and LLMs | [Indirect context](https://doi.org/10.1201/9781420085938-35) — NOT keyword evidence |
+| 2020 ★★ | Underspecified Request | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2020 ★★ | Uplift over Baseline | AI Safety | [Indirect context](https://doi.org/10.1016/0167-6377(88)90037-5) — NOT keyword evidence |
+| 2020 ★★ | Upstream Contract Breach | AI Infrastructure | [Indirect context](https://doi.org/10.3133/fs20053010) — NOT keyword evidence |
+| 2020 ★★ | Validation of Extraction | NLP and LLMs | [Indirect context](https://doi.org/10.1007/978-0-387-39940-9_2579) — NOT keyword evidence |
+| 2020 ★★ | Wasserstein GAN (WGAN) | Generative AI | [Indirect context](https://doi.org/10.1109/icip42928.2021.9506059) — NOT keyword evidence |
+| 2020 ★★ | Watermarked Text Detection | NLP and LLMs | [Indirect context](https://doi.org/10.1201/9781420085938-35) — NOT keyword evidence |
+| 2020 ★★ | Windfall Clause | AI Safety | [Indirect context](https://doi.org/10.1016/0001-4575(82)90019-7) — NOT keyword evidence |
+| 2021 | 6lowpan | AI Infrastructure | [Publication](https://doi.org/10.36227/techrxiv.16645000) |
+| 2021 | Active Learning (AL) | Machine Learning | [Publication](https://doi.org/10.26226/morressier.60ddad35e537565438d6c487) |
+| 2021 | Adversarial Robustness Toolbox (ART) | Tools & Frameworks | [Publication](https://openalex.org/W3186336407) |
+| 2021 | Adversarial Sequence | Mathematics | [Publication](https://doi.org/10.1109/tip.2021.3066903) |
+| 2021 | Agent Loop | AI Foundations | [Publication](https://doi.org/10.1145/3462244.3481275) |
+| 2021 | AI Governance | AI Safety | [Publication](https://doi.org/10.2139/ssrn.3882493) |
+| 2021 | Algorithmic Auditing | AI Safety | [Publication](https://doi.org/10.1145/3465416.3483294) |
+| 2021 | Alignment Objective | AI Safety | [Publication](https://doi.org/10.18653/v1/2021.findings-emnlp.329) |
+| 2021 | Allocative Harm | AI Safety | [Publication](https://doi.org/10.5210/fm.v26i8.11717) |
+| 2021 | Anomalous Action Detection | AI Safety | [Publication](https://doi.org/10.1007/s40747-021-00319-8) |
+| 2021 | Anomaly Detection in Manufacturing | AI Applications | [Publication](https://doi.org/10.1007/978-3-030-83819-5_1) |
+| 2021 | application mapping | AI Infrastructure | [Publication](https://doi.org/10.32920/ryerson.14656014) |
+| 2021 | architecture design | Programming & Software | [Publication](https://doi.org/10.1007/978-981-33-4642-0_9) |
+| 2021 | Armijo Condition | Mathematics | [Publication](https://doi.org/10.1109/cdc45484.2021.9682982) |
+| 2021 | Availability Zone | AI Infrastructure | [Publication](https://doi.org/10.1109/vppc53923.2021.9699140) |
+| 2021 | Barlow Twins | Machine Learning | [Publication](https://doi.org/10.48550/arxiv.2103.03230) |
+| 2021 | Bayesian Neural Network (BNN) | Mathematics | [Publication](https://openalex.org/W3212348872) |
+| 2021 | Browser Automation | Agentic AI | [Publication](https://doi.org/10.1109/eircon52903.2021.9613385) |
+| 2021 | Build Reproducibility | AI Infrastructure | [Publication](https://doi.org/10.1145/3460319.3464797) |
+| 2021 | BYOL | Machine Learning | [Publication](https://doi.org/10.1109/ijcnn52387.2021.9534474) |
+| 2021 | Caption Quality | Generative AI | [Publication](https://doi.org/10.32920/14655144) |
+| 2021 | Cascade Click Model | Information Retrieval | [Publication](https://doi.org/10.48550/arxiv.2111.11314) |
+| 2021 | Category-Level Pose Estimation | Robotics | [Publication](https://doi.org/10.1109/iccv48922.2021.00331) |
+| 2021 | Character-Level Model | NLP and LLMs | [Publication](https://doi.org/10.1109/icscc51209.2021.9528104) |
+| 2021 | Chart Description Generation | Generative AI | [Publication](https://doi.org/10.3390/sym13091552) |
+| 2021 | Classifier Guidance | Generative AI | [Publication](https://doi.org/10.48550/arxiv.2111.11755) |
+| 2021 | CLIP | Multimodal AI | [Publication](https://arxiv.org/abs/2103.00020) |
+| 2021 | Clipping Range | Reinforcement Learning | [Publication](https://doi.org/10.1109/saci51354.2021.9465602) |
+| 2021 | Closed-Book Question Answering | NLP and LLMs | [Publication](https://doi.org/10.5715/jnlp.28.3) |
+| 2021 | CodeGen | Deep Learning | [Publication](https://doi.org/10.1016/j.softx.2021.100660) |
+| 2021 | Competitive Game | AI Foundations | [Publication](https://doi.org/10.32920/ryerson.14655513.v1) |
+| 2021 | Consent Fatigue | AI Foundations | [Publication](https://doi.org/10.1080/15265161.2021.1926595) |
+| 2021 | Consistency Regularization | Machine Learning | [Publication](https://doi.org/10.3390/e23091231) |
+| 2021 | Creative Optimization | AI Applications | [Publication](https://doi.org/10.2139/ssrn.3863663) |
+| 2021 | Cross-Encoder | Deep Learning | [Publication](https://doi.org/10.1109/iccv48922.2021.00368) |
+| 2021 | cybersecurity vulnerabilities | AI Safety | [Publication](https://doi.org/10.2514/6.2021-0773) |
+| 2021 | DALL·E | Generative AI | [Publication](https://openai.com/index/dall-e/) |
 | 2021 | Data Minimization | Security & Privacy | [Publication](https://doi.org/10.31124/advance.14601510.v1) |
 | 2021 | Data Pipeline | Data Science | [Publication](https://doi.org/10.1007/978-3-030-62110-0_2) |
 | 2021 | Data Silo | AI Applications | [Publication](https://doi.org/10.59350/b30ef-x3x14) |
@@ -152,6 +276,13 @@
 | 2021 | Weight Interpolation | Deep Learning | [Publication](https://doi.org/10.1145/3450623.3464632) |
 | 2021 | XLNet | Deep Learning | [Publication](https://doi.org/10.1109/icekim52309.2021.00146) |
 | 2021 | Zero Trust Architecture (ZTA) | Security & Privacy | [Publication](https://doi.org/10.1016/j.cose.2021.102351) |
+| 2021 ★ | LoRA adaptation rank | NLP and LLMs | [Related source](https://arxiv.org/abs/2106.09685) — indirect |
+| 2021 ★ | LoRA frozen backbone weights | NLP and LLMs | [Related source](https://arxiv.org/abs/2106.09685) — indirect |
+| 2021 ★ | LoRA low-rank update matrices | NLP and LLMs | [Related source](https://arxiv.org/abs/2106.09685) — indirect |
+| 2021 ★ | LoRA rank decomposition | NLP and LLMs | [Related source](https://arxiv.org/abs/2106.09685) — indirect |
+| 2021 ★ | LoRA trainable adapter scaling | NLP and LLMs | [Related source](https://arxiv.org/abs/2106.09685) — indirect |
+| 2021 ★ | LoRA update rank selection | NLP and LLMs | [Related source](https://arxiv.org/abs/2106.09685) — indirect |
+| 2021 ★ | Low rank adaptation matrix merge | NLP and LLMs | [Related source](https://arxiv.org/abs/2106.09685) — indirect |
 | 2021 ★ | Pseudo-Relevance Feedback (PRF) | Information Retrieval | [Related source](https://doi.org/10.48550/arxiv.2108.06010) — indirect |
 | 2021 ★ | Skill in Voice Assistants | Speech & Audio | [Related source](https://doi.org/10.5167/uzh-204503) — indirect |
 | 2021 ★★ | adversarial machine learning | Machine Learning | [Indirect context](https://doi.org/10.1017/9781009315647.002) — NOT keyword evidence |
@@ -379,134 +510,3 @@
 | 2022 | Quantum Machine Learning (QML) | AI Foundations | [Publication](https://doi.org/10.1109/conit55038.2022.9848250) |
 | 2022 | Random Matrix Theory (RMT) | Mathematics | [Publication](https://doi.org/10.1007/978-981-19-0937-5_15) |
 | 2022 | Rank Collapse | Mathematics | [Publication](https://doi.org/10.52202/068431-1972) |
-| 2022 | ReAct | Agentic AI | [Publication](https://arxiv.org/abs/2210.03629) |
-| 2022 | Repetition Problem | NLP and LLMs | [Publication](https://doi.org/10.1109/bigcomp54360.2022.00090) |
-| 2022 | ResNeXt | Deep Learning | [Publication](https://doi.org/10.54706/senastindo.v4.2022.207) |
-| 2022 | Reward-Free Exploration | Reinforcement Learning | [Publication](https://doi.org/10.52202/068431-1524) |
-| 2022 | Ring All-Reduce | AI Infrastructure | [Publication](https://doi.org/10.1109/infocom48880.2022.9796785) |
-| 2022 | Robopsychology | Robotics | [Publication](https://doi.org/10.3389/fpsyg.2022.968382) |
-| 2022 | rtt | AI Infrastructure | [Publication](https://doi.org/10.5194/iag-comm4-2022-41) |
-| 2022 | Safety-Rated Monitored Stop | Robotics | [Publication](https://doi.org/10.37394/232015.2022.18.49) |
-| 2022 | Sample Ratio Mismatch (SRM) | Mathematics | [Publication](https://doi.org/10.1145/3530019.3534982) |
-| 2022 | ScaNN | Tools & Frameworks | [Publication](https://doi.org/10.1109/tcad.2021.3116470) |
-| 2022 | scientific knowledge graphs | Information Retrieval | [Publication](https://doi.org/10.3390/su14031492) |
-| 2022 | Self-Normalized Importance Sampling | Mathematics | [Publication](https://doi.org/10.52202/068431-0052) |
-| 2022 | Sentence Transformers | Tools & Frameworks | [Publication](https://doi.org/10.1109/icmla55696.2022.00251) |
-| 2022 | Sliced Score Matching | Machine Learning | [Publication](https://doi.org/10.1109/icpr56361.2022.9956495) |
-| 2022 | Soft Parameter Sharing | Deep Learning | [Publication](https://doi.org/10.1109/scisisis55246.2022.10001943) |
-| 2022 | Stratified K-Fold | Machine Learning | [Publication](https://doi.org/10.33395/sinkron.v7i4.11792) |
-| 2022 | Streaming Recognition | Speech & Audio | [Publication](https://doi.org/10.21437/interspeech.2022-10738) |
-| 2022 | Streamlit | Tools & Frameworks | [Publication](https://doi.org/10.1007/978-1-4842-8111-6_2) |
-| 2022 | Style Randomization | Computer Vision | [Publication](https://doi.org/10.1109/tcsvt.2022.3152615) |
-| 2022 | Substitute Item | Recommender Systems | [Publication](https://doi.org/10.1109/cvprw56347.2022.00253) |
-| 2022 | SVHN | Datasets & Benchmarks | [Publication](https://doi.org/10.1109/icaaic53929.2022.9793301) |
-| 2022 | SVRG | Mathematics | [Publication](https://doi.org/10.1109/tkde.2021.3070539) |
-| 2022 | symbolic knowledge distillation | Deep Learning | [Publication](https://doi.org/10.18653/v1/2022.emnlp-main.655) |
-| 2022 | tactics for performance | Programming & Software | [Publication](https://doi.org/10.1371/journal.pone.0278552) |
-| 2022 | Targeted Maximum Likelihood Estimation (TMLE) | Causal Inference | [Publication](https://doi.org/10.2337/db22-737-p) |
-| 2022 | Text-to-Motion | Generative AI | [Publication](https://doi.org/10.2139/ssrn.4056898) |
-| 2022 | Transfer Attack | Security & Privacy | [Publication](https://doi.org/10.1016/j.cose.2022.102695) |
-| 2022 | trojans | AI Infrastructure | [Publication](https://doi.org/10.23919/date54114.2022.9774654) |
-| 2022 | Turing-NLG | Deep Learning | [Publication](https://doi.org/10.48550/arxiv.2201.11990) |
-| 2022 | Two-Tower Model | Recommender Systems | [Publication](https://doi.org/10.1109/icsp54964.2022.9778758) |
-| 2022 | Unified Multimodal Model | Deep Learning | [Publication](https://doi.org/10.1145/3503161.3547974) |
-| 2022 | Unpaired Translation | Generative AI | [Publication](https://doi.org/10.1109/case49997.2022.9926640) |
-| 2022 | User Override | AI Safety | [Publication](https://doi.org/10.1177/13548166221126572) |
-| 2022 | UV Coordinates | Computer Graphics | [Publication](https://doi.org/10.1007/978-1-4842-8652-4_5) |
-| 2022 | Visual Sound Localization | Computer Vision | [Publication](https://doi.org/10.21437/interspeech.2022-520) |
-| 2022 | Ward Linkage | Machine Learning | [Publication](https://doi.org/10.22541/au.165121388.83594672/v1) |
-| 2022 | Weights & Biases | AI Infrastructure | [Publication](https://doi.org/10.1109/cibcb55180.2022.9863054) |
-| 2022 | Zero-Shot Policy Transfer | Reinforcement Learning | [Publication](https://doi.org/10.1109/iros47612.2022.9981229) |
-| 2022 ★ | Decomposition Prompt | AI Foundations | [Related source](https://doi.org/10.48550/arxiv.2208.12539) — indirect |
-| 2022 ★ | MAE for Vision | Deep Learning | [Related source](https://doi.org/10.48550/arxiv.2205.10063) — indirect |
-| 2022 ★ | Miles per Intervention | Robotics | [Related source](https://doi.org/10.1136/jech-2022-219729) — indirect |
-| 2022 ★ | Multilingual Transfer Gap | NLP and LLMs | [Related source](https://doi.org/10.48550/arxiv.2210.13029) — indirect |
-| 2022 ★ | Simpson's Paradox in Analytics | Data Science | [Related source](https://doi.org/10.3934/era.2023013) — indirect |
-| 2022 ★★ | Andrew Barto | People & Organizations | [Indirect context](https://doi.org/10.1109/mspec.2022.9754503) — NOT keyword evidence |
-| 2022 ★★ | Batch API | AI Infrastructure | [Indirect context](https://doi.org/10.4000/11tub) — NOT keyword evidence |
-| 2022 ★★ | Canary Cohort | AI Infrastructure | [Indirect context](https://doi.org/10.1145/3190566) — NOT keyword evidence |
-| 2022 ★★ | Catastrophic Forgetting in Fine-Tuning | Deep Learning | [Indirect context](https://doi.org/10.1109/icitee53064.2021.9611885) — NOT keyword evidence |
-| 2022 ★★ | Cerebras-GPT | Deep Learning | [Indirect context](https://doi.org/10.36227/techrxiv.22312330.v2) — NOT keyword evidence |
-| 2022 ★★ | Chain-of-Thought (CoT) Prompting | NLP and LLMs | [Indirect context](https://arxiv.org/abs/2201.11903) — NOT keyword evidence |
-| 2022 ★★ | Compute Scaling | AI Foundations | [Indirect context](https://doi.org/10.48550/arxiv.2506.20530) — NOT keyword evidence |
-| 2022 ★★ | Compute-to-Memory Ratio | AI Infrastructure | [Indirect context](https://doi.org/10.1109/iscas48785.2022.9937848) — NOT keyword evidence |
-| 2022 ★★ | Concept Removal from Training | Generative AI | [Indirect context](https://doi.org/10.1109/istel.2008.4651368) — NOT keyword evidence |
-| 2022 ★★ | Context Precision | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-981-19-2397-5_6) — NOT keyword evidence |
-| 2022 ★★ | Conversational Recommendation | Recommender Systems | [Indirect context](https://doi.org/10.1109/icassp48485.2024.10446562) — NOT keyword evidence |
-| 2022 ★★ | Coordinated Inauthentic Behaviour (CIB) | AI Applications | [Indirect context](https://doi.org/10.32388/ecbzth) — NOT keyword evidence |
-| 2022 ★★ | Count-Based Exploration | Reinforcement Learning | [Indirect context](https://doi.org/10.2139/ssrn.4450681) — NOT keyword evidence |
-| 2022 ★★ | Credit Assignment in Multi-Agent RL | Reinforcement Learning | [Indirect context](https://doi.org/10.1109/ictc49870.2020.9289369) — NOT keyword evidence |
-| 2022 ★★ | DALL-E 2 | Deep Learning | [Indirect context](https://doi.org/10.5040/bci-0kgy.pt1) — NOT keyword evidence |
-| 2022 ★★ | Data-to-Text Generation | Generative AI | [Indirect context](https://doi.org/10.1017/cbo9780511620751) — NOT keyword evidence |
-| 2022 ★★ | Decoder | Deep Learning | [Indirect context](https://doi.org/10.1109/iccv51701.2025.02684) — NOT keyword evidence |
-| 2022 ★★ | decoders | Deep Learning | [Indirect context](https://doi.org/10.1109/iccv48922.2021.00045) — NOT keyword evidence |
-| 2022 ★★ | Deduplication of Training Data | Deep Learning | [Indirect context](https://doi.org/10.52202/079017-2427) — NOT keyword evidence |
-| 2022 ★★ | Disparate Impact | AI Safety | [Indirect context](https://doi.org/10.70183/lijdlr.2025.v03.185) — NOT keyword evidence |
-| 2022 ★★ | Distillation Ladder | Machine Learning | [Indirect context](https://doi.org/10.1002/j.1538-7305.1937.tb00423.x) — NOT keyword evidence |
-| 2022 ★★ | Diversity in Recommendations | Recommender Systems | [Indirect context](https://doi.org/10.1109/icassp48485.2024.10446562) — NOT keyword evidence |
-| 2022 ★★ | Domain Randomization in Vision | Computer Vision | [Indirect context](https://doi.org/10.1109/tcsvt.2022.3152615) — NOT keyword evidence |
-| 2022 ★★ | Downsampling | Signal & Information Theory | [Indirect context](https://doi.org/10.3390/machines10121165) — NOT keyword evidence |
-| 2022 ★★ | Dynamic Loss Scaling | Mathematics | [Indirect context](https://doi.org/10.2172/7112134) — NOT keyword evidence |
-| 2022 ★★ | Feature-Based Distillation | Deep Learning | [Indirect context](https://doi.org/10.18653/v1/2023.acl-long.304) — NOT keyword evidence |
-| 2022 ★★ | Few-Shot Adaptation | Reinforcement Learning | [Indirect context](https://doi.org/10.1109/iros47612.2022.9981229) — NOT keyword evidence |
-| 2022 ★★ | Flush to Zero | AI Infrastructure | [Indirect context](https://doi.org/10.2139/ssrn.7616078) — NOT keyword evidence |
-| 2022 ★★ | FP8 Training | Deep Learning | [Indirect context](https://doi.org/10.52202/079017-2427) — NOT keyword evidence |
-| 2022 ★★ | Freshness in Recommendation | Recommender Systems | [Indirect context](https://doi.org/10.1109/icassp48485.2024.10446562) — NOT keyword evidence |
-| 2022 ★★ | Full Fine-Tuning | Deep Learning | [Indirect context](https://doi.org/10.1109/icitee53064.2021.9611885) — NOT keyword evidence |
-| 2022 ★★ | goal-conditioned learning | Reinforcement Learning | [Indirect context](https://doi.org/10.1299/jsmermd.2020.2a1-l01) — NOT keyword evidence |
-| 2022 ★★ | Graph-Based Recommendation | Recommender Systems | [Indirect context](https://doi.org/10.1109/icassp48485.2024.10446562) — NOT keyword evidence |
-| 2022 ★★ | Grounding | NLP and LLMs | [Indirect context](https://doi.org/10.2139/ssrn.3658431) — NOT keyword evidence |
-| 2022 ★★ | Hugging Face Transformers | Tools & Frameworks | [Indirect context](https://doi.org/10.2196/preprints.98257) — NOT keyword evidence |
-| 2022 ★★ | Interleaved Multimodal Input | Deep Learning | [Indirect context](https://doi.org/10.1145/3503161.3547974) — NOT keyword evidence |
-| 2022 ★★ | K-Medoids | Machine Learning | [Indirect context](https://doi.org/10.1109/icaa52185.2022.00014) — NOT keyword evidence |
-| 2022 ★★ | Knowledge-Aware Recommendation | Recommender Systems | [Indirect context](https://doi.org/10.1109/icassp48485.2024.10446562) — NOT keyword evidence |
-| 2022 ★★ | Leaderboard Gaming | Evaluation & Metrics | [Indirect context](https://doi.org/10.1145/3786166.3788432) — NOT keyword evidence |
-| 2022 ★★ | Liveness Probe | AI Infrastructure | [Indirect context](https://doi.org/10.21275/sr24820065625) — NOT keyword evidence |
-| 2022 ★★ | Loss Landscape Geometry | Deep Learning | [Indirect context](https://doi.org/10.1109/access.2018.2796118) — NOT keyword evidence |
-| 2022 ★★ | Marketing Claim Accuracy | AI Foundations | [Indirect context](https://doi.org/10.1201/b12612-20) — NOT keyword evidence |
-| 2022 ★★ | Maximum New Tokens | Deep Learning | [Indirect context](https://doi.org/10.18653/v1/2023.eacl-main.60) — NOT keyword evidence |
-| 2022 ★★ | metropolis-hastings algorithm | Mathematics | [Indirect context](https://doi.org/10.1007/s10489-022-04359-6) — NOT keyword evidence |
-| 2022 ★★ | model free | Reinforcement Learning | [Indirect context](https://doi.org/10.52202/068431-1524) — NOT keyword evidence |
-| 2022 ★★ | Multi-Adapter Serving | Deep Learning | [Indirect context](https://doi.org/10.1145/3664647.3681566) — NOT keyword evidence |
-| 2022 ★★ | Multimodal AI | AI Foundations | [Indirect context](https://doi.org/10.1145/1027933.1027977) — NOT keyword evidence |
-| 2022 ★★ | Multimodal Embedding | Deep Learning | [Indirect context](https://doi.org/10.1093/oxfordjournals.jmicro.a049492) — NOT keyword evidence |
-| 2022 ★★ | multimodal systems | AI Applications | [Indirect context](https://doi.org/10.1109/icmi.2002.1166959) — NOT keyword evidence |
-| 2022 ★★ | Never-Takers | Causal Inference | [Indirect context](https://doi.org/10.2139/ssrn.4186399) — NOT keyword evidence |
-| 2022 ★★ | Nonstationarity in Multi-Agent Learning | Reinforcement Learning | [Indirect context](https://doi.org/10.1109/ictc49870.2020.9289369) — NOT keyword evidence |
-| 2022 ★★ | Notification Recommendation | Recommender Systems | [Indirect context](https://doi.org/10.1109/icassp48485.2024.10446562) — NOT keyword evidence |
-| 2022 ★★ | P-Tuning | Deep Learning | [Indirect context](https://doi.org/10.1109/icitee53064.2021.9611885) — NOT keyword evidence |
-| 2022 ★★ | Parameter Initialization Distribution | Deep Learning | [Indirect context](https://doi.org/10.3390/electronics15184325) — NOT keyword evidence |
-| 2022 ★★ | Perceiver | Deep Learning | [Indirect context](https://doi.org/10.23919/iccas55662.2022.10003862) — NOT keyword evidence |
-| 2022 ★★ | Persona | NLP and LLMs | [Indirect context](https://doi.org/10.18653/v1/2020.emnlp-main.65) — NOT keyword evidence |
-| 2022 ★★ | Precision at K | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-981-19-2397-5_6) — NOT keyword evidence |
-| 2022 ★★ | Proxy Goal | AI Safety | [Indirect context](https://doi.org/10.70658/2693-3225.1164) — NOT keyword evidence |
-| 2022 ★★ | Proxy Model | Machine Learning | [Indirect context](https://doi.org/10.70658/2693-3225.1164) — NOT keyword evidence |
-| 2022 ★★ | Recall-Precision Balance in Practice | Information Retrieval | [Indirect context](https://doi.org/10.1109/bigdata.2018.8622323) — NOT keyword evidence |
-| 2022 ★★ | Recommendation Audit | Recommender Systems | [Indirect context](https://doi.org/10.1109/icassp48485.2024.10446562) — NOT keyword evidence |
-| 2022 ★★ | Reference-Free Evaluation | NLP and LLMs | [Indirect context](https://doi.org/10.18653/v1/2023.findings-acl.896) — NOT keyword evidence |
-| 2022 ★★ | Region-Based Prompting | Generative AI | [Indirect context](https://doi.org/10.3390/electronics15102220) — NOT keyword evidence |
-| 2022 ★★ | Request Identifier | AI Infrastructure | [Indirect context](https://doi.org/10.1145/3552326.3567503) — NOT keyword evidence |
-| 2022 ★★ | ring gages | AI Infrastructure | [Indirect context](https://doi.org/10.1364/assl.1987.tub4) — NOT keyword evidence |
-| 2022 ★★ | Rényi Differential Privacy (RDP) | Security & Privacy | [Indirect context](https://doi.org/10.1145/3357713.3384297) — NOT keyword evidence |
-| 2022 ★★ | Safety Case for Autonomy | Robotics | [Indirect context](https://doi.org/10.1080/14719037.2025.2488940) — NOT keyword evidence |
-| 2022 ★★ | Scale-Free Metric | Evaluation & Metrics | [Indirect context](https://doi.org/10.1145/3786166.3788432) — NOT keyword evidence |
-| 2022 ★★ | Span Corruption | NLP and LLMs | [Indirect context](https://doi.org/10.18653/v1/2020.findings-emnlp.226) — NOT keyword evidence |
-| 2022 ★★ | Step-Back Prompting | Agentic AI | [Indirect context](https://openalex.org/W22831215) — NOT keyword evidence |
-| 2022 ★★ | Structural Causal Discovery Benchmark | Causal Inference | [Indirect context](https://doi.org/10.7551/mitpress/2006.003.0007) — NOT keyword evidence |
-| 2022 ★★ | Teacher Forcing in Training | Deep Learning | [Indirect context](https://doi.org/10.52202/079017-2427) — NOT keyword evidence |
-| 2022 ★★ | Test-Time Augmentation for Vision | Computer Vision | [Indirect context](https://doi.org/10.2139/ssrn.3120213) — NOT keyword evidence |
-| 2022 ★★ | Text Encoder for Generation | Generative AI | [Indirect context](https://doi.org/10.1017/cbo9780511620751) — NOT keyword evidence |
-| 2022 ★★ | Text Rendering in Images | Generative AI | [Indirect context](https://doi.org/10.66331/grzj7244) — NOT keyword evidence |
-| 2022 ★★ | Text-to-3D | Generative AI | [Indirect context](https://doi.org/10.1017/cbo9780511620751) — NOT keyword evidence |
-| 2022 ★★ | Text-to-3D Generation | Generative AI | [Indirect context](https://doi.org/10.1017/cbo9780511620751) — NOT keyword evidence |
-| 2022 ★★ | Training Step | Deep Learning | [Indirect context](https://doi.org/10.52202/079017-2427) — NOT keyword evidence |
-| 2022 ★★ | Training Trajectory | Deep Learning | [Indirect context](https://doi.org/10.52202/079017-2427) — NOT keyword evidence |
-| 2023 | Activation Compression | Machine Learning | [Publication](https://doi.org/10.1109/aicas57966.2023.10168658) |
-| 2023 | AdamW | Mathematics | [Publication](https://doi.org/10.1007/978-3-031-33374-3_26) |
-| 2023 | adversarial learning | Machine Learning | [Publication](https://doi.org/10.1017/9781009315647.002) |
-| 2023 | Agent Benchmark | Agentic AI | [Publication](https://doi.org/10.31219/osf.io/d7pbh) |
-| 2023 | Aggregate Feature | Data Science | [Publication](https://doi.org/10.3390/electronics12194118) |
-| 2023 | AI effect | AI Foundations | [Publication](https://doi.org/10.3997/2214-4609.202377031) |
-| 2023 | AI in Agriculture | AI Applications | [Publication](https://doi.org/10.1016/j.compag.2023.108110) |
-| 2023 | AI Literacy | AI Foundations | [Publication](https://doi.org/10.35542/osf.io/xguzk) |
-| 2023 | AI Regulation | AI Safety | [Publication](https://doi.org/10.2139/ssrn.4467684) |

@@ -10,6 +10,81 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 2010 | Binary Embedding | Machine Learning | [Publication](https://doi.org/10.1109/wifs.2010.5711444) |
+| 2010 | Biomedical Text Mining | NLP and LLMs | [Publication](https://doi.org/10.1201/9781420085938-35) |
+| 2010 | biometric recognition | AI Safety | [Publication](https://doi.org/10.17226/12720) |
+| 2010 | Bug Reproduction | Programming & Software | [Publication](https://doi.org/10.1145/1735971.1736039) |
+| 2010 | Burstiness of Words | NLP and LLMs | [Publication](https://doi.org/10.1016/j.ipm.2009.12.004) |
+| 2010 | call dropping probability | Mathematics | [Publication](https://doi.org/10.1109/icfn.2010.55) |
+| 2010 | Chebyshev Distance | Machine Learning | [Publication](https://doi.org/10.1109/tit.2010.2046212) |
+| 2010 | Christopher Manning | People & Organizations | [Publication](https://doi.org/10.1093/jahist/97.2.573) |
+| 2010 | Chunk Retrieval | Information Retrieval | [Publication](https://doi.org/10.1109/icime.2010.5477651) |
+| 2010 | Citation Graph | Graph & Network Learning | [Publication](https://doi.org/10.1007/s11192-010-0208-6) |
+| 2010 | cloud computing | AI Infrastructure | [Publication](https://doi.org/10.1002/9781118255674.ch1) |
+| 2010 | Cloud computing architecture | AI Foundations | [Publication](https://doi.org/10.1109/ccgrid.2010.20) |
+| 2010 | cloud providers | AI Infrastructure | [Publication](https://doi.org/10.1201/9781439806173-c6) |
+| 2010 | cloud security | AI Infrastructure | [Publication](https://doi.org/10.1201/9781439834541-15) |
+| 2010 | cloud service | AI Infrastructure | [Publication](https://doi.org/10.1201/b10343-21) |
+| 2010 | cloud service providers | AI Infrastructure | [Publication](https://doi.org/10.1201/b10343-21) |
+| 2010 | cloud services | AI Infrastructure | [Publication](https://doi.org/10.1002/9781118255674.ch10) |
+| 2010 | collaborative recommendation | Information Retrieval | [Publication](https://doi.org/10.1017/cbo9780511763113.004) |
+| 2010 | Compatibility Matrix | Programming & Software | [Publication](https://doi.org/10.1007/978-3-540-76435-9_4095) |
+| 2010 | complex services | AI Infrastructure | [Publication](https://doi.org/10.4324/9780203842058-22) |
+| 2010 | Compute Shader | Computer Graphics | [Publication](https://openalex.org/W989317347) |
+| 2010 | computer interface | AI Applications | [Publication](https://doi.org/10.4016/17526.02) |
+| 2010 | Conflict Resolution Strategy | AI Foundations | [Publication](https://doi.org/10.2139/ssrn.1612495) |
+| 2010 | congenial access control | AI Infrastructure | [Publication](https://openalex.org/W71476106) |
+| 2010 | Constrained Decoding | Deep Learning | [Publication](https://doi.org/10.1109/netcod.2010.5487687) |
+| 2010 | content based recommendation | AI Foundations | [Publication](https://doi.org/10.1017/cbo9780511763113.005) |
+| 2010 | context-aware systems | AI Applications | [Publication](https://doi.org/10.1201/ebk1439809853-14) |
+| 2010 | Contextual Bandit | Mathematics | [Publication](https://doi.org/10.48550/arxiv.1002.4058) |
+| 2010 | Convex Relaxation | Mathematics | [Publication](https://doi.org/10.1090/fim/027/09) |
+| 2010 | cooperative/collaborative learning | AI Infrastructure | [Publication](https://doi.org/10.65528/9780807777497-004) |
+| 2010 | Copula | Mathematics | [Publication](https://doi.org/10.1142/9789814299886_0006) |
+| 2010 | Cover Song Detection | Speech & Audio | [Publication](https://doi.org/10.1109/icassp.2010.5496214) |
+| 2010 | Cross-Layer Connection | Deep Learning | [Publication](https://doi.org/10.5772/10169) |
+| 2010 | Data Drift | AI Foundations | [Publication](https://doi.org/10.22323/1.102.0098) |
+| 2010 | Data Ingestion | AI Infrastructure | [Publication](https://doi.org/10.1109/9780470874103.ch4) |
+| 2010 | data protection | AI Safety | [Publication](https://doi.org/10.1002/9781118255766.ch3) |
+| 2010 | delay circuits | AI Infrastructure | [Publication](https://doi.org/10.1109/iscas.2010.5537554) |
+| 2010 | Dice Coefficient | Machine Learning | [Publication](https://doi.org/10.5539/cis.v3n3p139) |
+| 2010 | digital entertainment | AI Infrastructure | [Publication](https://doi.org/10.1109/sbgames18800.2010) |
+| 2010 | Dilated Convolution | Deep Learning | [Publication](https://doi.org/10.5831/hmj.2010.32.1.101) |
+| 2010 | discrete cosines | Computer Vision | [Publication](https://doi.org/10.1109/ispacs.2010.5704639) |
+| 2010 | Disfluency Removal | Speech & Audio | [Publication](https://doi.org/10.1109/icassp.2010.5494999) |
+| 2010 | distributed memory architecture | AI Infrastructure | [Publication](https://doi.org/10.1109/norchip.2010.5669440) |
+| 2010 | Dynamic Topic Model | NLP and LLMs | [Publication](https://doi.org/10.4304/jsw.5.5.482-489) |
+| 2010 | e-learning platforms | AI Infrastructure | [Publication](https://doi.org/10.5772/8814) |
+| 2010 | e-learning tool | AI Infrastructure | [Publication](https://doi.org/10.5772/7776) |
+| 2010 | eeg signals | Speech & Audio | [Publication](https://doi.org/10.1093/acprof:oso/9780195372731.003.0004) |
+| 2010 | Elastic Training | AI Infrastructure | [Publication](https://doi.org/10.1111/j.1532-950x.2010.00703.x) |
+| 2010 | encryption/decryption | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc5830) |
+| 2010 | energy aware | AI Infrastructure | [Publication](https://doi.org/10.1109/iceac17715.2010) |
+| 2010 | Evidence Integrity | AI Applications | [Publication](https://doi.org/10.13140/rg.2.1.1336.0725) |
+| 2010 | Existential Risk | AI Foundations | [Publication](https://doi.org/10.5749/9781452966991-004) |
+| 2010 | Extra Trees | Machine Learning | [Publication](https://doi.org/10.1109/radar.2010.5494683) |
+| 2010 | Facial Landmark | Computer Vision | [Publication](https://doi.org/10.1109/icpr.2010.926) |
+| 2010 | Factual Consistency | NLP and LLMs | [Publication](https://doi.org/10.15699/9781589838710-004) |
+| 2010 | false rejection rate | AI Safety | [Publication](https://doi.org/10.1364/ao.49.000764) |
+| 2010 | Feature Splitting | Deep Learning | [Publication](https://doi.org/10.1007/978-3-642-12127-2_3) |
+| 2010 | force feedback devices | Robotics | [Publication](https://doi.org/10.1109/cisis.2010.115) |
+| 2010 | fpga-based implementation | AI Infrastructure | [Publication](https://doi.org/10.7763/ijcee.2010.v2.197) |
+| 2010 | fractional-order systems | AI Safety | [Publication](https://doi.org/10.1142/9789814304207_0001) |
+| 2010 | Genome | Science & Healthcare AI | [Publication](https://doi.org/10.1186/gb-2010-11-5-207) |
+| 2010 | Global Memory | AI Infrastructure | [Publication](https://doi.org/10.1057/9780230283367_11) |
+| 2010 | Group Recommendation | Recommender Systems | [Publication](https://doi.org/10.1145/1880071.1880087) |
+| 2010 | haptic feedbacks | AI Applications | [Publication](https://doi.org/10.1109/3dui.2010.5444722) |
+| 2010 | human drivers | AI Foundations | [Publication](https://doi.org/10.1201/ebk1439835111-49) |
+| 2010 | human pose | Machine Learning | [Publication](https://doi.org/10.5244/c.24.12) |
+| 2010 | Human Pose Estimation | Computer Vision | [Publication](https://doi.org/10.5244/c.24.12) |
+| 2010 | human-human interactions | Robotics | [Publication](https://doi.org/10.1145/1877826.1877849) |
+| 2010 | Human–robot interaction (HRI) | Robotics | [Publication](https://doi.org/10.1109/hri14376.2010) |
+| 2010 | hybrid clouds | AI Infrastructure | [Publication](https://doi.org/10.1145/1809049.1809075) |
+| 2010 | Illegal Mining Detection | AI Applications | [Publication](https://doi.org/10.1109/igarss.2010.5652978) |
+| 2010 | image forgery | Computer Vision | [Publication](https://doi.org/10.3724/sp.j.1146.2009.00115) |
+| 2010 | Image Harmonization | Computer Vision | [Publication](https://doi.org/10.1145/1833349.1778862) |
+| 2010 | IMPALA | Reinforcement Learning | [Publication](https://doi.org/10.69894/20100606) |
+| 2010 | inference algorithms | AI Foundations | [Publication](https://doi.org/10.2316/p.2010.674-061) |
 | 2010 | Inference Rule | AI Foundations | [Publication](https://doi.org/10.3724/sp.j.1087.2010.02314) |
 | 2010 | information overloads | AI Infrastructure | [Publication](https://doi.org/10.1159/000286649) |
 | 2010 | infrastructure as a service (iaas) | AI Infrastructure | [Publication](https://doi.org/10.1109/seaa.2010.42) |
@@ -435,78 +510,3 @@
 | 2011 | PR Curve | AI Foundations | [Publication](https://doi.org/10.1201/9780429292859-13) |
 | 2011 | Preprocessing Mismatch | AI Infrastructure | [Publication](https://doi.org/10.1016/j.patcog.2010.08.020) |
 | 2011 | Privacy by Design | AI Foundations | [Publication](https://doi.org/10.5235/175214611799248904) |
-| 2011 | Quality Gate | Evaluation & Metrics | [Publication](https://doi.org/10.1007/978-3-642-22386-0_16) |
-| 2011 | Quantum Simulation | Quantum & Emerging Compute | [Publication](https://doi.org/10.1364/icqi.2011.qwa2) |
-| 2011 | Query-Based Attack | Security & Privacy | [Publication](https://doi.org/10.5121/ijasuc.2011.2410) |
-| 2011 | random forest classifier | Machine Learning | [Publication](https://doi.org/10.3724/sp.j.1001.2011.03827) |
-| 2011 | Rapidly-Exploring Random Tree (RRT) | Robotics | [Publication](https://doi.org/10.1109/icra.2011.5980107) |
-| 2011 | Relaxed Plan Heuristic | AI Foundations | [Publication](https://doi.org/10.1080/0952813x.2010.503341) |
-| 2011 | Research Integrity | Science & Healthcare AI | [Publication](https://doi.org/10.1142/9789814340984_0001) |
-| 2011 | Robot Ethics | Robotics | [Publication](https://doi.org/10.1108/ir.2011.04938baa.001) |
-| 2011 | safe city | AI Foundations | [Publication](https://doi.org/10.1093/acprof:oso/9780199844425.003.0002) |
-| 2011 | Safe Reinforcement Learning | Reinforcement Learning | [Publication](https://doi.org/10.1109/adprl.2011.5967356) |
-| 2011 | saving energy | AI Infrastructure | [Publication](https://doi.org/10.2172/1024064) |
-| 2011 | scale invariant feature transforms | Computer Vision | [Publication](https://doi.org/10.1007/s10916-011-9738-6) |
-| 2011 | secrecy capacity | AI Infrastructure | [Publication](https://doi.org/10.1017/cbo9780511977985.005) |
-| 2011 | semi-tensor product | Data Science | [Publication](https://doi.org/10.1142/8323) |
-| 2011 | Sensor Time Series | Time Series & Forecasting | [Publication](https://doi.org/10.1017/cbo9780511984679.017) |
-| 2011 | Serendipity | Recommender Systems | [Publication](https://doi.org/10.1515/9781400841523.1) |
-| 2011 | service-based systems | Programming & Software | [Publication](https://doi.org/10.1109/scc.2011.114) |
-| 2011 | sha-1 | AI Safety | [Publication](https://doi.org/10.1007/978-1-4419-5906-5_615) |
-| 2011 | smart energy | AI Foundations | [Publication](https://doi.org/10.1007/978-3-642-21820-0_26) |
-| 2011 | smartphones | AI Infrastructure | [Publication](https://doi.org/10.7551/mitpress/9066.003.0023) |
-| 2011 | Solution Pool | Mathematics | [Publication](https://doi.org/10.1109/itsc.2011.6083127) |
-| 2011 | sparsity problems | Information Retrieval | [Publication](https://doi.org/10.13088/jiis.2011.17.3.099) |
-| 2011 | Spot Instance | AI Infrastructure | [Publication](https://doi.org/10.1109/cloudcom.2011.48) |
-| 2011 | Stability Selection | Mathematics | [Publication](https://doi.org/10.32614/cran.package.s4vd) |
-| 2011 | standard pso | Mathematics | [Publication](https://doi.org/10.1155/2011/589862) |
-| 2011 | Steps per Second | Generative AI | [Publication](https://doi.org/10.1016/j.ypmed.2011.08.027) |
-| 2011 | STL Decomposition | Time Series & Forecasting | [Publication](https://doi.org/10.1016/j.ijforecast.2010.11.002) |
-| 2011 | Storage Tiering | AI Infrastructure | [Publication](https://doi.org/10.1109/ucc.2011.74) |
-| 2011 | Subgoal | Agentic AI | [Publication](https://doi.org/10.5772/13214) |
-| 2011 | Subsumption Reasoning | AI Foundations | [Publication](https://doi.org/10.1145/2072221.2072237) |
-| 2011 | Symbolic Regression | AI Foundations | [Publication](https://doi.org/10.1007/978-0-387-30164-8_807) |
-| 2011 | Technical Debt | Programming & Software | [Publication](https://doi.org/10.1145/1985362.1985371) |
-| 2011 | Template Filling | NLP and LLMs | [Publication](https://doi.org/10.1177/1080569911404055) |
-| 2011 | Term Saturation | Information Retrieval | [Publication](https://doi.org/10.1016/j.chemphys.2011.06.029) |
-| 2011 | Thermal Throttling | AI Infrastructure | [Publication](https://doi.org/10.1016/j.procs.2010.12.168) |
-| 2011 | Thread Block | AI Infrastructure | [Publication](https://doi.org/10.1109/hpca.2011.5749714) |
-| 2011 | Trust Calibration | Cognitive Science | [Publication](https://doi.org/10.1037/e682562011-001) |
-| 2011 | trust evaluation | AI Infrastructure | [Publication](https://doi.org/10.3724/sp.j.1087.2010.03346) |
-| 2011 | unscented particle filters | Speech & Audio | [Publication](https://doi.org/10.1109/icra.2011.5980086) |
-| 2011 | Value Learning | AI Foundations | [Publication](https://doi.org/10.1007/978-0-387-30164-8_43) |
-| 2011 | Variant Calling | Science & Healthcare AI | [Publication](https://doi.org/10.1038/npre.2011.6107.1) |
-| 2011 | VEX Robotics | Robotics | [Publication](https://doi.org/10.1007/978-3-642-21975-7_2) |
-| 2011 | video contents | Computer Vision | [Publication](https://doi.org/10.1016/b978-1-4160-5908-0.00102-2) |
-| 2011 | Video Extension | Generative AI | [Publication](https://doi.org/10.5594/s9781614826484) |
-| 2011 | Vladimir Vapnik | People & Organizations | [Publication](https://doi.org/10.1201/b11429-7) |
-| 2011 | Waypoint Following | Robotics | [Publication](https://doi.org/10.1109/cca.2011.6044507) |
-| 2011 | wireless body area networks | AI Infrastructure | [Publication](https://doi.org/10.1201/b11522-18) |
-| 2011 ★ | Cold Start in Clustering | Machine Learning | [Related source](https://doi.org/10.1007/978-3-642-25658-5_56) — indirect |
-| 2011 ★ | Dual Axis Chart | Data Science | [Related source](https://openalex.org/W2377349740) — indirect |
-| 2011 ★ | Edit Generalization | Machine Learning | [Related source](https://doi.org/10.1007/978-3-642-23780-5_22) — indirect |
-| 2011 ★ | Profile Likelihood Interval | Mathematics | [Related source](https://doi.org/10.1080/02664763.2011.616581) — indirect |
-| 2011 ★ | Segment-Level Monitoring | AI Infrastructure | [Related source](https://openalex.org/W2781754987) — indirect |
-| 2011 ★★ | AI Adoption Curve | AI Foundations | [Indirect context](https://doi.org/10.46743/2160-3715/2012.1814) — NOT keyword evidence |
-| 2011 ★★ | AI Ethics Community | People & Organizations | [Indirect context](https://doi.org/10.1038/npg.els.0005179) — NOT keyword evidence |
-| 2011 ★★ | architecture tactic | Programming & Software | [Indirect context](https://doi.org/10.1524/klio.2011.0020) — NOT keyword evidence |
-| 2011 ★★ | architecture technical debt | Programming & Software | [Indirect context](https://doi.org/10.1109/wicsa.2015.31) — NOT keyword evidence |
-| 2011 ★★ | Benchmark Saturation | AI Foundations | [Indirect context](https://doi.org/10.21236/ada274035) — NOT keyword evidence |
-| 2011 ★★ | Benchmark Saturation Point | Evaluation & Metrics | [Indirect context](https://doi.org/10.1007/978-981-99-1979-6_10) — NOT keyword evidence |
-| 2011 ★★ | Bias Initialization | Deep Learning | [Indirect context](https://doi.org/10.3390/electronics15184325) — NOT keyword evidence |
-| 2011 ★★ | Bias-Variance in Ensembles | Machine Learning | [Indirect context](https://doi.org/10.1007/bfb0054758) — NOT keyword evidence |
-| 2011 ★★ | big data | AI Infrastructure | [Indirect context](https://doi.org/10.59350/1vddq-fmh35) — NOT keyword evidence |
-| 2011 ★★ | Big-Theta Notation | Mathematics | [Indirect context](https://doi.org/10.59350/1vddq-fmh35) — NOT keyword evidence |
-| 2011 ★★ | Block-Max Indexing | Information Retrieval | [Indirect context](https://doi.org/10.1016/j.jval.2012.08.2145) — NOT keyword evidence |
-| 2011 ★★ | Calibration | AI Foundations | [Indirect context](https://doi.org/10.1037/e519682015-115) — NOT keyword evidence |
-| 2011 ★★ | Calibration Intercept | Evaluation & Metrics | [Indirect context](https://doi.org/10.2172/4589635) — NOT keyword evidence |
-| 2011 ★★ | Camera Control in Video Generation | Generative AI | [Indirect context](https://doi.org/10.1109/istel.2008.4651368) — NOT keyword evidence |
-| 2011 ★★ | Camera Motion Description | Generative AI | [Indirect context](https://doi.org/10.3390/sym13091552) — NOT keyword evidence |
-| 2011 ★★ | Canonical URL | Information Retrieval | [Indirect context](https://doi.org/10.1016/j.jval.2012.08.2145) — NOT keyword evidence |
-| 2011 ★★ | Capability Communication | AI Foundations | [Indirect context](https://doi.org/10.1002/j.1538-7305.1948.tb01338.x) — NOT keyword evidence |
-| 2011 ★★ | Channel Mixing | Deep Learning | [Indirect context](https://doi.org/10.5281/zenodo.22004515) — NOT keyword evidence |
-| 2011 ★★ | Character Error Rate (CER) | Speech & Audio | [Indirect context](https://doi.org/10.25134/vpg9r361) — NOT keyword evidence |
-| 2011 ★★ | Clinical Trial Design | Science & Healthcare AI | [Indirect context](https://openalex.org/W2416741242) — NOT keyword evidence |
-| 2011 ★★ | cloud computing environments | AI Infrastructure | [Indirect context](https://doi.org/10.1093/acprof:oso/9780199671670.003.0013) — NOT keyword evidence |
-| 2011 ★★ | cloud securities | AI Infrastructure | [Indirect context](https://doi.org/10.1201/9781439834541-15) — NOT keyword evidence |
-| 2011 ★★ | Colorization of Video | Generative AI | [Indirect context](https://doi.org/10.1109/istel.2008.4651368) — NOT keyword evidence |

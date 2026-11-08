@@ -1,11 +1,13 @@
 {
-  "inventory_total": 20100,
+  "inventory_total": 20375,
   "all_ids_unique_and_complete": true,
   "range": [
     "AIH-00001",
-    "AIH-20100"
+    "AIH-20375"
   ],
   "consecutive_research_batch_coverage_complete": true,
+  "base_inventory_preserved": true,
+  "historical_gap_additions": 275,
   "chronology_pages": 41,
   "chronology_page_sizes": [
     500,
@@ -48,10 +50,10 @@
     500,
     500,
     500,
-    100
+    375
   ],
   "source_dated_publication_attestations": 12414,
-  "estimated_years_star": 117,
+  "estimated_years_star": 392,
   "speculative_years_double_star": 7569,
   "entries_without_usable_year": 0,
   "first_use_field_populated_but_unverified": 0,

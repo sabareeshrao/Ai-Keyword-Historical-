@@ -10,6 +10,81 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 2005 | hilbert huang transforms | Speech & Audio | [Publication](https://doi.org/10.1142/9789812703347_0006) |
+| 2005 | hilbert-huang transform | Speech & Audio | [Publication](https://doi.org/10.1201/9781420027532) |
+| 2005 | Hoeffding Inequality | Mathematics | [Publication](https://doi.org/10.1002/0471667196.ess3388) |
+| 2005 | Horizon Effect | AI Foundations | [Publication](https://doi.org/10.2139/ssrn.798431) |
+| 2005 | HSV Color Space | Computer Vision | [Publication](https://doi.org/10.4018/978-1-59140-553-5.ch235) |
+| 2005 | http protocols | AI Infrastructure | [Publication](https://doi.org/10.4314/gjpas.v11i2.16498) |
+| 2005 | human motion recognition | Robotics | [Publication](https://doi.org/10.1016/j.patrec.2004.09.019) |
+| 2005 | hybrid evolutionary algorithm | Mathematics | [Publication](https://doi.org/10.1145/1068009.1068118) |
+| 2005 | hybrid metaheuristics | Mathematics | [Publication](https://doi.org/10.1002/0471739383.ch15) |
+| 2005 | Hybrid Recommender | Recommender Systems | [Publication](https://doi.org/10.1109/ichis.2005.109) |
+| 2005 | identity based cryptography | AI Infrastructure | [Publication](https://doi.org/10.1145/1102486.1102488) |
+| 2005 | Image Generation | Generative AI | [Publication](https://doi.org/10.31026/j.eng.2005.02.12) |
+| 2005 | improved pso | Mathematics | [Publication](https://doi.org/10.1016/j.neucom.2004.07.002) |
+| 2005 | impulse radios | AI Infrastructure | [Publication](https://doi.org/10.1109/glocom.2005.1578181) |
+| 2005 | information sharing | AI Infrastructure | [Publication](https://doi.org/10.1007/3-540-26907-x_2) |
+| 2005 | information-theoretic security | AI Safety | [Publication](https://doi.org/10.1109/itwtpi.2005.1543941) |
+| 2005 | Inhibitory Control | Cognitive Science | [Publication](https://doi.org/10.4135/9781412952484.n350) |
+| 2005 | Insight Problem Solving | Cognitive Science | [Publication](https://doi.org/10.1037/e633942013-973) |
+| 2005 | inter prediction | Computer Vision | [Publication](https://doi.org/10.1109/icme.2004.1394414) |
+| 2005 | inter-layer prediction | Computer Vision | [Publication](https://doi.org/10.1109/icip.2005.1530194) |
+| 2005 | interaction designs | AI Applications | [Publication](https://doi.org/10.1109/mprv.2005.91) |
+| 2005 | interference management | AI Infrastructure | [Publication](https://doi.org/10.1017/cbo9780511807213.005) |
+| 2005 | Interquartile Range (IQR) | Mathematics | [Publication](https://doi.org/10.4135/9781412983907.n972) |
+| 2005 | intrusion detection method | AI Safety | [Publication](https://doi.org/10.1117/12.603086) |
+| 2005 | Intrusion Detection System (IDS) | Security & Privacy | [Publication](https://doi.org/10.1109/tencon.2005.301033) |
+| 2005 | intrusion prevention systems | AI Infrastructure | [Publication](https://doi.org/10.1145/1071916.1071927) |
+| 2005 | Invisible Watermark | Generative AI | [Publication](https://doi.org/10.1007/11403937_25) |
+| 2005 | Item Response Theory (IRT) | AI Applications | [Publication](https://doi.org/10.4135/9781412983907.n994) |
+| 2005 | Jigsaw Puzzle Task | Machine Learning | [Publication](https://doi.org/10.1111/j.1365-2788.2005.00782.x) |
+| 2005 | jpeg2000 compression | Computer Vision | [Publication](https://doi.org/10.1109/aero.2005.1559540) |
+| 2005 | k-nn query | Machine Learning | [Publication](https://doi.org/10.1007/11590354_71) |
+| 2005 | kernel parameter | Machine Learning | [Publication](https://doi.org/10.1142/s0219720005001491) |
+| 2005 | key exposure | AI Infrastructure | [Publication](https://doi.org/10.1007/s00200-005-0183-y) |
+| 2005 | key predistribution scheme | AI Infrastructure | [Publication](https://doi.org/10.1109/jsac.2004.842555) |
+| 2005 | keyword queries | Information Retrieval | [Publication](https://doi.org/10.1145/1065385.1065407) |
+| 2005 | keyword-based search | Information Retrieval | [Publication](https://doi.org/10.1108/14684520510638098) |
+| 2005 | knowledge exchange | AI Foundations | [Publication](https://doi.org/10.63485/aqt5d-9wg60) |
+| 2005 | knowledge visualization | Data Science | [Publication](https://doi.org/10.1007/11510154_6) |
+| 2005 | large-scale wireless sensor networks | Machine Learning | [Publication](https://doi.org/10.1201/9781420038163-46) |
+| 2005 | ldpc codes | Mathematics | [Publication](https://doi.org/10.1109/lcomm.2005.1461686) |
+| 2005 | ldpc coding | Computer Vision | [Publication](https://doi.org/10.1109/tcsi.2005.844113) |
+| 2005 | limited feedback | AI Infrastructure | [Publication](https://doi.org/10.21236/ada477700) |
+| 2005 | Link Farm | Information Retrieval | [Publication](https://doi.org/10.1145/1062745.1062762) |
+| 2005 | local invariant features | Computer Vision | [Publication](https://doi.org/10.1142/9789812775320_0005) |
+| 2005 | locality preserving projections | Machine Learning | [Publication](https://doi.org/10.1016/j.neucom.2004.08.006) |
+| 2005 | localization algorithms | AI Infrastructure | [Publication](https://doi.org/10.1201/9781420038163-42) |
+| 2005 | location fingerprinting | Robotics | [Publication](https://doi.org/10.1016/j.comnet.2004.09.004) |
+| 2005 | lossless compressions | AI Infrastructure | [Publication](https://doi.org/10.1117/12.575437) |
+| 2005 | Low-Rank Approximation | Mathematics | [Publication](https://doi.org/10.1093/acprof:oso/9780198566649.003.0008) |
+| 2005 | lsb matching | Computer Vision | [Publication](https://doi.org/10.1109/lsp.2005.847889) |
+| 2005 | Machine-Readable Marking | AI Safety | [Publication](https://doi.org/10.2352/j.imagingsci.technol.2005.49.5.art00002) |
+| 2005 | Market Basket Analysis | Machine Learning | [Publication](https://doi.org/10.1109/epia.2005.341294) |
+| 2005 | Markov Equivalence Class | Causal Inference | [Publication](https://doi.org/10.1007/11564089_9) |
+| 2005 | markov logic networks | Mathematics | [Publication](https://doi.org/10.1145/1102351.1102407) |
+| 2005 | Materials Informatics | Science & Healthcare AI | [Publication](https://doi.org/10.1016/s1369-7021(05)71123-8) |
+| 2005 | Matplotlib | Tools & Frameworks | [Publication](https://openalex.org/W1630264553) |
+| 2005 | mb-ofdm | AI Infrastructure | [Publication](https://doi.org/10.1049/cp:20050309) |
+| 2005 | mb-ofdm uwb | AI Infrastructure | [Publication](https://doi.org/10.1049/cp:20050309) |
+| 2005 | mean shift algorithm | Computer Vision | [Publication](https://doi.org/10.1360/jos160365) |
+| 2005 | median value | Computer Vision | [Publication](https://doi.org/10.1016/j.ins.2004.07.018) |
+| 2005 | mediawiki | AI Infrastructure | [Publication](https://doi.org/10.1007/3-540-29267-5_9) |
+| 2005 | Medication Reconciliation | AI Applications | [Publication](https://doi.org/10.1097/00006247-200509000-00006) |
+| 2005 | mems deformable mirror | AI Infrastructure | [Publication](https://doi.org/10.1117/12.669376) |
+| 2005 | mesh networks | AI Infrastructure | [Publication](https://doi.org/10.1007/b138484) |
+| 2005 | micro electro mechanical system | AI Infrastructure | [Publication](https://doi.org/10.1201/9781420027754) |
+| 2005 | mimo transmission | AI Infrastructure | [Publication](https://doi.org/10.1049/ic:20050400) |
+| 2005 | mining algorithms | Machine Learning | [Publication](https://doi.org/10.4018/978-1-59140-557-3.ch037) |
+| 2005 | misbehaving nodes | AI Infrastructure | [Publication](https://doi.org/10.1515/piko.2005.38) |
+| 2005 | mobile interaction | AI Applications | [Publication](https://doi.org/10.1145/1085777.1085872) |
+| 2005 | mobile node | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc4283) |
+| 2005 | mobile rfid | AI Infrastructure | [Publication](https://doi.org/10.1109/icebe.2005.88) |
+| 2005 | mobile service robots | AI Foundations | [Publication](https://doi.org/10.15607/rss.2005.i.003) |
+| 2005 | mobility model | AI Infrastructure | [Publication](https://doi.org/10.1109/wcnc.2005.1424759) |
+| 2005 | model based testing | Programming & Software | [Publication](https://doi.org/10.1007/11498490_27) |
+| 2005 | model driven architecture | Programming & Software | [Publication](https://doi.org/10.5220/0002545900180028) |
 | 2005 | Model Risk | AI Foundations | [Publication](https://doi.org/10.1002/9781118673485.ch16) |
 | 2005 | model-driven architectures | Programming & Software | [Publication](https://doi.org/10.1002/inst.20058113) |
 | 2005 | model-driven engineering | Mathematics | [Publication](https://doi.org/10.1007/11557432_7) |
@@ -435,78 +510,3 @@
 | 2006 | cluster heads | Machine Learning | [Publication](https://doi.org/10.1109/isspit.2006.270771) |
 | 2006 | clustered wireless sensor networks | Machine Learning | [Publication](https://doi.org/10.1504/ijsnet.2006.010834) |
 | 2006 | Cognitive approaches to grammar | AI Foundations | [Publication](https://doi.org/10.1515/9783110197761.1.81) |
-| 2006 | cognitive radios | AI Infrastructure | [Publication](https://doi.org/10.1016/b978-075067952-7/50014-3) |
-| 2006 | Cognitive specialization | AI Foundations | [Publication](https://doi.org/10.1093/oso/9780198568742.003.0008) |
-| 2006 | collaborative tagging | Information Retrieval | [Publication](https://doi.org/10.1075/pc.14.2.09ste) |
-| 2006 | Community Consent | People & Organizations | [Publication](https://doi.org/10.1038/npg.els.0005179) |
-| 2006 | Compliance Automation | AI Applications | [Publication](https://doi.org/10.1108/15265940610664988) |
-| 2006 | compression functions | AI Safety | [Publication](https://doi.org/10.1007/11935230_21) |
-| 2006 | computer clusters | AI Infrastructure | [Publication](https://doi.org/10.3844/jcssp.2006.33.47) |
-| 2006 | computing clusters | AI Infrastructure | [Publication](https://doi.org/10.1109/clustr.2006.311863) |
-| 2006 | concept similarity | NLP and LLMs | [Publication](https://doi.org/10.1016/j.ins.2005.11.014) |
-| 2006 | cone-beam ct | Computer Vision | [Publication](https://doi.org/10.1118/1.2198187) |
-| 2006 | Consequential Decision | AI Foundations | [Publication](https://doi.org/10.1037/e683162011-085) |
-| 2006 | Constraint Tightening | Mathematics | [Publication](https://doi.org/10.1109/acc.2006.1656440) |
-| 2006 | contention window | AI Infrastructure | [Publication](https://doi.org/10.1109/tencon.2006.343780) |
-| 2006 | contention window size | AI Infrastructure | [Publication](https://doi.org/10.1016/j.comcom.2006.06.016) |
-| 2006 | context aware | AI Applications | [Publication](https://doi.org/10.1201/9781420013498.ch8) |
-| 2006 | context awareness | AI Applications | [Publication](https://doi.org/10.1201/9781420013498.ch9) |
-| 2006 | context management | AI Infrastructure | [Publication](https://doi.org/10.1109/mdm.2006.129) |
-| 2006 | context-aware recommender systems | Information Retrieval | [Publication](https://doi.org/10.1109/mdm.2006.149) |
-| 2006 | context-aware services | AI Applications | [Publication](https://doi.org/10.1002/047002867x.ch4) |
-| 2006 | contourlet coefficients | Computer Vision | [Publication](https://doi.org/10.1109/icr.2006.343411) |
-| 2006 | Conversation Summarization | Agentic AI | [Publication](https://doi.org/10.3115/1614049.1614099) |
-| 2006 | coordinated beamforming | Speech & Audio | [Publication](https://doi.org/10.1109/ciss.2006.286448) |
-| 2006 | core asset | AI Infrastructure | [Publication](https://doi.org/10.1109/apsec.2006.23) |
-| 2006 | cross-layer approach | AI Infrastructure | [Publication](https://doi.org/10.1109/milcom.2006.302081) |
-| 2006 | curvelet coefficients | Computer Vision | [Publication](https://doi.org/10.1109/icip.2006.312654) |
-| 2006 | Data Ownership | Data Science | [Publication](https://doi.org/10.1037/e520942012-028) |
-| 2006 | dct transform | Computer Vision | [Publication](https://doi.org/10.1109/elmar.2006.329522) |
-| 2006 | de-nosing | Computer Vision | [Publication](https://doi.org/10.1109/wac.2006.375745) |
-| 2006 | Deep belief network | Deep Learning | [Publication](https://doi.org/10.1162/neco.2006.18.7.1527) |
-| 2006 | Deliberative Agent | AI Foundations | [Publication](https://doi.org/10.1007/11759683_6) |
-| 2006 | density evolution | Mathematics | [Publication](https://doi.org/10.1109/icc.2006.254895) |
-| 2006 | Dependency Tree | NLP and LLMs | [Publication](https://doi.org/10.1007/11875604_62) |
-| 2006 | Description Logic Reasoning | AI Foundations | [Publication](https://doi.org/10.1007/11799573_50) |
-| 2006 | Detect and Avoid (DAA) | Robotics | [Publication](https://doi.org/10.1109/icu.2006.281602) |
-| 2006 | different frequency | AI Infrastructure | [Publication](https://doi.org/10.1016/j.clinph.2006.06.215) |
-| 2006 | diffusion tensor imaging (dti) | Computer Vision | [Publication](https://doi.org/10.3410/f.1029981.349441) |
-| 2006 | digital games | Reinforcement Learning | [Publication](https://doi.org/10.4135/9781446211410.n2) |
-| 2006 | digital image forensics | Computer Vision | [Publication](https://doi.org/10.1109/icip.2006.312849) |
-| 2006 | discrete particle swarm optimization | Mathematics | [Publication](https://doi.org/10.1109/icia.2006.305922) |
-| 2006 | discrete particle swarm optimization algorithm | Mathematics | [Publication](https://doi.org/10.1109/icia.2006.305922) |
-| 2006 | Distance Metric Learning | Machine Learning | [Publication](https://doi.org/10.1186/1471-2105-7-299) |
-| 2006 | distributed antenna systems | Speech & Audio | [Publication](https://doi.org/10.1109/vtcf.2006.262) |
-| 2006 | Distributed cognition | AI Foundations | [Publication](https://doi.org/10.1075/pc.14.2.06kir) |
-| 2006 | distributed compression | Computer Vision | [Publication](https://doi.org/10.1201/9781420018837.ch9) |
-| 2006 | distributed coordination function (dcf) | AI Infrastructure | [Publication](https://doi.org/10.1093/ietcom/e89-b.5.1605) |
-| 2006 | distribution network | AI Foundations | [Publication](https://doi.org/10.1049/cp:20061777) |
-| 2006 | diversity gains | AI Infrastructure | [Publication](https://doi.org/10.1109/vtcf.2006.74) |
-| 2006 | dom tree | NLP and LLMs | [Publication](https://doi.org/10.1145/1141753.1141777) |
-| 2006 | doubly selective channel | AI Infrastructure | [Publication](https://doi.org/10.1109/ciss.2006.286666) |
-| 2006 | drain efficiency | Speech & Audio | [Publication](https://doi.org/10.1109/emicc.2006.282753) |
-| 2006 | dual-tree complex wavelets | Computer Vision | [Publication](https://doi.org/10.1109/icip.2006.313053) |
-| 2006 | dynamic background | Computer Vision | [Publication](https://doi.org/10.1109/icip.2006.312881) |
-| 2006 | dynamic bayesian network | Speech & Audio | [Publication](https://doi.org/10.1109/ijcnn.2006.247336) |
-| 2006 | Dynamic Range | AI Infrastructure | [Publication](https://doi.org/10.1016/b978-0-12-585263-0.x5000-3) |
-| 2006 | dynamic software architecture | Programming & Software | [Publication](https://doi.org/10.1360/jos171360) |
-| 2006 | dynamic spectrum management | AI Infrastructure | [Publication](https://doi.org/10.1201/9781420013542-21) |
-| 2006 | Earth Mover's Distance (EMD) | Machine Learning | [Publication](https://doi.org/10.1109/tdsc.2006.50) |
-| 2006 | electric control equipment | Robotics | [Publication](https://openalex.org/W2380900390) |
-| 2006 | electric power system interconnection | AI Infrastructure | [Publication](https://doi.org/10.1109/pes.2006.1709401) |
-| 2006 | embedding efficiency | AI Safety | [Publication](https://doi.org/10.1109/tifs.2005.863487) |
-| 2006 | Emergent Abilities | Deep Learning | [Publication](https://doi.org/10.1016/j.physleta.2005.09.041) |
-| 2006 | Enactivism | AI Foundations | [Publication](https://doi.org/10.5040/9798216000198.ch-056) |
-| 2006 | Encouragement Design | Causal Inference | [Publication](https://doi.org/10.1002/sim.2388) |
-| 2006 | energy harvesting systems | AI Infrastructure | [Publication](https://doi.org/10.1109/lpe.2006.4271832) |
-| 2006 | Enforcement Action | AI Applications | [Publication](https://doi.org/10.2139/ssrn.945276) |
-| 2006 | envelope tracking | AI Infrastructure | [Publication](https://doi.org/10.1109/norchp.2006.329266) |
-| 2006 | epidemic routing | AI Infrastructure | [Publication](https://doi.org/10.1145/1143549.1143657) |
-| 2006 | Epistemic Humility | AI Safety | [Publication](https://doi.org/10.1007/978-0-387-36506-0_7) |
-| 2006 | equal power allocation | Speech & Audio | [Publication](https://doi.org/10.1109/icct.2006.341680) |
-| 2006 | Evidence | Mathematics | [Publication](https://doi.org/10.1350/ijep.10.4.327) |
-| 2006 | Exposure Correction | Computer Vision | [Publication](https://doi.org/10.1109/icip.2006.313168) |
-| 2006 | expression recognition | Machine Learning | [Publication](https://doi.org/10.1016/j.patrec.2005.07.026) |
-| 2006 | Extended Mind | Cognitive Science | [Publication](https://doi.org/10.1163/9789401203081_012) |
-| 2006 | face regions | Machine Learning | [Publication](https://doi.org/10.1109/icpr.2006.217) |
-| 2006 | facial expression recognition | Machine Learning | [Publication](https://doi.org/10.1109/icmlc.2006.258460) |

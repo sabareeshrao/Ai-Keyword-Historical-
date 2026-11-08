@@ -1,6 +1,6 @@
 # Batch 23/41 — Historical Keywords
 
-**500 keywords**, sorted chronologically (2003). The master CSV retains the original permanent IDs.
+**500 keywords**, sorted chronologically (2002 – 2003). The master CSV retains the original permanent IDs.
 
 [All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
@@ -10,6 +10,81 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 2002 ★★ | xml queries | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-3-540-45194-5_14) — NOT keyword evidence |
+| 2003 | 3d display | AI Applications | [Publication](https://doi.org/10.1364/oc.2003.ofb1) |
+| 2003 | 4g mobile communication systems | AI Infrastructure | [Publication](https://doi.org/10.1109/mwc.2003.1224973) |
+| 2003 | ac coefficients | Computer Vision | [Publication](https://doi.org/10.1049/pbte049e_appendixb) |
+| 2003 | achievable rate | AI Infrastructure | [Publication](https://doi.org/10.1109/isit.2003.1228112) |
+| 2003 | active contour model | Computer Vision | [Publication](https://doi.org/10.1007/bf02480878) |
+| 2003 | ad hoc networks | AI Infrastructure | [Publication](https://doi.org/10.1016/s1570-8705(03)00005-2) |
+| 2003 | Adapter Pattern | Programming & Software | [Publication](https://doi.org/10.1007/978-1-4302-0776-4_4) |
+| 2003 | aes encryption | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc3565) |
+| 2003 | agile development | Programming & Software | [Publication](https://doi.org/10.1109/adc.2003.1231462) |
+| 2003 | Alert Triage | Security & Privacy | [Publication](https://doi.org/10.1007/978-3-540-45215-7_42) |
+| 2003 | algebraic attacks | AI Safety | [Publication](https://doi.org/10.1007/978-3-540-45146-4_10) |
+| 2003 | alternative splicing | Data Science | [Publication](https://doi.org/10.1007/978-3-662-09728-1_8) |
+| 2003 | am-oled | AI Applications | [Publication](https://doi.org/10.1117/12.502608) |
+| 2003 | ambient displays | AI Applications | [Publication](https://doi.org/10.1007/978-94-017-2813-3_16) |
+| 2003 | ambient intelligence | AI Foundations | [Publication](https://doi.org/10.1007/0-306-48706-3_3) |
+| 2003 | ambient vibrations | AI Infrastructure | [Publication](https://doi.org/10.1046/j.1365-246x.2003.01856.x) |
+| 2003 | Anchor Text | Information Retrieval | [Publication](https://doi.org/10.1145/860435.860550) |
+| 2003 | antenna selection | AI Infrastructure | [Publication](https://doi.org/10.1109/isit.2003.1228107) |
+| 2003 | anycast routing | AI Infrastructure | [Publication](https://doi.org/10.1016/s0140-3664(03)00132-4) |
+| 2003 | approximation factor | Mathematics | [Publication](https://doi.org/10.1016/s0167-6423(03)00011-x) |
+| 2003 | architectural tactics | Programming & Software | [Publication](https://doi.org/10.21236/ada413701) |
+| 2003 | Argmax | Mathematics | [Publication](https://doi.org/10.5860/choice.41-1656) |
+| 2003 | Ask for Clarification | AI Safety | [Publication](https://doi.org/10.1038/laban0403-19b) |
+| 2003 | associative classifiers | Machine Learning | [Publication](https://doi.org/10.1007/978-3-540-39666-6_5) |
+| 2003 | Asynchronous Copy | AI Infrastructure | [Publication](https://doi.org/10.1016/s0141-9331(03)00101-7) |
+| 2003 | authenticated key agreement protocols | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-540-40974-8_27) |
+| 2003 | authentication and authorization | AI Safety | [Publication](https://doi.org/10.1016/b978-155558298-2/50008-7) |
+| 2003 | autonomic computing | AI Infrastructure | [Publication](https://doi.org/10.1109/acw.2003) |
+| 2003 | Average Treatment Effect (ATE) | AI Foundations | [Publication](https://doi.org/10.1016/s1098-3015(10)64081-8) |
+| 2003 | base classifiers | Machine Learning | [Publication](https://doi.org/10.1007/978-3-540-45167-9_21) |
+| 2003 | bayesian classifier | AI Foundations | [Publication](https://doi.org/10.1002/cem.797) |
+| 2003 | belief propagation decoding | Mathematics | [Publication](https://doi.org/10.1109/isit.2003.1228190) |
+| 2003 | Bernoulli Distribution | Mathematics | [Publication](https://doi.org/10.1002/0471722227.ch4) |
+| 2003 | bicm-id | Mathematics | [Publication](https://doi.org/10.1109/lcomm.2003.817304) |
+| 2003 | bilinear map | AI Infrastructure | [Publication](https://doi.org/10.1145/947380.947389) |
+| 2003 | biometric identification | AI Safety | [Publication](https://doi.org/10.1108/sr.2003.08723dad.009) |
+| 2003 | black hole attack | AI Infrastructure | [Publication](https://doi.org/10.1049/cp:20030303) |
+| 2003 | Blend Shape | Computer Graphics | [Publication](https://doi.org/10.1145/965400.965571) |
+| 2003 | blind equalization algorithm | Speech & Audio | [Publication](https://doi.org/10.1142/9789812704313_0042) |
+| 2003 | Bloch Sphere | Quantum & Emerging Compute | [Publication](https://doi.org/10.1109/qels.2003.238043) |
+| 2003 | Bottom-Up Approach | Time Series & Forecasting | [Publication](https://doi.org/10.4324/9780203417850-17) |
+| 2003 | bounded model checking | Programming & Software | [Publication](https://doi.org/10.1016/s0065-2458(03)58003-2) |
+| 2003 | broadcast news | Speech & Audio | [Publication](https://doi.org/10.4324/9780203400395-9) |
+| 2003 | business process modeling | AI Infrastructure | [Publication](https://doi.org/10.1108/bpmj.2003.15709aaa.004) |
+| 2003 | business requirement | AI Infrastructure | [Publication](https://doi.org/10.1680/bscfctc.32071.0003) |
+| 2003 | Business rules engine | AI Applications | [Publication](https://openalex.org/W2992138372) |
+| 2003 | Caching Strategy | AI Infrastructure | [Publication](https://doi.org/10.3745/kipsta.2003.10a.3.261) |
+| 2003 | call admission control (cac) | AI Infrastructure | [Publication](https://doi.org/10.1023/a:1025361326776) |
+| 2003 | Case-Based Reasoning Cycle | AI Foundations | [Publication](https://doi.org/10.1002/int.10093) |
+| 2003 | Causal Mechanism | Causal Inference | [Publication](https://doi.org/10.1080/1356346032000078723) |
+| 2003 | cellular automaton | AI Foundations | [Publication](https://doi.org/10.1093/oso/9780195137170.003.0007) |
+| 2003 | certificateless public key cryptography | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-540-40061-5_29) |
+| 2003 | channel estimation error | AI Infrastructure | [Publication](https://doi.org/10.1049/cp:20030271) |
+| 2003 | channel estimation errors | AI Infrastructure | [Publication](https://doi.org/10.1049/cp:20030361) |
+| 2003 | checkpointing techniques | AI Infrastructure | [Publication](https://doi.org/10.1080/0232929031000075278) |
+| 2003 | chip multiprocessors | AI Infrastructure | [Publication](https://doi.org/10.1109/icpp.2003.1240577) |
+| 2003 | closed itemsets | Machine Learning | [Publication](https://doi.org/10.1145/952613.952615) |
+| 2003 | cluster architecture | AI Infrastructure | [Publication](https://doi.org/10.1109/clustr.2003.1253350) |
+| 2003 | collaborative activities | AI Infrastructure | [Publication](https://doi.org/10.1037/e321102004-003) |
+| 2003 | combinatorial auctions | Mathematics | [Publication](https://doi.org/10.2139/ssrn.352260) |
+| 2003 | Complementary Investment | AI Foundations | [Publication](https://doi.org/10.1023/a:1025609613076) |
+| 2003 | computer worms | AI Infrastructure | [Publication](https://doi.org/10.1038/425228b) |
+| 2003 | Conceptual metaphor | AI Foundations | [Publication](https://doi.org/10.1093/oso/9780195138993.003.0002) |
+| 2003 | Content-Based Image Retrieval (CBIR) | Computer Vision | [Publication](https://doi.org/10.1007/s00530-002-0073-0) |
+| 2003 | Contingent Planning | AI Foundations | [Publication](https://doi.org/10.1016/s0004-3702(02)00379-x) |
+| 2003 | Continuous Assurance | AI Foundations | [Publication](https://doi.org/10.5117/mab.77.16289) |
+| 2003 | Contract Programming | Programming & Software | [Publication](https://doi.org/10.1109/icse.2003.1201250) |
+| 2003 | cooperative wireless networks | AI Infrastructure | [Publication](https://openalex.org/W2580783335) |
+| 2003 | Credit Risk Model | AI Applications | [Publication](https://doi.org/10.2139/ssrn.392603) |
+| 2003 | crosscutting concern | Programming & Software | [Publication](https://doi.org/10.1093/comjnl/46.5.578) |
+| 2003 | cst microwave studio | AI Infrastructure | [Publication](https://doi.org/10.1109/ted.2003.816109) |
+| 2003 | Dashboard Design | Data Science | [Publication](https://doi.org/10.1037/e577042012-042) |
+| 2003 | data mining techniques | Machine Learning | [Publication](https://doi.org/10.1142/9789812791375_0001) |
+| 2003 | Data Profiling | Data Science | [Publication](https://doi.org/10.1016/b978-155860916-7/50009-9) |
 | 2003 | ddos attacks | AI Safety | [Publication](https://doi.org/10.1201/noe0849385858-157) |
 | 2003 | debugging tools | Programming & Software | [Publication](https://doi.org/10.1007/978-1-4302-0778-8_5) |
 | 2003 | decision support techniques | AI Foundations | [Publication](https://doi.org/10.21236/ada423518) |
@@ -435,78 +510,3 @@
 | 2003 ★★ | micro-mechanical | AI Infrastructure | [Indirect context](https://doi.org/10.1201/9781420027754) — NOT keyword evidence |
 | 2003 ★★ | mining process | Machine Learning | [Indirect context](https://doi.org/10.1016/b978-155558242-5/50004-8) — NOT keyword evidence |
 | 2003 ★★ | minutia | AI Safety | [Indirect context](https://doi.org/10.1145/357369.357372) — NOT keyword evidence |
-| 2003 ★★ | mobile environment | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-4615-5055-6_6) — NOT keyword evidence |
-| 2003 ★★ | Model Caching | AI Infrastructure | [Indirect context](https://doi.org/10.1109/infcom.1999.752149) — NOT keyword evidence |
-| 2003 ★★ | Model Usage Policy | AI Safety | [Indirect context](https://doi.org/10.1145/3311790.3397341) — NOT keyword evidence |
-| 2003 ★★ | multi-beam | Speech & Audio | [Indirect context](https://doi.org/10.1021/j100718a022) — NOT keyword evidence |
-| 2003 ★★ | multi-objective genetic algorithm | AI Foundations | [Indirect context](https://doi.org/10.1007/3-540-44719-9_6) — NOT keyword evidence |
-| 2003 ★★ | multi-objective optimisation | AI Foundations | [Indirect context](https://doi.org/10.1201/9781003354796-4) — NOT keyword evidence |
-| 2003 ★★ | multi-objective optimization models | AI Foundations | [Indirect context](https://doi.org/10.1201/9781003354796-4) — NOT keyword evidence |
-| 2003 ★★ | multiprocessor | AI Infrastructure | [Indirect context](https://doi.org/10.1109/icpp.2003.1240577) — NOT keyword evidence |
-| 2003 ★★ | multiuser scheduling | Speech & Audio | [Indirect context](https://doi.org/10.1109/78.875470) — NOT keyword evidence |
-| 2003 ★★ | negative refractions | AI Infrastructure | [Indirect context](https://doi.org/10.1088/2058-7058/15/8/10) — NOT keyword evidence |
-| 2003 ★★ | networked controls | Robotics | [Indirect context](https://doi.org/10.23919/ecc.2003.7085034) — NOT keyword evidence |
-| 2003 ★★ | Operational Handover | AI Infrastructure | [Indirect context](https://doi.org/10.2139/ssrn.413720) — NOT keyword evidence |
-| 2003 ★★ | optimal power control | Speech & Audio | [Indirect context](https://doi.org/10.1016/b978-0-08-034077-7.50031-7) — NOT keyword evidence |
-| 2003 ★★ | order picking | Machine Learning | [Indirect context](https://doi.org/10.1201/9781420040616-11) — NOT keyword evidence |
-| 2003 ★★ | osate | Programming & Software | [Indirect context](https://doi.org/10.1201/b18893-9) — NOT keyword evidence |
-| 2003 ★★ | p-cycles | AI Infrastructure | [Indirect context](https://doi.org/10.1016/s0167-739x(00)00053-4) — NOT keyword evidence |
-| 2003 ★★ | Parameter Allocation | Machine Learning | [Indirect context](https://www.jmlr.org/papers/v3/blei03a.html) — NOT keyword evidence |
-| 2003 ★★ | parameter-efficient tuning | Machine Learning | [Indirect context](https://doi.org/10.36227/techrxiv.24191886) — NOT keyword evidence |
-| 2003 ★★ | partial channel state information | AI Infrastructure | [Indirect context](https://doi.org/10.1109/icassp.2002.1005113) — NOT keyword evidence |
-| 2003 ★★ | password authentication | AI Safety | [Indirect context](https://doi.org/10.1145/41818.41821) — NOT keyword evidence |
-| 2003 ★★ | password-authenticated key exchange | AI Safety | [Indirect context](https://doi.org/10.1145/242896.242897) — NOT keyword evidence |
-| 2003 ★★ | pervasive computing environments | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ada440602) — NOT keyword evidence |
-| 2003 ★★ | pervasive environments | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ada440602) — NOT keyword evidence |
-| 2003 ★★ | Pitch Detection | Signal & Information Theory | [Indirect context](https://doi.org/10.1049/el:19650116) — NOT keyword evidence |
-| 2003 ★★ | Platt Scaling | Machine Learning | [Indirect context](https://doi.org/10.48550/arxiv.2610.37842) — NOT keyword evidence |
-| 2003 ★★ | power control problem | Speech & Audio | [Indirect context](https://doi.org/10.1016/b978-0-08-034077-7.50031-7) — NOT keyword evidence |
-| 2003 ★★ | Power Law of Practice | Cognitive Science | [Indirect context](https://doi.org/10.1037/e344792004-001) — NOT keyword evidence |
-| 2003 ★★ | privacy information | Machine Learning | [Indirect context](https://doi.org/10.2139/ssrn.218274) — NOT keyword evidence |
-| 2003 ★★ | Profiling | Programming & Software | [Indirect context](https://doi.org/10.1016/b978-0-12-800726-6.00010-0) — NOT keyword evidence |
-| 2003 ★★ | PyTorch Geometric (PyG) | Tools & Frameworks | [Indirect context](https://doi.org/10.18653/v1/2023.emnlp-demo.26) — NOT keyword evidence |
-| 2003 ★★ | Quality Bar | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-3-540-24782-1_4) — NOT keyword evidence |
-| 2003 ★★ | rad | Programming & Software | [Indirect context](https://doi.org/10.1201/b18893-9) — NOT keyword evidence |
-| 2003 ★★ | random network coding | AI Infrastructure | [Indirect context](https://doi.org/10.1109/idap64064.2024.10710961) — NOT keyword evidence |
-| 2003 ★★ | rc4 | AI Safety | [Indirect context](https://doi.org/10.1145/357369.357372) — NOT keyword evidence |
-| 2003 ★★ | ReAct Pattern | AI Foundations | [Indirect context](https://doi.org/10.1121/1.1915186) — NOT keyword evidence |
-| 2003 ★★ | reactive power control | Speech & Audio | [Indirect context](https://doi.org/10.1016/b978-0-08-034077-7.50031-7) — NOT keyword evidence |
-| 2003 ★★ | Related Search | Information Retrieval | [Indirect context](https://doi.org/10.1109/dexa.2007.75) — NOT keyword evidence |
-| 2003 ★★ | Relative Gap Tolerance | Mathematics | [Indirect context](https://doi.org/10.1287/mnsc.12.1.122) — NOT keyword evidence |
-| 2003 ★★ | Residual Scaling | Machine Learning | [Indirect context](https://doi.org/10.48550/arxiv.2610.37842) — NOT keyword evidence |
-| 2003 ★★ | Restart Strategy | Mathematics | [Indirect context](https://doi.org/10.1021/jo01317a033) — NOT keyword evidence |
-| 2003 ★★ | rights management | Computer Vision | [Indirect context](https://doi.org/10.1045/june2001-iannella) — NOT keyword evidence |
-| 2003 ★★ | rijndael | AI Safety | [Indirect context](https://doi.org/10.1145/357369.357372) — NOT keyword evidence |
-| 2003 ★★ | Risk Difference | Mathematics | [Indirect context](https://doi.org/10.1093/jnci/42.3.435) — NOT keyword evidence |
-| 2003 ★★ | Risk Register Maintenance | AI Applications | [Indirect context](https://doi.org/10.1201/9781482293531-13) — NOT keyword evidence |
-| 2003 ★★ | rup | Programming & Software | [Indirect context](https://doi.org/10.1201/b18893-9) — NOT keyword evidence |
-| 2003 ★★ | saam | Programming & Software | [Indirect context](https://doi.org/10.1201/b18893-9) — NOT keyword evidence |
-| 2003 ★★ | saem | Programming & Software | [Indirect context](https://doi.org/10.1201/b18893-9) — NOT keyword evidence |
-| 2003 ★★ | saluta | Programming & Software | [Indirect context](https://doi.org/10.1201/b18893-9) — NOT keyword evidence |
-| 2003 ★★ | sbar | Programming & Software | [Indirect context](https://doi.org/10.1201/b18893-9) — NOT keyword evidence |
-| 2003 ★★ | Scaling Experiment | Machine Learning | [Indirect context](https://doi.org/10.48550/arxiv.2610.37842) — NOT keyword evidence |
-| 2003 ★★ | Scaling Law Exponent | Machine Learning | [Indirect context](https://doi.org/10.48550/arxiv.2610.37842) — NOT keyword evidence |
-| 2003 ★★ | scrum | Programming & Software | [Indirect context](https://doi.org/10.1201/b18893-9) — NOT keyword evidence |
-| 2003 ★★ | Secure Aggregation | Security & Privacy | [Indirect context](https://doi.org/10.1145/3163058.3163063) — NOT keyword evidence |
-| 2003 ★★ | semantic search engine | Information Retrieval | [Indirect context](https://doi.org/10.63485/zs484-ekb49) — NOT keyword evidence |
-| 2003 ★★ | semantic search engines | Information Retrieval | [Indirect context](https://doi.org/10.63485/zs484-ekb49) — NOT keyword evidence |
-| 2003 ★★ | semi-fragile watermarking | Computer Vision | [Indirect context](https://doi.org/10.1117/12.435398) — NOT keyword evidence |
-| 2003 ★★ | shape recovery | Computer Vision | [Indirect context](https://doi.org/10.1201/9781439824382.ch2) — NOT keyword evidence |
-| 2003 ★★ | Sigmoid Kernel | Machine Learning | [Indirect context](https://doi.org/10.1201/9780203497159.ch18) — NOT keyword evidence |
-| 2003 ★★ | signal denoising | Computer Vision | [Indirect context](https://doi.org/10.1109/oceanse.2007.4302311) — NOT keyword evidence |
-| 2003 ★★ | single-chip | AI Infrastructure | [Indirect context](https://doi.org/10.1109/icpp.2003.1240577) — NOT keyword evidence |
-| 2003 ★★ | smart cards | AI Safety | [Indirect context](https://doi.org/10.1007/978-3-642-98052-7_1) — NOT keyword evidence |
-| 2003 ★★ | smart sensors | AI Foundations | [Indirect context](https://doi.org/10.2514/6.1978-1732) — NOT keyword evidence |
-| 2003 ★★ | software development life cycle | Programming & Software | [Indirect context](https://doi.org/10.1017/cbo9780511624223.004) — NOT keyword evidence |
-| 2003 ★★ | spamming | AI Safety | [Indirect context](https://doi.org/10.1145/357369.357372) — NOT keyword evidence |
-| 2003 ★★ | Sparse Coding | Mathematics | [Indirect context](https://doi.org/10.1007/978-3-031-90200-0_22) — NOT keyword evidence |
-| 2003 ★★ | Sparse Matrix Format | Mathematics | [Indirect context](https://doi.org/10.1007/978-1-4615-8675-3_5) — NOT keyword evidence |
-| 2003 ★★ | Sparse PCA | Machine Learning | [Indirect context](https://doi.org/10.1007/s11063-009-9117-1) — NOT keyword evidence |
-| 2003 ★★ | spectrum sharing | AI Infrastructure | [Indirect context](https://doi.org/10.1109/dyspan.2007.44) — NOT keyword evidence |
-| 2003 ★★ | Spell Correction in Search | Information Retrieval | [Indirect context](https://doi.org/10.1109/dexa.2007.75) — NOT keyword evidence |
-| 2003 ★★ | Stemming in Search | Information Retrieval | [Indirect context](https://doi.org/10.1109/dexa.2007.75) — NOT keyword evidence |
-| 2003 ★★ | Stiefel Manifold | Mathematics | [Indirect context](https://doi.org/10.1007/978-1-4684-9344-3_8) — NOT keyword evidence |
-| 2003 ★★ | svm classification | Machine Learning | [Indirect context](https://doi.org/10.1109/ijcnn.2002.1007516) — NOT keyword evidence |
-| 2003 ★★ | svm model | Machine Learning | [Indirect context](https://doi.org/10.1109/ijcnn.2002.1007516) — NOT keyword evidence |
-| 2003 ★★ | switched ethernet | AI Infrastructure | [Indirect context](https://doi.org/10.1023/a:1023682607475) — NOT keyword evidence |
-| 2003 ★★ | sybil attack | AI Safety | [Indirect context](https://doi.org/10.1007/978-3-540-45146-4_10) — NOT keyword evidence |

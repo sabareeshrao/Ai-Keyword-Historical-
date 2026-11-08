@@ -1,6 +1,6 @@
 # Batch 36/41 — Historical Keywords
 
-**500 keywords**, sorted chronologically (2018 – 2019). The master CSV retains the original permanent IDs.
+**500 keywords**, sorted chronologically (2017 – 2019). The master CSV retains the original permanent IDs.
 
 [All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
@@ -10,6 +10,110 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 2017 ★★ | Independent Learners | Reinforcement Learning | [Indirect context](https://doi.org/10.3138/9781442656963) — NOT keyword evidence |
+| 2017 ★★ | Inductive Bias of Convolution | Deep Learning | [Indirect context](https://doi.org/10.21236/ada074978) — NOT keyword evidence |
+| 2017 ★★ | Inference Colocation | AI Infrastructure | [Indirect context](https://doi.org/10.1109/hipcw66559.2025.00050) — NOT keyword evidence |
+| 2017 ★★ | Instructional Video Learning | Computer Vision | [Indirect context](https://doi.org/10.1109/cvpr.2017.548) — NOT keyword evidence |
+| 2017 ★★ | Janus Problem | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Jeffreys Prior | Mathematics | [Indirect context](https://doi.org/10.1016/0304-4076(88)90025-5) — NOT keyword evidence |
+| 2017 ★★ | Johnson-Lindenstrauss Lemma (JL) | Mathematics | [Indirect context](https://doi.org/10.12732/ijpam.v116i1.15) — NOT keyword evidence |
+| 2017 ★★ | JPEG Artifact Robustness | Computer Vision | [Indirect context](https://doi.org/10.1117/12.263302) — NOT keyword evidence |
+| 2017 ★★ | knowledge graphs engineering | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-3-319-45654-6_6) — NOT keyword evidence |
+| 2017 ★★ | Late Fusion | Deep Learning | [Indirect context](https://doi.org/10.13182/fst96-a11963044) — NOT keyword evidence |
+| 2017 ★★ | Latency Perception | AI Foundations | [Indirect context](https://doi.org/10.1068/p040229) — NOT keyword evidence |
+| 2017 ★★ | Liar's Dividend | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | LiDAR | Robotics | [Indirect context](https://doi.org/10.22364/bjmc.2017.5.4.03) — NOT keyword evidence |
+| 2017 ★★ | LM Evaluation Harness | Datasets & Benchmarks | [Indirect context](https://doi.org/10.7813/2075-4124.2014/6-1/a.21) — NOT keyword evidence |
+| 2017 ★★ | LoRA Rank | Deep Learning | [Indirect context](https://arxiv.org/abs/2106.09685) — NOT keyword evidence |
+| 2017 ★★ | Market Substitution | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Mask-Based Editing | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Maximization Bias | Reinforcement Learning | [Indirect context](https://doi.org/10.3138/9781442656963) — NOT keyword evidence |
+| 2017 ★★ | Maximum Entropy IRL (MaxEnt IRL) | Reinforcement Learning | [Indirect context](https://doi.org/10.3138/9781442656963) — NOT keyword evidence |
+| 2017 ★★ | Mean Reciprocal Rank (MRR) | Information Retrieval | [Indirect context](https://doi.org/10.1145/3018661.3018699) — NOT keyword evidence |
+| 2017 ★★ | Mel Spectrogram Decoder | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Meta AI | People & Organizations | [Indirect context](https://doi.org/10.2139/ssrn.4670639) — NOT keyword evidence |
+| 2017 ★★ | Meta-Analysis | Mathematics | [Indirect context](https://doi.org/10.1109/iccv48922.2021.00765) — NOT keyword evidence |
+| 2017 ★★ | Metric Misalignment | AI Infrastructure | [Indirect context](https://doi.org/10.1609/aaai.v40i26.39359) — NOT keyword evidence |
+| 2017 ★★ | Midjourney | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Multi-Hop Reasoning over Graphs | Graph & Network Learning | [Indirect context](https://doi.org/10.18653/v1/d17-1060) — NOT keyword evidence |
+| 2017 ★★ | Multi-Reference Evaluation | Evaluation & Metrics | [Indirect context](https://doi.org/10.18653/v1/w17-5534) — NOT keyword evidence |
+| 2017 ★★ | Neural computation | AI Foundations | [Indirect context](https://doi.org/10.1016/j.robot.2006.03.003) — NOT keyword evidence |
+| 2017 ★★ | Noise Prediction | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Non-Consensual Imagery | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Non-Saturating Loss | Generative AI | [Indirect context](https://doi.org/10.4218/etrij.2018-0473) — NOT keyword evidence |
+| 2017 ★★ | Noninformative Prior | Mathematics | [Indirect context](https://doi.org/10.1016/0304-4076(88)90025-5) — NOT keyword evidence |
+| 2017 ★★ | NSFW Filter | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Off-Policy Evaluation (OPE) | Recommender Systems | [Indirect context](https://doi.org/10.2139/ssrn.3006737) — NOT keyword evidence |
+| 2017 ★★ | Offline Evaluation of Recommenders | Recommender Systems | [Indirect context](https://doi.org/10.1109/ichis.2005.109) — NOT keyword evidence |
+| 2017 ★★ | Offline Reinforcement Learning | Deep Learning | [Indirect context](https://doi.org/10.1007/978-3-658-28886-0_3) — NOT keyword evidence |
+| 2017 ★★ | Offline RL Dataset | Reinforcement Learning | [Indirect context](https://doi.org/10.3138/9781442656963) — NOT keyword evidence |
+| 2017 ★★ | Online Inference | AI Foundations | [Indirect context](https://doi.org/10.4324/9780203646380-6) — NOT keyword evidence |
+| 2017 ★★ | Output-Level Blocking | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Overfitting to a Level | Reinforcement Learning | [Indirect context](https://doi.org/10.3138/9781442656963) — NOT keyword evidence |
+| 2017 ★★ | Pareto Improvement in Modelling | Machine Learning | [Indirect context](https://doi.org/10.1109/cscn63874.2024.10849728) — NOT keyword evidence |
+| 2017 ★★ | Persuasion Evaluation | AI Safety | [Indirect context](https://doi.org/10.1016/j.athoracsur.2021.12.039) — NOT keyword evidence |
+| 2017 ★★ | Point Cloud Sampling | Computer Vision | [Indirect context](https://doi.org/10.1016/j.comgeo.2016.05.005) — NOT keyword evidence |
+| 2017 ★★ | Pointwise Convolution | Deep Learning | [Indirect context](https://doi.org/10.21236/ada074978) — NOT keyword evidence |
+| 2017 ★★ | Policy Drafting Assistance | AI Applications | [Indirect context](https://doi.org/10.33005/vsj.v1i2.12) — NOT keyword evidence |
+| 2017 ★★ | Policy Taxonomy | AI Applications | [Indirect context](https://doi.org/10.1007/978-0-85729-410-4_25) — NOT keyword evidence |
+| 2017 ★★ | Pose Transfer | Generative AI | [Indirect context](https://doi.org/10.1109/wacvw65960.2025.00020) — NOT keyword evidence |
+| 2017 ★★ | Progressive Rollout | AI Infrastructure | [Indirect context](https://doi.org/10.1109/icsmc.2007.4414200) — NOT keyword evidence |
+| 2017 ★★ | Prompt Sensitivity in Evaluation | Evaluation & Metrics | [Indirect context](https://doi.org/10.18653/v1/w17-5534) — NOT keyword evidence |
+| 2017 ★★ | quality characteristic | Programming & Software | [Indirect context](https://doi.org/10.1071/9780643101456.ch03) — NOT keyword evidence |
+| 2017 ★★ | Quantized Optimizer | Mathematics | [Indirect context](https://arxiv.org/abs/1412.6980) — NOT keyword evidence |
+| 2017 ★★ | Random Network Distillation (RND) | Reinforcement Learning | [Indirect context](https://doi.org/10.3138/9781442656963) — NOT keyword evidence |
+| 2017 ★★ | Rank | AI Foundations | [Indirect context](https://doi.org/10.1021/jasms.3c00363) — NOT keyword evidence |
+| 2017 ★★ | Reality Gap Mitigation | Reinforcement Learning | [Indirect context](https://doi.org/10.3138/9781442656963) — NOT keyword evidence |
+| 2017 ★★ | Regression Detection in Evaluation | Evaluation & Metrics | [Indirect context](https://doi.org/10.18653/v1/w17-5534) — NOT keyword evidence |
+| 2017 ★★ | Replay Buffer for Continual Learning | Machine Learning | [Indirect context](https://doi.org/10.48550/arxiv.1610.05555) — NOT keyword evidence |
+| 2017 ★★ | Reproducible Build | AI Infrastructure | [Indirect context](https://doi.org/10.1101/233544) — NOT keyword evidence |
+| 2017 ★★ | Reproducible Dependency Resolution | Programming & Software | [Indirect context](https://doi.org/10.32614/cran.package.minex) — NOT keyword evidence |
+| 2017 ★★ | Reproducible Environment | Programming & Software | [Indirect context](https://doi.org/10.32614/cran.package.minex) — NOT keyword evidence |
+| 2017 ★★ | Residual Capability | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Residual Vector Quantization for Audio (RVQ) | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Retrieval-Augmented Thought (RAT) | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Right-Sizing Analysis | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0167-4048(96)82609-5) — NOT keyword evidence |
+| 2017 ★★ | Sampled Evaluation | Evaluation & Metrics | [Indirect context](https://doi.org/10.18653/v1/w17-5534) — NOT keyword evidence |
+| 2017 ★★ | Sandbox | Agentic AI | [Indirect context](https://doi.org/10.2139/ssrn.3056993) — NOT keyword evidence |
+| 2017 ★★ | Seamless Tiling | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Seed | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Seed Locking | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Seed Variance in RL | Reinforcement Learning | [Indirect context](https://doi.org/10.3138/9781442656963) — NOT keyword evidence |
+| 2017 ★★ | SHAP | AI Foundations | [Indirect context](https://arxiv.org/abs/1705.07874) — NOT keyword evidence |
+| 2017 ★★ | Skill Discovery | Reinforcement Learning | [Indirect context](https://doi.org/10.3138/9781442656963) — NOT keyword evidence |
+| 2017 ★★ | SLAM | AI Foundations | [Indirect context](https://doi.org/10.1109/iccvw.2017.284) — NOT keyword evidence |
+| 2017 ★★ | Small Model Renaissance | Machine Learning | [Indirect context](https://doi.org/10.1016/b978-0-444-88740-5.50008-6) — NOT keyword evidence |
+| 2017 ★★ | smart transportation | AI Foundations | [Indirect context](https://doi.org/10.1201/9781003482000-7) — NOT keyword evidence |
+| 2017 ★★ | smart transportation solution | AI Foundations | [Indirect context](https://doi.org/10.1201/9781003482000-7) — NOT keyword evidence |
+| 2017 ★★ | smart transportation systems | AI Foundations | [Indirect context](https://doi.org/10.1201/9781003482000-7) — NOT keyword evidence |
+| 2017 ★★ | Sora | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Sparse Mixture of Experts (SMoE) | Deep Learning | [Indirect context](https://doi.org/10.20944/preprints202308.1191.v1) — NOT keyword evidence |
+| 2017 ★★ | Staleness of Model Knowledge | Evaluation & Metrics | [Indirect context](https://doi.org/10.14722/last-x.2026.23016) — NOT keyword evidence |
+| 2017 ★★ | StyleGAN | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Successor Representation (SR) | Reinforcement Learning | [Indirect context](https://doi.org/10.3138/9781442656963) — NOT keyword evidence |
+| 2017 ★★ | Survey Design | Data Science | [Indirect context](https://doi.org/10.1037/e577042012-042) — NOT keyword evidence |
+| 2017 ★★ | Temperature Zero Evaluation | Evaluation & Metrics | [Indirect context](https://doi.org/10.18653/v1/w17-5534) — NOT keyword evidence |
+| 2017 ★★ | Temporal Grounding in Video | Computer Vision | [Indirect context](https://doi.org/10.1109/iccv.2015.362) — NOT keyword evidence |
+| 2017 ★★ | Terminology Enforcement | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Textbook-Quality Data | Machine Learning | [Indirect context](https://doi.org/10.1016/j.ijinfomgt.2017.01.003) — NOT keyword evidence |
+| 2017 ★★ | Time Horizon | Reinforcement Learning | [Indirect context](https://doi.org/10.3138/9781442656963) — NOT keyword evidence |
+| 2017 ★★ | Training Pipeline Automation | AI Infrastructure | [Indirect context](https://doi.org/10.71465/ajbd3444) — NOT keyword evidence |
+| 2017 ★★ | Truthfulness Evaluation | AI Safety | [Indirect context](https://doi.org/10.1016/0191-765x(80)90026-9) — NOT keyword evidence |
+| 2017 ★★ | Unfaithful Explanation | AI Safety | [Indirect context](https://arxiv.org/abs/1705.07874) — NOT keyword evidence |
+| 2017 ★★ | Unsupervised Environment Design (UED) | Reinforcement Learning | [Indirect context](https://doi.org/10.18653/v1/2022.acl-long.557) — NOT keyword evidence |
+| 2017 ★★ | Unsupervised Learning | Machine Learning | [Indirect context](https://doi.org/10.21236/ada630345) — NOT keyword evidence |
+| 2017 ★★ | unsupervised learning method | Machine Learning | [Indirect context](https://doi.org/10.21236/ada630345) — NOT keyword evidence |
+| 2017 ★★ | Uplift Evaluation | AI Safety | [Indirect context](https://doi.org/10.1016/0191-765x(80)90026-9) — NOT keyword evidence |
+| 2017 ★★ | Upscale and Refine | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | usage data | Machine Learning | [Indirect context](https://doi.org/10.1145/3311790.3397341) — NOT keyword evidence |
+| 2017 ★★ | Usage Metering | AI Infrastructure | [Indirect context](https://doi.org/10.1016/j.entcs.2014.01.021) — NOT keyword evidence |
+| 2017 ★★ | Verification Habit Formation | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Video Memory Bank | Computer Vision | [Indirect context](https://doi.org/10.1109/cvpr.2017.548) — NOT keyword evidence |
+| 2017 ★★ | Video Transformer | Computer Vision | [Indirect context](https://doi.org/10.1109/cvpr.2017.548) — NOT keyword evidence |
+| 2017 ★★ | Visual Tokenizer | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Wall-Clock Efficiency | Reinforcement Learning | [Indirect context](https://doi.org/10.3138/9781442656963) — NOT keyword evidence |
+| 2017 ★★ | World Simulation | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2017 ★★ | Zero-Shot Evaluation | Evaluation & Metrics | [Indirect context](https://doi.org/10.18653/v1/w17-5534) — NOT keyword evidence |
 | 2018 | 4E cognition | AI Foundations | [Publication](https://doi.org/10.1093/oxfordhb/9780198735410.013.1) |
 | 2018 | Accuracy of Data | Data Science | [Publication](https://doi.org/10.5194/gi-2018-44-sc1) |
 | 2018 | Activation Quantization | Deep Learning | [Publication](https://doi.org/10.1109/emc2.2018.00009) |
@@ -160,6 +264,13 @@
 | 2018 | Weight Tying | Deep Learning | [Publication](https://doi.org/10.1109/smc.2018.00681) |
 | 2018 | Wide and Deep Model | Recommender Systems | [Publication](https://doi.org/10.1109/access.2018.2868083) |
 | 2018 | Zero-Shot Cross-Lingual Transfer | NLP and LLMs | [Publication](https://doi.org/10.18653/v1/d18-1026) |
+| 2018 ★ | BERT bidirectional contextual pretraining | NLP and LLMs | [Related source](https://arxiv.org/abs/1810.04805) — indirect |
+| 2018 ★ | BERT masked token prediction objective | NLP and LLMs | [Related source](https://arxiv.org/abs/1810.04805) — indirect |
+| 2018 ★ | BERT next sentence prediction objective | NLP and LLMs | [Related source](https://arxiv.org/abs/1810.04805) — indirect |
+| 2018 ★ | BERT segment embedding | NLP and LLMs | [Related source](https://arxiv.org/abs/1810.04805) — indirect |
+| 2018 ★ | BERT sentence pair classification head | NLP and LLMs | [Related source](https://arxiv.org/abs/1810.04805) — indirect |
+| 2018 ★ | BERT token type embedding | NLP and LLMs | [Related source](https://arxiv.org/abs/1810.04805) — indirect |
+| 2018 ★ | BERT WordPiece masking | NLP and LLMs | [Related source](https://arxiv.org/abs/1810.04805) — indirect |
 | 2018 ★ | Delimited Prompt | AI Foundations | [Related source](https://doi.org/10.1016/j.ijar.2018.10.012) — indirect |
 | 2018 ★ | Query Ambiguity Resolution | Information Retrieval | [Related source](https://doi.org/10.30880/ijie.2018.10.06.025) — indirect |
 | 2018 ★★ | Action Item Tracking | AI Infrastructure | [Indirect context](https://doi.org/10.1109/i2itcon69735.2026.11747161) — NOT keyword evidence |
@@ -399,114 +510,3 @@
 | 2019 | cohn-kanade database | Machine Learning | [Publication](https://doi.org/10.1007/978-981-13-6447-1_80) |
 | 2019 | CommonsenseQA | Datasets & Benchmarks | [Publication](https://doi.org/10.18653/v1/n19-1421) |
 | 2019 | Complexity Class NP | Mathematics | [Publication](https://doi.org/10.1007/s00233-018-9990-x) |
-| 2019 | Compositional Generalization | Evaluation & Metrics | [Publication](https://doi.org/10.18653/v1/k19-1009) |
-| 2019 | Conditional Generation | Generative AI | [Publication](https://doi.org/10.1109/iccv.2019.01079) |
-| 2019 | Confusion Matrix | AI Foundations | [Publication](https://doi.org/10.4135/9781529689204) |
-| 2019 | Continuous Evaluation | Evaluation & Metrics | [Publication](https://doi.org/10.31525/ct1-nct03941002) |
-| 2019 | Conversational AI | AI Applications | [Publication](https://doi.org/10.1287/lytx.2019.05.01) |
-| 2019 | Counterfactual Fairness | AI Safety | [Publication](https://doi.org/10.1609/aaai.v33i01.33017801) |
-| 2019 | Credential Stuffing | Security & Privacy | [Publication](https://doi.org/10.1109/sp.2019.00056) |
-| 2019 | Crop Disease Detection | AI Applications | [Publication](https://doi.org/10.5373/jardcs/v11i11/20193176) |
-| 2019 | Cross-Attention | AI Foundations | [Publication](https://doi.org/10.1109/icdar.2019.00052) |
-| 2019 | Cross-Entropy (CE) | AI Foundations | [Publication](https://doi.org/10.1088/1742-6596/1325/1/012120) |
-| 2019 | cuDNN | Tools & Frameworks | [Publication](https://doi.org/10.1109/access.2019.2918851) |
-| 2019 | data detection | Speech & Audio | [Publication](https://doi.org/10.26524/cm53) |
-| 2019 | Data Storytelling | Data Science | [Publication](https://doi.org/10.1287/lytx.2017.04.05) |
-| 2019 | decoding performance | Mathematics | [Publication](https://doi.org/10.1109/isit.2019.8849803) |
-| 2019 | deep reinforcement learning | Deep Learning | [Publication](https://doi.org/10.1007/978-3-658-28886-0_3) |
-| 2019 | DeepAR | Time Series & Forecasting | [Publication](https://doi.org/10.1109/infcomw.2019.8845240) |
-| 2019 | Dense Reward | Reinforcement Learning | [Publication](https://doi.org/10.1016/j.neucom.2019.06.024) |
-| 2019 | Depthwise Separable Convolution | Deep Learning | [Publication](https://doi.org/10.1109/iecon.2019.8927491) |
-| 2019 | Detective Control | AI Infrastructure | [Publication](https://doi.org/10.1049/pbcs067e_ch2) |
-| 2019 | Diachronic Embedding | NLP and LLMs | [Publication](https://doi.org/10.18653/v1/w19-4715) |
-| 2019 | Diagnostic Analytics | Data Science | [Publication](https://doi.org/10.2118/195014-ms) |
-| 2019 | Diffusion for Graphs | Graph & Network Learning | [Publication](https://doi.org/10.1017/s0004972719001102) |
-| 2019 | Distributed Tracing | AI Infrastructure | [Publication](https://doi.org/10.1109/cloudcom.2019.00039) |
-| 2019 | DL Boost | AI Foundations | [Publication](https://doi.org/10.1109/icetet-sip-1946815.2019.9092041) |
-| 2019 | Downranking | Generative AI | [Publication](https://doi.org/10.31234/osf.io/z3s5k) |
-| 2019 | Drivable Area Segmentation | Computer Vision | [Publication](https://doi.org/10.1109/robio49542.2019.8961686) |
-| 2019 | EfficientNet | Computer Vision | [Publication](https://arxiv.org/abs/1905.11946) |
-| 2019 | Elbow Method | Machine Learning | [Publication](https://doi.org/10.5220/0009908402340240) |
-| 2019 | Elementary Row Operation | Mathematics | [Publication](https://doi.org/10.1109/qir.2019.8898284) |
-| 2019 | encoding time | Computer Vision | [Publication](https://doi.org/10.1007/978-3-030-25927-3_4) |
-| 2019 | Equalized Odds | AI Safety | [Publication](https://doi.org/10.1145/3306618.3314290) |
-| 2019 | Ethics Washing | AI Safety | [Publication](https://doi.org/10.1515/9789048550180-016) |
-| 2019 | Face Enhancement | Generative AI | [Publication](https://doi.org/10.1109/icb45273.2019.8987344) |
-| 2019 | Fine-Grained Classification | Computer Vision | [Publication](https://doi.org/10.3390/sym11081033) |
-| 2019 | Forward-Mode Differentiation | Mathematics | [Publication](https://doi.org/10.1021/acsphotonics.9b01238) |
-| 2019 | Gender Bias in Translation | NLP and LLMs | [Publication](https://doi.org/10.18653/v1/w19-3824) |
-| 2019 | Generative Model | Generative AI | [Publication](https://doi.org/10.31274/cc-20240624-36) |
-| 2019 | GPT-2 | NLP and LLMs | [Publication](https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf) |
-| 2019 | Grammatical Error Correction (GEC) | NLP and LLMs | [Publication](https://doi.org/10.5120/ijca2019919275) |
-| 2019 | Graph Pooling | Graph & Network Learning | [Publication](https://doi.org/10.1145/3308558.3313395) |
-| 2019 | Graph Transformer | Graph & Network Learning | [Publication](https://doi.org/10.26434/chemrxiv.8214422.v1) |
-| 2019 | Grounded Response Generation | NLP and LLMs | [Publication](https://doi.org/10.18653/v1/w19-5917) |
-| 2019 | Hard Swish | Deep Learning | [Publication](https://doi.org/10.5220/0007469604130420) |
-| 2019 | Hashing Trick | Machine Learning | [Publication](https://doi.org/10.1080/08839514.2019.1630961) |
-| 2019 | Haversine Distance | Machine Learning | [Publication](https://doi.org/10.1109/pimrc.2019.8904289) |
-| 2019 | Heterogeneous Graph | AI Foundations | [Publication](https://doi.org/10.1109/empdp.2019.8671605) |
-| 2019 | Human-AI Team Performance | Science & Healthcare AI | [Publication](https://doi.org/10.1609/hcomp.v7i1.5285) |
-| 2019 | ICD Code | Science & Healthcare AI | [Publication](https://doi.org/10.1109/bibm47256.2019.8983078) |
-| 2019 | IJCAI | People & Organizations | [Publication](https://doi.org/10.31449/inf.v43i3.2945) |
-| 2019 | Image-to-Image Translation | Generative AI | [Publication](https://doi.org/10.1109/icip.2019.8803082) |
-| 2019 | In-Memory Computing | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-030-18026-3_4) |
-| 2019 | Inference Cost | AI Foundations | [Publication](https://doi.org/10.1109/iccv.2019.00196) |
-| 2019 | Infrastructure as code (IaC) | AI Foundations | [Publication](https://doi.org/10.21275/sr24829170834) |
-| 2019 | Instance Segmentation | AI Foundations | [Publication](https://doi.org/10.1109/ivs.2019.8814026) |
-| 2019 | integrated networks | AI Infrastructure | [Publication](https://doi.org/10.1109/spin.2019.8711790) |
-| 2019 | Inverse Kinematics (IK) | AI Foundations | [Publication](https://doi.org/10.3844/jmrsp.2019.542.551) |
-| 2019 | Jukebox | Deep Learning | [Publication](https://doi.org/10.36019/9780813586366-002) |
-| 2019 | JupyterLab | Tools & Frameworks | [Publication](https://doi.org/10.1007/978-1-4842-4470-8_6) |
-| 2019 | k-means method | Machine Learning | [Publication](https://doi.org/10.31227/osf.io/9skeb) |
-| 2019 | Keras | AI Infrastructure | [Publication](https://doi.org/10.1002/9781119564843.ch4) |
-| 2019 | Knowledge Graph Construction | AI Foundations | [Publication](https://doi.org/10.1007/978-3-030-12375-8) |
-| 2019 | Knowledge Localization | Machine Learning | [Publication](https://doi.org/10.2139/ssrn.3473138) |
-| 2019 | Kubeflow | Tools & Frameworks | [Publication](https://doi.org/10.1007/978-1-4842-4470-8_46) |
-| 2019 | Latent Direction | Generative AI | [Publication](https://doi.org/10.1016/j.ins.2018.09.032) |
-| 2019 | Launch Checklist | AI Infrastructure | [Publication](https://doi.org/10.1201/9780429135941-19) |
-| 2019 | Length Extrapolation | Deep Learning | [Publication](https://doi.org/10.1249/mss.0000000000002123) |
-| 2019 | Linear Mode Connectivity | Mathematics | [Publication](https://doi.org/10.48550/arxiv.1912.05671) |
-| 2019 | Livestock Monitoring | AI Applications | [Publication](https://doi.org/10.1007/978-3-030-33487-1_2) |
-| 2019 | masked language modeling | NLP and LLMs | [Publication](https://doi.org/10.18653/v1/w19-3811) |
-| 2019 | MBPP | Datasets & Benchmarks | [Publication](https://doi.org/10.1109/ccdc.2019.8832471) |
-| 2019 | Membership Inference Attack | Security & Privacy | [Publication](https://doi.org/10.1109/cmi48017.2019.8962136) |
-| 2019 | Mixed-Precision Quantization | Deep Learning | [Publication](https://doi.org/10.1109/vcip47243.2019.8965724) |
-| 2019 | Modality Encoder | Deep Learning | [Publication](https://doi.org/10.18653/v1/d19-1514) |
-| 2019 | Model Recall | AI Safety | [Publication](https://doi.org/10.1109/smc.2019.8914269) |
-| 2019 | Model Stealing | AI Foundations | [Publication](https://doi.org/10.1109/spw.2019.00020) |
-| 2019 | multiple linear regression models | Mathematics | [Publication](https://doi.org/10.4324/9780429024429-3) |
-| 2019 | MuZero | Reinforcement Learning | [Publication](https://arxiv.org/abs/1911.08265) |
-| 2019 | Negative Sampling for Recommendation | Recommender Systems | [Publication](https://doi.org/10.24963/ijcai.2019/309) |
-| 2019 | Neighborhood Aggregation | Graph & Network Learning | [Publication](https://doi.org/10.24963/ijcai.2019/347) |
-| 2019 | nonlinear manifolds | Machine Learning | [Publication](https://doi.org/10.1115/1.4043450) |
-| 2019 | object detection algorithms | Computer Vision | [Publication](https://doi.org/10.5220/0007401600002108) |
-| 2019 | object pose | Robotics | [Publication](https://doi.org/10.5220/0007933105410549) |
-| 2019 | OECD AI Principles | AI Safety | [Publication](https://doi.org/10.1787/d62f618a-en) |
-| 2019 | Off-Policy Correction | Reinforcement Learning | [Publication](https://doi.org/10.1145/3289600.3290999) |
-| 2019 | One-Stage Detector | Computer Vision | [Publication](https://doi.org/10.1109/iccc47050.2019.9064036) |
-| 2019 | Online Distillation | Deep Learning | [Publication](https://doi.org/10.3390/e21040357) |
-| 2019 | ONNX | AI Infrastructure | [Publication](https://doi.org/10.1109/aicas.2019.8771510) |
-| 2019 | OpenAI | AI Foundations | [Publication](https://doi.org/10.1007/978-1-4842-5127-0_5) |
-| 2019 | OpenID Connect (OIDC) | Security & Privacy | [Publication](https://doi.org/10.1007/978-1-4842-2050-4_6) |
-| 2019 | OpenVINO | Tools & Frameworks | [Publication](https://doi.org/10.1007/978-3-030-37334-4_2) |
-| 2019 | Opt-Out Mechanism | Generative AI | [Publication](https://doi.org/10.3920/978-90-8686-892-6_12) |
-| 2019 | Outpainting | Generative AI | [Publication](https://doi.org/10.1109/eitce47263.2019.9094870) |
-| 2019 | Panoptic Segmentation | Computer Vision | [Publication](https://doi.org/10.1109/cvpr.2019.00963) |
-| 2019 | Parameter Offloading | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-030-34914-1_2) |
-| 2019 | PCIe | AI Infrastructure | [Publication](https://doi.org/10.5220/0007576902610268) |
-| 2019 | Pinned Memory | AI Infrastructure | [Publication](https://doi.org/10.1109/intercon.2019.8853624) |
-| 2019 | Pipeline Bubble | AI Infrastructure | [Publication](https://openalex.org/W3153603297) |
-| 2019 | Population Health Analytics | Science & Healthcare AI | [Publication](https://doi.org/10.1001/jamaophthalmol.2019.0410) |
-| 2019 | Positional Encoding | AI Foundations | [Publication](https://doi.org/10.18653/v1/n19-1401) |
-| 2019 | precoder | AI Infrastructure | [Publication](https://doi.org/10.1109/globecom38437.2019.9013126) |
-| 2019 | Predicate Pushdown | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4842-5461-5_4) |
-| 2019 | Progressive Growing | Generative AI | [Publication](https://doi.org/10.1109/icassp.2019.8683262) |
-| 2019 | PySpark | Tools & Frameworks | [Publication](https://doi.org/10.1007/978-1-4842-4961-1_8) |
-| 2019 | PyTorch | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4842-4258-2_7) |
-| 2019 | Quantum Approximate Optimization Algorithm (QAOA) | Quantum & Emerging Compute | [Publication](https://openalex.org/W4289730035) |
-| 2019 | Quantum-Inspired Algorithm | Quantum & Emerging Compute | [Publication](https://doi.org/10.1007/s42484-019-00009-2) |
-| 2019 | Query Embedding | Graph & Network Learning | [Publication](https://doi.org/10.1145/3357384.3358066) |
-| 2019 | Recursive Feature Elimination (RFE) | Machine Learning | [Publication](https://doi.org/10.1109/icitisee48480.2019.9004001) |
-| 2019 | Referring Expression Comprehension | Computer Vision | [Publication](https://doi.org/10.1109/iccv.2019.00474) |
-| 2019 | Reinforcement Learning (RL) | Reinforcement Learning | [Publication](https://doi.org/10.2139/ssrn.3391216) |
-| 2019 | Representational Harm | AI Safety | [Publication](https://doi.org/10.1137/1.9781611975673.90) |

@@ -1,6 +1,6 @@
 # Batch 02/41 — Historical Keywords
 
-**500 keywords**, sorted chronologically (1957 – 1965). The master CSV retains the original permanent IDs.
+**500 keywords**, sorted chronologically (1956 – 1965). The master CSV retains the original permanent IDs.
 
 [All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
@@ -10,6 +10,37 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 1956 | m-matrix | Robotics | [Publication](https://doi.org/10.1017/s0013091500021507) |
+| 1956 | microwave antennas | Speech & Audio | [Publication](https://doi.org/10.1109/tap.1956.1144447) |
+| 1956 | noisy environment | Speech & Audio | [Publication](https://doi.org/10.1037/e413832004-001) |
+| 1956 | nuclear physics | Speech & Audio | [Publication](https://doi.org/10.1016/0029-5582(56)90099-2) |
+| 1956 | Path Tracing | Computer Graphics | [Publication](https://doi.org/10.1049/jiee-3.1956.0044) |
+| 1956 | pin diode | Speech & Audio | [Publication](https://doi.org/10.1002/j.1538-7305.1956.tb02396.x) |
+| 1956 | programming model | AI Infrastructure | [Publication](https://doi.org/10.2307/1911630) |
+| 1956 | relay stations | AI Infrastructure | [Publication](https://doi.org/10.1111/j.0033-0124.1956.82_82_2.x) |
+| 1956 | Sample Space | Mathematics | [Publication](https://doi.org/10.1037/13191-001) |
+| 1956 | scattered field | Computer Vision | [Publication](https://doi.org/10.1109/iretap.1956.6366302) |
+| 1956 | signal theory | Speech & Audio | [Publication](https://doi.org/10.1109/tct.1956.1086321) |
+| 1956 | Surface Integral | Mathematics | [Publication](https://doi.org/10.21136/cmj.1956.100219) |
+| 1956 | Transfer Scaling | Machine Learning | [Publication](https://doi.org/10.6028/nbs.rpt.4854) |
+| 1956 | typification | Machine Learning | [Publication](https://doi.org/10.1002/j.1996-8175.1956.tb02668.x) |
+| 1957 | air traffic controller | Robotics | [Publication](https://doi.org/10.1037/e422022004-001) |
+| 1957 | analog differential analyzers | AI Foundations | [Publication](https://doi.org/10.1109/tec.1957.5221575) |
+| 1957 | audio applications | Speech & Audio | [Publication](https://doi.org/10.1109/tau.1957.1165989) |
+| 1957 | bandwidth compression | AI Infrastructure | [Publication](https://doi.org/10.1049/jiee-3.1957.0172) |
+| 1957 | Beam Width | Mathematics | [Publication](https://doi.org/10.1038/180496a0) |
+| 1957 | Binomial Coefficient | Mathematics | [Publication](https://doi.org/10.4153/cjm-1957-043-6) |
+| 1957 | character recognition system | Machine Learning | [Publication](https://doi.org/10.1109/tec.1957.5222035) |
+| 1957 | Cocktail Party Effect | Cognitive Science | [Publication](https://doi.org/10.1121/1.1919140) |
+| 1957 | Extraction Rate | Machine Learning | [Publication](https://doi.org/10.1252/kakoronbunshu1953.21.188) |
+| 1957 | flip flop circuits | AI Infrastructure | [Publication](https://doi.org/10.1109/isscc.1957.1183969) |
+| 1957 | freight transportation | Mathematics | [Publication](https://doi.org/10.4159/harvard.9780674499171.c12) |
+| 1957 | image transmission | Computer Vision | [Publication](https://doi.org/10.1364/josa.47.000499) |
+| 1957 | John von Neumann | People & Organizations | [Publication](https://doi.org/10.1080/00963402.1957.11457538) |
+| 1957 | Logistic Function | Mathematics | [Publication](https://doi.org/10.2307/3001900) |
+| 1957 | optical pumping | AI Infrastructure | [Publication](https://doi.org/10.1103/physrev.108.1453) |
+| 1957 | Orthonormal Basis | Mathematics | [Publication](https://doi.org/10.1109/tct.1957.1086391) |
+| 1957 | passive networks | AI Infrastructure | [Publication](https://openalex.org/W3006979016) |
 | 1957 | permittivity measurement | Speech & Audio | [Publication](https://doi.org/10.1049/jiee-3.1957.0142) |
 | 1957 | Perron-Frobenius Theorem | Mathematics | [Publication](https://doi.org/10.1307/mmj/1028990177) |
 | 1957 | random number generators | AI Safety | [Publication](https://doi.org/10.2172/4314554) |
@@ -48,6 +79,13 @@
 | 1958 | speech analysis | Speech & Audio | [Publication](https://doi.org/10.1177/002383095800100105) |
 | 1958 | spur gears | Machine Learning | [Publication](https://doi.org/10.1243/pime_proc_1958_172_017_02) |
 | 1958 | vocal-tracts | Speech & Audio | [Publication](https://doi.org/10.1121/1.1930011) |
+| 1958 ★ | Perceptron association unit | Deep Learning | [Related source](https://doi.org/10.1037/h0042519) — indirect |
+| 1958 ★ | Perceptron probabilistic model | Deep Learning | [Related source](https://doi.org/10.1037/h0042519) — indirect |
+| 1958 ★ | Perceptron reinforcement system | Deep Learning | [Related source](https://doi.org/10.1037/h0042519) — indirect |
+| 1958 ★ | Perceptron response unit | Deep Learning | [Related source](https://doi.org/10.1037/h0042519) — indirect |
+| 1958 ★ | Perceptron stimulus unit | Deep Learning | [Related source](https://doi.org/10.1037/h0042519) — indirect |
+| 1958 ★ | Rosenblatt Mark I Perceptron | Deep Learning | [Related source](https://doi.org/10.1037/h0042519) — indirect |
+| 1958 ★ | Rosenblatt perceptron architecture | Deep Learning | [Related source](https://doi.org/10.1037/h0042519) — indirect |
 | 1958 ★★ | active noise control | Speech & Audio | [Indirect context](https://doi.org/10.3397/1.2831947) — NOT keyword evidence |
 | 1958 ★★ | noise conditions | Speech & Audio | [Indirect context](https://doi.org/10.21236/ad0018260) — NOT keyword evidence |
 | 1958 ★★ | noise robustness | Speech & Audio | [Indirect context](https://doi.org/10.21236/ad0018260) — NOT keyword evidence |
@@ -472,41 +510,3 @@
 | 1965 | electromagnetic pulse | Speech & Audio | [Publication](https://doi.org/10.1109/isemc.1965.7565309) |
 | 1965 | Embedding | Deep Learning | [Publication](https://doi.org/10.1093/oxfordjournals.jmicro.a049492) |
 | 1965 | Envelope Detection | Signal & Information Theory | [Publication](https://doi.org/10.1049/el:19650116) |
-| 1965 | failure detector | AI Infrastructure | [Publication](https://doi.org/10.2172/4558281) |
-| 1965 | Foundation Model | AI Foundations | [Publication](https://doi.org/10.1007/bf01174308) |
-| 1965 | frame differences | Computer Vision | [Publication](https://doi.org/10.1109/proc.1965.4508) |
-| 1965 | Fuzzy sets | AI Foundations | [Publication](https://doi.org/10.1016/S0019-9958(65)90241-X) |
-| 1965 | glacial refugia | Machine Learning | [Publication](https://doi.org/10.1098/rspb.1965.0004) |
-| 1965 | glass ceramics | AI Infrastructure | [Publication](https://doi.org/10.1007/bf00677209) |
-| 1965 | group learning | AI Infrastructure | [Publication](https://doi.org/10.58837/chula.taic.4096) |
-| 1965 | gyroscope | AI Infrastructure | [Publication](https://doi.org/10.1126/science.149.3685.713) |
-| 1965 | High-Pass Filter | Signal & Information Theory | [Publication](https://doi.org/10.1080/09747338.1965.11467836) |
-| 1965 | Highway Network | AI Foundations | [Publication](https://doi.org/10.1038/207811c0) |
-| 1965 | human chromosome | Data Science | [Publication](https://doi.org/10.1016/c2013-0-12441-5) |
-| 1965 | Immutability | Programming & Software | [Publication](https://doi.org/10.1007/978-94-011-9447-1_2) |
-| 1965 | Improper Prior | Mathematics | [Publication](https://doi.org/10.1007/978-3-642-99884-3_13) |
-| 1965 | interfering signals | Speech & Audio | [Publication](https://doi.org/10.1109/tit.1965.1053716) |
-| 1965 | Invariance | Mathematics | [Publication](https://doi.org/10.1515/9781400877874-009) |
-| 1965 | jacobian matrix | Robotics | [Publication](https://doi.org/10.1007/bf01360282) |
-| 1965 | knapsack problem | Mathematics | [Publication](https://doi.org/10.21236/ad0610380) |
-| 1965 | Labour Displacement | AI Safety | [Publication](https://doi.org/10.2307/2520664) |
-| 1965 | Laplacian Operator | Mathematics | [Publication](https://doi.org/10.1215/kjm/1250524602) |
-| 1965 | Lateral Movement | Security & Privacy | [Publication](https://doi.org/10.4095/121427) |
-| 1965 | linear integrated circuits | AI Infrastructure | [Publication](https://doi.org/10.1109/isscc.1965.1157586) |
-| 1965 | Lip Sync | Speech & Audio | [Publication](https://doi.org/10.5594/j05962) |
-| 1965 | longitudinal control | Robotics | [Publication](https://doi.org/10.2514/6.1965-784) |
-| 1965 | maximum likelihood analysis | Mathematics | [Publication](https://doi.org/10.21236/ad0620026) |
-| 1965 | mechanical design | Robotics | [Publication](https://doi.org/10.1115/1.3625863) |
-| 1965 | Mel Scale | Signal & Information Theory | [Publication](https://doi.org/10.2307/843164) |
-| 1965 | Minimal Pair | Evaluation & Metrics | [Publication](https://doi.org/10.1515/9780824891480) |
-| 1965 | motion analysis | Computer Vision | [Publication](https://doi.org/10.21236/ad0617354) |
-| 1965 | Multigraph | Mathematics | [Publication](https://doi.org/10.1007/bf01885700) |
-| 1965 | Operating Point | Evaluation & Metrics | [Publication](https://doi.org/10.1007/978-1-349-81804-4_7) |
-| 1965 | Operational Readiness | AI Foundations | [Publication](https://doi.org/10.2514/6.1965-392) |
-| 1965 | Outer Product | Mathematics | [Publication](https://doi.org/10.1090/s0002-9947-1965-0186687-3) |
-| 1965 | Partition Function | Machine Learning | [Publication](https://doi.org/10.1063/1.1697046) |
-| 1965 | Perplexity | AI Foundations | [Publication](https://doi.org/10.2307/3326432) |
-| 1965 | pneumatic control | Robotics | [Publication](https://doi.org/10.1016/c2013-0-07981-9) |
-| 1965 | postfilters | Speech & Audio | [Publication](https://doi.org/10.1109/proc.1965.3937) |
-| 1965 | power supplies | AI Infrastructure | [Publication](https://doi.org/10.2172/4604503) |
-| 1965 | Prior Distribution | AI Foundations | [Publication](https://doi.org/10.1214/aoms/1177699988) |

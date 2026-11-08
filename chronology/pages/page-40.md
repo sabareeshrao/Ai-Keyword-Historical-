@@ -1,6 +1,6 @@
 # Batch 40/41 — Historical Keywords
 
-**500 keywords**, sorted chronologically (2024 – 2026). The master CSV retains the original permanent IDs.
+**500 keywords**, sorted chronologically (2024 – 2025). The master CSV retains the original permanent IDs.
 
 [All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
@@ -10,6 +10,186 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 2024 | AUC | AI Foundations | [Publication](https://doi.org/10.2210/pdb8s8d/pdb) |
+| 2024 | Autoencoder (AE) | Deep Learning | [Publication](https://doi.org/10.1088/1402-4896/ad20b9) |
+| 2024 | Automatic Prompt Engineering | Agentic AI | [Publication](https://doi.org/10.1109/iri62200.2024.00038) |
+| 2024 | Axis Truncation | Data Science | [Publication](https://doi.org/10.31219/osf.io/zny4j) |
+| 2024 | Bandit Recommendation | Recommender Systems | [Publication](https://doi.org/10.1109/icassp48485.2024.10446562) |
+| 2024 | Bias Audit | AI Safety | [Publication](https://doi.org/10.1080/13600869.2024.2403053) |
+| 2024 | Byte Pair Encoding (BPE) | NLP and LLMs | [Publication](https://doi.org/10.32614/cran.package.rtiktoken) |
+| 2024 | Calibration in Recommendation | Recommender Systems | [Publication](https://doi.org/10.1145/3664190.3672507) |
+| 2024 | cbam | Programming & Software | [Publication](https://doi.org/10.12677/sea.2024.131007) |
+| 2024 | Change Advisory | AI Infrastructure | [Publication](https://doi.org/10.1163/9789004730618_011) |
+| 2024 | Chat Endpoint | AI Infrastructure | [Publication](https://doi.org/10.1007/979-8-8688-0116-7_6) |
+| 2024 | ChatGPT | AI Applications | [Publication](https://doi.org/10.1108/oir-01-2024-0051/v3/review1) |
+| 2024 | Chinchilla Scaling | AI Foundations | [Publication](https://doi.org/10.48550/arxiv.2404.10102) |
+| 2024 | CIFAR-10 | Datasets & Benchmarks | [Publication](https://doi.org/10.1145/3724504.3724579) |
+| 2024 | CIFAR-100 | Datasets & Benchmarks | [Publication](https://doi.org/10.1145/3724504.3724579) |
+| 2024 | Claims Triage | AI Applications | [Publication](https://doi.org/10.1080/01621459.2024.2308314) |
+| 2024 | Code Llama | Deep Learning | [Publication](https://doi.org/10.1109/csr61664.2024.10679444) |
+| 2024 | Compute-Optimal Training | Deep Learning | [Publication](https://doi.org/10.52202/079017-2427) |
+| 2024 | Content Credentials | Generative AI | [Publication](https://doi.org/10.1109/mspec.2024.10380467) |
+| 2024 | Contrastive Decoding | Deep Learning | [Publication](https://doi.org/10.18653/v1/2024.acl-short.5) |
+| 2024 | cps | Programming & Software | [Publication](https://doi.org/10.51420/report.2024.4) |
+| 2024 | CrewAI | Tools & Frameworks | [Publication](https://doi.org/10.36548/jtcsst.2024.4.002) |
+| 2024 | Cross-File Context | Programming & Software | [Publication](https://doi.org/10.63317/55z6pyuui3ij) |
+| 2024 | crypto | AI Infrastructure | [Publication](https://doi.org/10.2139/ssrn.4840892) |
+| 2024 | DALL-E 3 | Deep Learning | [Publication](https://doi.org/10.5040/bci-0kgy.pt1) |
+| 2024 | database images | Machine Learning | [Publication](https://doi.org/10.1920/co.ifs.2024.0068) |
+| 2024 | Dead Feature | Deep Learning | [Publication](https://doi.org/10.1016/j.engappai.2024.109000) |
+| 2024 | Deep Equilibrium Model (DEQ) | Mathematics | [Publication](https://doi.org/10.1049/2024/6666549) |
+| 2024 | Denoising Objective | NLP and LLMs | [Publication](https://doi.org/10.1609/aaai.v38i17.29886) |
+| 2024 | Differentiable Memory | Deep Learning | [Publication](https://doi.org/10.1609/aaai.v38i15.29636) |
+| 2024 | DiffPool | Graph & Network Learning | [Publication](https://doi.org/10.1109/icacrs62842.2024.10841755) |
+| 2024 | Digital Public Infrastructure (DPI) | AI Applications | [Publication](https://doi.org/10.1109/aixb62249.2024.00027) |
+| 2024 | Direct Logit Attribution | Deep Learning | [Publication](https://doi.org/10.18653/v1/2024.blackboxnlp-1.15) |
+| 2024 | Distributionally Robust Loss | Evaluation & Metrics | [Publication](https://doi.org/10.1007/978-3-031-73414-4_24) |
+| 2024 | electric fault location | Computer Vision | [Publication](https://doi.org/10.24084/repqj03.311) |
+| 2024 | electromagnetic wave interference | Speech & Audio | [Publication](https://doi.org/10.1039/d4tc02611j/v1/review2) |
+| 2024 | Embedding Drift | Machine Learning | [Publication](https://doi.org/10.1145/3589335.3651894) |
+| 2024 | Empirical Fisher | Mathematics | [Publication](https://doi.org/10.52202/079017-4264) |
+| 2024 | Encoder | Deep Learning | [Publication](https://doi.org/10.5220/0012829800004547) |
+| 2024 | Encoder-Only Model | Deep Learning | [Publication](https://doi.org/10.1109/colcom62950.2024.10720312) |
+| 2024 | Feature Gate | AI Infrastructure | [Publication](https://doi.org/10.1016/j.patcog.2024.110594) |
+| 2024 | Federated Governance | Data Science | [Publication](https://doi.org/10.20944/preprints202402.0989.v1) |
+| 2024 | Few-Shot Example Selection | Agentic AI | [Publication](https://doi.org/10.18653/v1/2024.findings-acl.602) |
+| 2024 | FineWeb | Datasets & Benchmarks | [Publication](https://doi.org/10.52202/079017-0970) |
+| 2024 | frequency multiplying circuits | Speech & Audio | [Publication](https://doi.org/10.37391/ijeer.120425) |
+| 2024 | Frontier Model Evaluation | AI Safety | [Publication](https://doi.org/10.7249/cfa3429-1) |
+| 2024 | Fundamental Rights Impact Assessment (FRIA) | AI Safety | [Publication](https://doi.org/10.1016/j.clsr.2024.106020) |
+| 2024 | Funnel Plot | Mathematics | [Publication](https://doi.org/10.1302/3114-240634) |
+| 2024 | Gated Access | AI Safety | [Publication](https://doi.org/10.36227/techrxiv.172651054.42141516/v1) |
+| 2024 | generalized likelihood ratio test (glrt) | Speech & Audio | [Publication](https://doi.org/10.1109/tmtt.2023.3349154) |
+| 2024 | Generative AI (GenAI) | Generative AI | [Publication](https://doi.org/10.55057/ajress.2024.6.2.20) |
+| 2024 | Gradient Noise Scale | Mathematics | [Publication](https://doi.org/10.52202/079017-2965) |
+| 2024 | Graph Convolutional Network (GCN) | Graph & Network Learning | [Publication](https://doi.org/10.1109/comnet64071.2024.10987419) |
+| 2024 | GraphRAG | Generative AI | [Publication](https://doi.org/10.25103/jestr.176.01) |
+| 2024 | Green AI | AI Safety | [Publication](https://doi.org/10.4018/979-8-3693-1243-8.ch008) |
+| 2024 | Group-Wise Quantization | Deep Learning | [Publication](https://doi.org/10.1109/tcad.2024.3363073) |
+| 2024 | Grover's Algorithm | Quantum & Emerging Compute | [Publication](https://doi.org/10.17504/protocols.io.e6nvw1wj9lmk/v1) |
+| 2024 | GRU (Gated Recurrent Unit) | Deep Learning | [Publication](https://doi.org/10.1109/iccccm61016.2024.11039812) |
+| 2024 | GUI Grounding | Agentic AI | [Publication](https://doi.org/10.18653/v1/2024.acl-long.505) |
+| 2024 | Hallucination Rate | Evaluation & Metrics | [Publication](https://doi.org/10.52202/079017-0982) |
+| 2024 | Handwriting Variability | NLP and LLMs | [Publication](https://doi.org/10.53555/kuey.v30i1.6283) |
+| 2024 | Human-AI Co-Writing | NLP and LLMs | [Publication](https://doi.org/10.1145/3613904.3641899) |
+| 2024 | Idea Diversity | NLP and LLMs | [Publication](https://doi.org/10.31234/osf.io/yqb29) |
+| 2024 | IFEval | Datasets & Benchmarks | [Publication](https://doi.org/10.60087/jaigs.v5i1.299) |
+| 2024 | ImageNet-1k | Datasets & Benchmarks | [Publication](https://doi.org/10.1109/access.2024.3451373) |
+| 2024 | In-context Learning (ICL) | NLP and LLMs | [Publication](https://doi.org/10.54254/2755-2721/43/20230858) |
+| 2024 | insar | AI Infrastructure | [Publication](https://doi.org/10.1109/tgrs.2024.3520387/v1/review2) |
+| 2024 | Instrumental Convergence | AI Foundations | [Publication](https://doi.org/10.1007/s11098-024-02212-9) |
+| 2024 | InternLM | Deep Learning | [Publication](https://doi.org/10.52202/079017-1348) |
+| 2024 | ISO 42001 | AI Safety | [Publication](https://doi.org/10.31219/osf.io/5ks37) |
+| 2024 | Joy Buolamwini | People & Organizations | [Publication](https://doi.org/10.1109/mspec.2024.10380471) |
+| 2024 | K-Fold Cross-Validation | Machine Learning | [Publication](https://doi.org/10.31219/osf.io/exw3j) |
+| 2024 | key space | AI Infrastructure | [Publication](https://doi.org/10.1089/space.2023.29053.editorial) |
+| 2024 | Kolmogorov-Arnold Network (KAN) | Deep Learning | [Publication](https://doi.org/10.51219/urforum.2024.chad-watson) |
+| 2024 | KV Cache Eviction | AI Infrastructure | [Publication](https://doi.org/10.18653/v1/2024.acl-long.428) |
+| 2024 | KV Cache Quantization | AI Infrastructure | [Publication](https://doi.org/10.1109/mwscas60917.2024.10658840) |
+| 2024 | LangGraph | Tools & Frameworks | [Publication](https://doi.org/10.32388/r27sw4) |
+| 2024 | LlamaIndex | AI Infrastructure | [Publication](https://doi.org/10.5040/bci-0kgx.ch-005) |
+| 2024 | LLM-as-a-Judge | Deep Learning | [Publication](https://doi.org/10.18653/v1/2024.emnlp-main.427) |
+| 2024 | LLMOps | AI Infrastructure | [Publication](https://doi.org/10.32628/cseit241051044) |
+| 2024 | LM Studio | Tools & Frameworks | [Publication](https://doi.org/10.59350/23fth-dy493) |
+| 2024 | Logit Lens | Deep Learning | [Publication](https://doi.org/10.1016/j.ijhm.2023.103652) |
+| 2024 | Logits | AI Foundations | [Publication](https://doi.org/10.32920/26866540.v1) |
+| 2024 | Long-Form Generation | Generative AI | [Publication](https://doi.org/10.18653/v1/2024.findings-naacl.100) |
+| 2024 | Mamba | Deep Learning | [Publication](https://doi.org/10.1101/2024.02.28.581983) |
+| 2024 | Many-Shot Jailbreaking | AI Safety | [Publication](https://doi.org/10.52202/079017-4121) |
+| 2024 | Maximal Update Parameterization | Mathematics | [Publication](https://doi.org/10.52202/079017-1066) |
+| 2024 | Mesh Graph Network | Graph & Network Learning | [Publication](https://doi.org/10.22541/au.171842733.33758216/v1) |
+| 2024 | Missing Modality Robustness | Computer Vision | [Publication](https://doi.org/10.1609/aaai.v38i14.29474) |
+| 2024 | Misuse Risk | AI Safety | [Publication](https://doi.org/10.6028/nist.ai.800-1.ipd) |
+| 2024 | Mixtral | Deep Learning | [Publication](https://doi.org/10.30970/eli.26.2) |
+| 2024 | Mixture of Agents (MoA) | Generative AI | [Publication](https://arxiv.org/abs/2406.04692) |
+| 2024 | Mixture of Depths | Machine Learning | [Publication](https://doi.org/10.1007/978-981-96-0963-5_9) |
+| 2024 | MMMU | Datasets & Benchmarks | [Publication](https://doi.org/10.1109/cvpr52733.2024.00913) |
+| 2024 | Model Router | AI Infrastructure | [Publication](https://doi.org/10.18653/v1/2024.emnlp-industry.34) |
+| 2024 | Model Sharding | AI Infrastructure | [Publication](https://doi.org/10.52202/079017-1968) |
+| 2024 | Multi-Discrete Action | Reinforcement Learning | [Publication](https://doi.org/10.48550/arxiv.2407.01310) |
+| 2024 | Multimodal Large Language Model (MLLM) | Generative AI | [Publication](https://doi.org/10.55571/jicm.2024.03033) |
+| 2024 | Nonconformity Score | Mathematics | [Publication](https://doi.org/10.14445/22312803/ijctt-v72i7p114) |
+| 2024 | Numerical Rank | Mathematics | [Publication](https://doi.org/10.1016/j.laa.2024.01.001) |
+| 2024 | Ollama | Tools & Frameworks | [Publication](https://doi.org/10.32614/cran.package.ollamar) |
+| 2024 | Operational Design Domain (ODD) | Robotics | [Publication](https://doi.org/10.1109/dasc62030.2024.10749586) |
+| 2024 | Optimal Experimental Design (OED) | Mathematics | [Publication](https://doi.org/10.1016/j.ijfoodmicro.2024.110604) |
+| 2024 | Optimism Correction | Mathematics | [Publication](https://doi.org/10.1007/978-3-031-65723-8_7) |
+| 2024 | outage | Speech & Audio | [Publication](https://doi.org/10.1117/12.3049232) |
+| 2024 | PaCMAP | Machine Learning | [Publication](https://doi.org/10.1016/j.heliyon.2023.e23195) |
+| 2024 | Pair Programming with AI | Programming & Software | [Publication](https://doi.org/10.1109/cseet62301.2024.10663037) |
+| 2024 | Partially Homomorphic Encryption (PHE) | Security & Privacy | [Publication](https://doi.org/10.33795/jip.v10i4.5420) |
+| 2024 | Permission Prompt | Agentic AI | [Publication](https://doi.org/10.14722/ndss.2024.24108) |
+| 2024 | PettingZoo | Tools & Frameworks | [Publication](https://doi.org/10.54097/zsfnjk16) |
+| 2024 | physical layer network coding (pnc) | AI Infrastructure | [Publication](https://doi.org/10.1109/idap64064.2024.10710961) |
+| 2024 | Prefill | Deep Learning | [Publication](https://doi.org/10.48550/arxiv.2401.09670) |
+| 2024 | Procedural Content Generation (PCG) | Generative AI | [Publication](https://doi.org/10.3390/computers13110304) |
+| 2024 | programmed control systems | AI Infrastructure | [Publication](https://doi.org/10.15388/infedu.2025.03) |
+| 2024 | Prompt Injection | AI Foundations | [Publication](https://doi.org/10.61608/9783775757027-002) |
+| 2024 | Prompt Iteration | AI Foundations | [Publication](https://doi.org/10.3389/frsps.2024.1383152) |
+| 2024 | Prompt Leakage | AI Foundations | [Publication](https://doi.org/10.18653/v1/2024.emnlp-industry.94) |
+| 2024 | Prompt Marketplace | Generative AI | [Publication](https://doi.org/10.1007/978-3-031-60260-3_22) |
+| 2024 | Prompt Optimization | Agentic AI | [Publication](https://doi.org/10.18653/v1/2024.findings-emnlp.37) |
+| 2024 | Prompt Token | AI Infrastructure | [Publication](https://doi.org/10.1145/3664647.3680857) |
+| 2024 | Prompt Weighting | Generative AI | [Publication](https://doi.org/10.5040/bci-0kgs.ch10) |
+| 2024 | Promptable Segmentation | Computer Vision | [Publication](https://doi.org/10.1111/2041-210x.70057/v1/review2) |
+| 2024 | Protein Language Model (PLM) | Deep Learning | [Publication](https://doi.org/10.1101/2024.10.09.617427) |
+| 2024 | Provider-Side Fairness | Recommender Systems | [Publication](https://doi.org/10.1007/978-3-031-56069-9_7) |
+| 2024 | psychology computing | AI Foundations | [Publication](https://doi.org/10.1038/s44271-024-00064-x) |
+| 2024 | QLoRA | Deep Learning | [Publication](https://doi.org/10.1109/access.2024.3470850) |
+| 2024 | quality of transmission | Mathematics | [Publication](https://doi.org/10.36227/techrxiv.171340665.50082312/v1) |
+| 2024 | Quantum Feature Map | Quantum & Emerging Compute | [Publication](https://doi.org/10.1007/s42484-024-00177-w) |
+| 2024 | Quantum Kernel Method | Quantum & Emerging Compute | [Publication](https://doi.org/10.1103/physreva.110.022404) |
+| 2024 | Query Autocomplete | NLP and LLMs | [Publication](https://doi.org/10.18653/v1/2024.emnlp-industry.78) |
+| 2024 | Ranking Stage | Recommender Systems | [Publication](https://doi.org/10.1007/978-981-97-2581-6_5) |
+| 2024 | Readiness Probe | AI Infrastructure | [Publication](https://doi.org/10.21275/sr24820065625) |
+| 2024 | Real-Time Translation | AI Applications | [Publication](https://doi.org/10.5220/0012691400003693) |
+| 2024 | Recaptioning | Generative AI | [Publication](https://doi.org/10.1515/phhumyb-2024-0012) |
+| 2024 | RedPajama | Datasets & Benchmarks | [Publication](https://doi.org/10.52202/079017-3697) |
+| 2024 | Reinforcement Learning from AI Feedback (RLAIF) | NLP and LLMs | [Publication](https://doi.org/10.1109/naecon61878.2024.10670346) |
+| 2024 | Reinforcement Learning from Human Feedback (RLHF) | NLP and LLMs | [Publication](https://doi.org/10.1515/9783111425078-007) |
+| 2024 | reinforcement learning with human feedback | Reinforcement Learning | [Publication](https://doi.org/10.52783/jes.1363) |
+| 2024 | relieff | Machine Learning | [Publication](https://doi.org/10.1109/iciics63763.2024.10860188) |
+| 2024 | Remediation Prioritization | AI Infrastructure | [Publication](https://doi.org/10.1080/19475705.2024.2393687) |
+| 2024 | Replay Ratio | Reinforcement Learning | [Publication](https://doi.org/10.1109/cog60054.2024.10645658) |
+| 2024 | Response-Based Distillation | Deep Learning | [Publication](https://doi.org/10.2139/ssrn.4952324) |
+| 2024 | Reward Model Overoptimization | Deep Learning | [Publication](https://doi.org/10.52202/079017-4009) |
+| 2024 | Rich Caruana | People & Organizations | [Publication](https://doi.org/10.18043/001c.120567) |
+| 2024 | RWKV | Deep Learning | [Publication](https://doi.org/10.20944/preprints202412.1705.v1) |
+| 2024 | Scalable Oversight | AI Foundations | [Publication](https://doi.org/10.52202/079017-2395) |
+| 2024 | Score-Based Causal Discovery | Causal Inference | [Publication](https://doi.org/10.1007/978-981-96-0573-6_13) |
+| 2024 | Self-Improvement Loop | Machine Learning | [Publication](https://doi.org/10.1109/cscn63874.2024.10849728) |
+| 2024 | Self-RAG | Machine Learning | [Publication](https://doi.org/10.36930/conf150.5.21) |
+| 2024 | Semantic Role Labeling (SRL) | NLP and LLMs | [Publication](https://doi.org/10.69722/1694-8211-2024-59-278-284) |
+| 2024 | SGLang | Tools & Frameworks | [Publication](https://doi.org/10.52202/079017-2000) |
+| 2024 | Shadow AI | AI Foundations | [Publication](https://doi.org/10.1093/itnow/bwae054) |
+| 2024 | Simplicial Complex Learning | Graph & Network Learning | [Publication](https://doi.org/10.23919/eusipco63174.2024.10715366) |
+| 2024 | Small Cell Suppression | Data Science | [Publication](https://doi.org/10.1214/24-aoas1910) |
+| 2024 | smart transportation solutions | AI Foundations | [Publication](https://doi.org/10.1201/9781003482000-7) |
+| 2024 | software architecture assessment | Programming & Software | [Publication](https://doi.org/10.1007/978-3-031-70797-1_16) |
+| 2024 | Span | Mathematics | [Publication](https://doi.org/10.2139/ssrn.4902470) |
+| 2024 | sparse transformer models | Deep Learning | [Publication](https://doi.org/10.1145/3665314.3670818) |
+| 2024 | Squeeze-and-Excitation (SE) | Deep Learning | [Publication](https://doi.org/10.12720/jait.15.5.565-571) |
+| 2024 | Stable Diffusion | Generative AI | [Publication](https://doi.org/10.59350/mgg3m-8sc78) |
+| 2024 | Step Attribution | Agentic AI | [Publication](https://doi.org/10.2172/3006524) |
+| 2024 | Structured Logging | AI Infrastructure | [Publication](https://doi.org/10.30632/spwla-2024-0100) |
+| 2024 | Subgraph GNN | Graph & Network Learning | [Publication](https://doi.org/10.1145/3637528.3671731) |
+| 2024 | Supervised Fine-Tuning (SFT) | Deep Learning | [Publication](https://doi.org/10.6109/jkiice.2024.28.3.267) |
+| 2024 | Surrogate Key | Data Science | [Publication](https://doi.org/10.13052/jwe1540-9589.2334) |
+| 2024 | SWE-agent | Agentic AI | [Publication](https://arxiv.org/abs/2405.15793) |
+| 2024 | swrl | Information Retrieval | [Publication](https://doi.org/10.33395/sinkron.v8i3.13722) |
+| 2024 | Synthetic-to-Real Transfer | Computer Vision | [Publication](https://doi.org/10.1109/cvpr52733.2024.01914) |
+| 2024 | technology mapping | AI Infrastructure | [Publication](https://doi.org/10.7763/ijet.2024.v16.1251) |
+| 2024 | Terminology Base | AI Applications | [Publication](https://doi.org/10.25136/2409-7543.2024.3.71629) |
+| 2024 | Text-to-Image | Generative AI | [Publication](https://doi.org/10.66331/grzj7244) |
+| 2024 | TextVQA | Datasets & Benchmarks | [Publication](https://doi.org/10.1007/978-981-97-8511-7_17) |
+| 2024 | Time Series Foundation Model | Time Series & Forecasting | [Publication](https://doi.org/10.2139/ssrn.5067015) |
+| 2024 | Token-Based Image Generation | Generative AI | [Publication](https://doi.org/10.1007/978-3-031-72640-8_17) |
+| 2024 | Tokenizer Training | NLP and LLMs | [Publication](https://doi.org/10.18653/v1/2024.emnlp-main.925) |
+| 2024 | Tool Poisoning | Security & Privacy | [Publication](https://doi.org/10.15662/ijeetr.2024.0606036) |
+| 2024 | Traffic Shadowing | AI Infrastructure | [Publication](https://doi.org/10.1145/3646547.3689023) |
+| 2024 | TransE | AI Foundations | [Publication](https://doi.org/10.3390/electronics13163171) |
+| 2024 | Trust Region Constraint | Reinforcement Learning | [Publication](https://doi.org/10.1007/s42405-024-00819-0) |
+| 2024 | Trusted Flagger | AI Safety | [Publication](https://doi.org/10.59704/9460eb2652f47ea8) |
 | 2024 | Typesense | Tools & Frameworks | [Publication](https://doi.org/10.59350/1n1ff-8hw) |
 | 2024 | User Simulation | NLP and LLMs | [Publication](https://doi.org/10.1561/9781638283799) |
 | 2024 | Variable Neighbourhood Search (VNS) | Mathematics | [Publication](https://doi.org/10.2166/wpt.2024.295) |
@@ -21,15 +201,71 @@
 | 2024 | XLM-R | Deep Learning | [Publication](https://doi.org/10.1145/3662739.3672320) |
 | 2024 | Zero-Shot Classification with CLIP | Computer Vision | [Publication](https://doi.org/10.1007/978-3-031-72980-5_27) |
 | 2024 | Zero-Shot Extraction | NLP and LLMs | [Publication](https://doi.org/10.1109/jstars.2024.3392448) |
+| 2024 ★ | Agent conversational policy constraint | Agentic AI | [Related source](https://arxiv.org/abs/2406.12045) — indirect |
+| 2024 ★ | Cached input tokens | AI Infrastructure | [Related source](https://openai.com/index/api-prompt-caching/) — indirect |
+| 2024 ★ | DeepSeekMath mathematical reinforcement learning | NLP and LLMs | [Related source](https://arxiv.org/abs/2402.03300) — indirect |
 | 2024 ★ | Discriminative Learning Rates | Deep Learning | [Related source](https://doi.org/10.1186/s13014-024-02496-5) — indirect |
 | 2024 ★ | Distillation from a Larger Model | Deep Learning | [Related source](https://doi.org/10.31219/osf.io/54p96) — indirect |
 | 2024 ★ | Engagement Optimization Risk | AI Safety | [Related source](https://doi.org/10.1186/s40900-024-00577-z) — indirect |
+| 2024 ★ | GraphRAG community detection | Information Retrieval | [Related source](https://www.microsoft.com/en-us/research/project/graphrag/) — indirect |
+| 2024 ★ | GraphRAG community reports | Information Retrieval | [Related source](https://www.microsoft.com/en-us/research/project/graphrag/) — indirect |
+| 2024 ★ | GraphRAG community summaries | Information Retrieval | [Related source](https://www.microsoft.com/en-us/research/project/graphrag/) — indirect |
+| 2024 ★ | GraphRAG entity extraction | Information Retrieval | [Related source](https://www.microsoft.com/en-us/research/project/graphrag/) — indirect |
+| 2024 ★ | GraphRAG global search | Information Retrieval | [Related source](https://www.microsoft.com/en-us/research/project/graphrag/) — indirect |
+| 2024 ★ | GraphRAG graph indexing | Information Retrieval | [Related source](https://www.microsoft.com/en-us/research/project/graphrag/) — indirect |
+| 2024 ★ | GraphRAG local search | Information Retrieval | [Related source](https://www.microsoft.com/en-us/research/project/graphrag/) — indirect |
+| 2024 ★ | Group Relative Policy Optimization | NLP and LLMs | [Related source](https://arxiv.org/abs/2402.03300) — indirect |
+| 2024 ★ | GRPO actor without critic | NLP and LLMs | [Related source](https://arxiv.org/abs/2402.03300) — indirect |
+| 2024 ★ | GRPO group advantage | NLP and LLMs | [Related source](https://arxiv.org/abs/2402.03300) — indirect |
+| 2024 ★ | GRPO group normalized advantage | NLP and LLMs | [Related source](https://arxiv.org/abs/2402.03300) — indirect |
+| 2024 ★ | GRPO grouped rewards | NLP and LLMs | [Related source](https://arxiv.org/abs/2402.03300) — indirect |
+| 2024 ★ | Kahneman-Tversky Optimization | NLP and LLMs | [Related source](https://arxiv.org/abs/2402.01306) — indirect |
 | 2024 ★ | Knowledge Graph Question Answering (KBQA) | Graph & Network Learning | [Related source](https://doi.org/10.1016/j.eswa.2024.125090) — indirect |
+| 2024 ★ | KTO binary feedback optimization | NLP and LLMs | [Related source](https://arxiv.org/abs/2402.01306) — indirect |
+| 2024 ★ | KTO desirable undesirable labels | NLP and LLMs | [Related source](https://arxiv.org/abs/2402.01306) — indirect |
+| 2024 ★ | KTO prospect theoretic alignment | NLP and LLMs | [Related source](https://arxiv.org/abs/2402.01306) — indirect |
+| 2024 ★ | MCP client | NLP and LLMs | [Related source](https://www.anthropic.com/news/model-context-protocol) — indirect |
+| 2024 ★ | MCP host application | NLP and LLMs | [Related source](https://www.anthropic.com/news/model-context-protocol) — indirect |
+| 2024 ★ | MCP prompt template | NLP and LLMs | [Related source](https://www.anthropic.com/news/model-context-protocol) — indirect |
+| 2024 ★ | MCP resource | NLP and LLMs | [Related source](https://www.anthropic.com/news/model-context-protocol) — indirect |
+| 2024 ★ | MCP resource URI | NLP and LLMs | [Related source](https://www.anthropic.com/news/model-context-protocol) — indirect |
+| 2024 ★ | MCP server | NLP and LLMs | [Related source](https://www.anthropic.com/news/model-context-protocol) — indirect |
+| 2024 ★ | MCP tool definition | NLP and LLMs | [Related source](https://www.anthropic.com/news/model-context-protocol) — indirect |
+| 2024 ★ | MCP tool invocation | NLP and LLMs | [Related source](https://www.anthropic.com/news/model-context-protocol) — indirect |
+| 2024 ★ | MCP transport | NLP and LLMs | [Related source](https://www.anthropic.com/news/model-context-protocol) — indirect |
 | 2024 ★ | Meta-Learner for Causal Effects | Causal Inference | [Related source](https://doi.org/10.1145/3669754.3669826) — indirect |
+| 2024 ★ | Model Context Protocol (MCP) | NLP and LLMs | [Related source](https://www.anthropic.com/news/model-context-protocol) — indirect |
+| 2024 ★ | Model prompt cache hits | AI Infrastructure | [Related source](https://openai.com/index/api-prompt-caching/) — indirect |
 | 2024 ★ | Model Router Training | Machine Learning | [Related source](https://doi.org/10.48550/arxiv.2409.15518) — indirect |
+| 2024 ★ | Odds Ratio Preference Optimization | NLP and LLMs | [Related source](https://arxiv.org/abs/2403.07691) — indirect |
+| 2024 ★ | ORPO monolithic preference alignment | NLP and LLMs | [Related source](https://arxiv.org/abs/2403.07691) — indirect |
+| 2024 ★ | ORPO odds ratio penalty | NLP and LLMs | [Related source](https://arxiv.org/abs/2403.07691) — indirect |
+| 2024 ★ | OSWorld computer-use agents | Agentic AI | [Related source](https://arxiv.org/abs/2404.07972) — indirect |
+| 2024 ★ | OSWorld desktop task evaluator | Agentic AI | [Related source](https://arxiv.org/abs/2404.07972) — indirect |
+| 2024 ★ | OSWorld execution-based evaluation | Agentic AI | [Related source](https://arxiv.org/abs/2404.07972) — indirect |
+| 2024 ★ | OSWorld multimodal agents | Agentic AI | [Related source](https://arxiv.org/abs/2404.07972) — indirect |
+| 2024 ★ | OSWorld real computer benchmark | Agentic AI | [Related source](https://arxiv.org/abs/2404.07972) — indirect |
+| 2024 ★ | OSWorld task initial state | Agentic AI | [Related source](https://arxiv.org/abs/2404.07972) — indirect |
 | 2024 ★ | Post-Training Quantization (PTQ) | Deep Learning | [Related source](https://doi.org/10.1109/cscwd61410.2024.10580660) — indirect |
+| 2024 ★ | Prompt cache eviction | AI Infrastructure | [Related source](https://openai.com/index/api-prompt-caching/) — indirect |
+| 2024 ★ | Prompt caching latency optimization | AI Infrastructure | [Related source](https://openai.com/index/api-prompt-caching/) — indirect |
+| 2024 ★ | Prompt prefix caching | AI Infrastructure | [Related source](https://openai.com/index/api-prompt-caching/) — indirect |
+| 2024 ★ | Reference free ORPO | NLP and LLMs | [Related source](https://arxiv.org/abs/2403.07691) — indirect |
+| 2024 ★ | Reference free SimPO | NLP and LLMs | [Related source](https://arxiv.org/abs/2405.14734) — indirect |
 | 2024 ★ | Retrieval-Augmented Generation 2.0 | Generative AI | [Related source](https://doi.org/10.48550/arxiv.2407.10805) — indirect |
 | 2024 ★ | Script in AI | AI Foundations | [Related source](https://doi.org/10.33153/capture.v15i1.5621) — indirect |
+| 2024 ★ | Simple Preference Optimization | NLP and LLMs | [Related source](https://arxiv.org/abs/2405.14734) — indirect |
+| 2024 ★ | SimPO | NLP and LLMs | [Related source](https://arxiv.org/abs/2405.14734) — indirect |
+| 2024 ★ | SimPO length normalized reward | NLP and LLMs | [Related source](https://arxiv.org/abs/2405.14734) — indirect |
+| 2024 ★ | SimPO target margin | NLP and LLMs | [Related source](https://arxiv.org/abs/2405.14734) — indirect |
+| 2024 ★ | Tau bench | Agentic AI | [Related source](https://arxiv.org/abs/2406.12045) — indirect |
+| 2024 ★ | Tau-bench pass-to-the-k | Agentic AI | [Related source](https://arxiv.org/abs/2406.12045) — indirect |
+| 2024 ★ | TDPO forward KL regularization | NLP and LLMs | [Related source](https://arxiv.org/abs/2404.11999) — indirect |
+| 2024 ★ | Token-level Direct Preference Optimization | NLP and LLMs | [Related source](https://arxiv.org/abs/2404.11999) — indirect |
+| 2024 ★ | Tokenwise DPO regret objective | NLP and LLMs | [Related source](https://arxiv.org/abs/2404.11999) — indirect |
+| 2024 ★ | Tool-agent-user interaction benchmark | Agentic AI | [Related source](https://arxiv.org/abs/2406.12045) — indirect |
+| 2024 ★ | Tool-use database state evaluation | Agentic AI | [Related source](https://arxiv.org/abs/2406.12045) — indirect |
+| 2024 ★ | τ-bench policy following | Agentic AI | [Related source](https://arxiv.org/abs/2406.12045) — indirect |
 | 2024 ★★ | AI in Healthcare | AI Applications | [Indirect context](https://doi.org/10.1002/9781394263752.ch6) — NOT keyword evidence |
 | 2024 ★★ | AlpacaEval | Datasets & Benchmarks | [Indirect context](https://doi.org/10.1109/wi-iat.2015.90) — NOT keyword evidence |
 | 2024 ★★ | AlphaFold | AI Foundations | [Indirect context](https://doi.org/10.1101/2024.10.30.621056) — NOT keyword evidence |
@@ -274,239 +510,3 @@
 | 2025 | Ground Truth Oracle | Agentic AI | [Publication](https://doi.org/10.48149/jciees.2025.5.1.1) |
 | 2025 | Group Relative Policy Optimization (GRPO) | Deep Learning | [Publication](https://doi.org/10.32388/a9q3vc) |
 | 2025 | HNSW | Machine Learning | [Publication](https://doi.org/10.5909/jbe.2025.30.2.159) |
-| 2025 | human visual systems | Computer Vision | [Publication](https://doi.org/10.21203/rs.3.rs-7741220/v1) |
-| 2025 | Hyperparameter Transfer | Machine Learning | [Publication](https://doi.org/10.1609/aaai.v39i19.34243) |
-| 2025 | ICLR | People & Organizations | [Publication](https://doi.org/10.1109/ijcnn64981.2025.11227155) |
-| 2025 | Insecure Default | Programming & Software | [Publication](https://doi.org/10.21275/sr25729122027) |
-| 2025 | Instruction Hierarchy | Agentic AI | [Publication](https://doi.org/10.52202/085713-3287) |
-| 2025 | Iterative Preference Optimization | Deep Learning | [Publication](https://doi.org/10.18653/v1/2025.acl-long.1169) |
-| 2025 | Key Management Service (KMS) | Security & Privacy | [Publication](https://doi.org/10.21428/70cb44c5.8ecb55b2) |
-| 2025 | Lag Feature | Time Series & Forecasting | [Publication](https://doi.org/10.1016/j.energy.2025.137981) |
-| 2025 | Lasso | Machine Learning | [Publication](https://doi.org/10.2139/ssrn.5094339) |
-| 2025 | Legal AI | AI Foundations | [Publication](https://doi.org/10.2139/ssrn.5309725) |
-| 2025 | librosa | Tools & Frameworks | [Publication](https://doi.org/10.63789/icatces.2025.44) |
-| 2025 | LiveCodeBench | Datasets & Benchmarks | [Publication](https://doi.org/10.52202/085713-3502) |
-| 2025 | LLaMA | Generative AI | [Publication](https://doi.org/10.1109/isscc49661.2025.10904761) |
-| 2025 | llama.cpp | Tools & Frameworks | [Publication](https://doi.org/10.1109/dsaa65442.2025.11247985) |
-| 2025 | LMDeploy | Tools & Frameworks | [Publication](https://doi.org/10.48550/arxiv.2508.15601) |
-| 2025 | Load Balancing Loss | Deep Learning | [Publication](https://doi.org/10.18653/v1/2025.acl-long.249) |
-| 2025 | Local Differential Privacy (LDP) | Security & Privacy | [Publication](https://doi.org/10.1007/978-981-96-2647-2_1) |
-| 2025 | Localization Workflow | AI Applications | [Publication](https://doi.org/10.1109/tmi.2024.3456676) |
-| 2025 | Long-Context LLM | Generative AI | [Publication](https://doi.org/10.26434/chemrxiv-2025-925dv-v2) |
-| 2025 | LPDDR Memory | AI Infrastructure | [Publication](https://doi.org/10.1109/emcsipi52291.2025.11170156) |
-| 2025 | malware | AI Infrastructure | [Publication](https://doi.org/10.20944/preprints202511.0141.v1) |
-| 2025 | Mean Absolute Scaled Error (MASE) | Time Series & Forecasting | [Publication](https://doi.org/10.36418/syntax-literate.v10i6.60374) |
-| 2025 | Medical Segmentation Decathlon | Datasets & Benchmarks | [Publication](https://doi.org/10.1117/12.3047076) |
-| 2025 | Min-Max Scaling | Mathematics | [Publication](https://doi.org/10.54082/jiki.288) |
-| 2025 | Mish | Deep Learning | [Publication](https://doi.org/10.31219/osf.io/3249p_v3) |
-| 2025 | MITRE ATLAS | Security & Privacy | [Publication](https://doi.org/10.34190/eccws.24.1.3713) |
-| 2025 | Model Serving | AI Infrastructure | [Publication](https://doi.org/10.2139/ssrn.5256341) |
-| 2025 | Monosemantic Feature | Deep Learning | [Publication](https://doi.org/10.20944/preprints202510.2064.v1) |
-| 2025 | MTEB | Datasets & Benchmarks | [Publication](https://doi.org/10.18653/v1/2025.findings-emnlp.471) |
-| 2025 | Multi-Agent Risk | AI Safety | [Publication](https://doi.org/10.2139/ssrn.5549162) |
-| 2025 | Multi-Document Reasoning | Machine Learning | [Publication](https://doi.org/10.18653/v1/2025.findings-acl.1312) |
-| 2025 | Multi-Horizon Forecasting | Time Series & Forecasting | [Publication](https://doi.org/10.2139/ssrn.5474906) |
-| 2025 | Multi-Page Document Understanding | NLP and LLMs | [Publication](https://doi.org/10.18653/v1/2025.acl-long.291) |
-| 2025 | Multi-Subject Generation | Generative AI | [Publication](https://doi.org/10.1145/3721238.3730631) |
-| 2025 | Naive Forecast | Time Series & Forecasting | [Publication](https://doi.org/10.1007/s10489-025-06268-w) |
-| 2025 | Neural style transfer (NST) | AI Foundations | [Publication](https://doi.org/10.1007/978-981-96-4539-8_25) |
-| 2025 | NIH ChestX-ray14 | Datasets & Benchmarks | [Publication](https://doi.org/10.1109/acoit66109.2025.11437206) |
-| 2025 | OAuth | Security & Privacy | [Publication](https://doi.org/10.36227/techrxiv.174952577.74018032/v1) |
-| 2025 | Onboarding Assistant | AI Applications | [Publication](https://doi.org/10.1145/3696630.3728611) |
-| 2025 | One-Cycle Policy | Mathematics | [Publication](https://doi.org/10.5120/ijca2025925832) |
-| 2025 | One-Shot Prompting | AI Foundations | [Publication](https://doi.org/10.14529/jsfi250308) |
-| 2025 | Operator Fusion | Deep Learning | [Publication](https://doi.org/10.1109/iccea65460.2025.11103433) |
-| 2025 | P-Hacking | Mathematics | [Publication](https://doi.org/10.4135/9781036229986.n1) |
-| 2025 | Persona Drift | AI Safety | [Publication](https://doi.org/10.1145/3714394.3756337) |
-| 2025 | pickups | AI Infrastructure | [Publication](https://doi.org/10.1109/iros60139.2025.11246210) |
-| 2025 | PinSage | Recommender Systems | [Publication](https://doi.org/10.1109/iacis65746.2025.11211251) |
-| 2025 | Point Cloud Graph | Graph & Network Learning | [Publication](https://doi.org/10.1016/j.measurement.2024.115851) |
-| 2025 | Pooling | Deep Learning | [Publication](https://doi.org/10.20944/preprints202509.0310.v1) |
-| 2025 | Population Stability Index (PSI) | Machine Learning | [Publication](https://doi.org/10.63282/3050-9246/icrtcsit-113) |
-| 2025 | Pose-Conditioned Generation | Generative AI | [Publication](https://doi.org/10.1109/wacvw65960.2025.00020) |
-| 2025 | Precision-Oriented Ranking | Information Retrieval | [Publication](https://doi.org/10.1145/3733235) |
-| 2025 | Preference Pair | Deep Learning | [Publication](https://doi.org/10.48550/arxiv.2509.15664) |
-| 2025 | prefetch | AI Infrastructure | [Publication](https://doi.org/10.3390/info16030164) |
-| 2025 | Presolve | Mathematics | [Publication](https://doi.org/10.1109/tpami.2025.3562286) |
-| 2025 | Probabilistic Roadmap (PRM) | Robotics | [Publication](https://doi.org/10.1109/ichci67614.2025.11292575) |
-| 2025 | probabilistic systems | Mathematics | [Publication](https://doi.org/10.31219/osf.io/34jpq_v1) |
-| 2025 | Procurement Automation | AI Applications | [Publication](https://doi.org/10.1680/978-1-83608-598-020241021) |
-| 2025 | Progressive Layer Dropping | Machine Learning | [Publication](https://doi.org/10.18653/v1/2025.acl-long.33) |
-| 2025 | Prompt | AI Foundations | [Publication](https://doi.org/10.2139/ssrn.5276301) |
-| 2025 | Prompt Caching | AI Infrastructure | [Publication](https://doi.org/10.1109/wcnc61545.2025.10978306) |
-| 2025 | Prompt Injection Defense | Agentic AI | [Publication](https://doi.org/10.1109/eit64391.2025.11103606) |
-| 2025 | proportional integral derivatives | Robotics | [Publication](https://doi.org/10.36108/laujet/5202.91.0232) |
-| 2025 | Proxy Monitoring | AI Infrastructure | [Publication](https://doi.org/10.3390/applmicrobiol6010003) |
-| 2025 | Q-Learning Update | Reinforcement Learning | [Publication](https://doi.org/10.1016/j.chaos.2025.116653) |
-| 2025 | Qdrant | Tools & Frameworks | [Publication](https://doi.org/10.5220/0013920300004919) |
-| 2025 | Quantization-Aware Training (QAT) | Deep Learning | [Publication](https://doi.org/10.1145/3776759.3776826) |
-| 2025 | Quantum Machine Learning Model | Quantum & Emerging Compute | [Publication](https://doi.org/10.5194/egusphere-egu25-11521) |
-| 2025 | Readability Adaptation | NLP and LLMs | [Publication](https://doi.org/10.18653/v1/2025.bionlp-share.32) |
-| 2025 | Recursive self-improvement | AI Foundations | [Publication](https://doi.org/10.2139/ssrn.5841962) |
-| 2025 | Refusal Direction | Deep Learning | [Publication](https://doi.org/10.52202/085713-1086) |
-| 2025 | Region Proposal Network (RPN) | Computer Vision | [Publication](https://doi.org/10.1007/978-981-97-9132-3_17) |
-| 2025 | Reverse Diffusion Process | Generative AI | [Publication](https://doi.org/10.1109/icassp49660.2025.10889007) |
-| 2025 | Ring Attention | Deep Learning | [Publication](https://doi.org/10.1109/thms.2025.3591502) |
-| 2025 | SAE Automation Levels | Robotics | [Publication](https://doi.org/10.2139/ssrn.5229749) |
-| 2025 | Sample Diversity | Generative AI | [Publication](https://doi.org/10.1109/iotaima66468.2025.11212732) |
-| 2025 | Schema Enforcement | AI Infrastructure | [Publication](https://doi.org/10.71097/ijaidr.v16.i2.1581) |
-| 2025 | Screen Reader | AI Applications | [Publication](https://doi.org/10.21275/sr25717175350) |
-| 2025 | Semantic Versioning (SemVer) | AI Infrastructure | [Publication](https://doi.org/10.32614/cran.package.smvr) |
-| 2025 | Serving Framework | AI Infrastructure | [Publication](https://doi.org/10.52202/085713-3101) |
-| 2025 | Shared Expert | Deep Learning | [Publication](https://doi.org/10.3102/2196573) |
-| 2025 | Silent Failure | AI Infrastructure | [Publication](https://doi.org/10.2139/ssrn.5382771) |
-| 2025 | SiLU | Deep Learning | [Publication](https://doi.org/10.1007/s00371-025-04185-0) |
-| 2025 | SimSiam | Machine Learning | [Publication](https://doi.org/10.1007/s00607-025-01550-8) |
-| 2025 | Sinkhorn Normalization | Mathematics | [Publication](https://doi.org/10.1145/3746027.3755468) |
-| 2025 | Small Language Model (SLM) | Generative AI | [Publication](https://doi.org/10.1109/ic3ecsbhi63591.2025.10991300) |
-| 2025 | SmartNIC | AI Infrastructure | [Publication](https://doi.org/10.1109/lcn65610.2025.11146316) |
-| 2025 | Smooth Function | Mathematics | [Publication](https://doi.org/10.32614/cran.package.lgspline) |
-| 2025 | SmoothQuant | Deep Learning | [Publication](https://doi.org/10.1109/icaice68195.2025.11382356) |
-| 2025 | Sophia Optimizer | Mathematics | [Publication](https://doi.org/10.1109/apeie66761.2025.11289350) |
-| 2025 | Source Diversity | Information Retrieval | [Publication](https://doi.org/10.1101/2025.03.30.646244) |
-| 2025 | Sovereign AI | AI Foundations | [Publication](https://doi.org/10.2139/ssrn.5639470) |
-| 2025 | SparseGPT | Deep Learning | [Publication](https://doi.org/10.12732/ijam.v38i12s.1711) |
-| 2025 | Stable Audio | Generative AI | [Publication](https://doi.org/10.1109/icassp49660.2025.10888461) |
-| 2025 | Stable Video Diffusion | Deep Learning | [Publication](https://doi.org/10.1117/12.3059564) |
-| 2025 | Stochastic Gradient Langevin Dynamics (SGLD) | Mathematics | [Publication](https://doi.org/10.1109/icoiics67115.2025.11390664) |
-| 2025 | Stochastic Policy | Reinforcement Learning | [Publication](https://doi.org/10.2139/ssrn.5357499) |
-| 2025 | Streaming Attention | Deep Learning | [Publication](https://doi.org/10.52202/085713-0705) |
-| 2025 | Streaming Inference | AI Infrastructure | [Publication](https://doi.org/10.1109/hipcw66559.2025.00050) |
-| 2025 | Supervisory Autonomy | Robotics | [Publication](https://doi.org/10.1080/14719037.2025.2488940) |
-| 2025 | Synthetic Data Ratio | Machine Learning | [Publication](https://doi.org/10.1109/sped67700.2025.11252042) |
-| 2025 | System Prompt | AI Foundations | [Publication](https://doi.org/10.52202/085713-1854) |
-| 2025 | Tensor Memory Accelerator | AI Infrastructure | [Publication](https://doi.org/10.1145/3725798.3725802) |
-| 2025 | text-to-image model | Generative AI | [Publication](https://doi.org/10.1109/bigcomp64353.2025.00023) |
-| 2025 | Time to First Token (TTFT) | Deep Learning | [Publication](https://doi.org/10.31224/4666) |
-| 2025 | TLS Termination | AI Infrastructure | [Publication](https://doi.org/10.58812/esiscs.v2i03.489) |
-| 2025 | Trajectory Transformer | Reinforcement Learning | [Publication](https://doi.org/10.1109/iros60139.2025.11247351) |
-| 2025 | Tree All-Reduce | AI Infrastructure | [Publication](https://doi.org/10.1109/tmc.2024.3507381) |
-| 2025 | Treebank | NLP and LLMs | [Publication](https://doi.org/10.21203/rs.3.rs-8299268/v1) |
-| 2025 | Turn-Level Evaluation | NLP and LLMs | [Publication](https://doi.org/10.1016/j.engappai.2024.109572) |
-| 2025 | Two-Phase Commit (2PC) | Programming & Software | [Publication](https://doi.org/10.37547/tajet/volume07issue06-18) |
-| 2025 | Understanding Debate | AI Foundations | [Publication](https://doi.org/10.5040/9798881843113.ch-007) |
-| 2025 | Unknown Token | NLP and LLMs | [Publication](https://doi.org/10.1007/978-981-96-2292-4_2) |
-| 2025 | URDF | Robotics | [Publication](https://doi.org/10.52202/085713-3175) |
-| 2025 | utaut | AI Infrastructure | [Publication](https://doi.org/10.2139/ssrn.5049285) |
-| 2025 | Value Lock-In | AI Safety | [Publication](https://doi.org/10.14512/tatup.7204) |
-| 2025 | Vision-Language Model (VLM) | Computer Vision | [Publication](https://doi.org/10.1108/ecam-07-2025-1133) |
-| 2025 | Voice Cloning Fraud | Security & Privacy | [Publication](https://doi.org/10.1109/isssc66652.2025.11388760) |
-| 2025 | Weather Risk Analytics | AI Applications | [Publication](https://doi.org/10.47709/cnahpc.v7i3.6298) |
-| 2025 | Weight-Only Quantization | Deep Learning | [Publication](https://doi.org/10.18653/v1/2025.emnlp-main.1799) |
-| 2025 | Whose Values Problem | AI Safety | [Publication](https://doi.org/10.1007/s13194-025-00675-z) |
-| 2025 | Width Pruning | Deep Learning | [Publication](https://doi.org/10.36227/techrxiv.176462159.96022593/v2) |
-| 2025 | Word Error Rate (WER) | Speech & Audio | [Publication](https://doi.org/10.25134/vpg9r361) |
-| 2025 | Word Similarity Benchmark | NLP and LLMs | [Publication](https://doi.org/10.4114/intartif.vol28iss76pp283-300) |
-| 2025 | Worst-Group Accuracy | Evaluation & Metrics | [Publication](https://doi.org/10.1109/access.2025.3643350) |
-| 2025 | yale face database | Machine Learning | [Publication](https://doi.org/10.1109/ccict65753.2025.00067) |
-| 2025 | Zero-Noise Extrapolation (ZNE) | Quantum & Emerging Compute | [Publication](https://doi.org/10.21203/rs.3.rs-7883122/v1) |
-| 2025 ★ | Failure Taxonomy for Agents | Agentic AI | [Related source](https://doi.org/10.5281/zenodo.21629205) — indirect |
-| 2025 ★ | Instruct-Based Image Editing | Generative AI | [Related source](https://doi.org/10.1109/cvpr52734.2025.02655) — indirect |
-| 2025 ★ | Laplacian Positional Encoding | Graph & Network Learning | [Related source](https://doi.org/10.1093/comjnl/bxaf132) — indirect |
-| 2025 ★ | Least Privilege for Agents | Agentic AI | [Related source](https://openalex.org/W7217677195) — indirect |
-| 2025 ★ | Semantic Agent Memory | Agentic AI | [Related source](https://doi.org/10.48550/arxiv.2504.06135) — indirect |
-| 2025 ★ | Trending Query Detection | Information Retrieval | [Related source](https://doi.org/10.48550/arxiv.2601.05258) — indirect |
-| 2025 ★ | XGBoost Library | Tools & Frameworks | [Related source](https://doi.org/10.3992/jgb.20.2.327) — indirect |
-| 2025 ★★ | Batch Size Scaling in Serving | AI Infrastructure | [Indirect context](https://doi.org/10.2139/ssrn.5256341) — NOT keyword evidence |
-| 2025 ★★ | Class-Incremental Vision | Computer Vision | [Indirect context](https://doi.org/10.5772/4995) — NOT keyword evidence |
-| 2025 ★★ | Contrastive Image-Text Loss | Computer Vision | [Indirect context](https://doi.org/10.1007/978-981-16-7069-5_5) — NOT keyword evidence |
-| 2025 ★★ | Data Curation for Vision-Language | Computer Vision | [Indirect context](https://doi.org/10.1108/ecam-07-2025-1133) — NOT keyword evidence |
-| 2025 ★★ | Data Leakage in Vision Datasets | Computer Vision | [Indirect context](https://doi.org/10.5772/4995) — NOT keyword evidence |
-| 2025 ★★ | Demand Forecasting for Serving | AI Infrastructure | [Indirect context](https://doi.org/10.2139/ssrn.5256341) — NOT keyword evidence |
-| 2025 ★★ | Disaggregated Serving | AI Infrastructure | [Indirect context](https://doi.org/10.2139/ssrn.5256341) — NOT keyword evidence |
-| 2025 ★★ | Downstream Impact Metric | Evaluation & Metrics | [Indirect context](https://doi.org/10.1145/3786166.3788432) — NOT keyword evidence |
-| 2025 ★★ | Election Integrity Measure | Generative AI | [Indirect context](https://openalex.org/W43656290) — NOT keyword evidence |
-| 2025 ★★ | hacking | AI Safety | [Indirect context](https://doi.org/10.4135/9781036229986.n1) — NOT keyword evidence |
-| 2025 ★★ | Model Serving for Ranking | Information Retrieval | [Indirect context](https://doi.org/10.1109/ijcnn.2018.8489109) — NOT keyword evidence |
-| 2025 ★★ | Model Soup for Vision | Computer Vision | [Indirect context](https://doi.org/10.5772/4995) — NOT keyword evidence |
-| 2025 ★★ | Multi-Metric Reporting | Evaluation & Metrics | [Indirect context](https://doi.org/10.20944/preprints202608.2051.v1) — NOT keyword evidence |
-| 2025 ★★ | Multimodal Alignment Loss | Computer Vision | [Indirect context](https://doi.org/10.1109/ivs.2014.6856480) — NOT keyword evidence |
-| 2025 ★★ | Prompt Ensembling for Vision | Computer Vision | [Indirect context](https://doi.org/10.5772/4995) — NOT keyword evidence |
-| 2025 ★★ | Refusal | Agentic AI | [Indirect context](https://doi.org/10.52202/085713-1086) — NOT keyword evidence |
-| 2025 ★★ | Reverse Proxy | AI Infrastructure | [Indirect context](https://doi.org/10.5465/amle.9.2.zqr321) — NOT keyword evidence |
-| 2025 ★★ | Serving Abstraction | AI Infrastructure | [Indirect context](https://doi.org/10.1145/3770855.3818354) — NOT keyword evidence |
-| 2025 ★★ | TensorFlow Serving | Tools & Frameworks | [Indirect context](https://doi.org/10.1145/3292500.3340408) — NOT keyword evidence |
-| 2025 ★★ | Turn-Taking | NLP and LLMs | [Indirect context](https://doi.org/10.1016/j.engappai.2024.109572) — NOT keyword evidence |
-| 2025 ★★ | Vision-Language Alignment | Computer Vision | [Indirect context](https://doi.org/10.1108/ecam-07-2025-1133) — NOT keyword evidence |
-| 2026 | Academic Integrity Detection | AI Applications | [Publication](https://doi.org/10.30574/ijsra.2026.19.2.1117) |
-| 2026 | Access Control in Retrieval | AI Applications | [Publication](https://doi.org/10.1109/compsac69091.2026.00386) |
-| 2026 | Accessibility Tree | Agentic AI | [Publication](https://doi.org/10.21203/rs.3.rs-11206775/v1) |
-| 2026 | Action Item Extraction | AI Applications | [Publication](https://doi.org/10.1109/i2itcon69735.2026.11747161) |
-| 2026 | Adult Income Dataset | Datasets & Benchmarks | [Publication](https://doi.org/10.1109/rev-ai70456.2026.11622042) |
-| 2026 | Agent Harness | Agentic AI | [Publication](https://doi.org/10.1007/978-3-032-39096-7_15) |
-| 2026 | Agent Observability | Agentic AI | [Publication](https://doi.org/10.1145/3805760.3814931) |
-| 2026 | AI Center of Excellence | AI Foundations | [Publication](https://doi.org/10.1142/9789819835799_0007) |
-| 2026 | AI Model Marketplace | AI Infrastructure | [Publication](https://doi.org/10.1109/icsft66733.2026.11507790) |
-| 2026 | AI Startup Ecosystem | People & Organizations | [Publication](https://doi.org/10.1007/978-3-032-21940-4_11) |
-| 2026 | Alex Krizhevsky | People & Organizations | [Publication](https://doi.org/10.3390/engproc2026134084) |
-| 2026 | Analog Computing for AI | AI Infrastructure | [Publication](https://doi.org/10.1117/12.3091161) |
-| 2026 | Analytical Integrity | AI Foundations | [Publication](https://doi.org/10.26434/chemrxiv.15001584/v1) |
-| 2026 | Apache Hudi | Tools & Frameworks | [Publication](https://doi.org/10.1145/3802514.3809177) |
-| 2026 | APPS | Datasets & Benchmarks | [Publication](https://doi.org/10.1007/979-8-8688-1817-2_15) |
-| 2026 | ARC Benchmark | Datasets & Benchmarks | [Publication](https://doi.org/10.18653/2026.emnlp-main.99) |
-| 2026 | At-Least-Once Delivery | AI Infrastructure | [Publication](https://doi.org/10.5281/zenodo.22001698) |
-| 2026 | Audio Preprocessing | Speech & Audio | [Publication](https://doi.org/10.1117/12.3121320) |
-| 2026 | Authority Signal | Information Retrieval | [Publication](https://doi.org/10.2139/ssrn.6348479) |
-| 2026 | Automation Payback | AI Infrastructure | [Publication](https://doi.org/10.5281/zenodo.23665645) |
-| 2026 | BART | Deep Learning | [Publication](https://doi.org/10.64898/2026.03.09.710670) |
-| 2026 | Best-of-N Reporting | Evaluation & Metrics | [Publication](https://doi.org/10.20944/preprints202608.2051.v1) |
-| 2026 | Canary Release | AI Foundations | [Publication](https://doi.org/10.1109/ccsb71176.2026.11716469) |
-| 2026 | Canary Tokens | AI Foundations | [Publication](https://doi.org/10.62643/ijerst.2026.v22.n2(1).pp45-49) |
-| 2026 | Capability Density | Machine Learning | [Publication](https://doi.org/10.1145/3812835.3814812) |
-| 2026 | Catastrophic Forgetting in Vision | Computer Vision | [Publication](https://doi.org/10.5281/zenodo.22062244) |
-| 2026 | Chain rule (probability) | AI Foundations | [Publication](https://doi.org/10.1016/j.mex.2026.104200) |
-| 2026 | Chat Template | Deep Learning | [Publication](https://doi.org/10.1145/3843779.3844636) |
-| 2026 | Chunked Prefill | AI Infrastructure | [Publication](https://doi.org/10.1016/j.sysarc.2026.104036) |
-| 2026 | Code Generation Quality | Programming & Software | [Publication](https://doi.org/10.2139/ssrn.6087362) |
-| 2026 | Codebase Indexing | Programming & Software | [Publication](https://doi.org/10.63920/tjths.52011) |
-| 2026 | Column-Major Order | Mathematics | [Publication](https://doi.org/10.1109/jphotov.2026.3661113) |
-| 2026 | Complaint Analytics | AI Foundations | [Publication](https://doi.org/10.1186/s43093-026-01021-2) |
-| 2026 | Composition over Inheritance | Programming & Software | [Publication](https://doi.org/10.5281/zenodo.22164841) |
-| 2026 | Concept Coverage | Computer Vision | [Publication](https://doi.org/10.1097/cin.0000000000001518) |
-| 2026 | Constraint-Aware Decoding | AI Foundations | [Publication](https://doi.org/10.1007/978-3-032-31452-9_5) |
-| 2026 | Context Assembly | Information Retrieval | [Publication](https://doi.org/10.2139/ssrn.7415278) |
-| 2026 | context data | AI Applications | [Publication](https://doi.org/10.1002/9781394421756.ch11) |
-| 2026 | Context Leakage | Security & Privacy | [Publication](https://doi.org/10.1007/979-8-8688-3252-9_6) |
-| 2026 | Context-Dependent Judgment | AI Safety | [Publication](https://doi.org/10.3758/s13423-026-02938-z) |
-| 2026 | Convexity Gap | Mathematics | [Publication](https://doi.org/10.2139/ssrn.6543859) |
-| 2026 | cpn | Mathematics | [Publication](https://doi.org/10.59668/2869.30080) |
-| 2026 | Critical Evaluation of Output | AI Foundations | [Publication](https://doi.org/10.63317/3osjjdr778fh) |
-| 2026 | Dagster | Tools & Frameworks | [Publication](https://doi.org/10.21105/joss.07695) |
-| 2026 | Data Flywheel | AI Applications | [Publication](https://doi.org/10.2139/ssrn.6140608) |
-| 2026 | Data-Constrained Scaling | Machine Learning | [Publication](https://doi.org/10.48550/arxiv.2610.37842) |
-| 2026 | Defensive Acceleration | AI Safety | [Publication](https://doi.org/10.71172/x093-veqz) |
-| 2026 | Delegation Boundary | Agentic AI | [Publication](https://doi.org/10.20944/preprints202607.2097.v1) |
-| 2026 | Descriptive Prompting | Generative AI | [Publication](https://doi.org/10.3390/electronics15102220) |
-| 2026 | Downstream Developer | People & Organizations | [Publication](https://doi.org/10.1007/s10664-026-10937-w) |
-| 2026 | Dynamic Resolution | Machine Learning | [Publication](https://doi.org/10.2139/ssrn.7483264) |
-| 2026 | Edit Locality | Machine Learning | [Publication](https://doi.org/10.48550/arxiv.2601.17343) |
-| 2026 | Effective Model Complexity | Machine Learning | [Publication](https://doi.org/10.3905/jfds.2026.011) |
-| 2026 | Empirical Risk Minimization (ERM) | AI Foundations | [Publication](https://doi.org/10.1007/978-981-92-2012-0_4-1) |
-| 2026 | Erdos-Renyi Model | Mathematics | [Publication](https://doi.org/10.5281/zenodo.19477309) |
-| 2026 | Escalation Criteria | AI Foundations | [Publication](https://doi.org/10.1002/ccr3.72909) |
-| 2026 | Executor Agent | Agentic AI | [Publication](https://doi.org/10.18653/v1/2026.findings-eacl.237) |
-| 2026 | Expert Baseline | Datasets & Benchmarks | [Publication](https://doi.org/10.13140/rg.2.2.16801.57440) |
-| 2026 | Expert Systems Boom | People & Organizations | [Publication](https://doi.org/10.1609/aaai.v40i46.41334) |
-| 2026 | Fact Verification Benchmark | Evaluation & Metrics | [Publication](https://doi.org/10.18653/v1/2026.acl-long.1589) |
-| 2026 | Feature Pyramid Network (FPN) | Deep Learning | [Publication](https://doi.org/10.1063/5.0298853) |
-| 2026 | Feedback Loop Collapse | AI Foundations | [Publication](https://doi.org/10.5281/zenodo.19024123) |
-| 2026 | Fermi Estimation | Mathematics | [Publication](https://doi.org/10.21203/rs.3.rs-10611724/v1) |
-| 2026 | Field Service Dispatch | AI Applications | [Publication](https://doi.org/10.63374/qitp-ijaimrd_07_02_002) |
-| 2026 | Field-Level Encryption | Security & Privacy | [Publication](https://doi.org/10.33387/jiko.v9i1.10884) |
-| 2026 | Format Adherence | Agentic AI | [Publication](https://doi.org/10.5281/zenodo.20182682) |
-| 2026 | FunSearch | Deep Learning | [Publication](https://doi.org/10.1007/978-3-032-15635-8_7) |
-| 2026 | GPTQ | Deep Learning | [Publication](https://doi.org/10.1162/tacl.a.816) |
-| 2026 | GradNorm | Deep Learning | [Publication](https://doi.org/10.51316/jst.190.ssad.2026.36.190.4) |
-| 2026 | Gradual Disempowerment | AI Safety | [Publication](https://doi.org/10.2139/ssrn.7658658) |
-| 2026 | GraphRAG Retrieval | Graph & Network Learning | [Publication](https://doi.org/10.3390/app162110570) |
-| 2026 | Group K-Fold | Machine Learning | [Publication](https://doi.org/10.5267/j.ijdns.2026.4.024) |
-| 2026 | gRPC | Programming & Software | [Publication](https://doi.org/10.1007/s11227-026-08912-9) |
-| 2026 | GSM8K | Datasets & Benchmarks | [Publication](https://doi.org/10.2139/ssrn.7561721) |
-| 2026 | Hard Constraint Enforcement | Mathematics | [Publication](https://doi.org/10.32473/flairs.39.1.141921) |
-| 2026 | HBM Stack | AI Infrastructure | [Publication](https://doi.org/10.1109/ectc51846.2026.00024) |
-| 2026 | HDBSCAN | Machine Learning | [Publication](https://doi.org/10.3390/geographies6020055) |
-| 2026 | Heterogeneous Treatment Effect (HTE) | Causal Inference | [Publication](https://doi.org/10.1097/01.ede.0001281556.60346.3b) |
-| 2026 | High-Cardinality Feature | Machine Learning | [Publication](https://doi.org/10.1007/978-3-032-10685-8_9) |
-| 2026 | High-Risk AI System | AI Foundations | [Publication](https://doi.org/10.1093/law/9780198925705.003.0004) |
-| 2026 | Hugging Face Datasets | Tools & Frameworks | [Publication](https://doi.org/10.2196/preprints.98257) |
-| 2026 | Human Fallback | AI Foundations | [Publication](https://doi.org/10.2139/ssrn.7010918) |

@@ -10,6 +10,73 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 1983 | pedagogical issues | AI Infrastructure | [Publication](https://doi.org/10.2307/1510525) |
+| 1983 | Performance Monitoring | AI Infrastructure | [Publication](https://doi.org/10.1016/b978-0-08-029992-1.50008-9) |
+| 1983 | Photometric Stereo | Computer Vision | [Publication](https://doi.org/10.1007/978-3-642-81935-3_22) |
+| 1983 | Primacy Effect in Memory | Cognitive Science | [Publication](https://doi.org/10.3758/bf03212324) |
+| 1983 | Principle of Least Surprise | Programming & Software | [Publication](https://doi.org/10.1080/00949658308810689) |
+| 1983 | prisoners dilemma | Reinforcement Learning | [Publication](https://doi.org/10.1007/bf00485828) |
+| 1983 | Probabilistic Retrieval Model | Information Retrieval | [Publication](https://doi.org/10.1108/eb026739) |
+| 1983 | processor array | AI Infrastructure | [Publication](https://openalex.org/W2773142935) |
+| 1983 | product variants | AI Infrastructure | [Publication](https://doi.org/10.1080/00207548308942384) |
+| 1983 | Program Synthesis | AI Foundations | [Publication](https://doi.org/10.7551/mitpress/1192.003.0004) |
+| 1983 | Propensity Score | AI Foundations | [Publication](https://doi.org/10.1093/biomet/70.1.41) |
+| 1983 | Quasi-Likelihood | Mathematics | [Publication](https://doi.org/10.1007/978-1-4899-3244-0_8) |
+| 1983 | rayleigh backscattering | AI Infrastructure | [Publication](https://doi.org/10.1364/josa.73.001175) |
+| 1983 | reduced reference | Computer Vision | [Publication](https://doi.org/10.1016/b978-0-08-030565-3.50020-4) |
+| 1983 | reinitialization | Computer Vision | [Publication](https://doi.org/10.23919/acc.1983.4788253) |
+| 1983 | relational database | AI Foundations | [Publication](https://doi.org/10.1007/978-3-642-68847-8_2) |
+| 1983 | release date | Mathematics | [Publication](https://doi.org/10.1525/aa.1983.85.2.02a00860) |
+| 1983 | Release Notes | Programming & Software | [Publication](https://doi.org/10.6028/nbs.ir.83-2779) |
+| 1983 | replicator dynamics | Reinforcement Learning | [Publication](https://doi.org/10.1016/0022-5193(83)90445-9) |
+| 1983 | Report Generation | Generative AI | [Publication](https://doi.org/10.3133/ofr83691) |
+| 1983 | robotic assembly | Robotics | [Publication](https://doi.org/10.1108/eb004607) |
+| 1983 | Scalar Field | Mathematics | [Publication](https://doi.org/10.1143/ptp.69.341) |
+| 1983 | security properties | AI Infrastructure | [Publication](https://doi.org/10.1109/sp.1983.10013) |
+| 1983 | Semantic Drift | NLP and LLMs | [Publication](https://doi.org/10.1075/aral.6.1.04but) |
+| 1983 | shape descriptors | Computer Vision | [Publication](https://doi.org/10.1515/9783112597484-006) |
+| 1983 | shortest path routing | Mathematics | [Publication](https://doi.org/10.21236/ada132280) |
+| 1983 | signal analysis | Speech & Audio | [Publication](https://doi.org/10.1016/0165-1684(83)90071-3) |
+| 1983 | Simple Random Sample | Mathematics | [Publication](https://doi.org/10.2307/2347297) |
+| 1983 | social influence | AI Infrastructure | [Publication](https://doi.org/10.2307/2578279) |
+| 1983 | software development methodologies | Programming & Software | [Publication](https://openalex.org/W118167955) |
+| 1983 | software engineering | Programming & Software | [Publication](https://doi.org/10.1016/0141-1195(83)90142-0) |
+| 1983 | software project | Programming & Software | [Publication](https://doi.org/10.1145/69586.358135) |
+| 1983 | software protection | AI Safety | [Publication](https://doi.org/10.1016/0141-1195(83)90121-3) |
+| 1983 | software systems | Programming & Software | [Publication](https://doi.org/10.1016/0164-1212(83)90024-9) |
+| 1983 | Spectrogram | Signal & Information Theory | [Publication](https://doi.org/10.1121/1.2020607) |
+| 1983 | stream ciphers | AI Safety | [Publication](https://doi.org/10.1007/978-3-7091-2640-0_3) |
+| 1983 | subaperture | AI Infrastructure | [Publication](https://doi.org/10.1364/ol.8.000468) |
+| 1983 | Sylvester's Law of Inertia | Mathematics | [Publication](https://doi.org/10.1007/978-3-0348-9355-8_24) |
+| 1983 | symbol error rates | Speech & Audio | [Publication](https://doi.org/10.1109/tcom.1983.1095775) |
+| 1983 | tactile sensor | Robotics | [Publication](https://doi.org/10.1108/eb007588) |
+| 1983 | Tangent Space | Mathematics | [Publication](https://doi.org/10.4064/ap-40-3-207-212) |
+| 1983 | text recognition | Machine Learning | [Publication](https://doi.org/10.1016/0031-3203(83)90030-4) |
+| 1983 | theorem provers | AI Foundations | [Publication](https://doi.org/10.1007/978-3-642-81955-1_15) |
+| 1983 | Time Series | AI Foundations | [Publication](https://doi.org/10.1111/j.1467-9892.1983.tb00368.x) |
+| 1983 | Trajectory Generation | Robotics | [Publication](https://doi.org/10.1007/978-1-4684-6846-5_9) |
+| 1983 | transport protocol | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc892) |
+| 1983 | transport protocols | AI Infrastructure | [Publication](https://doi.org/10.1145/1035237.1035288) |
+| 1983 | Tumour Grading | Science & Healthcare AI | [Publication](https://doi.org/10.1007/bf00453929) |
+| 1983 | ultrasonic sensors | Robotics | [Publication](https://doi.org/10.1016/b978-0-408-01160-0.50054-5) |
+| 1983 | Vertical Integration | People & Organizations | [Publication](https://doi.org/10.1016/b978-0-12-103480-1.50009-2) |
+| 1983 | video coders | Computer Vision | [Publication](https://doi.org/10.1049/el:19830041) |
+| 1983 | videocassette recorders | Speech & Audio | [Publication](https://doi.org/10.1109/tmag.1983.1062775) |
+| 1983 | visible image | Computer Vision | [Publication](https://doi.org/10.21236/ada142524) |
+| 1983 | vision system | Computer Vision | [Publication](https://doi.org/10.1007/978-3-662-09771-7_24) |
+| 1983 | visual servo control | Robotics | [Publication](https://doi.org/10.1007/978-3-662-09771-7_7) |
+| 1983 | Warehouse Automation | Robotics | [Publication](https://doi.org/10.1016/0011-684x(83)90032-1) |
+| 1983 | wavefront sensing | AI Infrastructure | [Publication](https://doi.org/10.1117/12.933912) |
+| 1983 | Word Order Typology | NLP and LLMs | [Publication](https://doi.org/10.1075/cilt.25.04wor) |
+| 1983 | work environments | AI Applications | [Publication](https://doi.org/10.1037/e574082012-015) |
+| 1983 ★ | Human-in-the-Loop Transcription | Speech & Audio | [Related source](https://doi.org/10.1016/s0021-9258(18)33188-0) — indirect |
+| 1983 ★★ | Abstraction Heuristic | AI Foundations | [Indirect context](https://doi.org/10.1080/095372899233334) — NOT keyword evidence |
+| 1983 ★★ | ae signals | Speech & Audio | [Indirect context](https://doi.org/10.1016/0026-2714(76)90099-8) — NOT keyword evidence |
+| 1983 ★★ | architecture description languages | Programming & Software | [Indirect context](https://doi.org/10.1145/800046.801635) — NOT keyword evidence |
+| 1983 ★★ | audio signals | Speech & Audio | [Indirect context](https://doi.org/10.1016/0026-2714(76)90099-8) — NOT keyword evidence |
+| 1983 ★★ | Cartesian Product | Mathematics | [Indirect context](https://doi.org/10.1017/cbo9780511526022.009) — NOT keyword evidence |
+| 1983 ★★ | Central Path | Mathematics | [Indirect context](https://doi.org/10.48550/arxiv.1506.02617) — NOT keyword evidence |
+| 1983 ★★ | chromosome 1 | Data Science | [Indirect context](https://doi.org/10.1016/0300-9084(90)90018-c) — NOT keyword evidence |
 | 1983 ★★ | chromosome 11q | Data Science | [Indirect context](https://doi.org/10.1016/0300-9084(90)90018-c) — NOT keyword evidence |
 | 1983 ★★ | chromosome 1p | Data Science | [Indirect context](https://doi.org/10.1016/0300-9084(90)90018-c) — NOT keyword evidence |
 | 1983 ★★ | chromosome 8 | Data Science | [Indirect context](https://doi.org/10.1016/0300-9084(90)90018-c) — NOT keyword evidence |
@@ -443,70 +510,3 @@
 | 1985 | packet switches | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc970) |
 | 1985 | parallel programs | AI Infrastructure | [Publication](https://doi.org/10.1007/3-540-15239-3_16) |
 | 1985 | parametric yield | AI Infrastructure | [Publication](https://doi.org/10.1109/t-ed.1985.21965) |
-| 1985 | Perceptual robotics | Robotics | [Publication](https://doi.org/10.1007/978-1-4757-1388-6_20) |
-| 1985 | Physical symbol system | AI Foundations | [Publication](https://doi.org/10.1145/382208.382515) |
-| 1985 | Piano Roll | Speech & Audio | [Publication](https://doi.org/10.2307/941168) |
-| 1985 | polynomial space | Mathematics | [Publication](https://doi.org/10.1145/382252.382253) |
-| 1985 | Post Hoc Rationalization | AI Safety | [Publication](https://doi.org/10.1080/00221325.1985.9914455) |
-| 1985 | process variability | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4684-7499-2_2) |
-| 1985 | projection displays | AI Applications | [Publication](https://doi.org/10.1016/0141-9382(85)90126-x) |
-| 1985 | quadrature phase shift keying | Speech & Audio | [Publication](https://doi.org/10.1109/t-su.1985.31663) |
-| 1985 | radar imagery | AI Infrastructure | [Publication](https://doi.org/10.1007/978-94-010-9444-3_47) |
-| 1985 | Random Variable Transformation | Mathematics | [Publication](https://doi.org/10.1119/1.14109) |
-| 1985 | random walk method | Mathematics | [Publication](https://doi.org/10.2172/6336620) |
-| 1985 | rate distortion performance | Computer Vision | [Publication](https://doi.org/10.1109/tit.1985.1057040) |
-| 1985 | real-time operating systems | AI Foundations | [Publication](https://openalex.org/W50083869) |
-| 1985 | reasoning tasks | Information Retrieval | [Publication](https://doi.org/10.1037/e424092004-001) |
-| 1985 | reconstruction algorithm | Computer Vision | [Publication](https://doi.org/10.1118/1.595738) |
-| 1985 | rectangular patch | AI Infrastructure | [Publication](https://doi.org/10.1049/el:19850617) |
-| 1985 | rectangular patch antenna | AI Infrastructure | [Publication](https://doi.org/10.1049/el:19850617) |
-| 1985 | redundant manipulators | Robotics | [Publication](https://doi.org/10.1007/978-1-4615-9882-4_6) |
-| 1985 | Region of Interest (ROI) | Computer Vision | [Publication](https://doi.org/10.1097/00006231-198505000-00009) |
-| 1985 | Replicate | Tools & Frameworks | [Publication](https://doi.org/10.1093/ajcp/84.3.407) |
-| 1985 | robotic manipulators | Robotics | [Publication](https://doi.org/10.1007/978-1-4615-9882-4_15) |
-| 1985 | sampling period | Robotics | [Publication](https://doi.org/10.1007/978-3-642-82554-5_4) |
-| 1985 | segmentation algorithms | Computer Vision | [Publication](https://doi.org/10.1117/12.946577) |
-| 1985 | sensing systems | AI Infrastructure | [Publication](https://doi.org/10.1016/c2013-0-10488-6) |
-| 1985 | shape descriptor | Computer Vision | [Publication](https://doi.org/10.1515/zna-1985-1106) |
-| 1985 | shape optimization | Mathematics | [Publication](https://doi.org/10.1016/b978-0-12-280910-1.50007-6) |
-| 1985 | Shear Transformation | Mathematics | [Publication](https://doi.org/10.1051/jphys:01985004605077100) |
-| 1985 | ship detection | AI Infrastructure | [Publication](https://doi.org/10.4095/332004) |
-| 1985 | signal timing | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-349-06978-1_4) |
-| 1985 | Signal-to-Noise Ratio (SNR) | Signal & Information Theory | [Publication](https://doi.org/10.1117/12.950691) |
-| 1985 | single photon emission computed tomography (spect) | Computer Vision | [Publication](https://doi.org/10.1007/978-94-009-5022-1_14) |
-| 1985 | Social Dilemma | Reinforcement Learning | [Publication](https://doi.org/10.1016/0165-4896(85)90055-1) |
-| 1985 | software development | Programming & Software | [Publication](https://doi.org/10.1017/cbo9780511624223.004) |
-| 1985 | software development process | Programming & Software | [Publication](https://doi.org/10.1017/cbo9780511624223.004) |
-| 1985 | software effort estimation | Programming & Software | [Publication](https://doi.org/10.1016/s0065-2458(08)60364-2) |
-| 1985 | software quality control | Programming & Software | [Publication](https://doi.org/10.1109/tse.1985.232178) |
-| 1985 | software reliability growth models | Programming & Software | [Publication](https://doi.org/10.1002/asm.3150010108) |
-| 1985 | Staging Table | Data Science | [Publication](https://doi.org/10.2307/1444854) |
-| 1985 | static program analysis | Programming & Software | [Publication](https://doi.org/10.1524/itit.1985.27.16.89) |
-| 1985 | statistics | Mathematics | [Publication](https://doi.org/10.1080/02331888508801841) |
-| 1985 | Stochastic Optimization | Mathematics | [Publication](https://doi.org/10.1515/9783112780312-003) |
-| 1985 | stochastic petri nets | Mathematics | [Publication](https://doi.org/10.21236/ada158348) |
-| 1985 | Supercomputer | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4613-2503-1) |
-| 1985 | superlattices | AI Infrastructure | [Publication](https://doi.org/10.1016/0749-6036(85)90005-9) |
-| 1985 | supervector | Speech & Audio | [Publication](https://doi.org/10.1016/0010-4655(85)90141-9) |
-| 1985 | Task Allocation | Robotics | [Publication](https://doi.org/10.2307/352084) |
-| 1985 | temporal database | AI Foundations | [Publication](https://doi.org/10.1145/325405.325412) |
-| 1985 | temporal frequency | Machine Learning | [Publication](https://doi.org/10.1016/0042-6989(85)90227-5) |
-| 1985 | Text Generation | Generative AI | [Publication](https://doi.org/10.1017/cbo9780511620751) |
-| 1985 | text input | Machine Learning | [Publication](https://doi.org/10.1109/mc.1985.1662891) |
-| 1985 | Timeline Generation | NLP and LLMs | [Publication](https://doi.org/10.1109/tns.1985.4333812) |
-| 1985 | transaction processing | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc955) |
-| 1985 | two-dimensional cellular automata | AI Foundations | [Publication](https://doi.org/10.1007/bf01010423) |
-| 1985 | unrelated parallel machines | AI Foundations | [Publication](https://doi.org/10.1016/0166-218x(85)90009-5) |
-| 1985 | Utilization Gap | AI Infrastructure | [Publication](https://doi.org/10.1177/009155218501300101) |
-| 1985 ★★ | amplified spontaneous emissions | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0375-9601(70)90168-4) — NOT keyword evidence |
-| 1985 ★★ | Bipartite Matching | Mathematics | [Indirect context](https://doi.org/10.21136/cpm.1985.108591) — NOT keyword evidence |
-| 1985 ★★ | biped robot | AI Foundations | [Indirect context](https://doi.org/10.1142/9789814354301_0012) — NOT keyword evidence |
-| 1985 ★★ | bit error rate | Speech & Audio | [Indirect context](https://doi.org/10.1109/milcom.1985.4794929) — NOT keyword evidence |
-| 1985 ★★ | cell formation | Mathematics | [Indirect context](https://doi.org/10.1016/0045-7949(94)90435-9) — NOT keyword evidence |
-| 1985 ★★ | Changelog Generation | Programming & Software | [Indirect context](https://doi.org/10.2139/ssrn.6087362) — NOT keyword evidence |
-| 1985 ★★ | clean speech | Speech & Audio | [Indirect context](https://doi.org/10.21437/eurospeech.1989-19) — NOT keyword evidence |
-| 1985 ★★ | combination forecasting | Machine Learning | [Indirect context](https://doi.org/10.1016/0169-2070(86)90038-5) — NOT keyword evidence |
-| 1985 ★★ | communication network | AI Infrastructure | [Indirect context](https://openalex.org/W155542418) — NOT keyword evidence |
-| 1985 ★★ | communication networks | AI Infrastructure | [Indirect context](https://openalex.org/W155542418) — NOT keyword evidence |
-| 1985 ★★ | communication robot | Robotics | [Indirect context](https://doi.org/10.1163/156855398x00352) — NOT keyword evidence |
-| 1985 ★★ | complete lattices | Machine Learning | [Indirect context](https://doi.org/10.2991/iske.2007.280) — NOT keyword evidence |

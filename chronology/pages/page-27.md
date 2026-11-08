@@ -10,6 +10,81 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 2006 | cognitive radios | AI Infrastructure | [Publication](https://doi.org/10.1016/b978-075067952-7/50014-3) |
+| 2006 | Cognitive specialization | AI Foundations | [Publication](https://doi.org/10.1093/oso/9780198568742.003.0008) |
+| 2006 | collaborative tagging | Information Retrieval | [Publication](https://doi.org/10.1075/pc.14.2.09ste) |
+| 2006 | Community Consent | People & Organizations | [Publication](https://doi.org/10.1038/npg.els.0005179) |
+| 2006 | Compliance Automation | AI Applications | [Publication](https://doi.org/10.1108/15265940610664988) |
+| 2006 | compression functions | AI Safety | [Publication](https://doi.org/10.1007/11935230_21) |
+| 2006 | computer clusters | AI Infrastructure | [Publication](https://doi.org/10.3844/jcssp.2006.33.47) |
+| 2006 | computing clusters | AI Infrastructure | [Publication](https://doi.org/10.1109/clustr.2006.311863) |
+| 2006 | concept similarity | NLP and LLMs | [Publication](https://doi.org/10.1016/j.ins.2005.11.014) |
+| 2006 | cone-beam ct | Computer Vision | [Publication](https://doi.org/10.1118/1.2198187) |
+| 2006 | Consequential Decision | AI Foundations | [Publication](https://doi.org/10.1037/e683162011-085) |
+| 2006 | Constraint Tightening | Mathematics | [Publication](https://doi.org/10.1109/acc.2006.1656440) |
+| 2006 | contention window | AI Infrastructure | [Publication](https://doi.org/10.1109/tencon.2006.343780) |
+| 2006 | contention window size | AI Infrastructure | [Publication](https://doi.org/10.1016/j.comcom.2006.06.016) |
+| 2006 | context aware | AI Applications | [Publication](https://doi.org/10.1201/9781420013498.ch8) |
+| 2006 | context awareness | AI Applications | [Publication](https://doi.org/10.1201/9781420013498.ch9) |
+| 2006 | context management | AI Infrastructure | [Publication](https://doi.org/10.1109/mdm.2006.129) |
+| 2006 | context-aware recommender systems | Information Retrieval | [Publication](https://doi.org/10.1109/mdm.2006.149) |
+| 2006 | context-aware services | AI Applications | [Publication](https://doi.org/10.1002/047002867x.ch4) |
+| 2006 | contourlet coefficients | Computer Vision | [Publication](https://doi.org/10.1109/icr.2006.343411) |
+| 2006 | Conversation Summarization | Agentic AI | [Publication](https://doi.org/10.3115/1614049.1614099) |
+| 2006 | coordinated beamforming | Speech & Audio | [Publication](https://doi.org/10.1109/ciss.2006.286448) |
+| 2006 | core asset | AI Infrastructure | [Publication](https://doi.org/10.1109/apsec.2006.23) |
+| 2006 | cross-layer approach | AI Infrastructure | [Publication](https://doi.org/10.1109/milcom.2006.302081) |
+| 2006 | curvelet coefficients | Computer Vision | [Publication](https://doi.org/10.1109/icip.2006.312654) |
+| 2006 | Data Ownership | Data Science | [Publication](https://doi.org/10.1037/e520942012-028) |
+| 2006 | dct transform | Computer Vision | [Publication](https://doi.org/10.1109/elmar.2006.329522) |
+| 2006 | de-nosing | Computer Vision | [Publication](https://doi.org/10.1109/wac.2006.375745) |
+| 2006 | Deep belief network | Deep Learning | [Publication](https://doi.org/10.1162/neco.2006.18.7.1527) |
+| 2006 | Deliberative Agent | AI Foundations | [Publication](https://doi.org/10.1007/11759683_6) |
+| 2006 | density evolution | Mathematics | [Publication](https://doi.org/10.1109/icc.2006.254895) |
+| 2006 | Dependency Tree | NLP and LLMs | [Publication](https://doi.org/10.1007/11875604_62) |
+| 2006 | Description Logic Reasoning | AI Foundations | [Publication](https://doi.org/10.1007/11799573_50) |
+| 2006 | Detect and Avoid (DAA) | Robotics | [Publication](https://doi.org/10.1109/icu.2006.281602) |
+| 2006 | different frequency | AI Infrastructure | [Publication](https://doi.org/10.1016/j.clinph.2006.06.215) |
+| 2006 | diffusion tensor imaging (dti) | Computer Vision | [Publication](https://doi.org/10.3410/f.1029981.349441) |
+| 2006 | digital games | Reinforcement Learning | [Publication](https://doi.org/10.4135/9781446211410.n2) |
+| 2006 | digital image forensics | Computer Vision | [Publication](https://doi.org/10.1109/icip.2006.312849) |
+| 2006 | discrete particle swarm optimization | Mathematics | [Publication](https://doi.org/10.1109/icia.2006.305922) |
+| 2006 | discrete particle swarm optimization algorithm | Mathematics | [Publication](https://doi.org/10.1109/icia.2006.305922) |
+| 2006 | Distance Metric Learning | Machine Learning | [Publication](https://doi.org/10.1186/1471-2105-7-299) |
+| 2006 | distributed antenna systems | Speech & Audio | [Publication](https://doi.org/10.1109/vtcf.2006.262) |
+| 2006 | Distributed cognition | AI Foundations | [Publication](https://doi.org/10.1075/pc.14.2.06kir) |
+| 2006 | distributed compression | Computer Vision | [Publication](https://doi.org/10.1201/9781420018837.ch9) |
+| 2006 | distributed coordination function (dcf) | AI Infrastructure | [Publication](https://doi.org/10.1093/ietcom/e89-b.5.1605) |
+| 2006 | distribution network | AI Foundations | [Publication](https://doi.org/10.1049/cp:20061777) |
+| 2006 | diversity gains | AI Infrastructure | [Publication](https://doi.org/10.1109/vtcf.2006.74) |
+| 2006 | dom tree | NLP and LLMs | [Publication](https://doi.org/10.1145/1141753.1141777) |
+| 2006 | doubly selective channel | AI Infrastructure | [Publication](https://doi.org/10.1109/ciss.2006.286666) |
+| 2006 | drain efficiency | Speech & Audio | [Publication](https://doi.org/10.1109/emicc.2006.282753) |
+| 2006 | dual-tree complex wavelets | Computer Vision | [Publication](https://doi.org/10.1109/icip.2006.313053) |
+| 2006 | dynamic background | Computer Vision | [Publication](https://doi.org/10.1109/icip.2006.312881) |
+| 2006 | dynamic bayesian network | Speech & Audio | [Publication](https://doi.org/10.1109/ijcnn.2006.247336) |
+| 2006 | Dynamic Range | AI Infrastructure | [Publication](https://doi.org/10.1016/b978-0-12-585263-0.x5000-3) |
+| 2006 | dynamic software architecture | Programming & Software | [Publication](https://doi.org/10.1360/jos171360) |
+| 2006 | dynamic spectrum management | AI Infrastructure | [Publication](https://doi.org/10.1201/9781420013542-21) |
+| 2006 | Earth Mover's Distance (EMD) | Machine Learning | [Publication](https://doi.org/10.1109/tdsc.2006.50) |
+| 2006 | electric control equipment | Robotics | [Publication](https://openalex.org/W2380900390) |
+| 2006 | electric power system interconnection | AI Infrastructure | [Publication](https://doi.org/10.1109/pes.2006.1709401) |
+| 2006 | embedding efficiency | AI Safety | [Publication](https://doi.org/10.1109/tifs.2005.863487) |
+| 2006 | Emergent Abilities | Deep Learning | [Publication](https://doi.org/10.1016/j.physleta.2005.09.041) |
+| 2006 | Enactivism | AI Foundations | [Publication](https://doi.org/10.5040/9798216000198.ch-056) |
+| 2006 | Encouragement Design | Causal Inference | [Publication](https://doi.org/10.1002/sim.2388) |
+| 2006 | energy harvesting systems | AI Infrastructure | [Publication](https://doi.org/10.1109/lpe.2006.4271832) |
+| 2006 | Enforcement Action | AI Applications | [Publication](https://doi.org/10.2139/ssrn.945276) |
+| 2006 | envelope tracking | AI Infrastructure | [Publication](https://doi.org/10.1109/norchp.2006.329266) |
+| 2006 | epidemic routing | AI Infrastructure | [Publication](https://doi.org/10.1145/1143549.1143657) |
+| 2006 | Epistemic Humility | AI Safety | [Publication](https://doi.org/10.1007/978-0-387-36506-0_7) |
+| 2006 | equal power allocation | Speech & Audio | [Publication](https://doi.org/10.1109/icct.2006.341680) |
+| 2006 | Evidence | Mathematics | [Publication](https://doi.org/10.1350/ijep.10.4.327) |
+| 2006 | Exposure Correction | Computer Vision | [Publication](https://doi.org/10.1109/icip.2006.313168) |
+| 2006 | expression recognition | Machine Learning | [Publication](https://doi.org/10.1016/j.patrec.2005.07.026) |
+| 2006 | Extended Mind | Cognitive Science | [Publication](https://doi.org/10.1163/9789401203081_012) |
+| 2006 | face regions | Machine Learning | [Publication](https://doi.org/10.1109/icpr.2006.217) |
+| 2006 | facial expression recognition | Machine Learning | [Publication](https://doi.org/10.1109/icmlc.2006.258460) |
 | 2006 | failure recovery | AI Infrastructure | [Publication](https://doi.org/10.21236/ada448479) |
 | 2006 | fast mode decision | Computer Vision | [Publication](https://doi.org/10.1109/cce.2006.350815) |
 | 2006 | fast mode decision algorithm | Computer Vision | [Publication](https://doi.org/10.1109/icip.2006.313198) |
@@ -435,78 +510,3 @@
 | 2006 ★★ | Indigenous Data Sovereignty | People & Organizations | [Indirect context](https://doi.org/10.1609/aimag.v17i2.1223) — NOT keyword evidence |
 | 2006 ★★ | initial solution | AI Foundations | [Indirect context](https://doi.org/10.1016/0965-9978(93)90055-x) — NOT keyword evidence |
 | 2006 ★★ | Inner Alignment | AI Foundations | [Indirect context](https://doi.org/10.21236/ada243703) — NOT keyword evidence |
-| 2006 ★★ | Input Schema Validation | AI Infrastructure | [Indirect context](https://doi.org/10.1504/ijwgs.2015.068897) — NOT keyword evidence |
-| 2006 ★★ | Institutional Memory Capture | AI Applications | [Indirect context](https://doi.org/10.1037/h0020071) — NOT keyword evidence |
-| 2006 ★★ | Insurance Underwriter for AI | People & Organizations | [Indirect context](https://doi.org/10.1609/aimag.v17i2.1223) — NOT keyword evidence |
-| 2006 ★★ | interactive learning environment | AI Infrastructure | [Indirect context](https://doi.org/10.1080/1049482920020302) — NOT keyword evidence |
-| 2006 ★★ | interconnected power systems | AI Infrastructure | [Indirect context](https://doi.org/10.1109/wcnc.2006.1696540) — NOT keyword evidence |
-| 2006 ★★ | Interval Bound Propagation (IBP) | Security & Privacy | [Indirect context](https://doi.org/10.1300/j070v04n02_07) — NOT keyword evidence |
-| 2006 ★★ | intra mode decision | Computer Vision | [Indirect context](https://doi.org/10.1109/cce.2006.350815) — NOT keyword evidence |
-| 2006 ★★ | ipv6 | AI Infrastructure | [Indirect context](https://doi.org/10.1145/965732.965736) — NOT keyword evidence |
-| 2006 ★★ | iris recognition | AI Safety | [Indirect context](https://doi.org/10.1108/sr.2006.08726aad.006) — NOT keyword evidence |
-| 2006 ★★ | Issue Triage Automation | Programming & Software | [Indirect context](https://doi.org/10.1145/3255373) — NOT keyword evidence |
-| 2006 ★★ | Iterative Refinement Workflow | Generative AI | [Indirect context](https://doi.org/10.1101/2023.12.23.573201) — NOT keyword evidence |
-| 2006 ★★ | Jeff Dean | People & Organizations | [Indirect context](https://doi.org/10.1609/aimag.v17i2.1223) — NOT keyword evidence |
-| 2006 ★★ | Langevin Dynamics | Mathematics | [Indirect context](https://doi.org/10.1109/icoiics67115.2025.11390664) — NOT keyword evidence |
-| 2006 ★★ | Lead Time for Changes | Programming & Software | [Indirect context](https://doi.org/10.1093/oxfordjournals.aje.a113303) — NOT keyword evidence |
-| 2006 ★★ | learning environment | AI Infrastructure | [Indirect context](https://doi.org/10.5220/0010403901690176) — NOT keyword evidence |
-| 2006 ★★ | learning styles | AI Infrastructure | [Indirect context](https://doi.org/10.1080/00940771.1987.11494744) — NOT keyword evidence |
-| 2006 ★★ | Learning Theory Bound | Machine Learning | [Indirect context](https://doi.org/10.1109/tit.2002.805090) — NOT keyword evidence |
-| 2006 ★★ | license plate recognition | Machine Learning | [Indirect context](https://doi.org/10.5120/9934-4569) — NOT keyword evidence |
-| 2006 ★★ | Licensing Compliance | AI Safety | [Indirect context](https://doi.org/10.1007/bf00180065) — NOT keyword evidence |
-| 2006 ★★ | liveness properties | Programming & Software | [Indirect context](https://doi.org/10.1016/0020-0190(83)90039-x) — NOT keyword evidence |
-| 2006 ★★ | Load Forecasting | Time Series & Forecasting | [Indirect context](https://doi.org/10.2139/ssrn.5474906) — NOT keyword evidence |
-| 2006 ★★ | Long-Context Retrieval Tradeoff | Machine Learning | [Indirect context](https://doi.org/10.1007/bfb0054758) — NOT keyword evidence |
-| 2006 ★★ | Long-Lived Branch | Programming & Software | [Indirect context](https://doi.org/10.1093/forestscience/25.2.303) — NOT keyword evidence |
-| 2006 ★★ | low density parity check | Mathematics | [Indirect context](https://doi.org/10.1049/el.2018.5867) — NOT keyword evidence |
-| 2006 ★★ | low-density parity-check (ldpc) codes | Mathematics | [Indirect context](https://doi.org/10.1049/el.2018.5867) — NOT keyword evidence |
-| 2006 ★★ | low-density parity-check codes | Mathematics | [Indirect context](https://doi.org/10.1049/el.2018.5867) — NOT keyword evidence |
-| 2006 ★★ | Manhattan Distance | Machine Learning | [Indirect context](https://doi.org/10.1002/qre.441) — NOT keyword evidence |
-| 2006 ★★ | manifold learning | Machine Learning | [Indirect context](https://doi.org/10.1109/icdm.2009.104) — NOT keyword evidence |
-| 2006 ★★ | many-core | AI Infrastructure | [Indirect context](https://doi.org/10.1016/s0049-237x(08)x7068-5) — NOT keyword evidence |
-| 2006 ★★ | Markdown Optimization | AI Applications | [Indirect context](https://doi.org/10.2139/ssrn.3863663) — NOT keyword evidence |
-| 2006 ★★ | Marvin Minsky | People & Organizations | [Indirect context](https://doi.org/10.1609/aimag.v17i2.1223) — NOT keyword evidence |
-| 2006 ★★ | Matrix Factorization | Mathematics | [Indirect context](https://doi.org/10.1145/2487788.2487801) — NOT keyword evidence |
-| 2006 ★★ | Meaningful Review Capacity | AI Foundations | [Indirect context](https://doi.org/10.1177/174701610600200105) — NOT keyword evidence |
-| 2006 ★★ | media in education | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-94-6300-660-6_6) — NOT keyword evidence |
-| 2006 ★★ | Medusa Heads | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-94-010-9468-9_4) — NOT keyword evidence |
-| 2006 ★★ | metamaterial structures | AI Infrastructure | [Indirect context](https://doi.org/10.1201/9781420054248.ch17) — NOT keyword evidence |
-| 2006 ★★ | Michael Jordan | People & Organizations | [Indirect context](https://doi.org/10.1609/aimag.v17i2.1223) — NOT keyword evidence |
-| 2006 ★★ | micro robotics | AI Foundations | [Indirect context](https://doi.org/10.5772/4878) — NOT keyword evidence |
-| 2006 ★★ | Mila | People & Organizations | [Indirect context](https://doi.org/10.1609/aimag.v17i2.1223) — NOT keyword evidence |
-| 2006 ★★ | mimo | AI Infrastructure | [Indirect context](https://doi.org/10.1017/cbo9780511616815.020) — NOT keyword evidence |
-| 2006 ★★ | MIT CSAIL | People & Organizations | [Indirect context](https://doi.org/10.1609/aimag.v17i2.1223) — NOT keyword evidence |
-| 2006 ★★ | mode selection | Computer Vision | [Indirect context](https://doi.org/10.1109/cce.2006.350815) — NOT keyword evidence |
-| 2006 ★★ | Model Bill of Materials (ML-BOM) | Security & Privacy | [Indirect context](https://doi.org/10.1300/j070v04n02_07) — NOT keyword evidence |
-| 2006 ★★ | Model Deployment Pattern | AI Infrastructure | [Indirect context](https://doi.org/10.66838/sauc.6517) — NOT keyword evidence |
-| 2006 ★★ | multi hop communication | AI Infrastructure | [Indirect context](https://doi.org/10.1145/72981.73005) — NOT keyword evidence |
-| 2006 ★★ | Multi-Camera Fusion | Computer Vision | [Indirect context](https://doi.org/10.1163/156855391x00232) — NOT keyword evidence |
-| 2006 ★★ | multi-core processors | AI Infrastructure | [Indirect context](https://doi.org/10.1145/1179622.1179763) — NOT keyword evidence |
-| 2006 ★★ | Multi-Fidelity Optimization | Mathematics | [Indirect context](https://doi.org/10.1007/978-3-7091-2822-0_3) — NOT keyword evidence |
-| 2006 ★★ | multi-objective learning | Machine Learning | [Indirect context](https://doi.org/10.1145/3251585) — NOT keyword evidence |
-| 2006 ★★ | multiobjective combinatorial optimization | Mathematics | [Indirect context](https://doi.org/10.1016/b978-0-12-566780-7.50016-7) — NOT keyword evidence |
-| 2006 ★★ | Multistakeholder Governance | People & Organizations | [Indirect context](https://doi.org/10.1609/aimag.v17i2.1223) — NOT keyword evidence |
-| 2006 ★★ | mutation operator | Mathematics | [Indirect context](https://doi.org/10.1007/s00500-006-0049-7) — NOT keyword evidence |
-| 2006 ★★ | mutation operators | Mathematics | [Indirect context](https://doi.org/10.1007/s00500-006-0049-7) — NOT keyword evidence |
-| 2006 ★★ | mutation strategy | Mathematics | [Indirect context](https://doi.org/10.1007/s00500-006-0049-7) — NOT keyword evidence |
-| 2006 ★★ | Mutual TLS (mTLS) | Security & Privacy | [Indirect context](https://doi.org/10.1300/j070v04n02_07) — NOT keyword evidence |
-| 2006 ★★ | National AI Strategy | People & Organizations | [Indirect context](https://doi.org/10.1609/aimag.v17i2.1223) — NOT keyword evidence |
-| 2006 ★★ | network coding | AI Infrastructure | [Indirect context](https://doi.org/10.1109/idap64064.2024.10710961) — NOT keyword evidence |
-| 2006 ★★ | NeurIPS | People & Organizations | [Indirect context](https://doi.org/10.1609/aimag.v17i2.1223) — NOT keyword evidence |
-| 2006 ★★ | Node Pool | AI Infrastructure | [Indirect context](https://doi.org/10.1117/12.485248) — NOT keyword evidence |
-| 2006 ★★ | non-negativity | Mathematics | [Indirect context](https://doi.org/10.1007/3-540-44719-9_5) — NOT keyword evidence |
-| 2006 ★★ | Normalized Exact Match | Evaluation & Metrics | [Indirect context](https://doi.org/10.1137/0207043) — NOT keyword evidence |
-| 2006 ★★ | Oblivious Transfer (OT) | Security & Privacy | [Indirect context](https://doi.org/10.1016/j.cose.2022.102695) — NOT keyword evidence |
-| 2006 ★★ | ofdm signals | AI Infrastructure | [Indirect context](https://doi.org/10.1109/cisp.2009.5302974) — NOT keyword evidence |
-| 2006 ★★ | ofdma | AI Infrastructure | [Indirect context](https://doi.org/10.1109/ciss.2006.286482) — NOT keyword evidence |
-| 2006 ★★ | ofdma uplinks | AI Infrastructure | [Indirect context](https://doi.org/10.1109/ciss.2006.286482) — NOT keyword evidence |
-| 2006 ★★ | Optical Flow Guidance | Generative AI | [Indirect context](https://doi.org/10.48550/arxiv.2111.11755) — NOT keyword evidence |
-| 2006 ★★ | optimization | Mathematics | [Indirect context](https://doi.org/10.1007/s11590-009-0120-2) — NOT keyword evidence |
-| 2006 ★★ | Order Fulfilment Optimization | AI Applications | [Indirect context](https://doi.org/10.2139/ssrn.3863663) — NOT keyword evidence |
-| 2006 ★★ | OWASP Top 10 for LLM | Security & Privacy | [Indirect context](https://doi.org/10.1300/j070v04n02_07) — NOT keyword evidence |
-| 2006 ★★ | parallel coordinates | Data Science | [Indirect context](https://doi.org/10.1016/s0169-7161(04)24017-2) — NOT keyword evidence |
-| 2006 ★★ | particle swarm optimization algorithm | Mathematics | [Indirect context](https://doi.org/10.5772/5094) — NOT keyword evidence |
-| 2006 ★★ | particle swarm optimizer | AI Foundations | [Indirect context](https://doi.org/10.1007/978-3-540-45058-0_6) — NOT keyword evidence |
-| 2006 ★★ | particle swarm optimizers | AI Foundations | [Indirect context](https://doi.org/10.1007/978-3-540-45058-0_6) — NOT keyword evidence |
-| 2006 ★★ | Per-Example Gradient Clipping | Security & Privacy | [Indirect context](https://doi.org/10.1300/j070v04n02_07) — NOT keyword evidence |
-| 2006 ★★ | Perceptrons Book | People & Organizations | [Indirect context](https://doi.org/10.1609/aimag.v17i2.1223) — NOT keyword evidence |

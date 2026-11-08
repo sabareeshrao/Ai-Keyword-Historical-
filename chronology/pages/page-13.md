@@ -1,6 +1,6 @@
 # Batch 13/41 — Historical Keywords
 
-**500 keywords**, sorted chronologically (1991 – 1993). The master CSV retains the original permanent IDs.
+**500 keywords**, sorted chronologically (1991 – 1992). The master CSV retains the original permanent IDs.
 
 [All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
@@ -10,6 +10,81 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 1991 | roseobacter | Machine Learning | [Publication](https://doi.org/10.1016/s0723-2020(11)80292-4) |
+| 1991 | Scale-Up | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-642-76673-2_4) |
+| 1991 | scatterometers | AI Infrastructure | [Publication](https://doi.org/10.1109/oceans.1991.628220) |
+| 1991 | scene understanding | Computer Vision | [Publication](https://doi.org/10.1016/1049-9660(91)90062-t) |
+| 1991 | schedulability analysis | AI Foundations | [Publication](https://doi.org/10.1007/978-1-4615-4032-8_3) |
+| 1991 | schema integration | AI Infrastructure | [Publication](https://doi.org/10.21236/ada236814) |
+| 1991 | Schema Validation | Agentic AI | [Publication](https://doi.org/10.1002/j.2048-7940.1991.tb01176.x) |
+| 1991 | Scope Statement | AI Foundations | [Publication](https://doi.org/10.1016/0738-3991(91)90013-u) |
+| 1991 | search sessions | Information Retrieval | [Publication](https://doi.org/10.1007/978-3-662-09078-7_6) |
+| 1991 | Seasonal Differencing | Time Series & Forecasting | [Publication](https://doi.org/10.2307/2337265) |
+| 1991 | security policy | AI Infrastructure | [Publication](https://doi.org/10.1355/9789814379960-003) |
+| 1991 | self-configuring | AI Infrastructure | [Publication](https://doi.org/10.1080/09540099108946572) |
+| 1991 | semantic heterogeneity | Information Retrieval | [Publication](https://doi.org/10.1145/141356.141359) |
+| 1991 | semantic levels | Information Retrieval | [Publication](https://doi.org/10.21437/eurospeech.1991-213) |
+| 1991 | Separating Hyperplane Theorem | Mathematics | [Publication](https://doi.org/10.1017/cbo9781139171663.012) |
+| 1991 | Shared Control | Robotics | [Publication](https://doi.org/10.1007/3-540-38424-3_16) |
+| 1991 | Simpson’s Paradox | AI Foundations | [Publication](https://doi.org/10.1163/18756735-90000492) |
+| 1991 | single sensor | AI Infrastructure | [Publication](https://doi.org/10.21236/ada241827) |
+| 1991 | Situated Cognition | Cognitive Science | [Publication](https://doi.org/10.21236/ada234420) |
+| 1991 | situated learning | AI Infrastructure | [Publication](https://doi.org/10.1017/cbo9780511815355) |
+| 1991 | small sample size problems | Machine Learning | [Publication](https://doi.org/10.1016/b978-0-444-88740-5.50008-6) |
+| 1991 | software architecture analysis | Programming & Software | [Publication](https://doi.org/10.1145/111062.111064) |
+| 1991 | software process improvement | Programming & Software | [Publication](https://doi.org/10.1109/52.300031) |
+| 1991 | software quality framework | Programming & Software | [Publication](https://doi.org/10.21236/ada252976) |
+| 1991 | software reengineering | Programming & Software | [Publication](https://doi.org/10.6028/nist.sp.500-193) |
+| 1991 | source codes | Programming & Software | [Publication](https://doi.org/10.1109/18.79932) |
+| 1991 | Space Complexity | Mathematics | [Publication](https://doi.org/10.1017/cbo9780511609619.012) |
+| 1991 | Spanning Tree | Mathematics | [Publication](https://doi.org/10.1016/b978-1-85617-085-7.50008-1) |
+| 1991 | spatial database | Information Retrieval | [Publication](https://doi.org/10.1016/c2009-0-11739-7) |
+| 1991 | speaker model | Speech & Audio | [Publication](https://doi.org/10.1109/icassp.1991.150472) |
+| 1991 | Spectral Leakage | Signal & Information Theory | [Publication](https://doi.org/10.1364/oam.1991.ths3) |
+| 1991 | speech coders | Speech & Audio | [Publication](https://doi.org/10.1016/0167-6393(91)90017-n) |
+| 1991 | speech coding | Speech & Audio | [Publication](https://doi.org/10.1007/978-1-4615-3266-8_34) |
+| 1991 | speech corpora | Speech & Audio | [Publication](https://doi.org/10.21437/eurospeech.1991-128) |
+| 1991 | standard model | AI Safety | [Publication](https://doi.org/10.1142/9789814540070) |
+| 1991 | stochastic games | Agentic AI | [Publication](https://doi.org/10.1007/978-94-011-3760-7_18) |
+| 1991 | strategic game | Reinforcement Learning | [Publication](https://doi.org/10.1007/978-3-662-07367-4_11) |
+| 1991 | switch fabric | AI Infrastructure | [Publication](https://doi.org/10.1016/0140-3664(91)90123-i) |
+| 1991 | synthetic aperture radar | AI Infrastructure | [Publication](https://doi.org/10.21236/ada245370) |
+| 1991 | system architecture | Programming & Software | [Publication](https://doi.org/10.1016/b978-1-85617-119-9.50007-x) |
+| 1991 | technology innovation | Programming & Software | [Publication](https://doi.org/10.1287/isre.2.3.192) |
+| 1991 | Termination Condition | Agentic AI | [Publication](https://doi.org/10.1145/327164.327301) |
+| 1991 | testing and debugging | Programming & Software | [Publication](https://doi.org/10.21236/ada241891) |
+| 1991 | text lines | Machine Learning | [Publication](https://doi.org/10.1080/00144940.1991.11484069) |
+| 1991 | Texture Mapping | Computer Graphics | [Publication](https://doi.org/10.1155/tsm.14-18.241) |
+| 1991 | time slots | AI Infrastructure | [Publication](https://doi.org/10.1109/electr.1991.718200) |
+| 1991 | Tool Selection | Agentic AI | [Publication](https://doi.org/10.1016/b978-1-55558-070-4.50017-6) |
+| 1991 | Topological Sort | Mathematics | [Publication](https://doi.org/10.1016/0097-8493(91)90009-7) |
+| 1991 | usability problems | Programming & Software | [Publication](https://doi.org/10.1145/126729.1056069) |
+| 1991 | usability studies | Programming & Software | [Publication](https://doi.org/10.1145/126729.1056077) |
+| 1991 | VC Dimension | AI Foundations | [Publication](https://doi.org/10.1016/b978-1-55860-213-7.50026-2) |
+| 1991 | Vectorized Environment | Reinforcement Learning | [Publication](https://doi.org/10.1147/rd.351.0108) |
+| 1991 | Wavelet Transform | Signal & Information Theory | [Publication](https://doi.org/10.21236/ada239642) |
+| 1991 | Weight Decay | Machine Learning | [Publication](https://doi.org/10.1109/72.80308) |
+| 1991 | Wide Format | Data Science | [Publication](https://doi.org/10.1145/125826.125903) |
+| 1991 | Workspace | Robotics | [Publication](https://doi.org/10.1016/b978-0-444-87441-2.50010-8) |
+| 1991 | write operations | AI Infrastructure | [Publication](https://doi.org/10.1016/0164-1212(91)90019-3) |
+| 1991 | Yellowbrick | Tools & Frameworks | [Publication](https://doi.org/10.1111/j.1542-734x.1991.00113.x) |
+| 1991 ★ | Resolution Effect on Quality | Generative AI | [Related source](https://openalex.org/W2754234073) — indirect |
+| 1991 ★★ | 2-d discrete wavelet transforms | Computer Vision | [Indirect context](https://doi.org/10.21236/ada244882) — NOT keyword evidence |
+| 1991 ★★ | 3-d reconstruction | Computer Vision | [Indirect context](https://doi.org/10.1007/978-94-011-3726-3_13) — NOT keyword evidence |
+| 1991 ★★ | As-Of Join | Data Science | [Indirect context](https://doi.org/10.1016/0012-365x(93)90123-b) — NOT keyword evidence |
+| 1991 ★★ | Attitude Control | Robotics | [Indirect context](https://doi.org/10.3182/20050703-6-cz-1902.01341) — NOT keyword evidence |
+| 1991 ★★ | automatic text summarization | Machine Learning | [Indirect context](https://doi.org/10.3115/1567564) — NOT keyword evidence |
+| 1991 ★★ | Behavior-based robotics (BBR) | Robotics | [Indirect context](https://doi.org/10.1007/3-540-64957-3_69) — NOT keyword evidence |
+| 1991 ★★ | Bongard problem | AI Foundations | [Indirect context](https://doi.org/10.21236/ada243703) — NOT keyword evidence |
+| 1991 ★★ | broadband access | AI Infrastructure | [Indirect context](https://doi.org/10.1016/c2009-0-10047-8) — NOT keyword evidence |
+| 1991 ★★ | broadband isdn | AI Infrastructure | [Indirect context](https://doi.org/10.1016/c2009-0-10047-8) — NOT keyword evidence |
+| 1991 ★★ | broadband wireless accesss | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-4471-1570-0_16) — NOT keyword evidence |
+| 1991 ★★ | canny operator | Computer Vision | [Indirect context](https://doi.org/10.1109/cvprw.2008.4563088) — NOT keyword evidence |
+| 1991 ★★ | canny operators | Computer Vision | [Indirect context](https://doi.org/10.1109/cvprw.2008.4563088) — NOT keyword evidence |
+| 1991 ★★ | Capacity Forecasting | Time Series & Forecasting | [Indirect context](https://doi.org/10.2139/ssrn.5474906) — NOT keyword evidence |
+| 1991 ★★ | Chi-Squared Split | Machine Learning | [Indirect context](https://doi.org/10.1007/978-1-4612-2660-4_44) — NOT keyword evidence |
+| 1991 ★★ | color imaging | Computer Vision | [Indirect context](https://doi.org/10.1109/sditas.1991.664394) — NOT keyword evidence |
+| 1991 ★★ | complexity class | Mathematics | [Indirect context](https://doi.org/10.1007/s00233-018-9990-x) — NOT keyword evidence |
 | 1991 ★★ | Complexity Class P | Mathematics | [Indirect context](https://doi.org/10.1007/s00233-018-9990-x) — NOT keyword evidence |
 | 1991 ★★ | Concept Formation | Cognitive Science | [Indirect context](https://doi.org/10.1037/e513702014-071) — NOT keyword evidence |
 | 1991 ★★ | Conditional Random Field (CRF) | AI Foundations | [Indirect context](https://doi.org/10.1109/i2c2.2017.8321833) — NOT keyword evidence |
@@ -435,78 +510,3 @@
 | 1992 ★★ | markov chain monte carlo algorithms | AI Foundations | [Indirect context](https://doi.org/10.1007/978-3-642-18743-8_22) — NOT keyword evidence |
 | 1992 ★★ | markov chain monte carlo method | AI Foundations | [Indirect context](https://doi.org/10.1007/978-3-642-18743-8_22) — NOT keyword evidence |
 | 1992 ★★ | maximum lateness | Mathematics | [Indirect context](https://doi.org/10.1007/978-3-642-48417-9_51) — NOT keyword evidence |
-| 1992 ★★ | maximum matchings | Mathematics | [Indirect context](https://doi.org/10.1007/978-3-642-48417-9_51) — NOT keyword evidence |
-| 1992 ★★ | Mean | Mathematics | [Indirect context](https://doi.org/10.1111/j.1949-8594.1961.tb08507.x) — NOT keyword evidence |
-| 1992 ★★ | Mean Imputation | Mathematics | [Indirect context](https://doi.org/10.2307/2337236) — NOT keyword evidence |
-| 1992 ★★ | meiosis | Data Science | [Indirect context](https://doi.org/10.1093/acref/9780195301731.013.50970) — NOT keyword evidence |
-| 1992 ★★ | mental retardation malformation syndrome | Data Science | [Indirect context](https://doi.org/10.1093/acref/9780195301731.013.50970) — NOT keyword evidence |
-| 1992 ★★ | metaphase | Data Science | [Indirect context](https://doi.org/10.1093/acref/9780195301731.013.50970) — NOT keyword evidence |
-| 1992 ★★ | modern logistics | Mathematics | [Indirect context](https://doi.org/10.2307/2529594) — NOT keyword evidence |
-| 1992 ★★ | monte carlo analysis | Mathematics | [Indirect context](https://doi.org/10.5194/egusphere-egu23-8679) — NOT keyword evidence |
-| 1992 ★★ | Monte Carlo Dropout | Mathematics | [Indirect context](https://doi.org/10.5194/egusphere-egu23-8679) — NOT keyword evidence |
-| 1992 ★★ | Monte Carlo Integration | Mathematics | [Indirect context](https://doi.org/10.2172/7109385) — NOT keyword evidence |
-| 1992 ★★ | Multiple Imputation | Mathematics | [Indirect context](https://doi.org/10.2307/2337236) — NOT keyword evidence |
-| 1992 ★★ | negro | Data Science | [Indirect context](https://doi.org/10.1093/acref/9780195301731.013.50970) — NOT keyword evidence |
-| 1992 ★★ | network address translations | AI Infrastructure | [Indirect context](https://doi.org/10.1145/17356.17398) — NOT keyword evidence |
-| 1992 ★★ | non-negative matrix factorization algorithms | Machine Learning | [Indirect context](https://doi.org/10.1016/s0001-6918(98)00011-0) — NOT keyword evidence |
-| 1992 ★★ | Object Coherence | Generative AI | [Indirect context](https://doi.org/10.1167/jov.25.9.2340) — NOT keyword evidence |
-| 1992 ★★ | operon | Data Science | [Indirect context](https://doi.org/10.1093/acref/9780195301731.013.50970) — NOT keyword evidence |
-| 1992 ★★ | paper coating | Robotics | [Indirect context](https://doi.org/10.23919/acc.1990.4791139) — NOT keyword evidence |
-| 1992 ★★ | Permutation Symmetry of Neurons | Deep Learning | [Indirect context](https://doi.org/10.1126/science.129.3354.962) — NOT keyword evidence |
-| 1992 ★★ | photographic accessories | Machine Learning | [Indirect context](https://doi.org/10.1016/s0001-6918(98)00011-0) — NOT keyword evidence |
-| 1992 ★★ | printed texts | Machine Learning | [Indirect context](https://doi.org/10.1016/s0001-6918(98)00011-0) — NOT keyword evidence |
-| 1992 ★★ | qtl | Data Science | [Indirect context](https://doi.org/10.1093/acref/9780195301731.013.50970) — NOT keyword evidence |
-| 1992 ★★ | queueing analysis | Mathematics | [Indirect context](https://doi.org/10.1080/02331888508801841) — NOT keyword evidence |
-| 1992 ★★ | radar detection | Speech & Audio | [Indirect context](https://doi.org/10.1049/ip-f-2.1992.0048) — NOT keyword evidence |
-| 1992 ★★ | radar imaging | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-4615-3370-2_32) — NOT keyword evidence |
-| 1992 ★★ | radar target | Speech & Audio | [Indirect context](https://doi.org/10.1002/047134608x.w1129) — NOT keyword evidence |
-| 1992 ★★ | radar transmitters | Speech & Audio | [Indirect context](https://doi.org/10.1049/ip-f-2.1992.0048) — NOT keyword evidence |
-| 1992 ★★ | radial based function | Machine Learning | [Indirect context](https://doi.org/10.1109/72.548164) — NOT keyword evidence |
-| 1992 ★★ | regulon | Data Science | [Indirect context](https://doi.org/10.1093/acref/9780195301731.013.50970) — NOT keyword evidence |
-| 1992 ★★ | Relevance Engineer | Information Retrieval | [Indirect context](https://doi.org/10.1145/3331184.3331326) — NOT keyword evidence |
-| 1992 ★★ | rflp | Data Science | [Indirect context](https://doi.org/10.1093/acref/9780195301731.013.50970) — NOT keyword evidence |
-| 1992 ★★ | Safety by Design | AI Foundations | [Indirect context](https://doi.org/10.1515/9789048518388) — NOT keyword evidence |
-| 1992 ★★ | Sandboxed Execution | Security & Privacy | [Indirect context](https://doi.org/10.1007/1-4020-0613-6_18741) — NOT keyword evidence |
-| 1992 ★★ | self reconfiguration | Robotics | [Indirect context](https://doi.org/10.23919/acc.1990.4791139) — NOT keyword evidence |
-| 1992 ★★ | self-reconfigurable | Robotics | [Indirect context](https://doi.org/10.23919/acc.1990.4791139) — NOT keyword evidence |
-| 1992 ★★ | self-stabilization | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-4615-3332-0_8) — NOT keyword evidence |
-| 1992 ★★ | self-stabilizing algorithm | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-1-4615-3332-0_8) — NOT keyword evidence |
-| 1992 ★★ | Sequential Monte Carlo (SMC) | Mathematics | [Indirect context](https://doi.org/10.5194/egusphere-egu23-8679) — NOT keyword evidence |
-| 1992 ★★ | shack-hartmann | AI Infrastructure | [Indirect context](https://doi.org/10.1117/12.56178) — NOT keyword evidence |
-| 1992 ★★ | Situated | AI Foundations | [Indirect context](https://doi.org/10.21236/ada234420) — NOT keyword evidence |
-| 1992 ★★ | smith predictors | Robotics | [Indirect context](https://doi.org/10.1016/b978-0-08-034349-5.50040-8) — NOT keyword evidence |
-| 1992 ★★ | snp | Data Science | [Indirect context](https://doi.org/10.1093/acref/9780195301731.013.50970) — NOT keyword evidence |
-| 1992 ★★ | SQL Execution Verification | Information Retrieval | [Indirect context](https://doi.org/10.1016/b978-155860456-8/50010-2) — NOT keyword evidence |
-| 1992 ★★ | stable walking | AI Foundations | [Indirect context](https://doi.org/10.7551/mitpress/5040.003.0027) — NOT keyword evidence |
-| 1992 ★★ | stereo matching algorithm | Mathematics | [Indirect context](https://doi.org/10.21236/ada399734) — NOT keyword evidence |
-| 1992 ★★ | stereopsis | Machine Learning | [Indirect context](https://doi.org/10.1016/s0001-6918(98)00011-0) — NOT keyword evidence |
-| 1992 ★★ | Submodular Selection | Machine Learning | [Indirect context](https://doi.org/10.1162/neco.1992.4.4.590) — NOT keyword evidence |
-| 1992 ★★ | Symmetry Group | Mathematics | [Indirect context](https://doi.org/10.1007/bf02757237) — NOT keyword evidence |
-| 1992 ★★ | T-Test | Mathematics | [Indirect context](https://doi.org/10.2307/2334625) — NOT keyword evidence |
-| 1992 ★★ | telerobotic systems | Robotics | [Indirect context](https://doi.org/10.23919/acc.1990.4791139) — NOT keyword evidence |
-| 1992 ★★ | telluric prospecting | NLP and LLMs | [Indirect context](https://doi.org/10.1038/169311c0) — NOT keyword evidence |
-| 1992 ★★ | terahertz time domain spectroscopy | Speech & Audio | [Indirect context](https://openalex.org/W620879451) — NOT keyword evidence |
-| 1992 ★★ | time domain | Speech & Audio | [Indirect context](https://openalex.org/W620879451) — NOT keyword evidence |
-| 1992 ★★ | time domain reflectometry (tdr) | Speech & Audio | [Indirect context](https://openalex.org/W620879451) — NOT keyword evidence |
-| 1992 ★★ | time-domain methods | Speech & Audio | [Indirect context](https://openalex.org/W620879451) — NOT keyword evidence |
-| 1992 ★★ | topological optimization | Mathematics | [Indirect context](https://doi.org/10.1016/0097-8493(91)90009-7) — NOT keyword evidence |
-| 1992 ★★ | training documents | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-3-642-77281-8_26) — NOT keyword evidence |
-| 1992 ★★ | up-link transmissions | AI Infrastructure | [Indirect context](https://doi.org/10.1016/j.comnet.2003.10.006) — NOT keyword evidence |
-| 1992 ★★ | visualization technique | AI Applications | [Indirect context](https://doi.org/10.1109/visual.1990.146352) — NOT keyword evidence |
-| 1992 ★★ | visualization techniques | AI Applications | [Indirect context](https://doi.org/10.1109/visual.1990.146352) — NOT keyword evidence |
-| 1992 ★★ | visualization tools | AI Applications | [Indirect context](https://doi.org/10.1109/visual.1990.146352) — NOT keyword evidence |
-| 1992 ★★ | wavelet decomposition | Computer Vision | [Indirect context](https://doi.org/10.1016/b978-0-12-047140-9.50008-1) — NOT keyword evidence |
-| 1993 | Absorbing State | Mathematics | [Publication](https://doi.org/10.21236/ada265557) |
-| 1993 | action selection | Reinforcement Learning | [Publication](https://doi.org/10.21236/ada274261) |
-| 1993 | Actor Model | Programming & Software | [Publication](https://doi.org/10.21236/ada260196) |
-| 1993 | actuator failures | Robotics | [Publication](https://doi.org/10.23919/acc.1993.4793486) |
-| 1993 | Actuator Saturation | Robotics | [Publication](https://doi.org/10.23919/acc.1993.4793322) |
-| 1993 | ADALINE | AI Foundations | [Publication](https://doi.org/10.1117/12.983198) |
-| 1993 | Adaptive Step Size | Mathematics | [Publication](https://doi.org/10.1109/78.218137) |
-| 1993 | Affinity Scheduling | AI Infrastructure | [Publication](https://doi.org/10.1145/166962.167038) |
-| 1993 | Anti-Join | Data Science | [Publication](https://doi.org/10.1016/0012-365x(93)90123-b) |
-| 1993 | Automatic Differentiation (AD) | Deep Learning | [Publication](https://doi.org/10.1115/detc1993-0287) |
-| 1993 | backstepping design | Deep Learning | [Publication](https://doi.org/10.1016/b978-0-08-041901-5.50076-2) |
-| 1993 | Benchmark | AI Foundations | [Publication](https://doi.org/10.21236/ada274035) |
-| 1993 | Best-First Search | Mathematics | [Publication](https://doi.org/10.1016/0004-3702(93)90045-d) |
-| 1993 | bistatic radars | Computer Vision | [Publication](https://doi.org/10.1049/pbra004e_ch11) |

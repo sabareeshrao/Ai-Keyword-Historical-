@@ -1,4 +1,4 @@
-# Complete AI keyword tables — 20,000 terms
+# Complete AI keyword tables — 20,375 terms (20,000 base imports + original seed + gap additions)
 
 [**Recovery 004 — original 1,000 undated records (25 dated leads; recovery incomplete)**](../batches/DATE_RESEARCH_004_RECOVERY_FIRST_1000.md)
 
@@ -15,7 +15,7 @@
 [**Previously undated recovery — explicitly speculative ★★ years**](../batches/UNDATED_RECOVERY_DOUBLE_STAR.md)
 [**New undated recovery — additional speculative ★★ years (IDs 12501–20100)**](../batches/UNDATED_RECOVERY_NEW_DOUBLE_STAR.md)
 
-Every keyword is included, not a short preview. Four batches of 5,000; each divided into ten GitHub-friendly tables of 500 rows.
+Every keyword is included. Four original imported batches of 5,000 each have ten tables of 500 rows; the permanent-ID seed and new historical gap additions are linked separately.
 
 **Organization:** field A-Z, keyword A-Z. Permanent IDs are unchanged. Historical first-use dates remain blank until verified; some rows display dated research-source attestations.
 
@@ -123,4 +123,14 @@ Every keyword is included, not a short preview. Four batches of 5,000; each divi
 | 08 | 500 | [Read full table](batch-004/page-08.md) |
 | 09 | 500 | [Read full table](batch-004/page-09.md) |
 | 10 | 500 | [Read full table](batch-004/page-10.md) |
+
+## Historical and modern keyword gap additions
+
+**275 new terms** with permanent IDs starting at AIH-20101. Original 20,100 records are retained.
+
+[Complete four-column additions table](../batches/HISTORICAL_GAP_ADDITIONS.md) | [Gap audit](../data/HISTORICAL_GAP_AUDIT_REPORT.json)
+
+| Page | Keywords | Link |
+|---:|---:|---|
+| 01 | 275 | [Open table](batch-005/page-01.md) |
 

@@ -10,6 +10,44 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 1970 | Ill-Conditioned System | Mathematics | [Publication](https://doi.org/10.21136/am.1970.103291) |
+| 1970 | information storage and retrieval | Information Retrieval | [Publication](https://doi.org/10.1016/0020-0271(70)90058-6) |
+| 1970 | infrared detectors | AI Infrastructure | [Publication](https://doi.org/10.1016/s0080-8784(08)62812-4) |
+| 1970 | integrated circuit testing | AI Infrastructure | [Publication](https://doi.org/10.1016/0026-2714(70)90602-5) |
+| 1970 | Interruptibility | Reinforcement Learning | [Publication](https://doi.org/10.1121/1.1974859) |
+| 1970 | Intonation Contour | Speech & Audio | [Publication](https://doi.org/10.1159/000259310) |
+| 1970 | Inverse Function Theorem | Mathematics | [Publication](https://doi.org/10.1111/j.1949-8594.1970.tb08689.x) |
+| 1970 | inverse heat conduction problem | Computer Vision | [Publication](https://doi.org/10.1016/0017-9310(70)90044-x) |
+| 1970 | Masking Threshold | Signal & Information Theory | [Publication](https://openalex.org/W1541574657) |
+| 1970 | mathematical morphology | Computer Vision | [Publication](https://doi.org/10.1007/bf02178814) |
+| 1970 | medical computing | AI Infrastructure | [Publication](https://doi.org/10.1016/0020-7101(70)90033-4) |
+| 1970 | Metric Definition | Data Science | [Publication](https://doi.org/10.1090/s0002-9939-1970-0259562-0) |
+| 1970 | micro-mobility | AI Infrastructure | [Publication](https://doi.org/10.33422/ejest.v3i1.163) |
+| 1970 | monolithic microwave integrated circuits | AI Infrastructure | [Publication](https://doi.org/10.1049/el:19700302) |
+| 1970 | multiwavelength | AI Infrastructure | [Publication](https://doi.org/10.21236/ad0704535) |
+| 1970 | network analysis | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-349-00594-9_14) |
+| 1970 | noise source | Speech & Audio | [Publication](https://doi.org/10.21236/ad0871999) |
+| 1970 | Norm Formation | AI Foundations | [Publication](https://doi.org/10.2307/2786157) |
+| 1970 | Optical Character Recognition (OCR) | Computer Vision | [Publication](https://doi.org/10.1016/0031-3203(70)90026-9) |
+| 1970 | optical data processing | Computer Vision | [Publication](https://doi.org/10.21236/ad0712369) |
+| 1970 | outage probabilities | Speech & Audio | [Publication](https://doi.org/10.1109/tpas.1970.292555) |
+| 1970 | parameter adaptation | AI Foundations | [Publication](https://doi.org/10.1109/sap.1970.269994) |
+| 1970 | pattern classification problems | Machine Learning | [Publication](https://doi.org/10.5109/13043) |
+| 1970 | penalty function | AI Foundations | [Publication](https://doi.org/10.2307/1267201) |
+| 1970 | perfect matchings | Mathematics | [Publication](https://doi.org/10.1137/1012106) |
+| 1970 | phase noise | Speech & Audio | [Publication](https://doi.org/10.21236/ada950720) |
+| 1970 | poisson point process | AI Infrastructure | [Publication](https://doi.org/10.1016/0025-5564(70)90061-1) |
+| 1970 | Power Analysis | Mathematics | [Publication](https://doi.org/10.2307/2529115) |
+| 1970 | radar receivers | Speech & Audio | [Publication](https://doi.org/10.1049/ep.1970.0223) |
+| 1970 | random access memories | AI Infrastructure | [Publication](https://doi.org/10.1109/isscc.1970.1154798) |
+| 1970 | real-time tasks | AI Foundations | [Publication](https://doi.org/10.1145/321574.321586) |
+| 1970 | Relative Error | Evaluation & Metrics | [Publication](https://doi.org/10.21236/ad0708691) |
+| 1970 | Riemann Integral | Mathematics | [Publication](https://doi.org/10.3126/bibechana.v7i0.4051) |
+| 1970 | Rotation Matrix | Mathematics | [Publication](https://doi.org/10.1177/003754977001500401) |
+| 1970 | Scaling Hypothesis | People & Organizations | [Publication](https://doi.org/10.1007/bf02824303) |
+| 1970 | security controls | AI Safety | [Publication](https://doi.org/10.7249/p4329) |
+| 1970 | shift registers | AI Safety | [Publication](https://doi.org/10.1109/iedm.1970.188211) |
+| 1970 | software complexity | Programming & Software | [Publication](https://doi.org/10.2495/sqm940251) |
 | 1970 | sound signal | Speech & Audio | [Publication](https://doi.org/10.1016/0041-624x(70)90965-0) |
 | 1970 | Steady-State Error | Robotics | [Publication](https://doi.org/10.1109/tit.1970.1054474) |
 | 1970 | temporal properties | AI Foundations | [Publication](https://doi.org/10.1016/b978-0-12-189750-5.50018-x) |
@@ -138,6 +176,17 @@
 | 1971 | transponders | AI Infrastructure | [Publication](https://doi.org/10.1109/euma.1971.331524) |
 | 1971 | Turing Award | People & Organizations | [Publication](https://doi.org/10.1145/800184.810467) |
 | 1971 | Visual Search Task | Cognitive Science | [Publication](https://doi.org/10.1037/e596172009-001) |
+| 1971 ★ | Stanford Research Institute Problem Solver | Robotics | [Related source](https://ijcai.org/proceedings/1971/63) — indirect |
+| 1971 ★ | STRIPS action representation | Robotics | [Related source](https://ijcai.org/proceedings/1971/63) — indirect |
+| 1971 ★ | STRIPS add list | Robotics | [Related source](https://ijcai.org/proceedings/1971/63) — indirect |
+| 1971 ★ | STRIPS delete list | Robotics | [Related source](https://ijcai.org/proceedings/1971/63) — indirect |
+| 1971 ★ | STRIPS frame assumption | Robotics | [Related source](https://ijcai.org/proceedings/1971/63) — indirect |
+| 1971 ★ | STRIPS goal stack | Robotics | [Related source](https://ijcai.org/proceedings/1971/63) — indirect |
+| 1971 ★ | STRIPS operator precondition | Robotics | [Related source](https://ijcai.org/proceedings/1971/63) — indirect |
+| 1971 ★ | STRIPS operator schema | Robotics | [Related source](https://ijcai.org/proceedings/1971/63) — indirect |
+| 1971 ★ | STRIPS planning operator | Robotics | [Related source](https://ijcai.org/proceedings/1971/63) — indirect |
+| 1971 ★ | STRIPS theorem prover | Robotics | [Related source](https://ijcai.org/proceedings/1971/63) — indirect |
+| 1971 ★ | STRIPS world model | Robotics | [Related source](https://ijcai.org/proceedings/1971/63) — indirect |
 | 1971 ★★ | base station | AI Infrastructure | [Indirect context](https://openalex.org/W7217363515) — NOT keyword evidence |
 | 1971 ★★ | base stations | AI Infrastructure | [Indirect context](https://openalex.org/W7217363515) — NOT keyword evidence |
 | 1971 ★★ | cable modems | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tcatv.1977.285685) — NOT keyword evidence |
@@ -461,52 +510,3 @@
 | 1974 | Memory Retrieval | Agentic AI | [Publication](https://doi.org/10.3758/bf03196906) |
 | 1974 | microcavities | Computer Vision | [Publication](https://doi.org/10.1016/0148-9062(74)92874-5) |
 | 1974 | Minimal Sufficient Statistic | Mathematics | [Publication](https://doi.org/10.2307/2683602) |
-| 1974 | mitochondrial genetics | Data Science | [Publication](https://doi.org/10.1093/genetics/78.1.415) |
-| 1974 | mode-locking | AI Infrastructure | [Publication](https://doi.org/10.21236/ada002747) |
-| 1974 | Model Selection | Machine Learning | [Publication](https://doi.org/10.2307/2296710) |
-| 1974 | monopole antenna | AI Infrastructure | [Publication](https://doi.org/10.1109/aps.1974.1147244) |
-| 1974 | multiple target tracking | AI Infrastructure | [Publication](https://doi.org/10.1002/j.2161-4296.1974.tb01229.x) |
-| 1974 | noise pollution control | Computer Vision | [Publication](https://doi.org/10.1080/00022470.1974.10469902) |
-| 1974 | Noisy Channel Coding Theorem | Signal & Information Theory | [Publication](https://doi.org/10.1080/00029890.1974.11993679) |
-| 1974 | nondominated solutions | Mathematics | [Publication](https://doi.org/10.1007/978-3-642-80808-1_4) |
-| 1974 | objective space | Mathematics | [Publication](https://doi.org/10.1007/978-94-010-2294-1_12) |
-| 1974 | optical-fiber communications | AI Infrastructure | [Publication](https://openalex.org/W3011081543) |
-| 1974 | Orchestration | AI Foundations | [Publication](https://doi.org/10.1515/9783110809695-011) |
-| 1974 | Paralinguistics | Speech & Audio | [Publication](https://doi.org/10.1515/9783111659916-008) |
-| 1974 | Physical Plausibility | Generative AI | [Publication](https://doi.org/10.3758/bf03203242) |
-| 1974 | point targets | Computer Vision | [Publication](https://openalex.org/W1547695231) |
-| 1974 | POP-11 | AI Foundations | [Publication](https://openalex.org/W321303789) |
-| 1974 | Presupposition | NLP and LLMs | [Publication](https://doi.org/10.1515/9783110876291) |
-| 1974 | Quasi-Experiment | Causal Inference | [Publication](https://doi.org/10.1037/e542822011-068) |
-| 1974 | random walkers | Computer Vision | [Publication](https://doi.org/10.3905/jpm.1974.408498) |
-| 1974 | Rater Training | Evaluation & Metrics | [Publication](https://doi.org/10.1080/10510977409367806) |
-| 1974 | Regression Coefficient | Mathematics | [Publication](https://doi.org/10.3386/w0060) |
-| 1974 | relational data model | AI Foundations | [Publication](https://openalex.org/W100866098) |
-| 1974 | Remote Sensing | Science & Healthcare AI | [Publication](https://doi.org/10.1016/0034-4257(74)90056-x) |
-| 1974 | Sample Rate | Signal & Information Theory | [Publication](https://doi.org/10.2514/6.1974-885) |
-| 1974 | Schur Complement | Mathematics | [Publication](https://doi.org/10.1016/0024-3795(74)90066-4) |
-| 1974 | secure communications | AI Infrastructure | [Publication](https://doi.org/10.21236/ada542654) |
-| 1974 | Sound Source Localization | Speech & Audio | [Publication](https://doi.org/10.1121/1.1903248) |
-| 1974 | speech communication | Speech & Audio | [Publication](https://doi.org/10.1080/10417947409372232) |
-| 1974 | static background | Computer Vision | [Publication](https://doi.org/10.1080/00221309.1974.9920791) |
-| 1974 | Strong Duality | Mathematics | [Publication](https://doi.org/10.1016/0370-2693(74)90525-5) |
-| 1974 | systems design | AI Foundations | [Publication](https://doi.org/10.7312/luca94422-008) |
-| 1974 | tracking algorithm | AI Infrastructure | [Publication](https://doi.org/10.21236/ad0787635) |
-| 1974 | Training Stability | Machine Learning | [Publication](https://doi.org/10.1007/bf00053496) |
-| 1974 | understandability | Programming & Software | [Publication](https://doi.org/10.2307/2490377) |
-| 1974 | user interests | Information Retrieval | [Publication](https://doi.org/10.2514/6.1974-649) |
-| 1974 | utility computing | AI Infrastructure | [Publication](https://doi.org/10.1145/1500175.1500370) |
-| 1974 | Variance Reduction | Mathematics | [Publication](https://doi.org/10.2307/2334296) |
-| 1974 | Wiener Filter | Signal & Information Theory | [Publication](https://doi.org/10.1007/978-3-662-10047-9_2) |
-| 1974 | Yield Optimization | AI Applications | [Publication](https://doi.org/10.1016/0026-2714(74)90153-x) |
-| 1974 ★★ | adaptive array | Speech & Audio | [Indirect context](https://doi.org/10.1109/cdc.1974.270538) — NOT keyword evidence |
-| 1974 ★★ | Clustering Coefficient | Mathematics | [Indirect context](https://doi.org/10.4153/cjm-1957-043-6) — NOT keyword evidence |
-| 1974 ★★ | Episodic Agent Memory | Agentic AI | [Indirect context](https://doi.org/10.1037/h0020071) — NOT keyword evidence |
-| 1974 ★★ | Machine perception | AI Foundations | [Indirect context](https://doi.org/10.1068/p040229) — NOT keyword evidence |
-| 1974 ★★ | maneuvering target tracking | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ad0754387) — NOT keyword evidence |
-| 1974 ★★ | Memory Staleness | Agentic AI | [Indirect context](https://doi.org/10.1007/978-1-4684-0730-3_23) — NOT keyword evidence |
-| 1974 ★★ | monopole antennas | AI Infrastructure | [Indirect context](https://doi.org/10.1109/aps.1974.1147244) — NOT keyword evidence |
-| 1974 ★★ | OPTICS | Machine Learning | [Indirect context](https://doi.org/10.1007/978-1-4684-2082-1_15) — NOT keyword evidence |
-| 1974 ★★ | Rolling Statistic | Time Series & Forecasting | [Indirect context](https://doi.org/10.1016/j.ijforecast.2019.04.013) — NOT keyword evidence |
-| 1974 ★★ | Sampling Theorem | Signal & Information Theory | [Indirect context](https://doi.org/10.1080/00029890.1974.11993679) — NOT keyword evidence |
-| 1974 ★★ | Spline | Mathematics | [Indirect context](https://doi.org/10.1016/b978-0-12-079050-0.50011-4) — NOT keyword evidence |

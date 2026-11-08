@@ -1,6 +1,6 @@
 # Batch 09/41 — Historical Keywords
 
-**500 keywords**, sorted chronologically (1985 – 1987). The master CSV retains the original permanent IDs.
+**500 keywords**, sorted chronologically (1985 – 1986). The master CSV retains the original permanent IDs.
 
 [All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
@@ -10,6 +10,73 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 1985 | Perceptual robotics | Robotics | [Publication](https://doi.org/10.1007/978-1-4757-1388-6_20) |
+| 1985 | Physical symbol system | AI Foundations | [Publication](https://doi.org/10.1145/382208.382515) |
+| 1985 | Piano Roll | Speech & Audio | [Publication](https://doi.org/10.2307/941168) |
+| 1985 | polynomial space | Mathematics | [Publication](https://doi.org/10.1145/382252.382253) |
+| 1985 | Post Hoc Rationalization | AI Safety | [Publication](https://doi.org/10.1080/00221325.1985.9914455) |
+| 1985 | process variability | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4684-7499-2_2) |
+| 1985 | projection displays | AI Applications | [Publication](https://doi.org/10.1016/0141-9382(85)90126-x) |
+| 1985 | quadrature phase shift keying | Speech & Audio | [Publication](https://doi.org/10.1109/t-su.1985.31663) |
+| 1985 | radar imagery | AI Infrastructure | [Publication](https://doi.org/10.1007/978-94-010-9444-3_47) |
+| 1985 | Random Variable Transformation | Mathematics | [Publication](https://doi.org/10.1119/1.14109) |
+| 1985 | random walk method | Mathematics | [Publication](https://doi.org/10.2172/6336620) |
+| 1985 | rate distortion performance | Computer Vision | [Publication](https://doi.org/10.1109/tit.1985.1057040) |
+| 1985 | real-time operating systems | AI Foundations | [Publication](https://openalex.org/W50083869) |
+| 1985 | reasoning tasks | Information Retrieval | [Publication](https://doi.org/10.1037/e424092004-001) |
+| 1985 | reconstruction algorithm | Computer Vision | [Publication](https://doi.org/10.1118/1.595738) |
+| 1985 | rectangular patch | AI Infrastructure | [Publication](https://doi.org/10.1049/el:19850617) |
+| 1985 | rectangular patch antenna | AI Infrastructure | [Publication](https://doi.org/10.1049/el:19850617) |
+| 1985 | redundant manipulators | Robotics | [Publication](https://doi.org/10.1007/978-1-4615-9882-4_6) |
+| 1985 | Region of Interest (ROI) | Computer Vision | [Publication](https://doi.org/10.1097/00006231-198505000-00009) |
+| 1985 | Replicate | Tools & Frameworks | [Publication](https://doi.org/10.1093/ajcp/84.3.407) |
+| 1985 | robotic manipulators | Robotics | [Publication](https://doi.org/10.1007/978-1-4615-9882-4_15) |
+| 1985 | sampling period | Robotics | [Publication](https://doi.org/10.1007/978-3-642-82554-5_4) |
+| 1985 | segmentation algorithms | Computer Vision | [Publication](https://doi.org/10.1117/12.946577) |
+| 1985 | sensing systems | AI Infrastructure | [Publication](https://doi.org/10.1016/c2013-0-10488-6) |
+| 1985 | shape descriptor | Computer Vision | [Publication](https://doi.org/10.1515/zna-1985-1106) |
+| 1985 | shape optimization | Mathematics | [Publication](https://doi.org/10.1016/b978-0-12-280910-1.50007-6) |
+| 1985 | Shear Transformation | Mathematics | [Publication](https://doi.org/10.1051/jphys:01985004605077100) |
+| 1985 | ship detection | AI Infrastructure | [Publication](https://doi.org/10.4095/332004) |
+| 1985 | signal timing | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-349-06978-1_4) |
+| 1985 | Signal-to-Noise Ratio (SNR) | Signal & Information Theory | [Publication](https://doi.org/10.1117/12.950691) |
+| 1985 | single photon emission computed tomography (spect) | Computer Vision | [Publication](https://doi.org/10.1007/978-94-009-5022-1_14) |
+| 1985 | Social Dilemma | Reinforcement Learning | [Publication](https://doi.org/10.1016/0165-4896(85)90055-1) |
+| 1985 | software development | Programming & Software | [Publication](https://doi.org/10.1017/cbo9780511624223.004) |
+| 1985 | software development process | Programming & Software | [Publication](https://doi.org/10.1017/cbo9780511624223.004) |
+| 1985 | software effort estimation | Programming & Software | [Publication](https://doi.org/10.1016/s0065-2458(08)60364-2) |
+| 1985 | software quality control | Programming & Software | [Publication](https://doi.org/10.1109/tse.1985.232178) |
+| 1985 | software reliability growth models | Programming & Software | [Publication](https://doi.org/10.1002/asm.3150010108) |
+| 1985 | Staging Table | Data Science | [Publication](https://doi.org/10.2307/1444854) |
+| 1985 | static program analysis | Programming & Software | [Publication](https://doi.org/10.1524/itit.1985.27.16.89) |
+| 1985 | statistics | Mathematics | [Publication](https://doi.org/10.1080/02331888508801841) |
+| 1985 | Stochastic Optimization | Mathematics | [Publication](https://doi.org/10.1515/9783112780312-003) |
+| 1985 | stochastic petri nets | Mathematics | [Publication](https://doi.org/10.21236/ada158348) |
+| 1985 | Supercomputer | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4613-2503-1) |
+| 1985 | superlattices | AI Infrastructure | [Publication](https://doi.org/10.1016/0749-6036(85)90005-9) |
+| 1985 | supervector | Speech & Audio | [Publication](https://doi.org/10.1016/0010-4655(85)90141-9) |
+| 1985 | Task Allocation | Robotics | [Publication](https://doi.org/10.2307/352084) |
+| 1985 | temporal database | AI Foundations | [Publication](https://doi.org/10.1145/325405.325412) |
+| 1985 | temporal frequency | Machine Learning | [Publication](https://doi.org/10.1016/0042-6989(85)90227-5) |
+| 1985 | Text Generation | Generative AI | [Publication](https://doi.org/10.1017/cbo9780511620751) |
+| 1985 | text input | Machine Learning | [Publication](https://doi.org/10.1109/mc.1985.1662891) |
+| 1985 | Timeline Generation | NLP and LLMs | [Publication](https://doi.org/10.1109/tns.1985.4333812) |
+| 1985 | transaction processing | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc955) |
+| 1985 | two-dimensional cellular automata | AI Foundations | [Publication](https://doi.org/10.1007/bf01010423) |
+| 1985 | unrelated parallel machines | AI Foundations | [Publication](https://doi.org/10.1016/0166-218x(85)90009-5) |
+| 1985 | Utilization Gap | AI Infrastructure | [Publication](https://doi.org/10.1177/009155218501300101) |
+| 1985 ★★ | amplified spontaneous emissions | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0375-9601(70)90168-4) — NOT keyword evidence |
+| 1985 ★★ | Bipartite Matching | Mathematics | [Indirect context](https://doi.org/10.21136/cpm.1985.108591) — NOT keyword evidence |
+| 1985 ★★ | biped robot | AI Foundations | [Indirect context](https://doi.org/10.1142/9789814354301_0012) — NOT keyword evidence |
+| 1985 ★★ | bit error rate | Speech & Audio | [Indirect context](https://doi.org/10.1109/milcom.1985.4794929) — NOT keyword evidence |
+| 1985 ★★ | cell formation | Mathematics | [Indirect context](https://doi.org/10.1016/0045-7949(94)90435-9) — NOT keyword evidence |
+| 1985 ★★ | Changelog Generation | Programming & Software | [Indirect context](https://doi.org/10.2139/ssrn.6087362) — NOT keyword evidence |
+| 1985 ★★ | clean speech | Speech & Audio | [Indirect context](https://doi.org/10.21437/eurospeech.1989-19) — NOT keyword evidence |
+| 1985 ★★ | combination forecasting | Machine Learning | [Indirect context](https://doi.org/10.1016/0169-2070(86)90038-5) — NOT keyword evidence |
+| 1985 ★★ | communication network | AI Infrastructure | [Indirect context](https://openalex.org/W155542418) — NOT keyword evidence |
+| 1985 ★★ | communication networks | AI Infrastructure | [Indirect context](https://openalex.org/W155542418) — NOT keyword evidence |
+| 1985 ★★ | communication robot | Robotics | [Indirect context](https://doi.org/10.1163/156855398x00352) — NOT keyword evidence |
+| 1985 ★★ | complete lattices | Machine Learning | [Indirect context](https://doi.org/10.2991/iske.2007.280) — NOT keyword evidence |
 | 1985 ★★ | Computational heuristic intelligence (CHI) | AI Foundations | [Indirect context](https://doi.org/10.1016/0304-3975(83)90050-6) — NOT keyword evidence |
 | 1985 ★★ | Conservative Field | Mathematics | [Indirect context](https://doi.org/10.1118/1.595732) — NOT keyword evidence |
 | 1985 ★★ | controller area network | AI Foundations | [Indirect context](https://doi.org/10.1016/0011-684x(85)90076-0) — NOT keyword evidence |
@@ -443,70 +510,3 @@
 | 1986 ★★ | pll | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
 | 1986 ★★ | Plug-and-Play Prior (PnP) | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
 | 1986 ★★ | pmd | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | pmipv6 | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | pon system | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | ppm | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | Predictor Variable | Machine Learning | [Indirect context](https://doi.org/10.1007/BF00058655) — NOT keyword evidence |
-| 1986 ★★ | pts | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | Random Fourier Features (RFF) | Mathematics | [Indirect context](https://arxiv.org/abs/2010.08895) — NOT keyword evidence |
-| 1986 ★★ | Recursive Least Squares (RLS) | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
-| 1986 ★★ | Reducing subspace | AI Foundations | [Indirect context](https://doi.org/10.1006/jmva.1997.1727) — NOT keyword evidence |
-| 1986 ★★ | relational database systems | AI Foundations | [Indirect context](https://doi.org/10.1007/978-3-642-68847-8_2) — NOT keyword evidence |
-| 1986 ★★ | relational schemas | AI Foundations | [Indirect context](https://doi.org/10.2139/ssrn.492725) — NOT keyword evidence |
-| 1986 ★★ | remelting | Speech & Audio | [Indirect context](https://doi.org/10.1109/tau.1957.1165989) — NOT keyword evidence |
-| 1986 ★★ | Residual Quantization (RQ) | Machine Learning | [Indirect context](https://doi.org/10.2172/6368884) — NOT keyword evidence |
-| 1986 ★★ | roadsides | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | Root Cause Analysis in Production | AI Applications | [Indirect context](https://doi.org/10.1007/978-3-642-73318-5_17) — NOT keyword evidence |
-| 1986 ★★ | root mean square error | Speech & Audio | [Indirect context](https://doi.org/10.7763/ijapm.2012.v2.51) — NOT keyword evidence |
-| 1986 ★★ | rs image | Computer Vision | [Indirect context](https://doi.org/10.1109/proc.1975.9801) — NOT keyword evidence |
-| 1986 ★★ | Saddle Point Escape | Mathematics | [Indirect context](https://doi.org/10.1016/s0893-9659(00)00024-0) — NOT keyword evidence |
-| 1986 ★★ | sc-fde | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | sctp | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | secure group communication | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ada542654) — NOT keyword evidence |
-| 1986 ★★ | secure group communications | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ada542654) — NOT keyword evidence |
-| 1986 ★★ | semiconducting indium gallium arsenide | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | semiconducting indium phosphide | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | Sensor Fusion Filter | Robotics | [Indirect context](https://doi.org/10.1117/12.946664) — NOT keyword evidence |
-| 1986 ★★ | serial manipulators | Robotics | [Indirect context](https://doi.org/10.2514/6.1987-2264) — NOT keyword evidence |
-| 1986 ★★ | signal to interference plus noise ratio | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | Simulator Sickness | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
-| 1986 ★★ | Skinning | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
-| 1986 ★★ | snmp | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | Soft Decision Decoding | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
-| 1986 ★★ | sonar image | Computer Vision | [Indirect context](https://doi.org/10.1109/proc.1975.9801) — NOT keyword evidence |
-| 1986 ★★ | space division multiple access | Speech & Audio | [Indirect context](https://doi.org/10.1049/ip-i-2.1993.0058) — NOT keyword evidence |
-| 1986 ★★ | Spatial Anchor | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
-| 1986 ★★ | Spatial Hashing | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
-| 1986 ★★ | spyware | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | Stationary Point | Mathematics | [Indirect context](https://doi.org/10.21236/ada234421) — NOT keyword evidence |
-| 1986 ★★ | stochastic dynamics | Mathematics | [Indirect context](https://doi.org/10.1109/icoiics67115.2025.11390664) — NOT keyword evidence |
-| 1986 ★★ | Subspace | Mathematics | [Indirect context](https://doi.org/10.2172/6560074) — NOT keyword evidence |
-| 1986 ★★ | subspace learning | Machine Learning | [Indirect context](https://doi.org/10.1137/1.9780898718348.ch15) — NOT keyword evidence |
-| 1986 ★★ | Subsurface Scattering | Computer Graphics | [Indirect context](https://doi.org/10.2172/6797122) — NOT keyword evidence |
-| 1986 ★★ | Syndrome Decoding | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
-| 1986 ★★ | Tactile Sensing | Robotics | [Indirect context](https://doi.org/10.1007/978-3-642-84051-7) — NOT keyword evidence |
-| 1986 ★★ | Task Space | Robotics | [Indirect context](https://doi.org/10.2307/352084) — NOT keyword evidence |
-| 1986 ★★ | tdd | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | Test-Retest Reliability | Evaluation & Metrics | [Indirect context](https://doi.org/10.15760/etd.567) — NOT keyword evidence |
-| 1986 ★★ | Timbre | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
-| 1986 ★★ | triphones | Speech & Audio | [Indirect context](https://doi.org/10.1109/tau.1957.1165989) — NOT keyword evidence |
-| 1986 ★★ | vhdl | AI Infrastructure | [Indirect context](https://doi.org/10.1109/dac.1986.1586107) — NOT keyword evidence |
-| 1986 ★★ | virus | AI Safety | [Indirect context](https://doi.org/10.1016/b978-192899423-7/50009-4) — NOT keyword evidence |
-| 1986 ★★ | vlsi | AI Infrastructure | [Indirect context](https://doi.org/10.1109/vlsic.1988.1037395) — NOT keyword evidence |
-| 1986 ★★ | Voice Activity Detection (VAD) | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
-| 1986 ★★ | Weighted Quantile Loss (WQL) | Time Series & Forecasting | [Indirect context](https://doi.org/10.1002/qj.2624) — NOT keyword evidence |
-| 1986 ★★ | Welch's Method | Signal & Information Theory | [Indirect context](https://doi.org/10.1007/978-3-662-10048-6_10) — NOT keyword evidence |
-| 1986 ★★ | wifi | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | wimax systems | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | wimedia | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1986 ★★ | word processing | Machine Learning | [Indirect context](https://doi.org/10.1002/j.1538-7305.1981.tb00243.x) — NOT keyword evidence |
-| 1986 ★★ | zig-bee | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0376-5075(77)90003-4) — NOT keyword evidence |
-| 1987 | Abstract Interpretation | AI Foundations | [Publication](https://doi.org/10.21236/ada179451) |
-| 1987 | acceleration sensor | AI Infrastructure | [Publication](https://doi.org/10.4271/870474) |
-| 1987 | acoustic modeling | Speech & Audio | [Publication](https://doi.org/10.21236/ada188529) |
-| 1987 | Active Set Method | Mathematics | [Publication](https://doi.org/10.1007/bf02591738) |
-| 1987 | adaptive histogram equalization | Computer Vision | [Publication](https://doi.org/10.1016/s0734-189x(87)80156-1) |
-| 1987 | Adaptive Thresholding | Computer Vision | [Publication](https://doi.org/10.1007/978-1-4613-1971-9_12) |
-| 1987 | AG News | Datasets & Benchmarks | [Publication](https://doi.org/10.4148/1051-0834.1594) |
-| 1987 | airborne sar | AI Infrastructure | [Publication](https://doi.org/10.1016/0273-1177(87)90325-5) |
-| 1987 | algebraic riccati equations | Mathematics | [Publication](https://doi.org/10.1109/cdc.1987.272505) |

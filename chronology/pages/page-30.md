@@ -10,6 +10,81 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 2008 ★★ | ieee 802.15.3a | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tmc.2006.25) — NOT keyword evidence |
+| 2008 ★★ | ieee 802.15.4 standards | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tmc.2006.25) — NOT keyword evidence |
+| 2008 ★★ | ieee 802.15.4a | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tmc.2006.25) — NOT keyword evidence |
+| 2008 ★★ | ieee 802.16 standards | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tmc.2006.25) — NOT keyword evidence |
+| 2008 ★★ | ieee 802.16j | Speech & Audio | [Indirect context](https://doi.org/10.1109/tmc.2006.25) — NOT keyword evidence |
+| 2008 ★★ | ieee 802.22 | AI Foundations | [Indirect context](https://doi.org/10.1109/tmc.2006.25) — NOT keyword evidence |
+| 2008 ★★ | Image Captioning Metric | Computer Vision | [Indirect context](https://doi.org/10.1109/cvpr.2017.548) — NOT keyword evidence |
+| 2008 ★★ | Image Normalization Statistics | Computer Vision | [Indirect context](https://doi.org/10.1109/isspit.2006.270885) — NOT keyword evidence |
+| 2008 ★★ | Image Preprocessing Chain | Computer Vision | [Indirect context](https://doi.org/10.1080/00401706.2015.1102764) — NOT keyword evidence |
+| 2008 ★★ | Image Recognition | Computer Vision | [Indirect context](https://doi.org/10.3724/sp.j.1001.2008.01623) — NOT keyword evidence |
+| 2008 ★★ | Initialization Scale Sensitivity | Machine Learning | [Indirect context](https://doi.org/10.21437/interspeech.2008-4) — NOT keyword evidence |
+| 2008 ★★ | integral sliding mode | Robotics | [Indirect context](https://doi.org/10.1109/chicc.2008.4605396) — NOT keyword evidence |
+| 2008 ★★ | inter-domain traffic | AI Infrastructure | [Indirect context](https://doi.org/10.1109/apmc.2008.4958110) — NOT keyword evidence |
+| 2008 ★★ | knowledge graphs management | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-3-319-45654-6_6) — NOT keyword evidence |
+| 2008 ★★ | Lagrangian Safe RL | Reinforcement Learning | [Indirect context](https://doi.org/10.1109/adprl.2011.5967356) — NOT keyword evidence |
+| 2008 ★★ | landmine detection | Speech & Audio | [Indirect context](https://doi.org/10.1109/78.875470) — NOT keyword evidence |
+| 2008 ★★ | Lane Detection | Computer Vision | [Indirect context](https://doi.org/10.1109/icsip49896.2020.9339250) — NOT keyword evidence |
+| 2008 ★★ | Layer-Wise Feature Quality | Computer Vision | [Indirect context](https://doi.org/10.1007/978-3-031-02238-8_4) — NOT keyword evidence |
+| 2008 ★★ | learning experiences | AI Infrastructure | [Indirect context](https://doi.org/10.1016/j.neunet.2012.11.007) — NOT keyword evidence |
+| 2008 ★★ | License Compatibility of Suggestions | Programming & Software | [Indirect context](https://doi.org/10.1016/0165-1765(94)90042-6) — NOT keyword evidence |
+| 2008 ★★ | Limit | Mathematics | [Indirect context](https://doi.org/10.1109/icmel.2008.4559226) — NOT keyword evidence |
+| 2008 ★★ | Linear Probe | Machine Learning | [Indirect context](https://doi.org/10.1049/cp:19991230) — NOT keyword evidence |
+| 2008 ★★ | Liveness Detection | Computer Vision | [Indirect context](https://doi.org/10.1109/icsip49896.2020.9339250) — NOT keyword evidence |
+| 2008 ★★ | Locally recoverable code | AI Foundations | [Indirect context](https://doi.org/10.1145/336595.337493) — NOT keyword evidence |
+| 2008 ★★ | Logical Qubit | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1007/s11128-015-1150-6) — NOT keyword evidence |
+| 2008 ★★ | low resolution | Computer Vision | [Indirect context](https://doi.org/10.1117/12.186041) — NOT keyword evidence |
+| 2008 ★★ | Low-Resource Speech | Speech & Audio | [Indirect context](https://doi.org/10.1080/03637757309375813) — NOT keyword evidence |
+| 2008 ★★ | Mean Field Limit | Deep Learning | [Indirect context](https://doi.org/10.1214/23-aap1933) — NOT keyword evidence |
+| 2008 ★★ | Mean Opinion Score (MOS) | Speech & Audio | [Indirect context](https://doi.org/10.1109/ism.2011.88) — NOT keyword evidence |
+| 2008 ★★ | Mean Time to Detection (MTTD) | AI Infrastructure | [Indirect context](https://doi.org/10.46254/an13.20230039) — NOT keyword evidence |
+| 2008 ★★ | memetic | AI Foundations | [Indirect context](https://doi.org/10.1007/s12293-008-0006-3) — NOT keyword evidence |
+| 2008 ★★ | Memory Provenance | Agentic AI | [Indirect context](https://doi.org/10.1007/978-1-4684-0730-3_23) — NOT keyword evidence |
+| 2008 ★★ | Monitoring Coverage Gap | AI Infrastructure | [Indirect context](https://doi.org/10.1515/9781400828326-008) — NOT keyword evidence |
+| 2008 ★★ | multi resolution decomposition | Computer Vision | [Indirect context](https://doi.org/10.1016/b978-0-12-047140-9.50008-1) — NOT keyword evidence |
+| 2008 ★★ | Multi-Armed Bandit Deployment | AI Infrastructure | [Indirect context](https://doi.org/10.66838/sauc.6517) — NOT keyword evidence |
+| 2008 ★★ | multi-threaded | AI Infrastructure | [Indirect context](https://doi.org/10.1109/ceej.1980.6594356) — NOT keyword evidence |
+| 2008 ★★ | multi-threaded application | AI Infrastructure | [Indirect context](https://doi.org/10.1109/ceej.1980.6594356) — NOT keyword evidence |
+| 2008 ★★ | Multilingual Speech Model | Speech & Audio | [Indirect context](https://doi.org/10.1080/03637757309375813) — NOT keyword evidence |
+| 2008 ★★ | named entities | NLP and LLMs | [Indirect context](https://doi.org/10.3115/1557769.1557784) — NOT keyword evidence |
+| 2008 ★★ | named entity | NLP and LLMs | [Indirect context](https://doi.org/10.3115/1557769.1557784) — NOT keyword evidence |
+| 2008 ★★ | Next Sentence Prediction (NSP) | NLP and LLMs | [Indirect context](https://doi.org/10.1023/a:1008010319408) — NOT keyword evidence |
+| 2008 ★★ | Object Permanence in Tracking | Computer Vision | [Indirect context](https://doi.org/10.1109/iccce50029.2021.9467144) — NOT keyword evidence |
+| 2008 ★★ | Obligation Tracking | AI Applications | [Indirect context](https://doi.org/10.59350/3setn-0k237) — NOT keyword evidence |
+| 2008 ★★ | On-Device Speech Processing | Speech & Audio | [Indirect context](https://doi.org/10.1080/03637757309375813) — NOT keyword evidence |
+| 2008 ★★ | ontology concepts | Information Retrieval | [Indirect context](https://doi.org/10.1016/s0004-3702(83)80005-8) — NOT keyword evidence |
+| 2008 ★★ | ontology design | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-3-662-04396-7_2) — NOT keyword evidence |
+| 2008 ★★ | ontology development | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-3-662-04396-7_2) — NOT keyword evidence |
+| 2008 ★★ | ontology modeling | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-3-662-04396-7_2) — NOT keyword evidence |
+| 2008 ★★ | ontology technology | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-3-662-04396-7_2) — NOT keyword evidence |
+| 2008 ★★ | Ordinal Encoding | Machine Learning | [Indirect context](https://doi.org/10.1111/j.1467-8640.1993.tb00299.x) — NOT keyword evidence |
+| 2008 ★★ | Overconfidence in Classifiers | Machine Learning | [Indirect context](https://doi.org/10.1016/j.patrec.2005.03.005) — NOT keyword evidence |
+| 2008 ★★ | Parallel Sampling | Deep Learning | [Indirect context](https://doi.org/10.1109/rfts.1991.212938) — NOT keyword evidence |
+| 2008 ★★ | Parameterized Quantum Circuit (PQC) | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1201/9781420012293.ch4) — NOT keyword evidence |
+| 2008 ★★ | Parity Bit | Signal & Information Theory | [Indirect context](https://doi.org/10.5194/gmd-2016-3-rc2) — NOT keyword evidence |
+| 2008 ★★ | Pathological Speech Analysis | Speech & Audio | [Indirect context](https://doi.org/10.1080/03637757309375813) — NOT keyword evidence |
+| 2008 ★★ | Pipeline Idempotency Check | AI Infrastructure | [Indirect context](https://doi.org/10.3233/jcs-2007-0306) — NOT keyword evidence |
+| 2008 ★★ | privacy preservation | Machine Learning | [Indirect context](https://doi.org/10.1109/msecp.2003.1193206) — NOT keyword evidence |
+| 2008 ★★ | privacy preserving | Machine Learning | [Indirect context](https://doi.org/10.4018/978-1-59140-557-3.ch189) — NOT keyword evidence |
+| 2008 ★★ | Quantum Computing | AI Foundations | [Indirect context](https://doi.org/10.1201/b15868-6) — NOT keyword evidence |
+| 2008 ★★ | Qubit | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1007/s11128-015-1150-6) — NOT keyword evidence |
+| 2008 ★★ | race | Data Science | [Indirect context](https://doi.org/10.64628/aai.mjdpnfjtu) — NOT keyword evidence |
+| 2008 ★★ | Ranked Probability Score (RPS) | Evaluation & Metrics | [Indirect context](https://doi.org/10.1175/2007waf2006116.1) — NOT keyword evidence |
+| 2008 ★★ | Relation network (RN) | AI Foundations | [Indirect context](https://doi.org/10.63317/4vqsnirkgvgm) — NOT keyword evidence |
+| 2008 ★★ | Reward Model (RM) | AI Foundations | [Indirect context](https://doi.org/10.1109/is.2008.4670492) — NOT keyword evidence |
+| 2008 ★★ | Risk Parity | AI Applications | [Indirect context](https://doi.org/10.2139/ssrn.392603) — NOT keyword evidence |
+| 2008 ★★ | role-playing game | AI Applications | [Indirect context](https://doi.org/10.1016/b978-008045089-6.50026-5) — NOT keyword evidence |
+| 2008 ★★ | salt removal | Computer Vision | [Indirect context](https://doi.org/10.1049/el:20070827) — NOT keyword evidence |
+| 2008 ★★ | Sampling for Observability | AI Infrastructure | [Indirect context](https://doi.org/10.2737/pnw-gtr-746) — NOT keyword evidence |
+| 2008 ★★ | scholarly ontologies | Information Retrieval | [Indirect context](https://doi.org/10.1007/s00799-016-0169-3) — NOT keyword evidence |
+| 2008 ★★ | secondary system | AI Foundations | [Indirect context](https://doi.org/10.1007/978-1-4419-9863-7_101328) — NOT keyword evidence |
+| 2008 ★★ | Security by Default | AI Foundations | [Indirect context](https://doi.org/10.1007/978-3-662-05689-9_11) — NOT keyword evidence |
+| 2008 ★★ | Self-Supervised Speech Pretraining | Speech & Audio | [Indirect context](https://doi.org/10.1080/03637757309375813) — NOT keyword evidence |
+| 2008 ★★ | Semantic Speech Token | Speech & Audio | [Indirect context](https://doi.org/10.4204/eptcs.176.6) — NOT keyword evidence |
+| 2008 ★★ | sentence similarity | NLP and LLMs | [Indirect context](https://doi.org/10.1023/a:1008010319408) — NOT keyword evidence |
+| 2008 ★★ | Sentence-BERT (SBERT) | NLP and LLMs | [Indirect context](https://doi.org/10.1023/a:1008010319408) — NOT keyword evidence |
 | 2008 ★★ | service ontology | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-3-662-04396-7_2) — NOT keyword evidence |
 | 2008 ★★ | silicon photonics | AI Infrastructure | [Indirect context](https://doi.org/10.1364/ipr.2004.ifb1) — NOT keyword evidence |
 | 2008 ★★ | Sliding Context Window | Agentic AI | [Indirect context](https://doi.org/10.1080/00036848400000005) — NOT keyword evidence |
@@ -435,78 +510,3 @@
 | 2010 | Backtracking Line Search | Mathematics | [Publication](https://openalex.org/W2368213454) |
 | 2010 | Balanced Accuracy | Evaluation & Metrics | [Publication](https://doi.org/10.1109/icpr.2010.764) |
 | 2010 | Basket Recommendation | Recommender Systems | [Publication](https://doi.org/10.1145/1772690.1772773) |
-| 2010 | Binary Embedding | Machine Learning | [Publication](https://doi.org/10.1109/wifs.2010.5711444) |
-| 2010 | Biomedical Text Mining | NLP and LLMs | [Publication](https://doi.org/10.1201/9781420085938-35) |
-| 2010 | biometric recognition | AI Safety | [Publication](https://doi.org/10.17226/12720) |
-| 2010 | Bug Reproduction | Programming & Software | [Publication](https://doi.org/10.1145/1735971.1736039) |
-| 2010 | Burstiness of Words | NLP and LLMs | [Publication](https://doi.org/10.1016/j.ipm.2009.12.004) |
-| 2010 | call dropping probability | Mathematics | [Publication](https://doi.org/10.1109/icfn.2010.55) |
-| 2010 | Chebyshev Distance | Machine Learning | [Publication](https://doi.org/10.1109/tit.2010.2046212) |
-| 2010 | Christopher Manning | People & Organizations | [Publication](https://doi.org/10.1093/jahist/97.2.573) |
-| 2010 | Chunk Retrieval | Information Retrieval | [Publication](https://doi.org/10.1109/icime.2010.5477651) |
-| 2010 | Citation Graph | Graph & Network Learning | [Publication](https://doi.org/10.1007/s11192-010-0208-6) |
-| 2010 | cloud computing | AI Infrastructure | [Publication](https://doi.org/10.1002/9781118255674.ch1) |
-| 2010 | Cloud computing architecture | AI Foundations | [Publication](https://doi.org/10.1109/ccgrid.2010.20) |
-| 2010 | cloud providers | AI Infrastructure | [Publication](https://doi.org/10.1201/9781439806173-c6) |
-| 2010 | cloud security | AI Infrastructure | [Publication](https://doi.org/10.1201/9781439834541-15) |
-| 2010 | cloud service | AI Infrastructure | [Publication](https://doi.org/10.1201/b10343-21) |
-| 2010 | cloud service providers | AI Infrastructure | [Publication](https://doi.org/10.1201/b10343-21) |
-| 2010 | cloud services | AI Infrastructure | [Publication](https://doi.org/10.1002/9781118255674.ch10) |
-| 2010 | collaborative recommendation | Information Retrieval | [Publication](https://doi.org/10.1017/cbo9780511763113.004) |
-| 2010 | Compatibility Matrix | Programming & Software | [Publication](https://doi.org/10.1007/978-3-540-76435-9_4095) |
-| 2010 | complex services | AI Infrastructure | [Publication](https://doi.org/10.4324/9780203842058-22) |
-| 2010 | Compute Shader | Computer Graphics | [Publication](https://openalex.org/W989317347) |
-| 2010 | computer interface | AI Applications | [Publication](https://doi.org/10.4016/17526.02) |
-| 2010 | Conflict Resolution Strategy | AI Foundations | [Publication](https://doi.org/10.2139/ssrn.1612495) |
-| 2010 | congenial access control | AI Infrastructure | [Publication](https://openalex.org/W71476106) |
-| 2010 | Constrained Decoding | Deep Learning | [Publication](https://doi.org/10.1109/netcod.2010.5487687) |
-| 2010 | content based recommendation | AI Foundations | [Publication](https://doi.org/10.1017/cbo9780511763113.005) |
-| 2010 | context-aware systems | AI Applications | [Publication](https://doi.org/10.1201/ebk1439809853-14) |
-| 2010 | Contextual Bandit | Mathematics | [Publication](https://doi.org/10.48550/arxiv.1002.4058) |
-| 2010 | Convex Relaxation | Mathematics | [Publication](https://doi.org/10.1090/fim/027/09) |
-| 2010 | cooperative/collaborative learning | AI Infrastructure | [Publication](https://doi.org/10.65528/9780807777497-004) |
-| 2010 | Copula | Mathematics | [Publication](https://doi.org/10.1142/9789814299886_0006) |
-| 2010 | Cover Song Detection | Speech & Audio | [Publication](https://doi.org/10.1109/icassp.2010.5496214) |
-| 2010 | Cross-Layer Connection | Deep Learning | [Publication](https://doi.org/10.5772/10169) |
-| 2010 | Data Drift | AI Foundations | [Publication](https://doi.org/10.22323/1.102.0098) |
-| 2010 | Data Ingestion | AI Infrastructure | [Publication](https://doi.org/10.1109/9780470874103.ch4) |
-| 2010 | data protection | AI Safety | [Publication](https://doi.org/10.1002/9781118255766.ch3) |
-| 2010 | delay circuits | AI Infrastructure | [Publication](https://doi.org/10.1109/iscas.2010.5537554) |
-| 2010 | Dice Coefficient | Machine Learning | [Publication](https://doi.org/10.5539/cis.v3n3p139) |
-| 2010 | digital entertainment | AI Infrastructure | [Publication](https://doi.org/10.1109/sbgames18800.2010) |
-| 2010 | Dilated Convolution | Deep Learning | [Publication](https://doi.org/10.5831/hmj.2010.32.1.101) |
-| 2010 | discrete cosines | Computer Vision | [Publication](https://doi.org/10.1109/ispacs.2010.5704639) |
-| 2010 | Disfluency Removal | Speech & Audio | [Publication](https://doi.org/10.1109/icassp.2010.5494999) |
-| 2010 | distributed memory architecture | AI Infrastructure | [Publication](https://doi.org/10.1109/norchip.2010.5669440) |
-| 2010 | Dynamic Topic Model | NLP and LLMs | [Publication](https://doi.org/10.4304/jsw.5.5.482-489) |
-| 2010 | e-learning platforms | AI Infrastructure | [Publication](https://doi.org/10.5772/8814) |
-| 2010 | e-learning tool | AI Infrastructure | [Publication](https://doi.org/10.5772/7776) |
-| 2010 | eeg signals | Speech & Audio | [Publication](https://doi.org/10.1093/acprof:oso/9780195372731.003.0004) |
-| 2010 | Elastic Training | AI Infrastructure | [Publication](https://doi.org/10.1111/j.1532-950x.2010.00703.x) |
-| 2010 | encryption/decryption | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc5830) |
-| 2010 | energy aware | AI Infrastructure | [Publication](https://doi.org/10.1109/iceac17715.2010) |
-| 2010 | Evidence Integrity | AI Applications | [Publication](https://doi.org/10.13140/rg.2.1.1336.0725) |
-| 2010 | Existential Risk | AI Foundations | [Publication](https://doi.org/10.5749/9781452966991-004) |
-| 2010 | Extra Trees | Machine Learning | [Publication](https://doi.org/10.1109/radar.2010.5494683) |
-| 2010 | Facial Landmark | Computer Vision | [Publication](https://doi.org/10.1109/icpr.2010.926) |
-| 2010 | Factual Consistency | NLP and LLMs | [Publication](https://doi.org/10.15699/9781589838710-004) |
-| 2010 | false rejection rate | AI Safety | [Publication](https://doi.org/10.1364/ao.49.000764) |
-| 2010 | Feature Splitting | Deep Learning | [Publication](https://doi.org/10.1007/978-3-642-12127-2_3) |
-| 2010 | force feedback devices | Robotics | [Publication](https://doi.org/10.1109/cisis.2010.115) |
-| 2010 | fpga-based implementation | AI Infrastructure | [Publication](https://doi.org/10.7763/ijcee.2010.v2.197) |
-| 2010 | fractional-order systems | AI Safety | [Publication](https://doi.org/10.1142/9789814304207_0001) |
-| 2010 | Genome | Science & Healthcare AI | [Publication](https://doi.org/10.1186/gb-2010-11-5-207) |
-| 2010 | Global Memory | AI Infrastructure | [Publication](https://doi.org/10.1057/9780230283367_11) |
-| 2010 | Group Recommendation | Recommender Systems | [Publication](https://doi.org/10.1145/1880071.1880087) |
-| 2010 | haptic feedbacks | AI Applications | [Publication](https://doi.org/10.1109/3dui.2010.5444722) |
-| 2010 | human drivers | AI Foundations | [Publication](https://doi.org/10.1201/ebk1439835111-49) |
-| 2010 | human pose | Machine Learning | [Publication](https://doi.org/10.5244/c.24.12) |
-| 2010 | Human Pose Estimation | Computer Vision | [Publication](https://doi.org/10.5244/c.24.12) |
-| 2010 | human-human interactions | Robotics | [Publication](https://doi.org/10.1145/1877826.1877849) |
-| 2010 | Human–robot interaction (HRI) | Robotics | [Publication](https://doi.org/10.1109/hri14376.2010) |
-| 2010 | hybrid clouds | AI Infrastructure | [Publication](https://doi.org/10.1145/1809049.1809075) |
-| 2010 | Illegal Mining Detection | AI Applications | [Publication](https://doi.org/10.1109/igarss.2010.5652978) |
-| 2010 | image forgery | Computer Vision | [Publication](https://doi.org/10.3724/sp.j.1146.2009.00115) |
-| 2010 | Image Harmonization | Computer Vision | [Publication](https://doi.org/10.1145/1833349.1778862) |
-| 2010 | IMPALA | Reinforcement Learning | [Publication](https://doi.org/10.69894/20100606) |
-| 2010 | inference algorithms | AI Foundations | [Publication](https://doi.org/10.2316/p.2010.674-061) |

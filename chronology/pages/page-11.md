@@ -1,6 +1,6 @@
 # Batch 11/41 — Historical Keywords
 
-**500 keywords**, sorted chronologically (1988 – 1990). The master CSV retains the original permanent IDs.
+**500 keywords**, sorted chronologically (1988 – 1989). The master CSV retains the original permanent IDs.
 
 [All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
@@ -10,6 +10,81 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 1988 | ShuffleNet | Deep Learning | [Publication](https://doi.org/10.1145/52324.52328) |
+| 1988 | simulated annealing algorithms | AI Foundations | [Publication](https://doi.org/10.1016/0020-0190(88)90024-5) |
+| 1988 | simulation environments | Programming & Software | [Publication](https://doi.org/10.1007/978-1-4613-8936-1_74) |
+| 1988 | Slot and Filler | AI Foundations | [Publication](https://doi.org/10.3115/991635.991684) |
+| 1988 | software process | Programming & Software | [Publication](https://doi.org/10.1145/75110.75140) |
+| 1988 | software process modeling | Programming & Software | [Publication](https://doi.org/10.21236/ada197137) |
+| 1988 | software process models | Programming & Software | [Publication](https://doi.org/10.1145/75110.75130) |
+| 1988 | source language | NLP and LLMs | [Publication](https://doi.org/10.1515/9783110884869-006) |
+| 1988 | spatial databases | Information Retrieval | [Publication](https://openalex.org/W2101609656) |
+| 1988 | spatial light modulators | AI Infrastructure | [Publication](https://doi.org/10.1364/slma.1988.the14) |
+| 1988 | Speaker Adaptation | Speech & Audio | [Publication](https://doi.org/10.1121/1.2026406) |
+| 1988 | spectral band | Computer Vision | [Publication](https://doi.org/10.1002/9780470172575.ch5) |
+| 1988 | spectral distortions | Speech & Audio | [Publication](https://doi.org/10.1086/166628) |
+| 1988 | Spreading activation | AI Foundations | [Publication](https://doi.org/10.1016/b978-1-4832-1446-7.50016-9) |
+| 1988 | State Space Search | AI Foundations | [Publication](https://doi.org/10.1016/b978-0-12-266720-6.50018-8) |
+| 1988 | Structured Output | AI Foundations | [Publication](https://doi.org/10.3115/991719.991741) |
+| 1988 | submodularity | Mathematics | [Publication](https://doi.org/10.1007/bf01589420) |
+| 1988 | Synaptic Plasticity | Cognitive Science | [Publication](https://doi.org/10.1007/978-3-642-73202-7_34) |
+| 1988 | synthetic aperture radar (sar) images | AI Infrastructure | [Publication](https://doi.org/10.21236/ada199536) |
+| 1988 | systolic arrays | AI Infrastructure | [Publication](https://doi.org/10.1145/322609.322776) |
+| 1988 | target detection algorithm | Speech & Audio | [Publication](https://doi.org/10.1117/12.968453) |
+| 1988 | target trajectory | AI Infrastructure | [Publication](https://doi.org/10.2514/6.1988-527) |
+| 1988 | temporal differences | Reinforcement Learning | [Publication](https://doi.org/10.1007/BF00115009) |
+| 1988 | Temporal-difference learning | Reinforcement Learning | [Publication](https://doi.org/10.1007/BF00115009) |
+| 1988 | Tensor Product Space | Mathematics | [Publication](https://doi.org/10.1007/bf00670682) |
+| 1988 | time-domain simulations | Speech & Audio | [Publication](https://doi.org/10.4043/5632-ms) |
+| 1988 | time-frequency distribution | Computer Vision | [Publication](https://doi.org/10.1016/0165-1684(88)90079-5) |
+| 1988 | timed petri net | Mathematics | [Publication](https://doi.org/10.1007/3-540-50580-6_24) |
+| 1988 | transferable belief model | AI Foundations | [Publication](https://openalex.org/W112123154) |
+| 1988 | Treatment Response Prediction | AI Applications | [Publication](https://doi.org/10.1016/0920-9964(88)90155-7) |
+| 1988 | Trend Component | AI Foundations | [Publication](https://doi.org/10.1016/0304-4149(88)90098-1) |
+| 1988 | untraceability | AI Safety | [Publication](https://doi.org/10.1007/bf00206326) |
+| 1988 | usability requirements | Programming & Software | [Publication](https://doi.org/10.1177/154193128803200503) |
+| 1988 | user interfaces | AI Applications | [Publication](https://doi.org/10.1016/b978-0-08-034120-0.50012-6) |
+| 1988 | Vaccine Design | Science & Healthcare AI | [Publication](https://doi.org/10.1016/0264-410x(88)90153-3) |
+| 1988 | variable structure controller | Deep Learning | [Publication](https://doi.org/10.1109/9.392) |
+| 1988 | Vector Database | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4613-1679-4_4) |
+| 1988 | virtual objects | AI Applications | [Publication](https://doi.org/10.1515/9783112580189-002) |
+| 1988 | vlsi circuits | AI Infrastructure | [Publication](https://doi.org/10.1109/vlsic.1988.1037395) |
+| 1988 | Working Memory Capacity | Cognitive Science | [Publication](https://doi.org/10.21236/ada192359) |
+| 1988 ★ | Belief network propagation | AI Foundations | [Related source](https://doi.org/10.1016/C2009-0-27609-4) — indirect |
+| 1988 ★ | Belief propagation message | AI Foundations | [Related source](https://doi.org/10.1016/C2009-0-27609-4) — indirect |
+| 1988 ★ | Network-propagation inference | AI Foundations | [Related source](https://doi.org/10.1016/C2009-0-27609-4) — indirect |
+| 1988 ★ | Parallel belief propagation | AI Foundations | [Related source](https://doi.org/10.1016/C2009-0-27609-4) — indirect |
+| 1988 ★ | Pearl belief network inference | AI Foundations | [Related source](https://doi.org/10.1016/C2009-0-27609-4) — indirect |
+| 1988 ★ | Plausible inference network | AI Foundations | [Related source](https://doi.org/10.1016/C2009-0-27609-4) — indirect |
+| 1988 ★ | Probabilistic belief network diagnosis | AI Foundations | [Related source](https://doi.org/10.1016/C2009-0-27609-4) — indirect |
+| 1988 ★ | Probabilistic reasoning with partial belief | AI Foundations | [Related source](https://doi.org/10.1016/C2009-0-27609-4) — indirect |
+| 1988 ★★ | Always-Valid P-Value | Mathematics | [Indirect context](https://doi.org/10.11648/j.ijtam.20170302.12) — NOT keyword evidence |
+| 1988 ★★ | Analogical Prompting | Agentic AI | [Indirect context](https://openalex.org/W22831215) — NOT keyword evidence |
+| 1988 ★★ | assembly tasks | Robotics | [Indirect context](https://doi.org/10.1108/eb004607) — NOT keyword evidence |
+| 1988 ★★ | automated manufacturing systems | Mathematics | [Indirect context](https://doi.org/10.1016/b978-0-08-029946-4.50028-5) — NOT keyword evidence |
+| 1988 ★★ | automatic verification | AI Foundations | [Indirect context](https://doi.org/10.21236/ada027455) — NOT keyword evidence |
+| 1988 ★★ | Bottleneck Ratio | Deep Learning | [Indirect context](https://doi.org/10.1016/0031-8914(47)90066-9) — NOT keyword evidence |
+| 1988 ★★ | cache hierarchies | AI Infrastructure | [Indirect context](https://doi.org/10.1109/icapp.2002.1173575) — NOT keyword evidence |
+| 1988 ★★ | cache management | AI Infrastructure | [Indirect context](https://doi.org/10.1145/800110.803574) — NOT keyword evidence |
+| 1988 ★★ | cache miss | AI Infrastructure | [Indirect context](https://doi.org/10.1145/800110.803574) — NOT keyword evidence |
+| 1988 ★★ | cache partitioning | AI Infrastructure | [Indirect context](https://doi.org/10.1049/ic:19950171) — NOT keyword evidence |
+| 1988 ★★ | cache replacement | AI Infrastructure | [Indirect context](https://doi.org/10.1145/800110.803574) — NOT keyword evidence |
+| 1988 ★★ | cache replacement policy | AI Infrastructure | [Indirect context](https://doi.org/10.1145/800110.803574) — NOT keyword evidence |
+| 1988 ★★ | capability maturity model | Programming & Software | [Indirect context](https://doi.org/10.1016/0141-1195(83)90142-0) — NOT keyword evidence |
+| 1988 ★★ | capability maturity model integration | Programming & Software | [Indirect context](https://doi.org/10.1016/0141-1195(83)90142-0) — NOT keyword evidence |
+| 1988 ★★ | capability maturity models | Programming & Software | [Indirect context](https://doi.org/10.1016/0141-1195(83)90142-0) — NOT keyword evidence |
+| 1988 ★★ | capacitated vehicle routing problem | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ada013639) — NOT keyword evidence |
+| 1988 ★★ | capp | Programming & Software | [Indirect context](https://doi.org/10.1016/0141-1195(83)90142-0) — NOT keyword evidence |
+| 1988 ★★ | Chunking in Cognitive Architecture | AI Foundations | [Indirect context](https://doi.org/10.1016/b978-1-4832-1446-7.50008-x) — NOT keyword evidence |
+| 1988 ★★ | circuit modeling | Programming & Software | [Indirect context](https://doi.org/10.21236/ada197137) — NOT keyword evidence |
+| 1988 ★★ | circuit simulators | Programming & Software | [Indirect context](https://doi.org/10.1177/003754977001500220) — NOT keyword evidence |
+| 1988 ★★ | cmmi | Programming & Software | [Indirect context](https://doi.org/10.1016/0141-1195(83)90142-0) — NOT keyword evidence |
+| 1988 ★★ | Cognitive philology | AI Foundations | [Indirect context](https://doi.org/10.1515/9783110197761.1.81) — NOT keyword evidence |
+| 1988 ★★ | Cognitive science | AI Foundations | [Indirect context](https://doi.org/10.1515/9783110197761.1.81) — NOT keyword evidence |
+| 1988 ★★ | Cognitive Walkthrough | AI Foundations | [Indirect context](https://doi.org/10.1515/9783110197761.1.81) — NOT keyword evidence |
+| 1988 ★★ | Commonsense knowledge (artificial intelligence) | AI Foundations | [Indirect context](https://doi.org/10.1146/annurev.cs.03.060188.001213) — NOT keyword evidence |
+| 1988 ★★ | content distribution systems | AI Infrastructure | [Indirect context](https://doi.org/10.1201/9781420031164) — NOT keyword evidence |
+| 1988 ★★ | Continuity | Mathematics | [Indirect context](https://doi.org/10.1007/978-3-0348-7180-8_21) — NOT keyword evidence |
 | 1988 ★★ | Cox Proportional Hazards Model | Mathematics | [Indirect context](https://doi.org/10.21236/ada202440) — NOT keyword evidence |
 | 1988 ★★ | Critical Band | Signal & Information Theory | [Indirect context](https://doi.org/10.1016/0026-2714(76)90726-5) — NOT keyword evidence |
 | 1988 ★★ | Data Encoding in Quantum Circuits | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1201/9781420012293.ch4) — NOT keyword evidence |
@@ -435,78 +510,3 @@
 | 1989 ★★ | robot pose | AI Infrastructure | [Indirect context](https://doi.org/10.1109/mc.1974.6323404) — NOT keyword evidence |
 | 1989 ★★ | security mechanism | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0142-0496(89)90108-2) — NOT keyword evidence |
 | 1989 ★★ | shuttle radar topography mission | AI Infrastructure | [Indirect context](https://doi.org/10.1109/mc.1974.6323404) — NOT keyword evidence |
-| 1989 ★★ | Skeletal Animation | Computer Graphics | [Indirect context](https://doi.org/10.1007/978-4-431-68293-6_17) — NOT keyword evidence |
-| 1989 ★★ | spanning trees | Mathematics | [Indirect context](https://doi.org/10.1016/0020-0190(82)90137-5) — NOT keyword evidence |
-| 1989 ★★ | speech intelligibility | Speech & Audio | [Indirect context](https://doi.org/10.1163/9789004457256_018) — NOT keyword evidence |
-| 1989 ★★ | state complexity | NLP and LLMs | [Indirect context](https://doi.org/10.1109/sfcs.1981.31) — NOT keyword evidence |
-| 1989 ★★ | sub-bands | Computer Vision | [Indirect context](https://doi.org/10.1109/3dtv.2008.4547813) — NOT keyword evidence |
-| 1989 ★★ | subarray | AI Infrastructure | [Indirect context](https://doi.org/10.1109/mc.1974.6323404) — NOT keyword evidence |
-| 1989 ★★ | subjective quality | Computer Vision | [Indirect context](https://doi.org/10.1016/s0033-8389(22)01514-7) — NOT keyword evidence |
-| 1989 ★★ | successive approximation register | AI Infrastructure | [Indirect context](https://doi.org/10.1109/mc.1974.6323404) — NOT keyword evidence |
-| 1989 ★★ | Syntactic Ambiguity | NLP and LLMs | [Indirect context](https://doi.org/10.3115/990174.990237) — NOT keyword evidence |
-| 1989 ★★ | syntactic structure | NLP and LLMs | [Indirect context](https://doi.org/10.21236/ad0253273) — NOT keyword evidence |
-| 1989 ★★ | system generator | AI Infrastructure | [Indirect context](https://doi.org/10.1109/proc.1967.5545) — NOT keyword evidence |
-| 1989 ★★ | systemc | AI Infrastructure | [Indirect context](https://doi.org/10.1109/mc.1974.6323404) — NOT keyword evidence |
-| 1989 ★★ | tlm | AI Infrastructure | [Indirect context](https://doi.org/10.1109/mc.1974.6323404) — NOT keyword evidence |
-| 1989 ★★ | Tone Adjustment | AI Applications | [Indirect context](https://doi.org/10.1155/2018/5681652) — NOT keyword evidence |
-| 1989 ★★ | Transformation Layer | Data Science | [Indirect context](https://doi.org/10.1109/icosc.2007.4338340) — NOT keyword evidence |
-| 1989 ★★ | uep | Computer Vision | [Indirect context](https://doi.org/10.1109/3dtv.2008.4547813) — NOT keyword evidence |
-| 1989 ★★ | uml activity diagrams | Mathematics | [Indirect context](https://doi.org/10.1007/978-1-84996-257-5_27) — NOT keyword evidence |
-| 1989 ★★ | underwater acoustic communication | Speech & Audio | [Indirect context](https://doi.org/10.1016/0003-682x(72)90020-5) — NOT keyword evidence |
-| 1989 ★★ | underwater acoustic communications | Speech & Audio | [Indirect context](https://doi.org/10.1016/0003-682x(72)90020-5) — NOT keyword evidence |
-| 1989 ★★ | vertical edges | Computer Vision | [Indirect context](https://doi.org/10.1109/3dtv.2008.4547813) — NOT keyword evidence |
-| 1989 ★★ | video quality | Computer Vision | [Indirect context](https://doi.org/10.1117/12.707560) — NOT keyword evidence |
-| 1989 ★★ | videoconferencing | Computer Vision | [Indirect context](https://doi.org/10.1109/3dtv.2008.4547813) — NOT keyword evidence |
-| 1989 ★★ | videotex | Computer Vision | [Indirect context](https://doi.org/10.1109/3dtv.2008.4547813) — NOT keyword evidence |
-| 1989 ★★ | voronoi | Mathematics | [Indirect context](https://doi.org/10.1016/0045-7949(94)90435-9) — NOT keyword evidence |
-| 1990 | access networks | AI Infrastructure | [Publication](https://doi.org/10.1109/oman.1990.205410) |
-| 1990 | actuation redundancy | Robotics | [Publication](https://doi.org/10.23919/acc.1990.4791139) |
-| 1990 | Ad Targeting | AI Applications | [Publication](https://doi.org/10.1007/978-1-4613-1565-0_16) |
-| 1990 | advanced traffic management systems | AI Foundations | [Publication](https://doi.org/10.4271/901126) |
-| 1990 | affective state | AI Applications | [Publication](https://doi.org/10.1016/0165-0327(90)90048-d) |
-| 1990 | Agent Specialization | Agentic AI | [Publication](https://doi.org/10.66752/1077-5315.8229) |
-| 1990 | Akaike Information Criterion (AIC) | Mathematics | [Publication](https://doi.org/10.1002/syn.890050207) |
-| 1990 | all fiber | AI Infrastructure | [Publication](https://doi.org/10.1364/ofc.1990.pd20) |
-| 1990 | Alpha Blending | Computer Graphics | [Publication](https://openalex.org/W2912714911) |
-| 1990 | appearance model | Machine Learning | [Publication](https://doi.org/10.1002/col.5080150407) |
-| 1990 | Apprenticeship learning | Machine Learning | [Publication](https://doi.org/10.1016/b978-0-08-051055-2.50028-6) |
-| 1990 | attributed graphs | AI Infrastructure | [Publication](https://doi.org/10.1142/9789812814913_0014) |
-| 1990 | bacterial chromosome | Data Science | [Publication](https://doi.org/10.1016/0300-9084(90)90018-c) |
-| 1990 | bandwidth allocation algorithms | AI Infrastructure | [Publication](https://doi.org/10.1109/icc.1990.117279) |
-| 1990 | Bandwidth Tradeoff | Mathematics | [Publication](https://doi.org/10.1109/7.53447) |
-| 1990 | Bezier Curve | Mathematics | [Publication](https://doi.org/10.1016/0031-3203(90)90068-v) |
-| 1990 | binocular stereo vision | Computer Vision | [Publication](https://doi.org/10.1007/978-1-4612-3406-7_11) |
-| 1990 | biomimetic | Robotics | [Publication](https://doi.org/10.1007/978-1-4613-0657-3_1) |
-| 1990 | bit interleaved coded modulation | Mathematics | [Publication](https://doi.org/10.1109/lcn.1990.128695) |
-| 1990 | blind deconvolution | Computer Vision | [Publication](https://doi.org/10.21236/ada220853) |
-| 1990 | boosting algorithm | Machine Learning | [Publication](https://doi.org/10.1007/BF00116037) |
-| 1990 | broadband beamforming | AI Infrastructure | [Publication](https://doi.org/10.1109/spect.1990.205558) |
-| 1990 | broadcasting algorithm | AI Infrastructure | [Publication](https://doi.org/10.1109/pccc.1990.101593) |
-| 1990 | Burst Capacity | AI Infrastructure | [Publication](https://doi.org/10.1007/978-94-009-1848-1_217) |
-| 1990 | Camera Calibration | Computer Vision | [Publication](https://doi.org/10.1163/156855391x00232) |
-| 1990 | Cascade | Agentic AI | [Publication](https://doi.org/10.1007/978-1-4899-3701-8_8) |
-| 1990 | cellular neural networks | Deep Learning | [Publication](https://doi.org/10.1109/cnna.1990.207500) |
-| 1990 | Change Management | AI Foundations | [Publication](https://doi.org/10.1109/32.60317) |
-| 1990 | circle detection | Computer Vision | [Publication](https://doi.org/10.1016/b978-0-12-206090-8.50018-9) |
-| 1990 | clutter suppression | AI Infrastructure | [Publication](https://doi.org/10.1109/62.54637) |
-| 1990 | Code-Switching | NLP and LLMs | [Publication](https://doi.org/10.1515/9783110877182-028) |
-| 1990 | coded packet | AI Infrastructure | [Publication](https://openalex.org/W2298885150) |
-| 1990 | coding techniques | Computer Vision | [Publication](https://doi.org/10.1016/c2013-0-10897-5) |
-| 1990 | cognitive modelling | AI Foundations | [Publication](https://doi.org/10.1007/978-3-663-14658-2) |
-| 1990 | coherence protocol | AI Infrastructure | [Publication](https://doi.org/10.1145/325096.325132) |
-| 1990 | competitive intelligence | AI Infrastructure | [Publication](https://doi.org/10.1002/cir.3880010101) |
-| 1990 | Computational Graph | Mathematics | [Publication](https://doi.org/10.1007/978-3-7091-9076-0) |
-| 1990 | Computational irreducibility | AI Foundations | [Publication](https://doi.org/10.1017/s0140525x00079954) |
-| 1990 | computing technology | AI Infrastructure | [Publication](https://doi.org/10.2172/5520953) |
-| 1990 | Condition Monitoring | Robotics | [Publication](https://doi.org/10.1049/pbme001e_ch2) |
-| 1990 | Congruence bias | AI Foundations | [Publication](https://doi.org/10.1111/j.1559-1816.1990.tb00412.x) |
-| 1990 | Connectionist expert system | AI Foundations | [Publication](https://doi.org/10.1190/1.1890182) |
-| 1990 | consensus problems | Agentic AI | [Publication](https://doi.org/10.1145/93385.93431) |
-| 1990 | Constrained Optimization | AI Foundations | [Publication](https://doi.org/10.21136/am.1990.104393) |
-| 1990 | Constraint Solver | Computer Graphics | [Publication](https://doi.org/10.1145/76372.77531) |
-| 1990 | Content Planning | Generative AI | [Publication](https://doi.org/10.21236/ada460211) |
-| 1990 | cryptographic protocols | AI Infrastructure | [Publication](https://doi.org/10.21236/ada230779) |
-| 1990 | decision feedback | Speech & Audio | [Publication](https://doi.org/10.1109/intmag.1990.734620) |
-| 1990 | defeasible logic | AI Foundations | [Publication](https://doi.org/10.1007/978-94-009-0553-5_1) |
-| 1990 | demonstrations | AI Infrastructure | [Publication](https://doi.org/10.1515/9780691221946-005) |
-| 1990 | depth control | Robotics | [Publication](https://doi.org/10.2523/21294-ms) |

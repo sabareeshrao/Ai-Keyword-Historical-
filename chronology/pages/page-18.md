@@ -1,6 +1,6 @@
 # Batch 18/41 — Historical Keywords
 
-**500 keywords**, sorted chronologically (1998 – 1999). The master CSV retains the original permanent IDs.
+**500 keywords**, sorted chronologically (1998). The master CSV retains the original permanent IDs.
 
 [All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
@@ -10,6 +10,81 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 1998 | Intelligent agent | AI Foundations | [Publication](https://doi.org/10.21236/ada359612) |
+| 1998 | Intelligent Tutoring System (ITS) | AI Applications | [Publication](https://doi.org/10.21236/ada337189) |
+| 1998 | internet telephony | AI Infrastructure | [Publication](https://doi.org/10.1108/10662249810368851) |
+| 1998 | iris patterns | Computer Vision | [Publication](https://doi.org/10.1016/s1363-4127(98)80016-2) |
+| 1998 | k-nn classifier | Machine Learning | [Publication](https://doi.org/10.5244/c.12.22) |
+| 1998 | kinematics analysis | Robotics | [Publication](https://doi.org/10.1007/978-94-015-9064-8) |
+| 1998 | Lagging Indicator | Data Science | [Publication](https://doi.org/10.2307/20048368) |
+| 1998 | layout algorithms | AI Applications | [Publication](https://doi.org/10.1201/9781420049503-c24) |
+| 1998 | learning bayesian networks | Speech & Audio | [Publication](https://doi.org/10.1007/978-94-011-5014-9_15) |
+| 1998 | Learning Curve Analysis | Machine Learning | [Publication](https://doi.org/10.1007/978-1-4615-5281-9_4) |
+| 1998 | least privilege | AI Safety | [Publication](https://doi.org/10.1109/coopis.1998.706199) |
+| 1998 | LeNet-5 | Computer Vision | [Publication](https://doi.org/10.1109/5.726791) |
+| 1998 | level set approach | Computer Vision | [Publication](https://doi.org/10.21711/231766361998/rmc1512) |
+| 1998 | Linear Discriminant Analysis (LDA) | Machine Learning | [Publication](https://doi.org/10.21437/icslp.1998-528) |
+| 1998 | Linear Predictive Coding (LPC) | Signal & Information Theory | [Publication](https://doi.org/10.1007/978-3-642-76220-8_5) |
+| 1998 | linear spectral unmixing | Computer Vision | [Publication](https://doi.org/10.1109/igarss.1998.699577) |
+| 1998 | live video streaming | AI Infrastructure | [Publication](https://doi.org/10.1109/icce.1998.678362) |
+| 1998 | location management | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4615-5527-8_5) |
+| 1998 | logistics network | Mathematics | [Publication](https://doi.org/10.1007/978-1-4615-5277-2_3) |
+| 1998 | Loss Aversion | Cognitive Science | [Publication](https://doi.org/10.2139/ssrn.58442) |
+| 1998 | loss of heterozygosity | Data Science | [Publication](https://doi.org/10.1046/j.1365-2133.1998.02551.x) |
+| 1998 | low-dimensional spaces | Machine Learning | [Publication](https://doi.org/10.1007/s002220050261) |
+| 1998 | materialized views | Machine Learning | [Publication](https://doi.org/10.1145/273244.273253) |
+| 1998 | max-min ant system | Mathematics | [Publication](https://doi.org/10.1007/978-3-7091-6492-1_54) |
+| 1998 | mC4 | Datasets & Benchmarks | [Publication](https://doi.org/10.1046/j.1365-2826.1998.00180.x) |
+| 1998 | media access control | AI Safety | [Publication](https://doi.org/10.1007/978-0-387-35378-4_7) |
+| 1998 | medical image registration | Computer Vision | [Publication](https://doi.org/10.1016/s1361-8415(01)80026-8) |
+| 1998 | Medical Imaging Modality | Science & Healthcare AI | [Publication](https://doi.org/10.1063/1.56388) |
+| 1998 | membership degrees | Machine Learning | [Publication](https://doi.org/10.1080/014311698214271) |
+| 1998 | Microsoft Research | People & Organizations | [Publication](https://doi.org/10.1109/2.641977) |
+| 1998 | mobile agent technology | Agentic AI | [Publication](https://doi.org/10.1007/bfb0057643) |
+| 1998 | mobile internet | AI Infrastructure | [Publication](https://doi.org/10.1007/978-94-011-4918-1_20) |
+| 1998 | mobile ip | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc2344) |
+| 1998 | mode-locked lasers | AI Infrastructure | [Publication](https://doi.org/10.21236/ada358227) |
+| 1998 | model checkers | Programming & Software | [Publication](https://doi.org/10.1007/bfb0028733) |
+| 1998 | molecular computing | AI Applications | [Publication](https://doi.org/10.1007/978-3-662-03563-4_3) |
+| 1998 | motion vector | Computer Vision | [Publication](https://doi.org/10.1007/s11767-998-0017-8) |
+| 1998 | moving object | Computer Vision | [Publication](https://doi.org/10.1016/s0165-1684(98)00007-3) |
+| 1998 | multi-standard | AI Infrastructure | [Publication](https://doi.org/10.1049/ic:19980566) |
+| 1998 | multi-temporal | Speech & Audio | [Publication](https://doi.org/10.4018/jdm.1998010102) |
+| 1998 | multicast scheduling | AI Infrastructure | [Publication](https://doi.org/10.1023/a:1019085415942) |
+| 1998 | multiple classifiers | Machine Learning | [Publication](https://doi.org/10.1049/ic:19980682) |
+| 1998 | multiplicative updates | Mathematics | [Publication](https://doi.org/10.1111/1467-9965.00058) |
+| 1998 | naive bayesian classifier | AI Foundations | [Publication](https://doi.org/10.1007/bfb0026690) |
+| 1998 | navigation patterns | Machine Learning | [Publication](https://doi.org/10.1037/e492932004-001) |
+| 1998 | network attacks | AI Infrastructure | [Publication](https://doi.org/10.1016/s1353-4858(98)90088-5) |
+| 1998 | node movement | AI Infrastructure | [Publication](https://doi.org/10.1016/s0168-9274(97)00085-8) |
+| 1998 | object constraint language | Programming & Software | [Publication](https://doi.org/10.1007/978-3-540-49524-6_35) |
+| 1998 | olap | Machine Learning | [Publication](https://doi.org/10.1007/978-0-387-35300-5_1) |
+| 1998 | onion routing | AI Safety | [Publication](https://doi.org/10.21236/ada465335) |
+| 1998 | optical access network | AI Infrastructure | [Publication](https://doi.org/10.1364/ona.1998.sm2) |
+| 1998 | optical packet switches | AI Infrastructure | [Publication](https://doi.org/10.1109/50.736577) |
+| 1998 | Outcome Bias | AI Foundations | [Publication](https://doi.org/10.1001/jama.280.3.254) |
+| 1998 | overlay networks | AI Infrastructure | [Publication](https://doi.org/10.1023/a:1019197320544) |
+| 1998 | parallel corpora | NLP and LLMs | [Publication](https://doi.org/10.1007/3-540-49478-2_1) |
+| 1998 | parallel interference cancellation | Speech & Audio | [Publication](https://doi.org/10.1109/26.659484) |
+| 1998 | Partial Function | Programming & Software | [Publication](https://doi.org/10.14236/ewic/nfm1998.7) |
+| 1998 | particle image velocimetry | AI Applications | [Publication](https://doi.org/10.1007/978-3-662-03637-2) |
+| 1998 | path relinking | Mathematics | [Publication](https://doi.org/10.1007/bfb0026589) |
+| 1998 | Per-Protocol Analysis | Mathematics | [Publication](https://doi.org/10.1016/s0895-7061(97)91616-2) |
+| 1998 | perfusion weighted imaging | Computer Vision | [Publication](https://doi.org/10.1002/ana.410430108) |
+| 1998 | Phase III Trial | Science & Healthcare AI | [Publication](https://doi.org/10.1016/s0140-6736(05)78751-1) |
+| 1998 | probabilistic model | AI Foundations | [Publication](https://doi.org/10.1016/s0266-8920(97)00029-5) |
+| 1998 | protocol testing | AI Infrastructure | [Publication](https://doi.org/10.1007/978-0-387-35394-4_21) |
+| 1998 | Public Service Delivery | AI Applications | [Publication](https://doi.org/10.14217/9781848596566-3-en) |
+| 1998 | quadruped robot | Robotics | [Publication](https://doi.org/10.1007/978-1-4615-5735-7_2) |
+| 1998 | quality of service routing | AI Infrastructure | [Publication](https://doi.org/10.1117/12.333731) |
+| 1998 | query execution | AI Foundations | [Publication](https://doi.org/10.1145/276305.276315) |
+| 1998 | Query Rewriting | NLP and LLMs | [Publication](https://doi.org/10.1007/978-1-4757-6132-0_4) |
+| 1998 | race detection | AI Infrastructure | [Publication](https://doi.org/10.1145/281035.281040) |
+| 1998 | rate distortion optimization | Computer Vision | [Publication](https://doi.org/10.1109/79.733497) |
+| 1998 | rational unified process | Programming & Software | [Publication](https://openalex.org/W1562934601) |
+| 1998 | real time streaming | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc2326) |
+| 1998 | real-time java | AI Foundations | [Publication](https://doi.org/10.1007/978-1-4471-0607-4_18) |
+| 1998 | reconfigurable logic | AI Infrastructure | [Publication](https://doi.org/10.1016/b978-075069089-8/50023-2) |
 | 1998 | Refinement Type | AI Foundations | [Publication](https://doi.org/10.1007/bfb0056613) |
 | 1998 | remote monitoring | Robotics | [Publication](https://doi.org/10.21236/ada434372) |
 | 1998 | Reproducing Kernel Hilbert Space (RKHS) | Mathematics | [Publication](https://doi.org/10.1016/s0009-2614(98)00341-8) |
@@ -435,78 +510,3 @@
 | 1998 ★★ | wireless local area network (wlan) | AI Infrastructure | [Indirect context](https://doi.org/10.1023/a:1019171015383) — NOT keyword evidence |
 | 1998 ★★ | Workplace robotics safety | Robotics | [Indirect context](https://doi.org/10.4043/13239-ms) — NOT keyword evidence |
 | 1998 ★★ | Wrapper Method | Machine Learning | [Indirect context](https://doi.org/10.1007/978-1-4615-5725-8_3) — NOT keyword evidence |
-| 1999 | 3D Convolution | Computer Vision | [Publication](https://doi.org/10.1109/visual.1999.809934) |
-| 1999 | 3D Stacking | AI Infrastructure | [Publication](https://doi.org/10.3997/2214-4609.201407764) |
-| 1999 | active appearance models | Machine Learning | [Publication](https://doi.org/10.1109/iccv.1999.791209) |
-| 1999 | Actor-Critic | AI Foundations | [Publication](https://doi.org/10.1137/s036301299731669x) |
-| 1999 | ad hoc on demand distance vector | AI Infrastructure | [Publication](https://doi.org/10.1109/mcsa.1999.749281) |
-| 1999 | Adaptation in Case-Based Reasoning | AI Foundations | [Publication](https://doi.org/10.1007/3-540-48508-2_8) |
-| 1999 | adaptive cruise control | AI Foundations | [Publication](https://doi.org/10.1007/978-3-663-01406-5_27) |
-| 1999 | adaptive hypermedia systems | AI Infrastructure | [Publication](https://openalex.org/W1596227404) |
-| 1999 | Adjoint Sensitivity Method | Mathematics | [Publication](https://doi.org/10.1061/(asce)0733-9429(1999)125:7(714)) |
-| 1999 | Adjudication | Data Science | [Publication](https://doi.org/10.1093/acprof:oso/9780198260257.003.0012) |
-| 1999 | advanced encryption standard | AI Infrastructure | [Publication](https://doi.org/10.6028/nist.ir.6390) |
-| 1999 | advanced systems | Speech & Audio | [Publication](https://doi.org/10.1109/dasfaa.1999.765729) |
-| 1999 | advanced video coding | Computer Vision | [Publication](https://doi.org/10.1016/s0928-1479(99)x8001-6) |
-| 1999 | affine projections | Speech & Audio | [Publication](https://doi.org/10.1109/iccv.1999.791232) |
-| 1999 | agent oriented software engineering | Agentic AI | [Publication](https://doi.org/10.1007/3-540-48437-x_1) |
-| 1999 | Aggregation Function | Graph & Network Learning | [Publication](https://doi.org/10.1111/j.1540-5915.1999.tb01616.x) |
-| 1999 | algorithmic mechanism design | Reinforcement Learning | [Publication](https://doi.org/10.1145/301250.301287) |
-| 1999 | anomaly detector | AI Safety | [Publication](https://doi.org/10.1016/s0020-0255(98)10064-6) |
-| 1999 | answer set | AI Foundations | [Publication](https://doi.org/10.7551/mitpress/4304.003.0009) |
-| 1999 | antenna accessories | Speech & Audio | [Publication](https://doi.org/10.1002/047134608x.w1202) |
-| 1999 | Apriori Algorithm | Machine Learning | [Publication](https://doi.org/10.6028/nist.sp.500-246.adhoc-kasetsart) |
-| 1999 | architecting | Programming & Software | [Publication](https://doi.org/10.1145/302405.302720) |
-| 1999 | Artificial consciousness | AI Foundations | [Publication](https://doi.org/10.1023/a:1008374714117) |
-| 1999 | aspect oriented programming | Programming & Software | [Publication](https://doi.org/10.1145/320384.320423) |
-| 1999 | augmented reality applications | AI Applications | [Publication](https://doi.org/10.1201/9781439863992-20) |
-| 1999 | authenticated key agreement | AI Infrastructure | [Publication](https://doi.org/10.1049/el:19990724) |
-| 1999 | Autonomous Agent | AI Foundations | [Publication](https://doi.org/10.1023/a:1010087325358) |
-| 1999 | autonomous robots | Robotics | [Publication](https://doi.org/10.1023/a:1008913712526) |
-| 1999 | binary classification problems | Machine Learning | [Publication](https://doi.org/10.1016/s0167-8655(99)00046-x) |
-| 1999 | binary phase shift keying | Speech & Audio | [Publication](https://doi.org/10.1364/oaa.1999.thd4) |
-| 1999 | biomimetic materials | Robotics | [Publication](https://doi.org/10.1201/9781482298093-14) |
-| 1999 | block transmissions | AI Infrastructure | [Publication](https://doi.org/10.1109/18.761338) |
-| 1999 | bold signal | Computer Vision | [Publication](https://doi.org/10.1002/(sici)1522-2594(199911)42:5<919::aid-mrm12>3.0.co;2-8) |
-| 1999 | Business Continuity Plan | Security & Privacy | [Publication](https://doi.org/10.2172/798666) |
-| 1999 | business process design | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4615-5071-6_2) |
-| 1999 | business process management | AI Infrastructure | [Publication](https://doi.org/10.1108/14637159910249144) |
-| 1999 | Causal Discovery | Causal Inference | [Publication](https://doi.org/10.7551/mitpress/2006.003.0007) |
-| 1999 | certificate management | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc2510) |
-| 1999 | Channel Order | Computer Vision | [Publication](https://doi.org/10.1109/78.806077) |
-| 1999 | channel spacings | AI Infrastructure | [Publication](https://doi.org/10.1109/68.769733) |
-| 1999 | chaotic system | AI Safety | [Publication](https://doi.org/10.1037/e629292011-001) |
-| 1999 | Child Safety Measures | Generative AI | [Publication](https://openalex.org/W43656290) |
-| 1999 | classifier ensembles | Machine Learning | [Publication](https://openalex.org/W872314213) |
-| 1999 | collaborative learning environment | AI Infrastructure | [Publication](https://doi.org/10.3115/1150240.1150256) |
-| 1999 | Compounding | NLP and LLMs | [Publication](https://doi.org/10.1016/s1464-391x(99)80131-7) |
-| 1999 | Computational semiotics | AI Foundations | [Publication](https://doi.org/10.1109/isic.1999.796629) |
-| 1999 | computer-aided diagnosis | Computer Vision | [Publication](https://doi.org/10.21236/ada391457) |
-| 1999 | computing with words | NLP and LLMs | [Publication](https://doi.org/10.1007/978-3-7908-1872-7_13) |
-| 1999 | concept drifts | Machine Learning | [Publication](https://doi.org/10.1145/312129.312267) |
-| 1999 | Confidence Threshold | Evaluation & Metrics | [Publication](https://doi.org/10.21437/eurospeech.1999-360) |
-| 1999 | constant-factor approximation algorithms | Mathematics | [Publication](https://doi.org/10.1007/3-540-46632-0_8) |
-| 1999 | control lyapunov function | Robotics | [Publication](https://doi.org/10.1109/acc.1999.786082) |
-| 1999 | Coreference Resolution | NLP and LLMs | [Publication](https://doi.org/10.3115/1608810.1608821) |
-| 1999 | Cost-Complexity Pruning | Machine Learning | [Publication](https://openalex.org/W156266736) |
-| 1999 | critical success factors | AI Infrastructure | [Publication](https://doi.org/10.3320/1.2763297) |
-| 1999 | crosses, genetic | Data Science | [Publication](https://doi.org/10.1093/genetics/151.4.1493) |
-| 1999 | cybercrimes | AI Safety | [Publication](https://doi.org/10.1007/978-1-349-27641-7_5) |
-| 1999 | Cyclic Redundancy Check (CRC) | Signal & Information Theory | [Publication](https://doi.org/10.1016/s0920-5489(99)90902-9) |
-| 1999 | damage location | AI Infrastructure | [Publication](https://doi.org/10.4028/www.scientific.net/kem.167-168.256) |
-| 1999 | data cubes | Information Retrieval | [Publication](https://doi.org/10.1109/icde.1999.754950) |
-| 1999 | Data Vintage | Time Series & Forecasting | [Publication](https://doi.org/10.21799/frbp.wp.1999.15) |
-| 1999 | data warehousing | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-642-97747-3_5) |
-| 1999 | de-noising | Computer Vision | [Publication](https://doi.org/10.1109/icassp.1999.758262) |
-| 1999 | delay dependent stability criterion | Robotics | [Publication](https://doi.org/10.1109/9.754838) |
-| 1999 | denial of service attacks | AI Safety | [Publication](https://doi.org/10.1201/9781420048872.axa) |
-| 1999 | dependency trees | NLP and LLMs | [Publication](https://doi.org/10.1023/a:1002019504946) |
-| 1999 | design for all | AI Applications | [Publication](https://doi.org/10.1201/9781498702096-21) |
-| 1999 | development processes | Programming & Software | [Publication](https://doi.org/10.5040/9798216188209.ch-001) |
-| 1999 | differential fault analysis | AI Safety | [Publication](https://doi.org/10.1007/3-540-49162-7_19) |
-| 1999 | digital cmos | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4757-4926-7_2) |
-| 1999 | digital libraries | AI Infrastructure | [Publication](https://doi.org/10.1145/313238.313433) |
-| 1999 | discrete wavelet transformation | Computer Vision | [Publication](https://doi.org/10.1002/9780470317020.ch4) |
-| 1999 | distribution systems | AI Infrastructure | [Publication](https://doi.org/10.1049/ic:19990437) |
-| 1999 | dynamic surface control | Deep Learning | [Publication](https://doi.org/10.1109/acc.1999.782886) |
-| 1999 | Eager learning | Machine Learning | [Publication](https://openalex.org/W1551085703) |

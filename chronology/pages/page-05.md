@@ -10,6 +10,65 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 1974 | mitochondrial genetics | Data Science | [Publication](https://doi.org/10.1093/genetics/78.1.415) |
+| 1974 | mode-locking | AI Infrastructure | [Publication](https://doi.org/10.21236/ada002747) |
+| 1974 | Model Selection | Machine Learning | [Publication](https://doi.org/10.2307/2296710) |
+| 1974 | monopole antenna | AI Infrastructure | [Publication](https://doi.org/10.1109/aps.1974.1147244) |
+| 1974 | multiple target tracking | AI Infrastructure | [Publication](https://doi.org/10.1002/j.2161-4296.1974.tb01229.x) |
+| 1974 | noise pollution control | Computer Vision | [Publication](https://doi.org/10.1080/00022470.1974.10469902) |
+| 1974 | Noisy Channel Coding Theorem | Signal & Information Theory | [Publication](https://doi.org/10.1080/00029890.1974.11993679) |
+| 1974 | nondominated solutions | Mathematics | [Publication](https://doi.org/10.1007/978-3-642-80808-1_4) |
+| 1974 | objective space | Mathematics | [Publication](https://doi.org/10.1007/978-94-010-2294-1_12) |
+| 1974 | optical-fiber communications | AI Infrastructure | [Publication](https://openalex.org/W3011081543) |
+| 1974 | Orchestration | AI Foundations | [Publication](https://doi.org/10.1515/9783110809695-011) |
+| 1974 | Paralinguistics | Speech & Audio | [Publication](https://doi.org/10.1515/9783111659916-008) |
+| 1974 | Physical Plausibility | Generative AI | [Publication](https://doi.org/10.3758/bf03203242) |
+| 1974 | point targets | Computer Vision | [Publication](https://openalex.org/W1547695231) |
+| 1974 | POP-11 | AI Foundations | [Publication](https://openalex.org/W321303789) |
+| 1974 | Presupposition | NLP and LLMs | [Publication](https://doi.org/10.1515/9783110876291) |
+| 1974 | Quasi-Experiment | Causal Inference | [Publication](https://doi.org/10.1037/e542822011-068) |
+| 1974 | random walkers | Computer Vision | [Publication](https://doi.org/10.3905/jpm.1974.408498) |
+| 1974 | Rater Training | Evaluation & Metrics | [Publication](https://doi.org/10.1080/10510977409367806) |
+| 1974 | Regression Coefficient | Mathematics | [Publication](https://doi.org/10.3386/w0060) |
+| 1974 | relational data model | AI Foundations | [Publication](https://openalex.org/W100866098) |
+| 1974 | Remote Sensing | Science & Healthcare AI | [Publication](https://doi.org/10.1016/0034-4257(74)90056-x) |
+| 1974 | Sample Rate | Signal & Information Theory | [Publication](https://doi.org/10.2514/6.1974-885) |
+| 1974 | Schur Complement | Mathematics | [Publication](https://doi.org/10.1016/0024-3795(74)90066-4) |
+| 1974 | secure communications | AI Infrastructure | [Publication](https://doi.org/10.21236/ada542654) |
+| 1974 | Sound Source Localization | Speech & Audio | [Publication](https://doi.org/10.1121/1.1903248) |
+| 1974 | speech communication | Speech & Audio | [Publication](https://doi.org/10.1080/10417947409372232) |
+| 1974 | static background | Computer Vision | [Publication](https://doi.org/10.1080/00221309.1974.9920791) |
+| 1974 | Strong Duality | Mathematics | [Publication](https://doi.org/10.1016/0370-2693(74)90525-5) |
+| 1974 | systems design | AI Foundations | [Publication](https://doi.org/10.7312/luca94422-008) |
+| 1974 | tracking algorithm | AI Infrastructure | [Publication](https://doi.org/10.21236/ad0787635) |
+| 1974 | Training Stability | Machine Learning | [Publication](https://doi.org/10.1007/bf00053496) |
+| 1974 | understandability | Programming & Software | [Publication](https://doi.org/10.2307/2490377) |
+| 1974 | user interests | Information Retrieval | [Publication](https://doi.org/10.2514/6.1974-649) |
+| 1974 | utility computing | AI Infrastructure | [Publication](https://doi.org/10.1145/1500175.1500370) |
+| 1974 | Variance Reduction | Mathematics | [Publication](https://doi.org/10.2307/2334296) |
+| 1974 | Wiener Filter | Signal & Information Theory | [Publication](https://doi.org/10.1007/978-3-662-10047-9_2) |
+| 1974 | Yield Optimization | AI Applications | [Publication](https://doi.org/10.1016/0026-2714(74)90153-x) |
+| 1974 ★ | Frame default value | AI Foundations | [Related source](https://dspace.mit.edu/entities/publication/0eca0164-cb5f-42de-8c86-43f54b23306d) — indirect |
+| 1974 ★ | Frame memory structure | AI Foundations | [Related source](https://dspace.mit.edu/entities/publication/0eca0164-cb5f-42de-8c86-43f54b23306d) — indirect |
+| 1974 ★ | Frame procedural attachment | AI Foundations | [Related source](https://dspace.mit.edu/entities/publication/0eca0164-cb5f-42de-8c86-43f54b23306d) — indirect |
+| 1974 ★ | Frame terminal condition | AI Foundations | [Related source](https://dspace.mit.edu/entities/publication/0eca0164-cb5f-42de-8c86-43f54b23306d) — indirect |
+| 1974 ★ | Frame transformation | AI Foundations | [Related source](https://dspace.mit.edu/entities/publication/0eca0164-cb5f-42de-8c86-43f54b23306d) — indirect |
+| 1974 ★ | Frame-based knowledge reasoning | AI Foundations | [Related source](https://dspace.mit.edu/entities/publication/0eca0164-cb5f-42de-8c86-43f54b23306d) — indirect |
+| 1974 ★ | Frame-based scene understanding | AI Foundations | [Related source](https://dspace.mit.edu/entities/publication/0eca0164-cb5f-42de-8c86-43f54b23306d) — indirect |
+| 1974 ★ | Frames for stereotypical situations | AI Foundations | [Related source](https://dspace.mit.edu/entities/publication/0eca0164-cb5f-42de-8c86-43f54b23306d) — indirect |
+| 1974 ★ | Knowledge frame slot | AI Foundations | [Related source](https://dspace.mit.edu/entities/publication/0eca0164-cb5f-42de-8c86-43f54b23306d) — indirect |
+| 1974 ★ | Minsky frame slot | AI Foundations | [Related source](https://dspace.mit.edu/entities/publication/0eca0164-cb5f-42de-8c86-43f54b23306d) — indirect |
+| 1974 ★★ | adaptive array | Speech & Audio | [Indirect context](https://doi.org/10.1109/cdc.1974.270538) — NOT keyword evidence |
+| 1974 ★★ | Clustering Coefficient | Mathematics | [Indirect context](https://doi.org/10.4153/cjm-1957-043-6) — NOT keyword evidence |
+| 1974 ★★ | Episodic Agent Memory | Agentic AI | [Indirect context](https://doi.org/10.1037/h0020071) — NOT keyword evidence |
+| 1974 ★★ | Machine perception | AI Foundations | [Indirect context](https://doi.org/10.1068/p040229) — NOT keyword evidence |
+| 1974 ★★ | maneuvering target tracking | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ad0754387) — NOT keyword evidence |
+| 1974 ★★ | Memory Staleness | Agentic AI | [Indirect context](https://doi.org/10.1007/978-1-4684-0730-3_23) — NOT keyword evidence |
+| 1974 ★★ | monopole antennas | AI Infrastructure | [Indirect context](https://doi.org/10.1109/aps.1974.1147244) — NOT keyword evidence |
+| 1974 ★★ | OPTICS | Machine Learning | [Indirect context](https://doi.org/10.1007/978-1-4684-2082-1_15) — NOT keyword evidence |
+| 1974 ★★ | Rolling Statistic | Time Series & Forecasting | [Indirect context](https://doi.org/10.1016/j.ijforecast.2019.04.013) — NOT keyword evidence |
+| 1974 ★★ | Sampling Theorem | Signal & Information Theory | [Indirect context](https://doi.org/10.1080/00029890.1974.11993679) — NOT keyword evidence |
+| 1974 ★★ | Spline | Mathematics | [Indirect context](https://doi.org/10.1016/b978-0-12-079050-0.50011-4) — NOT keyword evidence |
 | 1974 ★★ | tracking accuracy | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ad0654272) — NOT keyword evidence |
 | 1974 ★★ | tracking performance | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ad0654272) — NOT keyword evidence |
 | 1974 ★★ | tracking system | AI Infrastructure | [Indirect context](https://doi.org/10.21236/ad0654272) — NOT keyword evidence |
@@ -451,62 +510,3 @@
 | 1978 | distributed query processing | Information Retrieval | [Publication](https://doi.org/10.1145/509252.509292) |
 | 1978 | Dual Numbers | Mathematics | [Publication](https://doi.org/10.1007/bf00151527) |
 | 1978 | dynamic traffic | AI Infrastructure | [Publication](https://doi.org/10.1287/trsc.12.3.200) |
-| 1978 | edge detection | Computer Vision | [Publication](https://doi.org/10.21236/ada059124) |
-| 1978 | eeg analysis | Speech & Audio | [Publication](https://doi.org/10.1080/00029238.1978.11081144) |
-| 1978 | electron mobility | AI Infrastructure | [Publication](https://doi.org/10.1109/t-ed.1978.19201) |
-| 1978 | embedding process | AI Safety | [Publication](https://doi.org/10.1007/978-1-349-03568-7_3) |
-| 1978 | Exact Match | Evaluation & Metrics | [Publication](https://doi.org/10.1137/0207043) |
-| 1978 | facial action | Machine Learning | [Publication](https://doi.org/10.1037/t27734-000) |
-| 1978 | facial action coding system | Machine Learning | [Publication](https://doi.org/10.1037/t27734-000) |
-| 1978 | facial regions | Machine Learning | [Publication](https://doi.org/10.1016/b978-0-08-023049-8.50071-3) |
-| 1978 | Fair Use | AI Safety | [Publication](https://doi.org/10.4159/harvard.9780674433120.c3) |
-| 1978 | False Negative (FN) | AI Foundations | [Publication](https://doi.org/10.1016/0002-9149(78)90285-0) |
-| 1978 | fault tolerant computer systems | AI Infrastructure | [Publication](https://doi.org/10.21236/ada059936) |
-| 1978 | Fixed Effect | Mathematics | [Publication](https://doi.org/10.3386/w0280) |
-| 1978 | forecasting problems | Machine Learning | [Publication](https://doi.org/10.1108/eb056898) |
-| 1978 | formal specifications | Programming & Software | [Publication](https://doi.org/10.21236/ada109317) |
-| 1978 | functional dependencies | AI Foundations | [Publication](https://doi.org/10.2172/6401792) |
-| 1978 | game analysis | Reinforcement Learning | [Publication](https://doi.org/10.1177/036215377800800316) |
-| 1978 | hough transformation | Computer Vision | [Publication](https://doi.org/10.1109/tc.1978.1675191) |
-| 1978 | Identifiability Analysis | Mathematics | [Publication](https://doi.org/10.1080/00207177808922437) |
-| 1978 | Identity Verification | AI Applications | [Publication](https://doi.org/10.21236/ada056772) |
-| 1978 | iir filters | Speech & Audio | [Publication](https://doi.org/10.1109/proc.1978.10962) |
-| 1978 | image matching algorithm | Computer Vision | [Publication](https://doi.org/10.1016/0031-3203(78)90046-8) |
-| 1978 | Impact Analysis | Programming & Software | [Publication](https://doi.org/10.1016/b978-0-12-735350-0.50004-x) |
-| 1978 | inference systems | AI Foundations | [Publication](https://doi.org/10.1016/c2013-0-11671-6) |
-| 1978 | Information-Theoretic Lower Bound | Mathematics | [Publication](https://doi.org/10.1016/0020-0190(78)90037-6) |
-| 1978 | Inverse Problem | Science & Healthcare AI | [Publication](https://doi.org/10.1007/978-3-662-25771-5_4) |
-| 1978 | Labelling Policy | Generative AI | [Publication](https://doi.org/10.1016/0306-9192(78)90021-0) |
-| 1978 | laser annealing | AI Foundations | [Publication](https://doi.org/10.21236/ada145857) |
-| 1978 | Linear Algebra | AI Foundations | [Publication](https://doi.org/10.1016/0024-3795(78)90073-3) |
-| 1978 | Lipschitz Continuity | Mathematics | [Publication](https://doi.org/10.1007/978-3-0348-7180-8_21) |
-| 1978 | logistic regressions | Mathematics | [Publication](https://doi.org/10.2307/2529594) |
-| 1978 | Logit Function | Mathematics | [Publication](https://doi.org/10.1016/b978-0-08-023768-8.50424-2) |
-| 1978 | lyapunov-krasovskii functionals | Robotics | [Publication](https://doi.org/10.1007/bf01130642) |
-| 1978 | maximum likelihood detectors | Speech & Audio | [Publication](https://doi.org/10.1109/tit.1978.1055834) |
-| 1978 | mean absolute error | Speech & Audio | [Publication](https://doi.org/10.1109/tcom.1978.1094055) |
-| 1978 | Memory Capacity | AI Infrastructure | [Publication](https://doi.org/10.3758/bf03197446) |
-| 1978 | memory systems | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-322-83629-8_20) |
-| 1978 | microstrip filters | Speech & Audio | [Publication](https://doi.org/10.1063/1.31342) |
-| 1978 | Mode Collapse | AI Foundations | [Publication](https://doi.org/10.1364/ao.17.002924) |
-| 1978 | nuclear sciences | Computer Vision | [Publication](https://doi.org/10.2172/6751528) |
-| 1978 | online searching | Information Retrieval | [Publication](https://doi.org/10.1108/eb023972) |
-| 1978 | optical sensor | AI Infrastructure | [Publication](https://doi.org/10.21236/ada058835) |
-| 1978 | optical transmission | AI Infrastructure | [Publication](https://doi.org/10.21236/ada056746) |
-| 1978 | optically pumped lasers | AI Infrastructure | [Publication](https://doi.org/10.2172/6895972) |
-| 1978 | palmprints | AI Safety | [Publication](https://doi.org/10.1515/9783110800005.215) |
-| 1978 | Parameter Validation | Agentic AI | [Publication](https://doi.org/10.1145/987515.987517) |
-| 1978 | pentacenes | AI Infrastructure | [Publication](https://doi.org/10.1002/jlcr.2580140313) |
-| 1978 | Perceptual Coding | Signal & Information Theory | [Publication](https://doi.org/10.1016/c2013-0-10468-0) |
-| 1978 | Percolation Threshold | Graph & Network Learning | [Publication](https://doi.org/10.1063/1.31180) |
-| 1978 | Plan Recognition | AI Foundations | [Publication](https://doi.org/10.1016/0004-3702(78)90012-7) |
-| 1978 | pneumatic cylinders | Machine Learning | [Publication](https://doi.org/10.1049/tpe.1978.0012) |
-| 1978 | polarimeters | AI Infrastructure | [Publication](https://doi.org/10.1063/1.31290) |
-| 1978 | polarization mode dispersion | AI Infrastructure | [Publication](https://doi.org/10.1364/ol.3.000060) |
-| 1978 | policy specification | AI Infrastructure | [Publication](https://doi.org/10.1016/0197-3975(78)90077-2) |
-| 1978 | polynomial basis | AI Safety | [Publication](https://doi.org/10.1063/1.523616) |
-| 1978 | Positional Head | Deep Learning | [Publication](https://doi.org/10.1007/bf00666366) |
-| 1978 | Post-Stratification | Mathematics | [Publication](https://doi.org/10.21236/ada053919) |
-| 1978 | Prefetching | AI Infrastructure | [Publication](https://doi.org/10.1145/320263.320276) |
-| 1978 | Premature Termination | Agentic AI | [Publication](https://doi.org/10.1016/0022-2836(78)90308-x) |
-| 1978 | program translators | AI Foundations | [Publication](https://doi.org/10.2140/pjm.1978.76.485) |

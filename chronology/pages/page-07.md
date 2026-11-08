@@ -1,6 +1,6 @@
 # Batch 07/41 — Historical Keywords
 
-**500 keywords**, sorted chronologically (1981 – 1983). The master CSV retains the original permanent IDs.
+**500 keywords**, sorted chronologically (1980 – 1983). The master CSV retains the original permanent IDs.
 
 [All 41 batches](../README.md) | [Master inventory with IDs](../../data/KEYWORD_INVENTORY.csv)
 
@@ -10,6 +10,65 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 1980 ★★ | girth | Mathematics | [Indirect context](https://doi.org/10.1002/jgt.3190010206) — NOT keyword evidence |
+| 1980 ★★ | Hierarchical control system (HCS) | AI Foundations | [Indirect context](https://doi.org/10.2514/6.1982-1440) — NOT keyword evidence |
+| 1980 ★★ | Historical Bias | AI Safety | [Indirect context](https://doi.org/10.1080/01621459.1962.10480664) — NOT keyword evidence |
+| 1980 ★★ | hyper-cubes | Mathematics | [Indirect context](https://doi.org/10.1002/jgt.3190010206) — NOT keyword evidence |
+| 1980 ★★ | idma | Mathematics | [Indirect context](https://doi.org/10.1002/jgt.3190010206) — NOT keyword evidence |
+| 1980 ★★ | in-network data aggregation | AI Infrastructure | [Indirect context](https://doi.org/10.1142/9789812777102_0049) — NOT keyword evidence |
+| 1980 ★★ | Indian Buffet Process | Mathematics | [Indirect context](https://doi.org/10.1093/bioinformatics/btl284) — NOT keyword evidence |
+| 1980 ★★ | interacting multiple model | AI Infrastructure | [Indirect context](https://doi.org/10.1002/j.2161-4296.1974.tb01229.x) — NOT keyword evidence |
+| 1980 ★★ | Laplace Redux | Mathematics | [Indirect context](https://doi.org/10.2172/5162720) — NOT keyword evidence |
+| 1980 ★★ | low jitters | AI Infrastructure | [Indirect context](https://doi.org/10.1016/0140-3664(92)90011-3) — NOT keyword evidence |
+| 1980 ★★ | LU Decomposition | Mathematics | [Indirect context](https://doi.org/10.2307/1912094) — NOT keyword evidence |
+| 1980 ★★ | mde | Mathematics | [Indirect context](https://doi.org/10.1002/jgt.3190010206) — NOT keyword evidence |
+| 1980 ★★ | Model-Based Evaluation Bias | Evaluation & Metrics | [Indirect context](https://doi.org/10.1016/0191-765x(80)90026-9) — NOT keyword evidence |
+| 1980 ★★ | nearest neighbor queries | Machine Learning | [Indirect context](https://doi.org/10.1109/TIT.1967.1053964) — NOT keyword evidence |
+| 1980 ★★ | network analyzer | AI Infrastructure | [Indirect context](https://openalex.org/W2999477930) — NOT keyword evidence |
+| 1980 ★★ | Occam's Razor in Learning | Machine Learning | [Indirect context](https://doi.org/10.1097/00006199-198009000-00001) — NOT keyword evidence |
+| 1980 ★★ | Ornstein-Uhlenbeck Process | Mathematics | [Indirect context](https://doi.org/10.1093/bioinformatics/btl284) — NOT keyword evidence |
+| 1980 ★★ | Polars | Tools & Frameworks | [Indirect context](https://doi.org/10.48550/arxiv.1501.02473) — NOT keyword evidence |
+| 1980 ★★ | pure nash equilibrium | Mathematics | [Indirect context](https://doi.org/10.1002/jgt.3190010206) — NOT keyword evidence |
+| 1980 ★★ | QR Decomposition | Mathematics | [Indirect context](https://doi.org/10.2307/1912094) — NOT keyword evidence |
+| 1980 ★★ | Quadratic Discriminant Analysis (QDA) | Machine Learning | [Indirect context](https://doi.org/10.21437/icslp.1998-528) — NOT keyword evidence |
+| 1980 ★★ | qvt | Mathematics | [Indirect context](https://doi.org/10.1002/jgt.3190010206) — NOT keyword evidence |
+| 1980 ★★ | RAFT Optical Flow | Computer Vision | [Indirect context](https://doi.org/10.5244/c.21.81) — NOT keyword evidence |
+| 1980 ★★ | Regret Decomposition | Mathematics | [Indirect context](https://doi.org/10.2307/1912094) — NOT keyword evidence |
+| 1980 ★★ | remote control | Robotics | [Indirect context](https://doi.org/10.1177/002029408702000503) — NOT keyword evidence |
+| 1980 ★★ | Renewal Process | Mathematics | [Indirect context](https://doi.org/10.1093/bioinformatics/btl284) — NOT keyword evidence |
+| 1980 ★★ | Representation Bias | AI Safety | [Indirect context](https://doi.org/10.1080/01621459.1962.10480664) — NOT keyword evidence |
+| 1980 ★★ | residue arithmetic | AI Infrastructure | [Indirect context](https://doi.org/10.1364/optcomp.1987.pdp1) — NOT keyword evidence |
+| 1980 ★★ | Room Impulse Response (RIR) | Signal & Information Theory | [Indirect context](https://doi.org/10.1016/s0963-8695(97)87313-6) — NOT keyword evidence |
+| 1980 ★★ | satellite communication systems | AI Infrastructure | [Indirect context](https://doi.org/10.2514/6.1980-539) — NOT keyword evidence |
+| 1980 ★★ | Stick-Breaking Process | Mathematics | [Indirect context](https://doi.org/10.1093/bioinformatics/btl284) — NOT keyword evidence |
+| 1980 ★★ | strategy proofs | Reinforcement Learning | [Indirect context](https://doi.org/10.21136/cpm.1959.117317) — NOT keyword evidence |
+| 1980 ★★ | supervisory controllers | Mathematics | [Indirect context](https://doi.org/10.1002/jgt.3190010206) — NOT keyword evidence |
+| 1980 ★★ | telecontrol equipment | Robotics | [Indirect context](https://doi.org/10.1016/s0042-207x(80)80658-0) — NOT keyword evidence |
+| 1980 ★★ | trajectory tracking control | Robotics | [Indirect context](https://doi.org/10.1016/0022-0396(69)90019-9) — NOT keyword evidence |
+| 1980 ★★ | Treatment Assignment Mechanism | Causal Inference | [Indirect context](https://doi.org/10.1097/01.ede.0001281556.60346.3b) — NOT keyword evidence |
+| 1980 ★★ | Treatment Assignment Policy | Causal Inference | [Indirect context](https://doi.org/10.1097/01.ede.0001281556.60346.3b) — NOT keyword evidence |
+| 1980 ★★ | Varimax Rotation | Machine Learning | [Indirect context](https://doi.org/10.2478/v10018-010-0010-y) — NOT keyword evidence |
+| 1981 | Acceptance Testing | AI Foundations | [Publication](https://doi.org/10.37206/8) |
+| 1981 | actinomycetes and related organisms | Machine Learning | [Publication](https://doi.org/10.1007/bf01571146) |
+| 1981 | Aesthetic Control | Generative AI | [Publication](https://doi.org/10.1093/bjaesthetics/21.3.261) |
+| 1981 | aircraft systems | Robotics | [Publication](https://doi.org/10.2514/6.1981-1684) |
+| 1981 | Algorithmic probability | AI Foundations | [Publication](https://doi.org/10.1109/sfcs.1981.31) |
+| 1981 | Anaphora | NLP and LLMs | [Publication](https://doi.org/10.1007/3-540-10858-0_2) |
+| 1981 | Annealing Phase | Deep Learning | [Publication](https://doi.org/10.1557/proc-4-43) |
+| 1981 | anonymity | AI Safety | [Publication](https://doi.org/10.1080/00224545.1981.9924347) |
+| 1981 | Attribute Binding | Generative AI | [Publication](https://doi.org/10.1145/965161.806800) |
+| 1981 | background knowledge | AI Foundations | [Publication](https://doi.org/10.1037/e409542004-001) |
+| 1981 | beam propagation method | AI Infrastructure | [Publication](https://doi.org/10.1364/josa.71.000803) |
+| 1981 | Behavioural sciences | AI Foundations | [Publication](https://doi.org/10.1017/s0141347300008016) |
+| 1981 | Boundary Loss Term | Mathematics | [Publication](https://doi.org/10.1016/0022-3115(81)90201-4) |
+| 1981 | Breakdown Point | Mathematics | [Publication](https://doi.org/10.1007/bf02497983) |
+| 1981 | chaotic motions | AI Safety | [Publication](https://doi.org/10.1007/978-0-387-21830-4_9) |
+| 1981 | chromosome 1q | Data Science | [Publication](https://doi.org/10.1016/0165-4608(81)90066-2) |
+| 1981 | closed form solutions | Speech & Audio | [Publication](https://doi.org/10.1109/taes.1981.309128) |
+| 1981 | Code Interpreter | Agentic AI | [Publication](https://doi.org/10.1145/1014192.802434) |
+| 1981 | collision resistance | AI Safety | [Publication](https://doi.org/10.4043/4135-ms) |
+| 1981 | color computer graphics | AI Applications | [Publication](https://doi.org/10.1037/e488702008-002) |
+| 1981 | Combinatorial Explosion | AI Foundations | [Publication](https://doi.org/10.4324/9781315835839-10) |
 | 1981 | communicating sequential process | AI Infrastructure | [Publication](https://doi.org/10.1002/spe.4380111105) |
 | 1981 | concurrent programs | AI Infrastructure | [Publication](https://doi.org/10.21236/ada106750) |
 | 1981 | content protection | Computer Vision | [Publication](https://doi.org/10.2307/1880742) |
@@ -271,6 +330,14 @@
 | 1982 | vector quantizers | Computer Vision | [Publication](https://doi.org/10.1109/tit.1982.1056457) |
 | 1982 | virtual channels | AI Infrastructure | [Publication](https://doi.org/10.1145/800047.801688) |
 | 1982 | Worst-Case Performance | Evaluation & Metrics | [Publication](https://doi.org/10.1093/comjnl/25.3.347) |
+| 1982 ★ | Many-pattern many-object matching | AI Foundations | [Related source](https://doi.org/10.1016/0004-3702(82)90020-0) — indirect |
+| 1982 ★ | Rete alpha memory | AI Foundations | [Related source](https://doi.org/10.1016/0004-3702(82)90020-0) — indirect |
+| 1982 ★ | Rete beta memory | AI Foundations | [Related source](https://doi.org/10.1016/0004-3702(82)90020-0) — indirect |
+| 1982 ★ | Rete discrimination network | AI Foundations | [Related source](https://doi.org/10.1016/0004-3702(82)90020-0) — indirect |
+| 1982 ★ | Rete join node | AI Foundations | [Related source](https://doi.org/10.1016/0004-3702(82)90020-0) — indirect |
+| 1982 ★ | Rete pattern matcher | AI Foundations | [Related source](https://doi.org/10.1016/0004-3702(82)90020-0) — indirect |
+| 1982 ★ | Rete production system interpreter | AI Foundations | [Related source](https://doi.org/10.1016/0004-3702(82)90020-0) — indirect |
+| 1982 ★ | Rete working memory element | AI Foundations | [Related source](https://doi.org/10.1016/0004-3702(82)90020-0) — indirect |
 | 1982 ★★ | acoustic wave propagation | Speech & Audio | [Indirect context](https://doi.org/10.1109/ultsym.1986.198822) — NOT keyword evidence |
 | 1982 ★★ | available bandwidth estimation | AI Infrastructure | [Indirect context](https://doi.org/10.1364/ao.21.001956) — NOT keyword evidence |
 | 1982 ★★ | Boundary Value Problem (BVP) | Mathematics | [Indirect context](https://doi.org/10.11648/j.ijtam.20170302.12) — NOT keyword evidence |
@@ -443,70 +510,3 @@
 | 1983 | Overdispersion | Mathematics | [Publication](https://doi.org/10.1093/biomet/70.1.269) |
 | 1983 | pareto optimal | AI Foundations | [Publication](https://doi.org/10.1007/bf00933970) |
 | 1983 | Partial Derivative | Mathematics | [Publication](https://doi.org/10.1007/bf02520923) |
-| 1983 | pedagogical issues | AI Infrastructure | [Publication](https://doi.org/10.2307/1510525) |
-| 1983 | Performance Monitoring | AI Infrastructure | [Publication](https://doi.org/10.1016/b978-0-08-029992-1.50008-9) |
-| 1983 | Photometric Stereo | Computer Vision | [Publication](https://doi.org/10.1007/978-3-642-81935-3_22) |
-| 1983 | Primacy Effect in Memory | Cognitive Science | [Publication](https://doi.org/10.3758/bf03212324) |
-| 1983 | Principle of Least Surprise | Programming & Software | [Publication](https://doi.org/10.1080/00949658308810689) |
-| 1983 | prisoners dilemma | Reinforcement Learning | [Publication](https://doi.org/10.1007/bf00485828) |
-| 1983 | Probabilistic Retrieval Model | Information Retrieval | [Publication](https://doi.org/10.1108/eb026739) |
-| 1983 | processor array | AI Infrastructure | [Publication](https://openalex.org/W2773142935) |
-| 1983 | product variants | AI Infrastructure | [Publication](https://doi.org/10.1080/00207548308942384) |
-| 1983 | Program Synthesis | AI Foundations | [Publication](https://doi.org/10.7551/mitpress/1192.003.0004) |
-| 1983 | Propensity Score | AI Foundations | [Publication](https://doi.org/10.1093/biomet/70.1.41) |
-| 1983 | Quasi-Likelihood | Mathematics | [Publication](https://doi.org/10.1007/978-1-4899-3244-0_8) |
-| 1983 | rayleigh backscattering | AI Infrastructure | [Publication](https://doi.org/10.1364/josa.73.001175) |
-| 1983 | reduced reference | Computer Vision | [Publication](https://doi.org/10.1016/b978-0-08-030565-3.50020-4) |
-| 1983 | reinitialization | Computer Vision | [Publication](https://doi.org/10.23919/acc.1983.4788253) |
-| 1983 | relational database | AI Foundations | [Publication](https://doi.org/10.1007/978-3-642-68847-8_2) |
-| 1983 | release date | Mathematics | [Publication](https://doi.org/10.1525/aa.1983.85.2.02a00860) |
-| 1983 | Release Notes | Programming & Software | [Publication](https://doi.org/10.6028/nbs.ir.83-2779) |
-| 1983 | replicator dynamics | Reinforcement Learning | [Publication](https://doi.org/10.1016/0022-5193(83)90445-9) |
-| 1983 | Report Generation | Generative AI | [Publication](https://doi.org/10.3133/ofr83691) |
-| 1983 | robotic assembly | Robotics | [Publication](https://doi.org/10.1108/eb004607) |
-| 1983 | Scalar Field | Mathematics | [Publication](https://doi.org/10.1143/ptp.69.341) |
-| 1983 | security properties | AI Infrastructure | [Publication](https://doi.org/10.1109/sp.1983.10013) |
-| 1983 | Semantic Drift | NLP and LLMs | [Publication](https://doi.org/10.1075/aral.6.1.04but) |
-| 1983 | shape descriptors | Computer Vision | [Publication](https://doi.org/10.1515/9783112597484-006) |
-| 1983 | shortest path routing | Mathematics | [Publication](https://doi.org/10.21236/ada132280) |
-| 1983 | signal analysis | Speech & Audio | [Publication](https://doi.org/10.1016/0165-1684(83)90071-3) |
-| 1983 | Simple Random Sample | Mathematics | [Publication](https://doi.org/10.2307/2347297) |
-| 1983 | social influence | AI Infrastructure | [Publication](https://doi.org/10.2307/2578279) |
-| 1983 | software development methodologies | Programming & Software | [Publication](https://openalex.org/W118167955) |
-| 1983 | software engineering | Programming & Software | [Publication](https://doi.org/10.1016/0141-1195(83)90142-0) |
-| 1983 | software project | Programming & Software | [Publication](https://doi.org/10.1145/69586.358135) |
-| 1983 | software protection | AI Safety | [Publication](https://doi.org/10.1016/0141-1195(83)90121-3) |
-| 1983 | software systems | Programming & Software | [Publication](https://doi.org/10.1016/0164-1212(83)90024-9) |
-| 1983 | Spectrogram | Signal & Information Theory | [Publication](https://doi.org/10.1121/1.2020607) |
-| 1983 | stream ciphers | AI Safety | [Publication](https://doi.org/10.1007/978-3-7091-2640-0_3) |
-| 1983 | subaperture | AI Infrastructure | [Publication](https://doi.org/10.1364/ol.8.000468) |
-| 1983 | Sylvester's Law of Inertia | Mathematics | [Publication](https://doi.org/10.1007/978-3-0348-9355-8_24) |
-| 1983 | symbol error rates | Speech & Audio | [Publication](https://doi.org/10.1109/tcom.1983.1095775) |
-| 1983 | tactile sensor | Robotics | [Publication](https://doi.org/10.1108/eb007588) |
-| 1983 | Tangent Space | Mathematics | [Publication](https://doi.org/10.4064/ap-40-3-207-212) |
-| 1983 | text recognition | Machine Learning | [Publication](https://doi.org/10.1016/0031-3203(83)90030-4) |
-| 1983 | theorem provers | AI Foundations | [Publication](https://doi.org/10.1007/978-3-642-81955-1_15) |
-| 1983 | Time Series | AI Foundations | [Publication](https://doi.org/10.1111/j.1467-9892.1983.tb00368.x) |
-| 1983 | Trajectory Generation | Robotics | [Publication](https://doi.org/10.1007/978-1-4684-6846-5_9) |
-| 1983 | transport protocol | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc892) |
-| 1983 | transport protocols | AI Infrastructure | [Publication](https://doi.org/10.1145/1035237.1035288) |
-| 1983 | Tumour Grading | Science & Healthcare AI | [Publication](https://doi.org/10.1007/bf00453929) |
-| 1983 | ultrasonic sensors | Robotics | [Publication](https://doi.org/10.1016/b978-0-408-01160-0.50054-5) |
-| 1983 | Vertical Integration | People & Organizations | [Publication](https://doi.org/10.1016/b978-0-12-103480-1.50009-2) |
-| 1983 | video coders | Computer Vision | [Publication](https://doi.org/10.1049/el:19830041) |
-| 1983 | videocassette recorders | Speech & Audio | [Publication](https://doi.org/10.1109/tmag.1983.1062775) |
-| 1983 | visible image | Computer Vision | [Publication](https://doi.org/10.21236/ada142524) |
-| 1983 | vision system | Computer Vision | [Publication](https://doi.org/10.1007/978-3-662-09771-7_24) |
-| 1983 | visual servo control | Robotics | [Publication](https://doi.org/10.1007/978-3-662-09771-7_7) |
-| 1983 | Warehouse Automation | Robotics | [Publication](https://doi.org/10.1016/0011-684x(83)90032-1) |
-| 1983 | wavefront sensing | AI Infrastructure | [Publication](https://doi.org/10.1117/12.933912) |
-| 1983 | Word Order Typology | NLP and LLMs | [Publication](https://doi.org/10.1075/cilt.25.04wor) |
-| 1983 | work environments | AI Applications | [Publication](https://doi.org/10.1037/e574082012-015) |
-| 1983 ★ | Human-in-the-Loop Transcription | Speech & Audio | [Related source](https://doi.org/10.1016/s0021-9258(18)33188-0) — indirect |
-| 1983 ★★ | Abstraction Heuristic | AI Foundations | [Indirect context](https://doi.org/10.1080/095372899233334) — NOT keyword evidence |
-| 1983 ★★ | ae signals | Speech & Audio | [Indirect context](https://doi.org/10.1016/0026-2714(76)90099-8) — NOT keyword evidence |
-| 1983 ★★ | architecture description languages | Programming & Software | [Indirect context](https://doi.org/10.1145/800046.801635) — NOT keyword evidence |
-| 1983 ★★ | audio signals | Speech & Audio | [Indirect context](https://doi.org/10.1016/0026-2714(76)90099-8) — NOT keyword evidence |
-| 1983 ★★ | Cartesian Product | Mathematics | [Indirect context](https://doi.org/10.1017/cbo9780511526022.009) — NOT keyword evidence |
-| 1983 ★★ | Central Path | Mathematics | [Indirect context](https://doi.org/10.48550/arxiv.1506.02617) — NOT keyword evidence |
-| 1983 ★★ | chromosome 1 | Data Science | [Indirect context](https://doi.org/10.1016/0300-9084(90)90018-c) — NOT keyword evidence |

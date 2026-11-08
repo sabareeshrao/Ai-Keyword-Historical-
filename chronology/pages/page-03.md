@@ -10,6 +10,44 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 1965 | failure detector | AI Infrastructure | [Publication](https://doi.org/10.2172/4558281) |
+| 1965 | Foundation Model | AI Foundations | [Publication](https://doi.org/10.1007/bf01174308) |
+| 1965 | frame differences | Computer Vision | [Publication](https://doi.org/10.1109/proc.1965.4508) |
+| 1965 | Fuzzy sets | AI Foundations | [Publication](https://doi.org/10.1016/S0019-9958(65)90241-X) |
+| 1965 | glacial refugia | Machine Learning | [Publication](https://doi.org/10.1098/rspb.1965.0004) |
+| 1965 | glass ceramics | AI Infrastructure | [Publication](https://doi.org/10.1007/bf00677209) |
+| 1965 | group learning | AI Infrastructure | [Publication](https://doi.org/10.58837/chula.taic.4096) |
+| 1965 | gyroscope | AI Infrastructure | [Publication](https://doi.org/10.1126/science.149.3685.713) |
+| 1965 | High-Pass Filter | Signal & Information Theory | [Publication](https://doi.org/10.1080/09747338.1965.11467836) |
+| 1965 | Highway Network | AI Foundations | [Publication](https://doi.org/10.1038/207811c0) |
+| 1965 | human chromosome | Data Science | [Publication](https://doi.org/10.1016/c2013-0-12441-5) |
+| 1965 | Immutability | Programming & Software | [Publication](https://doi.org/10.1007/978-94-011-9447-1_2) |
+| 1965 | Improper Prior | Mathematics | [Publication](https://doi.org/10.1007/978-3-642-99884-3_13) |
+| 1965 | interfering signals | Speech & Audio | [Publication](https://doi.org/10.1109/tit.1965.1053716) |
+| 1965 | Invariance | Mathematics | [Publication](https://doi.org/10.1515/9781400877874-009) |
+| 1965 | jacobian matrix | Robotics | [Publication](https://doi.org/10.1007/bf01360282) |
+| 1965 | knapsack problem | Mathematics | [Publication](https://doi.org/10.21236/ad0610380) |
+| 1965 | Labour Displacement | AI Safety | [Publication](https://doi.org/10.2307/2520664) |
+| 1965 | Laplacian Operator | Mathematics | [Publication](https://doi.org/10.1215/kjm/1250524602) |
+| 1965 | Lateral Movement | Security & Privacy | [Publication](https://doi.org/10.4095/121427) |
+| 1965 | linear integrated circuits | AI Infrastructure | [Publication](https://doi.org/10.1109/isscc.1965.1157586) |
+| 1965 | Lip Sync | Speech & Audio | [Publication](https://doi.org/10.5594/j05962) |
+| 1965 | longitudinal control | Robotics | [Publication](https://doi.org/10.2514/6.1965-784) |
+| 1965 | maximum likelihood analysis | Mathematics | [Publication](https://doi.org/10.21236/ad0620026) |
+| 1965 | mechanical design | Robotics | [Publication](https://doi.org/10.1115/1.3625863) |
+| 1965 | Mel Scale | Signal & Information Theory | [Publication](https://doi.org/10.2307/843164) |
+| 1965 | Minimal Pair | Evaluation & Metrics | [Publication](https://doi.org/10.1515/9780824891480) |
+| 1965 | motion analysis | Computer Vision | [Publication](https://doi.org/10.21236/ad0617354) |
+| 1965 | Multigraph | Mathematics | [Publication](https://doi.org/10.1007/bf01885700) |
+| 1965 | Operating Point | Evaluation & Metrics | [Publication](https://doi.org/10.1007/978-1-349-81804-4_7) |
+| 1965 | Operational Readiness | AI Foundations | [Publication](https://doi.org/10.2514/6.1965-392) |
+| 1965 | Outer Product | Mathematics | [Publication](https://doi.org/10.1090/s0002-9947-1965-0186687-3) |
+| 1965 | Partition Function | Machine Learning | [Publication](https://doi.org/10.1063/1.1697046) |
+| 1965 | Perplexity | AI Foundations | [Publication](https://doi.org/10.2307/3326432) |
+| 1965 | pneumatic control | Robotics | [Publication](https://doi.org/10.1016/c2013-0-07981-9) |
+| 1965 | postfilters | Speech & Audio | [Publication](https://doi.org/10.1109/proc.1965.3937) |
+| 1965 | power supplies | AI Infrastructure | [Publication](https://doi.org/10.2172/4604503) |
+| 1965 | Prior Distribution | AI Foundations | [Publication](https://doi.org/10.1214/aoms/1177699988) |
 | 1965 | pushdown automata | NLP and LLMs | [Publication](https://doi.org/10.21236/ad0638194) |
 | 1965 | radar signals | Speech & Audio | [Publication](https://doi.org/10.21236/ad0617711) |
 | 1965 | Random Variable | AI Foundations | [Publication](https://doi.org/10.1016/b978-0-08-010421-8.50010-2) |
@@ -472,41 +510,3 @@
 | 1970 | Hidden Dimension | Deep Learning | [Publication](https://doi.org/10.1016/0003-6870(70)90049-9) |
 | 1970 | hospital information system | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-642-86198-7_27) |
 | 1970 | ill posed | Computer Vision | [Publication](https://doi.org/10.1016/0022-247x(70)90017-x) |
-| 1970 | Ill-Conditioned System | Mathematics | [Publication](https://doi.org/10.21136/am.1970.103291) |
-| 1970 | information storage and retrieval | Information Retrieval | [Publication](https://doi.org/10.1016/0020-0271(70)90058-6) |
-| 1970 | infrared detectors | AI Infrastructure | [Publication](https://doi.org/10.1016/s0080-8784(08)62812-4) |
-| 1970 | integrated circuit testing | AI Infrastructure | [Publication](https://doi.org/10.1016/0026-2714(70)90602-5) |
-| 1970 | Interruptibility | Reinforcement Learning | [Publication](https://doi.org/10.1121/1.1974859) |
-| 1970 | Intonation Contour | Speech & Audio | [Publication](https://doi.org/10.1159/000259310) |
-| 1970 | Inverse Function Theorem | Mathematics | [Publication](https://doi.org/10.1111/j.1949-8594.1970.tb08689.x) |
-| 1970 | inverse heat conduction problem | Computer Vision | [Publication](https://doi.org/10.1016/0017-9310(70)90044-x) |
-| 1970 | Masking Threshold | Signal & Information Theory | [Publication](https://openalex.org/W1541574657) |
-| 1970 | mathematical morphology | Computer Vision | [Publication](https://doi.org/10.1007/bf02178814) |
-| 1970 | medical computing | AI Infrastructure | [Publication](https://doi.org/10.1016/0020-7101(70)90033-4) |
-| 1970 | Metric Definition | Data Science | [Publication](https://doi.org/10.1090/s0002-9939-1970-0259562-0) |
-| 1970 | micro-mobility | AI Infrastructure | [Publication](https://doi.org/10.33422/ejest.v3i1.163) |
-| 1970 | monolithic microwave integrated circuits | AI Infrastructure | [Publication](https://doi.org/10.1049/el:19700302) |
-| 1970 | multiwavelength | AI Infrastructure | [Publication](https://doi.org/10.21236/ad0704535) |
-| 1970 | network analysis | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-349-00594-9_14) |
-| 1970 | noise source | Speech & Audio | [Publication](https://doi.org/10.21236/ad0871999) |
-| 1970 | Norm Formation | AI Foundations | [Publication](https://doi.org/10.2307/2786157) |
-| 1970 | Optical Character Recognition (OCR) | Computer Vision | [Publication](https://doi.org/10.1016/0031-3203(70)90026-9) |
-| 1970 | optical data processing | Computer Vision | [Publication](https://doi.org/10.21236/ad0712369) |
-| 1970 | outage probabilities | Speech & Audio | [Publication](https://doi.org/10.1109/tpas.1970.292555) |
-| 1970 | parameter adaptation | AI Foundations | [Publication](https://doi.org/10.1109/sap.1970.269994) |
-| 1970 | pattern classification problems | Machine Learning | [Publication](https://doi.org/10.5109/13043) |
-| 1970 | penalty function | AI Foundations | [Publication](https://doi.org/10.2307/1267201) |
-| 1970 | perfect matchings | Mathematics | [Publication](https://doi.org/10.1137/1012106) |
-| 1970 | phase noise | Speech & Audio | [Publication](https://doi.org/10.21236/ada950720) |
-| 1970 | poisson point process | AI Infrastructure | [Publication](https://doi.org/10.1016/0025-5564(70)90061-1) |
-| 1970 | Power Analysis | Mathematics | [Publication](https://doi.org/10.2307/2529115) |
-| 1970 | radar receivers | Speech & Audio | [Publication](https://doi.org/10.1049/ep.1970.0223) |
-| 1970 | random access memories | AI Infrastructure | [Publication](https://doi.org/10.1109/isscc.1970.1154798) |
-| 1970 | real-time tasks | AI Foundations | [Publication](https://doi.org/10.1145/321574.321586) |
-| 1970 | Relative Error | Evaluation & Metrics | [Publication](https://doi.org/10.21236/ad0708691) |
-| 1970 | Riemann Integral | Mathematics | [Publication](https://doi.org/10.3126/bibechana.v7i0.4051) |
-| 1970 | Rotation Matrix | Mathematics | [Publication](https://doi.org/10.1177/003754977001500401) |
-| 1970 | Scaling Hypothesis | People & Organizations | [Publication](https://doi.org/10.1007/bf02824303) |
-| 1970 | security controls | AI Safety | [Publication](https://doi.org/10.7249/p4329) |
-| 1970 | shift registers | AI Safety | [Publication](https://doi.org/10.1109/iedm.1970.188211) |
-| 1970 | software complexity | Programming & Software | [Publication](https://doi.org/10.2495/sqm940251) |

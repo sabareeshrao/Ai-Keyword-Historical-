@@ -10,6 +10,81 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 1997 | ber performance | AI Infrastructure | [Publication](https://doi.org/10.1049/el:19970508) |
+| 1997 | Bias-Corrected Bootstrap | Mathematics | [Publication](https://doi.org/10.1080/10485259708832716) |
+| 1997 | biomedical signals | Data Science | [Publication](https://doi.org/10.1049/ic:19970031) |
+| 1997 | biometric techniques | AI Safety | [Publication](https://doi.org/10.1007/978-1-4471-0997-6_13) |
+| 1997 | bitstreams | Computer Vision | [Publication](https://doi.org/10.1049/cp:19971332) |
+| 1997 | block-based motion estimation | Computer Vision | [Publication](https://doi.org/10.1049/el:19970941) |
+| 1997 | blocking artifacts | Computer Vision | [Publication](https://doi.org/10.1109/30.580384) |
+| 1997 | broad-band access networks | AI Infrastructure | [Publication](https://doi.org/10.1109/68.634730) |
+| 1997 | business partners | AI Infrastructure | [Publication](https://doi.org/10.1515/9780691231129-010) |
+| 1997 | business process analysis | AI Infrastructure | [Publication](https://doi.org/10.1108/14637159710173096) |
+| 1997 | business process models | AI Infrastructure | [Publication](https://doi.org/10.1108/14637159710161567) |
+| 1997 | business processes | AI Infrastructure | [Publication](https://doi.org/10.1201/9781420048117.ch4) |
+| 1997 | cache architecture | AI Infrastructure | [Publication](https://doi.org/10.2307/3514391) |
+| 1997 | cache size | AI Infrastructure | [Publication](https://doi.org/10.1007/3-540-63371-5_46) |
+| 1997 | cbr systems | AI Foundations | [Publication](https://doi.org/10.1007/978-1-4615-6233-7_17) |
+| 1997 | cdma system | AI Infrastructure | [Publication](https://doi.org/10.1049/ic:19970713) |
+| 1997 | Challenge Set | Evaluation & Metrics | [Publication](https://doi.org/10.1046/j.1365-2397.1997.d01-175.x) |
+| 1997 | chaos control | AI Safety | [Publication](https://doi.org/10.1016/s0960-0779(96)00155-5) |
+| 1997 | chaotic map | AI Safety | [Publication](https://doi.org/10.1016/b978-044482327-4/50078-4) |
+| 1997 | class diagrams | Programming & Software | [Publication](https://doi.org/10.1007/3-540-63938-1_86) |
+| 1997 | Classical Planning | AI Foundations | [Publication](https://doi.org/10.1016/s0004-3702(96)00031-8) |
+| 1997 | collaborative learning activities | AI Infrastructure | [Publication](https://doi.org/10.1046/j.1365-2729.1997.00002.x) |
+| 1997 | color management | Computer Vision | [Publication](https://doi.org/10.2352/cic.1997.5.1.art00015) |
+| 1997 | common criteria | AI Safety | [Publication](https://doi.org/10.1007/978-3-322-86842-8_17) |
+| 1997 | component composition | Programming & Software | [Publication](https://doi.org/10.1007/978-3-662-03345-6_7) |
+| 1997 | Consistency of Treatment | AI Foundations | [Publication](https://doi.org/10.1007/bf03271975) |
+| 1997 | conventional-pi controller | Robotics | [Publication](https://doi.org/10.1016/s1474-6670(17)41203-1) |
+| 1997 | convolutional coding | Speech & Audio | [Publication](https://doi.org/10.1007/978-1-4613-0447-0_12) |
+| 1997 | Counterfactual | AI Foundations | [Publication](https://doi.org/10.1515/9780691215075-013) |
+| 1997 | cross language information retrieval | NLP and LLMs | [Publication](https://doi.org/10.6028/nist.sp.500-240.clir-overview) |
+| 1997 | Crowding Problem | Machine Learning | [Publication](https://doi.org/10.1016/s0169-2046(97)80001-1) |
+| 1997 | Data Augmentation | Data Science | [Publication](https://doi.org/10.1201/9780367803025-3) |
+| 1997 | diffie-hellman | AI Infrastructure | [Publication](https://doi.org/10.1016/s1353-4858(97)90084-2) |
+| 1997 | digital imaging and communications in medicine | Computer Vision | [Publication](https://doi.org/10.1007/bf03168637) |
+| 1997 | digital photography | Computer Vision | [Publication](https://doi.org/10.2352/cic.1997.5.1.art00020) |
+| 1997 | digital signatures | AI Safety | [Publication](https://doi.org/10.17487/rfc2154) |
+| 1997 | discrete logarithm problems | AI Safety | [Publication](https://doi.org/10.1007/bfb0028485) |
+| 1997 | dsp processor | Speech & Audio | [Publication](https://doi.org/10.1109/9780470544433) |
+| 1997 | edge crossing | Mathematics | [Publication](https://doi.org/10.1049/el:19971060) |
+| 1997 | edge detection methods | Speech & Audio | [Publication](https://doi.org/10.1117/12.275928) |
+| 1997 | electrostatic actuators | AI Infrastructure | [Publication](https://doi.org/10.1016/s0924-4247(97)80429-3) |
+| 1997 | embedded processors | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4757-6422-2_2) |
+| 1997 | Embodied agent | AI Foundations | [Publication](https://doi.org/10.1177/0038038597031004006) |
+| 1997 | error concealment | Computer Vision | [Publication](https://doi.org/10.1109/icce.1997.625854) |
+| 1997 | error floor | Mathematics | [Publication](https://doi.org/10.1007/978-1-4615-6237-5_5) |
+| 1997 | Exit Strategy | AI Foundations | [Publication](https://doi.org/10.21236/ada328399) |
+| 1997 | Expert Demonstration | Reinforcement Learning | [Publication](https://doi.org/10.1080/07303084.1997.10604962) |
+| 1997 | Expert Determination | Science & Healthcare AI | [Publication](https://doi.org/10.1016/s0267-3649(97)86897-5) |
+| 1997 | extranets | AI Safety | [Publication](https://doi.org/10.1109/mc.1997.589906) |
+| 1997 | FAccT | People & Organizations | [Publication](https://doi.org/10.1001/jama.1997.03550190022011) |
+| 1997 | feature-oriented programming | AI Infrastructure | [Publication](https://doi.org/10.1007/bfb0053389) |
+| 1997 | fingerprint matching | Computer Vision | [Publication](https://doi.org/10.6028/nist.ir.5955) |
+| 1997 | Finite Impulse Response Filter (FIR) | Signal & Information Theory | [Publication](https://doi.org/10.1016/s0963-8695(97)87313-6) |
+| 1997 | force sensors | Robotics | [Publication](https://doi.org/10.1016/s0924-4247(97)01534-3) |
+| 1997 | Forward chaining | AI Applications | [Publication](https://doi.org/10.21236/ada344500) |
+| 1997 | Fourier Term | Time Series & Forecasting | [Publication](https://doi.org/10.1016/s0301-0104(97)00095-5) |
+| 1997 | frequency offset | AI Infrastructure | [Publication](https://doi.org/10.1007/978-3-642-60582-6_28) |
+| 1997 | function point analysis | Programming & Software | [Publication](https://doi.org/10.1007/978-3-322-99929-0_4) |
+| 1997 | fusion rule | Computer Vision | [Publication](https://doi.org/10.1117/12.276123) |
+| 1997 | fuzzy cognitive maps | AI Foundations | [Publication](https://doi.org/10.21236/ada381723) |
+| 1997 | gaussian mixture modeling | Computer Vision | [Publication](https://doi.org/10.21437/eurospeech.1997-602) |
+| 1997 | Gestalt Principles | Cognitive Science | [Publication](https://doi.org/10.18778/0208-6077.36.08) |
+| 1997 | Glasser's choice theory | AI Foundations | [Publication](https://doi.org/10.1177/152574019701800208) |
+| 1997 | global navigation satellite systems | Robotics | [Publication](https://doi.org/10.1049/ic:19970911) |
+| 1997 | graph transformation | Mathematics | [Publication](https://doi.org/10.1142/3303) |
+| 1997 | Ground Truth | Data Science | [Publication](https://doi.org/10.1111/j.1467-9671.1997.tb00002.x) |
+| 1997 | haptic sensation | AI Applications | [Publication](https://doi.org/10.1007/978-1-4615-6379-2_56) |
+| 1997 | hardware-accelerated | AI Infrastructure | [Publication](https://doi.org/10.1145/258694.258706) |
+| 1997 | hidden terminal problems | AI Infrastructure | [Publication](https://doi.org/10.1145/263109.263137) |
+| 1997 | hmm-based speech synthesis | Speech & Audio | [Publication](https://doi.org/10.21437/eurospeech.1997-655) |
+| 1997 | home networks | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4615-6341-9_19) |
+| 1997 | hyperchaotic | Robotics | [Publication](https://doi.org/10.1063/1.54207) |
+| 1997 | ilp formulation | AI Infrastructure | [Publication](https://doi.org/10.1109/edtc.1997.582434) |
+| 1997 | Image Compression Artifact | Computer Vision | [Publication](https://doi.org/10.1117/12.263302) |
+| 1997 | image understanding | Computer Vision | [Publication](https://doi.org/10.1006/cviu.1996.0520) |
 | 1997 | Immutable Infrastructure | AI Infrastructure | [Publication](https://doi.org/10.1016/b978-044482332-8/50032-9) |
 | 1997 | impulse radio | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4757-2604-6_13) |
 | 1997 | infrared sensors | AI Infrastructure | [Publication](https://doi.org/10.1016/s0080-8784(08)62694-0) |
@@ -435,78 +510,3 @@
 | 1998 | incomplete information systems | AI Infrastructure | [Publication](https://doi.org/10.1016/s0020-0255(98)10019-1) |
 | 1998 | Independent Component Analysis (ICA) | Signal & Information Theory | [Publication](https://doi.org/10.1016/s0925-2312(98)00052-6) |
 | 1998 | information assets | AI Infrastructure | [Publication](https://doi.org/10.1177/0266382984236920) |
-| 1998 | Intelligent agent | AI Foundations | [Publication](https://doi.org/10.21236/ada359612) |
-| 1998 | Intelligent Tutoring System (ITS) | AI Applications | [Publication](https://doi.org/10.21236/ada337189) |
-| 1998 | internet telephony | AI Infrastructure | [Publication](https://doi.org/10.1108/10662249810368851) |
-| 1998 | iris patterns | Computer Vision | [Publication](https://doi.org/10.1016/s1363-4127(98)80016-2) |
-| 1998 | k-nn classifier | Machine Learning | [Publication](https://doi.org/10.5244/c.12.22) |
-| 1998 | kinematics analysis | Robotics | [Publication](https://doi.org/10.1007/978-94-015-9064-8) |
-| 1998 | Lagging Indicator | Data Science | [Publication](https://doi.org/10.2307/20048368) |
-| 1998 | layout algorithms | AI Applications | [Publication](https://doi.org/10.1201/9781420049503-c24) |
-| 1998 | learning bayesian networks | Speech & Audio | [Publication](https://doi.org/10.1007/978-94-011-5014-9_15) |
-| 1998 | Learning Curve Analysis | Machine Learning | [Publication](https://doi.org/10.1007/978-1-4615-5281-9_4) |
-| 1998 | least privilege | AI Safety | [Publication](https://doi.org/10.1109/coopis.1998.706199) |
-| 1998 | LeNet-5 | Computer Vision | [Publication](https://doi.org/10.1109/5.726791) |
-| 1998 | level set approach | Computer Vision | [Publication](https://doi.org/10.21711/231766361998/rmc1512) |
-| 1998 | Linear Discriminant Analysis (LDA) | Machine Learning | [Publication](https://doi.org/10.21437/icslp.1998-528) |
-| 1998 | Linear Predictive Coding (LPC) | Signal & Information Theory | [Publication](https://doi.org/10.1007/978-3-642-76220-8_5) |
-| 1998 | linear spectral unmixing | Computer Vision | [Publication](https://doi.org/10.1109/igarss.1998.699577) |
-| 1998 | live video streaming | AI Infrastructure | [Publication](https://doi.org/10.1109/icce.1998.678362) |
-| 1998 | location management | AI Infrastructure | [Publication](https://doi.org/10.1007/978-1-4615-5527-8_5) |
-| 1998 | logistics network | Mathematics | [Publication](https://doi.org/10.1007/978-1-4615-5277-2_3) |
-| 1998 | Loss Aversion | Cognitive Science | [Publication](https://doi.org/10.2139/ssrn.58442) |
-| 1998 | loss of heterozygosity | Data Science | [Publication](https://doi.org/10.1046/j.1365-2133.1998.02551.x) |
-| 1998 | low-dimensional spaces | Machine Learning | [Publication](https://doi.org/10.1007/s002220050261) |
-| 1998 | materialized views | Machine Learning | [Publication](https://doi.org/10.1145/273244.273253) |
-| 1998 | max-min ant system | Mathematics | [Publication](https://doi.org/10.1007/978-3-7091-6492-1_54) |
-| 1998 | mC4 | Datasets & Benchmarks | [Publication](https://doi.org/10.1046/j.1365-2826.1998.00180.x) |
-| 1998 | media access control | AI Safety | [Publication](https://doi.org/10.1007/978-0-387-35378-4_7) |
-| 1998 | medical image registration | Computer Vision | [Publication](https://doi.org/10.1016/s1361-8415(01)80026-8) |
-| 1998 | Medical Imaging Modality | Science & Healthcare AI | [Publication](https://doi.org/10.1063/1.56388) |
-| 1998 | membership degrees | Machine Learning | [Publication](https://doi.org/10.1080/014311698214271) |
-| 1998 | Microsoft Research | People & Organizations | [Publication](https://doi.org/10.1109/2.641977) |
-| 1998 | mobile agent technology | Agentic AI | [Publication](https://doi.org/10.1007/bfb0057643) |
-| 1998 | mobile internet | AI Infrastructure | [Publication](https://doi.org/10.1007/978-94-011-4918-1_20) |
-| 1998 | mobile ip | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc2344) |
-| 1998 | mode-locked lasers | AI Infrastructure | [Publication](https://doi.org/10.21236/ada358227) |
-| 1998 | model checkers | Programming & Software | [Publication](https://doi.org/10.1007/bfb0028733) |
-| 1998 | molecular computing | AI Applications | [Publication](https://doi.org/10.1007/978-3-662-03563-4_3) |
-| 1998 | motion vector | Computer Vision | [Publication](https://doi.org/10.1007/s11767-998-0017-8) |
-| 1998 | moving object | Computer Vision | [Publication](https://doi.org/10.1016/s0165-1684(98)00007-3) |
-| 1998 | multi-standard | AI Infrastructure | [Publication](https://doi.org/10.1049/ic:19980566) |
-| 1998 | multi-temporal | Speech & Audio | [Publication](https://doi.org/10.4018/jdm.1998010102) |
-| 1998 | multicast scheduling | AI Infrastructure | [Publication](https://doi.org/10.1023/a:1019085415942) |
-| 1998 | multiple classifiers | Machine Learning | [Publication](https://doi.org/10.1049/ic:19980682) |
-| 1998 | multiplicative updates | Mathematics | [Publication](https://doi.org/10.1111/1467-9965.00058) |
-| 1998 | naive bayesian classifier | AI Foundations | [Publication](https://doi.org/10.1007/bfb0026690) |
-| 1998 | navigation patterns | Machine Learning | [Publication](https://doi.org/10.1037/e492932004-001) |
-| 1998 | network attacks | AI Infrastructure | [Publication](https://doi.org/10.1016/s1353-4858(98)90088-5) |
-| 1998 | node movement | AI Infrastructure | [Publication](https://doi.org/10.1016/s0168-9274(97)00085-8) |
-| 1998 | object constraint language | Programming & Software | [Publication](https://doi.org/10.1007/978-3-540-49524-6_35) |
-| 1998 | olap | Machine Learning | [Publication](https://doi.org/10.1007/978-0-387-35300-5_1) |
-| 1998 | onion routing | AI Safety | [Publication](https://doi.org/10.21236/ada465335) |
-| 1998 | optical access network | AI Infrastructure | [Publication](https://doi.org/10.1364/ona.1998.sm2) |
-| 1998 | optical packet switches | AI Infrastructure | [Publication](https://doi.org/10.1109/50.736577) |
-| 1998 | Outcome Bias | AI Foundations | [Publication](https://doi.org/10.1001/jama.280.3.254) |
-| 1998 | overlay networks | AI Infrastructure | [Publication](https://doi.org/10.1023/a:1019197320544) |
-| 1998 | parallel corpora | NLP and LLMs | [Publication](https://doi.org/10.1007/3-540-49478-2_1) |
-| 1998 | parallel interference cancellation | Speech & Audio | [Publication](https://doi.org/10.1109/26.659484) |
-| 1998 | Partial Function | Programming & Software | [Publication](https://doi.org/10.14236/ewic/nfm1998.7) |
-| 1998 | particle image velocimetry | AI Applications | [Publication](https://doi.org/10.1007/978-3-662-03637-2) |
-| 1998 | path relinking | Mathematics | [Publication](https://doi.org/10.1007/bfb0026589) |
-| 1998 | Per-Protocol Analysis | Mathematics | [Publication](https://doi.org/10.1016/s0895-7061(97)91616-2) |
-| 1998 | perfusion weighted imaging | Computer Vision | [Publication](https://doi.org/10.1002/ana.410430108) |
-| 1998 | Phase III Trial | Science & Healthcare AI | [Publication](https://doi.org/10.1016/s0140-6736(05)78751-1) |
-| 1998 | probabilistic model | AI Foundations | [Publication](https://doi.org/10.1016/s0266-8920(97)00029-5) |
-| 1998 | protocol testing | AI Infrastructure | [Publication](https://doi.org/10.1007/978-0-387-35394-4_21) |
-| 1998 | Public Service Delivery | AI Applications | [Publication](https://doi.org/10.14217/9781848596566-3-en) |
-| 1998 | quadruped robot | Robotics | [Publication](https://doi.org/10.1007/978-1-4615-5735-7_2) |
-| 1998 | quality of service routing | AI Infrastructure | [Publication](https://doi.org/10.1117/12.333731) |
-| 1998 | query execution | AI Foundations | [Publication](https://doi.org/10.1145/276305.276315) |
-| 1998 | Query Rewriting | NLP and LLMs | [Publication](https://doi.org/10.1007/978-1-4757-6132-0_4) |
-| 1998 | race detection | AI Infrastructure | [Publication](https://doi.org/10.1145/281035.281040) |
-| 1998 | rate distortion optimization | Computer Vision | [Publication](https://doi.org/10.1109/79.733497) |
-| 1998 | rational unified process | Programming & Software | [Publication](https://openalex.org/W1562934601) |
-| 1998 | real time streaming | AI Infrastructure | [Publication](https://doi.org/10.17487/rfc2326) |
-| 1998 | real-time java | AI Foundations | [Publication](https://doi.org/10.1007/978-1-4471-0607-4_18) |
-| 1998 | reconfigurable logic | AI Infrastructure | [Publication](https://doi.org/10.1016/b978-075069089-8/50023-2) |

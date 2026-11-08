@@ -10,6 +10,81 @@
 
 | Year | Keyword | Field | Reference |
 |---|---|---|---|
+| 2007 ★★ | Chromatic Aberration | Computer Vision | [Indirect context](https://doi.org/10.1109/visual.1999.809934) — NOT keyword evidence |
+| 2007 ★★ | Classifier-Based Prevention | Generative AI | [Indirect context](https://doi.org/10.48550/arxiv.2111.11755) — NOT keyword evidence |
+| 2007 ★★ | Closing | Computer Vision | [Indirect context](https://doi.org/10.1109/visual.1999.809934) — NOT keyword evidence |
+| 2007 ★★ | cloud software architecture | Programming & Software | [Indirect context](https://doi.org/10.1145/243327.243616) — NOT keyword evidence |
+| 2007 ★★ | Coefficient Path | Machine Learning | [Indirect context](https://doi.org/10.5539/cis.v3n3p139) — NOT keyword evidence |
+| 2007 ★★ | Collective Constitutional Process | AI Safety | [Indirect context](https://doi.org/10.21236/ada399291) — NOT keyword evidence |
+| 2007 ★★ | Collider Bias | Causal Inference | [Indirect context](https://doi.org/10.2172/1156107) — NOT keyword evidence |
+| 2007 ★★ | computer interfaces | AI Applications | [Indirect context](https://doi.org/10.4016/17526.02) — NOT keyword evidence |
+| 2007 ★★ | Conditional Average Treatment Effect (CATE) | Causal Inference | [Indirect context](https://doi.org/10.1097/01.ede.0001281556.60346.3b) — NOT keyword evidence |
+| 2007 ★★ | Constitutional Feedback | Deep Learning | [Indirect context](https://doi.org/10.1080/0268051870020210) — NOT keyword evidence |
+| 2007 ★★ | Context Compression for Handoff | Agentic AI | [Indirect context](https://openalex.org/W1606953218) — NOT keyword evidence |
+| 2007 ★★ | Conversational Context in Search | Information Retrieval | [Indirect context](https://doi.org/10.2139/ssrn.7415278) — NOT keyword evidence |
+| 2007 ★★ | corner point | Computer Vision | [Indirect context](https://doi.org/10.1201/b12168-68) — NOT keyword evidence |
+| 2007 ★★ | Cost per Token | AI Infrastructure | [Indirect context](https://openalex.org/W214233786) — NOT keyword evidence |
+| 2007 ★★ | Coverage at Target Accuracy | Evaluation & Metrics | [Indirect context](https://doi.org/10.1109/icpr.2010.764) — NOT keyword evidence |
+| 2007 ★★ | Crescendo Attack | AI Safety | [Indirect context](https://doi.org/10.48550/arxiv.1806.02371) — NOT keyword evidence |
+| 2007 ★★ | curvelets | Computer Vision | [Indirect context](https://doi.org/10.1109/icip.2006.312654) — NOT keyword evidence |
+| 2007 ★★ | Cyber Capability Evaluation | AI Safety | [Indirect context](https://doi.org/10.1108/ijse-2012-0136) — NOT keyword evidence |
+| 2007 ★★ | Data Mesh | Data Science | [Indirect context](https://doi.org/10.1109/mwsym.2006.249946) — NOT keyword evidence |
+| 2007 ★★ | Data Migration Validation | AI Foundations | [Indirect context](https://doi.org/10.1016/0140-3664(88)90094-1) — NOT keyword evidence |
+| 2007 ★★ | Dehazing | Computer Vision | [Indirect context](https://doi.org/10.1109/visual.1999.809934) — NOT keyword evidence |
+| 2007 ★★ | Design Matrix | Machine Learning | [Indirect context](https://doi.org/10.1016/0014-5793(79)81030-3) — NOT keyword evidence |
+| 2007 ★★ | Dilation | Computer Vision | [Indirect context](https://doi.org/10.1109/visual.1999.809934) — NOT keyword evidence |
+| 2007 ★★ | Discriminator Overfitting | Generative AI | [Indirect context](https://doi.org/10.1002/jor.25325) — NOT keyword evidence |
+| 2007 ★★ | Drift in SLAM | Computer Vision | [Indirect context](https://doi.org/10.1109/visual.1999.809934) — NOT keyword evidence |
+| 2007 ★★ | Encoding Attack | AI Safety | [Indirect context](https://doi.org/10.48550/arxiv.1806.02371) — NOT keyword evidence |
+| 2007 ★★ | enterprise architecture | AI Infrastructure | [Indirect context](https://doi.org/10.1080/17517570601092127) — NOT keyword evidence |
+| 2007 ★★ | EXIF Orientation | Computer Vision | [Indirect context](https://doi.org/10.1109/visual.1999.809934) — NOT keyword evidence |
+| 2007 ★★ | Explainability Requirement | AI Foundations | [Indirect context](https://doi.org/10.31859/20180401.0600) — NOT keyword evidence |
+| 2007 ★★ | face representations | Machine Learning | [Indirect context](https://doi.org/10.1145/1186415.1186516) — NOT keyword evidence |
+| 2007 ★★ | False Positive (FP) | Evaluation & Metrics | [Indirect context](https://doi.org/10.1017/ash.2025.430) — NOT keyword evidence |
+| 2007 ★★ | Feature | AI Foundations | [Indirect context](https://doi.org/10.21437/interspeech.2007-540) — NOT keyword evidence |
+| 2007 ★★ | Feature Crossing in Recommenders | Recommender Systems | [Indirect context](https://doi.org/10.1109/ichis.2005.109) — NOT keyword evidence |
+| 2007 ★★ | Feedback Loop in Recommenders | Recommender Systems | [Indirect context](https://doi.org/10.1109/ichis.2005.109) — NOT keyword evidence |
+| 2007 ★★ | Filter Query | Information Retrieval | [Indirect context](https://openalex.org/W1583059097) — NOT keyword evidence |
+| 2007 ★★ | Follow-Up Query | Information Retrieval | [Indirect context](https://doi.org/10.1109/ccwc57344.2023.10099305) — NOT keyword evidence |
+| 2007 ★★ | Foreign Key | Data Science | [Indirect context](https://doi.org/10.1007/978-1-4757-4547-4_7) — NOT keyword evidence |
+| 2007 ★★ | Frame Budget | Computer Graphics | [Indirect context](https://doi.org/10.1142/9789812708823_0012) — NOT keyword evidence |
+| 2007 ★★ | Fréchet Inception Distance (FID) | Computer Vision | [Indirect context](https://doi.org/10.1109/visual.1999.809934) — NOT keyword evidence |
+| 2007 ★★ | Goal Programming | Mathematics | [Indirect context](https://doi.org/10.1109/geoinformatics.2009.5293538) — NOT keyword evidence |
+| 2007 ★★ | Goodhart's Law in Alignment | Deep Learning | [Indirect context](https://doi.org/10.1109/tpami.2022.3216518) — NOT keyword evidence |
+| 2007 ★★ | gpu computing | AI Infrastructure | [Indirect context](https://doi.org/10.1007/979-8-8688-2083-0_4) — NOT keyword evidence |
+| 2007 ★★ | Greedy Algorithm | Mathematics | [Indirect context](https://doi.org/10.1007/978-3-642-24455-1_33) — NOT keyword evidence |
+| 2007 ★★ | Green Screen Keying | Computer Vision | [Indirect context](https://doi.org/10.1109/visual.1999.809934) — NOT keyword evidence |
+| 2007 ★★ | grey models | AI Foundations | [Indirect context](https://doi.org/10.3724/sp.j.1087.2008.00686) — NOT keyword evidence |
+| 2007 ★★ | grey prediction model | AI Foundations | [Indirect context](https://doi.org/10.1109/gsis.2007.4443364) — NOT keyword evidence |
+| 2007 ★★ | grey relation | AI Foundations | [Indirect context](https://doi.org/10.1287/mnsc.21.10.1206) — NOT keyword evidence |
+| 2007 ★★ | Guardrail Layer | AI Infrastructure | [Indirect context](https://doi.org/10.1002/9781119978589.ch10) — NOT keyword evidence |
+| 2007 ★★ | Handoff Context | Agentic AI | [Indirect context](https://openalex.org/W1606953218) — NOT keyword evidence |
+| 2007 ★★ | Hash Collision in Embeddings | Recommender Systems | [Indirect context](https://doi.org/10.1002/9780470612309.ch23) — NOT keyword evidence |
+| 2007 ★★ | Head Query | Information Retrieval | [Indirect context](https://doi.org/10.1109/ccwc57344.2023.10099305) — NOT keyword evidence |
+| 2007 ★★ | Implicit Negative Feedback | Recommender Systems | [Indirect context](https://doi.org/10.20955/r.75.23-40) — NOT keyword evidence |
+| 2007 ★★ | Implicit Surface | Computer Vision | [Indirect context](https://doi.org/10.1109/visual.1999.809934) — NOT keyword evidence |
+| 2007 ★★ | Independent Causal Mechanisms | Causal Inference | [Indirect context](https://doi.org/10.1080/1356346032000078723) — NOT keyword evidence |
+| 2007 ★★ | Indirect Effect | Causal Inference | [Indirect context](https://doi.org/10.3386/w13341) — NOT keyword evidence |
+| 2007 ★★ | Individual Treatment Effect (ITE) | Causal Inference | [Indirect context](https://doi.org/10.1097/01.ede.0001281556.60346.3b) — NOT keyword evidence |
+| 2007 ★★ | information overload | AI Infrastructure | [Indirect context](https://doi.org/10.1159/000286649) — NOT keyword evidence |
+| 2007 ★★ | Information Value (IV) | AI Applications | [Indirect context](https://doi.org/10.1007/978-1-4612-1460-1_3) — NOT keyword evidence |
+| 2007 ★★ | Interaction-Aware Prediction | Computer Vision | [Indirect context](https://doi.org/10.1109/ivs.2014.6856480) — NOT keyword evidence |
+| 2007 ★★ | Intermediate Layer Selection | Computer Vision | [Indirect context](https://doi.org/10.1109/visual.1999.809934) — NOT keyword evidence |
+| 2007 ★★ | Interoperability in Health | Science & Healthcare AI | [Indirect context](https://doi.org/10.1016/s0033-3549(04)50182-6) — NOT keyword evidence |
+| 2007 ★★ | Intersection over Union (IoU) | Computer Vision | [Indirect context](https://doi.org/10.1109/visual.1999.809934) — NOT keyword evidence |
+| 2007 ★★ | Invariant Causal Prediction (ICP) | Causal Inference | [Indirect context](https://doi.org/10.7551/mitpress/2006.003.0007) — NOT keyword evidence |
+| 2007 ★★ | Irreducible Loss | Machine Learning | [Indirect context](https://doi.org/10.1109/tcom.1968.1089905) — NOT keyword evidence |
+| 2007 ★★ | Isolation Forest | Machine Learning | [Indirect context](https://doi.org/10.4135/9781526469144) — NOT keyword evidence |
+| 2007 ★★ | Key | Deep Learning | [Indirect context](https://doi.org/10.6028/nist.sp.500-321.clinical-prna) — NOT keyword evidence |
+| 2007 ★★ | Learned Dynamics Model | Reinforcement Learning | [Indirect context](https://doi.org/10.1108/k.2006.06735aae.005) — NOT keyword evidence |
+| 2007 ★★ | Learned Perceptual Image Patch Similarity (LPIPS) | Computer Vision | [Indirect context](https://doi.org/10.1109/visual.1999.809934) — NOT keyword evidence |
+| 2007 ★★ | Linear Evaluation Protocol | Computer Vision | [Indirect context](https://doi.org/10.1109/visual.1999.809934) — NOT keyword evidence |
+| 2007 ★★ | Loss Spike Recovery | Machine Learning | [Indirect context](https://doi.org/10.1109/icmew.2017.8026311) — NOT keyword evidence |
+| 2007 ★★ | mean filter | Computer Vision | [Indirect context](https://doi.org/10.1109/ism.2011.88) — NOT keyword evidence |
+| 2007 ★★ | Mesh | Computer Vision | [Indirect context](https://doi.org/10.1109/mwsym.2006.249946) — NOT keyword evidence |
+| 2007 ★★ | mesh network | AI Infrastructure | [Indirect context](https://doi.org/10.1109/apace.2007.4603958) — NOT keyword evidence |
+| 2007 ★★ | mesh nodes | AI Infrastructure | [Indirect context](https://doi.org/10.1109/apace.2007.4603958) — NOT keyword evidence |
+| 2007 ★★ | mesh routers | AI Infrastructure | [Indirect context](https://doi.org/10.1145/232973.232998) — NOT keyword evidence |
 | 2007 ★★ | mobile cellular networks | AI Infrastructure | [Indirect context](https://doi.org/10.1007/s11276-010-0308-5) — NOT keyword evidence |
 | 2007 ★★ | mobile learning | AI Infrastructure | [Indirect context](https://doi.org/10.4018/978-1-59140-989-2.ch136) — NOT keyword evidence |
 | 2007 ★★ | mobile network | AI Infrastructure | [Indirect context](https://doi.org/10.1007/978-3-540-28634-9_28) — NOT keyword evidence |
@@ -435,78 +510,3 @@
 | 2008 ★★ | ieee 802.11 mac | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tmc.2006.25) — NOT keyword evidence |
 | 2008 ★★ | ieee 802.11 standards | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tmc.2006.25) — NOT keyword evidence |
 | 2008 ★★ | ieee 802.11s | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tmc.2006.25) — NOT keyword evidence |
-| 2008 ★★ | ieee 802.15.3a | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tmc.2006.25) — NOT keyword evidence |
-| 2008 ★★ | ieee 802.15.4 standards | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tmc.2006.25) — NOT keyword evidence |
-| 2008 ★★ | ieee 802.15.4a | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tmc.2006.25) — NOT keyword evidence |
-| 2008 ★★ | ieee 802.16 standards | AI Infrastructure | [Indirect context](https://doi.org/10.1109/tmc.2006.25) — NOT keyword evidence |
-| 2008 ★★ | ieee 802.16j | Speech & Audio | [Indirect context](https://doi.org/10.1109/tmc.2006.25) — NOT keyword evidence |
-| 2008 ★★ | ieee 802.22 | AI Foundations | [Indirect context](https://doi.org/10.1109/tmc.2006.25) — NOT keyword evidence |
-| 2008 ★★ | Image Captioning Metric | Computer Vision | [Indirect context](https://doi.org/10.1109/cvpr.2017.548) — NOT keyword evidence |
-| 2008 ★★ | Image Normalization Statistics | Computer Vision | [Indirect context](https://doi.org/10.1109/isspit.2006.270885) — NOT keyword evidence |
-| 2008 ★★ | Image Preprocessing Chain | Computer Vision | [Indirect context](https://doi.org/10.1080/00401706.2015.1102764) — NOT keyword evidence |
-| 2008 ★★ | Image Recognition | Computer Vision | [Indirect context](https://doi.org/10.3724/sp.j.1001.2008.01623) — NOT keyword evidence |
-| 2008 ★★ | Initialization Scale Sensitivity | Machine Learning | [Indirect context](https://doi.org/10.21437/interspeech.2008-4) — NOT keyword evidence |
-| 2008 ★★ | integral sliding mode | Robotics | [Indirect context](https://doi.org/10.1109/chicc.2008.4605396) — NOT keyword evidence |
-| 2008 ★★ | inter-domain traffic | AI Infrastructure | [Indirect context](https://doi.org/10.1109/apmc.2008.4958110) — NOT keyword evidence |
-| 2008 ★★ | knowledge graphs management | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-3-319-45654-6_6) — NOT keyword evidence |
-| 2008 ★★ | Lagrangian Safe RL | Reinforcement Learning | [Indirect context](https://doi.org/10.1109/adprl.2011.5967356) — NOT keyword evidence |
-| 2008 ★★ | landmine detection | Speech & Audio | [Indirect context](https://doi.org/10.1109/78.875470) — NOT keyword evidence |
-| 2008 ★★ | Lane Detection | Computer Vision | [Indirect context](https://doi.org/10.1109/icsip49896.2020.9339250) — NOT keyword evidence |
-| 2008 ★★ | Layer-Wise Feature Quality | Computer Vision | [Indirect context](https://doi.org/10.1007/978-3-031-02238-8_4) — NOT keyword evidence |
-| 2008 ★★ | learning experiences | AI Infrastructure | [Indirect context](https://doi.org/10.1016/j.neunet.2012.11.007) — NOT keyword evidence |
-| 2008 ★★ | License Compatibility of Suggestions | Programming & Software | [Indirect context](https://doi.org/10.1016/0165-1765(94)90042-6) — NOT keyword evidence |
-| 2008 ★★ | Limit | Mathematics | [Indirect context](https://doi.org/10.1109/icmel.2008.4559226) — NOT keyword evidence |
-| 2008 ★★ | Linear Probe | Machine Learning | [Indirect context](https://doi.org/10.1049/cp:19991230) — NOT keyword evidence |
-| 2008 ★★ | Liveness Detection | Computer Vision | [Indirect context](https://doi.org/10.1109/icsip49896.2020.9339250) — NOT keyword evidence |
-| 2008 ★★ | Locally recoverable code | AI Foundations | [Indirect context](https://doi.org/10.1145/336595.337493) — NOT keyword evidence |
-| 2008 ★★ | Logical Qubit | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1007/s11128-015-1150-6) — NOT keyword evidence |
-| 2008 ★★ | low resolution | Computer Vision | [Indirect context](https://doi.org/10.1117/12.186041) — NOT keyword evidence |
-| 2008 ★★ | Low-Resource Speech | Speech & Audio | [Indirect context](https://doi.org/10.1080/03637757309375813) — NOT keyword evidence |
-| 2008 ★★ | Mean Field Limit | Deep Learning | [Indirect context](https://doi.org/10.1214/23-aap1933) — NOT keyword evidence |
-| 2008 ★★ | Mean Opinion Score (MOS) | Speech & Audio | [Indirect context](https://doi.org/10.1109/ism.2011.88) — NOT keyword evidence |
-| 2008 ★★ | Mean Time to Detection (MTTD) | AI Infrastructure | [Indirect context](https://doi.org/10.46254/an13.20230039) — NOT keyword evidence |
-| 2008 ★★ | memetic | AI Foundations | [Indirect context](https://doi.org/10.1007/s12293-008-0006-3) — NOT keyword evidence |
-| 2008 ★★ | Memory Provenance | Agentic AI | [Indirect context](https://doi.org/10.1007/978-1-4684-0730-3_23) — NOT keyword evidence |
-| 2008 ★★ | Monitoring Coverage Gap | AI Infrastructure | [Indirect context](https://doi.org/10.1515/9781400828326-008) — NOT keyword evidence |
-| 2008 ★★ | multi resolution decomposition | Computer Vision | [Indirect context](https://doi.org/10.1016/b978-0-12-047140-9.50008-1) — NOT keyword evidence |
-| 2008 ★★ | Multi-Armed Bandit Deployment | AI Infrastructure | [Indirect context](https://doi.org/10.66838/sauc.6517) — NOT keyword evidence |
-| 2008 ★★ | multi-threaded | AI Infrastructure | [Indirect context](https://doi.org/10.1109/ceej.1980.6594356) — NOT keyword evidence |
-| 2008 ★★ | multi-threaded application | AI Infrastructure | [Indirect context](https://doi.org/10.1109/ceej.1980.6594356) — NOT keyword evidence |
-| 2008 ★★ | Multilingual Speech Model | Speech & Audio | [Indirect context](https://doi.org/10.1080/03637757309375813) — NOT keyword evidence |
-| 2008 ★★ | named entities | NLP and LLMs | [Indirect context](https://doi.org/10.3115/1557769.1557784) — NOT keyword evidence |
-| 2008 ★★ | named entity | NLP and LLMs | [Indirect context](https://doi.org/10.3115/1557769.1557784) — NOT keyword evidence |
-| 2008 ★★ | Next Sentence Prediction (NSP) | NLP and LLMs | [Indirect context](https://doi.org/10.1023/a:1008010319408) — NOT keyword evidence |
-| 2008 ★★ | Object Permanence in Tracking | Computer Vision | [Indirect context](https://doi.org/10.1109/iccce50029.2021.9467144) — NOT keyword evidence |
-| 2008 ★★ | Obligation Tracking | AI Applications | [Indirect context](https://doi.org/10.59350/3setn-0k237) — NOT keyword evidence |
-| 2008 ★★ | On-Device Speech Processing | Speech & Audio | [Indirect context](https://doi.org/10.1080/03637757309375813) — NOT keyword evidence |
-| 2008 ★★ | ontology concepts | Information Retrieval | [Indirect context](https://doi.org/10.1016/s0004-3702(83)80005-8) — NOT keyword evidence |
-| 2008 ★★ | ontology design | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-3-662-04396-7_2) — NOT keyword evidence |
-| 2008 ★★ | ontology development | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-3-662-04396-7_2) — NOT keyword evidence |
-| 2008 ★★ | ontology modeling | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-3-662-04396-7_2) — NOT keyword evidence |
-| 2008 ★★ | ontology technology | Information Retrieval | [Indirect context](https://doi.org/10.1007/978-3-662-04396-7_2) — NOT keyword evidence |
-| 2008 ★★ | Ordinal Encoding | Machine Learning | [Indirect context](https://doi.org/10.1111/j.1467-8640.1993.tb00299.x) — NOT keyword evidence |
-| 2008 ★★ | Overconfidence in Classifiers | Machine Learning | [Indirect context](https://doi.org/10.1016/j.patrec.2005.03.005) — NOT keyword evidence |
-| 2008 ★★ | Parallel Sampling | Deep Learning | [Indirect context](https://doi.org/10.1109/rfts.1991.212938) — NOT keyword evidence |
-| 2008 ★★ | Parameterized Quantum Circuit (PQC) | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1201/9781420012293.ch4) — NOT keyword evidence |
-| 2008 ★★ | Parity Bit | Signal & Information Theory | [Indirect context](https://doi.org/10.5194/gmd-2016-3-rc2) — NOT keyword evidence |
-| 2008 ★★ | Pathological Speech Analysis | Speech & Audio | [Indirect context](https://doi.org/10.1080/03637757309375813) — NOT keyword evidence |
-| 2008 ★★ | Pipeline Idempotency Check | AI Infrastructure | [Indirect context](https://doi.org/10.3233/jcs-2007-0306) — NOT keyword evidence |
-| 2008 ★★ | privacy preservation | Machine Learning | [Indirect context](https://doi.org/10.1109/msecp.2003.1193206) — NOT keyword evidence |
-| 2008 ★★ | privacy preserving | Machine Learning | [Indirect context](https://doi.org/10.4018/978-1-59140-557-3.ch189) — NOT keyword evidence |
-| 2008 ★★ | Quantum Computing | AI Foundations | [Indirect context](https://doi.org/10.1201/b15868-6) — NOT keyword evidence |
-| 2008 ★★ | Qubit | Quantum & Emerging Compute | [Indirect context](https://doi.org/10.1007/s11128-015-1150-6) — NOT keyword evidence |
-| 2008 ★★ | race | Data Science | [Indirect context](https://doi.org/10.64628/aai.mjdpnfjtu) — NOT keyword evidence |
-| 2008 ★★ | Ranked Probability Score (RPS) | Evaluation & Metrics | [Indirect context](https://doi.org/10.1175/2007waf2006116.1) — NOT keyword evidence |
-| 2008 ★★ | Relation network (RN) | AI Foundations | [Indirect context](https://doi.org/10.63317/4vqsnirkgvgm) — NOT keyword evidence |
-| 2008 ★★ | Reward Model (RM) | AI Foundations | [Indirect context](https://doi.org/10.1109/is.2008.4670492) — NOT keyword evidence |
-| 2008 ★★ | Risk Parity | AI Applications | [Indirect context](https://doi.org/10.2139/ssrn.392603) — NOT keyword evidence |
-| 2008 ★★ | role-playing game | AI Applications | [Indirect context](https://doi.org/10.1016/b978-008045089-6.50026-5) — NOT keyword evidence |
-| 2008 ★★ | salt removal | Computer Vision | [Indirect context](https://doi.org/10.1049/el:20070827) — NOT keyword evidence |
-| 2008 ★★ | Sampling for Observability | AI Infrastructure | [Indirect context](https://doi.org/10.2737/pnw-gtr-746) — NOT keyword evidence |
-| 2008 ★★ | scholarly ontologies | Information Retrieval | [Indirect context](https://doi.org/10.1007/s00799-016-0169-3) — NOT keyword evidence |
-| 2008 ★★ | secondary system | AI Foundations | [Indirect context](https://doi.org/10.1007/978-1-4419-9863-7_101328) — NOT keyword evidence |
-| 2008 ★★ | Security by Default | AI Foundations | [Indirect context](https://doi.org/10.1007/978-3-662-05689-9_11) — NOT keyword evidence |
-| 2008 ★★ | Self-Supervised Speech Pretraining | Speech & Audio | [Indirect context](https://doi.org/10.1080/03637757309375813) — NOT keyword evidence |
-| 2008 ★★ | Semantic Speech Token | Speech & Audio | [Indirect context](https://doi.org/10.4204/eptcs.176.6) — NOT keyword evidence |
-| 2008 ★★ | sentence similarity | NLP and LLMs | [Indirect context](https://doi.org/10.1023/a:1008010319408) — NOT keyword evidence |
-| 2008 ★★ | Sentence-BERT (SBERT) | NLP and LLMs | [Indirect context](https://doi.org/10.1023/a:1008010319408) — NOT keyword evidence |
