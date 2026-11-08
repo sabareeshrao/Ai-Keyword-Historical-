@@ -18,7 +18,7 @@ assert report["added"]==10000 and report["inventory_total"]==20100
 lines=[
 f"# AI Keyword Historical — {len(rows):,} keyword inventory",
 "",
-"**Current inventory: {len(rows):,} terms**, comprising 100 early seed records, four original 5,000-term imports, and {additional:,} researched historical/modern gap additions. Historical planning target was 21,000, not a verified census.",
+f"**Current inventory: {len(rows):,} terms**, comprising 100 early seed records, four original 5,000-term imports, and {additional:,} researched historical/modern gap additions. Historical planning target was 21,000, not a verified census.",
 "",
 "> **Research status:** First-use historical dates remain unverified, and individual relevance of source-derived technical terms needs expert review. A source ontology topic is not proof that the term originated on any particular date.",
 "",
