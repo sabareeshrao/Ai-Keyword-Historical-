@@ -113,9 +113,9 @@ for n in range(1,5):
 lines += [
 f"| **Total** | **{len(rows):,}** | **40 base 500-row tables + original 100 + {additional:,} gap additions** | |",
 "",
-**[Browse all base and gap-addition keyword tables](tables/README.md)**. Each of the 40 pages lists all 500 records as a table with permanent ID, term, category, subfield, and source-documented date where available; original first-use dates remain unverified.",
+"**[Browse all base and gap-addition keyword tables](tables/README.md)**. The four original import sets remain in 40 complete 500-row tables; new cross-era gap terms are in a separate audited table. Publication dates are not verified first-use dates.",
 "",
-"**[Master keyword CSV — all 20,100 records](data/KEYWORD_INVENTORY.csv)**",
+f"**[Master keyword CSV — all {len(rows):,} records](data/KEYWORD_INVENTORY.csv)**",
 "",
 "## Provenance and QA",
 "",
